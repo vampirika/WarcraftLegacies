@@ -45,12 +45,6 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.ArtifactSystem.Artifact.ArtifactHolderAbilId
   nameWithType: Artifact.ArtifactHolderAbilId
-- uid: AzerothWarsCSharp.MacroTools.ArtifactSystem.Artifact.CarrierOwnerChanged
-  name: CarrierOwnerChanged
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.ArtifactSystem.Artifact.html#AzerothWarsCSharp_MacroTools_ArtifactSystem_Artifact_CarrierOwnerChanged
-  commentId: E:AzerothWarsCSharp.MacroTools.ArtifactSystem.Artifact.CarrierOwnerChanged
-  fullName: AzerothWarsCSharp.MacroTools.ArtifactSystem.Artifact.CarrierOwnerChanged
-  nameWithType: Artifact.CarrierOwnerChanged
 - uid: AzerothWarsCSharp.MacroTools.ArtifactSystem.Artifact.DescriptionChanged
   name: DescriptionChanged
   href: api-macroTools/AzerothWarsCSharp.MacroTools.ArtifactSystem.Artifact.html#AzerothWarsCSharp_MacroTools_ArtifactSystem_Artifact_DescriptionChanged
@@ -153,12 +147,6 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.ArtifactSystem.Artifact.LocationType
   nameWithType: Artifact.LocationType
-- uid: AzerothWarsCSharp.MacroTools.ArtifactSystem.Artifact.OnArtifactFactionChange
-  name: OnArtifactFactionChange
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.ArtifactSystem.Artifact.html#AzerothWarsCSharp_MacroTools_ArtifactSystem_Artifact_OnArtifactFactionChange
-  commentId: E:AzerothWarsCSharp.MacroTools.ArtifactSystem.Artifact.OnArtifactFactionChange
-  fullName: AzerothWarsCSharp.MacroTools.ArtifactSystem.Artifact.OnArtifactFactionChange
-  nameWithType: Artifact.OnArtifactFactionChange
 - uid: AzerothWarsCSharp.MacroTools.ArtifactSystem.Artifact.OwnerChanged
   name: OwnerChanged
   href: api-macroTools/AzerothWarsCSharp.MacroTools.ArtifactSystem.Artifact.html#AzerothWarsCSharp_MacroTools_ArtifactSystem_Artifact_OwnerChanged
