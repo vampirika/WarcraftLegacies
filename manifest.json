@@ -46,9 +46,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Artifacts.yml",
       "output": {
@@ -103,6 +100,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Cheats.yml",
       "output": {
@@ -115,6 +115,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Commands.AllianceActive.yml",
       "output": {
@@ -127,6 +130,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Commands.InviteCommand.yml",
       "output": {
@@ -216,7 +222,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Commands.html",
-          "hash": "0JEHfr6Xk0OftmiZtdN4tw=="
+          "hash": "nGThSx2LwzEyFlLo5nVZEg=="
         }
       },
       "is_incremental": false,
@@ -235,6 +241,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Dialogue.ScourgeDialogueSetup.yml",
       "output": {
@@ -247,6 +256,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Dialogue.WarsongDialogueSetup.yml",
       "output": {
@@ -274,6 +286,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Game_Logic.CinematicMode.yml",
       "output": {
@@ -286,6 +301,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Game_Logic.CinematicState.yml",
       "output": {
@@ -343,6 +361,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Game_Logic.GameEnd.PlayerLeaves.yml",
       "output": {
@@ -397,9 +418,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Game_Logic.HeroGlowFix.yml",
       "output": {
@@ -427,6 +445,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Game_Logic.ObserverSlots.yml",
       "output": {
@@ -439,9 +460,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote.yml",
       "output": {
@@ -469,9 +487,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Game_Logic.ShipyardBanZones.yml",
       "output": {
@@ -499,9 +514,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Game_Logic.StartingResources.yml",
       "output": {
@@ -522,7 +534,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Game_Logic.html",
-          "hash": "OyGJaHJMc8jkkZBdGJuZ7Q=="
+          "hash": "PNG4Tvt4fAZX4buRrnwvog=="
         }
       },
       "is_incremental": false,
@@ -544,9 +556,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Hints.HintVictory.yml",
       "output": {
@@ -574,9 +583,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpireObeliskChannel.yml",
       "output": {
@@ -589,9 +595,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpireObeliskSpell.yml",
       "output": {
@@ -604,6 +607,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpirePortal.yml",
       "output": {
@@ -616,6 +622,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpirePortalManager.yml",
       "output": {
@@ -655,9 +664,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.HeraldBuff.yml",
       "output": {
@@ -682,6 +688,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.ObjectiveObelisk.yml",
       "output": {
@@ -702,16 +711,13 @@
       "output": {
         ".html": {
           "relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.html",
-          "hash": "bJMgnWjm9ixmT/Mn0jznaw=="
+          "hash": "ARpd49VJvmXXhEIovZeZlw=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Mechanics.Druids.CenariusGhost.yml",
       "output": {
@@ -739,9 +745,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Mechanics.Goblins.NuclearLaunch.yml",
       "output": {
@@ -754,6 +757,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Mechanics.Goblins.OilProducer.yml",
       "output": {
@@ -819,7 +825,7 @@
       "output": {
         ".html": {
           "relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Mechanics.Goblins.html",
-          "hash": "SH7vFVneXnzjtn6tCCD5FQ=="
+          "hash": "aJSQXBpgC2F+F/i0Ml8CDQ=="
         }
       },
       "is_incremental": false,
@@ -841,6 +847,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Mechanics.Quelthalas.yml",
       "output": {
@@ -868,9 +877,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Mechanics.Scourge.Blight.BlightSetup.yml",
       "output": {
@@ -898,9 +904,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Mechanics.Scourge.Blight.yml",
       "output": {
@@ -925,9 +928,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.yml",
       "output": {
@@ -964,9 +964,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Mechanics.Scourge.Plague.PlaguePower.yml",
       "output": {
@@ -987,16 +984,13 @@
       "output": {
         ".html": {
           "relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Mechanics.Scourge.Plague.html",
-          "hash": "hPkywzerP72M5AMflDxfJg=="
+          "hash": "0Aj4pNWqNAQ+romXzY0v1Q=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Mechanics.Scourge.Plagueling.yml",
       "output": {
@@ -1066,9 +1060,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Dalaran.QuestCrystalGolem.yml",
       "output": {
@@ -1096,9 +1087,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Dalaran.QuestFallenGuardian.yml",
       "output": {
@@ -1111,6 +1099,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Dalaran.QuestJainaSoulGem.yml",
       "output": {
@@ -1138,9 +1129,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Dalaran.QuestNewGuardian.yml",
       "output": {
@@ -1198,9 +1186,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Dalaran.yml",
       "output": {
@@ -1213,9 +1198,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Draenei.QuestBrokenOne.yml",
       "output": {
@@ -1270,9 +1252,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Draenei.QuestSurvivorsShattrah.yml",
       "output": {
@@ -1312,6 +1291,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Druids.QuestAndrassil.yml",
       "output": {
@@ -1339,6 +1321,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Druids.QuestDruidsKillFrostwolf.yml",
       "output": {
@@ -1426,6 +1411,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Fel_Horde.QuestBlackrock.yml",
       "output": {
@@ -1453,6 +1441,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Fel_Horde.QuestFelHordeKillStormwind.yml",
       "output": {
@@ -1465,9 +1456,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Fel_Horde.QuestGuldansLegacy.yml",
       "output": {
@@ -1555,6 +1543,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Forsaken.QuestRetakeSunwell.yml",
       "output": {
@@ -1567,6 +1558,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Forsaken.QuestScholomanceBuild.yml",
       "output": {
@@ -1624,6 +1618,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Forsaken.QuestUndercity.yml",
       "output": {
@@ -1675,9 +1672,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Frostwolf.QuestGazlowe.yml",
       "output": {
@@ -1690,9 +1684,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Frostwolf.QuestRoyalPlunder.yml",
       "output": {
@@ -1717,9 +1708,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Frostwolf.QuestStonemaul.yml",
       "output": {
@@ -1762,9 +1750,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Goblin.QuestBusinessExpansion.yml",
       "output": {
@@ -1777,9 +1762,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Goblin.QuestExplosiveEngineering.yml",
       "output": {
@@ -1846,9 +1828,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Goblin.yml",
       "output": {
@@ -1876,9 +1855,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Ironforge.QuestDominion.yml",
       "output": {
@@ -1906,6 +1882,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Ironforge.QuestGnomeregan.yml",
       "output": {
@@ -1948,6 +1927,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Ironforge.yml",
       "output": {
@@ -2020,6 +2002,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.KulTiras.QuestTheramore.yml",
       "output": {
@@ -2077,9 +2062,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Legion.QuestConsumeTree.yml",
       "output": {
@@ -2119,6 +2101,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Legion.QuestEmbassy.yml",
       "output": {
@@ -2131,9 +2116,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Legion.QuestLegionCaptureSunwell.yml",
       "output": {
@@ -2146,9 +2128,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Legion.QuestLegionKillLordaeron.yml",
       "output": {
@@ -2176,9 +2155,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Legion.QuestSummonLegion.yml",
       "output": {
@@ -2248,9 +2224,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Lordaeron.QuestGarithosMindControl.yml",
       "output": {
@@ -2290,9 +2263,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Lordaeron.QuestLivingShadow.yml",
       "output": {
@@ -2332,9 +2302,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Lordaeron.QuestStrahnbrad.yml",
       "output": {
@@ -2377,9 +2344,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Lordaeron.yml",
       "output": {
@@ -2407,9 +2371,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Naga.QuestFrozenThrone.yml",
       "output": {
@@ -2422,9 +2383,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Naga.QuestIllidanChapterOne.yml",
       "output": {
@@ -2467,6 +2425,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Naga.yml",
       "output": {
@@ -2479,6 +2440,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Quelthalas.QuestGreatTreachery.yml",
       "output": {
@@ -2521,9 +2485,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Quelthalas.QuestSummonKil.yml",
       "output": {
@@ -2590,9 +2551,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Scarlet.QuestArathiVolunteers.yml",
       "output": {
@@ -2620,6 +2578,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Scarlet.QuestLiberateLordaeron.yml",
       "output": {
@@ -2647,9 +2608,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Scarlet.QuestTownWatch.yml",
       "output": {
@@ -2704,9 +2662,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Scourge.QuestCivilWar.yml",
       "output": {
@@ -2761,6 +2716,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Scourge.QuestLichKingArthas.yml",
       "output": {
@@ -2788,6 +2746,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Scourge.QuestPlague.yml",
       "output": {
@@ -2838,16 +2799,13 @@
       "output": {
         ".html": {
           "relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Scourge.html",
-          "hash": "i0cH7I4+gUB0Vb7uYF0U0w=="
+          "hash": "XNSpDQ8OdeII7iMyunT6KQ=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Sentinels.QuestAstranaar.yml",
       "output": {
@@ -2860,9 +2818,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Sentinels.QuestFeathermoon.yml",
       "output": {
@@ -2902,9 +2857,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Sentinels.QuestSentinelsKillWarsong.yml",
       "output": {
@@ -2917,9 +2869,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Sentinels.QuestVaultoftheWardens.yml",
       "output": {
@@ -2932,9 +2881,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Sentinels.yml",
       "output": {
@@ -2947,9 +2893,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Stormwind.QuestClosePortal.yml",
       "output": {
@@ -3079,6 +3022,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Stormwind.QuestStromgarde.yml",
       "output": {
@@ -3118,9 +3064,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Twilight.QuestDragonmawPort.yml",
       "output": {
@@ -3133,9 +3076,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Twilight.QuestFeludius.yml",
       "output": {
@@ -3178,6 +3118,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Twilight.QuestSpreadTheWord.yml",
       "output": {
@@ -3220,9 +3163,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Warsong.QuestChenStormstout.yml",
       "output": {
@@ -3259,9 +3199,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Warsong.QuestMoreWyverns.yml",
       "output": {
@@ -3321,13 +3258,16 @@
       "output": {
         ".html": {
           "relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Warsong.html",
-          "hash": "05BgwfDc22t96b8WmjHH8A=="
+          "hash": "mksGkjoE6AlddWEteD9VMw=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Zandalar.QuestConquerKul.yml",
       "output": {
@@ -3355,9 +3295,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Zandalar.QuestGundrak.yml",
       "output": {
@@ -3370,9 +3307,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Zandalar.QuestHakkar.yml",
       "output": {
@@ -3385,6 +3319,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Quests.Zandalar.QuestJinthaAlor.yml",
       "output": {
@@ -3481,6 +3418,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Researches.Ironforge.yml",
       "output": {
@@ -3493,6 +3433,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Researches.Lordaeron.VeteranFootmen.yml",
       "output": {
@@ -3513,13 +3456,16 @@
       "output": {
         ".html": {
           "relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Researches.Lordaeron.html",
-          "hash": "1cYCsJVVByJ9I7BbWgIHSA=="
+          "hash": "lbrU6Ku9mpLJNIrsWX+hcA=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Rocks.RockGroup.yml",
       "output": {
@@ -3532,9 +3478,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Rocks.RockSetup.yml",
       "output": {
@@ -3559,21 +3502,21 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Rocks.yml",
       "output": {
         ".html": {
           "relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Rocks.html",
-          "hash": "NwmU+zdBWWlV5vqjh4FazA=="
+          "hash": "ZCc/AtxMQ7A0PDUgZvA8mA=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.AllFactionSetup.yml",
       "output": {
@@ -3598,6 +3541,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.AllQuestSetup.yml",
       "output": {
@@ -3640,9 +3586,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.BlockerSetup.yml",
       "output": {
@@ -3682,9 +3625,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.CommandSetup.yml",
       "output": {
@@ -3697,6 +3637,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.ControlPointSetup.yml",
       "output": {
@@ -3862,9 +3805,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.FactionSetup.GoblinSetup.yml",
       "output": {
@@ -3949,9 +3889,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.FactionSetup.NzothSetup.yml",
       "output": {
@@ -3979,9 +3916,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.FactionSetup.ScarletSetup.yml",
       "output": {
@@ -4033,6 +3967,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.FactionSetup.TwilightSetup.yml",
       "output": {
@@ -4060,9 +3997,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.FactionSetup.ZandalarSetup.yml",
       "output": {
@@ -4087,6 +4021,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.GameSetup.yml",
       "output": {
@@ -4099,9 +4036,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.GateSetup.yml",
       "output": {
@@ -4156,6 +4090,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.Legends.LegendDruids.yml",
       "output": {
@@ -4168,9 +4105,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.Legends.LegendFelHorde.yml",
       "output": {
@@ -4195,6 +4129,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.Legends.LegendFrostwolf.yml",
       "output": {
@@ -4237,9 +4174,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.Legends.LegendIronforge.yml",
       "output": {
@@ -4282,6 +4216,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.Legends.LegendLordaeron.yml",
       "output": {
@@ -4309,6 +4246,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.Legends.LegendNeutral.yml",
       "output": {
@@ -4321,6 +4261,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.Legends.LegendQuelthalas.yml",
       "output": {
@@ -4348,6 +4291,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.Legends.LegendScourge.yml",
       "output": {
@@ -4390,9 +4336,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.Legends.LegendTroll.yml",
       "output": {
@@ -4405,6 +4348,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.Legends.LegendTwilight.yml",
       "output": {
@@ -4417,6 +4363,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.Legends.LegendWarsong.yml",
       "output": {
@@ -4444,6 +4393,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.NeutralVictimAndPassiveSetup.yml",
       "output": {
@@ -4456,9 +4408,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.ObserverSetup.yml",
       "output": {
@@ -4471,9 +4420,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.PlayerSetup.yml",
       "output": {
@@ -4540,6 +4486,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.QuestSetup.ForsakenQuestSetup.yml",
       "output": {
@@ -4552,6 +4501,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.QuestSetup.FrostwolfQuestSetup.yml",
       "output": {
@@ -4579,6 +4531,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.QuestSetup.IronforgeQuestSetup.yml",
       "output": {
@@ -4591,6 +4546,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.QuestSetup.KultirasQuestSetup.yml",
       "output": {
@@ -4678,6 +4636,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.QuestSetup.ScourgeQuestSetup.yml",
       "output": {
@@ -4732,6 +4693,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.QuestSetup.TrollQuestSetup.yml",
       "output": {
@@ -4759,6 +4723,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.QuestSetup.WarsongQuestSetup.yml",
       "output": {
@@ -4825,6 +4792,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.Spells.FrostwolfSpellSetup.yml",
       "output": {
@@ -4867,9 +4837,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.Spells.LordaeronSpellSetup.yml",
       "output": {
@@ -4882,6 +4849,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.Spells.ScourgeSpellSetup.yml",
       "output": {
@@ -4909,6 +4879,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.SpellsSetup.yml",
       "output": {
@@ -4945,15 +4918,12 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.yml",
       "output": {
         ".html": {
           "relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Setup.html",
-          "hash": "Nkgy/Q3mM1N4cSB1QpzP3g=="
+          "hash": "dDZZ5F88Jlt+G4vnwCGSNQ=="
         }
       },
       "is_incremental": false,
@@ -4987,9 +4957,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/MacroTools/AzerothWarsCSharp.Source.Spells.yml",
       "output": {
@@ -5092,6 +5059,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Artifacts.yml",
       "output": {
@@ -5143,9 +5113,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Cheats.yml",
       "output": {
@@ -5158,9 +5125,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Commands.AllianceActive.yml",
       "output": {
@@ -5173,9 +5137,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Commands.InviteCommand.yml",
       "output": {
@@ -5259,7 +5220,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Source/AzerothWarsCSharp.Source.Commands.html",
-          "hash": "dkvhoYBnPCqJWi4h8lQifg=="
+          "hash": "4Z/0g3rGD57iuZ4WHs8AZw=="
         }
       },
       "is_incremental": false,
@@ -5281,9 +5242,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Dialogue.ScourgeDialogueSetup.yml",
       "output": {
@@ -5296,9 +5254,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Dialogue.WarsongDialogueSetup.yml",
       "output": {
@@ -5323,9 +5278,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Game_Logic.CinematicMode.yml",
       "output": {
@@ -5338,9 +5290,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Game_Logic.CinematicState.yml",
       "output": {
@@ -5389,9 +5338,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Game_Logic.GameEnd.PlayerLeaves.yml",
       "output": {
@@ -5443,6 +5389,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Game_Logic.HeroGlowFix.yml",
       "output": {
@@ -5467,9 +5416,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Game_Logic.ObserverSlots.yml",
       "output": {
@@ -5482,6 +5428,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote.yml",
       "output": {
@@ -5506,6 +5455,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Game_Logic.ShipyardBanZones.yml",
       "output": {
@@ -5530,6 +5482,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Game_Logic.StartingResources.yml",
       "output": {
@@ -5547,7 +5502,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Source/AzerothWarsCSharp.Source.Game_Logic.html",
-          "hash": "22O1yUdq/qSNmbMh5DXIHA=="
+          "hash": "8hKP737RPy8WcW0JECOiwQ=="
         }
       },
       "is_incremental": false,
@@ -5566,6 +5521,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Hints.HintVictory.yml",
       "output": {
@@ -5590,6 +5548,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpireObeliskChannel.yml",
       "output": {
@@ -5602,6 +5563,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpireObeliskSpell.yml",
       "output": {
@@ -5614,9 +5578,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpirePortal.yml",
       "output": {
@@ -5629,9 +5590,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpirePortalManager.yml",
       "output": {
@@ -5671,6 +5629,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.HeraldBuff.yml",
       "output": {
@@ -5698,9 +5659,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.ObjectiveObelisk.yml",
       "output": {
@@ -5718,13 +5676,16 @@
       "output": {
         ".html": {
           "relative_path": "api/Source/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.html",
-          "hash": "SPg/jYSyiva1I1v5ScY5Yg=="
+          "hash": "bbkbz6USOcXtvMHcVmwrwA=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Mechanics.Druids.CenariusGhost.yml",
       "output": {
@@ -5749,6 +5710,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Mechanics.Goblins.NuclearLaunch.yml",
       "output": {
@@ -5761,9 +5725,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Mechanics.Goblins.OilProducer.yml",
       "output": {
@@ -5817,7 +5778,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Source/AzerothWarsCSharp.Source.Mechanics.Goblins.html",
-          "hash": "Tp/1DyAyia9XhEq51Xzrlw=="
+          "hash": "6r8JS8VzfWl9OAceNKKewg=="
         }
       },
       "is_incremental": false,
@@ -5836,9 +5797,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Mechanics.Quelthalas.yml",
       "output": {
@@ -5863,6 +5821,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Mechanics.Scourge.Blight.BlightSetup.yml",
       "output": {
@@ -5887,6 +5848,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Mechanics.Scourge.Blight.yml",
       "output": {
@@ -5914,6 +5878,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.yml",
       "output": {
@@ -5956,6 +5923,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Mechanics.Scourge.Plague.PlaguePower.yml",
       "output": {
@@ -5973,13 +5943,16 @@
       "output": {
         ".html": {
           "relative_path": "api/Source/AzerothWarsCSharp.Source.Mechanics.Scourge.Plague.html",
-          "hash": "ug69azfaHwRGJ93ViVHMBQ=="
+          "hash": "HFd2oGX0SykvFjY2AoTrWg=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Mechanics.Scourge.Plagueling.yml",
       "output": {
@@ -6043,6 +6016,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Dalaran.QuestCrystalGolem.yml",
       "output": {
@@ -6067,6 +6043,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Dalaran.QuestFallenGuardian.yml",
       "output": {
@@ -6079,9 +6058,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Dalaran.QuestJainaSoulGem.yml",
       "output": {
@@ -6106,6 +6082,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Dalaran.QuestNewGuardian.yml",
       "output": {
@@ -6154,6 +6133,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Dalaran.yml",
       "output": {
@@ -6166,6 +6148,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Draenei.QuestBrokenOne.yml",
       "output": {
@@ -6217,6 +6202,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Draenei.QuestSurvivorsShattrah.yml",
       "output": {
@@ -6256,9 +6244,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Druids.QuestAndrassil.yml",
       "output": {
@@ -6283,9 +6268,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Druids.QuestDruidsKillFrostwolf.yml",
       "output": {
@@ -6358,9 +6340,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Fel_Horde.QuestBlackrock.yml",
       "output": {
@@ -6385,9 +6364,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Fel_Horde.QuestFelHordeKillStormwind.yml",
       "output": {
@@ -6400,6 +6376,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Fel_Horde.QuestGuldansLegacy.yml",
       "output": {
@@ -6499,9 +6478,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Forsaken.QuestRetakeSunwell.yml",
       "output": {
@@ -6514,9 +6490,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Forsaken.QuestScholomanceBuild.yml",
       "output": {
@@ -6565,9 +6538,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Forsaken.QuestUndercity.yml",
       "output": {
@@ -6622,6 +6592,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Frostwolf.QuestGazlowe.yml",
       "output": {
@@ -6634,6 +6607,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Frostwolf.QuestRoyalPlunder.yml",
       "output": {
@@ -6661,6 +6637,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Frostwolf.QuestStonemaul.yml",
       "output": {
@@ -6697,6 +6676,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Goblin.QuestBusinessExpansion.yml",
       "output": {
@@ -6709,6 +6691,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Goblin.QuestExplosiveEngineering.yml",
       "output": {
@@ -6775,6 +6760,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Goblin.yml",
       "output": {
@@ -6799,6 +6787,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Ironforge.QuestDominion.yml",
       "output": {
@@ -6823,9 +6814,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Ironforge.QuestGnomeregan.yml",
       "output": {
@@ -6862,9 +6850,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Ironforge.yml",
       "output": {
@@ -6925,9 +6910,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.KulTiras.QuestTheramore.yml",
       "output": {
@@ -6976,6 +6958,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Legion.QuestConsumeTree.yml",
       "output": {
@@ -7015,9 +7000,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Legion.QuestEmbassy.yml",
       "output": {
@@ -7030,6 +7012,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Legion.QuestLegionCaptureSunwell.yml",
       "output": {
@@ -7042,6 +7027,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Legion.QuestLegionKillLordaeron.yml",
       "output": {
@@ -7066,6 +7054,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Legion.QuestSummonLegion.yml",
       "output": {
@@ -7129,6 +7120,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Lordaeron.QuestGarithosMindControl.yml",
       "output": {
@@ -7168,6 +7162,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Lordaeron.QuestLivingShadow.yml",
       "output": {
@@ -7207,6 +7204,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Lordaeron.QuestStrahnbrad.yml",
       "output": {
@@ -7243,6 +7243,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Lordaeron.yml",
       "output": {
@@ -7267,6 +7270,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Naga.QuestFrozenThrone.yml",
       "output": {
@@ -7279,6 +7285,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Naga.QuestIllidanChapterOne.yml",
       "output": {
@@ -7315,9 +7324,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Naga.yml",
       "output": {
@@ -7330,9 +7336,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Quelthalas.QuestGreatTreachery.yml",
       "output": {
@@ -7369,6 +7372,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Quelthalas.QuestSummonKil.yml",
       "output": {
@@ -7435,6 +7441,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Scarlet.QuestArathiVolunteers.yml",
       "output": {
@@ -7459,9 +7468,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Scarlet.QuestLiberateLordaeron.yml",
       "output": {
@@ -7486,6 +7492,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Scarlet.QuestTownWatch.yml",
       "output": {
@@ -7537,6 +7546,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Scourge.QuestCivilWar.yml",
       "output": {
@@ -7588,9 +7600,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Scourge.QuestLichKingArthas.yml",
       "output": {
@@ -7615,9 +7624,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Scourge.QuestPlague.yml",
       "output": {
@@ -7659,13 +7665,16 @@
       "output": {
         ".html": {
           "relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Scourge.html",
-          "hash": "SvYEJxFJxbSXwsbqsyCyaA=="
+          "hash": "cO9WoXNXUpBrcCxBy9tDCw=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Sentinels.QuestAstranaar.yml",
       "output": {
@@ -7678,6 +7687,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Sentinels.QuestFeathermoon.yml",
       "output": {
@@ -7717,6 +7729,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Sentinels.QuestSentinelsKillWarsong.yml",
       "output": {
@@ -7729,6 +7744,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Sentinels.QuestVaultoftheWardens.yml",
       "output": {
@@ -7741,6 +7759,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Sentinels.yml",
       "output": {
@@ -7753,6 +7774,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Stormwind.QuestClosePortal.yml",
       "output": {
@@ -7864,9 +7888,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Stormwind.QuestStromgarde.yml",
       "output": {
@@ -7906,6 +7927,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Twilight.QuestDragonmawPort.yml",
       "output": {
@@ -7918,6 +7942,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Twilight.QuestFeludius.yml",
       "output": {
@@ -7954,9 +7981,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Twilight.QuestSpreadTheWord.yml",
       "output": {
@@ -7993,6 +8017,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Warsong.QuestChenStormstout.yml",
       "output": {
@@ -8035,6 +8062,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Warsong.QuestMoreWyverns.yml",
       "output": {
@@ -8094,16 +8124,13 @@
       "output": {
         ".html": {
           "relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Warsong.html",
-          "hash": "gDtrr4i5mzC3xim+EMBwcA=="
+          "hash": "t1+w9HkF98D2oWYkN5TGKg=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Zandalar.QuestConquerKul.yml",
       "output": {
@@ -8128,6 +8155,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Zandalar.QuestGundrak.yml",
       "output": {
@@ -8140,6 +8170,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Zandalar.QuestHakkar.yml",
       "output": {
@@ -8152,9 +8185,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Quests.Zandalar.QuestJinthaAlor.yml",
       "output": {
@@ -8245,9 +8275,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Researches.Ironforge.yml",
       "output": {
@@ -8260,9 +8287,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Researches.Lordaeron.VeteranFootmen.yml",
       "output": {
@@ -8280,16 +8304,13 @@
       "output": {
         ".html": {
           "relative_path": "api/Source/AzerothWarsCSharp.Source.Researches.Lordaeron.html",
-          "hash": "9ZoBRKlJko11Iqrz36E71w=="
+          "hash": "cKKcSaLBj9yfh36gP+bbkg=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Rocks.RockGroup.yml",
       "output": {
@@ -8302,6 +8323,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Rocks.RockSetup.yml",
       "output": {
@@ -8329,21 +8353,21 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Rocks.yml",
       "output": {
         ".html": {
           "relative_path": "api/Source/AzerothWarsCSharp.Source.Rocks.html",
-          "hash": "eDHOlnBKxDxAXhFlhna3oQ=="
+          "hash": "pByB25dR8OhtDV/mCLl/dw=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.AllFactionSetup.yml",
       "output": {
@@ -8371,9 +8395,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.AllQuestSetup.yml",
       "output": {
@@ -8410,6 +8431,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.BlockerSetup.yml",
       "output": {
@@ -8449,6 +8473,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.CommandSetup.yml",
       "output": {
@@ -8461,9 +8488,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.ControlPointSetup.yml",
       "output": {
@@ -8620,6 +8644,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.FactionSetup.GoblinSetup.yml",
       "output": {
@@ -8695,6 +8722,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.FactionSetup.NzothSetup.yml",
       "output": {
@@ -8719,6 +8749,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.FactionSetup.ScarletSetup.yml",
       "output": {
@@ -8773,9 +8806,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.FactionSetup.TwilightSetup.yml",
       "output": {
@@ -8800,6 +8830,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.FactionSetup.ZandalarSetup.yml",
       "output": {
@@ -8827,9 +8860,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.GameSetup.yml",
       "output": {
@@ -8842,6 +8872,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.GateSetup.yml",
       "output": {
@@ -8893,9 +8926,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.Legends.LegendDruids.yml",
       "output": {
@@ -8908,6 +8938,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.Legends.LegendFelHorde.yml",
       "output": {
@@ -8935,9 +8968,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.Legends.LegendFrostwolf.yml",
       "output": {
@@ -8974,6 +9004,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.Legends.LegendIronforge.yml",
       "output": {
@@ -9010,9 +9043,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.Legends.LegendLordaeron.yml",
       "output": {
@@ -9037,9 +9067,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.Legends.LegendNeutral.yml",
       "output": {
@@ -9052,9 +9079,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.Legends.LegendQuelthalas.yml",
       "output": {
@@ -9079,9 +9103,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.Legends.LegendScourge.yml",
       "output": {
@@ -9118,6 +9139,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.Legends.LegendTroll.yml",
       "output": {
@@ -9130,9 +9154,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.Legends.LegendTwilight.yml",
       "output": {
@@ -9145,9 +9166,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.Legends.LegendWarsong.yml",
       "output": {
@@ -9172,9 +9190,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.NeutralVictimAndPassiveSetup.yml",
       "output": {
@@ -9187,6 +9202,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.ObserverSetup.yml",
       "output": {
@@ -9199,6 +9217,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.PlayerSetup.yml",
       "output": {
@@ -9265,9 +9286,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.QuestSetup.ForsakenQuestSetup.yml",
       "output": {
@@ -9280,9 +9298,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.QuestSetup.FrostwolfQuestSetup.yml",
       "output": {
@@ -9307,9 +9322,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.QuestSetup.IronforgeQuestSetup.yml",
       "output": {
@@ -9322,9 +9334,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.QuestSetup.KultirasQuestSetup.yml",
       "output": {
@@ -9397,9 +9406,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.QuestSetup.ScourgeQuestSetup.yml",
       "output": {
@@ -9451,9 +9457,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.QuestSetup.TrollQuestSetup.yml",
       "output": {
@@ -9478,9 +9481,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.QuestSetup.WarsongQuestSetup.yml",
       "output": {
@@ -9547,9 +9547,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.Spells.FrostwolfSpellSetup.yml",
       "output": {
@@ -9586,6 +9583,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.Spells.LordaeronSpellSetup.yml",
       "output": {
@@ -9598,9 +9598,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.Spells.ScourgeSpellSetup.yml",
       "output": {
@@ -9625,9 +9622,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "DuplicateUids"
-      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.SpellsSetup.yml",
       "output": {
@@ -9670,12 +9664,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.yml",
       "output": {
         ".html": {
           "relative_path": "api/Source/AzerothWarsCSharp.Source.Setup.html",
-          "hash": "IrHoQejrYNRq/Uu/8m8T2A=="
+          "hash": "3P3bXOfv6PuHHXuF3NFLQw=="
         }
       },
       "is_incremental": false,
@@ -9709,6 +9706,9 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "DuplicateUids"
+      ],
       "type": "ManagedReference",
       "source_relative_path": "api/Source/AzerothWarsCSharp.Source.Spells.yml",
       "output": {
@@ -9823,12 +9823,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "IGK1ZSYI4NbShXZSeUUd6Q=="
+          "hash": "SvhWPDNGaAV5iU04yZHq/Q=="
         }
       },
       "is_incremental": false,
