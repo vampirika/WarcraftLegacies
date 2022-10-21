@@ -8834,12 +8834,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Spells.Ascendance.HealLevel
   nameWithType: Ascendance.HealLevel
-- uid: AzerothWarsCSharp.MacroTools.Spells.Ascendance.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.Ascendance.html#AzerothWarsCSharp_MacroTools_Spells_Ascendance_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.Spells.Ascendance.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.Spells.Ascendance.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: Ascendance.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.Spells.Ascendance.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.Ascendance.html#AzerothWarsCSharp_MacroTools_Spells_Ascendance_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Spells.Ascendance.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Spells.Ascendance.OnCast(unit, unit, Point)
+  nameWithType: Ascendance.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.MacroTools.Spells.Ascendance.OnCast*
   name: OnCast
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.Ascendance.html#AzerothWarsCSharp_MacroTools_Spells_Ascendance_OnCast_
@@ -8918,12 +8918,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Spells.ChannelAnySpell.Duration
   nameWithType: ChannelAnySpell.Duration
-- uid: AzerothWarsCSharp.MacroTools.Spells.ChannelAnySpell.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.ChannelAnySpell.html#AzerothWarsCSharp_MacroTools_Spells_ChannelAnySpell_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.Spells.ChannelAnySpell.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.Spells.ChannelAnySpell.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: ChannelAnySpell.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.Spells.ChannelAnySpell.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.ChannelAnySpell.html#AzerothWarsCSharp_MacroTools_Spells_ChannelAnySpell_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Spells.ChannelAnySpell.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Spells.ChannelAnySpell.OnCast(unit, unit, Point)
+  nameWithType: ChannelAnySpell.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.MacroTools.Spells.ChannelAnySpell.OnCast*
   name: OnCast
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.ChannelAnySpell.html#AzerothWarsCSharp_MacroTools_Spells_ChannelAnySpell_OnCast_
@@ -8950,12 +8950,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Spells.CooldownReset.CooldownReset
   nameWithType: CooldownReset.CooldownReset
-- uid: AzerothWarsCSharp.MacroTools.Spells.CooldownReset.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.CooldownReset.html#AzerothWarsCSharp_MacroTools_Spells_CooldownReset_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.Spells.CooldownReset.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.Spells.CooldownReset.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: CooldownReset.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.Spells.CooldownReset.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.CooldownReset.html#AzerothWarsCSharp_MacroTools_Spells_CooldownReset_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Spells.CooldownReset.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Spells.CooldownReset.OnCast(unit, unit, Point)
+  nameWithType: CooldownReset.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.MacroTools.Spells.CooldownReset.OnCast*
   name: OnCast
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.CooldownReset.html#AzerothWarsCSharp_MacroTools_Spells_CooldownReset_OnCast_
@@ -8982,12 +8982,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Spells.DarkPact.DarkPact
   nameWithType: DarkPact.DarkPact
-- uid: AzerothWarsCSharp.MacroTools.Spells.DarkPact.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.DarkPact.html#AzerothWarsCSharp_MacroTools_Spells_DarkPact_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.Spells.DarkPact.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.Spells.DarkPact.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: DarkPact.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.Spells.DarkPact.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.DarkPact.html#AzerothWarsCSharp_MacroTools_Spells_DarkPact_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Spells.DarkPact.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Spells.DarkPact.OnCast(unit, unit, Point)
+  nameWithType: DarkPact.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.MacroTools.Spells.DarkPact.OnCast*
   name: OnCast
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.DarkPact.html#AzerothWarsCSharp_MacroTools_Spells_DarkPact_OnCast_
@@ -9014,12 +9014,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Spells.Devour.Devour
   nameWithType: Devour.Devour
-- uid: AzerothWarsCSharp.MacroTools.Spells.Devour.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.Devour.html#AzerothWarsCSharp_MacroTools_Spells_Devour_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.Spells.Devour.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.Spells.Devour.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: Devour.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.Spells.Devour.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.Devour.html#AzerothWarsCSharp_MacroTools_Spells_Devour_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Spells.Devour.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Spells.Devour.OnCast(unit, unit, Point)
+  nameWithType: Devour.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.MacroTools.Spells.Devour.OnCast*
   name: OnCast
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.Devour.html#AzerothWarsCSharp_MacroTools_Spells_Devour_OnCast_
@@ -9072,12 +9072,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Spells.GrantMana.ManaToGrant
   nameWithType: GrantMana.ManaToGrant
-- uid: AzerothWarsCSharp.MacroTools.Spells.GrantMana.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.GrantMana.html#AzerothWarsCSharp_MacroTools_Spells_GrantMana_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.Spells.GrantMana.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.Spells.GrantMana.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: GrantMana.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.Spells.GrantMana.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.GrantMana.html#AzerothWarsCSharp_MacroTools_Spells_GrantMana_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Spells.GrantMana.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Spells.GrantMana.OnCast(unit, unit, Point)
+  nameWithType: GrantMana.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.MacroTools.Spells.GrantMana.OnCast*
   name: OnCast
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.GrantMana.html#AzerothWarsCSharp_MacroTools_Spells_GrantMana_OnCast_
@@ -9195,12 +9195,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Spells.InspireMadness.EffectTarget
   nameWithType: InspireMadness.EffectTarget
-- uid: AzerothWarsCSharp.MacroTools.Spells.InspireMadness.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.InspireMadness.html#AzerothWarsCSharp_MacroTools_Spells_InspireMadness_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.Spells.InspireMadness.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.Spells.InspireMadness.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: InspireMadness.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.Spells.InspireMadness.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.InspireMadness.html#AzerothWarsCSharp_MacroTools_Spells_InspireMadness_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Spells.InspireMadness.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Spells.InspireMadness.OnCast(unit, unit, Point)
+  nameWithType: InspireMadness.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.MacroTools.Spells.InspireMadness.OnCast*
   name: OnCast
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.InspireMadness.html#AzerothWarsCSharp_MacroTools_Spells_InspireMadness_OnCast_
@@ -9279,12 +9279,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Spells.MassAnySpell.DummyAbilityOrderString
   nameWithType: MassAnySpell.DummyAbilityOrderString
-- uid: AzerothWarsCSharp.MacroTools.Spells.MassAnySpell.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.MassAnySpell.html#AzerothWarsCSharp_MacroTools_Spells_MassAnySpell_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.Spells.MassAnySpell.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.Spells.MassAnySpell.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: MassAnySpell.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.Spells.MassAnySpell.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.MassAnySpell.html#AzerothWarsCSharp_MacroTools_Spells_MassAnySpell_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Spells.MassAnySpell.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Spells.MassAnySpell.OnCast(unit, unit, Point)
+  nameWithType: MassAnySpell.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.MacroTools.Spells.MassAnySpell.OnCast*
   name: OnCast
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.MassAnySpell.html#AzerothWarsCSharp_MacroTools_Spells_MassAnySpell_OnCast_
@@ -9480,12 +9480,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Spells.MassSimulacrum.HealthBonusLevel
   nameWithType: MassSimulacrum.HealthBonusLevel
-- uid: AzerothWarsCSharp.MacroTools.Spells.MassSimulacrum.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.MassSimulacrum.html#AzerothWarsCSharp_MacroTools_Spells_MassSimulacrum_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.Spells.MassSimulacrum.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.Spells.MassSimulacrum.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: MassSimulacrum.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.Spells.MassSimulacrum.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.MassSimulacrum.html#AzerothWarsCSharp_MacroTools_Spells_MassSimulacrum_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Spells.MassSimulacrum.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Spells.MassSimulacrum.OnCast(unit, unit, Point)
+  nameWithType: MassSimulacrum.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.MacroTools.Spells.MassSimulacrum.OnCast*
   name: OnCast
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.MassSimulacrum.html#AzerothWarsCSharp_MacroTools_Spells_MassSimulacrum_OnCast_
@@ -9525,12 +9525,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Spells.RegrowTrees.RegrowTrees
   nameWithType: RegrowTrees.RegrowTrees
-- uid: AzerothWarsCSharp.MacroTools.Spells.RegrowTrees.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.RegrowTrees.html#AzerothWarsCSharp_MacroTools_Spells_RegrowTrees_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.Spells.RegrowTrees.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.Spells.RegrowTrees.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: RegrowTrees.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.Spells.RegrowTrees.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.RegrowTrees.html#AzerothWarsCSharp_MacroTools_Spells_RegrowTrees_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Spells.RegrowTrees.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Spells.RegrowTrees.OnCast(unit, unit, Point)
+  nameWithType: RegrowTrees.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.MacroTools.Spells.RegrowTrees.OnCast*
   name: OnCast
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.RegrowTrees.html#AzerothWarsCSharp_MacroTools_Spells_RegrowTrees_OnCast_
@@ -9596,12 +9596,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Spells.ResurgentSpell.Interval
   nameWithType: ResurgentSpell.Interval
-- uid: AzerothWarsCSharp.MacroTools.Spells.ResurgentSpell.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.ResurgentSpell.html#AzerothWarsCSharp_MacroTools_Spells_ResurgentSpell_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.Spells.ResurgentSpell.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.Spells.ResurgentSpell.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: ResurgentSpell.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.Spells.ResurgentSpell.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.ResurgentSpell.html#AzerothWarsCSharp_MacroTools_Spells_ResurgentSpell_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Spells.ResurgentSpell.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Spells.ResurgentSpell.OnCast(unit, unit, Point)
+  nameWithType: ResurgentSpell.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.MacroTools.Spells.ResurgentSpell.OnCast*
   name: OnCast
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.ResurgentSpell.html#AzerothWarsCSharp_MacroTools_Spells_ResurgentSpell_OnCast_
@@ -9628,12 +9628,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Spells.SingleTargetRecall.SingleTargetRecall
   nameWithType: SingleTargetRecall.SingleTargetRecall
-- uid: AzerothWarsCSharp.MacroTools.Spells.SingleTargetRecall.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SingleTargetRecall.html#AzerothWarsCSharp_MacroTools_Spells_SingleTargetRecall_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.Spells.SingleTargetRecall.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.Spells.SingleTargetRecall.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: SingleTargetRecall.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.Spells.SingleTargetRecall.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SingleTargetRecall.html#AzerothWarsCSharp_MacroTools_Spells_SingleTargetRecall_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Spells.SingleTargetRecall.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Spells.SingleTargetRecall.OnCast(unit, unit, Point)
+  nameWithType: SingleTargetRecall.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.MacroTools.Spells.SingleTargetRecall.OnCast*
   name: OnCast
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SingleTargetRecall.html#AzerothWarsCSharp_MacroTools_Spells_SingleTargetRecall_OnCast_
@@ -9751,12 +9751,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Spells.SolarJudgementSpell.HealMultiplier
   nameWithType: SolarJudgementSpell.HealMultiplier
-- uid: AzerothWarsCSharp.MacroTools.Spells.SolarJudgementSpell.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SolarJudgementSpell.html#AzerothWarsCSharp_MacroTools_Spells_SolarJudgementSpell_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.Spells.SolarJudgementSpell.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.Spells.SolarJudgementSpell.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: SolarJudgementSpell.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.Spells.SolarJudgementSpell.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SolarJudgementSpell.html#AzerothWarsCSharp_MacroTools_Spells_SolarJudgementSpell_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Spells.SolarJudgementSpell.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Spells.SolarJudgementSpell.OnCast(unit, unit, Point)
+  nameWithType: SolarJudgementSpell.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.MacroTools.Spells.SolarJudgementSpell.OnCast*
   name: OnCast
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SolarJudgementSpell.html#AzerothWarsCSharp_MacroTools_Spells_SolarJudgementSpell_OnCast_
@@ -9848,12 +9848,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Spells.SpellOnAttack.DummyOrderString
   nameWithType: SpellOnAttack.DummyOrderString
-- uid: AzerothWarsCSharp.MacroTools.Spells.SpellOnAttack.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SpellOnAttack.html#AzerothWarsCSharp_MacroTools_Spells_SpellOnAttack_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.Spells.SpellOnAttack.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.Spells.SpellOnAttack.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: SpellOnAttack.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.Spells.SpellOnAttack.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SpellOnAttack.html#AzerothWarsCSharp_MacroTools_Spells_SpellOnAttack_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Spells.SpellOnAttack.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Spells.SpellOnAttack.OnCast(unit, unit, Point)
+  nameWithType: SpellOnAttack.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.MacroTools.Spells.SpellOnAttack.OnCast*
   name: OnCast
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SpellOnAttack.html#AzerothWarsCSharp_MacroTools_Spells_SpellOnAttack_OnCast_
@@ -9958,12 +9958,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Spells.Stomp.DurationLevel
   nameWithType: Stomp.DurationLevel
-- uid: AzerothWarsCSharp.MacroTools.Spells.Stomp.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.Stomp.html#AzerothWarsCSharp_MacroTools_Spells_Stomp_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.Spells.Stomp.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.Spells.Stomp.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: Stomp.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.Spells.Stomp.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.Stomp.html#AzerothWarsCSharp_MacroTools_Spells_Stomp_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Spells.Stomp.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Spells.Stomp.OnCast(unit, unit, Point)
+  nameWithType: Stomp.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.MacroTools.Spells.Stomp.OnCast*
   name: OnCast
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.Stomp.html#AzerothWarsCSharp_MacroTools_Spells_Stomp_OnCast_
@@ -10042,12 +10042,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Spells.SummonLegionSpell.Duration
   nameWithType: SummonLegionSpell.Duration
-- uid: AzerothWarsCSharp.MacroTools.Spells.SummonLegionSpell.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SummonLegionSpell.html#AzerothWarsCSharp_MacroTools_Spells_SummonLegionSpell_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.Spells.SummonLegionSpell.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.Spells.SummonLegionSpell.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: SummonLegionSpell.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.Spells.SummonLegionSpell.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SummonLegionSpell.html#AzerothWarsCSharp_MacroTools_Spells_SummonLegionSpell_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Spells.SummonLegionSpell.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Spells.SummonLegionSpell.OnCast(unit, unit, Point)
+  nameWithType: SummonLegionSpell.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.MacroTools.Spells.SummonLegionSpell.OnCast*
   name: OnCast
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SummonLegionSpell.html#AzerothWarsCSharp_MacroTools_Spells_SummonLegionSpell_OnCast_
@@ -10113,12 +10113,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Spells.SummonUnits.Effect
   nameWithType: SummonUnits.Effect
-- uid: AzerothWarsCSharp.MacroTools.Spells.SummonUnits.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SummonUnits.html#AzerothWarsCSharp_MacroTools_Spells_SummonUnits_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.Spells.SummonUnits.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.Spells.SummonUnits.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: SummonUnits.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.Spells.SummonUnits.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SummonUnits.html#AzerothWarsCSharp_MacroTools_Spells_SummonUnits_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Spells.SummonUnits.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Spells.SummonUnits.OnCast(unit, unit, Point)
+  nameWithType: SummonUnits.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.MacroTools.Spells.SummonUnits.OnCast*
   name: OnCast
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SummonUnits.html#AzerothWarsCSharp_MacroTools_Spells_SummonUnits_OnCast_
@@ -10184,12 +10184,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Spells.UnholyArmor.UnholyArmor
   nameWithType: UnholyArmor.UnholyArmor
-- uid: AzerothWarsCSharp.MacroTools.Spells.UnholyArmor.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.UnholyArmor.html#AzerothWarsCSharp_MacroTools_Spells_UnholyArmor_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.Spells.UnholyArmor.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.Spells.UnholyArmor.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: UnholyArmor.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.Spells.UnholyArmor.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.UnholyArmor.html#AzerothWarsCSharp_MacroTools_Spells_UnholyArmor_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Spells.UnholyArmor.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Spells.UnholyArmor.OnCast(unit, unit, Point)
+  nameWithType: UnholyArmor.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.MacroTools.Spells.UnholyArmor.OnCast*
   name: OnCast
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.UnholyArmor.html#AzerothWarsCSharp_MacroTools_Spells_UnholyArmor_OnCast_
@@ -10422,12 +10422,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.CastOnUnit
   nameWithType: DummyCast.CastOnUnit
-- uid: AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.ChannelOnPoint(unit,System.Int32,System.String,System.Int32,System.Single,System.Single,System.Single)
-  name: ChannelOnPoint(unit, Int32, String, Int32, Single, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.html#AzerothWarsCSharp_MacroTools_SpellSystem_DummyCast_ChannelOnPoint_unit_System_Int32_System_String_System_Int32_System_Single_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.ChannelOnPoint(unit,System.Int32,System.String,System.Int32,System.Single,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.ChannelOnPoint(unit, System.Int32, System.String, System.Int32, System.Single, System.Single, System.Single)
-  nameWithType: DummyCast.ChannelOnPoint(unit, Int32, String, Int32, Single, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.ChannelOnPoint(unit,System.Int32,System.String,System.Int32,Point,System.Single)
+  name: ChannelOnPoint(unit, Int32, String, Int32, Point, Single)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.html#AzerothWarsCSharp_MacroTools_SpellSystem_DummyCast_ChannelOnPoint_unit_System_Int32_System_String_System_Int32_Point_System_Single_
+  commentId: M:AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.ChannelOnPoint(unit,System.Int32,System.String,System.Int32,Point,System.Single)
+  fullName: AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.ChannelOnPoint(unit, System.Int32, System.String, System.Int32, Point, System.Single)
+  nameWithType: DummyCast.ChannelOnPoint(unit, Int32, String, Int32, Point, Single)
 - uid: AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.ChannelOnPoint*
   name: ChannelOnPoint
   href: api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.html#AzerothWarsCSharp_MacroTools_SpellSystem_DummyCast_ChannelOnPoint_
@@ -10461,12 +10461,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.DummyCastInstant
   nameWithType: DummyCast.DummyCastInstant
-- uid: AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.DummyCastOnUnitsInCircle(unit,System.Int32,System.String,System.Int32,System.Single,System.Single,System.Single,AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.CastFilter)
-  name: DummyCastOnUnitsInCircle(unit, Int32, String, Int32, Single, Single, Single, DummyCast.CastFilter)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.html#AzerothWarsCSharp_MacroTools_SpellSystem_DummyCast_DummyCastOnUnitsInCircle_unit_System_Int32_System_String_System_Int32_System_Single_System_Single_System_Single_AzerothWarsCSharp_MacroTools_SpellSystem_DummyCast_CastFilter_
-  commentId: M:AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.DummyCastOnUnitsInCircle(unit,System.Int32,System.String,System.Int32,System.Single,System.Single,System.Single,AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.CastFilter)
-  fullName: AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.DummyCastOnUnitsInCircle(unit, System.Int32, System.String, System.Int32, System.Single, System.Single, System.Single, AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.CastFilter)
-  nameWithType: DummyCast.DummyCastOnUnitsInCircle(unit, Int32, String, Int32, Single, Single, Single, DummyCast.CastFilter)
+- uid: AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.DummyCastOnUnitsInCircle(unit,System.Int32,System.String,System.Int32,Point,System.Single,AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.CastFilter)
+  name: DummyCastOnUnitsInCircle(unit, Int32, String, Int32, Point, Single, DummyCast.CastFilter)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.html#AzerothWarsCSharp_MacroTools_SpellSystem_DummyCast_DummyCastOnUnitsInCircle_unit_System_Int32_System_String_System_Int32_Point_System_Single_AzerothWarsCSharp_MacroTools_SpellSystem_DummyCast_CastFilter_
+  commentId: M:AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.DummyCastOnUnitsInCircle(unit,System.Int32,System.String,System.Int32,Point,System.Single,AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.CastFilter)
+  fullName: AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.DummyCastOnUnitsInCircle(unit, System.Int32, System.String, System.Int32, Point, System.Single, AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.CastFilter)
+  nameWithType: DummyCast.DummyCastOnUnitsInCircle(unit, Int32, String, Int32, Point, Single, DummyCast.CastFilter)
 - uid: AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.DummyCastOnUnitsInCircle*
   name: DummyCastOnUnitsInCircle
   href: api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.html#AzerothWarsCSharp_MacroTools_SpellSystem_DummyCast_DummyCastOnUnitsInCircle_
@@ -10810,12 +10810,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.SpellSystem.Spell.Id
   nameWithType: Spell.Id
-- uid: AzerothWarsCSharp.MacroTools.SpellSystem.Spell.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.Spell.html#AzerothWarsCSharp_MacroTools_SpellSystem_Spell_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.SpellSystem.Spell.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.SpellSystem.Spell.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: Spell.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.MacroTools.SpellSystem.Spell.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.Spell.html#AzerothWarsCSharp_MacroTools_SpellSystem_Spell_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.SpellSystem.Spell.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.SpellSystem.Spell.OnCast(unit, unit, Point)
+  nameWithType: Spell.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.MacroTools.SpellSystem.Spell.OnCast*
   name: OnCast
   href: api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.Spell.html#AzerothWarsCSharp_MacroTools_SpellSystem_Spell_OnCast_
@@ -13340,12 +13340,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpireObeliskSpell.Duration
   nameWithType: BlackEmpireObeliskSpell.Duration
-- uid: AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpireObeliskSpell.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-source/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpireObeliskSpell.html#AzerothWarsCSharp_Source_Mechanics_BlackEmpire_BlackEmpireObeliskSpell_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpireObeliskSpell.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpireObeliskSpell.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: BlackEmpireObeliskSpell.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpireObeliskSpell.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-source/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpireObeliskSpell.html#AzerothWarsCSharp_Source_Mechanics_BlackEmpire_BlackEmpireObeliskSpell_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpireObeliskSpell.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpireObeliskSpell.OnCast(unit, unit, Point)
+  nameWithType: BlackEmpireObeliskSpell.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpireObeliskSpell.OnCast*
   name: OnCast
   href: api-source/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpireObeliskSpell.html#AzerothWarsCSharp_Source_Mechanics_BlackEmpire_BlackEmpireObeliskSpell_OnCast_
@@ -13726,12 +13726,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.Source.Mechanics.Goblins.NuclearLaunch.NuclearLaunch
   nameWithType: NuclearLaunch.NuclearLaunch
-- uid: AzerothWarsCSharp.Source.Mechanics.Goblins.NuclearLaunch.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-source/AzerothWarsCSharp.Source.Mechanics.Goblins.NuclearLaunch.html#AzerothWarsCSharp_Source_Mechanics_Goblins_NuclearLaunch_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.Source.Mechanics.Goblins.NuclearLaunch.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.Source.Mechanics.Goblins.NuclearLaunch.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: NuclearLaunch.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.Source.Mechanics.Goblins.NuclearLaunch.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-source/AzerothWarsCSharp.Source.Mechanics.Goblins.NuclearLaunch.html#AzerothWarsCSharp_Source_Mechanics_Goblins_NuclearLaunch_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.Source.Mechanics.Goblins.NuclearLaunch.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.Source.Mechanics.Goblins.NuclearLaunch.OnCast(unit, unit, Point)
+  nameWithType: NuclearLaunch.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.Source.Mechanics.Goblins.NuclearLaunch.OnCast*
   name: OnCast
   href: api-source/AzerothWarsCSharp.Source.Mechanics.Goblins.NuclearLaunch.html#AzerothWarsCSharp_Source_Mechanics_Goblins_NuclearLaunch_OnCast_
@@ -30018,12 +30018,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.Source.Spells.CorruptBuildingSpell.CorruptBuildingSpell
   nameWithType: CorruptBuildingSpell.CorruptBuildingSpell
-- uid: AzerothWarsCSharp.Source.Spells.CorruptBuildingSpell.OnCast(unit,unit,System.Single,System.Single)
-  name: OnCast(unit, unit, Single, Single)
-  href: api-source/AzerothWarsCSharp.Source.Spells.CorruptBuildingSpell.html#AzerothWarsCSharp_Source_Spells_CorruptBuildingSpell_OnCast_unit_unit_System_Single_System_Single_
-  commentId: M:AzerothWarsCSharp.Source.Spells.CorruptBuildingSpell.OnCast(unit,unit,System.Single,System.Single)
-  fullName: AzerothWarsCSharp.Source.Spells.CorruptBuildingSpell.OnCast(unit, unit, System.Single, System.Single)
-  nameWithType: CorruptBuildingSpell.OnCast(unit, unit, Single, Single)
+- uid: AzerothWarsCSharp.Source.Spells.CorruptBuildingSpell.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-source/AzerothWarsCSharp.Source.Spells.CorruptBuildingSpell.html#AzerothWarsCSharp_Source_Spells_CorruptBuildingSpell_OnCast_unit_unit_Point_
+  commentId: M:AzerothWarsCSharp.Source.Spells.CorruptBuildingSpell.OnCast(unit,unit,Point)
+  fullName: AzerothWarsCSharp.Source.Spells.CorruptBuildingSpell.OnCast(unit, unit, Point)
+  nameWithType: CorruptBuildingSpell.OnCast(unit, unit, Point)
 - uid: AzerothWarsCSharp.Source.Spells.CorruptBuildingSpell.OnCast*
   name: OnCast
   href: api-source/AzerothWarsCSharp.Source.Spells.CorruptBuildingSpell.html#AzerothWarsCSharp_Source_Spells_CorruptBuildingSpell_OnCast_
