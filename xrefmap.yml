@@ -12799,400 +12799,400 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.Source.Dialogue.WarsongDialogueSetup.Setup
   nameWithType: WarsongDialogueSetup.Setup
-- uid: AzerothWarsCSharp.Source.Game_Logic
-  name: AzerothWarsCSharp.Source.Game_Logic
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.html
-  commentId: N:AzerothWarsCSharp.Source.Game_Logic
-  fullName: AzerothWarsCSharp.Source.Game_Logic
-  nameWithType: AzerothWarsCSharp.Source.Game_Logic
-- uid: AzerothWarsCSharp.Source.Game_Logic.CinematicMode
+- uid: AzerothWarsCSharp.Source.GameLogic
+  name: AzerothWarsCSharp.Source.GameLogic
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.html
+  commentId: N:AzerothWarsCSharp.Source.GameLogic
+  fullName: AzerothWarsCSharp.Source.GameLogic
+  nameWithType: AzerothWarsCSharp.Source.GameLogic
+- uid: AzerothWarsCSharp.Source.GameLogic.CinematicMode
   name: CinematicMode
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.CinematicMode.html
-  commentId: T:AzerothWarsCSharp.Source.Game_Logic.CinematicMode
-  fullName: AzerothWarsCSharp.Source.Game_Logic.CinematicMode
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.CinematicMode.html
+  commentId: T:AzerothWarsCSharp.Source.GameLogic.CinematicMode
+  fullName: AzerothWarsCSharp.Source.GameLogic.CinematicMode
   nameWithType: CinematicMode
-- uid: AzerothWarsCSharp.Source.Game_Logic.CinematicMode.EndEarly
+- uid: AzerothWarsCSharp.Source.GameLogic.CinematicMode.EndEarly
   name: EndEarly()
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.CinematicMode.html#AzerothWarsCSharp_Source_Game_Logic_CinematicMode_EndEarly
-  commentId: M:AzerothWarsCSharp.Source.Game_Logic.CinematicMode.EndEarly
-  fullName: AzerothWarsCSharp.Source.Game_Logic.CinematicMode.EndEarly()
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.CinematicMode.html#AzerothWarsCSharp_Source_GameLogic_CinematicMode_EndEarly
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.CinematicMode.EndEarly
+  fullName: AzerothWarsCSharp.Source.GameLogic.CinematicMode.EndEarly()
   nameWithType: CinematicMode.EndEarly()
-- uid: AzerothWarsCSharp.Source.Game_Logic.CinematicMode.EndEarly*
+- uid: AzerothWarsCSharp.Source.GameLogic.CinematicMode.EndEarly*
   name: EndEarly
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.CinematicMode.html#AzerothWarsCSharp_Source_Game_Logic_CinematicMode_EndEarly_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.CinematicMode.EndEarly
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.CinematicMode.html#AzerothWarsCSharp_Source_GameLogic_CinematicMode_EndEarly_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.CinematicMode.EndEarly
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.CinematicMode.EndEarly
+  fullName: AzerothWarsCSharp.Source.GameLogic.CinematicMode.EndEarly
   nameWithType: CinematicMode.EndEarly
-- uid: AzerothWarsCSharp.Source.Game_Logic.CinematicMode.Start(System.Single)
+- uid: AzerothWarsCSharp.Source.GameLogic.CinematicMode.Start(System.Single)
   name: Start(Single)
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.CinematicMode.html#AzerothWarsCSharp_Source_Game_Logic_CinematicMode_Start_System_Single_
-  commentId: M:AzerothWarsCSharp.Source.Game_Logic.CinematicMode.Start(System.Single)
-  fullName: AzerothWarsCSharp.Source.Game_Logic.CinematicMode.Start(System.Single)
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.CinematicMode.html#AzerothWarsCSharp_Source_GameLogic_CinematicMode_Start_System_Single_
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.CinematicMode.Start(System.Single)
+  fullName: AzerothWarsCSharp.Source.GameLogic.CinematicMode.Start(System.Single)
   nameWithType: CinematicMode.Start(Single)
-- uid: AzerothWarsCSharp.Source.Game_Logic.CinematicMode.Start*
+- uid: AzerothWarsCSharp.Source.GameLogic.CinematicMode.Start*
   name: Start
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.CinematicMode.html#AzerothWarsCSharp_Source_Game_Logic_CinematicMode_Start_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.CinematicMode.Start
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.CinematicMode.html#AzerothWarsCSharp_Source_GameLogic_CinematicMode_Start_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.CinematicMode.Start
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.CinematicMode.Start
+  fullName: AzerothWarsCSharp.Source.GameLogic.CinematicMode.Start
   nameWithType: CinematicMode.Start
-- uid: AzerothWarsCSharp.Source.Game_Logic.CinematicState
+- uid: AzerothWarsCSharp.Source.GameLogic.CinematicState
   name: CinematicState
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.CinematicState.html
-  commentId: T:AzerothWarsCSharp.Source.Game_Logic.CinematicState
-  fullName: AzerothWarsCSharp.Source.Game_Logic.CinematicState
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.CinematicState.html
+  commentId: T:AzerothWarsCSharp.Source.GameLogic.CinematicState
+  fullName: AzerothWarsCSharp.Source.GameLogic.CinematicState
   nameWithType: CinematicState
-- uid: AzerothWarsCSharp.Source.Game_Logic.CinematicState.Active
+- uid: AzerothWarsCSharp.Source.GameLogic.CinematicState.Active
   name: Active
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.CinematicState.html#AzerothWarsCSharp_Source_Game_Logic_CinematicState_Active
-  commentId: F:AzerothWarsCSharp.Source.Game_Logic.CinematicState.Active
-  fullName: AzerothWarsCSharp.Source.Game_Logic.CinematicState.Active
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.CinematicState.html#AzerothWarsCSharp_Source_GameLogic_CinematicState_Active
+  commentId: F:AzerothWarsCSharp.Source.GameLogic.CinematicState.Active
+  fullName: AzerothWarsCSharp.Source.GameLogic.CinematicState.Active
   nameWithType: CinematicState.Active
-- uid: AzerothWarsCSharp.Source.Game_Logic.CinematicState.Finished
+- uid: AzerothWarsCSharp.Source.GameLogic.CinematicState.Finished
   name: Finished
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.CinematicState.html#AzerothWarsCSharp_Source_Game_Logic_CinematicState_Finished
-  commentId: F:AzerothWarsCSharp.Source.Game_Logic.CinematicState.Finished
-  fullName: AzerothWarsCSharp.Source.Game_Logic.CinematicState.Finished
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.CinematicState.html#AzerothWarsCSharp_Source_GameLogic_CinematicState_Finished
+  commentId: F:AzerothWarsCSharp.Source.GameLogic.CinematicState.Finished
+  fullName: AzerothWarsCSharp.Source.GameLogic.CinematicState.Finished
   nameWithType: CinematicState.Finished
-- uid: AzerothWarsCSharp.Source.Game_Logic.CinematicState.Inactive
+- uid: AzerothWarsCSharp.Source.GameLogic.CinematicState.Inactive
   name: Inactive
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.CinematicState.html#AzerothWarsCSharp_Source_Game_Logic_CinematicState_Inactive
-  commentId: F:AzerothWarsCSharp.Source.Game_Logic.CinematicState.Inactive
-  fullName: AzerothWarsCSharp.Source.Game_Logic.CinematicState.Inactive
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.CinematicState.html#AzerothWarsCSharp_Source_GameLogic_CinematicState_Inactive
+  commentId: F:AzerothWarsCSharp.Source.GameLogic.CinematicState.Inactive
+  fullName: AzerothWarsCSharp.Source.GameLogic.CinematicState.Inactive
   nameWithType: CinematicState.Inactive
-- uid: AzerothWarsCSharp.Source.Game_Logic.CleanPersons
+- uid: AzerothWarsCSharp.Source.GameLogic.CleanPersons
   name: CleanPersons
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.CleanPersons.html
-  commentId: T:AzerothWarsCSharp.Source.Game_Logic.CleanPersons
-  fullName: AzerothWarsCSharp.Source.Game_Logic.CleanPersons
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.CleanPersons.html
+  commentId: T:AzerothWarsCSharp.Source.GameLogic.CleanPersons
+  fullName: AzerothWarsCSharp.Source.GameLogic.CleanPersons
   nameWithType: CleanPersons
-- uid: AzerothWarsCSharp.Source.Game_Logic.CleanPersons.Setup
+- uid: AzerothWarsCSharp.Source.GameLogic.CleanPersons.Setup
   name: Setup()
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.CleanPersons.html#AzerothWarsCSharp_Source_Game_Logic_CleanPersons_Setup
-  commentId: M:AzerothWarsCSharp.Source.Game_Logic.CleanPersons.Setup
-  fullName: AzerothWarsCSharp.Source.Game_Logic.CleanPersons.Setup()
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.CleanPersons.html#AzerothWarsCSharp_Source_GameLogic_CleanPersons_Setup
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.CleanPersons.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.CleanPersons.Setup()
   nameWithType: CleanPersons.Setup()
-- uid: AzerothWarsCSharp.Source.Game_Logic.CleanPersons.Setup*
+- uid: AzerothWarsCSharp.Source.GameLogic.CleanPersons.Setup*
   name: Setup
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.CleanPersons.html#AzerothWarsCSharp_Source_Game_Logic_CleanPersons_Setup_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.CleanPersons.Setup
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.CleanPersons.html#AzerothWarsCSharp_Source_GameLogic_CleanPersons_Setup_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.CleanPersons.Setup
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.CleanPersons.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.CleanPersons.Setup
   nameWithType: CleanPersons.Setup
-- uid: AzerothWarsCSharp.Source.Game_Logic.DisplayIntroText
+- uid: AzerothWarsCSharp.Source.GameLogic.DisplayIntroText
   name: DisplayIntroText
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.DisplayIntroText.html
-  commentId: T:AzerothWarsCSharp.Source.Game_Logic.DisplayIntroText
-  fullName: AzerothWarsCSharp.Source.Game_Logic.DisplayIntroText
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.DisplayIntroText.html
+  commentId: T:AzerothWarsCSharp.Source.GameLogic.DisplayIntroText
+  fullName: AzerothWarsCSharp.Source.GameLogic.DisplayIntroText
   nameWithType: DisplayIntroText
-- uid: AzerothWarsCSharp.Source.Game_Logic.DisplayIntroText.Setup(System.Single)
+- uid: AzerothWarsCSharp.Source.GameLogic.DisplayIntroText.Setup(System.Single)
   name: Setup(Single)
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.DisplayIntroText.html#AzerothWarsCSharp_Source_Game_Logic_DisplayIntroText_Setup_System_Single_
-  commentId: M:AzerothWarsCSharp.Source.Game_Logic.DisplayIntroText.Setup(System.Single)
-  fullName: AzerothWarsCSharp.Source.Game_Logic.DisplayIntroText.Setup(System.Single)
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.DisplayIntroText.html#AzerothWarsCSharp_Source_GameLogic_DisplayIntroText_Setup_System_Single_
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.DisplayIntroText.Setup(System.Single)
+  fullName: AzerothWarsCSharp.Source.GameLogic.DisplayIntroText.Setup(System.Single)
   nameWithType: DisplayIntroText.Setup(Single)
-- uid: AzerothWarsCSharp.Source.Game_Logic.DisplayIntroText.Setup*
+- uid: AzerothWarsCSharp.Source.GameLogic.DisplayIntroText.Setup*
   name: Setup
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.DisplayIntroText.html#AzerothWarsCSharp_Source_Game_Logic_DisplayIntroText_Setup_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.DisplayIntroText.Setup
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.DisplayIntroText.html#AzerothWarsCSharp_Source_GameLogic_DisplayIntroText_Setup_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.DisplayIntroText.Setup
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.DisplayIntroText.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.DisplayIntroText.Setup
   nameWithType: DisplayIntroText.Setup
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameEnd
-  name: AzerothWarsCSharp.Source.Game_Logic.GameEnd
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameEnd.html
-  commentId: N:AzerothWarsCSharp.Source.Game_Logic.GameEnd
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameEnd
-  nameWithType: AzerothWarsCSharp.Source.Game_Logic.GameEnd
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory
+- uid: AzerothWarsCSharp.Source.GameLogic.GameEnd
+  name: AzerothWarsCSharp.Source.GameLogic.GameEnd
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.html
+  commentId: N:AzerothWarsCSharp.Source.GameLogic.GameEnd
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameEnd
+  nameWithType: AzerothWarsCSharp.Source.GameLogic.GameEnd
+- uid: AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory
   name: ControlPointVictory
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.html
-  commentId: T:AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.html
+  commentId: T:AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory
   nameWithType: ControlPointVictory
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.GetControlPointsRequiredVictory
+- uid: AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredVictory
   name: GetControlPointsRequiredVictory()
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.html#AzerothWarsCSharp_Source_Game_Logic_GameEnd_ControlPointVictory_GetControlPointsRequiredVictory
-  commentId: M:AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.GetControlPointsRequiredVictory
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.GetControlPointsRequiredVictory()
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.html#AzerothWarsCSharp_Source_GameLogic_GameEnd_ControlPointVictory_GetControlPointsRequiredVictory
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredVictory
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredVictory()
   nameWithType: ControlPointVictory.GetControlPointsRequiredVictory()
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.GetControlPointsRequiredVictory*
+- uid: AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredVictory*
   name: GetControlPointsRequiredVictory
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.html#AzerothWarsCSharp_Source_Game_Logic_GameEnd_ControlPointVictory_GetControlPointsRequiredVictory_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.GetControlPointsRequiredVictory
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.html#AzerothWarsCSharp_Source_GameLogic_GameEnd_ControlPointVictory_GetControlPointsRequiredVictory_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredVictory
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.GetControlPointsRequiredVictory
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredVictory
   nameWithType: ControlPointVictory.GetControlPointsRequiredVictory
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.GetControlPointsRequiredWarning
+- uid: AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredWarning
   name: GetControlPointsRequiredWarning()
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.html#AzerothWarsCSharp_Source_Game_Logic_GameEnd_ControlPointVictory_GetControlPointsRequiredWarning
-  commentId: M:AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.GetControlPointsRequiredWarning
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.GetControlPointsRequiredWarning()
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.html#AzerothWarsCSharp_Source_GameLogic_GameEnd_ControlPointVictory_GetControlPointsRequiredWarning
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredWarning
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredWarning()
   nameWithType: ControlPointVictory.GetControlPointsRequiredWarning()
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.GetControlPointsRequiredWarning*
+- uid: AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredWarning*
   name: GetControlPointsRequiredWarning
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.html#AzerothWarsCSharp_Source_Game_Logic_GameEnd_ControlPointVictory_GetControlPointsRequiredWarning_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.GetControlPointsRequiredWarning
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.html#AzerothWarsCSharp_Source_GameLogic_GameEnd_ControlPointVictory_GetControlPointsRequiredWarning_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredWarning
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.GetControlPointsRequiredWarning
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredWarning
   nameWithType: ControlPointVictory.GetControlPointsRequiredWarning
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.SetCpsVictory(System.Int32)
+- uid: AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.SetCpsVictory(System.Int32)
   name: SetCpsVictory(Int32)
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.html#AzerothWarsCSharp_Source_Game_Logic_GameEnd_ControlPointVictory_SetCpsVictory_System_Int32_
-  commentId: M:AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.SetCpsVictory(System.Int32)
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.SetCpsVictory(System.Int32)
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.html#AzerothWarsCSharp_Source_GameLogic_GameEnd_ControlPointVictory_SetCpsVictory_System_Int32_
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.SetCpsVictory(System.Int32)
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.SetCpsVictory(System.Int32)
   nameWithType: ControlPointVictory.SetCpsVictory(Int32)
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.SetCpsVictory*
+- uid: AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.SetCpsVictory*
   name: SetCpsVictory
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.html#AzerothWarsCSharp_Source_Game_Logic_GameEnd_ControlPointVictory_SetCpsVictory_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.SetCpsVictory
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.html#AzerothWarsCSharp_Source_GameLogic_GameEnd_ControlPointVictory_SetCpsVictory_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.SetCpsVictory
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.SetCpsVictory
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.SetCpsVictory
   nameWithType: ControlPointVictory.SetCpsVictory
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.Setup
+- uid: AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.Setup
   name: Setup()
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.html#AzerothWarsCSharp_Source_Game_Logic_GameEnd_ControlPointVictory_Setup
-  commentId: M:AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.Setup
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.Setup()
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.html#AzerothWarsCSharp_Source_GameLogic_GameEnd_ControlPointVictory_Setup
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.Setup()
   nameWithType: ControlPointVictory.Setup()
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.Setup*
+- uid: AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.Setup*
   name: Setup
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.html#AzerothWarsCSharp_Source_Game_Logic_GameEnd_ControlPointVictory_Setup_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.Setup
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.html#AzerothWarsCSharp_Source_GameLogic_GameEnd_ControlPointVictory_Setup_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.Setup
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameEnd.ControlPointVictory.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.Setup
   nameWithType: ControlPointVictory.Setup
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameEnd.PlayerLeaves
+- uid: AzerothWarsCSharp.Source.GameLogic.GameEnd.PlayerLeaves
   name: PlayerLeaves
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameEnd.PlayerLeaves.html
-  commentId: T:AzerothWarsCSharp.Source.Game_Logic.GameEnd.PlayerLeaves
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameEnd.PlayerLeaves
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.PlayerLeaves.html
+  commentId: T:AzerothWarsCSharp.Source.GameLogic.GameEnd.PlayerLeaves
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameEnd.PlayerLeaves
   nameWithType: PlayerLeaves
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameEnd.PlayerLeaves.Setup
+- uid: AzerothWarsCSharp.Source.GameLogic.GameEnd.PlayerLeaves.Setup
   name: Setup()
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameEnd.PlayerLeaves.html#AzerothWarsCSharp_Source_Game_Logic_GameEnd_PlayerLeaves_Setup
-  commentId: M:AzerothWarsCSharp.Source.Game_Logic.GameEnd.PlayerLeaves.Setup
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameEnd.PlayerLeaves.Setup()
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.PlayerLeaves.html#AzerothWarsCSharp_Source_GameLogic_GameEnd_PlayerLeaves_Setup
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.GameEnd.PlayerLeaves.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameEnd.PlayerLeaves.Setup()
   nameWithType: PlayerLeaves.Setup()
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameEnd.PlayerLeaves.Setup*
+- uid: AzerothWarsCSharp.Source.GameLogic.GameEnd.PlayerLeaves.Setup*
   name: Setup
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameEnd.PlayerLeaves.html#AzerothWarsCSharp_Source_Game_Logic_GameEnd_PlayerLeaves_Setup_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.GameEnd.PlayerLeaves.Setup
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.PlayerLeaves.html#AzerothWarsCSharp_Source_GameLogic_GameEnd_PlayerLeaves_Setup_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.GameEnd.PlayerLeaves.Setup
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameEnd.PlayerLeaves.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameEnd.PlayerLeaves.Setup
   nameWithType: PlayerLeaves.Setup
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameEnd.VictoryDefeat
+- uid: AzerothWarsCSharp.Source.GameLogic.GameEnd.VictoryDefeat
   name: VictoryDefeat
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameEnd.VictoryDefeat.html
-  commentId: T:AzerothWarsCSharp.Source.Game_Logic.GameEnd.VictoryDefeat
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameEnd.VictoryDefeat
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.VictoryDefeat.html
+  commentId: T:AzerothWarsCSharp.Source.GameLogic.GameEnd.VictoryDefeat
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameEnd.VictoryDefeat
   nameWithType: VictoryDefeat
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameEnd.VictoryDefeat.GameWon
+- uid: AzerothWarsCSharp.Source.GameLogic.GameEnd.VictoryDefeat.GameWon
   name: GameWon
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameEnd.VictoryDefeat.html#AzerothWarsCSharp_Source_Game_Logic_GameEnd_VictoryDefeat_GameWon
-  commentId: F:AzerothWarsCSharp.Source.Game_Logic.GameEnd.VictoryDefeat.GameWon
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameEnd.VictoryDefeat.GameWon
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.VictoryDefeat.html#AzerothWarsCSharp_Source_GameLogic_GameEnd_VictoryDefeat_GameWon
+  commentId: F:AzerothWarsCSharp.Source.GameLogic.GameEnd.VictoryDefeat.GameWon
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameEnd.VictoryDefeat.GameWon
   nameWithType: VictoryDefeat.GameWon
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameEnd.VictoryDefeat.TeamVictory(AzerothWarsCSharp.MacroTools.FactionSystem.Team)
+- uid: AzerothWarsCSharp.Source.GameLogic.GameEnd.VictoryDefeat.TeamVictory(AzerothWarsCSharp.MacroTools.FactionSystem.Team)
   name: TeamVictory(Team)
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameEnd.VictoryDefeat.html#AzerothWarsCSharp_Source_Game_Logic_GameEnd_VictoryDefeat_TeamVictory_AzerothWarsCSharp_MacroTools_FactionSystem_Team_
-  commentId: M:AzerothWarsCSharp.Source.Game_Logic.GameEnd.VictoryDefeat.TeamVictory(AzerothWarsCSharp.MacroTools.FactionSystem.Team)
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameEnd.VictoryDefeat.TeamVictory(AzerothWarsCSharp.MacroTools.FactionSystem.Team)
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.VictoryDefeat.html#AzerothWarsCSharp_Source_GameLogic_GameEnd_VictoryDefeat_TeamVictory_AzerothWarsCSharp_MacroTools_FactionSystem_Team_
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.GameEnd.VictoryDefeat.TeamVictory(AzerothWarsCSharp.MacroTools.FactionSystem.Team)
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameEnd.VictoryDefeat.TeamVictory(AzerothWarsCSharp.MacroTools.FactionSystem.Team)
   nameWithType: VictoryDefeat.TeamVictory(Team)
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameEnd.VictoryDefeat.TeamVictory*
+- uid: AzerothWarsCSharp.Source.GameLogic.GameEnd.VictoryDefeat.TeamVictory*
   name: TeamVictory
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameEnd.VictoryDefeat.html#AzerothWarsCSharp_Source_Game_Logic_GameEnd_VictoryDefeat_TeamVictory_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.GameEnd.VictoryDefeat.TeamVictory
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.VictoryDefeat.html#AzerothWarsCSharp_Source_GameLogic_GameEnd_VictoryDefeat_TeamVictory_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.GameEnd.VictoryDefeat.TeamVictory
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameEnd.VictoryDefeat.TeamVictory
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameEnd.VictoryDefeat.TeamVictory
   nameWithType: VictoryDefeat.TeamVictory
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameSettings
+- uid: AzerothWarsCSharp.Source.GameLogic.GameSettings
   name: GameSettings
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameSettings.html
-  commentId: T:AzerothWarsCSharp.Source.Game_Logic.GameSettings
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameSettings
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameSettings.html
+  commentId: T:AzerothWarsCSharp.Source.GameLogic.GameSettings
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameSettings
   nameWithType: GameSettings
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameSettings.Setup
+- uid: AzerothWarsCSharp.Source.GameLogic.GameSettings.Setup
   name: Setup()
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameSettings.html#AzerothWarsCSharp_Source_Game_Logic_GameSettings_Setup
-  commentId: M:AzerothWarsCSharp.Source.Game_Logic.GameSettings.Setup
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameSettings.Setup()
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameSettings.html#AzerothWarsCSharp_Source_GameLogic_GameSettings_Setup
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.GameSettings.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameSettings.Setup()
   nameWithType: GameSettings.Setup()
-- uid: AzerothWarsCSharp.Source.Game_Logic.GameSettings.Setup*
+- uid: AzerothWarsCSharp.Source.GameLogic.GameSettings.Setup*
   name: Setup
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.GameSettings.html#AzerothWarsCSharp_Source_Game_Logic_GameSettings_Setup_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.GameSettings.Setup
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.GameSettings.html#AzerothWarsCSharp_Source_GameLogic_GameSettings_Setup_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.GameSettings.Setup
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.GameSettings.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.GameSettings.Setup
   nameWithType: GameSettings.Setup
-- uid: AzerothWarsCSharp.Source.Game_Logic.HeroGlowFix
+- uid: AzerothWarsCSharp.Source.GameLogic.HeroGlowFix
   name: HeroGlowFix
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.HeroGlowFix.html
-  commentId: T:AzerothWarsCSharp.Source.Game_Logic.HeroGlowFix
-  fullName: AzerothWarsCSharp.Source.Game_Logic.HeroGlowFix
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.HeroGlowFix.html
+  commentId: T:AzerothWarsCSharp.Source.GameLogic.HeroGlowFix
+  fullName: AzerothWarsCSharp.Source.GameLogic.HeroGlowFix
   nameWithType: HeroGlowFix
-- uid: AzerothWarsCSharp.Source.Game_Logic.HeroGlowFix.Setup
+- uid: AzerothWarsCSharp.Source.GameLogic.HeroGlowFix.Setup
   name: Setup()
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.HeroGlowFix.html#AzerothWarsCSharp_Source_Game_Logic_HeroGlowFix_Setup
-  commentId: M:AzerothWarsCSharp.Source.Game_Logic.HeroGlowFix.Setup
-  fullName: AzerothWarsCSharp.Source.Game_Logic.HeroGlowFix.Setup()
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.HeroGlowFix.html#AzerothWarsCSharp_Source_GameLogic_HeroGlowFix_Setup
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.HeroGlowFix.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.HeroGlowFix.Setup()
   nameWithType: HeroGlowFix.Setup()
-- uid: AzerothWarsCSharp.Source.Game_Logic.HeroGlowFix.Setup*
+- uid: AzerothWarsCSharp.Source.GameLogic.HeroGlowFix.Setup*
   name: Setup
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.HeroGlowFix.html#AzerothWarsCSharp_Source_Game_Logic_HeroGlowFix_Setup_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.HeroGlowFix.Setup
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.HeroGlowFix.html#AzerothWarsCSharp_Source_GameLogic_HeroGlowFix_Setup_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.HeroGlowFix.Setup
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.HeroGlowFix.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.HeroGlowFix.Setup
   nameWithType: HeroGlowFix.Setup
-- uid: AzerothWarsCSharp.Source.Game_Logic.InfoQuests
+- uid: AzerothWarsCSharp.Source.GameLogic.InfoQuests
   name: InfoQuests
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.InfoQuests.html
-  commentId: T:AzerothWarsCSharp.Source.Game_Logic.InfoQuests
-  fullName: AzerothWarsCSharp.Source.Game_Logic.InfoQuests
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.InfoQuests.html
+  commentId: T:AzerothWarsCSharp.Source.GameLogic.InfoQuests
+  fullName: AzerothWarsCSharp.Source.GameLogic.InfoQuests
   nameWithType: InfoQuests
-- uid: AzerothWarsCSharp.Source.Game_Logic.InfoQuests.Setup
+- uid: AzerothWarsCSharp.Source.GameLogic.InfoQuests.Setup
   name: Setup()
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.InfoQuests.html#AzerothWarsCSharp_Source_Game_Logic_InfoQuests_Setup
-  commentId: M:AzerothWarsCSharp.Source.Game_Logic.InfoQuests.Setup
-  fullName: AzerothWarsCSharp.Source.Game_Logic.InfoQuests.Setup()
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.InfoQuests.html#AzerothWarsCSharp_Source_GameLogic_InfoQuests_Setup
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.InfoQuests.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.InfoQuests.Setup()
   nameWithType: InfoQuests.Setup()
-- uid: AzerothWarsCSharp.Source.Game_Logic.InfoQuests.Setup*
+- uid: AzerothWarsCSharp.Source.GameLogic.InfoQuests.Setup*
   name: Setup
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.InfoQuests.html#AzerothWarsCSharp_Source_Game_Logic_InfoQuests_Setup_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.InfoQuests.Setup
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.InfoQuests.html#AzerothWarsCSharp_Source_GameLogic_InfoQuests_Setup_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.InfoQuests.Setup
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.InfoQuests.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.InfoQuests.Setup
   nameWithType: InfoQuests.Setup
-- uid: AzerothWarsCSharp.Source.Game_Logic.ObserverSlots
+- uid: AzerothWarsCSharp.Source.GameLogic.ObserverSlots
   name: ObserverSlots
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.ObserverSlots.html
-  commentId: T:AzerothWarsCSharp.Source.Game_Logic.ObserverSlots
-  fullName: AzerothWarsCSharp.Source.Game_Logic.ObserverSlots
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.ObserverSlots.html
+  commentId: T:AzerothWarsCSharp.Source.GameLogic.ObserverSlots
+  fullName: AzerothWarsCSharp.Source.GameLogic.ObserverSlots
   nameWithType: ObserverSlots
-- uid: AzerothWarsCSharp.Source.Game_Logic.ObserverSlots.MakeObserver(player)
+- uid: AzerothWarsCSharp.Source.GameLogic.ObserverSlots.MakeObserver(player)
   name: MakeObserver(player)
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.ObserverSlots.html#AzerothWarsCSharp_Source_Game_Logic_ObserverSlots_MakeObserver_player_
-  commentId: M:AzerothWarsCSharp.Source.Game_Logic.ObserverSlots.MakeObserver(player)
-  fullName: AzerothWarsCSharp.Source.Game_Logic.ObserverSlots.MakeObserver(player)
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.ObserverSlots.html#AzerothWarsCSharp_Source_GameLogic_ObserverSlots_MakeObserver_player_
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.ObserverSlots.MakeObserver(player)
+  fullName: AzerothWarsCSharp.Source.GameLogic.ObserverSlots.MakeObserver(player)
   nameWithType: ObserverSlots.MakeObserver(player)
-- uid: AzerothWarsCSharp.Source.Game_Logic.ObserverSlots.MakeObserver*
+- uid: AzerothWarsCSharp.Source.GameLogic.ObserverSlots.MakeObserver*
   name: MakeObserver
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.ObserverSlots.html#AzerothWarsCSharp_Source_Game_Logic_ObserverSlots_MakeObserver_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.ObserverSlots.MakeObserver
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.ObserverSlots.html#AzerothWarsCSharp_Source_GameLogic_ObserverSlots_MakeObserver_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.ObserverSlots.MakeObserver
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.ObserverSlots.MakeObserver
+  fullName: AzerothWarsCSharp.Source.GameLogic.ObserverSlots.MakeObserver
   nameWithType: ObserverSlots.MakeObserver
-- uid: AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote
+- uid: AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote
   name: OpenAllianceVote
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote.html
-  commentId: T:AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote
-  fullName: AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote.html
+  commentId: T:AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote
+  fullName: AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote
   nameWithType: OpenAllianceVote
-- uid: AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote.AreAlliancesOpen
+- uid: AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote.AreAlliancesOpen
   name: AreAlliancesOpen
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote.html#AzerothWarsCSharp_Source_Game_Logic_OpenAllianceVote_AreAlliancesOpen
-  commentId: P:AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote.AreAlliancesOpen
-  fullName: AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote.AreAlliancesOpen
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote.html#AzerothWarsCSharp_Source_GameLogic_OpenAllianceVote_AreAlliancesOpen
+  commentId: P:AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote.AreAlliancesOpen
+  fullName: AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote.AreAlliancesOpen
   nameWithType: OpenAllianceVote.AreAlliancesOpen
-- uid: AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote.AreAlliancesOpen*
+- uid: AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote.AreAlliancesOpen*
   name: AreAlliancesOpen
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote.html#AzerothWarsCSharp_Source_Game_Logic_OpenAllianceVote_AreAlliancesOpen_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote.AreAlliancesOpen
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote.html#AzerothWarsCSharp_Source_GameLogic_OpenAllianceVote_AreAlliancesOpen_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote.AreAlliancesOpen
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote.AreAlliancesOpen
+  fullName: AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote.AreAlliancesOpen
   nameWithType: OpenAllianceVote.AreAlliancesOpen
-- uid: AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote.Setup
+- uid: AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote.Setup
   name: Setup()
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote.html#AzerothWarsCSharp_Source_Game_Logic_OpenAllianceVote_Setup
-  commentId: M:AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote.Setup
-  fullName: AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote.Setup()
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote.html#AzerothWarsCSharp_Source_GameLogic_OpenAllianceVote_Setup
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote.Setup()
   nameWithType: OpenAllianceVote.Setup()
-- uid: AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote.Setup*
+- uid: AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote.Setup*
   name: Setup
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote.html#AzerothWarsCSharp_Source_Game_Logic_OpenAllianceVote_Setup_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote.Setup
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote.html#AzerothWarsCSharp_Source_GameLogic_OpenAllianceVote_Setup_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote.Setup
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.OpenAllianceVote.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote.Setup
   nameWithType: OpenAllianceVote.Setup
-- uid: AzerothWarsCSharp.Source.Game_Logic.RefundZeroLimitUnits
+- uid: AzerothWarsCSharp.Source.GameLogic.RefundZeroLimitUnits
   name: RefundZeroLimitUnits
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.RefundZeroLimitUnits.html
-  commentId: T:AzerothWarsCSharp.Source.Game_Logic.RefundZeroLimitUnits
-  fullName: AzerothWarsCSharp.Source.Game_Logic.RefundZeroLimitUnits
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.RefundZeroLimitUnits.html
+  commentId: T:AzerothWarsCSharp.Source.GameLogic.RefundZeroLimitUnits
+  fullName: AzerothWarsCSharp.Source.GameLogic.RefundZeroLimitUnits
   nameWithType: RefundZeroLimitUnits
-- uid: AzerothWarsCSharp.Source.Game_Logic.RefundZeroLimitUnits.Setup
+- uid: AzerothWarsCSharp.Source.GameLogic.RefundZeroLimitUnits.Setup
   name: Setup()
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.RefundZeroLimitUnits.html#AzerothWarsCSharp_Source_Game_Logic_RefundZeroLimitUnits_Setup
-  commentId: M:AzerothWarsCSharp.Source.Game_Logic.RefundZeroLimitUnits.Setup
-  fullName: AzerothWarsCSharp.Source.Game_Logic.RefundZeroLimitUnits.Setup()
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.RefundZeroLimitUnits.html#AzerothWarsCSharp_Source_GameLogic_RefundZeroLimitUnits_Setup
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.RefundZeroLimitUnits.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.RefundZeroLimitUnits.Setup()
   nameWithType: RefundZeroLimitUnits.Setup()
-- uid: AzerothWarsCSharp.Source.Game_Logic.RefundZeroLimitUnits.Setup*
+- uid: AzerothWarsCSharp.Source.GameLogic.RefundZeroLimitUnits.Setup*
   name: Setup
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.RefundZeroLimitUnits.html#AzerothWarsCSharp_Source_Game_Logic_RefundZeroLimitUnits_Setup_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.RefundZeroLimitUnits.Setup
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.RefundZeroLimitUnits.html#AzerothWarsCSharp_Source_GameLogic_RefundZeroLimitUnits_Setup_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.RefundZeroLimitUnits.Setup
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.RefundZeroLimitUnits.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.RefundZeroLimitUnits.Setup
   nameWithType: RefundZeroLimitUnits.Setup
-- uid: AzerothWarsCSharp.Source.Game_Logic.ShipyardBanZones
+- uid: AzerothWarsCSharp.Source.GameLogic.ShipyardBanZones
   name: ShipyardBanZones
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.ShipyardBanZones.html
-  commentId: T:AzerothWarsCSharp.Source.Game_Logic.ShipyardBanZones
-  fullName: AzerothWarsCSharp.Source.Game_Logic.ShipyardBanZones
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.ShipyardBanZones.html
+  commentId: T:AzerothWarsCSharp.Source.GameLogic.ShipyardBanZones
+  fullName: AzerothWarsCSharp.Source.GameLogic.ShipyardBanZones
   nameWithType: ShipyardBanZones
-- uid: AzerothWarsCSharp.Source.Game_Logic.ShipyardBanZones.Setup(IEnumerable{Rectangle})
+- uid: AzerothWarsCSharp.Source.GameLogic.ShipyardBanZones.Setup(IEnumerable{Rectangle})
   name: Setup(IEnumerable<Rectangle>)
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.ShipyardBanZones.html#AzerothWarsCSharp_Source_Game_Logic_ShipyardBanZones_Setup_IEnumerable_Rectangle__
-  commentId: M:AzerothWarsCSharp.Source.Game_Logic.ShipyardBanZones.Setup(IEnumerable{Rectangle})
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.ShipyardBanZones.html#AzerothWarsCSharp_Source_GameLogic_ShipyardBanZones_Setup_IEnumerable_Rectangle__
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.ShipyardBanZones.Setup(IEnumerable{Rectangle})
   name.vb: Setup(IEnumerable(Of Rectangle))
-  fullName: AzerothWarsCSharp.Source.Game_Logic.ShipyardBanZones.Setup(IEnumerable<Rectangle>)
-  fullName.vb: AzerothWarsCSharp.Source.Game_Logic.ShipyardBanZones.Setup(IEnumerable(Of Rectangle))
+  fullName: AzerothWarsCSharp.Source.GameLogic.ShipyardBanZones.Setup(IEnumerable<Rectangle>)
+  fullName.vb: AzerothWarsCSharp.Source.GameLogic.ShipyardBanZones.Setup(IEnumerable(Of Rectangle))
   nameWithType: ShipyardBanZones.Setup(IEnumerable<Rectangle>)
   nameWithType.vb: ShipyardBanZones.Setup(IEnumerable(Of Rectangle))
-- uid: AzerothWarsCSharp.Source.Game_Logic.ShipyardBanZones.Setup*
+- uid: AzerothWarsCSharp.Source.GameLogic.ShipyardBanZones.Setup*
   name: Setup
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.ShipyardBanZones.html#AzerothWarsCSharp_Source_Game_Logic_ShipyardBanZones_Setup_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.ShipyardBanZones.Setup
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.ShipyardBanZones.html#AzerothWarsCSharp_Source_GameLogic_ShipyardBanZones_Setup_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.ShipyardBanZones.Setup
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.ShipyardBanZones.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.ShipyardBanZones.Setup
   nameWithType: ShipyardBanZones.Setup
-- uid: AzerothWarsCSharp.Source.Game_Logic.StartingQuestPopup
+- uid: AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup
   name: StartingQuestPopup
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.StartingQuestPopup.html
-  commentId: T:AzerothWarsCSharp.Source.Game_Logic.StartingQuestPopup
-  fullName: AzerothWarsCSharp.Source.Game_Logic.StartingQuestPopup
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.html
+  commentId: T:AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup
+  fullName: AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup
   nameWithType: StartingQuestPopup
-- uid: AzerothWarsCSharp.Source.Game_Logic.StartingQuestPopup.Setup
+- uid: AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.Setup
   name: Setup()
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.StartingQuestPopup.html#AzerothWarsCSharp_Source_Game_Logic_StartingQuestPopup_Setup
-  commentId: M:AzerothWarsCSharp.Source.Game_Logic.StartingQuestPopup.Setup
-  fullName: AzerothWarsCSharp.Source.Game_Logic.StartingQuestPopup.Setup()
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.html#AzerothWarsCSharp_Source_GameLogic_StartingQuestPopup_Setup
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.Setup()
   nameWithType: StartingQuestPopup.Setup()
-- uid: AzerothWarsCSharp.Source.Game_Logic.StartingQuestPopup.Setup*
+- uid: AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.Setup*
   name: Setup
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.StartingQuestPopup.html#AzerothWarsCSharp_Source_Game_Logic_StartingQuestPopup_Setup_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.StartingQuestPopup.Setup
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.html#AzerothWarsCSharp_Source_GameLogic_StartingQuestPopup_Setup_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.Setup
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.StartingQuestPopup.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.Setup
   nameWithType: StartingQuestPopup.Setup
-- uid: AzerothWarsCSharp.Source.Game_Logic.StartingResources
+- uid: AzerothWarsCSharp.Source.GameLogic.StartingResources
   name: StartingResources
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.StartingResources.html
-  commentId: T:AzerothWarsCSharp.Source.Game_Logic.StartingResources
-  fullName: AzerothWarsCSharp.Source.Game_Logic.StartingResources
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.StartingResources.html
+  commentId: T:AzerothWarsCSharp.Source.GameLogic.StartingResources
+  fullName: AzerothWarsCSharp.Source.GameLogic.StartingResources
   nameWithType: StartingResources
-- uid: AzerothWarsCSharp.Source.Game_Logic.StartingResources.Setup
+- uid: AzerothWarsCSharp.Source.GameLogic.StartingResources.Setup
   name: Setup()
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.StartingResources.html#AzerothWarsCSharp_Source_Game_Logic_StartingResources_Setup
-  commentId: M:AzerothWarsCSharp.Source.Game_Logic.StartingResources.Setup
-  fullName: AzerothWarsCSharp.Source.Game_Logic.StartingResources.Setup()
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.StartingResources.html#AzerothWarsCSharp_Source_GameLogic_StartingResources_Setup
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.StartingResources.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.StartingResources.Setup()
   nameWithType: StartingResources.Setup()
-- uid: AzerothWarsCSharp.Source.Game_Logic.StartingResources.Setup*
+- uid: AzerothWarsCSharp.Source.GameLogic.StartingResources.Setup*
   name: Setup
-  href: api-source/AzerothWarsCSharp.Source.Game_Logic.StartingResources.html#AzerothWarsCSharp_Source_Game_Logic_StartingResources_Setup_
-  commentId: Overload:AzerothWarsCSharp.Source.Game_Logic.StartingResources.Setup
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.StartingResources.html#AzerothWarsCSharp_Source_GameLogic_StartingResources_Setup_
+  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.StartingResources.Setup
   isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.Game_Logic.StartingResources.Setup
+  fullName: AzerothWarsCSharp.Source.GameLogic.StartingResources.Setup
   nameWithType: StartingResources.Setup
 - uid: AzerothWarsCSharp.Source.Hints
   name: AzerothWarsCSharp.Source.Hints
