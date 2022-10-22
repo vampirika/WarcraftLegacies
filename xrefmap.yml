@@ -2800,12 +2800,6 @@ references:
   commentId: F:AzerothWarsCSharp.MacroTools.FactionSystem.AllianceState.Unallied
   fullName: AzerothWarsCSharp.MacroTools.FactionSystem.AllianceState.Unallied
   nameWithType: AllianceState.Unallied
-- uid: AzerothWarsCSharp.MacroTools.FactionSystem.AllianceState.UnalliedVision
-  name: UnalliedVision
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.AllianceState.html#AzerothWarsCSharp_MacroTools_FactionSystem_AllianceState_UnalliedVision
-  commentId: F:AzerothWarsCSharp.MacroTools.FactionSystem.AllianceState.UnalliedVision
-  fullName: AzerothWarsCSharp.MacroTools.FactionSystem.AllianceState.UnalliedVision
-  nameWithType: AllianceState.UnalliedVision
 - uid: AzerothWarsCSharp.MacroTools.FactionSystem.Faction
   name: Faction
   href: api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.Faction.html
