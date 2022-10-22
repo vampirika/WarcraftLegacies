@@ -73,7 +73,7 @@
   
   <h1 id="AzerothWarsCSharp_Source_GameLogic_CleanPersons" data-uid="AzerothWarsCSharp.Source.GameLogic.CleanPersons" class="text-break">Class CleanPersons
   </h1>
-  <div class="markdown level0 summary"><p>Removes players from the game if their slot is unoccupied.</p>
+  <div class="markdown level0 summary"><p>Responsible for ensuring that unoccupied player slots do not persist in the game.</p>
 </div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
@@ -94,11 +94,12 @@
     <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/new/main/apiSpec/new?filename=AzerothWarsCSharp_Source_GameLogic_CleanPersons_Setup.md&amp;value=---%0Auid%3A%20AzerothWarsCSharp.Source.GameLogic.CleanPersons.Setup%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/blob/main/src/AzerothWarsCSharp.Source/GameLogic/CleanPersons.cs/#L13">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/blob/main/src/AzerothWarsCSharp.Source/GameLogic/CleanPersons.cs/#L16">View Source</a>
   </span>
   <a id="AzerothWarsCSharp_Source_GameLogic_CleanPersons_Setup_" data-uid="AzerothWarsCSharp.Source.GameLogic.CleanPersons.Setup*"></a>
   <h4 id="AzerothWarsCSharp_Source_GameLogic_CleanPersons_Setup" data-uid="AzerothWarsCSharp.Source.GameLogic.CleanPersons.Setup">Setup()</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>After a short delay, removes players from the game if their slot is unoccupied.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">

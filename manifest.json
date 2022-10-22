@@ -3225,7 +3225,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.CinematicMode.html",
-          "hash": "TXQb/h4JcDwIzbtrKQmx1Q=="
+          "hash": "ZoQEH2BNWl3RCaVt2FgQtw=="
         }
       },
       "is_incremental": false,
@@ -3237,7 +3237,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.CinematicState.html",
-          "hash": "D9FSa8o6EOy1swJUGm0BSQ=="
+          "hash": "8ewQ19YO9OE8M/p7i8TZDA=="
         }
       },
       "is_incremental": false,
@@ -3249,7 +3249,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.CleanPersons.html",
-          "hash": "aV9VFRX4LUX+k7ddw7mcUg=="
+          "hash": "568fZYfiAtpYNFIfnFfHpg=="
         }
       },
       "is_incremental": false,
@@ -3261,7 +3261,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.DisplayIntroText.html",
-          "hash": "7JkfKHrEChaH/TtztxBuxw=="
+          "hash": "RRYHIZ5yIaN+6+0rGal+eg=="
         }
       },
       "is_incremental": false,
@@ -3321,7 +3321,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.GameSettings.html",
-          "hash": "JFlNUgzShK06chrd/d3miQ=="
+          "hash": "TRog8MABq796luq4JAgdig=="
         }
       },
       "is_incremental": false,
@@ -3333,7 +3333,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.HeroGlowFix.html",
-          "hash": "OwsTkNUgyPZF7EyI+0zGCg=="
+          "hash": "eozkeEKoyQCfnh07BoFlJQ=="
         }
       },
       "is_incremental": false,
@@ -3345,19 +3345,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.InfoQuests.html",
-          "hash": "uPkwM0cL65KDzmNNJwzHlg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.ObserverSlots.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.ObserverSlots.html",
-          "hash": "sCCUfXxYe5+J0HiBmVT7Fg=="
+          "hash": "6bL3qh7OnLaY8/L94Mxt8A=="
         }
       },
       "is_incremental": false,
@@ -3381,7 +3369,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.RefundZeroLimitUnits.html",
-          "hash": "l/WKKXwrkV72A+eLSmC1Zg=="
+          "hash": "+HOeCftYfuD5N6KIUut1Iw=="
         }
       },
       "is_incremental": false,
@@ -3393,7 +3381,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.ShipyardBanZones.html",
-          "hash": "GMaUZPQuIcohSWgDng1Mjg=="
+          "hash": "CRDAXqqkUbkKixoon1z58A=="
         }
       },
       "is_incremental": false,
@@ -3405,7 +3393,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.html",
-          "hash": "fGb7mJe4xZkG4OPhufvUAw=="
+          "hash": "uZWtQjFH47ofby3O4fG+QA=="
         }
       },
       "is_incremental": false,
@@ -3417,7 +3405,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.StartingResources.html",
-          "hash": "90Xs4jkAqNrN8PdY/sbJ/g=="
+          "hash": "+aEpcvJkDwJ/RN2QgEopPA=="
         }
       },
       "is_incremental": false,
@@ -3429,7 +3417,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.html",
-          "hash": "y56x03nHTVSXDrrbR6FCig=="
+          "hash": "x61a/bJE8PTtnq/MbD7CeQ=="
         }
       },
       "is_incremental": false,
@@ -6477,7 +6465,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.GameSetup.html",
-          "hash": "d48/NPGFgr3UZXF8tyhKrg=="
+          "hash": "yum3XQQo15JZXO/xg53qSA=="
         }
       },
       "is_incremental": false,
@@ -7233,7 +7221,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.html",
-          "hash": "07RXlYmVxw6UAQig3JFS+A=="
+          "hash": "/x7ZkSDhZnCSjuKRn7qFPA=="
         }
       },
       "is_incremental": false,
@@ -7317,7 +7305,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "Sif2ll3lXF7KnDlXOt27Ug=="
+          "hash": "kvYDUrZ3kC93+K9AQMHvEg=="
         }
       },
       "is_incremental": false,
@@ -7392,7 +7380,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 608,
+          "total_file_count": 607,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

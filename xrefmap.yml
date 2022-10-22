@@ -13064,25 +13064,6 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.Source.GameLogic.InfoQuests.Setup
   nameWithType: InfoQuests.Setup
-- uid: AzerothWarsCSharp.Source.GameLogic.ObserverSlots
-  name: ObserverSlots
-  href: api-source/AzerothWarsCSharp.Source.GameLogic.ObserverSlots.html
-  commentId: T:AzerothWarsCSharp.Source.GameLogic.ObserverSlots
-  fullName: AzerothWarsCSharp.Source.GameLogic.ObserverSlots
-  nameWithType: ObserverSlots
-- uid: AzerothWarsCSharp.Source.GameLogic.ObserverSlots.MakeObserver(player)
-  name: MakeObserver(player)
-  href: api-source/AzerothWarsCSharp.Source.GameLogic.ObserverSlots.html#AzerothWarsCSharp_Source_GameLogic_ObserverSlots_MakeObserver_player_
-  commentId: M:AzerothWarsCSharp.Source.GameLogic.ObserverSlots.MakeObserver(player)
-  fullName: AzerothWarsCSharp.Source.GameLogic.ObserverSlots.MakeObserver(player)
-  nameWithType: ObserverSlots.MakeObserver(player)
-- uid: AzerothWarsCSharp.Source.GameLogic.ObserverSlots.MakeObserver*
-  name: MakeObserver
-  href: api-source/AzerothWarsCSharp.Source.GameLogic.ObserverSlots.html#AzerothWarsCSharp_Source_GameLogic_ObserverSlots_MakeObserver_
-  commentId: Overload:AzerothWarsCSharp.Source.GameLogic.ObserverSlots.MakeObserver
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.Source.GameLogic.ObserverSlots.MakeObserver
-  nameWithType: ObserverSlots.MakeObserver
 - uid: AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote
   name: OpenAllianceVote
   href: api-source/AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote.html
@@ -13162,12 +13143,12 @@ references:
   commentId: T:AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup
   fullName: AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup
   nameWithType: StartingQuestPopup
-- uid: AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.Setup
-  name: Setup()
-  href: api-source/AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.html#AzerothWarsCSharp_Source_GameLogic_StartingQuestPopup_Setup
-  commentId: M:AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.Setup
-  fullName: AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.Setup()
-  nameWithType: StartingQuestPopup.Setup()
+- uid: AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.Setup(System.Single)
+  name: Setup(Single)
+  href: api-source/AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.html#AzerothWarsCSharp_Source_GameLogic_StartingQuestPopup_Setup_System_Single_
+  commentId: M:AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.Setup(System.Single)
+  fullName: AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.Setup(System.Single)
+  nameWithType: StartingQuestPopup.Setup(Single)
 - uid: AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.Setup*
   name: Setup
   href: api-source/AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.html#AzerothWarsCSharp_Source_GameLogic_StartingQuestPopup_Setup_
