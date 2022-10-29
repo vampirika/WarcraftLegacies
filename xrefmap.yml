@@ -1981,6 +1981,54 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Cheats.CheatAddRandomAugment.Setup
   nameWithType: CheatAddRandomAugment.Setup
+- uid: AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell
+  name: CheatAddSpell
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.html
+  commentId: T:AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell
+  fullName: AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell
+  nameWithType: CheatAddSpell
+- uid: AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.Command
+  name: Command
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.html#AzerothWarsCSharp_MacroTools_Cheats_CheatAddSpell_Command
+  commentId: P:AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.Command
+  fullName: AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.Command
+  nameWithType: CheatAddSpell.Command
+- uid: AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.Command*
+  name: Command
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.html#AzerothWarsCSharp_MacroTools_Cheats_CheatAddSpell_Command_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.Command
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.Command
+  nameWithType: CheatAddSpell.Command
+- uid: AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.Execute(player,System.String[])
+  name: Execute(player, String[])
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.html#AzerothWarsCSharp_MacroTools_Cheats_CheatAddSpell_Execute_player_System_String___
+  commentId: M:AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.Execute(player,System.String[])
+  name.vb: Execute(player, String())
+  fullName: AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.Execute(player, System.String[])
+  fullName.vb: AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.Execute(player, System.String())
+  nameWithType: CheatAddSpell.Execute(player, String[])
+  nameWithType.vb: CheatAddSpell.Execute(player, String())
+- uid: AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.Execute*
+  name: Execute
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.html#AzerothWarsCSharp_MacroTools_Cheats_CheatAddSpell_Execute_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.Execute
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.Execute
+  nameWithType: CheatAddSpell.Execute
+- uid: AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.ParameterCount
+  name: ParameterCount
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.html#AzerothWarsCSharp_MacroTools_Cheats_CheatAddSpell_ParameterCount
+  commentId: P:AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.ParameterCount
+  fullName: AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.ParameterCount
+  nameWithType: CheatAddSpell.ParameterCount
+- uid: AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.ParameterCount*
+  name: ParameterCount
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.html#AzerothWarsCSharp_MacroTools_Cheats_CheatAddSpell_ParameterCount_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.ParameterCount
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.ParameterCount
+  nameWithType: CheatAddSpell.ParameterCount
 - uid: AzerothWarsCSharp.MacroTools.Cheats.CheatAugment
   name: CheatAugment
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatAugment.html
@@ -2482,6 +2530,79 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Cheats.TestSafety.Setup
   nameWithType: TestSafety.Setup
+- uid: AzerothWarsCSharp.MacroTools.CheatSystem
+  name: AzerothWarsCSharp.MacroTools.CheatSystem
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.CheatSystem.html
+  commentId: N:AzerothWarsCSharp.MacroTools.CheatSystem
+  fullName: AzerothWarsCSharp.MacroTools.CheatSystem
+  nameWithType: AzerothWarsCSharp.MacroTools.CheatSystem
+- uid: AzerothWarsCSharp.MacroTools.CheatSystem.Cheat
+  name: Cheat
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.html
+  commentId: T:AzerothWarsCSharp.MacroTools.CheatSystem.Cheat
+  fullName: AzerothWarsCSharp.MacroTools.CheatSystem.Cheat
+  nameWithType: Cheat
+- uid: AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.Command
+  name: Command
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.html#AzerothWarsCSharp_MacroTools_CheatSystem_Cheat_Command
+  commentId: P:AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.Command
+  fullName: AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.Command
+  nameWithType: Cheat.Command
+- uid: AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.Command*
+  name: Command
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.html#AzerothWarsCSharp_MacroTools_CheatSystem_Cheat_Command_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.Command
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.Command
+  nameWithType: Cheat.Command
+- uid: AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.Execute(player,System.String[])
+  name: Execute(player, String[])
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.html#AzerothWarsCSharp_MacroTools_CheatSystem_Cheat_Execute_player_System_String___
+  commentId: M:AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.Execute(player,System.String[])
+  name.vb: Execute(player, String())
+  fullName: AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.Execute(player, System.String[])
+  fullName.vb: AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.Execute(player, System.String())
+  nameWithType: Cheat.Execute(player, String[])
+  nameWithType.vb: Cheat.Execute(player, String())
+- uid: AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.Execute*
+  name: Execute
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.html#AzerothWarsCSharp_MacroTools_CheatSystem_Cheat_Execute_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.Execute
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.Execute
+  nameWithType: Cheat.Execute
+- uid: AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.ParameterCount
+  name: ParameterCount
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.html#AzerothWarsCSharp_MacroTools_CheatSystem_Cheat_ParameterCount
+  commentId: P:AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.ParameterCount
+  fullName: AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.ParameterCount
+  nameWithType: Cheat.ParameterCount
+- uid: AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.ParameterCount*
+  name: ParameterCount
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.html#AzerothWarsCSharp_MacroTools_CheatSystem_Cheat_ParameterCount_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.ParameterCount
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.ParameterCount
+  nameWithType: Cheat.ParameterCount
+- uid: AzerothWarsCSharp.MacroTools.CheatSystem.CheatManager
+  name: CheatManager
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.CheatSystem.CheatManager.html
+  commentId: T:AzerothWarsCSharp.MacroTools.CheatSystem.CheatManager
+  fullName: AzerothWarsCSharp.MacroTools.CheatSystem.CheatManager
+  nameWithType: CheatManager
+- uid: AzerothWarsCSharp.MacroTools.CheatSystem.CheatManager.Register(AzerothWarsCSharp.MacroTools.CheatSystem.Cheat)
+  name: Register(Cheat)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.CheatSystem.CheatManager.html#AzerothWarsCSharp_MacroTools_CheatSystem_CheatManager_Register_AzerothWarsCSharp_MacroTools_CheatSystem_Cheat_
+  commentId: M:AzerothWarsCSharp.MacroTools.CheatSystem.CheatManager.Register(AzerothWarsCSharp.MacroTools.CheatSystem.Cheat)
+  fullName: AzerothWarsCSharp.MacroTools.CheatSystem.CheatManager.Register(AzerothWarsCSharp.MacroTools.CheatSystem.Cheat)
+  nameWithType: CheatManager.Register(Cheat)
+- uid: AzerothWarsCSharp.MacroTools.CheatSystem.CheatManager.Register*
+  name: Register
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.CheatSystem.CheatManager.html#AzerothWarsCSharp_MacroTools_CheatSystem_CheatManager_Register_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.CheatSystem.CheatManager.Register
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.CheatSystem.CheatManager.Register
+  nameWithType: CheatManager.Register
 - uid: AzerothWarsCSharp.MacroTools.ControlPointSystem
   name: AzerothWarsCSharp.MacroTools.ControlPointSystem
   href: api-macroTools/AzerothWarsCSharp.MacroTools.ControlPointSystem.html
@@ -12712,6 +12833,19 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Wrappers.TriggerWrapper.RegisterFrameEvent
   nameWithType: TriggerWrapper.RegisterFrameEvent
+- uid: AzerothWarsCSharp.MacroTools.Wrappers.TriggerWrapper.RegisterPlayerChatEvent(player,System.String,System.Boolean)
+  name: RegisterPlayerChatEvent(player, String, Boolean)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Wrappers.TriggerWrapper.html#AzerothWarsCSharp_MacroTools_Wrappers_TriggerWrapper_RegisterPlayerChatEvent_player_System_String_System_Boolean_
+  commentId: M:AzerothWarsCSharp.MacroTools.Wrappers.TriggerWrapper.RegisterPlayerChatEvent(player,System.String,System.Boolean)
+  fullName: AzerothWarsCSharp.MacroTools.Wrappers.TriggerWrapper.RegisterPlayerChatEvent(player, System.String, System.Boolean)
+  nameWithType: TriggerWrapper.RegisterPlayerChatEvent(player, String, Boolean)
+- uid: AzerothWarsCSharp.MacroTools.Wrappers.TriggerWrapper.RegisterPlayerChatEvent*
+  name: RegisterPlayerChatEvent
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Wrappers.TriggerWrapper.html#AzerothWarsCSharp_MacroTools_Wrappers_TriggerWrapper_RegisterPlayerChatEvent_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Wrappers.TriggerWrapper.RegisterPlayerChatEvent
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Wrappers.TriggerWrapper.RegisterPlayerChatEvent
+  nameWithType: TriggerWrapper.RegisterPlayerChatEvent
 - uid: AzerothWarsCSharp.MacroTools.Wrappers.TriggerWrapper.RegisterUnitEvent(unit,unitevent)
   name: RegisterUnitEvent(unit, unitevent)
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Wrappers.TriggerWrapper.html#AzerothWarsCSharp_MacroTools_Wrappers_TriggerWrapper_RegisterUnitEvent_unit_unitevent_
