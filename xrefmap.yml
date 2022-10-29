@@ -12455,6 +12455,19 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.UnitType.GoldCost
   nameWithType: UnitType.GoldCost
+- uid: AzerothWarsCSharp.MacroTools.UnitType.Id
+  name: Id
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitType.html#AzerothWarsCSharp_MacroTools_UnitType_Id
+  commentId: P:AzerothWarsCSharp.MacroTools.UnitType.Id
+  fullName: AzerothWarsCSharp.MacroTools.UnitType.Id
+  nameWithType: UnitType.Id
+- uid: AzerothWarsCSharp.MacroTools.UnitType.Id*
+  name: Id
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitType.html#AzerothWarsCSharp_MacroTools_UnitType_Id_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitType.Id
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.UnitType.Id
+  nameWithType: UnitType.Id
 - uid: AzerothWarsCSharp.MacroTools.UnitType.LumberCost
   name: LumberCost
   href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitType.html#AzerothWarsCSharp_MacroTools_UnitType_LumberCost
