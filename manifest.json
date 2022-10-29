@@ -6905,6 +6905,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/AzerothWarsCSharp.Source.Setup.NeutralHostileSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.NeutralHostileSetup.html",
+          "hash": "vXv5+/dL47b1yqkHHEWVqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/AzerothWarsCSharp.Source.Setup.NeutralVictimAndPassiveSetup.yml",
       "output": {
         ".html": {
@@ -7353,7 +7365,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.html",
-          "hash": "Af53PT1BIG2XdMdEhxfsQw=="
+          "hash": "TNWOenNaKMCbx6bp/08YSQ=="
         }
       },
       "is_incremental": false,
@@ -7437,7 +7449,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "arTr98+efUX+XREklkbE9A=="
+          "hash": "dMsRs9sZ1U9LjAfc68YbTw=="
         }
       },
       "is_incremental": false,
@@ -7512,7 +7524,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 618,
+          "total_file_count": 619,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

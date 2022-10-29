@@ -29899,6 +29899,25 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.Source.Setup.Legends.LegendWarsong.WarsongEncampment
   nameWithType: LegendWarsong.WarsongEncampment
+- uid: AzerothWarsCSharp.Source.Setup.NeutralHostileSetup
+  name: NeutralHostileSetup
+  href: api-source/AzerothWarsCSharp.Source.Setup.NeutralHostileSetup.html
+  commentId: T:AzerothWarsCSharp.Source.Setup.NeutralHostileSetup
+  fullName: AzerothWarsCSharp.Source.Setup.NeutralHostileSetup
+  nameWithType: NeutralHostileSetup
+- uid: AzerothWarsCSharp.Source.Setup.NeutralHostileSetup.Setup
+  name: Setup()
+  href: api-source/AzerothWarsCSharp.Source.Setup.NeutralHostileSetup.html#AzerothWarsCSharp_Source_Setup_NeutralHostileSetup_Setup
+  commentId: M:AzerothWarsCSharp.Source.Setup.NeutralHostileSetup.Setup
+  fullName: AzerothWarsCSharp.Source.Setup.NeutralHostileSetup.Setup()
+  nameWithType: NeutralHostileSetup.Setup()
+- uid: AzerothWarsCSharp.Source.Setup.NeutralHostileSetup.Setup*
+  name: Setup
+  href: api-source/AzerothWarsCSharp.Source.Setup.NeutralHostileSetup.html#AzerothWarsCSharp_Source_Setup_NeutralHostileSetup_Setup_
+  commentId: Overload:AzerothWarsCSharp.Source.Setup.NeutralHostileSetup.Setup
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.Source.Setup.NeutralHostileSetup.Setup
+  nameWithType: NeutralHostileSetup.Setup
 - uid: AzerothWarsCSharp.Source.Setup.NeutralVictimAndPassiveSetup
   name: NeutralVictimAndPassiveSetup
   href: api-source/AzerothWarsCSharp.Source.Setup.NeutralVictimAndPassiveSetup.html
