@@ -429,7 +429,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.html",
-          "hash": "Quwtu/9Ffdyenmnmnt1EGQ=="
+          "hash": "5Geot6q4A2q/dsbDLqWsSA=="
         }
       },
       "is_incremental": false,
@@ -701,6 +701,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.html",
+          "hash": "f/CL6r5MNDFQdd20sedc3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatSpawn.yml",
       "output": {
         ".html": {
@@ -789,7 +801,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.html",
-          "hash": "BmYYM98L8qcQ6zzmbNjGRA=="
+          "hash": "kB2G8zIutbNS+9/ybtHTYA=="
         }
       },
       "is_incremental": false,
@@ -3045,7 +3057,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "SPQVvDGIPIzbiYFqydcNnQ=="
+          "hash": "wJ1cX5AG67NEnL4PpDFp1Q=="
         }
       },
       "is_incremental": false,
@@ -7464,7 +7476,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 614,
+          "total_file_count": 615,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

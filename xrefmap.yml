@@ -2371,6 +2371,54 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Cheats.CheatRemove.Setup
   nameWithType: CheatRemove.Setup
+- uid: AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel
+  name: CheatSetResearchLevel
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.html
+  commentId: T:AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel
+  fullName: AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel
+  nameWithType: CheatSetResearchLevel
+- uid: AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.Command
+  name: Command
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.html#AzerothWarsCSharp_MacroTools_Cheats_CheatSetResearchLevel_Command
+  commentId: P:AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.Command
+  fullName: AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.Command
+  nameWithType: CheatSetResearchLevel.Command
+- uid: AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.Command*
+  name: Command
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.html#AzerothWarsCSharp_MacroTools_Cheats_CheatSetResearchLevel_Command_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.Command
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.Command
+  nameWithType: CheatSetResearchLevel.Command
+- uid: AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.Execute(player,System.String[])
+  name: Execute(player, String[])
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.html#AzerothWarsCSharp_MacroTools_Cheats_CheatSetResearchLevel_Execute_player_System_String___
+  commentId: M:AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.Execute(player,System.String[])
+  name.vb: Execute(player, String())
+  fullName: AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.Execute(player, System.String[])
+  fullName.vb: AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.Execute(player, System.String())
+  nameWithType: CheatSetResearchLevel.Execute(player, String[])
+  nameWithType.vb: CheatSetResearchLevel.Execute(player, String())
+- uid: AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.Execute*
+  name: Execute
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.html#AzerothWarsCSharp_MacroTools_Cheats_CheatSetResearchLevel_Execute_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.Execute
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.Execute
+  nameWithType: CheatSetResearchLevel.Execute
+- uid: AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.ParameterCount
+  name: ParameterCount
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.html#AzerothWarsCSharp_MacroTools_Cheats_CheatSetResearchLevel_ParameterCount
+  commentId: P:AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.ParameterCount
+  fullName: AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.ParameterCount
+  nameWithType: CheatSetResearchLevel.ParameterCount
+- uid: AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.ParameterCount*
+  name: ParameterCount
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.html#AzerothWarsCSharp_MacroTools_Cheats_CheatSetResearchLevel_ParameterCount_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.ParameterCount
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.ParameterCount
+  nameWithType: CheatSetResearchLevel.ParameterCount
 - uid: AzerothWarsCSharp.MacroTools.Cheats.CheatSpawn
   name: CheatSpawn
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatSpawn.html
