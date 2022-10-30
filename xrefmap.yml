@@ -8791,19 +8791,6 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.ShoreSystem.Shore.Shore
   nameWithType: Shore.Shore
-- uid: AzerothWarsCSharp.MacroTools.ShoreSystem.Shore.GetNearestShore(Point)
-  name: GetNearestShore(Point)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.ShoreSystem.Shore.html#AzerothWarsCSharp_MacroTools_ShoreSystem_Shore_GetNearestShore_Point_
-  commentId: M:AzerothWarsCSharp.MacroTools.ShoreSystem.Shore.GetNearestShore(Point)
-  fullName: AzerothWarsCSharp.MacroTools.ShoreSystem.Shore.GetNearestShore(Point)
-  nameWithType: Shore.GetNearestShore(Point)
-- uid: AzerothWarsCSharp.MacroTools.ShoreSystem.Shore.GetNearestShore*
-  name: GetNearestShore
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.ShoreSystem.Shore.html#AzerothWarsCSharp_MacroTools_ShoreSystem_Shore_GetNearestShore_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.ShoreSystem.Shore.GetNearestShore
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.ShoreSystem.Shore.GetNearestShore
-  nameWithType: Shore.GetNearestShore
 - uid: AzerothWarsCSharp.MacroTools.ShoreSystem.Shore.Position
   name: Position
   href: api-macroTools/AzerothWarsCSharp.MacroTools.ShoreSystem.Shore.html#AzerothWarsCSharp_MacroTools_ShoreSystem_Shore_Position
@@ -8817,25 +8804,38 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.ShoreSystem.Shore.Position
   nameWithType: Shore.Position
-- uid: AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreSystem
-  name: ShoreSystem
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreSystem.html
-  commentId: T:AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreSystem
-  fullName: AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreSystem
-  nameWithType: ShoreSystem
-- uid: AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreSystem.Register(AzerothWarsCSharp.MacroTools.ShoreSystem.Shore)
-  name: Register(Shore)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreSystem.html#AzerothWarsCSharp_MacroTools_ShoreSystem_ShoreSystem_Register_AzerothWarsCSharp_MacroTools_ShoreSystem_Shore_
-  commentId: M:AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreSystem.Register(AzerothWarsCSharp.MacroTools.ShoreSystem.Shore)
-  fullName: AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreSystem.Register(AzerothWarsCSharp.MacroTools.ShoreSystem.Shore)
-  nameWithType: ShoreSystem.Register(Shore)
-- uid: AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreSystem.Register*
-  name: Register
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreSystem.html#AzerothWarsCSharp_MacroTools_ShoreSystem_ShoreSystem_Register_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreSystem.Register
+- uid: AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager
+  name: ShoreManager
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.html
+  commentId: T:AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager
+  fullName: AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager
+  nameWithType: ShoreManager
+- uid: AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.GetNearestShore(Point)
+  name: GetNearestShore(Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.html#AzerothWarsCSharp_MacroTools_ShoreSystem_ShoreManager_GetNearestShore_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.GetNearestShore(Point)
+  fullName: AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.GetNearestShore(Point)
+  nameWithType: ShoreManager.GetNearestShore(Point)
+- uid: AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.GetNearestShore*
+  name: GetNearestShore
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.html#AzerothWarsCSharp_MacroTools_ShoreSystem_ShoreManager_GetNearestShore_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.GetNearestShore
   isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreSystem.Register
-  nameWithType: ShoreSystem.Register
+  fullName: AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.GetNearestShore
+  nameWithType: ShoreManager.GetNearestShore
+- uid: AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.Register(AzerothWarsCSharp.MacroTools.ShoreSystem.Shore)
+  name: Register(Shore)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.html#AzerothWarsCSharp_MacroTools_ShoreSystem_ShoreManager_Register_AzerothWarsCSharp_MacroTools_ShoreSystem_Shore_
+  commentId: M:AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.Register(AzerothWarsCSharp.MacroTools.ShoreSystem.Shore)
+  fullName: AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.Register(AzerothWarsCSharp.MacroTools.ShoreSystem.Shore)
+  nameWithType: ShoreManager.Register(Shore)
+- uid: AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.Register*
+  name: Register
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.html#AzerothWarsCSharp_MacroTools_ShoreSystem_ShoreManager_Register_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.Register
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.Register
+  nameWithType: ShoreManager.Register
 - uid: AzerothWarsCSharp.MacroTools.SoundLibrary
   name: SoundLibrary
   href: api-macroTools/AzerothWarsCSharp.MacroTools.SoundLibrary.html

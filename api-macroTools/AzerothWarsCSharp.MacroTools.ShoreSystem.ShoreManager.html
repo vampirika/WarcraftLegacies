@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class TurnResearch
+    <title>Class ShoreManager
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class TurnResearch
+    <meta name="title" content="Class ShoreManager
    ">
     <meta name="generator" content="docfx 2.56.7.0">
     
@@ -68,84 +68,42 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="AzerothWarsCSharp.MacroTools.TurnResearch">
+            <article class="content wrap" id="_content" data-uid="AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager">
   
   
-  <h1 id="AzerothWarsCSharp_MacroTools_TurnResearch" data-uid="AzerothWarsCSharp.MacroTools.TurnResearch" class="text-break">Class TurnResearch
+  <h1 id="AzerothWarsCSharp_MacroTools_ShoreSystem_ShoreManager" data-uid="AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager" class="text-break">Class ShoreManager
   </h1>
-  <div class="markdown level0 summary"><p>A research that is automatically granted to all players when a particular turn has passed.</p>
+  <div class="markdown level0 summary"><p>Responsible for recording and providing searching for all <a class="xref" href="AzerothWarsCSharp.MacroTools.ShoreSystem.Shore.html">Shore</a>s in the game.</p>
 </div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><span class="xref">System.Object</span></div>
-    <div class="level1"><span class="xref">TurnResearch</span></div>
+    <div class="level1"><span class="xref">ShoreManager</span></div>
   </div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="AzerothWarsCSharp.MacroTools.html">AzerothWarsCSharp.MacroTools</a></h6>
+  <h6><strong>Namespace</strong>: <a class="xref" href="AzerothWarsCSharp.MacroTools.ShoreSystem.html">AzerothWarsCSharp.MacroTools.ShoreSystem</a></h6>
   <h6><strong>Assembly</strong>: AzerothWarsCSharp.MacroTools.dll</h6>
-  <h5 id="AzerothWarsCSharp_MacroTools_TurnResearch_syntax">Syntax</h5>
+  <h5 id="AzerothWarsCSharp_MacroTools_ShoreSystem_ShoreManager_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public sealed class TurnResearch : object</code></pre>
+    <pre><code class="lang-csharp hljs">public static class ShoreManager : object</code></pre>
   </div>
-  <h3 id="constructors">Constructors
-  </h3>
-  <span class="small pull-right mobile-hide">
-    <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/new/d91206cc49ca97634d79a4d1433d247d9f1fe1be/apiSpec/new?filename=AzerothWarsCSharp_MacroTools_TurnResearch__ctor_System_Int32_System_Int32_.md&amp;value=---%0Auid%3A%20AzerothWarsCSharp.MacroTools.TurnResearch.%23ctor(System.Int32%2CSystem.Int32)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
-  </span>
-  <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/blob/d91206cc49ca97634d79a4d1433d247d9f1fe1be/src/AzerothWarsCSharp.MacroTools/TurnResearch.cs/#L19">View Source</a>
-  </span>
-  <a id="AzerothWarsCSharp_MacroTools_TurnResearch__ctor_" data-uid="AzerothWarsCSharp.MacroTools.TurnResearch.#ctor*"></a>
-  <h4 id="AzerothWarsCSharp_MacroTools_TurnResearch__ctor_System_Int32_System_Int32_" data-uid="AzerothWarsCSharp.MacroTools.TurnResearch.#ctor(System.Int32,System.Int32)">TurnResearch(Int32, Int32)</h4>
-  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="AzerothWarsCSharp.MacroTools.TurnResearch.html">TurnResearch</a> class.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public TurnResearch(int researchId, int turn)</code></pre>
-  </div>
-  <h5 class="parameters">Parameters</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Name</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">System.Int32</span></td>
-        <td><span class="parametername">researchId</span></td>
-        <td><p>Which research to grant.</p>
-</td>
-      </tr>
-      <tr>
-        <td><span class="xref">System.Int32</span></td>
-        <td><span class="parametername">turn</span></td>
-        <td><p>Which turn this research should be granted on.</p>
-</td>
-      </tr>
-    </tbody>
-  </table>
   <h3 id="methods">Methods
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/new/d91206cc49ca97634d79a4d1433d247d9f1fe1be/apiSpec/new?filename=AzerothWarsCSharp_MacroTools_TurnResearch_Register_AzerothWarsCSharp_MacroTools_TurnResearch_.md&amp;value=---%0Auid%3A%20AzerothWarsCSharp.MacroTools.TurnResearch.Register(AzerothWarsCSharp.MacroTools.TurnResearch)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/new/d91206cc49ca97634d79a4d1433d247d9f1fe1be/apiSpec/new?filename=AzerothWarsCSharp_MacroTools_ShoreSystem_ShoreManager_GetNearestShore_Point_.md&amp;value=---%0Auid%3A%20AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.GetNearestShore(Point)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/blob/d91206cc49ca97634d79a4d1433d247d9f1fe1be/src/AzerothWarsCSharp.MacroTools/TurnResearch.cs/#L28">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/blob/d91206cc49ca97634d79a4d1433d247d9f1fe1be/src/AzerothWarsCSharp.MacroTools/ShoreSystem/ShoreManager.cs/#L27">View Source</a>
   </span>
-  <a id="AzerothWarsCSharp_MacroTools_TurnResearch_Register_" data-uid="AzerothWarsCSharp.MacroTools.TurnResearch.Register*"></a>
-  <h4 id="AzerothWarsCSharp_MacroTools_TurnResearch_Register_AzerothWarsCSharp_MacroTools_TurnResearch_" data-uid="AzerothWarsCSharp.MacroTools.TurnResearch.Register(AzerothWarsCSharp.MacroTools.TurnResearch)">Register(TurnResearch)</h4>
-  <div class="markdown level1 summary"><p>Registers a <a class="xref" href="AzerothWarsCSharp.MacroTools.TurnResearch.html">TurnResearch</a> so that the game can grant it at the speciified time.</p>
+  <a id="AzerothWarsCSharp_MacroTools_ShoreSystem_ShoreManager_GetNearestShore_" data-uid="AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.GetNearestShore*"></a>
+  <h4 id="AzerothWarsCSharp_MacroTools_ShoreSystem_ShoreManager_GetNearestShore_Point_" data-uid="AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.GetNearestShore(Point)">GetNearestShore(Point)</h4>
+  <div class="markdown level1 summary"><p>Returns the <a class="xref" href="AzerothWarsCSharp.MacroTools.ShoreSystem.Shore.html">Shore</a> closest to the given <see cref="!:Point"></see>.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static void Register(TurnResearch turnResearch)</code></pre>
+    <pre><code class="lang-csharp hljs">public static Shore GetNearestShore(Point position)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -158,8 +116,56 @@
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="AzerothWarsCSharp.MacroTools.TurnResearch.html">TurnResearch</a></td>
-        <td><span class="parametername">turnResearch</span></td>
+        <td><span class="xref">Point</span></td>
+        <td><span class="parametername">position</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="AzerothWarsCSharp.MacroTools.ShoreSystem.Shore.html">Shore</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/new/d91206cc49ca97634d79a4d1433d247d9f1fe1be/apiSpec/new?filename=AzerothWarsCSharp_MacroTools_ShoreSystem_ShoreManager_Register_AzerothWarsCSharp_MacroTools_ShoreSystem_Shore_.md&amp;value=---%0Auid%3A%20AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.Register(AzerothWarsCSharp.MacroTools.ShoreSystem.Shore)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/blob/d91206cc49ca97634d79a4d1433d247d9f1fe1be/src/AzerothWarsCSharp.MacroTools/ShoreSystem/ShoreManager.cs/#L19">View Source</a>
+  </span>
+  <a id="AzerothWarsCSharp_MacroTools_ShoreSystem_ShoreManager_Register_" data-uid="AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.Register*"></a>
+  <h4 id="AzerothWarsCSharp_MacroTools_ShoreSystem_ShoreManager_Register_AzerothWarsCSharp_MacroTools_ShoreSystem_Shore_" data-uid="AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.Register(AzerothWarsCSharp.MacroTools.ShoreSystem.Shore)">Register(Shore)</h4>
+  <div class="markdown level1 summary"><p>Registers a <a class="xref" href="AzerothWarsCSharp.MacroTools.ShoreSystem.Shore.html">Shore</a> to the <a class="xref" href="AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.html">ShoreManager</a>, allowing the manager to return it in search results.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void Register(Shore shore)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="AzerothWarsCSharp.MacroTools.ShoreSystem.Shore.html">Shore</a></td>
+        <td><span class="parametername">shore</span></td>
         <td></td>
       </tr>
     </tbody>
@@ -172,10 +178,10 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/new/d91206cc49ca97634d79a4d1433d247d9f1fe1be/apiSpec/new?filename=AzerothWarsCSharp_MacroTools_TurnResearch.md&amp;value=---%0Auid%3A%20AzerothWarsCSharp.MacroTools.TurnResearch%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/new/d91206cc49ca97634d79a4d1433d247d9f1fe1be/apiSpec/new?filename=AzerothWarsCSharp_MacroTools_ShoreSystem_ShoreManager.md&amp;value=---%0Auid%3A%20AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/blob/d91206cc49ca97634d79a4d1433d247d9f1fe1be/src/AzerothWarsCSharp.MacroTools/TurnResearch.cs/#L9" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/blob/d91206cc49ca97634d79a4d1433d247d9f1fe1be/src/AzerothWarsCSharp.MacroTools/ShoreSystem/ShoreManager.cs/#L10" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>
