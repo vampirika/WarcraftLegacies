@@ -10825,6 +10825,19 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Spells.Stomp.Radius
   nameWithType: Stomp.Radius
+- uid: AzerothWarsCSharp.MacroTools.Spells.Stomp.SpecialEffect
+  name: SpecialEffect
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.Stomp.html#AzerothWarsCSharp_MacroTools_Spells_Stomp_SpecialEffect
+  commentId: P:AzerothWarsCSharp.MacroTools.Spells.Stomp.SpecialEffect
+  fullName: AzerothWarsCSharp.MacroTools.Spells.Stomp.SpecialEffect
+  nameWithType: Stomp.SpecialEffect
+- uid: AzerothWarsCSharp.MacroTools.Spells.Stomp.SpecialEffect*
+  name: SpecialEffect
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.Stomp.html#AzerothWarsCSharp_MacroTools_Spells_Stomp_SpecialEffect_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Spells.Stomp.SpecialEffect
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Spells.Stomp.SpecialEffect
+  nameWithType: Stomp.SpecialEffect
 - uid: AzerothWarsCSharp.MacroTools.Spells.Stomp.StunAbilityId
   name: StunAbilityId
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Spells.Stomp.html#AzerothWarsCSharp_MacroTools_Spells_Stomp_StunAbilityId
@@ -11425,19 +11438,6 @@ references:
   commentId: T:AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.CastFilter
   fullName: AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.CastFilter
   nameWithType: DummyCast.CastFilter
-- uid: AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.CastOnUnit(unit,System.Int32,System.String,System.Int32,unit)
-  name: CastOnUnit(unit, Int32, String, Int32, unit)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.html#AzerothWarsCSharp_MacroTools_SpellSystem_DummyCast_CastOnUnit_unit_System_Int32_System_String_System_Int32_unit_
-  commentId: M:AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.CastOnUnit(unit,System.Int32,System.String,System.Int32,unit)
-  fullName: AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.CastOnUnit(unit, System.Int32, System.String, System.Int32, unit)
-  nameWithType: DummyCast.CastOnUnit(unit, Int32, String, Int32, unit)
-- uid: AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.CastOnUnit*
-  name: CastOnUnit
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.html#AzerothWarsCSharp_MacroTools_SpellSystem_DummyCast_CastOnUnit_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.CastOnUnit
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.CastOnUnit
-  nameWithType: DummyCast.CastOnUnit
 - uid: AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.ChannelOnPoint(unit,System.Int32,System.String,System.Int32,Point,System.Single)
   name: ChannelOnPoint(unit, Int32, String, Int32, Point, Single)
   href: api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.html#AzerothWarsCSharp_MacroTools_SpellSystem_DummyCast_ChannelOnPoint_unit_System_Int32_System_String_System_Int32_Point_System_Single_
