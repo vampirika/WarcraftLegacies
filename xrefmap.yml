@@ -3808,6 +3808,19 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.FactionSystem.Legend.Finalize
   nameWithType: Legend.Finalize
+- uid: AzerothWarsCSharp.MacroTools.FactionSystem.Legend.ForceCreate(player,Point,System.Single)
+  name: ForceCreate(player, Point, Single)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.Legend.html#AzerothWarsCSharp_MacroTools_FactionSystem_Legend_ForceCreate_player_Point_System_Single_
+  commentId: M:AzerothWarsCSharp.MacroTools.FactionSystem.Legend.ForceCreate(player,Point,System.Single)
+  fullName: AzerothWarsCSharp.MacroTools.FactionSystem.Legend.ForceCreate(player, Point, System.Single)
+  nameWithType: Legend.ForceCreate(player, Point, Single)
+- uid: AzerothWarsCSharp.MacroTools.FactionSystem.Legend.ForceCreate*
+  name: ForceCreate
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.Legend.html#AzerothWarsCSharp_MacroTools_FactionSystem_Legend_ForceCreate_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.FactionSystem.Legend.ForceCreate
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.FactionSystem.Legend.ForceCreate
+  nameWithType: Legend.ForceCreate
 - uid: AzerothWarsCSharp.MacroTools.FactionSystem.Legend.GetAllLegends
   name: GetAllLegends()
   href: api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.Legend.html#AzerothWarsCSharp_MacroTools_FactionSystem_Legend_GetAllLegends
@@ -3949,19 +3962,6 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.FactionSystem.Legend.Register
   nameWithType: Legend.Register
-- uid: AzerothWarsCSharp.MacroTools.FactionSystem.Legend.Spawn(player,Point,System.Single)
-  name: Spawn(player, Point, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.Legend.html#AzerothWarsCSharp_MacroTools_FactionSystem_Legend_Spawn_player_Point_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.FactionSystem.Legend.Spawn(player,Point,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.FactionSystem.Legend.Spawn(player, Point, System.Single)
-  nameWithType: Legend.Spawn(player, Point, Single)
-- uid: AzerothWarsCSharp.MacroTools.FactionSystem.Legend.Spawn*
-  name: Spawn
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.Legend.html#AzerothWarsCSharp_MacroTools_FactionSystem_Legend_Spawn_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.FactionSystem.Legend.Spawn
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.FactionSystem.Legend.Spawn
-  nameWithType: Legend.Spawn
 - uid: AzerothWarsCSharp.MacroTools.FactionSystem.Legend.StartingXp
   name: StartingXp
   href: api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.Legend.html#AzerothWarsCSharp_MacroTools_FactionSystem_Legend_StartingXp

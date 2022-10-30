@@ -595,6 +595,54 @@ the Legend permanently dies upon death.</p>
   </div>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/new/main/apiSpec/new?filename=AzerothWarsCSharp_MacroTools_FactionSystem_Legend_ForceCreate_player_Point_System_Single_.md&amp;value=---%0Auid%3A%20AzerothWarsCSharp.MacroTools.FactionSystem.Legend.ForceCreate(player%2CPoint%2CSystem.Single)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/blob/main/src/AzerothWarsCSharp.MacroTools/FactionSystem/Legend.cs/#L315">View Source</a>
+  </span>
+  <a id="AzerothWarsCSharp_MacroTools_FactionSystem_Legend_ForceCreate_" data-uid="AzerothWarsCSharp.MacroTools.FactionSystem.Legend.ForceCreate*"></a>
+  <h4 id="AzerothWarsCSharp_MacroTools_FactionSystem_Legend_ForceCreate_player_Point_System_Single_" data-uid="AzerothWarsCSharp.MacroTools.FactionSystem.Legend.ForceCreate(player,Point,System.Single)">ForceCreate(player, Point, Single)</h4>
+  <div class="markdown level1 summary"><p>Forces the <a class="xref" href="AzerothWarsCSharp.MacroTools.FactionSystem.Legend.html">Legend</a> to appear somewhere in the game world as a <see cref="!:unit"></see>.</p>
+<p>If the <a class="xref" href="AzerothWarsCSharp.MacroTools.FactionSystem.Legend.html">Legend</a> is alive, it moves there. If it&apos;s dead, it revives as well. If it doesn&apos;t exist,
+it gets created.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void ForceCreate(player owner, Point position, float facing)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">player</span></td>
+        <td><span class="parametername">owner</span></td>
+        <td><p>Which <see cref="!:player"></see> should own the <see cref="!:unit"></see> once it's spawned.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Point</span></td>
+        <td><span class="parametername">position</span></td>
+        <td><p>Where the <see cref="!:unit"></see> should spawn.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">facing</span></td>
+        <td><p>Which way the <see cref="!:unit"></see> should face.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
     <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/new/main/apiSpec/new?filename=AzerothWarsCSharp_MacroTools_FactionSystem_Legend_GetAllLegends.md&amp;value=---%0Auid%3A%20AzerothWarsCSharp.MacroTools.FactionSystem.Legend.GetAllLegends%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
@@ -704,54 +752,6 @@ and <a class="xref" href="AzerothWarsCSharp.MacroTools.FactionSystem.Legend.html
         <td><a class="xref" href="AzerothWarsCSharp.MacroTools.FactionSystem.Legend.html">Legend</a></td>
         <td><span class="parametername">legend</span></td>
         <td></td>
-      </tr>
-    </tbody>
-  </table>
-  <span class="small pull-right mobile-hide">
-    <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/new/main/apiSpec/new?filename=AzerothWarsCSharp_MacroTools_FactionSystem_Legend_Spawn_player_Point_System_Single_.md&amp;value=---%0Auid%3A%20AzerothWarsCSharp.MacroTools.FactionSystem.Legend.Spawn(player%2CPoint%2CSystem.Single)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
-  </span>
-  <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/AzerothWarsCSharp/blob/main/src/AzerothWarsCSharp.MacroTools/FactionSystem/Legend.cs/#L315">View Source</a>
-  </span>
-  <a id="AzerothWarsCSharp_MacroTools_FactionSystem_Legend_Spawn_" data-uid="AzerothWarsCSharp.MacroTools.FactionSystem.Legend.Spawn*"></a>
-  <h4 id="AzerothWarsCSharp_MacroTools_FactionSystem_Legend_Spawn_player_Point_System_Single_" data-uid="AzerothWarsCSharp.MacroTools.FactionSystem.Legend.Spawn(player,Point,System.Single)">Spawn(player, Point, Single)</h4>
-  <div class="markdown level1 summary"><p>Forces the <a class="xref" href="AzerothWarsCSharp.MacroTools.FactionSystem.Legend.html">Legend</a> to appear somewhere in the game world as a <see cref="!:unit"></see>.</p>
-<p>If the <a class="xref" href="AzerothWarsCSharp.MacroTools.FactionSystem.Legend.html">Legend</a> is alive, it moves there. If it&apos;s dead, it revives as well. If it doesn&apos;t exist,
-it gets created.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void Spawn(player owner, Point position, float facing)</code></pre>
-  </div>
-  <h5 class="parameters">Parameters</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Name</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">player</span></td>
-        <td><span class="parametername">owner</span></td>
-        <td><p>Which <see cref="!:player"></see> should own the <see cref="!:unit"></see> once it's spawned.</p>
-</td>
-      </tr>
-      <tr>
-        <td><span class="xref">Point</span></td>
-        <td><span class="parametername">position</span></td>
-        <td><p>Where the <see cref="!:unit"></see> should spawn.</p>
-</td>
-      </tr>
-      <tr>
-        <td><span class="xref">System.Single</span></td>
-        <td><span class="parametername">facing</span></td>
-        <td><p>Which way the <see cref="!:unit"></see> should face.</p>
-</td>
       </tr>
     </tbody>
   </table>
