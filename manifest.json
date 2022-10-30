@@ -6437,6 +6437,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup.html",
+          "hash": "1ad/U875/EXDAxFhdEv1mw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.IllidariSetup.yml",
       "output": {
         ".html": {
@@ -6609,7 +6621,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.html",
-          "hash": "b0pv659Sx/9xqwBW1OMGNA=="
+          "hash": "0ahucnjyCoAgYjQzxhOrwg=="
         }
       },
       "is_incremental": false,
@@ -7485,7 +7497,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "xy8JLiKY2EDVdfgeCwCdPg=="
+          "hash": "RnAyeImz7jy3EiudEJzPPQ=="
         }
       },
       "is_incremental": false,
@@ -7560,7 +7572,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 622,
+          "total_file_count": 623,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

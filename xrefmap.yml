@@ -26905,6 +26905,38 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.Source.Setup.FactionSetup.GoblinSetup.Setup
   nameWithType: GoblinSetup.Setup
+- uid: AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup
+  name: IllidanSetup
+  href: api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup.html
+  commentId: T:AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup
+  fullName: AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup
+  nameWithType: IllidanSetup
+- uid: AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup.Illidan
+  name: Illidan
+  href: api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup.html#AzerothWarsCSharp_Source_Setup_FactionSetup_IllidanSetup_Illidan
+  commentId: P:AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup.Illidan
+  fullName: AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup.Illidan
+  nameWithType: IllidanSetup.Illidan
+- uid: AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup.Illidan*
+  name: Illidan
+  href: api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup.html#AzerothWarsCSharp_Source_Setup_FactionSetup_IllidanSetup_Illidan_
+  commentId: Overload:AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup.Illidan
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup.Illidan
+  nameWithType: IllidanSetup.Illidan
+- uid: AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup.Setup
+  name: Setup()
+  href: api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup.html#AzerothWarsCSharp_Source_Setup_FactionSetup_IllidanSetup_Setup
+  commentId: M:AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup.Setup
+  fullName: AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup.Setup()
+  nameWithType: IllidanSetup.Setup()
+- uid: AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup.Setup*
+  name: Setup
+  href: api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup.html#AzerothWarsCSharp_Source_Setup_FactionSetup_IllidanSetup_Setup_
+  commentId: Overload:AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup.Setup
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.Source.Setup.FactionSetup.IllidanSetup.Setup
+  nameWithType: IllidanSetup.Setup
 - uid: AzerothWarsCSharp.Source.Setup.FactionSetup.IllidariSetup
   name: IllidariSetup
   href: api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.IllidariSetup.html
