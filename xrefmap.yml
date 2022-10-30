@@ -6315,19 +6315,6 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Libraries.Environment.GetPositionZ
   nameWithType: Environment.GetPositionZ
-- uid: AzerothWarsCSharp.MacroTools.Libraries.Environment.IsPlayerNeutralHostile(player)
-  name: IsPlayerNeutralHostile(player)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Libraries.Environment.html#AzerothWarsCSharp_MacroTools_Libraries_Environment_IsPlayerNeutralHostile_player_
-  commentId: M:AzerothWarsCSharp.MacroTools.Libraries.Environment.IsPlayerNeutralHostile(player)
-  fullName: AzerothWarsCSharp.MacroTools.Libraries.Environment.IsPlayerNeutralHostile(player)
-  nameWithType: Environment.IsPlayerNeutralHostile(player)
-- uid: AzerothWarsCSharp.MacroTools.Libraries.Environment.IsPlayerNeutralHostile*
-  name: IsPlayerNeutralHostile
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Libraries.Environment.html#AzerothWarsCSharp_MacroTools_Libraries_Environment_IsPlayerNeutralHostile_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.Libraries.Environment.IsPlayerNeutralHostile
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.Libraries.Environment.IsPlayerNeutralHostile
-  nameWithType: Environment.IsPlayerNeutralHostile
 - uid: AzerothWarsCSharp.MacroTools.Libraries.Environment.IsUnitInRect(unit,rect)
   name: IsUnitInRect(unit, rect)
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Libraries.Environment.html#AzerothWarsCSharp_MacroTools_Libraries_Environment_IsUnitInRect_unit_rect_
@@ -17472,12 +17459,12 @@ references:
   commentId: T:AzerothWarsCSharp.Source.Quests.Forsaken.QuestUndercity
   fullName: AzerothWarsCSharp.Source.Quests.Forsaken.QuestUndercity
   nameWithType: QuestUndercity
-- uid: AzerothWarsCSharp.Source.Quests.Forsaken.QuestUndercity.#ctor(Rectangle,unit,unit)
-  name: QuestUndercity(Rectangle, unit, unit)
-  href: api-source/AzerothWarsCSharp.Source.Quests.Forsaken.QuestUndercity.html#AzerothWarsCSharp_Source_Quests_Forsaken_QuestUndercity__ctor_Rectangle_unit_unit_
-  commentId: M:AzerothWarsCSharp.Source.Quests.Forsaken.QuestUndercity.#ctor(Rectangle,unit,unit)
-  fullName: AzerothWarsCSharp.Source.Quests.Forsaken.QuestUndercity.QuestUndercity(Rectangle, unit, unit)
-  nameWithType: QuestUndercity.QuestUndercity(Rectangle, unit, unit)
+- uid: AzerothWarsCSharp.Source.Quests.Forsaken.QuestUndercity.#ctor(Rectangle,unit,unit,unit,unit)
+  name: QuestUndercity(Rectangle, unit, unit, unit, unit)
+  href: api-source/AzerothWarsCSharp.Source.Quests.Forsaken.QuestUndercity.html#AzerothWarsCSharp_Source_Quests_Forsaken_QuestUndercity__ctor_Rectangle_unit_unit_unit_unit_
+  commentId: M:AzerothWarsCSharp.Source.Quests.Forsaken.QuestUndercity.#ctor(Rectangle,unit,unit,unit,unit)
+  fullName: AzerothWarsCSharp.Source.Quests.Forsaken.QuestUndercity.QuestUndercity(Rectangle, unit, unit, unit, unit)
+  nameWithType: QuestUndercity.QuestUndercity(Rectangle, unit, unit, unit, unit)
 - uid: AzerothWarsCSharp.Source.Quests.Forsaken.QuestUndercity.#ctor*
   name: QuestUndercity
   href: api-source/AzerothWarsCSharp.Source.Quests.Forsaken.QuestUndercity.html#AzerothWarsCSharp_Source_Quests_Forsaken_QuestUndercity__ctor_
