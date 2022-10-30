@@ -13539,6 +13539,25 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.Source.Dialogue.DruidsDialogueSetup.Setup
   nameWithType: DruidsDialogueSetup.Setup
+- uid: AzerothWarsCSharp.Source.Dialogue.LordaeronDialogueSetup
+  name: LordaeronDialogueSetup
+  href: api-source/AzerothWarsCSharp.Source.Dialogue.LordaeronDialogueSetup.html
+  commentId: T:AzerothWarsCSharp.Source.Dialogue.LordaeronDialogueSetup
+  fullName: AzerothWarsCSharp.Source.Dialogue.LordaeronDialogueSetup
+  nameWithType: LordaeronDialogueSetup
+- uid: AzerothWarsCSharp.Source.Dialogue.LordaeronDialogueSetup.Setup
+  name: Setup()
+  href: api-source/AzerothWarsCSharp.Source.Dialogue.LordaeronDialogueSetup.html#AzerothWarsCSharp_Source_Dialogue_LordaeronDialogueSetup_Setup
+  commentId: M:AzerothWarsCSharp.Source.Dialogue.LordaeronDialogueSetup.Setup
+  fullName: AzerothWarsCSharp.Source.Dialogue.LordaeronDialogueSetup.Setup()
+  nameWithType: LordaeronDialogueSetup.Setup()
+- uid: AzerothWarsCSharp.Source.Dialogue.LordaeronDialogueSetup.Setup*
+  name: Setup
+  href: api-source/AzerothWarsCSharp.Source.Dialogue.LordaeronDialogueSetup.html#AzerothWarsCSharp_Source_Dialogue_LordaeronDialogueSetup_Setup_
+  commentId: Overload:AzerothWarsCSharp.Source.Dialogue.LordaeronDialogueSetup.Setup
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.Source.Dialogue.LordaeronDialogueSetup.Setup
+  nameWithType: LordaeronDialogueSetup.Setup
 - uid: AzerothWarsCSharp.Source.Dialogue.ScourgeDialogueSetup
   name: ScourgeDialogueSetup
   href: api-source/AzerothWarsCSharp.Source.Dialogue.ScourgeDialogueSetup.html

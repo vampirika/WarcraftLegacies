@@ -3297,7 +3297,19 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Dialogue.DruidsDialogueSetup.html",
-          "hash": "ZA5SeVrNfOV509gtUkDynQ=="
+          "hash": "zzYNqMOAhhgs/awKwsFrng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/AzerothWarsCSharp.Source.Dialogue.LordaeronDialogueSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/AzerothWarsCSharp.Source.Dialogue.LordaeronDialogueSetup.html",
+          "hash": "E46t1qG7apVZWUyX6vzL9Q=="
         }
       },
       "is_incremental": false,
@@ -3333,7 +3345,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Dialogue.html",
-          "hash": "JrQi7KmmNxTDtWAgdGrolA=="
+          "hash": "fg4njw7fc5/82A6yWQQG1g=="
         }
       },
       "is_incremental": false,
@@ -5289,7 +5301,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.QuestTombOfSargeras.html",
-          "hash": "uZRYg4MN+4c3YTX9XPXLSg=="
+          "hash": "RM02BgTubge6n3GXZLV4UQ=="
         }
       },
       "is_incremental": false,
@@ -6033,7 +6045,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.html",
-          "hash": "XftRhy54kjv42ymn3eYrdQ=="
+          "hash": "E+o8jHl2SpI/Gv3zwLjojQ=="
         }
       },
       "is_incremental": false,
@@ -6297,7 +6309,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.DialogueSetup.html",
-          "hash": "iCmegthSMhxwInP81Y5u6g=="
+          "hash": "lBZEHpRsE54c1TVxq2ORUA=="
         }
       },
       "is_incremental": false,
@@ -7473,7 +7485,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "9Ofo6SGuQx62A64UHgQelg=="
+          "hash": "xy8JLiKY2EDVdfgeCwCdPg=="
         }
       },
       "is_incremental": false,
@@ -7548,7 +7560,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 621,
+          "total_file_count": 622,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
