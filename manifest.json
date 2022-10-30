@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.ArtifactSystem.Artifact.html",
-          "hash": "StwpeRxRA0VCXU6qVMxjeA=="
+          "hash": "NMcQxsGEHmJTziSQroLUsg=="
         }
       },
       "is_incremental": false,
@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.ArtifactSystem.ArtifactLocationType.html",
-          "hash": "4SK4EF4cHQahDX4xEhglnA=="
+          "hash": "BHKXVBP10RueltmcCAfKIQ=="
         }
       },
       "is_incremental": false,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.ArtifactSystem.ArtifactManager.html",
-          "hash": "R1kBboqNQMeWkg0Wkqe2kA=="
+          "hash": "TD5lnr3Lcs0W0619xVYfKA=="
         }
       },
       "is_incremental": false,
@@ -57,7 +57,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Augments.Augment.html",
-          "hash": "0NBajRu8oefTaUg6is/4Bg=="
+          "hash": "6LpwCLhaSYrzQaT9Pa85Mw=="
         }
       },
       "is_incremental": false,
@@ -69,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Augments.AugmentSystem.html",
-          "hash": "C4vHEif+J7h5et8xZwly7w=="
+          "hash": "EKwCElkeoCi9Udz6leKHrw=="
         }
       },
       "is_incremental": false,
@@ -81,7 +81,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Augments.HeroExperienceAugment.html",
-          "hash": "q9uhyQhMCwI//KQhu8nWAg=="
+          "hash": "DYaSz3MrunQ3PSMK6HbtkQ=="
         }
       },
       "is_incremental": false,
@@ -93,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Augments.IncomePowerAugment.html",
-          "hash": "e6pl9vo9ZjOO1rmKfvmz9w=="
+          "hash": "g4wH70No63SQLU+ocw/pYw=="
         }
       },
       "is_incremental": false,
@@ -105,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Augments.LumberIncomeAugment.html",
-          "hash": "wJeBPGCGQ2QhoN2NOH9r3Q=="
+          "hash": "A2CGB5eKkY2f9t0H5Qi9kQ=="
         }
       },
       "is_incremental": false,
@@ -117,7 +117,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Augments.RapidMobilizationAugment.html",
-          "hash": "3XfwbQFCsJ0yb4jqad3ivw=="
+          "hash": "KRZ2nQodfjncDxpw213Rhg=="
         }
       },
       "is_incremental": false,
@@ -129,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Augments.TitanicStrengthAugment.html",
-          "hash": "qSuRydtQHaJdazGAMnG5LQ=="
+          "hash": "/RLJla0tjxXNQ7Qgjuz7Rg=="
         }
       },
       "is_incremental": false,
@@ -153,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Buffs.AnimalCompanionCaster.html",
-          "hash": "2rKWb4Fol9Ngu0GVDcnE2Q=="
+          "hash": "471tM1s/W2cJ4WP/a9hSpw=="
         }
       },
       "is_incremental": false,
@@ -165,7 +165,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Buffs.AnimalCompanionTarget.html",
-          "hash": "hRGIcZ9JCOwF9vnGHuAaDA=="
+          "hash": "pjvKQJbLX9oRYjvAq79Uww=="
         }
       },
       "is_incremental": false,
@@ -177,7 +177,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Buffs.AscendancyBuff.html",
-          "hash": "J051JvpCaqxNW4W1WrRvlg=="
+          "hash": "fk9aLUlI96jcWF1AaAx4Lg=="
         }
       },
       "is_incremental": false,
@@ -189,7 +189,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Buffs.DarkConversionBuff.html",
-          "hash": "Df135bMieQvG4llvXQVBFg=="
+          "hash": "I4lLocI7ta35aup/NpR4kA=="
         }
       },
       "is_incremental": false,
@@ -201,7 +201,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Buffs.HideousAppendagesBuff.html",
-          "hash": "osRVnIijxeLjMQY4RAtgZw=="
+          "hash": "rqGF1M0lzCE8Nr1BhNOa/g=="
         }
       },
       "is_incremental": false,
@@ -213,7 +213,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Buffs.IncomeBuff.html",
-          "hash": "pE2yXYjPxsViGZfvUSIXyA=="
+          "hash": "hIgSmSYItKKdMg2Hs2oDfQ=="
         }
       },
       "is_incremental": false,
@@ -225,7 +225,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Buffs.OilProducerBuff.html",
-          "hash": "mI/EEeW8ZAxGcKhnJAXNXQ=="
+          "hash": "kPgXpbPbPjyRi6QsB+NUIA=="
         }
       },
       "is_incremental": false,
@@ -237,7 +237,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Buffs.OilUserBuff.html",
-          "hash": "X+bF1H03dLr7g1xaIMO0QQ=="
+          "hash": "g9dmnnvCq5ZUoJCMNpmmgg=="
         }
       },
       "is_incremental": false,
@@ -249,7 +249,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Buffs.ResurrectionAuraCaster.html",
-          "hash": "XtZvQ7JNqXduiQgS+RUjVg=="
+          "hash": "89NvCde+nFx3gnO39643NA=="
         }
       },
       "is_incremental": false,
@@ -261,7 +261,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Buffs.ResurrectionAuraTarget.html",
-          "hash": "tUEkdCE57lPX1xdnKlhWrw=="
+          "hash": "UEc7lmegJSt8tntWb3xo5w=="
         }
       },
       "is_incremental": false,
@@ -273,7 +273,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Buffs.SimulacrumBuff.html",
-          "hash": "r43vtS5c++1c6OiwVM6XCw=="
+          "hash": "Y1KR/LRcK5xHA/SfWoMslg=="
         }
       },
       "is_incremental": false,
@@ -285,7 +285,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Buffs.SpellResistanceAuraCaster.html",
-          "hash": "4jwZ70RFG0VXOh5bey6jfA=="
+          "hash": "5q6WdhGWuHhCTtvnlmTMSQ=="
         }
       },
       "is_incremental": false,
@@ -297,7 +297,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Buffs.SpellResistanceAuraTarget.html",
-          "hash": "Sccn8YYMnFSuo6J2LjsfIA=="
+          "hash": "RNCtDhhgNA+mQJbJn22+0Q=="
         }
       },
       "is_incremental": false,
@@ -309,7 +309,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Buffs.TraderBuff.html",
-          "hash": "BNJApJ4Bh96hLWWfxRctrA=="
+          "hash": "IJP4aX7AMUJQfsJxiOW3pw=="
         }
       },
       "is_incremental": false,
@@ -321,7 +321,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Buffs.VengeanceBuff.html",
-          "hash": "a3ibYDtROGSCz/Ai9Wb3+w=="
+          "hash": "FuOp+LBLV4qv6Gsqm7dIWw=="
         }
       },
       "is_incremental": false,
@@ -345,7 +345,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.ChannelSystem.Channel.html",
-          "hash": "TmkTJ/tWDNFOI2TktYGdjA=="
+          "hash": "fkUJAXhTGLP+QHD87DoXng=="
         }
       },
       "is_incremental": false,
@@ -357,7 +357,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.ChannelSystem.ChannelManager.html",
-          "hash": "JNeUWPIBLyNyezY3a1gJWQ=="
+          "hash": "DECdF3Y+ik/BhZbWPFgA2g=="
         }
       },
       "is_incremental": false,
@@ -369,7 +369,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.ChannelSystem.SimpleChannel.html",
-          "hash": "2yA1fFGj5zqqr6RK6cTSuw=="
+          "hash": "DfVDT3ay7pU9FtnMTNItow=="
         }
       },
       "is_incremental": false,
@@ -381,7 +381,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.ChannelSystem.TickingChannel.html",
-          "hash": "dnr/0Xl9JNzt7zUBfKXSaw=="
+          "hash": "ASetb3L+dvBmNBW4x0FEmQ=="
         }
       },
       "is_incremental": false,
@@ -405,7 +405,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Channels.SummonLegionChannel.html",
-          "hash": "MRUJVD4Aa/22TPl36ko/uA=="
+          "hash": "nl0CZpngIcM57WKA9ZETZw=="
         }
       },
       "is_incremental": false,
@@ -429,7 +429,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.CheatSystem.Cheat.html",
-          "hash": "5Geot6q4A2q/dsbDLqWsSA=="
+          "hash": "TLNl/oANHOLYDW+E26+5Yw=="
         }
       },
       "is_incremental": false,
@@ -441,7 +441,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.CheatSystem.CheatManager.html",
-          "hash": "BkjK7x+HZ4csr81Ce2F0EQ=="
+          "hash": "Dhdk3kpmnlqhi+VWM1F6Nw=="
         }
       },
       "is_incremental": false,
@@ -465,7 +465,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatAddRandomAugment.html",
-          "hash": "1HuYPNhfxle1AfHHk5xCOw=="
+          "hash": "CyygTA8yEiBsT8m9zYcOZA=="
         }
       },
       "is_incremental": false,
@@ -477,7 +477,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatAddSpell.html",
-          "hash": "brX135shwfWy2X5PxdFa4w=="
+          "hash": "ZHiBmt4HTTYhE6Tym/gPUw=="
         }
       },
       "is_incremental": false,
@@ -489,7 +489,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatAugment.html",
-          "hash": "x52IakiMB2dsXbtuVPz2tQ=="
+          "hash": "QI0OuRhXIYwDD//bsNsmtQ=="
         }
       },
       "is_incremental": false,
@@ -501,7 +501,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatBuild.html",
-          "hash": "UUFy7PvTWIOKIWHaoyErnw=="
+          "hash": "pqTXjyHwsM7TAmo8667yTg=="
         }
       },
       "is_incremental": false,
@@ -513,7 +513,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatCompleteQuest.html",
-          "hash": "Y61SKcnLsxdv+ndjqqmrcg=="
+          "hash": "ffUVbxB1cwW99OJKQZS9vw=="
         }
       },
       "is_incremental": false,
@@ -525,7 +525,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatControl.html",
-          "hash": "jHMeZwc2eGYqnaSkBEuvPw=="
+          "hash": "0f3J4M12EHy8PXrfXK9ZuA=="
         }
       },
       "is_incremental": false,
@@ -537,7 +537,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatFaction.html",
-          "hash": "K1ZWA8n7J5d03ca0Ua+LaQ=="
+          "hash": "bHikXzAexemYLqSTbZSbOg=="
         }
       },
       "is_incremental": false,
@@ -549,7 +549,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatFood.html",
-          "hash": "aK06SO7jIw2CUrb69SNUCQ=="
+          "hash": "YebhZAokqUT81xL9+R1FYw=="
         }
       },
       "is_incremental": false,
@@ -561,7 +561,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatGod.html",
-          "hash": "nCQukWBSvlbTOeZgxnIpqw=="
+          "hash": "69tsc04jNlBUoPHN7KSA8w=="
         }
       },
       "is_incremental": false,
@@ -573,7 +573,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatGold.html",
-          "hash": "in7rg+nirwRbsYqbzfSTOg=="
+          "hash": "QTSdId1HybdFovlDu2kTpw=="
         }
       },
       "is_incremental": false,
@@ -585,7 +585,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatHasResearch.html",
-          "hash": "Uj9X5BHj4Jdn+JdOyBFV9w=="
+          "hash": "2UCgifVXbO2LXm3pH65eNQ=="
         }
       },
       "is_incremental": false,
@@ -597,7 +597,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatHp.html",
-          "hash": "/DQvWE64WQtoFyT5B+ee2g=="
+          "hash": "wMjZ0ghd+oBYXblguoPgkQ=="
         }
       },
       "is_incremental": false,
@@ -609,7 +609,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatKick.html",
-          "hash": "MzOLA1yJ2Uh7DqKj2GSIFg=="
+          "hash": "cVCQJRK6ARliCM4QWn6PFw=="
         }
       },
       "is_incremental": false,
@@ -621,7 +621,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatLevel.html",
-          "hash": "nk52GtWHMPza863dgFChvg=="
+          "hash": "YvLwJqJnv4HfXBTQASrXBg=="
         }
       },
       "is_incremental": false,
@@ -633,7 +633,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatLumber.html",
-          "hash": "MdvoUTJo7qZimvBwvgkvfw=="
+          "hash": "+wT3aRi+bMbInEpZtR7Zsg=="
         }
       },
       "is_incremental": false,
@@ -645,7 +645,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatMana.html",
-          "hash": "9zXC+l5PMA9ojRbY812erw=="
+          "hash": "cgqBtORJEXz4fHCDwOcDcA=="
         }
       },
       "is_incremental": false,
@@ -657,7 +657,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatMp.html",
-          "hash": "wQox1fSvw7DhW6iD8oZc8Q=="
+          "hash": "ezfDs2L5V9egpHYYy+ZNCA=="
         }
       },
       "is_incremental": false,
@@ -669,7 +669,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatNocd.html",
-          "hash": "y/gmuBaMSCA6EPyx2IBsUA=="
+          "hash": "b203pC5A+Si0a7ITO3IBoA=="
         }
       },
       "is_incremental": false,
@@ -681,7 +681,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatOwner.html",
-          "hash": "MW7NDt48PRBFCZXbsB19Rw=="
+          "hash": "P2clk4JUw3HlBfYuN9W5sw=="
         }
       },
       "is_incremental": false,
@@ -693,7 +693,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatRemove.html",
-          "hash": "Mbhf/ITfleiWHyTj4VjmsA=="
+          "hash": "GcjYI8GuG+4LxEInz0k3+g=="
         }
       },
       "is_incremental": false,
@@ -705,7 +705,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatSetResearchLevel.html",
-          "hash": "f/CL6r5MNDFQdd20sedc3A=="
+          "hash": "yEOpNHDZew3dpvwpNtoNVg=="
         }
       },
       "is_incremental": false,
@@ -717,7 +717,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatSpawn.html",
-          "hash": "AhsWo9GCPQocbL2j/P8OMg=="
+          "hash": "0YlFKyJZdZHYy8x677dPSA=="
         }
       },
       "is_incremental": false,
@@ -729,7 +729,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatTeam.html",
-          "hash": "GbrBgnQ0fpYNNc6GIgp/gw=="
+          "hash": "TgQLlZmX5/Xo/MT9ORGxvA=="
         }
       },
       "is_incremental": false,
@@ -741,7 +741,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatTele.html",
-          "hash": "VKPiiVVxFOMhPrpDhgZuKg=="
+          "hash": "R1oLsu3zbd0RbZAShFCDOw=="
         }
       },
       "is_incremental": false,
@@ -753,7 +753,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatTime.html",
-          "hash": "or5eJs1Gq1e5sgnU97yKxg=="
+          "hash": "HR8b9p+rcYoX4HE5o3lw1w=="
         }
       },
       "is_incremental": false,
@@ -765,7 +765,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatUncontrol.html",
-          "hash": "Wcav+N2o6n7m16yGA+3Q5Q=="
+          "hash": "/CEI9kCuZJYUbPMh7dZVTw=="
         }
       },
       "is_incremental": false,
@@ -777,7 +777,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.CheatVision.html",
-          "hash": "5YWUSmxm/n3v29zrJbvyHA=="
+          "hash": "IM6yRu0IcGJmHJ8aLhxgNQ=="
         }
       },
       "is_incremental": false,
@@ -789,7 +789,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Cheats.TestSafety.html",
-          "hash": "ezRUSPN8izxpG6/Lsdbmhg=="
+          "hash": "5QGNDU7eNUiXeAJX+GdMSg=="
         }
       },
       "is_incremental": false,
@@ -813,7 +813,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.ControlPointSystem.ControlPoint.html",
-          "hash": "C204Zv0mzHhBkmInV0ACdA=="
+          "hash": "uCZrBCHLCaQjcNqfIsSYCQ=="
         }
       },
       "is_incremental": false,
@@ -825,7 +825,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.ControlPointSystem.ControlPointManager.html",
-          "hash": "eufA1Uuk2Z3febSFSCeLlg=="
+          "hash": "98J4/KFKQm1ZGEGiH6l1Uw=="
         }
       },
       "is_incremental": false,
@@ -837,7 +837,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.ControlPointSystem.ControlPointOwnerChangeEventArgs.html",
-          "hash": "nsX1S7XT0LTr4M14F1BhgA=="
+          "hash": "GYJgOZXCNAt3SWzaej5LHg=="
         }
       },
       "is_incremental": false,
@@ -861,7 +861,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.CustomPlayerUnitEvents.html",
-          "hash": "lGqivatzN3B6MFqvNNdYxg=="
+          "hash": "5kK3z3+JJXZtOsGUY+W6qg=="
         }
       },
       "is_incremental": false,
@@ -873,7 +873,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.DialogueSystem.Dialogue.html",
-          "hash": "cYwQlqRVZrfbLbQq9hnRIA=="
+          "hash": "cYcVmBGtZ/i8rxmRzzpo7w=="
         }
       },
       "is_incremental": false,
@@ -885,7 +885,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.DialogueSystem.DialogueManager.html",
-          "hash": "vGR3MeDz9bg1SbZBWgeXnA=="
+          "hash": "FRUn0B3GydGsBdeDLna7Sg=="
         }
       },
       "is_incremental": false,
@@ -909,7 +909,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.AllianceState.html",
-          "hash": "L4RHVWRXKKmQtRmsETdSkA=="
+          "hash": "1ISJlInH7p4WhWyMHq521g=="
         }
       },
       "is_incremental": false,
@@ -921,7 +921,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.Faction.html",
-          "hash": "o3OsHD9pS3jG6grsxSGqGA=="
+          "hash": "D68TsCQCzCKVjs5PaMxSRQ=="
         }
       },
       "is_incremental": false,
@@ -933,7 +933,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.FactionManager.html",
-          "hash": "rBNlYNZP81KrAnPAkJUPeQ=="
+          "hash": "QarJ7eD2O8yYs8glmtKG9A=="
         }
       },
       "is_incremental": false,
@@ -945,7 +945,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.FactionNameChangeEventArgs.html",
-          "hash": "k2d+lTVhiG22YuRuepiU/w=="
+          "hash": "YaCXctxotfqlzDZ/Yly0Xg=="
         }
       },
       "is_incremental": false,
@@ -957,7 +957,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.FactionPowerEventArgs.html",
-          "hash": "VPBkrEqhsONH7lhcodphXQ=="
+          "hash": "ReuolJ5mtC076+daeH9jPA=="
         }
       },
       "is_incremental": false,
@@ -969,7 +969,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.Legend.html",
-          "hash": "5+QthHbLZYsMulA5WagSLQ=="
+          "hash": "agQ+ZDV13wIgCPtzqkZnzw=="
         }
       },
       "is_incremental": false,
@@ -981,7 +981,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.LegendChangeOwnerEventArgs.html",
-          "hash": "6BEhHEiwSsHU7ViNMmHWVA=="
+          "hash": "u3hj7gblxgfvTk7jLs59tw=="
         }
       },
       "is_incremental": false,
@@ -993,7 +993,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.PlayerChangeTeamEventArgs.html",
-          "hash": "3Edt9zngeiFE679IpyCQrQ=="
+          "hash": "YEFAchBu+tbdGv7kKubP7Q=="
         }
       },
       "is_incremental": false,
@@ -1005,7 +1005,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.html",
-          "hash": "HAZEwlKVXduvpi6547M78g=="
+          "hash": "Aa9hH6nk1UQ9/KFjvZyHzQ=="
         }
       },
       "is_incremental": false,
@@ -1017,7 +1017,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.PlayerFactionChangeEventArgs.html",
-          "hash": "4Yrc8l73vgcY30dfTzRR5g=="
+          "hash": "geLwmk5+JR64PoFj8gW7kQ=="
         }
       },
       "is_incremental": false,
@@ -1029,7 +1029,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.Power.html",
-          "hash": "HvFaA7zWpoAZV8lT0YMaJg=="
+          "hash": "Y/ZlJPpSipCMxk8uPMdgdw=="
         }
       },
       "is_incremental": false,
@@ -1041,7 +1041,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.ScoreStatus.html",
-          "hash": "5Vh7ShqgYUBOsahKPqW6dg=="
+          "hash": "OyNbxcJRBu5ks7Blk3RKLQ=="
         }
       },
       "is_incremental": false,
@@ -1053,7 +1053,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.Team.html",
-          "hash": "E9kNkrJ0nZcCp1LQ/FqfjA=="
+          "hash": "Q6TUuU7nHhL0TvVt1iiFHQ=="
         }
       },
       "is_incremental": false,
@@ -1077,7 +1077,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Frames.Books.ArtifactSystem.ArtifactBook.html",
-          "hash": "VHWQjDTyDgZqWbC7cx1jJQ=="
+          "hash": "qt6GrUA+OO4tqSlCGRG92g=="
         }
       },
       "is_incremental": false,
@@ -1089,7 +1089,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Frames.Books.ArtifactSystem.ArtifactCard.html",
-          "hash": "TWNXmDfvjFXbaiZKwgIzVw=="
+          "hash": "D/eWeApw4Z9UrKJHGFASdQ=="
         }
       },
       "is_incremental": false,
@@ -1101,7 +1101,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Frames.Books.ArtifactSystem.ArtifactPage.html",
-          "hash": "X6wrIZMYAyvIrPQ9ItWSpA=="
+          "hash": "EdeEDuD1swLbrqxUlQHHZg=="
         }
       },
       "is_incremental": false,
@@ -1125,7 +1125,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Frames.Books.Augments.AugmentCard.html",
-          "hash": "F/00xaSMII/RilRHcUXfTQ=="
+          "hash": "eVF+zOJ1eLthLstwRiQYjA=="
         }
       },
       "is_incremental": false,
@@ -1137,7 +1137,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Frames.Books.Augments.AugmentPage.html",
-          "hash": "3yX5MQK6lKRjZ7bgl5GWJg=="
+          "hash": "papyMEQqB3RqnghCJcUqAA=="
         }
       },
       "is_incremental": false,
@@ -1161,7 +1161,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Frames.Books.Book-1.html",
-          "hash": "7mGAzLNANvicCgXkwvssgg=="
+          "hash": "5l5Uoh9fQTKZd6v5drR83Q=="
         }
       },
       "is_incremental": false,
@@ -1173,7 +1173,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Frames.Books.Card.html",
-          "hash": "CHZ7o09gaBEVoWUXWm6n3g=="
+          "hash": "MpppWfwIxqWE4o6otob4Jg=="
         }
       },
       "is_incremental": false,
@@ -1185,7 +1185,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Frames.Books.Page.html",
-          "hash": "6grtVSuK1eabJmEJHGqrxg=="
+          "hash": "CKO/yB5S0rbtIBJ8xCRacw=="
         }
       },
       "is_incremental": false,
@@ -1197,7 +1197,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Frames.Books.Powers.PowerBook.html",
-          "hash": "ONbZ350aFAnQgvhWYAfvpg=="
+          "hash": "TADlRRSvXSagrkOmSjqU0g=="
         }
       },
       "is_incremental": false,
@@ -1209,7 +1209,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Frames.Books.Powers.PowerCard.html",
-          "hash": "Acvp1wBzb/zhk2SrHZUkaA=="
+          "hash": "6Qme63suhl/htkKwkp4Njg=="
         }
       },
       "is_incremental": false,
@@ -1221,7 +1221,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Frames.Books.Powers.PowerPage.html",
-          "hash": "weTd6Xg7iZ7wVqB2+M/j1g=="
+          "hash": "uEiwykTQAeQLVA2plaR4zw=="
         }
       },
       "is_incremental": false,
@@ -1257,7 +1257,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Frames.Button.html",
-          "hash": "f6jeFmKOQcz6tbxD+8ypbw=="
+          "hash": "BJGbOG2cLnDSUv6u+h/DqQ=="
         }
       },
       "is_incremental": false,
@@ -1269,7 +1269,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Frames.Frame.html",
-          "hash": "2Dy31UDOV/WFpzYlItJO5Q=="
+          "hash": "q3wCohH03iX46RR1N6foWg=="
         }
       },
       "is_incremental": false,
@@ -1281,7 +1281,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Frames.FrameEventArgs.html",
-          "hash": "CZOtIjyYKbXHnfxOlSqg1Q=="
+          "hash": "tXzTGxZZ6Ug9Asod78YWjg=="
         }
       },
       "is_incremental": false,
@@ -1293,7 +1293,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Frames.OnClickAction.html",
-          "hash": "u2A6ylWwh5pHpFjcihIBMQ=="
+          "hash": "p7IamXiJiLCf6UL18YLFdg=="
         }
       },
       "is_incremental": false,
@@ -1305,7 +1305,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Frames.TextFrame.html",
-          "hash": "CYuET5mOGNmpvpPQR0I4/Q=="
+          "hash": "79LK3VFl5snOnmzCTTBJlA=="
         }
       },
       "is_incremental": false,
@@ -1329,7 +1329,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.GameTime.html",
-          "hash": "rDuZKNaLKJRV7tSoaw172Q=="
+          "hash": "X8/Q4KucqsX7AuOeSCG4cg=="
         }
       },
       "is_incremental": false,
@@ -1341,7 +1341,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Gates.Gate.html",
-          "hash": "XWdHaE+ssL+j3nst0FD54w=="
+          "hash": "Rb63ajuksoZPCtz+hhcxuA=="
         }
       },
       "is_incremental": false,
@@ -1353,7 +1353,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Gates.GateService.html",
-          "hash": "YW355iyamAjmKaJLiw7Vng=="
+          "hash": "fBtwvaXspvztJGQluiHnMA=="
         }
       },
       "is_incremental": false,
@@ -1377,7 +1377,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Hazards.RecurrentSpellHazard.html",
-          "hash": "ZnX/O+866fly80lm7n5fTA=="
+          "hash": "D8MREWKm45tPPT9aFLbUjg=="
         }
       },
       "is_incremental": false,
@@ -1389,7 +1389,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Hazards.SolarJudgementHazard.html",
-          "hash": "tYolX6YBvqwnXzw3HCOXOA=="
+          "hash": "EXbJlwp9t9ZtZ5dXivYivQ=="
         }
       },
       "is_incremental": false,
@@ -1413,7 +1413,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.HintSystem.Hint.html",
-          "hash": "XyOE5JBTXVRlwtMegEFleQ=="
+          "hash": "kGiu26Mb8C+AKEzggcwuTQ=="
         }
       },
       "is_incremental": false,
@@ -1437,7 +1437,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.IncompatibleResearchSet.html",
-          "hash": "u9kGiwtKtZ7+eT4ktRV+sw=="
+          "hash": "5q/4uhG9lNvCYc19GTZ7ZQ=="
         }
       },
       "is_incremental": false,
@@ -1449,7 +1449,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Instances.Gate.html",
-          "hash": "DUhKlMUfKKSLLiIaPBJKmg=="
+          "hash": "wgDG8sRh2Ruf5BfMEOXICQ=="
         }
       },
       "is_incremental": false,
@@ -1461,7 +1461,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Instances.Instance.html",
-          "hash": "+3CrrEjhPI3TYydQtuEiIw=="
+          "hash": "YBsYmSIiZV4sqGtm/AhtKQ=="
         }
       },
       "is_incremental": false,
@@ -1473,7 +1473,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Instances.InstanceSystem.html",
-          "hash": "aB60wZkvu5Lye8RCUYaJtg=="
+          "hash": "HAovszZcb72dKtIgSQvFeQ=="
         }
       },
       "is_incremental": false,
@@ -1497,7 +1497,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.ItemExtensions.html",
-          "hash": "mnSKrIul11RiLO/c7T63xQ=="
+          "hash": "zq28StwxO3QKD9fi8rjK0g=="
         }
       },
       "is_incremental": false,
@@ -1509,7 +1509,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Libraries.Display.html",
-          "hash": "R/YEnt5nFpUcqrBP+88Prw=="
+          "hash": "36vTdM+UVvdhGLL5V38gRw=="
         }
       },
       "is_incremental": false,
@@ -1521,7 +1521,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Libraries.Environment.html",
-          "hash": "KdU1Kmk+O3vbb7ih/nxpLQ=="
+          "hash": "4ILMvOiHjuetZoTzElzToQ=="
         }
       },
       "is_incremental": false,
@@ -1533,7 +1533,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.html",
-          "hash": "Tx1pGdR3ed3Bmj8BQnp9zQ=="
+          "hash": "T9FgUFmc90DjMLe7dbUnSg=="
         }
       },
       "is_incremental": false,
@@ -1545,7 +1545,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Libraries.MathEx.html",
-          "hash": "GI/pr2nabBnagXKYv/0F8Q=="
+          "hash": "qj6JIqjDQPUtJOXNv/xizw=="
         }
       },
       "is_incremental": false,
@@ -1569,7 +1569,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Mechanics.TwilightHammer.Continent.html",
-          "hash": "3oNQ4UTDHEf5dT0j7wqpAg=="
+          "hash": "Wbvkad2W9AO3Scan03+y0g=="
         }
       },
       "is_incremental": false,
@@ -1581,7 +1581,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Mechanics.TwilightHammer.CorruptWorkerBuff.html",
-          "hash": "6QAmK9nKdkfFgS58WYQExw=="
+          "hash": "40apJYJIHch9YXiRT3plZQ=="
         }
       },
       "is_incremental": false,
@@ -1593,7 +1593,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Mechanics.TwilightHammer.CorruptWorkerPeriodicAction.html",
-          "hash": "Gyy6Xrut2qYhTYSnT1ruKg=="
+          "hash": "jcbWToJ7GrwUIJTiUIxMdw=="
         }
       },
       "is_incremental": false,
@@ -1605,7 +1605,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Mechanics.TwilightHammer.PowerCorruptWorker.html",
-          "hash": "kEORQo2UUuK2RxdZoe4sdg=="
+          "hash": "4x56raxfkqhPhXvlB/xqdg=="
         }
       },
       "is_incremental": false,
@@ -1629,7 +1629,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Mechanics.Waygate.html",
-          "hash": "gxs2Cr4YXXlXdj7nJUiPDg=="
+          "hash": "PG4nCId83xcJ+mCgGEINJg=="
         }
       },
       "is_incremental": false,
@@ -1641,7 +1641,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Mechanics.WaygateManager.html",
-          "hash": "pKFkCKVkVzhMII+f3nt+6A=="
+          "hash": "oS8tGZlU10vOTni62CiTrg=="
         }
       },
       "is_incremental": false,
@@ -1665,7 +1665,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.ParentChildResearchSystem.html",
-          "hash": "icEkrSXxP5W4COz3wYkteg=="
+          "hash": "yM96ax3EbhAQka1N9N77dA=="
         }
       },
       "is_incremental": false,
@@ -1677,7 +1677,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.PassiveAbilities.AnimalCompanion.html",
-          "hash": "OvtbblX68KQIQ6Vaig7pkw=="
+          "hash": "FaA8j3jivH8nGEJsGB2GYQ=="
         }
       },
       "is_incremental": false,
@@ -1689,7 +1689,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.PassiveAbilities.AnimationSpeedMultiplier.html",
-          "hash": "w4pT/Mcvk8fSkCvJLg66DQ=="
+          "hash": "7qkbkgPFPdCQpeM2UGSoiA=="
         }
       },
       "is_incremental": false,
@@ -1701,7 +1701,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.PassiveAbilities.Execute.html",
-          "hash": "6zQyF29fRhG7zC/6KNMwHw=="
+          "hash": "yZYgEt9ntD6iruDFGM/4Gg=="
         }
       },
       "is_incremental": false,
@@ -1713,7 +1713,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.PassiveAbilities.HideousAppendages.html",
-          "hash": "HNqZDoOZewe/QJvzAXgksA=="
+          "hash": "lR/VJGeHg4EAjj3/BsVUFA=="
         }
       },
       "is_incremental": false,
@@ -1725,7 +1725,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.PassiveAbilities.ProvidesIncome.html",
-          "hash": "OwgymuHb+z8kSy9ZiYBi2g=="
+          "hash": "54ogWqIsuH3bEk0Y/0Z3sA=="
         }
       },
       "is_incremental": false,
@@ -1737,7 +1737,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.PassiveAbilities.RegionRestricted.html",
-          "hash": "sJ3axFVQeJ9CHPSimaQyuQ=="
+          "hash": "OtIQi0fla5ANqTTV2fzbKw=="
         }
       },
       "is_incremental": false,
@@ -1749,7 +1749,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.PassiveAbilities.ResurrectionAura.html",
-          "hash": "VPoyH+mLMBu4Ei9PRleCYA=="
+          "hash": "8mnldZvJuYaoVtwu106VEQ=="
         }
       },
       "is_incremental": false,
@@ -1761,7 +1761,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.PassiveAbilities.SpellResistanceAura.html",
-          "hash": "2Gk8YsSFzcij9LjkiRStBA=="
+          "hash": "DvmFvMapCH/KGFbgoYB7nw=="
         }
       },
       "is_incremental": false,
@@ -1785,7 +1785,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.PassiveAbilitySystem.PassiveAbility.html",
-          "hash": "L43uQfzsfPylCChuxJv1Rg=="
+          "hash": "0M38eVf2QbZUy2XeZlDbuA=="
         }
       },
       "is_incremental": false,
@@ -1797,7 +1797,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.PassiveAbilitySystem.PassiveAbilityManager.html",
-          "hash": "B1ly79eCOl1LauEe3qkMdQ=="
+          "hash": "OSuzTq/pRO84Rx5CVkGpKw=="
         }
       },
       "is_incremental": false,
@@ -1809,7 +1809,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.PassiveAbilitySystem.TakeDamagePassiveAbility.html",
-          "hash": "FxdPoYq+wXISMDjTIMsoyw=="
+          "hash": "hkSLnQpcbu1Vc9Prn3aP2A=="
         }
       },
       "is_incremental": false,
@@ -1833,7 +1833,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Powers.DummyPower.html",
-          "hash": "N6uMI//ixDcqazSxjUGnuw=="
+          "hash": "zMOGepaap0nuHD8RMpmVwg=="
         }
       },
       "is_incremental": false,
@@ -1845,7 +1845,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Powers.IncomePower.html",
-          "hash": "10kBdxdiWWwv32+wPi7a0A=="
+          "hash": "y/Qhv578eKjqBPhVCvxeVw=="
         }
       },
       "is_incremental": false,
@@ -1857,7 +1857,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Powers.LumberIncomePower.html",
-          "hash": "ah9nBVoyx5t6Ob/z4pCf5w=="
+          "hash": "CkxwnOFi/LZfMYuNJ7xejA=="
         }
       },
       "is_incremental": false,
@@ -1869,7 +1869,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Powers.OilIncomePeriodicAction.html",
-          "hash": "VjLUxTf9KJbgRFdUawxRcw=="
+          "hash": "h8lPSCJPb1ASkx58blKp5w=="
         }
       },
       "is_incremental": false,
@@ -1881,7 +1881,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Powers.OilPower.html",
-          "hash": "fnsWCCSv1Ud6eXMDPK1Ntw=="
+          "hash": "mG5h3wAuFmExdkYLkX3ldg=="
         }
       },
       "is_incremental": false,
@@ -1893,7 +1893,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Powers.RapidMobilization.html",
-          "hash": "3WAV90/6RYgZ/c58kjXhxA=="
+          "hash": "2ZN0NSDeipcBZ5ZRotHkxw=="
         }
       },
       "is_incremental": false,
@@ -1905,7 +1905,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Powers.TitanicStrength.html",
-          "hash": "gk6bygfXL1JI1gO4zERMTw=="
+          "hash": "SH21sO445GSBKOmgr0EDCw=="
         }
       },
       "is_incremental": false,
@@ -1917,7 +1917,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Powers.VisionPower.html",
-          "hash": "EgTLs5MiYMA2XFX2uMfCDg=="
+          "hash": "tBD4GZmAAKY1T1ARMPZYdw=="
         }
       },
       "is_incremental": false,
@@ -1941,7 +1941,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.PreplacedUnitSystem.html",
-          "hash": "qf3QdfZVXfWZfa2kmIIQ8A=="
+          "hash": "3w7MIKbX6UW2SeIZeYNQfw=="
         }
       },
       "is_incremental": false,
@@ -1953,7 +1953,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestMenuSetup.html",
-          "hash": "M/eUNRVPWBB367h5kuYYVw=="
+          "hash": "bJ24DN+F4JOQ9yrSaDUpdw=="
         }
       },
       "is_incremental": false,
@@ -1965,7 +1965,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.Objective.html",
-          "hash": "M7XTiia+NWdi32f/1iVK6Q=="
+          "hash": "vuvYmBBf0sadMznOYAJmvg=="
         }
       },
       "is_incremental": false,
@@ -1977,7 +1977,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.QuestData.html",
-          "hash": "WoAOJ9H9oGi4sedp2oF0PA=="
+          "hash": "OvOYjpZHch9UZVrHVW88dQ=="
         }
       },
       "is_incremental": false,
@@ -1989,7 +1989,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.QuestProgress.html",
-          "hash": "+YGHteZtYUeL0a6kMKEpag=="
+          "hash": "fN8Yh0QgkNC39UxsrlXekA=="
         }
       },
       "is_incremental": false,
@@ -2001,7 +2001,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.Channel.html",
-          "hash": "kKsH4ifuY22HxBDajluekQ=="
+          "hash": "x3WzwssoTNG5QY85fO4NsA=="
         }
       },
       "is_incremental": false,
@@ -2013,7 +2013,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.FactionListExtensions.html",
-          "hash": "D7V/oQHjclJ9jud6s3ESMQ=="
+          "hash": "jyrYa+5q3WmZGiQgVYj2Zw=="
         }
       },
       "is_incremental": false,
@@ -2025,7 +2025,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveAcquireArtifact.html",
-          "hash": "atAJcZw+Ex4ItTvBF0ZC2A=="
+          "hash": "ohZujvNyFkdsp2Z0CrT+Ag=="
         }
       },
       "is_incremental": false,
@@ -2037,7 +2037,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.html",
-          "hash": "exFFH1hPIcLcIwqUTPxsLQ=="
+          "hash": "OasttcqA9tz5fIHj1MFQCw=="
         }
       },
       "is_incremental": false,
@@ -2049,7 +2049,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveArtifactInRect.html",
-          "hash": "yKVh67sx0Pk2EGG3r7bmzA=="
+          "hash": "WcB6WhNWviSw5cviGyvCGQ=="
         }
       },
       "is_incremental": false,
@@ -2061,7 +2061,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveBuild.html",
-          "hash": "SSwW7oovaKNeIGdYLxLzxg=="
+          "hash": "ESK9H1BMGUWQt967yfU8Jg=="
         }
       },
       "is_incremental": false,
@@ -2073,7 +2073,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveCastSpell.html",
-          "hash": "S79lLOVdcQ2RN24tnwBjeg=="
+          "hash": "pFIIM+6pGRpkoo0CfufdrQ=="
         }
       },
       "is_incremental": false,
@@ -2085,7 +2085,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.html",
-          "hash": "1/SUsNJIRm9t4Sk3cW2fMw=="
+          "hash": "f6a3h+aOrc5JvPQNu2XI7A=="
         }
       },
       "is_incremental": false,
@@ -2097,7 +2097,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveCompleteQuest.html",
-          "hash": "OM7LuadZK22hu8Sco0D3cw=="
+          "hash": "xvbFRsQjV9PUm0KgDPcmTg=="
         }
       },
       "is_incremental": false,
@@ -2109,7 +2109,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLegend.html",
-          "hash": "MkEjarYDAAro1eMpxTozDw=="
+          "hash": "2A+3ufCuB/LMhh21hmicMg=="
         }
       },
       "is_incremental": false,
@@ -2121,7 +2121,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveControlPoint.html",
-          "hash": "pTAkRBp5tMoHOyovSYJ11w=="
+          "hash": "2kGsxPzXTfXbJeFt473Q/g=="
         }
       },
       "is_incremental": false,
@@ -2133,7 +2133,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveControlUnit.html",
-          "hash": "gII5qoxi/5ennlS3V8mr2A=="
+          "hash": "5bTNw+sk69P2cMKSjRyWZg=="
         }
       },
       "is_incremental": false,
@@ -2145,7 +2145,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveDontCompleteQuest.html",
-          "hash": "n1bg8wQfo4gEhQXKIyShTg=="
+          "hash": "D0o9QZyed7XHiH0Me7GHeA=="
         }
       },
       "is_incremental": false,
@@ -2157,7 +2157,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveEitherOf.html",
-          "hash": "GqEJXQHSGksO0zAjKJu2Qw=="
+          "hash": "mZiAhbzsHK4BjdLKid/sVQ=="
         }
       },
       "is_incremental": false,
@@ -2169,7 +2169,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveExpire.html",
-          "hash": "YU6pziLzfVJ3tdIdUiVn1Q=="
+          "hash": "d/TnvFMCHST4M6hWs0RUkw=="
         }
       },
       "is_incremental": false,
@@ -2181,7 +2181,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveFactionDefeated.html",
-          "hash": "u+SRerF2Onc5OCNrrTop2w=="
+          "hash": "mw+1P/yJcS/pmAPLB4JAeA=="
         }
       },
       "is_incremental": false,
@@ -2193,7 +2193,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.html",
-          "hash": "SY/Doq0uD5/eecqB5U4YkQ=="
+          "hash": "dghbF77ps+3uE9lpvp/K0g=="
         }
       },
       "is_incremental": false,
@@ -2205,7 +2205,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveKillUnit.html",
-          "hash": "7Oa45KeZIj3CdcjabTu0tw=="
+          "hash": "iLenE2djik4Xe119yX2XGg=="
         }
       },
       "is_incremental": false,
@@ -2217,7 +2217,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveKillXUnit.html",
-          "hash": "N549zVAQlkUEazhFguPEwQ=="
+          "hash": "qfDjvVkhSdV70sIS4DzfTQ=="
         }
       },
       "is_incremental": false,
@@ -2229,7 +2229,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveLegendDead.html",
-          "hash": "QXBhl7ELgOosAmht/Zv1vg=="
+          "hash": "EZgFUs+ujOPfpE/emTU+Bg=="
         }
       },
       "is_incremental": false,
@@ -2241,7 +2241,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveLegendHasArtifact.html",
-          "hash": "lCBQGqimALtkbDBdIF+Zmg=="
+          "hash": "Xk7+e9Qo/KoNTy7lI+5NPA=="
         }
       },
       "is_incremental": false,
@@ -2253,7 +2253,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveLegendInRect.html",
-          "hash": "lYy1zs7am4tB6pS70sWFyw=="
+          "hash": "6itRCwcIBuN70q2P3sEkVQ=="
         }
       },
       "is_incremental": false,
@@ -2265,7 +2265,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveLegendLevel.html",
-          "hash": "9ta8sOtzuaNh1zrcAItBsw=="
+          "hash": "eE47diJTsJD5I9OtNn3BLg=="
         }
       },
       "is_incremental": false,
@@ -2277,7 +2277,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveLegendNotPermanentlyDead.html",
-          "hash": "ojdy7mBOuAyZyyahLzXXfw=="
+          "hash": "DxnNOdwy688voMf7RqZJ4A=="
         }
       },
       "is_incremental": false,
@@ -2289,7 +2289,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveLegendReachRect.html",
-          "hash": "A/89bWbbqXPXRt06cT4S+w=="
+          "hash": "rkuHs2AG+ik2RdgYR2fMEA=="
         }
       },
       "is_incremental": false,
@@ -2301,7 +2301,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveResearch.html",
-          "hash": "0del2mf2kcMoSFQ+LGqH2w=="
+          "hash": "Q9mX4RR2xDwmfjO8HWsKZg=="
         }
       },
       "is_incremental": false,
@@ -2313,7 +2313,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveSelfExists.html",
-          "hash": "44e1WAGC444b9JmsdPZuxw=="
+          "hash": "6pdDVXZIs3aVelK4RU9otw=="
         }
       },
       "is_incremental": false,
@@ -2325,7 +2325,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveStartSpell.html",
-          "hash": "q7UkzkGndL/S/kabbCx1dg=="
+          "hash": "RatNklPCrN0UVKQ42EgP1g=="
         }
       },
       "is_incremental": false,
@@ -2337,7 +2337,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveTime.html",
-          "hash": "VlO0IRcxNslzLZMOZs/beg=="
+          "hash": "Hfrcmp25HhPjT2Q3xzpRgA=="
         }
       },
       "is_incremental": false,
@@ -2349,7 +2349,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveTimeRandom.html",
-          "hash": "LcPphGgwlpNiQ5tlRc30Tw=="
+          "hash": "ZnFr09iCdxJIgRn+OZug5A=="
         }
       },
       "is_incremental": false,
@@ -2361,7 +2361,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveTrain.html",
-          "hash": "9MEEXIJUb/4ACYoQ9IAzOg=="
+          "hash": "4NbT8rRN9rXCxyWUQZMBkA=="
         }
       },
       "is_incremental": false,
@@ -2373,7 +2373,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.ObjectiveUpgrade.html",
-          "hash": "sA0a/fx3ca4D/Ezg9UIGsQ=="
+          "hash": "gUM7T0bYgEUvF3YL29C7VA=="
         }
       },
       "is_incremental": false,
@@ -2385,7 +2385,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.QuestProgressChangedEventArgs.html",
-          "hash": "5hYYF5/jWA5m/IFOkt/Ckg=="
+          "hash": "yn9xQ2khYd7hqGyZIZcxfQ=="
         }
       },
       "is_incremental": false,
@@ -2421,7 +2421,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.ShoreSystem.Shore.html",
-          "hash": "JyiOFj4lV9qlMWhOr5tLnA=="
+          "hash": "w1f1EhUlR3630ES+Svwjqg=="
         }
       },
       "is_incremental": false,
@@ -2433,7 +2433,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.ShoreSystem.ShoreManager.html",
-          "hash": "NBTWhXNS4zT68sv2YomTcw=="
+          "hash": "tB6boD+5F0yN/xQ3yn77Yw=="
         }
       },
       "is_incremental": false,
@@ -2457,7 +2457,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.SoundLibrary.html",
-          "hash": "qShm8TsZ6zvUzDgI7Y08DA=="
+          "hash": "C/aJu5/0MulEwlhdzGhMYw=="
         }
       },
       "is_incremental": false,
@@ -2469,7 +2469,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.CastFilters.html",
-          "hash": "+lcR+r352YSVQvWsUnoLPw=="
+          "hash": "ldM1mVN8npgHSsMadMwWLQ=="
         }
       },
       "is_incremental": false,
@@ -2481,7 +2481,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.CastFilter.html",
-          "hash": "MYmruCeRVXGNfMQdXPsGfQ=="
+          "hash": "uguA6m1gWuVeuQzWiHZykA=="
         }
       },
       "is_incremental": false,
@@ -2493,7 +2493,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.DummyCast.html",
-          "hash": "Yas9ZURDR1vWv3OSyRESJA=="
+          "hash": "ZcUAHRR6uDMsrfVUKiOZJQ=="
         }
       },
       "is_incremental": false,
@@ -2505,7 +2505,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.DummyCaster.html",
-          "hash": "amABOvndVeaeiJCn6kaH4g=="
+          "hash": "KrHaOMCDXa/2sM4eJ3AEfg=="
         }
       },
       "is_incremental": false,
@@ -2517,7 +2517,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.Hazard.html",
-          "hash": "16PpCkk7qNZ8iYSUidfr6Q=="
+          "hash": "mM2KZ+Ivw8FOq3iQpaGD1Q=="
         }
       },
       "is_incremental": false,
@@ -2529,7 +2529,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.HazardSystem.html",
-          "hash": "gb7gKMX2q2VcgshQLoc+ZA=="
+          "hash": "p/dQRSpI5dI/D3KxmLfSbg=="
         }
       },
       "is_incremental": false,
@@ -2541,7 +2541,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.Spell.html",
-          "hash": "9fXOvJvlUcjW9KaR9xNhPQ=="
+          "hash": "5Ssm5ynhBcKq9QIyqXPB8Q=="
         }
       },
       "is_incremental": false,
@@ -2553,7 +2553,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.SpellHelpers.html",
-          "hash": "lu6DpHwkxI6CV5J/gclo1w=="
+          "hash": "OKiG6dSDL4gTk5LyBJVxUQ=="
         }
       },
       "is_incremental": false,
@@ -2565,7 +2565,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.SpellSystem.html",
-          "hash": "aTLOA6i0GMH1zru+csf8RQ=="
+          "hash": "AmJo7Gn4zgJm7WvLDQVD5g=="
         }
       },
       "is_incremental": false,
@@ -2577,7 +2577,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.SpellSystem.SpellTargetType.html",
-          "hash": "PVZwKmbWM5PAVpfMgPlo4w=="
+          "hash": "8cUl/Im7gHZm0yYIcrlNew=="
         }
       },
       "is_incremental": false,
@@ -2601,7 +2601,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.Ascendance.html",
-          "hash": "z6L7whbHuEmwK3/Xbtw+dA=="
+          "hash": "LGpFrib0NWtlAp3H1eCwEg=="
         }
       },
       "is_incremental": false,
@@ -2613,7 +2613,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.ChannelAnySpell.html",
-          "hash": "0ULLEevcEZWgafPxY/heEw=="
+          "hash": "+ECqINtqgK3lTRy9SUm2FA=="
         }
       },
       "is_incremental": false,
@@ -2625,7 +2625,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.CooldownReset.html",
-          "hash": "ITjUfbM/GY3Sylsxa9pm3g=="
+          "hash": "kwCIz/NvFTBGJl9E//aRhg=="
         }
       },
       "is_incremental": false,
@@ -2637,7 +2637,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.DarkPact.html",
-          "hash": "tOgUDclkbsvTQjatzAd+YA=="
+          "hash": "vg0sVyqkn3hCZklj6Nvd5Q=="
         }
       },
       "is_incremental": false,
@@ -2649,7 +2649,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.Devour.html",
-          "hash": "6lZVaBGQyxHIbCA4HRNJ6g=="
+          "hash": "+nPlqmyz8CbzBZc1Xwb+3A=="
         }
       },
       "is_incremental": false,
@@ -2661,7 +2661,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.ElectricStrike.html",
-          "hash": "i4iq9WucvArh34HmkAPNvA=="
+          "hash": "yyu/9ixZSApXK5GvKtf2Rg=="
         }
       },
       "is_incremental": false,
@@ -2673,7 +2673,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.GrantMana.html",
-          "hash": "/A9Zm5m/jPhArNjMj45W4Q=="
+          "hash": "dJwErpU6HwInQIz1CtW9GA=="
         }
       },
       "is_incremental": false,
@@ -2685,7 +2685,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.InspireMadness.html",
-          "hash": "WBQyr0t3Tv2qq6K6TUWo6A=="
+          "hash": "rUG+BU/Pwtkamo0ylyD8UA=="
         }
       },
       "is_incremental": false,
@@ -2697,7 +2697,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.MassAnySpell.html",
-          "hash": "TlnlF70Qtg06gv5JqWbMcg=="
+          "hash": "vhuVY1Og/mc3+3DP8mtrMQ=="
         }
       },
       "is_incremental": false,
@@ -2709,7 +2709,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.MassSimulacrum.html",
-          "hash": "CDMintUSOvcd0AWpWpUUYA=="
+          "hash": "T/cMFHkzsmg+/AxzESIK6w=="
         }
       },
       "is_incremental": false,
@@ -2721,7 +2721,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.RegrowTrees.html",
-          "hash": "GghcymqfILjbhBJ9iOpIJg=="
+          "hash": "2ruUnCkBCDOWdYYbXPmMCg=="
         }
       },
       "is_incremental": false,
@@ -2733,7 +2733,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.ResurgentSpell.html",
-          "hash": "5ciW//4ZelHYxWl+vR/wJA=="
+          "hash": "FQMR6hTQKawKJTCCv2HE1A=="
         }
       },
       "is_incremental": false,
@@ -2745,7 +2745,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SingleTargetRecall.html",
-          "hash": "RjUmV8oQDyOpCavzX1ttEQ=="
+          "hash": "BZ8wem3Fj6UJnl4CS9qSGA=="
         }
       },
       "is_incremental": false,
@@ -2757,7 +2757,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SolarJudgementSpell.html",
-          "hash": "il2wse0a7HNqBP0pih89jg=="
+          "hash": "p6y/s6LwzO7XxGvYPJ6y4Q=="
         }
       },
       "is_incremental": false,
@@ -2769,7 +2769,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SpellOnAttack.html",
-          "hash": "0eCQ0vahtJ6eUk+RgdnFrw=="
+          "hash": "HwydsbsMi72T/ZgNFv5kYQ=="
         }
       },
       "is_incremental": false,
@@ -2781,7 +2781,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.Stomp.html",
-          "hash": "AgaTyMy7lkEaxV3Zn9TuOA=="
+          "hash": "j/WxwBSxPX8XFvpVBhbHFw=="
         }
       },
       "is_incremental": false,
@@ -2793,7 +2793,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.StormEarthandFire.html",
-          "hash": "+3mT1/pv4T5QJ1bVo31BjA=="
+          "hash": "r1XUWSa44nDRV9PJL98fNQ=="
         }
       },
       "is_incremental": false,
@@ -2805,7 +2805,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SummonLegionSpell.html",
-          "hash": "BnEeOBFLs50w0gBBBhZ3Ig=="
+          "hash": "Qncg3I9+fI9qPgKbBuTcmg=="
         }
       },
       "is_incremental": false,
@@ -2817,7 +2817,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.SummonUnits.html",
-          "hash": "SVtZaj+FKzt8hkpNWIBZKg=="
+          "hash": "tT7Ic/cU9aCGnZrs9G9a9w=="
         }
       },
       "is_incremental": false,
@@ -2829,7 +2829,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.UnholyArmor.html",
-          "hash": "KbBpBayMo6mEyLAr3Py6oA=="
+          "hash": "uhN6qo0UDfopnH+DvvkD3w=="
         }
       },
       "is_incremental": false,
@@ -2841,7 +2841,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Spells.Vengeance.html",
-          "hash": "wzpPOFZJ7GXSNokcXTVJIA=="
+          "hash": "OtZq9YYcV6cdGrGggHVjDQ=="
         }
       },
       "is_incremental": false,
@@ -2865,7 +2865,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.SystemAlreadyInitializedException.html",
-          "hash": "WYOXTtJT6ma3UoIEfhnqhQ=="
+          "hash": "nLyarczEKsfY4+1AJCzLow=="
         }
       },
       "is_incremental": false,
@@ -2877,7 +2877,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.SystemNotInitializedException.html",
-          "hash": "TLUZEwVz0v8zlkeB3Y6wSA=="
+          "hash": "HOFJuSrSBmqMZeH1xSUZQg=="
         }
       },
       "is_incremental": false,
@@ -2889,7 +2889,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.TurnResearch.html",
-          "hash": "X5iElZ04uP/3duFPeOzJSA=="
+          "hash": "Ox0OpYscEF3lzYV6OUmG5A=="
         }
       },
       "is_incremental": false,
@@ -2901,7 +2901,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.TypeExtensions.html",
-          "hash": "DnuBP5Rte1oeBv9PKNJw3w=="
+          "hash": "jcnuuFMhPLHPRq7rnuaYRQ=="
         }
       },
       "is_incremental": false,
@@ -2913,7 +2913,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.UnitCategory.html",
-          "hash": "VI1+gLPAmRqilZO22/KO6A=="
+          "hash": "0LTNQW+KaoMy1+fqugYqjw=="
         }
       },
       "is_incremental": false,
@@ -2925,7 +2925,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html",
-          "hash": "D0jSm5mHm+Bx4bd4iwySfg=="
+          "hash": "oMRxt6gLXQfv9MkrqzHJ0A=="
         }
       },
       "is_incremental": false,
@@ -2937,7 +2937,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.UnitType.html",
-          "hash": "I3owxdV5Tl4yYnxEF/QGPQ=="
+          "hash": "D++r5vCQctx3ehlcoH5+Wg=="
         }
       },
       "is_incremental": false,
@@ -2949,7 +2949,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.UserInterface.FactionMultiboard.html",
-          "hash": "59cJe5XlXV9BBiHIMdNQjA=="
+          "hash": "w0RAS5EJHchuzUUUYh9buQ=="
         }
       },
       "is_incremental": false,
@@ -2973,7 +2973,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Wrappers.EaxExtensions.html",
-          "hash": "2VwuAEuMXygUiHvM7Wt/0A=="
+          "hash": "+jwUMkJE5F/xyN1BtrE2cQ=="
         }
       },
       "is_incremental": false,
@@ -2985,7 +2985,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Wrappers.GroupWrapper.html",
-          "hash": "Ywiw0kg2kdbTduKgFvXLGQ=="
+          "hash": "4rqXkhtXdJ26/ZcLkkS6gQ=="
         }
       },
       "is_incremental": false,
@@ -2997,7 +2997,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Wrappers.SoundEax.html",
-          "hash": "vEsISXf4sC+VDbBFuQxX0w=="
+          "hash": "ykdlmt6D5KagjMjG8AMIMg=="
         }
       },
       "is_incremental": false,
@@ -3009,7 +3009,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Wrappers.SoundWrapper.PlayCondition.html",
-          "hash": "M+Up0j6u4w9dIhOuXkRFLw=="
+          "hash": "rxbaUuApBYtloPljSRP5JQ=="
         }
       },
       "is_incremental": false,
@@ -3021,7 +3021,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Wrappers.SoundWrapper.html",
-          "hash": "dZgPWvRLZNAtPpeam4OR3A=="
+          "hash": "bITlfzyUcp9z8v+w+fWKvg=="
         }
       },
       "is_incremental": false,
@@ -3033,7 +3033,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Wrappers.TimerWrapper.html",
-          "hash": "tK6CfoRyz0dEP9E8b4fTNA=="
+          "hash": "rC1WH5ORVR5bV50V0UR5cA=="
         }
       },
       "is_incremental": false,
@@ -3045,7 +3045,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Wrappers.TriggerWrapper.html",
-          "hash": "RQqZjKqwkP/gw+GP2wskCw=="
+          "hash": "S3JlSxJMY42hCZng42vtrg=="
         }
       },
       "is_incremental": false,
@@ -3093,7 +3093,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.AmbianceLibrary.html",
-          "hash": "Jj7T3SFYJmsIJ/Db3Q0OXQ=="
+          "hash": "xPtkJ+Ed8RW1nnTePErttQ=="
         }
       },
       "is_incremental": false,
@@ -3105,7 +3105,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.ArtifactBehaviour.ZinrokhAssembly.html",
-          "hash": "7m22ve1oQvmjjvg3TG26Gg=="
+          "hash": "/aIdID9e/jHbYGlS5X9opg=="
         }
       },
       "is_incremental": false,
@@ -3129,7 +3129,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Artifacts.EyeOfSargerasCooldowns.html",
-          "hash": "wQ2J7e92kN61MsKkfJsTMQ=="
+          "hash": "Ny/aXcBmbITF6JLMnSdheg=="
         }
       },
       "is_incremental": false,
@@ -3153,7 +3153,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Buffs.CorruptBuildingBuff.html",
-          "hash": "tXM8Hms8cMxK4NdvZQienA=="
+          "hash": "T0RAj1LGqLf60Zoja+BV0Q=="
         }
       },
       "is_incremental": false,
@@ -3177,7 +3177,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Cheats.CheatSkipCinematic.html",
-          "hash": "2RqPq7P6cC0NqwLop8XsGQ=="
+          "hash": "xaBUhq6GQmvaYysEdlkJhw=="
         }
       },
       "is_incremental": false,
@@ -3201,7 +3201,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Commands.AllianceActive.html",
-          "hash": "BcnD3FhFMR4Yg8JhYwuU3g=="
+          "hash": "dop0rPJrP2U4kN0u+c26Kg=="
         }
       },
       "is_incremental": false,
@@ -3213,7 +3213,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Commands.InviteCommand.html",
-          "hash": "s523EOw1r9hZwKhchCIyTw=="
+          "hash": "GoWsGaEugUEDk2m6YHHJkA=="
         }
       },
       "is_incremental": false,
@@ -3225,7 +3225,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Commands.JoinCommand.html",
-          "hash": "Nx+j6JJjXnXSvq80DkkJ5w=="
+          "hash": "K9dXfrQRfBE1opIhlVpkVg=="
         }
       },
       "is_incremental": false,
@@ -3237,7 +3237,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Commands.LimitedCommand.html",
-          "hash": "cyMb+CICTU70mnpX/aFoeg=="
+          "hash": "SAnJfvNoraShqKXrsUcTww=="
         }
       },
       "is_incremental": false,
@@ -3249,7 +3249,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Commands.ObserverCommand.html",
-          "hash": "27EC7NBxzoJp71iEqKZuSg=="
+          "hash": "dKVs4BOPcfwOWDDIjOyATw=="
         }
       },
       "is_incremental": false,
@@ -3261,7 +3261,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Commands.UnallyCommand.html",
-          "hash": "SkSsOtENGeX8oSBkQdq9+Q=="
+          "hash": "S69cOTnGetRfl1Vhj5mHfg=="
         }
       },
       "is_incremental": false,
@@ -3273,7 +3273,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Commands.UninviteCommand.html",
-          "hash": "5kY4KJ4fT3tyjTYn+JJp0Q=="
+          "hash": "CcYKaC153zY7Ha2NGpdQaA=="
         }
       },
       "is_incremental": false,
@@ -3297,7 +3297,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Dialogue.DruidsDialogueSetup.html",
-          "hash": "ZA5SeVrNfOV509gtUkDynQ=="
+          "hash": "v9fhGCDW9bf1ceBmOWud9w=="
         }
       },
       "is_incremental": false,
@@ -3309,7 +3309,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Dialogue.ScourgeDialogueSetup.html",
-          "hash": "2uJYzLWeHndtUORUnei5Eg=="
+          "hash": "EZkySzk086jBLx+O1Dbk1w=="
         }
       },
       "is_incremental": false,
@@ -3321,7 +3321,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Dialogue.WarsongDialogueSetup.html",
-          "hash": "MVDF/NgTRNDt1C3uvgg7Qg=="
+          "hash": "7GiW+vK0MfCkFcSm3AA1fw=="
         }
       },
       "is_incremental": false,
@@ -3345,7 +3345,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.CinematicMode.html",
-          "hash": "ZoQEH2BNWl3RCaVt2FgQtw=="
+          "hash": "tgYqia2Jg+J6Dfqt/T/OFA=="
         }
       },
       "is_incremental": false,
@@ -3357,7 +3357,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.CinematicState.html",
-          "hash": "8ewQ19YO9OE8M/p7i8TZDA=="
+          "hash": "t9Tdq4QvPCD1C2qPSqp52Q=="
         }
       },
       "is_incremental": false,
@@ -3369,7 +3369,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.CleanPersons.html",
-          "hash": "568fZYfiAtpYNFIfnFfHpg=="
+          "hash": "9KtCFnnogq2nGm7yFJ9qhg=="
         }
       },
       "is_incremental": false,
@@ -3381,7 +3381,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.DisplayIntroText.html",
-          "hash": "RRYHIZ5yIaN+6+0rGal+eg=="
+          "hash": "1a19GBHlO9iESXWGweoB0Q=="
         }
       },
       "is_incremental": false,
@@ -3393,7 +3393,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.ControlPointVictory.html",
-          "hash": "LDSjgPl3RA5qyhNYXAOy3w=="
+          "hash": "p+S1MeaDnHfSQsSxHE1IEQ=="
         }
       },
       "is_incremental": false,
@@ -3405,7 +3405,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.PlayerLeaves.html",
-          "hash": "Y3JiqHKcCMO5X9I6I2fyQA=="
+          "hash": "GFmeaPrnxjZD/eWUSngwdQ=="
         }
       },
       "is_incremental": false,
@@ -3417,7 +3417,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.GameEnd.VictoryDefeat.html",
-          "hash": "sSyNK5rtwucrADWTE6W/lg=="
+          "hash": "o4znNn/DsPW/Y+fm00UAjA=="
         }
       },
       "is_incremental": false,
@@ -3441,7 +3441,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.GameSettings.html",
-          "hash": "TRog8MABq796luq4JAgdig=="
+          "hash": "M2bX2qeIKQphus7O5zp7vA=="
         }
       },
       "is_incremental": false,
@@ -3453,7 +3453,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.HeroGlowFix.html",
-          "hash": "eozkeEKoyQCfnh07BoFlJQ=="
+          "hash": "ecqSrgVde51RNB2jJjt6LQ=="
         }
       },
       "is_incremental": false,
@@ -3465,7 +3465,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.InfoQuests.html",
-          "hash": "6bL3qh7OnLaY8/L94Mxt8A=="
+          "hash": "AHDDEUDYnbCVPhI3KbK1eA=="
         }
       },
       "is_incremental": false,
@@ -3477,7 +3477,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.OpenAllianceVote.html",
-          "hash": "epkOX9QwKcH2TurI7dY7nQ=="
+          "hash": "QpKUtSr6/wq46M5wWNndIA=="
         }
       },
       "is_incremental": false,
@@ -3489,7 +3489,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.RefundZeroLimitUnits.html",
-          "hash": "+HOeCftYfuD5N6KIUut1Iw=="
+          "hash": "2gG/PmJqOnsXoyB+UkSRnw=="
         }
       },
       "is_incremental": false,
@@ -3501,7 +3501,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.ShipyardBanZones.html",
-          "hash": "CRDAXqqkUbkKixoon1z58A=="
+          "hash": "myFqz+quThVbr3S/Hs85Lw=="
         }
       },
       "is_incremental": false,
@@ -3513,7 +3513,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.StartingQuestPopup.html",
-          "hash": "uZWtQjFH47ofby3O4fG+QA=="
+          "hash": "NXFLQm3ukY/ASr6CjzxUDQ=="
         }
       },
       "is_incremental": false,
@@ -3525,7 +3525,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.GameLogic.StartingResources.html",
-          "hash": "+aEpcvJkDwJ/RN2QgEopPA=="
+          "hash": "PfkTD3Ylwtt5SETA/DzZzA=="
         }
       },
       "is_incremental": false,
@@ -3549,7 +3549,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Hints.HintConfig.html",
-          "hash": "DeI2dbVfxYxtCxQQjcOKtQ=="
+          "hash": "kcYpkI7pMYE1nI69uxE0Bw=="
         }
       },
       "is_incremental": false,
@@ -3561,7 +3561,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Hints.HintVictory.html",
-          "hash": "VTTaePEMaJwVzISDGyJ56g=="
+          "hash": "MNnSHMmW0f2dJ77eZwNylg=="
         }
       },
       "is_incremental": false,
@@ -3585,7 +3585,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpireObeliskChannel.html",
-          "hash": "AfYnA14cfeso7IYfXgvRLA=="
+          "hash": "jOiMBF5Ywlu8hLcodqMp2w=="
         }
       },
       "is_incremental": false,
@@ -3597,7 +3597,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpireObeliskSpell.html",
-          "hash": "KtRbWU/w/XibtYnPq8UyVg=="
+          "hash": "KSmmIkkWo0s+2led33RM6Q=="
         }
       },
       "is_incremental": false,
@@ -3609,7 +3609,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpirePortal.html",
-          "hash": "CzdlejYSN96+SNdbHqigTQ=="
+          "hash": "lv7kLUdYUhN25c+ASnzAIQ=="
         }
       },
       "is_incremental": false,
@@ -3621,7 +3621,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpirePortalManager.html",
-          "hash": "ivet3zsoUey0NdU31Z2q3Q=="
+          "hash": "67enEMEJVz1vIPk3ym6REw=="
         }
       },
       "is_incremental": false,
@@ -3633,7 +3633,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpirePortalSetup.html",
-          "hash": "KJQtRLFoNk/5xGdAqIOtVA=="
+          "hash": "j7EQH7oCGSna8A7d8yQ89Q=="
         }
       },
       "is_incremental": false,
@@ -3645,7 +3645,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.BlackEmpirePortalState.html",
-          "hash": "LdCH1IBeJzZHcY8xLgFhpg=="
+          "hash": "J35RnPfa6JKKXRGiOshqfA=="
         }
       },
       "is_incremental": false,
@@ -3657,7 +3657,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.HeraldBuff.html",
-          "hash": "9dmMkS4tsq/6VdF1ZTxMKA=="
+          "hash": "P6kjXhO88sUccZqz07dANg=="
         }
       },
       "is_incremental": false,
@@ -3669,7 +3669,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.HeraldPassiveAbility.html",
-          "hash": "mK5GmPUWDNFmcPeM2AgMTA=="
+          "hash": "AA8XQvHiNkcBRGrz/o5y7Q=="
         }
       },
       "is_incremental": false,
@@ -3681,7 +3681,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.BlackEmpire.ObjectiveObelisk.html",
-          "hash": "iDKBBvQicaEI0pOnXYyd6w=="
+          "hash": "JUCfHqdI+ArOFDrCNWSBCA=="
         }
       },
       "is_incremental": false,
@@ -3705,7 +3705,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.Druids.CenariusGhost.html",
-          "hash": "w/99uA383wV6iFzGQRoDvQ=="
+          "hash": "V/TnMOE+jgp2q1g160qlPg=="
         }
       },
       "is_incremental": false,
@@ -3729,7 +3729,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.Goblins.NuclearLaunch.html",
-          "hash": "xCiucR11k+M7+/eeUnrieQ=="
+          "hash": "OezWIA2/bRI5Y9AWigkMYg=="
         }
       },
       "is_incremental": false,
@@ -3741,7 +3741,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.Goblins.OilProducer.html",
-          "hash": "C3sQIscBNznLZoGTlp9VKg=="
+          "hash": "eiX+xx6x6UgQZ+liK2yo+A=="
         }
       },
       "is_incremental": false,
@@ -3753,7 +3753,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.Goblins.OilRigConstructor.html",
-          "hash": "SwBL8/QvUEt6Xq82I5oSfQ=="
+          "hash": "0XUihKnClFB7FxpxcMg6hw=="
         }
       },
       "is_incremental": false,
@@ -3765,7 +3765,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.Goblins.OilUser.html",
-          "hash": "bOyl5gj2f4vxrBn5fN8LYg=="
+          "hash": "iSrbXbLROiuOZ8c7sn7LFQ=="
         }
       },
       "is_incremental": false,
@@ -3777,7 +3777,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.Goblins.Trader.html",
-          "hash": "MN6M1V0FexLOuApTd7ecHQ=="
+          "hash": "x2SRW6vkaDtWB4UNQnc5gw=="
         }
       },
       "is_incremental": false,
@@ -3801,7 +3801,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.Quelthalas.SilvermoonDies.html",
-          "hash": "mZHfxwhRnjAt6sop/9qXKw=="
+          "hash": "p+c1JNma8lzplaeCME76Qg=="
         }
       },
       "is_incremental": false,
@@ -3825,7 +3825,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.Scourge.Blight.BlightParameters.html",
-          "hash": "gFetYP6tGiKzBs91fLqKjQ=="
+          "hash": "ml2d6zIUmjTdETl1WQWOIQ=="
         }
       },
       "is_incremental": false,
@@ -3837,7 +3837,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.Scourge.Blight.BlightSetup.html",
-          "hash": "x7iUKxsMpjZBM3bvNr6Ubw=="
+          "hash": "9shann1+Z7cWnjXuVn24nw=="
         }
       },
       "is_incremental": false,
@@ -3849,7 +3849,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.Scourge.Blight.BlightSystem.html",
-          "hash": "2Vb+U+/DYAqD70bdDzNhLw=="
+          "hash": "zRDvRUeJRWNu/2HkU9Abtw=="
         }
       },
       "is_incremental": false,
@@ -3873,7 +3873,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.Scourge.EventKelthuzadDeath.html",
-          "hash": "DsVmuRErg3PSFCjlhVQeMQ=="
+          "hash": "dApMR6p4JmyBkKglA0jnKQ=="
         }
       },
       "is_incremental": false,
@@ -3885,7 +3885,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.html",
-          "hash": "2rqNV5/OiyzSgTCB1bi0sg=="
+          "hash": "LZGBEZnbgcm9abe+CTXIpw=="
         }
       },
       "is_incremental": false,
@@ -3897,7 +3897,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.Scourge.Plague.PlagueCauldronBuff.html",
-          "hash": "56eWs3zV7AoDkxMixTlKwA=="
+          "hash": "uKa7RnEjeL+23ttFbyXBJg=="
         }
       },
       "is_incremental": false,
@@ -3909,7 +3909,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.html",
-          "hash": "WK5lL40xyQv/p3ARtXd6PQ=="
+          "hash": "WgGI3F3adnwVQ+aQL9+qGA=="
         }
       },
       "is_incremental": false,
@@ -3921,7 +3921,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.Scourge.Plague.PlaguePower.html",
-          "hash": "X24gb9WU16GNdoX8Vw7FNQ=="
+          "hash": "zn0NpRW/OELLDig6oM+z/g=="
         }
       },
       "is_incremental": false,
@@ -3945,7 +3945,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.Scourge.Plagueling.html",
-          "hash": "CvrH31s0DtrbXyaV31xWXA=="
+          "hash": "f4ww0GTCgV3H2vN9kyei6Q=="
         }
       },
       "is_incremental": false,
@@ -3957,7 +3957,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Mechanics.Scourge.SacrificeAcolyte.html",
-          "hash": "a5ndxW3cTee+i7kXSYtGCg=="
+          "hash": "BCu+KSNS0GafglE+OuURrA=="
         }
       },
       "is_incremental": false,
@@ -3981,7 +3981,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Program.html",
-          "hash": "FHCiLG7k7fheizUNLbd2dw=="
+          "hash": "5NHya2C8nXyzn7litx/Fgw=="
         }
       },
       "is_incremental": false,
@@ -3993,7 +3993,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Dalaran.QuestBlueDragons.html",
-          "hash": "1DSj8GNaY7T5/xPzXUlqAg=="
+          "hash": "bhd8fOF55crv287cyYTBGg=="
         }
       },
       "is_incremental": false,
@@ -4005,7 +4005,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Dalaran.QuestCrystalGolem.html",
-          "hash": "e3eHWkQCb44mmL/je6x6Cw=="
+          "hash": "Q9iNmwUHk4G0UzDaBoJxpQ=="
         }
       },
       "is_incremental": false,
@@ -4017,7 +4017,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Dalaran.QuestDalaran.html",
-          "hash": "2Jz9yvyFtMBeGKZkB4ClEw=="
+          "hash": "HwNQ0OstXRPtFjPEUZydYA=="
         }
       },
       "is_incremental": false,
@@ -4029,7 +4029,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Dalaran.QuestFallenGuardian.html",
-          "hash": "/dMa/nacfaZlPk8wDqyDhA=="
+          "hash": "kjcJIPJ8XiiB1d21bAYG1A=="
         }
       },
       "is_incremental": false,
@@ -4041,7 +4041,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Dalaran.QuestJainaSoulGem.html",
-          "hash": "kztU5ktM0k4qeJRiq+kzwQ=="
+          "hash": "SdLa2dQJY7PsUEVpe1LruA=="
         }
       },
       "is_incremental": false,
@@ -4053,7 +4053,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Dalaran.QuestKarazhan.html",
-          "hash": "AUtc7H6w5cSapbpfZ/Z18w=="
+          "hash": "WJB1mpmRIDgsTOLFd3JrpA=="
         }
       },
       "is_incremental": false,
@@ -4065,7 +4065,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Dalaran.QuestNewGuardian.html",
-          "hash": "Jqjoy9F4C20Ks21a4OqFgQ=="
+          "hash": "t5yarI0PpX6B8BOAwylFNw=="
         }
       },
       "is_incremental": false,
@@ -4077,7 +4077,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Dalaran.QuestShadowfang.html",
-          "hash": "eQteAJyIKyfUnlLV/ou8Rg=="
+          "hash": "35wnqNJSmRFomb2MH8pyrw=="
         }
       },
       "is_incremental": false,
@@ -4089,7 +4089,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Dalaran.QuestSouthshore.html",
-          "hash": "xVNnBNmpPfwsbMI5x2PnzA=="
+          "hash": "ZUeWaFVkYTfhNjYrrJXUgA=="
         }
       },
       "is_incremental": false,
@@ -4101,7 +4101,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Dalaran.QuestTheNexus.html",
-          "hash": "oPrreSS59nj0XODSZuJpRg=="
+          "hash": "/vmWOegU0fRMFWPBYcAplw=="
         }
       },
       "is_incremental": false,
@@ -4125,7 +4125,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Draenei.QuestBrokenOne.html",
-          "hash": "z7sY3B2SDtqdtTO8Zz/yiA=="
+          "hash": "LmrbrKeh2qoZfmoclX6B5Q=="
         }
       },
       "is_incremental": false,
@@ -4137,7 +4137,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Draenei.QuestExiled.html",
-          "hash": "yNgbPhAbwpUsW3Nvv5RDnw=="
+          "hash": "W4u8F3XlraSOxVCGiRJnmQ=="
         }
       },
       "is_incremental": false,
@@ -4149,7 +4149,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Draenei.QuestFirstWave.html",
-          "hash": "iOL/rL8hwgu722Ll+EQ6Qg=="
+          "hash": "ob2YVeP7JQfim1r5J6b8+Q=="
         }
       },
       "is_incremental": false,
@@ -4161,7 +4161,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Draenei.QuestShipArgus.html",
-          "hash": "xHGiaVOzhMoPrtYtrcE6GA=="
+          "hash": "TCaZGeSnqcXTJR6JD+napQ=="
         }
       },
       "is_incremental": false,
@@ -4173,7 +4173,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Draenei.QuestSurvivorsShattrah.html",
-          "hash": "HQ4XNbYIspAZ6mrfIXTzPQ=="
+          "hash": "94TWRdcUccFcfXQqhG9V3w=="
         }
       },
       "is_incremental": false,
@@ -4185,7 +4185,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Draenei.QuestTriumvirate.html",
-          "hash": "veRKcfyGe0Gnhq4x8bQ4Dw=="
+          "hash": "pDvF5S8j4zUMjyFIkz563Q=="
         }
       },
       "is_incremental": false,
@@ -4209,7 +4209,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Druids.QuestAndrassil.html",
-          "hash": "90LmPX6XatA24N66bUfvdg=="
+          "hash": "cCuyfKd4X/37NbHEm494gA=="
         }
       },
       "is_incremental": false,
@@ -4221,7 +4221,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Druids.QuestAshenvale.html",
-          "hash": "DOpoSUgWpRr3wnRctmuooA=="
+          "hash": "X8FhAx8DZlYwLlGXuCQBEg=="
         }
       },
       "is_incremental": false,
@@ -4233,7 +4233,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Druids.QuestDruidsKillFrostwolf.html",
-          "hash": "+G3AKbw552m/IMkqOX+YNA=="
+          "hash": "qKbagKHyIZhStInSHpla9w=="
         }
       },
       "is_incremental": false,
@@ -4245,7 +4245,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Druids.QuestDruidsKillWarsong.html",
-          "hash": "CO6mGZXndZkQreLcTpFAZA=="
+          "hash": "mK4TOQa9sAy6bCuG7eZrwQ=="
         }
       },
       "is_incremental": false,
@@ -4257,7 +4257,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Druids.QuestJoinAllianceDruid.html",
-          "hash": "DA8gHMABl6N/vxC9xXlqzw=="
+          "hash": "/maRwX7pGql+NyJJhzRH9g=="
         }
       },
       "is_incremental": false,
@@ -4269,7 +4269,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Druids.QuestMalfurionAwakens.html",
-          "hash": "Lwa8oKibMzWTw7wLu6EMCA=="
+          "hash": "QOZnH/6It0iHG88ezEcEzg=="
         }
       },
       "is_incremental": false,
@@ -4281,7 +4281,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Druids.QuestTortolla.html",
-          "hash": "zb+XWMJx5sWmUYiDNE5w3Q=="
+          "hash": "1IUgESCSDHOArSKkC9ziOA=="
         }
       },
       "is_incremental": false,
@@ -4305,7 +4305,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Fel_Horde.QuestBlackrock.html",
-          "hash": "Isc8lKodtbyo4hMCDXmZcA=="
+          "hash": "okYjqNkcAy4xg1EjRYRs3Q=="
         }
       },
       "is_incremental": false,
@@ -4317,7 +4317,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Fel_Horde.QuestFelHordeKillIronforge.html",
-          "hash": "cbd2C2yl6GmpT9BtjYCATA=="
+          "hash": "20kkqwWPiK1KHO96taIYdg=="
         }
       },
       "is_incremental": false,
@@ -4329,7 +4329,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Fel_Horde.QuestFelHordeKillStormwind.html",
-          "hash": "qgbXN+mKzRqRXExTlEuuXA=="
+          "hash": "FKeXmgubE7E+ymZNRaH6Dg=="
         }
       },
       "is_incremental": false,
@@ -4341,7 +4341,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Fel_Horde.QuestGuldansLegacy.html",
-          "hash": "XVaqjKOD/UAPmyFISovCFw=="
+          "hash": "7tU1omxsUkPJfgAUZXU4dQ=="
         }
       },
       "is_incremental": false,
@@ -4353,7 +4353,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Fel_Horde.QuestHellfireCitadel.html",
-          "hash": "cYWthLJC2aczAuhZmVy1fw=="
+          "hash": "+xoyP60Dv8lnBxPWIRAukQ=="
         }
       },
       "is_incremental": false,
@@ -4365,7 +4365,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Fel_Horde.QuestKillDraenei.html",
-          "hash": "ZWSEoqydEFdPiNecqVblew=="
+          "hash": "OoRilAD2xcPspENH1Hz8hQ=="
         }
       },
       "is_incremental": false,
@@ -4377,7 +4377,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Fel_Horde.QuestKilsorrow.html",
-          "hash": "E7LvW97YQuNe7LDnZzO4VA=="
+          "hash": "dSVFnh1ZkT0T9QBe8O7tXw=="
         }
       },
       "is_incremental": false,
@@ -4401,7 +4401,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Forsaken.QuestOpenScholomance.html",
-          "hash": "yg8A37TRl3GlxDSn+LN2Ww=="
+          "hash": "bKKodn59IeOyzMS6Nj3iCA=="
         }
       },
       "is_incremental": false,
@@ -4413,7 +4413,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Forsaken.QuestReanimateSylvanas.html",
-          "hash": "n2LxkhhA+Mzh9dAQtET66w=="
+          "hash": "zXLsRpaXtVEr2T28j1JaXg=="
         }
       },
       "is_incremental": false,
@@ -4425,7 +4425,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Forsaken.QuestRetakeSunwell.html",
-          "hash": "QMUhWQ2hv4tIQ6K3dreikA=="
+          "hash": "ZPOHVHQVmCi+1UbbCBK+oQ=="
         }
       },
       "is_incremental": false,
@@ -4437,7 +4437,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Forsaken.QuestScholomanceBuild.html",
-          "hash": "6s9qj82FcZD0KwtTsfhKQw=="
+          "hash": "ZyCeSVCFg1iwoLVjd7DPsQ=="
         }
       },
       "is_incremental": false,
@@ -4449,7 +4449,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Forsaken.QuestTakeRevenge.html",
-          "hash": "+CsjD1Z1qDswnEJVvC2tpA=="
+          "hash": "rDJuQjx6uIp2dv0jw6y+cQ=="
         }
       },
       "is_incremental": false,
@@ -4461,7 +4461,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Forsaken.QuestTheNine.html",
-          "hash": "lXI07+UmBzj20x3ScoWf3g=="
+          "hash": "TJZdeekK4spxvKIRmrwlJQ=="
         }
       },
       "is_incremental": false,
@@ -4473,7 +4473,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Forsaken.QuestThePlaguelands.html",
-          "hash": "7LQBn1Z6OU/6DA/91rLJdQ=="
+          "hash": "PxkgFPyWJiccbMhshq42iA=="
         }
       },
       "is_incremental": false,
@@ -4485,7 +4485,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Forsaken.QuestUndercity.html",
-          "hash": "TeEzMEQ5iIiHD4uTWaPKqQ=="
+          "hash": "we5blIGJAk/3V3HN+sjSzQ=="
         }
       },
       "is_incremental": false,
@@ -4509,7 +4509,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Frostwolf.QuestDrektharsSpellbook.html",
-          "hash": "hBmxBT4kIt2T/L8B3UIlPg=="
+          "hash": "sycDSLF4ZCSOF+NM2Eqq/A=="
         }
       },
       "is_incremental": false,
@@ -4521,7 +4521,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Frostwolf.QuestFreeNerzhul.html",
-          "hash": "E93bY8fXsToO4MNKyD+1+g=="
+          "hash": "7HO7OyWOYYlNY+LW8q21PQ=="
         }
       },
       "is_incremental": false,
@@ -4533,7 +4533,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Frostwolf.QuestGazlowe.html",
-          "hash": "/0xV9dhd89QvjnvTxD8c/w=="
+          "hash": "WvZGD2ApzmGVr8z5QK5rTA=="
         }
       },
       "is_incremental": false,
@@ -4545,7 +4545,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Frostwolf.QuestRoyalPlunder.html",
-          "hash": "T+OxRj3U6zcZJFB66Mr6CQ=="
+          "hash": "FSwLa3Ej5NUb7Wdaiqm3zQ=="
         }
       },
       "is_incremental": false,
@@ -4557,7 +4557,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Frostwolf.QuestSeaWitch.html",
-          "hash": "5SetOicXxCF91GquTLTHSg=="
+          "hash": "AzQnGIuzVqX6GGNRrXnXCQ=="
         }
       },
       "is_incremental": false,
@@ -4569,7 +4569,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Frostwolf.QuestStonemaul.html",
-          "hash": "2rB7VVuuK5lr7RJAh1hXBQ=="
+          "hash": "7eS+6mibIVbYQEhT4mDAAQ=="
         }
       },
       "is_incremental": false,
@@ -4581,7 +4581,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Frostwolf.QuestThunderBluff.html",
-          "hash": "mO0cXUigjPBfXP5hfRkWKA=="
+          "hash": "ude3dEdqpDaR9GTTV+wkcw=="
         }
       },
       "is_incremental": false,
@@ -4605,7 +4605,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Goblin.QuestBusinessExpansion.html",
-          "hash": "a9YP2djVDTiYl0ReKf0KyQ=="
+          "hash": "XeoKVkFkmPrzbl5R7NdqMw=="
         }
       },
       "is_incremental": false,
@@ -4617,7 +4617,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Goblin.QuestExplosiveEngineering.html",
-          "hash": "bRt3PlXCaEpMNi/SYUGEGw=="
+          "hash": "XVPp0ww6fKEcckkJzxsNnQ=="
         }
       },
       "is_incremental": false,
@@ -4629,7 +4629,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Goblin.QuestGadgetzan.html",
-          "hash": "cYX/FOplE7N476YjGHvyHg=="
+          "hash": "EupzTAel+BLuaOWZ+xWmyg=="
         }
       },
       "is_incremental": false,
@@ -4641,7 +4641,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Goblin.QuestGoblinEmpire.html",
-          "hash": "Hd73Mt2vLROygFJOuj3t8w=="
+          "hash": "IYfTGk8GUP5aFUH+WhRx3w=="
         }
       },
       "is_incremental": false,
@@ -4653,7 +4653,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Goblin.QuestLumberMarket.html",
-          "hash": "e9uI3lb9VKmNXWBopu7brg=="
+          "hash": "8jH6tNcewobdiH7v7/TAcw=="
         }
       },
       "is_incremental": false,
@@ -4665,7 +4665,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Goblin.QuestWesternExpansion.html",
-          "hash": "ecCqvaku1bYkJZ2ObeyIKA=="
+          "hash": "vSMmT+6orOPTJRS7hw6HhQ=="
         }
       },
       "is_incremental": false,
@@ -4689,7 +4689,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Ironforge.QuestDarkIron.html",
-          "hash": "HJLDac3/xw6M0+FMY7JqUQ=="
+          "hash": "8FEdlR+j3BFuuac1o7gA3w=="
         }
       },
       "is_incremental": false,
@@ -4701,7 +4701,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Ironforge.QuestDominion.html",
-          "hash": "LFIZcSX/cBzXwQMFSVbjnA=="
+          "hash": "HgzJL6rwQVi5UWRqGGMM9Q=="
         }
       },
       "is_incremental": false,
@@ -4713,7 +4713,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Ironforge.QuestDunMorogh.html",
-          "hash": "S4c+OIEjpSXMjwcfqdyaOg=="
+          "hash": "odQt2sjsDFQ1PzMCLFrVGw=="
         }
       },
       "is_incremental": false,
@@ -4725,7 +4725,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Ironforge.QuestGnomeregan.html",
-          "hash": "TkdaFid7l5CZmxOpNAnzlw=="
+          "hash": "W1NXrXutF4no0Qoy411mYg=="
         }
       },
       "is_incremental": false,
@@ -4737,7 +4737,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Ironforge.QuestThelsamar.html",
-          "hash": "Q4EaqIvr/kDEBZ/N7FntBg=="
+          "hash": "ylniqLNN51UG3p87qu/7lw=="
         }
       },
       "is_incremental": false,
@@ -4749,7 +4749,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Ironforge.QuestWildhammer.html",
-          "hash": "VnvxQfUmpiToJlsdNvfn8w=="
+          "hash": "7+/4oN6U1L6W8jaiw34ojQ=="
         }
       },
       "is_incremental": false,
@@ -4773,7 +4773,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.KulTiras.QuestBeyondPortal.html",
-          "hash": "ZKmCIVOTqHO7oe4YZLlswg=="
+          "hash": "cGzMiIL6j53iAXMRBfd0uA=="
         }
       },
       "is_incremental": false,
@@ -4785,7 +4785,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.KulTiras.QuestBoralus.html",
-          "hash": "e6VtPbt0xohcw4pRcHuLsQ=="
+          "hash": "VfBh8Qd9PIWFu6kKz6OdLw=="
         }
       },
       "is_incremental": false,
@@ -4797,7 +4797,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.KulTiras.QuestJoinCrusade.html",
-          "hash": "7hD7wq4SEOL8EDiPOHBxUw=="
+          "hash": "56rr6+fU5igp8x3Dq8ClZA=="
         }
       },
       "is_incremental": false,
@@ -4809,7 +4809,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.KulTiras.QuestSafeSea.html",
-          "hash": "uUDlfu0jP5sTj9bPJxB23w=="
+          "hash": "Kldg8i2VFntm1tVqZ6T4ZA=="
         }
       },
       "is_incremental": false,
@@ -4821,7 +4821,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.KulTiras.QuestTheramore.html",
-          "hash": "x0dObFrdboxm3/GDE0Zr+Q=="
+          "hash": "KJRapBriSi6CDKsSjBJJEg=="
         }
       },
       "is_incremental": false,
@@ -4833,7 +4833,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.KulTiras.QuestUnlockShip.html",
-          "hash": "o6vu8v0r5F1MrozBh6qkBA=="
+          "hash": "jqwAByX5qw32xslGv6EbCg=="
         }
       },
       "is_incremental": false,
@@ -4857,7 +4857,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Legion.QuestArgusControl.html",
-          "hash": "izXjbntFJ8ISPTVqpU1F0g=="
+          "hash": "ap+9m83wVdXL7DbOSU6W/w=="
         }
       },
       "is_incremental": false,
@@ -4869,7 +4869,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Legion.QuestConsumeTree.html",
-          "hash": "YrVOvgSa44uUyIEv3gt3yw=="
+          "hash": "DmehLWNf50BfQezuyFP4Ww=="
         }
       },
       "is_incremental": false,
@@ -4881,7 +4881,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Legion.QuestDemonGateMonastery.html",
-          "hash": "lLZcQcsi2hh9NWDfWssXIQ=="
+          "hash": "I6Rv7q6jyVH/llzT/IJoiA=="
         }
       },
       "is_incremental": false,
@@ -4893,7 +4893,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Legion.QuestDreadlordInsurgent.html",
-          "hash": "Cl1kFGFe00v7jO/IKw+OBg=="
+          "hash": "/kkPi2fgh01+VW2TWkYL2A=="
         }
       },
       "is_incremental": false,
@@ -4905,7 +4905,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Legion.QuestEmbassy.html",
-          "hash": "vdBldCH1BLhZEaI5SJH75g=="
+          "hash": "8Qgv0i07438R7qV4Cg//ng=="
         }
       },
       "is_incremental": false,
@@ -4917,7 +4917,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Legion.QuestLegionCaptureSunwell.html",
-          "hash": "YRjDhYG/sITWyr0/N5yZHw=="
+          "hash": "0IU8RVrxBJZlndMHB15fSw=="
         }
       },
       "is_incremental": false,
@@ -4929,7 +4929,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Legion.QuestLegionKillLordaeron.html",
-          "hash": "JHMrYHNlQCX2PZFi7ndGRg=="
+          "hash": "JdjgsXZgwJiHqmx7AI/gIA=="
         }
       },
       "is_incremental": false,
@@ -4941,7 +4941,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Legion.QuestSkullOfGuldan.html",
-          "hash": "Vxzm+pV/YqnvONGz5wInPA=="
+          "hash": "SDedY3rBLoshazPVbE4mvw=="
         }
       },
       "is_incremental": false,
@@ -4953,7 +4953,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Legion.QuestSummonLegion.html",
-          "hash": "I77g4yU0FeiObJ28cizh7g=="
+          "hash": "rVLz4P3eLP3/FONQo7PVzg=="
         }
       },
       "is_incremental": false,
@@ -4977,7 +4977,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Lordaeron.QuestAshbringer.html",
-          "hash": "FLAJ8udiDsgZRTF1u2G9tA=="
+          "hash": "iP8+yhA9IlABw86DzJFAFQ=="
         }
       },
       "is_incremental": false,
@@ -4989,7 +4989,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Lordaeron.QuestCapitalCity.html",
-          "hash": "KJkHORNOJwGk54CYxF/DKQ=="
+          "hash": "iYjHhX0BhULvw7jPPJnW8A=="
         }
       },
       "is_incremental": false,
@@ -5001,7 +5001,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Lordaeron.QuestGarithosCrusade.html",
-          "hash": "HIKQf3YN4eovMVAZ0XOQzA=="
+          "hash": "x+olSKD8PBJPfY6xyhUPKQ=="
         }
       },
       "is_incremental": false,
@@ -5013,7 +5013,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Lordaeron.QuestGarithosMindControl.html",
-          "hash": "dI1ts3z3S5awdaKi4sZwQg=="
+          "hash": "ew1/nW7QfQUNm+vYXF6R+Q=="
         }
       },
       "is_incremental": false,
@@ -5025,7 +5025,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Lordaeron.QuestKingArthas.html",
-          "hash": "HMASHEDVVkHq0LjoHAE9Tw=="
+          "hash": "xENR3H+mJcFGGhqTAoP6bg=="
         }
       },
       "is_incremental": false,
@@ -5037,7 +5037,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Lordaeron.QuestKingdomOfManLordaeron.html",
-          "hash": "DT0oqMWLalRW4NGEAvcErA=="
+          "hash": "Terh78cKHNCiMjYtjiq3QA=="
         }
       },
       "is_incremental": false,
@@ -5049,7 +5049,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Lordaeron.QuestLivingShadow.html",
-          "hash": "Q2ERFPQfyx1enKYCNGeltw=="
+          "hash": "ZrtsDnFnoWayLzvaJCYI4A=="
         }
       },
       "is_incremental": false,
@@ -5061,7 +5061,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Lordaeron.QuestMograine.html",
-          "hash": "bkURhi9sIJgBl08qlW2peA=="
+          "hash": "dClXh8NUfbIhVSoO3YKULw=="
         }
       },
       "is_incremental": false,
@@ -5073,7 +5073,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Lordaeron.QuestShoresOfNorthrend.html",
-          "hash": "KRgWQARm+XIx8ZSPLVyJZQ=="
+          "hash": "7tNIGhgX+REi6RJXoERsyA=="
         }
       },
       "is_incremental": false,
@@ -5085,7 +5085,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Lordaeron.QuestStrahnbrad.html",
-          "hash": "lb3LRaSKMRon0Av9YACKqw=="
+          "hash": "2OpR+b5DuBD6bq4oN6uHVw=="
         }
       },
       "is_incremental": false,
@@ -5097,7 +5097,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Lordaeron.QuestStratholme.html",
-          "hash": "ngK07CUxNChbg0i1awDoEQ=="
+          "hash": "xArIAwbko91Hlc5q6cX6sQ=="
         }
       },
       "is_incremental": false,
@@ -5109,7 +5109,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Lordaeron.QuestThunderEagle.html",
-          "hash": "KmMC9S7sOSeZU7PKqtZ61w=="
+          "hash": "tDA4AHEKQHQ+cjXmecRXdA=="
         }
       },
       "is_incremental": false,
@@ -5133,7 +5133,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Naga.QuestBlackTemple.html",
-          "hash": "z/QGSEaRpXJoItHF6dKfNQ=="
+          "hash": "Hyr/aW2VRXJ1faw6gVrCkw=="
         }
       },
       "is_incremental": false,
@@ -5145,7 +5145,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Naga.QuestFrozenThrone.html",
-          "hash": "CGK+1l35ZApFuNAdryRxww=="
+          "hash": "yNGLv0PvLAWZ8b2DRlsbgQ=="
         }
       },
       "is_incremental": false,
@@ -5157,7 +5157,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Naga.QuestIllidanChapterOne.html",
-          "hash": "lI91ZOK+z+6zzN8g6lrq2A=="
+          "hash": "g/fnPdeOSXBMdjUQVYMbfA=="
         }
       },
       "is_incremental": false,
@@ -5169,7 +5169,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Naga.QuestIllidanChapterThree.html",
-          "hash": "iGOINfvDJPbodub7j6iyZg=="
+          "hash": "m34fzvEkXdFogPoa07AWoA=="
         }
       },
       "is_incremental": false,
@@ -5181,7 +5181,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Naga.QuestIllidanChapterTwo.html",
-          "hash": "Wp5XS/nxTuxYPvWNFAmz4Q=="
+          "hash": "MTJTCag1kyff5uUkYCjCOA=="
         }
       },
       "is_incremental": false,
@@ -5205,7 +5205,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Quelthalas.QuestGreatTreachery.html",
-          "hash": "XVxscjfS62+LK2XaWgBLSA=="
+          "hash": "RjKYyHAPJNulZqEm59t7pA=="
         }
       },
       "is_incremental": false,
@@ -5217,7 +5217,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Quelthalas.QuestQueldanil.html",
-          "hash": "csloSewpu4PavwPbXOSqZQ=="
+          "hash": "89Ktbwy2IzSsGm4zOq+XLA=="
         }
       },
       "is_incremental": false,
@@ -5229,7 +5229,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Quelthalas.QuestSilvermoon.html",
-          "hash": "0gYVmUgJ/soiTsnW31WnIg=="
+          "hash": "qgaGBMcUs9M4VFrNZ7Mi1A=="
         }
       },
       "is_incremental": false,
@@ -5241,7 +5241,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Quelthalas.QuestSummonKil.html",
-          "hash": "Ozea1WkfNZtAfB0M6GmFpg=="
+          "hash": "b69R8T74WD4Kgwb7FGp3eA=="
         }
       },
       "is_incremental": false,
@@ -5253,7 +5253,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Quelthalas.QuestTempestKeep.html",
-          "hash": "Bi8ZWXvpaMNBb91ShN+tqQ=="
+          "hash": "WSNVDSwTAg2Sume0UiHj/w=="
         }
       },
       "is_incremental": false,
@@ -5265,7 +5265,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Quelthalas.QuestTheBloodElves.html",
-          "hash": "yOSVrrhQtObHZTlZdRBxng=="
+          "hash": "a0T1qfnNHoOa1gEuN1QPbg=="
         }
       },
       "is_incremental": false,
@@ -5289,7 +5289,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.QuestTombOfSargeras.html",
-          "hash": "uZRYg4MN+4c3YTX9XPXLSg=="
+          "hash": "ODSyeolcMYPMtOqnGC8AWQ=="
         }
       },
       "is_incremental": false,
@@ -5301,7 +5301,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Scarlet.QuestArathiVolunteers.html",
-          "hash": "VLe8kgnM/T9bmiy6nss4VQ=="
+          "hash": "Uy/UMaOI7d/kNeQxwTWjjA=="
         }
       },
       "is_incremental": false,
@@ -5313,7 +5313,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Scarlet.QuestArgentDawn.html",
-          "hash": "Begk+JXEOZtC5CTi55GIFg=="
+          "hash": "SssAHdmgbnzr0CWBiMBr3g=="
         }
       },
       "is_incremental": false,
@@ -5325,7 +5325,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Scarlet.QuestLiberateLordaeron.html",
-          "hash": "ZlH4gqfzV0PNPDSiZt6COQ=="
+          "hash": "YirlnOvtvRZ6s9jcrer5tA=="
         }
       },
       "is_incremental": false,
@@ -5337,7 +5337,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Scarlet.QuestScarletCrusade.html",
-          "hash": "OJH2oQBqOzd6XXkn17w0/A=="
+          "hash": "tdrIfRvQGH8cUN+ESNjKqw=="
         }
       },
       "is_incremental": false,
@@ -5349,7 +5349,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Scarlet.QuestTownWatch.html",
-          "hash": "SXBzYGsikMQb7yfzvcllXQ=="
+          "hash": "KCq9YN4jwPtSjrGfYTB7iQ=="
         }
       },
       "is_incremental": false,
@@ -5361,7 +5361,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Scarlet.QuestTyr.html",
-          "hash": "RhB38UYJwIt+TcIWMpt1aA=="
+          "hash": "1dYp6FyIlXbUQnhE3m9CUg=="
         }
       },
       "is_incremental": false,
@@ -5385,7 +5385,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Scourge.PlagueParameters.html",
-          "hash": "k9YdflV9Q6jaI5QvHCPuEA=="
+          "hash": "Lb2LN3I5SLihgMOdvQYhCA=="
         }
       },
       "is_incremental": false,
@@ -5397,7 +5397,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Scourge.QuestCivilWar.html",
-          "hash": "gGpYqFsISnw8HnDuqhyUOw=="
+          "hash": "EChjw1vRPU8M9Q9S4HGbVQ=="
         }
       },
       "is_incremental": false,
@@ -5409,7 +5409,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Scourge.QuestCorruptArthas.html",
-          "hash": "eMSS6GoCqcQ6uGz/HWfViQ=="
+          "hash": "2l0KR2R7lbjWkqD6XRUFRg=="
         }
       },
       "is_incremental": false,
@@ -5421,7 +5421,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Scourge.QuestDrakUnlock.html",
-          "hash": "vpxCgLWzmt+b4K7vOU0z5g=="
+          "hash": "MJ/Z1PATMnTLpxrI0gPTYw=="
         }
       },
       "is_incremental": false,
@@ -5433,7 +5433,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Scourge.QuestKelthuzad.html",
-          "hash": "QLbvQjAYC5svzJ6XBzEhUQ=="
+          "hash": "3wQctS1NguvNdUiv9uppgw=="
         }
       },
       "is_incremental": false,
@@ -5445,7 +5445,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Scourge.QuestLichKingArthas.html",
-          "hash": "P8RHyTPX2OL1mXSLSp6sTA=="
+          "hash": "qXY9QE6xKbKInIEo1dZrAw=="
         }
       },
       "is_incremental": false,
@@ -5457,7 +5457,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Scourge.QuestNaxxramas.html",
-          "hash": "F7c8IKdeQVAQfUS3c1v+Fw=="
+          "hash": "O0tJ42wRICDzpEcVQ+fX+w=="
         }
       },
       "is_incremental": false,
@@ -5469,7 +5469,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Scourge.QuestPlague.html",
-          "hash": "QwYEC5Ub3aC8lnATmpbuig=="
+          "hash": "rw1GpmkPDVa99CBccVsaIg=="
         }
       },
       "is_incremental": false,
@@ -5481,7 +5481,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Scourge.QuestSapphiron.html",
-          "hash": "EJNqby/nZyqdDhW+l9Jirg=="
+          "hash": "qK8g4s7cpWsM0BSWCpkUvA=="
         }
       },
       "is_incremental": false,
@@ -5493,7 +5493,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Scourge.QuestSpiderWar.html",
-          "hash": "vEtCHVLpxzHZKUMJgXw8Dw=="
+          "hash": "Sua1RQ1NsG5+yJjzTOnYZw=="
         }
       },
       "is_incremental": false,
@@ -5517,7 +5517,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Sentinels.QuestAstranaar.html",
-          "hash": "6QgBaj1o/R1s0jJh/2Ue+w=="
+          "hash": "semAXrilYoNlce185TI/qQ=="
         }
       },
       "is_incremental": false,
@@ -5529,7 +5529,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Sentinels.QuestFeathermoon.html",
-          "hash": "lfals48XXsD8aaaYekJDow=="
+          "hash": "3KmgfHJbfB6OaCdmC9tBuA=="
         }
       },
       "is_incremental": false,
@@ -5541,7 +5541,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Sentinels.QuestMaievOutland.html",
-          "hash": "7PpS4t3K8LF/AlZNBLk/mQ=="
+          "hash": "RYlSGUgdzFqTIvk/2KkV+w=="
         }
       },
       "is_incremental": false,
@@ -5553,7 +5553,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Sentinels.QuestSentinelsKillFrostwolf.html",
-          "hash": "7xAlOkmEvj0uPo+5SlfZMA=="
+          "hash": "KSDcne5HVTGGlQYPGsutEQ=="
         }
       },
       "is_incremental": false,
@@ -5565,7 +5565,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Sentinels.QuestSentinelsKillWarsong.html",
-          "hash": "hwqoXRvMafuamOSwSgOUpg=="
+          "hash": "VqKagDO5LxZNtPTvgwwVUg=="
         }
       },
       "is_incremental": false,
@@ -5577,7 +5577,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Sentinels.QuestVaultoftheWardens.html",
-          "hash": "VHJoyBxXPJIdLB0mnr2kfQ=="
+          "hash": "Tas/t2rNmWtCHvwCTP6BcQ=="
         }
       },
       "is_incremental": false,
@@ -5601,7 +5601,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Stormwind.QuestClosePortal.html",
-          "hash": "RKM5L5LCm+XD3DffZ44W9A=="
+          "hash": "D5NTNBOCDXGe9t0tKjN5GQ=="
         }
       },
       "is_incremental": false,
@@ -5613,7 +5613,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Stormwind.QuestDarkshire.html",
-          "hash": "DOgTFmHnujfpv+OumNordQ=="
+          "hash": "2G1meJWpeFL5gxLag7IHGg=="
         }
       },
       "is_incremental": false,
@@ -5625,7 +5625,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Stormwind.QuestGoldshire.html",
-          "hash": "ixMLexSByd0w1FAVg12hOA=="
+          "hash": "NauuOVztCTYL3Z4czmpe8w=="
         }
       },
       "is_incremental": false,
@@ -5637,7 +5637,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Stormwind.QuestHonorHold.html",
-          "hash": "mAN3SPrIdBQuuUAMLah8nQ=="
+          "hash": "bZ4EIvgwGncwFhLScqUtbQ=="
         }
       },
       "is_incremental": false,
@@ -5649,7 +5649,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Stormwind.QuestKhadgar.html",
-          "hash": "G2rEZDxy9YhBY0btY3+AWQ=="
+          "hash": "A3fCVKQPYc5COrkLnoVCZQ=="
         }
       },
       "is_incremental": false,
@@ -5661,7 +5661,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html",
-          "hash": "AGlfENjEPyY0rW6dm6HwFw=="
+          "hash": "Eacy4ihRv5R5F9a9znP9OQ=="
         }
       },
       "is_incremental": false,
@@ -5673,7 +5673,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Stormwind.QuestLakeshire.html",
-          "hash": "QTdAnEnr8PvHp6osgQDc8g=="
+          "hash": "sJiHc8u2VM20OZvKJWFIaw=="
         }
       },
       "is_incremental": false,
@@ -5685,7 +5685,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Stormwind.QuestNethergarde.html",
-          "hash": "XZE7KvqrW1LJ7gQW1gYfaQ=="
+          "hash": "aDAxKLOVbkbFKyswOinluw=="
         }
       },
       "is_incremental": false,
@@ -5697,7 +5697,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Stormwind.QuestStormwindCity.html",
-          "hash": "csdHhwrSIipyze+E/LpKtg=="
+          "hash": "YdLIBHZS3mhCe6iO7rDsPg=="
         }
       },
       "is_incremental": false,
@@ -5709,7 +5709,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Stormwind.QuestStromgarde.html",
-          "hash": "BOsPznh/HXxH8JpJtmGKRw=="
+          "hash": "bQFFd8eLyeyi6q+2S4jsRg=="
         }
       },
       "is_incremental": false,
@@ -5733,7 +5733,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Twilight.QuestCataclysm.html",
-          "hash": "xsjoTo86J0RZoYBnb674kg=="
+          "hash": "bbBvp1ak+nenMTV/8nS+dA=="
         }
       },
       "is_incremental": false,
@@ -5745,7 +5745,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Twilight.QuestDragonmawPort.html",
-          "hash": "rCmLNJpzdARQkOF5SirVxQ=="
+          "hash": "lM0nKUqjwXs/dhTAD7TkcQ=="
         }
       },
       "is_incremental": false,
@@ -5757,7 +5757,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Twilight.QuestFeludius.html",
-          "hash": "ykxLqOUIOBjb7PaES0Xr9g=="
+          "hash": "iNql0eKaupQbc2IV9ocNCA=="
         }
       },
       "is_incremental": false,
@@ -5769,7 +5769,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Twilight.QuestGrimBatol.html",
-          "hash": "iYieurB+HHfmF1+GPzDPXg=="
+          "hash": "AxeKGGLgyooM+nADYkmm8Q=="
         }
       },
       "is_incremental": false,
@@ -5781,7 +5781,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Twilight.QuestIgnacious.html",
-          "hash": "eIp1WAig+tWIuRepyBz2Kw=="
+          "hash": "ziZ2xbpuaQ7hasNBK6nxkQ=="
         }
       },
       "is_incremental": false,
@@ -5793,7 +5793,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Twilight.QuestSpreadTheWord.html",
-          "hash": "ELuLhe2ibg4F9ZeHIXz2CA=="
+          "hash": "pX8Xk6YWYlmRY/An7x5Zow=="
         }
       },
       "is_incremental": false,
@@ -5805,7 +5805,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Twilight.QuestThunderfury.html",
-          "hash": "BfcrzU7S8hqkSsMf5jJuTA=="
+          "hash": "8zBumlQTNZsFgmAmSy7r+w=="
         }
       },
       "is_incremental": false,
@@ -5829,7 +5829,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Warsong.QuestChenStormstout.html",
-          "hash": "GB1HCrR4U7RoCr104kdiWg=="
+          "hash": "b8bVqaJ6TSzAnv5uSxFO0Q=="
         }
       },
       "is_incremental": false,
@@ -5841,7 +5841,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Warsong.QuestCrossroads.html",
-          "hash": "y5quzVJ2bf7cCZnDxR/WTw=="
+          "hash": "967lg9RtFT3SuotXwlIULQ=="
         }
       },
       "is_incremental": false,
@@ -5853,7 +5853,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Warsong.QuestFountainOfBlood.html",
-          "hash": "Hdq/sDcZJ+G0+k18s0djIg=="
+          "hash": "4iHvyakoAJOU9a5B3HNnpQ=="
         }
       },
       "is_incremental": false,
@@ -5865,7 +5865,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Warsong.QuestMoreWyverns.html",
-          "hash": "ExcHyarPsabNfQavTAJpKA=="
+          "hash": "3D1Nm7HEyLo1bW22oFHwRQ=="
         }
       },
       "is_incremental": false,
@@ -5877,7 +5877,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Warsong.QuestOrgrimmar.html",
-          "hash": "z4WY+eRZNkvH/LO2grJqDQ=="
+          "hash": "iXVnKjDqQJ6jtr2VQdvTHw=="
         }
       },
       "is_incremental": false,
@@ -5889,7 +5889,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Warsong.QuestWarsongHold.html",
-          "hash": "vxWLJDgjSFEM1TeWfMUXaw=="
+          "hash": "3dAaaRk8UvgFS0bxH+04OA=="
         }
       },
       "is_incremental": false,
@@ -5901,7 +5901,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Warsong.QuestWarsongKillDruids.html",
-          "hash": "sJ8nTNHV1tMm4XGvkB8exw=="
+          "hash": "iy27RYQnPEDHIZW0iDfZQg=="
         }
       },
       "is_incremental": false,
@@ -5925,7 +5925,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Zandalar.QuestConquerKul.html",
-          "hash": "HdVNglnY5/PawpfEUngjFQ=="
+          "hash": "Z2Eyv2h+jyTczkONJFppLg=="
         }
       },
       "is_incremental": false,
@@ -5937,7 +5937,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Zandalar.QuestGoldenFleet.html",
-          "hash": "oFkjqU6dArS0s05w8ciiTw=="
+          "hash": "1no8IWzPuPxF2h5PJAVhaw=="
         }
       },
       "is_incremental": false,
@@ -5949,7 +5949,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Zandalar.QuestGundrak.html",
-          "hash": "8G8bntXrLYfHY6SF9YwVlA=="
+          "hash": "t5sG5tgNYV6vJYHJrT2gEw=="
         }
       },
       "is_incremental": false,
@@ -5961,7 +5961,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Zandalar.QuestHakkar.html",
-          "hash": "cwVxEGNvvqm4ARIfJUO4dQ=="
+          "hash": "9Na9yJELYTK0vAeYA5OR0A=="
         }
       },
       "is_incremental": false,
@@ -5973,7 +5973,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Zandalar.QuestJinthaAlor.html",
-          "hash": "sL7gywERprge4XWzPjxc9g=="
+          "hash": "DNlNa+rxMZaIUWQfCv6eFg=="
         }
       },
       "is_incremental": false,
@@ -5985,7 +5985,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Zandalar.QuestZandalar.html",
-          "hash": "CkdjJUSK79nM1ticK2D3+w=="
+          "hash": "aZQaOwWb3ealIuedEbGWHg=="
         }
       },
       "is_incremental": false,
@@ -5997,7 +5997,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Zandalar.QuestZulfarrak.html",
-          "hash": "on9HlzDbaULETl2a4ntuMQ=="
+          "hash": "dWXWTJJ0YYplebG/UbGBKA=="
         }
       },
       "is_incremental": false,
@@ -6009,7 +6009,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Quests.Zandalar.QuestZulgurub.html",
-          "hash": "+oBY4QcvEgiKFDAdHvbMkw=="
+          "hash": "+2HBqJS6rxpD3bQf+fFZdA=="
         }
       },
       "is_incremental": false,
@@ -6045,7 +6045,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Researches.Ironforge.DeeprunTram.html",
-          "hash": "HtEYO/OCNKh/0HWjWq+5nA=="
+          "hash": "PybOj/L/H065gGI9d9jmyw=="
         }
       },
       "is_incremental": false,
@@ -6057,7 +6057,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Researches.Ironforge.TitanForgeArtifact.html",
-          "hash": "7Ryx9+SwqCONhzYwxM8dGg=="
+          "hash": "IHX9ouURlRX1E8pBGSa6oQ=="
         }
       },
       "is_incremental": false,
@@ -6081,7 +6081,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Researches.Lordaeron.VeteranFootmen.html",
-          "hash": "LI6ArKDIO1rn8jh6aco1aQ=="
+          "hash": "5Am9u39T4lFMiw3lXYUoIw=="
         }
       },
       "is_incremental": false,
@@ -6105,7 +6105,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Rocks.RockGroup.html",
-          "hash": "YKXvSoje4vDR/DBUND+Orw=="
+          "hash": "wA8AU2Ucq6pCJi8ep1lyDw=="
         }
       },
       "is_incremental": false,
@@ -6117,7 +6117,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Rocks.RockSetup.html",
-          "hash": "j0t4Vxj2YMUo7RD5YF/MVg=="
+          "hash": "wkDYlC9GO/WkvssqvKeV5A=="
         }
       },
       "is_incremental": false,
@@ -6129,7 +6129,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Rocks.RockSystem.html",
-          "hash": "GtEEyTutQA6+f53q7L8Zcw=="
+          "hash": "6gRfFgQ97+hcShuvL6GmYQ=="
         }
       },
       "is_incremental": false,
@@ -6153,7 +6153,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.AllFactionSetup.html",
-          "hash": "c78BqoBKTXdyrkhBa7WhAg=="
+          "hash": "PWJFcN8AwMMakl1wDjLQWA=="
         }
       },
       "is_incremental": false,
@@ -6165,7 +6165,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.AllLegendSetup.html",
-          "hash": "nQoB4T2/5j49ynpDSr4Jpg=="
+          "hash": "WXwlkYy2GVnPIe0TD55vfA=="
         }
       },
       "is_incremental": false,
@@ -6177,7 +6177,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.AllQuestSetup.html",
-          "hash": "crf2lMlNHQJ4s4b3USeH6Q=="
+          "hash": "movXtXeKb4sXMgEJLcnXxw=="
         }
       },
       "is_incremental": false,
@@ -6189,7 +6189,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.AmbianceSetup.html",
-          "hash": "2t4/Xyw/mcRQ+ac2bD6PFw=="
+          "hash": "nFKqBze3jqNnGgrBtXNlQw=="
         }
       },
       "is_incremental": false,
@@ -6201,7 +6201,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.ArtifactSetup.html",
-          "hash": "d42bj/VyXEkEyWeQ2BuE/g=="
+          "hash": "nc6eYuXIH+fBOEgii9LvHg=="
         }
       },
       "is_incremental": false,
@@ -6213,7 +6213,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.AugmentSetup.html",
-          "hash": "neFd4Nb4G4K5U6ozjAkX7g=="
+          "hash": "kcc9OVRgcIKb3sXS9uAiXw=="
         }
       },
       "is_incremental": false,
@@ -6225,7 +6225,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.BlockerSetup.html",
-          "hash": "FBb1slMmoiJ6WL7CXVKaMQ=="
+          "hash": "cWJvAuLPJp/WtAmCxmuZgw=="
         }
       },
       "is_incremental": false,
@@ -6237,7 +6237,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Cameras.html",
-          "hash": "3DebEk4xVKrHJ7rX+sjSWQ=="
+          "hash": "ifk1d+mlLR3hjQiFRcqXAQ=="
         }
       },
       "is_incremental": false,
@@ -6249,7 +6249,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.CheatSetup.html",
-          "hash": "3f3f21SOMaB7/CWjzpUxww=="
+          "hash": "TuJopGMfkfi/NxDsGDfJ5Q=="
         }
       },
       "is_incremental": false,
@@ -6261,7 +6261,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.CommandSetup.html",
-          "hash": "A2UIPOuXWduQ8bq9wYbFPg=="
+          "hash": "SqLV0SSeUGAIZ2dugh/kGA=="
         }
       },
       "is_incremental": false,
@@ -6273,7 +6273,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.ControlPointSetup.html",
-          "hash": "AZmWwvjRCt8usa2v3RqtxQ=="
+          "hash": "0lqJChY+W+1oxk8EH2w0AQ=="
         }
       },
       "is_incremental": false,
@@ -6285,7 +6285,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.DestructibleSetup.html",
-          "hash": "aXP+hYkvHvBMXPOcN8gEeQ=="
+          "hash": "aEXevCBSw2NIBmB7OBF2Jw=="
         }
       },
       "is_incremental": false,
@@ -6297,7 +6297,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.DialogueSetup.html",
-          "hash": "iCmegthSMhxwInP81Y5u6g=="
+          "hash": "MBe8tPkqrvsqz/Wj6w9ZiA=="
         }
       },
       "is_incremental": false,
@@ -6309,7 +6309,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.BlackEmpireSetup.html",
-          "hash": "d5A7wV8yBc5LI1pS9voRzQ=="
+          "hash": "tOd5PqkboskXCG9zVWXfgw=="
         }
       },
       "is_incremental": false,
@@ -6321,7 +6321,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.CthunSetup.html",
-          "hash": "6epgZtfNn4fuXqkm853zzQ=="
+          "hash": "E2IuuC5P3L1SpQ2CXaGdSw=="
         }
       },
       "is_incremental": false,
@@ -6333,7 +6333,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.DalaranSetup.html",
-          "hash": "0GA9poGZzoyRrp51lUgmtg=="
+          "hash": "xijkE3zCLjjSLV1tIUUdiw=="
         }
       },
       "is_incremental": false,
@@ -6345,7 +6345,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.DraeneiSetup.html",
-          "hash": "Ozpz3NQ2KhFDBPm7HiIUPg=="
+          "hash": "6JtqcXH2bL/rkMZ/CEgXBA=="
         }
       },
       "is_incremental": false,
@@ -6357,7 +6357,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.DruidsSetup.html",
-          "hash": "J1HUNQLD4G7rR8v68RPCIg=="
+          "hash": "fS1bA+iheh0Eav9/NDZFdA=="
         }
       },
       "is_incremental": false,
@@ -6369,7 +6369,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.FelHordeSetup.html",
-          "hash": "FpRM3vPjoccl7NuuHoVbqQ=="
+          "hash": "QT3G+LYrtIcXFkrubba9bg=="
         }
       },
       "is_incremental": false,
@@ -6381,7 +6381,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.ForsakenSetup.html",
-          "hash": "wodpdeG7EDe8UVNBUxxwPw=="
+          "hash": "Rby9/70VLlYs95cKVfqE0Q=="
         }
       },
       "is_incremental": false,
@@ -6393,7 +6393,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.FrostwolfSetup.html",
-          "hash": "/8Y3XfXW+qVy458d4uZYyQ=="
+          "hash": "mlNYXhiM7Hy3XP5bNBX5jg=="
         }
       },
       "is_incremental": false,
@@ -6405,7 +6405,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.GilneasSetup.html",
-          "hash": "7iNhaGMeeQcAwB8WS00luw=="
+          "hash": "yFyncsE8fMB7E+DF/2qBoA=="
         }
       },
       "is_incremental": false,
@@ -6417,7 +6417,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.GoblinSetup.html",
-          "hash": "oWATJM7L0F/455WysoqTUg=="
+          "hash": "uLToSOCf1PRZA3icoPjesA=="
         }
       },
       "is_incremental": false,
@@ -6429,7 +6429,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.IllidariSetup.html",
-          "hash": "Jttf9ZeAJX3w9sFJU8nStQ=="
+          "hash": "7z4zDNZ7yE8IgxpOjZkehw=="
         }
       },
       "is_incremental": false,
@@ -6441,7 +6441,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.IronforgeSetup.html",
-          "hash": "QIYGcyEn/ArRHEPJjDb2Pw=="
+          "hash": "aTjjeb1H4+MZRx0RtlEifQ=="
         }
       },
       "is_incremental": false,
@@ -6453,7 +6453,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.KultirasSetup.html",
-          "hash": "NLr/7bADvCSvCF+Ye2zqSg=="
+          "hash": "PSyeqY8y5m+fDefis6a59w=="
         }
       },
       "is_incremental": false,
@@ -6465,7 +6465,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.LegionSetup.html",
-          "hash": "aB2PjOJBEs+no81q6rTKaA=="
+          "hash": "1o+r6yT2ia4P/pXgveDyNQ=="
         }
       },
       "is_incremental": false,
@@ -6477,7 +6477,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.LordaeronSetup.html",
-          "hash": "vS6+WkE7s9pHYCfQmfzDyA=="
+          "hash": "In5a1w5zVwRkZ8aiLkg09w=="
         }
       },
       "is_incremental": false,
@@ -6489,7 +6489,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.NzothSetup.html",
-          "hash": "YdHF0OIoGqfuvtfFnPxTQw=="
+          "hash": "umCYUQPi197VjGJ1rpQa5w=="
         }
       },
       "is_incremental": false,
@@ -6501,7 +6501,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.QuelthalasSetup.html",
-          "hash": "Qxaa+asz5hVzUx5RuOfjhQ=="
+          "hash": "CMT6QrkmtpW4b2Hg5EbVAg=="
         }
       },
       "is_incremental": false,
@@ -6513,7 +6513,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.ScarletSetup.html",
-          "hash": "UTJK/5SEcgU7MieX/jsp7A=="
+          "hash": "SYgEFzZh7rp6P/0o770WoA=="
         }
       },
       "is_incremental": false,
@@ -6525,7 +6525,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.ScourgeSetup.html",
-          "hash": "6fFwTEvb9vvG+HqcD7yfXg=="
+          "hash": "Kv2LaESrbPwEcKDLfk5BPQ=="
         }
       },
       "is_incremental": false,
@@ -6537,7 +6537,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.SentinelsSetup.html",
-          "hash": "QtgQK66szXQmoEVljuEBOw=="
+          "hash": "dAKPjbVgVlOxO78qH53rNg=="
         }
       },
       "is_incremental": false,
@@ -6549,7 +6549,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.StormwindSetup.html",
-          "hash": "G1CVpQxDflY4h5k/LAXiPg=="
+          "hash": "2Iqz0LgEIB+JuI2uXs+jhg=="
         }
       },
       "is_incremental": false,
@@ -6561,7 +6561,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.TwilightSetup.html",
-          "hash": "6jcn+QLGPiynbDleV3chGg=="
+          "hash": "dSoGedKEg36zuBZBIroupQ=="
         }
       },
       "is_incremental": false,
@@ -6573,7 +6573,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.WarsongSetup.html",
-          "hash": "50KtoKLBfWNNk/0F8zxI3A=="
+          "hash": "DIo7kJvg4xk4PiwFymgJCw=="
         }
       },
       "is_incremental": false,
@@ -6585,7 +6585,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FactionSetup.ZandalarSetup.html",
-          "hash": "B9hmoSv2lp7+C40pao5FUQ=="
+          "hash": "KUgPxDsNHKxbC+hPje3m8Q=="
         }
       },
       "is_incremental": false,
@@ -6609,7 +6609,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.FloatingTextSetup.html",
-          "hash": "TGLYS7UD8wKHxZL0eNPCdw=="
+          "hash": "8ZKE9zwck6aYO/J6SUCbQA=="
         }
       },
       "is_incremental": false,
@@ -6621,7 +6621,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.GameSetup.html",
-          "hash": "D6wEglKqA/Ajf+T687FQ4w=="
+          "hash": "tkLKzPRBntFLP2Pm69xq8A=="
         }
       },
       "is_incremental": false,
@@ -6633,7 +6633,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.GateSetup.html",
-          "hash": "8DgNoCps1J3clNQ7gBj85w=="
+          "hash": "eHqxAOt9k9FtSSeKhhBiMA=="
         }
       },
       "is_incremental": false,
@@ -6645,7 +6645,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.InstanceSetup.html",
-          "hash": "470/wCe9EoYDJrAgZSKhmA=="
+          "hash": "Q8hfpiMOT4cq6HYUEllhcg=="
         }
       },
       "is_incremental": false,
@@ -6657,7 +6657,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendDalaran.html",
-          "hash": "OqbtKpMGXKCi/bxwzc1pGQ=="
+          "hash": "5MnNLd014HvfNbNLd5og6w=="
         }
       },
       "is_incremental": false,
@@ -6669,7 +6669,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendDraenei.html",
-          "hash": "bKCZt8bwuJGxp1ZsjQD/Jw=="
+          "hash": "rQwL1CNUA3eStJMb2uwm9A=="
         }
       },
       "is_incremental": false,
@@ -6681,7 +6681,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendDruids.html",
-          "hash": "HKo+mAJiXNIpSH/+MQcfdg=="
+          "hash": "5hXGK4i8pPjuPnP9LyjAjg=="
         }
       },
       "is_incremental": false,
@@ -6693,7 +6693,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendFelHorde.html",
-          "hash": "SpT79Pgajf4+uWSbhH62VQ=="
+          "hash": "kz69IbTneaEnigwDaSddtA=="
         }
       },
       "is_incremental": false,
@@ -6705,7 +6705,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendForsaken.html",
-          "hash": "qX/ej+vl03N+AdMn9VGrxg=="
+          "hash": "yDqm2dus8Z5DRVj/kKzF/w=="
         }
       },
       "is_incremental": false,
@@ -6717,7 +6717,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendFrostwolf.html",
-          "hash": "RVhXycaRi3zaReBCBIVgQg=="
+          "hash": "OZDczQeLqz6D/tqz7kpFXA=="
         }
       },
       "is_incremental": false,
@@ -6729,7 +6729,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendGilneas.html",
-          "hash": "DLv6G4iHk2+H2LtTvpJWKA=="
+          "hash": "QXu4JWGSACOTXF7ybHyTXA=="
         }
       },
       "is_incremental": false,
@@ -6741,7 +6741,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendGoblin.html",
-          "hash": "Az7qWWLuavAUI+Fg3V/x1g=="
+          "hash": "yRXJhbIGXtjrBv3x0A4TIg=="
         }
       },
       "is_incremental": false,
@@ -6753,7 +6753,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendIronforge.html",
-          "hash": "o4Myr68SLhrR/LDTtCfulA=="
+          "hash": "ksEjrnF0ABFV9R3jOI8CNw=="
         }
       },
       "is_incremental": false,
@@ -6765,7 +6765,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendKultiras.html",
-          "hash": "tk4Xntas9XGzzgxBFqSeHg=="
+          "hash": "syuifhOJ5M3P+8r0O/O1Xw=="
         }
       },
       "is_incremental": false,
@@ -6777,7 +6777,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendLegion.html",
-          "hash": "0ICLmtoXXaqTlxoNk0z56A=="
+          "hash": "yKQz5PM5owqjjAfaq2ZajQ=="
         }
       },
       "is_incremental": false,
@@ -6789,7 +6789,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendLordaeron.html",
-          "hash": "yAAG9db7zjDb5A9jIodTVA=="
+          "hash": "kHyoC+NNEzwjpADeV8yu4A=="
         }
       },
       "is_incremental": false,
@@ -6801,7 +6801,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendNaga.html",
-          "hash": "u8GATrjhAKzos2ovSUFVzA=="
+          "hash": "sV4hHs5iwaTuA4VXs4eugA=="
         }
       },
       "is_incremental": false,
@@ -6813,7 +6813,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendNeutral.html",
-          "hash": "uvecwPBtI8sT099tEddNNw=="
+          "hash": "Idtx0YHxzrl6soYXG32Ilg=="
         }
       },
       "is_incremental": false,
@@ -6825,7 +6825,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendQuelthalas.html",
-          "hash": "MHwGHXzxLbM4i1pxRFvnmg=="
+          "hash": "vB3/nWixoAc013INDFy56A=="
         }
       },
       "is_incremental": false,
@@ -6837,7 +6837,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendScarlet.html",
-          "hash": "xlku8E7idMHl+1Qh/KrlKQ=="
+          "hash": "9itginbhjFRAlttwaMhb6g=="
         }
       },
       "is_incremental": false,
@@ -6849,7 +6849,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendScourge.html",
-          "hash": "MXcuErpX2EVgGxkJQQ0QEA=="
+          "hash": "bEFcE2iyfkQsB+NSDcXHNA=="
         }
       },
       "is_incremental": false,
@@ -6861,7 +6861,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendSentinels.html",
-          "hash": "7T9p4rU7y3Szr7pmfKI1xQ=="
+          "hash": "JkuKZoVoE7Zd/Pp0Xd85VQ=="
         }
       },
       "is_incremental": false,
@@ -6873,7 +6873,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendStormwind.html",
-          "hash": "V9rXwb9M/s/En6uzzAKKXw=="
+          "hash": "RN0czO8qJgEqkAaT0aCAnw=="
         }
       },
       "is_incremental": false,
@@ -6885,7 +6885,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendTroll.html",
-          "hash": "j8wpPW7EjrHjkEO/W81ClA=="
+          "hash": "u6XHqs6BYWBlnEjUBB1KWQ=="
         }
       },
       "is_incremental": false,
@@ -6897,7 +6897,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendTwilight.html",
-          "hash": "iIun16P6WgHSOiBEaFJuXg=="
+          "hash": "wETp2DKs+ghSV6HnIrz5ow=="
         }
       },
       "is_incremental": false,
@@ -6909,7 +6909,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Legends.LegendWarsong.html",
-          "hash": "4XWbtQar7aiV/PmF03wq7g=="
+          "hash": "SoVbLh9Gm6Vb88hl6Pc22g=="
         }
       },
       "is_incremental": false,
@@ -6933,7 +6933,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.NeutralHostileSetup.html",
-          "hash": "vXv5+/dL47b1yqkHHEWVqQ=="
+          "hash": "3kydQvrAQPR/HSb9EhyhKQ=="
         }
       },
       "is_incremental": false,
@@ -6945,7 +6945,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.NeutralVictimAndPassiveSetup.html",
-          "hash": "40bLQZm40AWFYbkxrx8g+g=="
+          "hash": "G1SuJ0hQ5qk03ojTnXeI5A=="
         }
       },
       "is_incremental": false,
@@ -6957,7 +6957,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.ObserverSetup.html",
-          "hash": "PbBZOycM3UbnH1WYYM+s2Q=="
+          "hash": "ZenwrJuQeruJsxfuMPz9dg=="
         }
       },
       "is_incremental": false,
@@ -6969,7 +6969,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.PlayerSetup.html",
-          "hash": "RNhEjX0lW+T1mUu8TOAh7w=="
+          "hash": "daqeGjG34rjKzF3EyPQyew=="
         }
       },
       "is_incremental": false,
@@ -6981,7 +6981,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.DalaranQuestSetup.html",
-          "hash": "RkVRddipmqlLVjVfbEfeNg=="
+          "hash": "++uNlbmiWyuvGryzt98udg=="
         }
       },
       "is_incremental": false,
@@ -6993,7 +6993,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.DraeneiQuestSetup.html",
-          "hash": "+CkXkAY4b7Q/Q9hnzK7RaA=="
+          "hash": "AhGwiFCOo8munbjrgiocuA=="
         }
       },
       "is_incremental": false,
@@ -7005,7 +7005,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.DruidsQuestSetup.html",
-          "hash": "VMV0fm+dvzeAhFY6L0/iTA=="
+          "hash": "fx5IP9Gq35Ef3jNeCyGjlw=="
         }
       },
       "is_incremental": false,
@@ -7017,7 +7017,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.FelHordeQuestSetup.html",
-          "hash": "qjPHumDI/nEYoCioTFVWRQ=="
+          "hash": "loNX/y1B/vnZBMl9EY7Vjg=="
         }
       },
       "is_incremental": false,
@@ -7029,7 +7029,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.ForsakenQuestSetup.html",
-          "hash": "H4zDHUfG81SSwaOBmXWazg=="
+          "hash": "eULbmbaVzRfDpZvXZoIfCg=="
         }
       },
       "is_incremental": false,
@@ -7041,7 +7041,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.FrostwolfQuestSetup.html",
-          "hash": "Rup+Go9UueRmZurs4Z4A+w=="
+          "hash": "MaVwwgOLLyuxhtFcVtbFYQ=="
         }
       },
       "is_incremental": false,
@@ -7053,7 +7053,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.GoblinQuestSetup.html",
-          "hash": "se5bYMsiuL5EgV77a4sSAg=="
+          "hash": "TzS5ZGhV5DcEJ6AfMlFCzg=="
         }
       },
       "is_incremental": false,
@@ -7065,7 +7065,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.IronforgeQuestSetup.html",
-          "hash": "uqbFTCKRQWYPSTOqSfdCFA=="
+          "hash": "+3KwDWoMdWHL5rqvZ+uL5Q=="
         }
       },
       "is_incremental": false,
@@ -7077,7 +7077,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.KultirasQuestSetup.html",
-          "hash": "nDSYfCkXgJ75JEvhpEwZ/g=="
+          "hash": "ErFr3X2lj7/HXxbflk5N6A=="
         }
       },
       "is_incremental": false,
@@ -7089,7 +7089,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.LegionQuestSetup.html",
-          "hash": "Hj1H0NKD0aPzTs2wGtYxdg=="
+          "hash": "SWXnOnAQyrss14xA/FCaoA=="
         }
       },
       "is_incremental": false,
@@ -7101,7 +7101,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.LordaeronQuestSetup.html",
-          "hash": "2ufVZMJYo2rxEYMCwQ/X8Q=="
+          "hash": "Ps9ytqptgdWYXlXWY3Hqbw=="
         }
       },
       "is_incremental": false,
@@ -7113,7 +7113,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.NagaQuestSetup.html",
-          "hash": "/Q2tDC1YmEdFXgkKFjYXuA=="
+          "hash": "iOR8bF+UfeZpIG07GRxHHw=="
         }
       },
       "is_incremental": false,
@@ -7125,7 +7125,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.QuelthalasQuestSetup.html",
-          "hash": "tJV3cAZ7/ZFhUYNndIyXzQ=="
+          "hash": "nfj/feEB55e87rL+12Ialw=="
         }
       },
       "is_incremental": false,
@@ -7137,7 +7137,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.ScarletQuestSetup.html",
-          "hash": "Uo+RdJV3uieVN3E0azQgWw=="
+          "hash": "ai1vHyNw3eK+/ISLfCqKHw=="
         }
       },
       "is_incremental": false,
@@ -7149,7 +7149,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.ScourgeQuestSetup.html",
-          "hash": "b1sfR4rqYyIRwNZjEFuIuQ=="
+          "hash": "Eh3PYJkEsAKvKte6ZYkb5Q=="
         }
       },
       "is_incremental": false,
@@ -7161,7 +7161,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.SentinelsQuestSetup.html",
-          "hash": "j3MeLHepXaD2i5IzWUUR7Q=="
+          "hash": "k6Bzj2iDM1DRZjltBMRfNQ=="
         }
       },
       "is_incremental": false,
@@ -7173,7 +7173,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.SharedQuestSetup.html",
-          "hash": "OvAk6Skjre+vhCRGfZJ90g=="
+          "hash": "Bp4Zkvaga2le/PZ2bsERFQ=="
         }
       },
       "is_incremental": false,
@@ -7185,7 +7185,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.StormwindQuestSetup.html",
-          "hash": "t+seLurTIlaFp3GZVcItNg=="
+          "hash": "HeKoPcWBYhEQNvhvGiMGtw=="
         }
       },
       "is_incremental": false,
@@ -7197,7 +7197,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.TrollQuestSetup.html",
-          "hash": "upeZVqs1DClwdoW5fVpDZg=="
+          "hash": "oUq/KvkiMoXfl00RW0cqtw=="
         }
       },
       "is_incremental": false,
@@ -7209,7 +7209,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.TwilightQuestSetup.html",
-          "hash": "FVxKKJUaZTaHlRZoZyZ06g=="
+          "hash": "bVF0OCDGahGDVSf3jPXSSg=="
         }
       },
       "is_incremental": false,
@@ -7221,7 +7221,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.QuestSetup.WarsongQuestSetup.html",
-          "hash": "qQ7qqHO9jwZ796s7J4hojw=="
+          "hash": "4yJf8p6IQ20q7B0/ugyWQQ=="
         }
       },
       "is_incremental": false,
@@ -7245,7 +7245,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.ResearchSetup.html",
-          "hash": "A31JN5GldJS5i4jlnvgMoQ=="
+          "hash": "NOoKh7ru4s9NqtiNMg34PA=="
         }
       },
       "is_incremental": false,
@@ -7257,7 +7257,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.ShoreSetup.html",
-          "hash": "snSf3ODh1mthbPADJiTEDg=="
+          "hash": "GH8Te1rE6QQuvW20QJ8mQw=="
         }
       },
       "is_incremental": false,
@@ -7269,7 +7269,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Spells.DruidsSpellSetup.html",
-          "hash": "9p3vm3q//4oJe8hX8geSjQ=="
+          "hash": "hCCBTqisUIceP3S7m0vJnQ=="
         }
       },
       "is_incremental": false,
@@ -7281,7 +7281,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Spells.FrostwolfSpellSetup.html",
-          "hash": "4myidOwhicIypnJ+kkORCA=="
+          "hash": "pq7zPNxrzEEvzeswTjGnAA=="
         }
       },
       "is_incremental": false,
@@ -7293,7 +7293,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Spells.GoblinSpellSetup.html",
-          "hash": "2cbThyuEUlyJoY7icuv5HA=="
+          "hash": "pwLABLjQlRXpV+KG1ZQnCg=="
         }
       },
       "is_incremental": false,
@@ -7305,7 +7305,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Spells.LegionSpellSetup.html",
-          "hash": "zY+/s0ijI5AqQ29r4ug02g=="
+          "hash": "YHsYpbs5acs67x+iwiJSpg=="
         }
       },
       "is_incremental": false,
@@ -7317,7 +7317,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Spells.LordaeronSpellSetup.html",
-          "hash": "uCTnEsJpeRu2B/AGrkGHUg=="
+          "hash": "kSl00VZxSTvfvlN6uLVVSQ=="
         }
       },
       "is_incremental": false,
@@ -7329,7 +7329,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.Spells.ScourgeSpellSetup.html",
-          "hash": "mrj1Bv3Oo0Er2csvxT/kow=="
+          "hash": "uQV5LQEo20YH3rjQYXsWTQ=="
         }
       },
       "is_incremental": false,
@@ -7353,7 +7353,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.SpellsSetup.html",
-          "hash": "UPjG81KrfVkg+IaaqzGB+Q=="
+          "hash": "PR0yzXF78253fO0X4DShQg=="
         }
       },
       "is_incremental": false,
@@ -7365,7 +7365,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.TeamSetup.html",
-          "hash": "KsEfjkqon0HhmyCYDnMDSg=="
+          "hash": "OgZywUZVHgscGEsXVW/xXw=="
         }
       },
       "is_incremental": false,
@@ -7377,7 +7377,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.TurnResearchSetup.html",
-          "hash": "9/JXvBB0fuiTl1YZrzgwGA=="
+          "hash": "hHFzRJouW4mIFlwjTg0tmA=="
         }
       },
       "is_incremental": false,
@@ -7401,7 +7401,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Spells.CorruptBuildingSpell.html",
-          "hash": "Lv5ToOIjnHLX8CrWCWzdSA=="
+          "hash": "X09uWye79o2GtyXiNxto2A=="
         }
       },
       "is_incremental": false,
@@ -7413,7 +7413,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Spells.WeaponEmpowerment.html",
-          "hash": "ba630SsZIBuuyp4vI8VxtQ=="
+          "hash": "4dZcpwaMMWh9FJTVHa1XNg=="
         }
       },
       "is_incremental": false,
@@ -7437,7 +7437,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.UnitTypes.UnitTypeConfig.html",
-          "hash": "8GNJTKaaHeG3v33PE3FWiw=="
+          "hash": "lD5KHa6u1gG15Kcw8zCZQA=="
         }
       },
       "is_incremental": false,
@@ -7485,7 +7485,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "NVknNT7YRioFPT3XGs2X9w=="
+          "hash": "l1gu+JvAJDZG1wvNCa8vkQ=="
         }
       },
       "is_incremental": false,
@@ -7509,7 +7509,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "QsRffu1MIuuyFibJkxiihg=="
+          "hash": "1W3dJ2jZRplqJcJg4J/0Cg=="
         }
       },
       "is_incremental": false,

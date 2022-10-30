@@ -3192,6 +3192,12 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.FactionSystem.Faction.Gold
   nameWithType: Faction.Gold
+- uid: AzerothWarsCSharp.MacroTools.FactionSystem.Faction.HeroCost
+  name: HeroCost
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.Faction.html#AzerothWarsCSharp_MacroTools_FactionSystem_Faction_HeroCost
+  commentId: F:AzerothWarsCSharp.MacroTools.FactionSystem.Faction.HeroCost
+  fullName: AzerothWarsCSharp.MacroTools.FactionSystem.Faction.HeroCost
+  nameWithType: Faction.HeroCost
 - uid: AzerothWarsCSharp.MacroTools.FactionSystem.Faction.Icon
   name: Icon
   href: api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.Faction.html#AzerothWarsCSharp_MacroTools_FactionSystem_Faction_Icon
