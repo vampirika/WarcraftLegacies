@@ -15896,6 +15896,19 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.Source.Quests.Draenei.QuestExiled.KilledOnFail
   nameWithType: QuestExiled.KilledOnFail
+- uid: AzerothWarsCSharp.Source.Quests.Draenei.QuestExiled.OnAdd(AzerothWarsCSharp.MacroTools.FactionSystem.Faction)
+  name: OnAdd(Faction)
+  href: api-source/AzerothWarsCSharp.Source.Quests.Draenei.QuestExiled.html#AzerothWarsCSharp_Source_Quests_Draenei_QuestExiled_OnAdd_AzerothWarsCSharp_MacroTools_FactionSystem_Faction_
+  commentId: M:AzerothWarsCSharp.Source.Quests.Draenei.QuestExiled.OnAdd(AzerothWarsCSharp.MacroTools.FactionSystem.Faction)
+  fullName: AzerothWarsCSharp.Source.Quests.Draenei.QuestExiled.OnAdd(AzerothWarsCSharp.MacroTools.FactionSystem.Faction)
+  nameWithType: QuestExiled.OnAdd(Faction)
+- uid: AzerothWarsCSharp.Source.Quests.Draenei.QuestExiled.OnAdd*
+  name: OnAdd
+  href: api-source/AzerothWarsCSharp.Source.Quests.Draenei.QuestExiled.html#AzerothWarsCSharp_Source_Quests_Draenei_QuestExiled_OnAdd_
+  commentId: Overload:AzerothWarsCSharp.Source.Quests.Draenei.QuestExiled.OnAdd
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.Source.Quests.Draenei.QuestExiled.OnAdd
+  nameWithType: QuestExiled.OnAdd
 - uid: AzerothWarsCSharp.Source.Quests.Draenei.QuestExiled.OnComplete(AzerothWarsCSharp.MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
   href: api-source/AzerothWarsCSharp.Source.Quests.Draenei.QuestExiled.html#AzerothWarsCSharp_Source_Quests_Draenei_QuestExiled_OnComplete_AzerothWarsCSharp_MacroTools_FactionSystem_Faction_
