@@ -6476,19 +6476,6 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.GetAllPlayers
   nameWithType: GeneralHelpers.GetAllPlayers
-- uid: AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.GetPlayableMapArea
-  name: GetPlayableMapArea()
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.html#AzerothWarsCSharp_MacroTools_Libraries_GeneralHelpers_GetPlayableMapArea
-  commentId: M:AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.GetPlayableMapArea
-  fullName: AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.GetPlayableMapArea()
-  nameWithType: GeneralHelpers.GetPlayableMapArea()
-- uid: AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.GetPlayableMapArea*
-  name: GetPlayableMapArea
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.html#AzerothWarsCSharp_MacroTools_Libraries_GeneralHelpers_GetPlayableMapArea_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.GetPlayableMapArea
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.GetPlayableMapArea
-  nameWithType: GeneralHelpers.GetPlayableMapArea
 - uid: AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.GetPositionZ(System.Single,System.Single)
   name: GetPositionZ(Single, Single)
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.html#AzerothWarsCSharp_MacroTools_Libraries_GeneralHelpers_GetPositionZ_System_Single_System_Single_
