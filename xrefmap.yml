@@ -2915,6 +2915,400 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.DialogueSystem.DialogueManager.Add
   nameWithType: DialogueManager.Add
+- uid: AzerothWarsCSharp.MacroTools.Extensions
+  name: AzerothWarsCSharp.MacroTools.Extensions
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.html
+  commentId: N:AzerothWarsCSharp.MacroTools.Extensions
+  fullName: AzerothWarsCSharp.MacroTools.Extensions
+  nameWithType: AzerothWarsCSharp.MacroTools.Extensions
+- uid: AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions
+  name: ItemExtensions
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions.html
+  commentId: T:AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions
+  nameWithType: ItemExtensions
+- uid: AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions.GetPosition(item)
+  name: GetPosition(item)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_ItemExtensions_GetPosition_item_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions.GetPosition(item)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions.GetPosition(item)
+  nameWithType: ItemExtensions.GetPosition(item)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions.GetPosition*
+  name: GetPosition
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_ItemExtensions_GetPosition_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions.GetPosition
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions.GetPosition
+  nameWithType: ItemExtensions.GetPosition
+- uid: AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions.SetPosition(item,Point)
+  name: SetPosition(item, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_ItemExtensions_SetPosition_item_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions.SetPosition(item,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions.SetPosition(item, Point)
+  nameWithType: ItemExtensions.SetPosition(item, Point)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions.SetPosition*
+  name: SetPosition
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_ItemExtensions_SetPosition_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions.SetPosition
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.ItemExtensions.SetPosition
+  nameWithType: ItemExtensions.SetPosition
+- uid: AzerothWarsCSharp.MacroTools.Extensions.RectangleExtensions
+  name: RectangleExtensions
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.RectangleExtensions.html
+  commentId: T:AzerothWarsCSharp.MacroTools.Extensions.RectangleExtensions
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.RectangleExtensions
+  nameWithType: RectangleExtensions
+- uid: AzerothWarsCSharp.MacroTools.Extensions.RectangleExtensions.AddSound(Rectangle,sound)
+  name: AddSound(Rectangle, sound)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.RectangleExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_RectangleExtensions_AddSound_Rectangle_sound_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.RectangleExtensions.AddSound(Rectangle,sound)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.RectangleExtensions.AddSound(Rectangle, sound)
+  nameWithType: RectangleExtensions.AddSound(Rectangle, sound)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.RectangleExtensions.AddSound*
+  name: AddSound
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.RectangleExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_RectangleExtensions_AddSound_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.RectangleExtensions.AddSound
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.RectangleExtensions.AddSound
+  nameWithType: RectangleExtensions.AddSound
+- uid: AzerothWarsCSharp.MacroTools.Extensions.TypeExtensions
+  name: TypeExtensions
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.TypeExtensions.html
+  commentId: T:AzerothWarsCSharp.MacroTools.Extensions.TypeExtensions
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.TypeExtensions
+  nameWithType: TypeExtensions
+- uid: AzerothWarsCSharp.MacroTools.Extensions.TypeExtensions.ExistsAsBuffOnUnit(Type,unit)
+  name: ExistsAsBuffOnUnit(Type, unit)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.TypeExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_TypeExtensions_ExistsAsBuffOnUnit_Type_unit_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.TypeExtensions.ExistsAsBuffOnUnit(Type,unit)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.TypeExtensions.ExistsAsBuffOnUnit(Type, unit)
+  nameWithType: TypeExtensions.ExistsAsBuffOnUnit(Type, unit)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.TypeExtensions.ExistsAsBuffOnUnit*
+  name: ExistsAsBuffOnUnit
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.TypeExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_TypeExtensions_ExistsAsBuffOnUnit_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.TypeExtensions.ExistsAsBuffOnUnit
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.TypeExtensions.ExistsAsBuffOnUnit
+  nameWithType: TypeExtensions.ExistsAsBuffOnUnit
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions
+  name: UnitExtensions
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html
+  commentId: T:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions
+  nameWithType: UnitExtensions
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.AddHeroAttributes(unit,System.Int32,System.Int32,System.Int32)
+  name: AddHeroAttributes(unit, Int32, Int32, Int32)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_AddHeroAttributes_unit_System_Int32_System_Int32_System_Int32_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.AddHeroAttributes(unit,System.Int32,System.Int32,System.Int32)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.AddHeroAttributes(unit, System.Int32, System.Int32, System.Int32)
+  nameWithType: UnitExtensions.AddHeroAttributes(unit, Int32, Int32, Int32)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.AddHeroAttributes*
+  name: AddHeroAttributes
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_AddHeroAttributes_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.AddHeroAttributes
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.AddHeroAttributes
+  nameWithType: UnitExtensions.AddHeroAttributes
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.AddItemSafe(unit,item)
+  name: AddItemSafe(unit, item)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_AddItemSafe_unit_item_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.AddItemSafe(unit,item)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.AddItemSafe(unit, item)
+  nameWithType: UnitExtensions.AddItemSafe(unit, item)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.AddItemSafe*
+  name: AddItemSafe
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_AddItemSafe_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.AddItemSafe
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.AddItemSafe
+  nameWithType: UnitExtensions.AddItemSafe
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Damage(unit,unit,System.Single)
+  name: Damage(unit, unit, Single)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_Damage_unit_unit_System_Single_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Damage(unit,unit,System.Single)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Damage(unit, unit, System.Single)
+  nameWithType: UnitExtensions.Damage(unit, unit, Single)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Damage*
+  name: Damage
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_Damage_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Damage
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Damage
+  nameWithType: UnitExtensions.Damage
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.DropAllItems(unit)
+  name: DropAllItems(unit)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_DropAllItems_unit_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.DropAllItems(unit)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.DropAllItems(unit)
+  nameWithType: UnitExtensions.DropAllItems(unit)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.DropAllItems*
+  name: DropAllItems
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_DropAllItems_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.DropAllItems
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.DropAllItems
+  nameWithType: UnitExtensions.DropAllItems
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetAverageDamage(unit,System.Int32)
+  name: GetAverageDamage(unit, Int32)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_GetAverageDamage_unit_System_Int32_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetAverageDamage(unit,System.Int32)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetAverageDamage(unit, System.Int32)
+  nameWithType: UnitExtensions.GetAverageDamage(unit, Int32)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetAverageDamage*
+  name: GetAverageDamage
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_GetAverageDamage_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetAverageDamage
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetAverageDamage
+  nameWithType: UnitExtensions.GetAverageDamage
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetDamageReduction(unit)
+  name: GetDamageReduction(unit)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_GetDamageReduction_unit_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetDamageReduction(unit)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetDamageReduction(unit)
+  nameWithType: UnitExtensions.GetDamageReduction(unit)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetDamageReduction*
+  name: GetDamageReduction
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_GetDamageReduction_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetDamageReduction
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetDamageReduction
+  nameWithType: UnitExtensions.GetDamageReduction
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetInventoryIndexOfItemType(unit,System.Int32)
+  name: GetInventoryIndexOfItemType(unit, Int32)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_GetInventoryIndexOfItemType_unit_System_Int32_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetInventoryIndexOfItemType(unit,System.Int32)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetInventoryIndexOfItemType(unit, System.Int32)
+  nameWithType: UnitExtensions.GetInventoryIndexOfItemType(unit, Int32)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetInventoryIndexOfItemType*
+  name: GetInventoryIndexOfItemType
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_GetInventoryIndexOfItemType_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetInventoryIndexOfItemType
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetInventoryIndexOfItemType
+  nameWithType: UnitExtensions.GetInventoryIndexOfItemType
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetLifePercent(unit)
+  name: GetLifePercent(unit)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_GetLifePercent_unit_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetLifePercent(unit)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetLifePercent(unit)
+  nameWithType: UnitExtensions.GetLifePercent(unit)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetLifePercent*
+  name: GetLifePercent
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_GetLifePercent_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetLifePercent
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetLifePercent
+  nameWithType: UnitExtensions.GetLifePercent
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetPosition(unit)
+  name: GetPosition(unit)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_GetPosition_unit_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetPosition(unit)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetPosition(unit)
+  nameWithType: UnitExtensions.GetPosition(unit)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetPosition*
+  name: GetPosition
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_GetPosition_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetPosition
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.GetPosition
+  nameWithType: UnitExtensions.GetPosition
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Heal(unit,System.Single)
+  name: Heal(unit, Single)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_Heal_unit_System_Single_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Heal(unit,System.Single)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Heal(unit, System.Single)
+  nameWithType: UnitExtensions.Heal(unit, Single)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Heal*
+  name: Heal
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_Heal_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Heal
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Heal
+  nameWithType: UnitExtensions.Heal
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.IssueOrder(unit,System.String,Point)
+  name: IssueOrder(unit, String, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_IssueOrder_unit_System_String_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.IssueOrder(unit,System.String,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.IssueOrder(unit, System.String, Point)
+  nameWithType: UnitExtensions.IssueOrder(unit, String, Point)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.IssueOrder*
+  name: IssueOrder
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_IssueOrder_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.IssueOrder
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.IssueOrder
+  nameWithType: UnitExtensions.IssueOrder
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.MultiplyBaseDamage(unit,System.Single,System.Int32)
+  name: MultiplyBaseDamage(unit, Single, Int32)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_MultiplyBaseDamage_unit_System_Single_System_Int32_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.MultiplyBaseDamage(unit,System.Single,System.Int32)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.MultiplyBaseDamage(unit, System.Single, System.Int32)
+  nameWithType: UnitExtensions.MultiplyBaseDamage(unit, Single, Int32)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.MultiplyBaseDamage*
+  name: MultiplyBaseDamage
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_MultiplyBaseDamage_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.MultiplyBaseDamage
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.MultiplyBaseDamage
+  nameWithType: UnitExtensions.MultiplyBaseDamage
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.MultiplyMaxHitpoints(unit,System.Single)
+  name: MultiplyMaxHitpoints(unit, Single)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_MultiplyMaxHitpoints_unit_System_Single_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.MultiplyMaxHitpoints(unit,System.Single)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.MultiplyMaxHitpoints(unit, System.Single)
+  nameWithType: UnitExtensions.MultiplyMaxHitpoints(unit, Single)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.MultiplyMaxHitpoints*
+  name: MultiplyMaxHitpoints
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_MultiplyMaxHitpoints_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.MultiplyMaxHitpoints
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.MultiplyMaxHitpoints
+  nameWithType: UnitExtensions.MultiplyMaxHitpoints
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.OwningPlayer(unit)
+  name: OwningPlayer(unit)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_OwningPlayer_unit_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.OwningPlayer(unit)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.OwningPlayer(unit)
+  nameWithType: UnitExtensions.OwningPlayer(unit)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.OwningPlayer*
+  name: OwningPlayer
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_OwningPlayer_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.OwningPlayer
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.OwningPlayer
+  nameWithType: UnitExtensions.OwningPlayer
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Pause(unit,System.Boolean)
+  name: Pause(unit, Boolean)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_Pause_unit_System_Boolean_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Pause(unit,System.Boolean)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Pause(unit, System.Boolean)
+  nameWithType: UnitExtensions.Pause(unit, Boolean)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Pause*
+  name: Pause
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_Pause_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Pause
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Pause
+  nameWithType: UnitExtensions.Pause
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Remove(unit)
+  name: Remove(unit)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_Remove_unit_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Remove(unit)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Remove(unit)
+  nameWithType: UnitExtensions.Remove(unit)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Remove*
+  name: Remove
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_Remove_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Remove
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Remove
+  nameWithType: UnitExtensions.Remove
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Rescue(unit,player)
+  name: Rescue(unit, player)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_Rescue_unit_player_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Rescue(unit,player)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Rescue(unit, player)
+  nameWithType: UnitExtensions.Rescue(unit, player)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Rescue*
+  name: Rescue
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_Rescue_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Rescue
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Rescue
+  nameWithType: UnitExtensions.Rescue
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Resurrect(unit)
+  name: Resurrect(unit)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_Resurrect_unit_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Resurrect(unit)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Resurrect(unit)
+  nameWithType: UnitExtensions.Resurrect(unit)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Resurrect*
+  name: Resurrect
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_Resurrect_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Resurrect
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.Resurrect
+  nameWithType: UnitExtensions.Resurrect
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetInvulnerable(unit,System.Boolean)
+  name: SetInvulnerable(unit, Boolean)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_SetInvulnerable_unit_System_Boolean_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetInvulnerable(unit,System.Boolean)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetInvulnerable(unit, System.Boolean)
+  nameWithType: UnitExtensions.SetInvulnerable(unit, Boolean)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetInvulnerable*
+  name: SetInvulnerable
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_SetInvulnerable_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetInvulnerable
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetInvulnerable
+  nameWithType: UnitExtensions.SetInvulnerable
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetLifePercent(unit,System.Single)
+  name: SetLifePercent(unit, Single)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_SetLifePercent_unit_System_Single_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetLifePercent(unit,System.Single)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetLifePercent(unit, System.Single)
+  nameWithType: UnitExtensions.SetLifePercent(unit, Single)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetLifePercent*
+  name: SetLifePercent
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_SetLifePercent_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetLifePercent
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetLifePercent
+  nameWithType: UnitExtensions.SetLifePercent
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetOwner(unit,player)
+  name: SetOwner(unit, player)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_SetOwner_unit_player_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetOwner(unit,player)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetOwner(unit, player)
+  nameWithType: UnitExtensions.SetOwner(unit, player)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetOwner*
+  name: SetOwner
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_SetOwner_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetOwner
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetOwner
+  nameWithType: UnitExtensions.SetOwner
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetPosition(unit,Point)
+  name: SetPosition(unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_SetPosition_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetPosition(unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetPosition(unit, Point)
+  nameWithType: UnitExtensions.SetPosition(unit, Point)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetPosition*
+  name: SetPosition
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_SetPosition_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetPosition
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetPosition
+  nameWithType: UnitExtensions.SetPosition
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetWaygateDestination(unit,Point)
+  name: SetWaygateDestination(unit, Point)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_SetWaygateDestination_unit_Point_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetWaygateDestination(unit,Point)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetWaygateDestination(unit, Point)
+  nameWithType: UnitExtensions.SetWaygateDestination(unit, Point)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetWaygateDestination*
+  name: SetWaygateDestination
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_SetWaygateDestination_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetWaygateDestination
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.SetWaygateDestination
+  nameWithType: UnitExtensions.SetWaygateDestination
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.TransferItems(unit,unit)
+  name: TransferItems(unit, unit)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_TransferItems_unit_unit_
+  commentId: M:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.TransferItems(unit,unit)
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.TransferItems(unit, unit)
+  nameWithType: UnitExtensions.TransferItems(unit, unit)
+- uid: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.TransferItems*
+  name: TransferItems
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.html#AzerothWarsCSharp_MacroTools_Extensions_UnitExtensions_TransferItems_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.TransferItems
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.Extensions.UnitExtensions.TransferItems
+  nameWithType: UnitExtensions.TransferItems
 - uid: AzerothWarsCSharp.MacroTools.FactionSystem
   name: AzerothWarsCSharp.MacroTools.FactionSystem
   href: api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.html
@@ -6219,38 +6613,6 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Instances.InstanceSystem.Register
   nameWithType: InstanceSystem.Register
-- uid: AzerothWarsCSharp.MacroTools.ItemExtensions
-  name: ItemExtensions
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.ItemExtensions.html
-  commentId: T:AzerothWarsCSharp.MacroTools.ItemExtensions
-  fullName: AzerothWarsCSharp.MacroTools.ItemExtensions
-  nameWithType: ItemExtensions
-- uid: AzerothWarsCSharp.MacroTools.ItemExtensions.GetPosition(item)
-  name: GetPosition(item)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.ItemExtensions.html#AzerothWarsCSharp_MacroTools_ItemExtensions_GetPosition_item_
-  commentId: M:AzerothWarsCSharp.MacroTools.ItemExtensions.GetPosition(item)
-  fullName: AzerothWarsCSharp.MacroTools.ItemExtensions.GetPosition(item)
-  nameWithType: ItemExtensions.GetPosition(item)
-- uid: AzerothWarsCSharp.MacroTools.ItemExtensions.GetPosition*
-  name: GetPosition
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.ItemExtensions.html#AzerothWarsCSharp_MacroTools_ItemExtensions_GetPosition_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.ItemExtensions.GetPosition
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.ItemExtensions.GetPosition
-  nameWithType: ItemExtensions.GetPosition
-- uid: AzerothWarsCSharp.MacroTools.ItemExtensions.SetPosition(item,Point)
-  name: SetPosition(item, Point)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.ItemExtensions.html#AzerothWarsCSharp_MacroTools_ItemExtensions_SetPosition_item_Point_
-  commentId: M:AzerothWarsCSharp.MacroTools.ItemExtensions.SetPosition(item,Point)
-  fullName: AzerothWarsCSharp.MacroTools.ItemExtensions.SetPosition(item, Point)
-  nameWithType: ItemExtensions.SetPosition(item, Point)
-- uid: AzerothWarsCSharp.MacroTools.ItemExtensions.SetPosition*
-  name: SetPosition
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.ItemExtensions.html#AzerothWarsCSharp_MacroTools_ItemExtensions_SetPosition_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.ItemExtensions.SetPosition
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.ItemExtensions.SetPosition
-  nameWithType: ItemExtensions.SetPosition
 - uid: AzerothWarsCSharp.MacroTools.Libraries
   name: AzerothWarsCSharp.MacroTools.Libraries
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Libraries.html
@@ -9308,25 +9670,6 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.QuestProgressChangedEventArgs.Quest
   nameWithType: QuestProgressChangedEventArgs.Quest
-- uid: AzerothWarsCSharp.MacroTools.RectangleExtensions
-  name: RectangleExtensions
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.RectangleExtensions.html
-  commentId: T:AzerothWarsCSharp.MacroTools.RectangleExtensions
-  fullName: AzerothWarsCSharp.MacroTools.RectangleExtensions
-  nameWithType: RectangleExtensions
-- uid: AzerothWarsCSharp.MacroTools.RectangleExtensions.AddSound(Rectangle,sound)
-  name: AddSound(Rectangle, sound)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.RectangleExtensions.html#AzerothWarsCSharp_MacroTools_RectangleExtensions_AddSound_Rectangle_sound_
-  commentId: M:AzerothWarsCSharp.MacroTools.RectangleExtensions.AddSound(Rectangle,sound)
-  fullName: AzerothWarsCSharp.MacroTools.RectangleExtensions.AddSound(Rectangle, sound)
-  nameWithType: RectangleExtensions.AddSound(Rectangle, sound)
-- uid: AzerothWarsCSharp.MacroTools.RectangleExtensions.AddSound*
-  name: AddSound
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.RectangleExtensions.html#AzerothWarsCSharp_MacroTools_RectangleExtensions_AddSound_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.RectangleExtensions.AddSound
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.RectangleExtensions.AddSound
-  nameWithType: RectangleExtensions.AddSound
 - uid: AzerothWarsCSharp.MacroTools.ShoreSystem
   name: AzerothWarsCSharp.MacroTools.ShoreSystem
   href: api-macroTools/AzerothWarsCSharp.MacroTools.ShoreSystem.html
@@ -12053,25 +12396,6 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.TurnResearch.Register
   nameWithType: TurnResearch.Register
-- uid: AzerothWarsCSharp.MacroTools.TypeExtensions
-  name: TypeExtensions
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.TypeExtensions.html
-  commentId: T:AzerothWarsCSharp.MacroTools.TypeExtensions
-  fullName: AzerothWarsCSharp.MacroTools.TypeExtensions
-  nameWithType: TypeExtensions
-- uid: AzerothWarsCSharp.MacroTools.TypeExtensions.ExistsAsBuffOnUnit(Type,unit)
-  name: ExistsAsBuffOnUnit(Type, unit)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.TypeExtensions.html#AzerothWarsCSharp_MacroTools_TypeExtensions_ExistsAsBuffOnUnit_Type_unit_
-  commentId: M:AzerothWarsCSharp.MacroTools.TypeExtensions.ExistsAsBuffOnUnit(Type,unit)
-  fullName: AzerothWarsCSharp.MacroTools.TypeExtensions.ExistsAsBuffOnUnit(Type, unit)
-  nameWithType: TypeExtensions.ExistsAsBuffOnUnit(Type, unit)
-- uid: AzerothWarsCSharp.MacroTools.TypeExtensions.ExistsAsBuffOnUnit*
-  name: ExistsAsBuffOnUnit
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.TypeExtensions.html#AzerothWarsCSharp_MacroTools_TypeExtensions_ExistsAsBuffOnUnit_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.TypeExtensions.ExistsAsBuffOnUnit
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.TypeExtensions.ExistsAsBuffOnUnit
-  nameWithType: TypeExtensions.ExistsAsBuffOnUnit
 - uid: AzerothWarsCSharp.MacroTools.UnitCategory
   name: UnitCategory
   href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitCategory.html
@@ -12084,324 +12408,6 @@ references:
   commentId: F:AzerothWarsCSharp.MacroTools.UnitCategory.Shipyard
   fullName: AzerothWarsCSharp.MacroTools.UnitCategory.Shipyard
   nameWithType: UnitCategory.Shipyard
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions
-  name: UnitExtensions
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html
-  commentId: T:AzerothWarsCSharp.MacroTools.UnitExtensions
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions
-  nameWithType: UnitExtensions
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.AddHeroAttributes(unit,System.Int32,System.Int32,System.Int32)
-  name: AddHeroAttributes(unit, Int32, Int32, Int32)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_AddHeroAttributes_unit_System_Int32_System_Int32_System_Int32_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.AddHeroAttributes(unit,System.Int32,System.Int32,System.Int32)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.AddHeroAttributes(unit, System.Int32, System.Int32, System.Int32)
-  nameWithType: UnitExtensions.AddHeroAttributes(unit, Int32, Int32, Int32)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.AddHeroAttributes*
-  name: AddHeroAttributes
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_AddHeroAttributes_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.AddHeroAttributes
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.AddHeroAttributes
-  nameWithType: UnitExtensions.AddHeroAttributes
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.AddItemSafe(unit,item)
-  name: AddItemSafe(unit, item)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_AddItemSafe_unit_item_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.AddItemSafe(unit,item)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.AddItemSafe(unit, item)
-  nameWithType: UnitExtensions.AddItemSafe(unit, item)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.AddItemSafe*
-  name: AddItemSafe
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_AddItemSafe_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.AddItemSafe
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.AddItemSafe
-  nameWithType: UnitExtensions.AddItemSafe
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.Damage(unit,unit,System.Single)
-  name: Damage(unit, unit, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_Damage_unit_unit_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.Damage(unit,unit,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.Damage(unit, unit, System.Single)
-  nameWithType: UnitExtensions.Damage(unit, unit, Single)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.Damage*
-  name: Damage
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_Damage_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.Damage
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.Damage
-  nameWithType: UnitExtensions.Damage
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.DropAllItems(unit)
-  name: DropAllItems(unit)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_DropAllItems_unit_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.DropAllItems(unit)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.DropAllItems(unit)
-  nameWithType: UnitExtensions.DropAllItems(unit)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.DropAllItems*
-  name: DropAllItems
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_DropAllItems_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.DropAllItems
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.DropAllItems
-  nameWithType: UnitExtensions.DropAllItems
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.GetAverageDamage(unit,System.Int32)
-  name: GetAverageDamage(unit, Int32)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_GetAverageDamage_unit_System_Int32_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.GetAverageDamage(unit,System.Int32)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.GetAverageDamage(unit, System.Int32)
-  nameWithType: UnitExtensions.GetAverageDamage(unit, Int32)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.GetAverageDamage*
-  name: GetAverageDamage
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_GetAverageDamage_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.GetAverageDamage
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.GetAverageDamage
-  nameWithType: UnitExtensions.GetAverageDamage
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.GetDamageReduction(unit)
-  name: GetDamageReduction(unit)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_GetDamageReduction_unit_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.GetDamageReduction(unit)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.GetDamageReduction(unit)
-  nameWithType: UnitExtensions.GetDamageReduction(unit)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.GetDamageReduction*
-  name: GetDamageReduction
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_GetDamageReduction_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.GetDamageReduction
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.GetDamageReduction
-  nameWithType: UnitExtensions.GetDamageReduction
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.GetInventoryIndexOfItemType(unit,System.Int32)
-  name: GetInventoryIndexOfItemType(unit, Int32)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_GetInventoryIndexOfItemType_unit_System_Int32_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.GetInventoryIndexOfItemType(unit,System.Int32)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.GetInventoryIndexOfItemType(unit, System.Int32)
-  nameWithType: UnitExtensions.GetInventoryIndexOfItemType(unit, Int32)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.GetInventoryIndexOfItemType*
-  name: GetInventoryIndexOfItemType
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_GetInventoryIndexOfItemType_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.GetInventoryIndexOfItemType
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.GetInventoryIndexOfItemType
-  nameWithType: UnitExtensions.GetInventoryIndexOfItemType
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.GetLifePercent(unit)
-  name: GetLifePercent(unit)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_GetLifePercent_unit_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.GetLifePercent(unit)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.GetLifePercent(unit)
-  nameWithType: UnitExtensions.GetLifePercent(unit)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.GetLifePercent*
-  name: GetLifePercent
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_GetLifePercent_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.GetLifePercent
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.GetLifePercent
-  nameWithType: UnitExtensions.GetLifePercent
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.GetPosition(unit)
-  name: GetPosition(unit)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_GetPosition_unit_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.GetPosition(unit)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.GetPosition(unit)
-  nameWithType: UnitExtensions.GetPosition(unit)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.GetPosition*
-  name: GetPosition
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_GetPosition_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.GetPosition
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.GetPosition
-  nameWithType: UnitExtensions.GetPosition
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.Heal(unit,System.Single)
-  name: Heal(unit, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_Heal_unit_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.Heal(unit,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.Heal(unit, System.Single)
-  nameWithType: UnitExtensions.Heal(unit, Single)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.Heal*
-  name: Heal
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_Heal_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.Heal
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.Heal
-  nameWithType: UnitExtensions.Heal
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.IssueOrder(unit,System.String,Point)
-  name: IssueOrder(unit, String, Point)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_IssueOrder_unit_System_String_Point_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.IssueOrder(unit,System.String,Point)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.IssueOrder(unit, System.String, Point)
-  nameWithType: UnitExtensions.IssueOrder(unit, String, Point)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.IssueOrder*
-  name: IssueOrder
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_IssueOrder_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.IssueOrder
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.IssueOrder
-  nameWithType: UnitExtensions.IssueOrder
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.MultiplyBaseDamage(unit,System.Single,System.Int32)
-  name: MultiplyBaseDamage(unit, Single, Int32)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_MultiplyBaseDamage_unit_System_Single_System_Int32_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.MultiplyBaseDamage(unit,System.Single,System.Int32)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.MultiplyBaseDamage(unit, System.Single, System.Int32)
-  nameWithType: UnitExtensions.MultiplyBaseDamage(unit, Single, Int32)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.MultiplyBaseDamage*
-  name: MultiplyBaseDamage
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_MultiplyBaseDamage_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.MultiplyBaseDamage
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.MultiplyBaseDamage
-  nameWithType: UnitExtensions.MultiplyBaseDamage
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.MultiplyMaxHitpoints(unit,System.Single)
-  name: MultiplyMaxHitpoints(unit, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_MultiplyMaxHitpoints_unit_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.MultiplyMaxHitpoints(unit,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.MultiplyMaxHitpoints(unit, System.Single)
-  nameWithType: UnitExtensions.MultiplyMaxHitpoints(unit, Single)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.MultiplyMaxHitpoints*
-  name: MultiplyMaxHitpoints
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_MultiplyMaxHitpoints_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.MultiplyMaxHitpoints
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.MultiplyMaxHitpoints
-  nameWithType: UnitExtensions.MultiplyMaxHitpoints
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.OwningPlayer(unit)
-  name: OwningPlayer(unit)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_OwningPlayer_unit_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.OwningPlayer(unit)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.OwningPlayer(unit)
-  nameWithType: UnitExtensions.OwningPlayer(unit)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.OwningPlayer*
-  name: OwningPlayer
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_OwningPlayer_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.OwningPlayer
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.OwningPlayer
-  nameWithType: UnitExtensions.OwningPlayer
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.Pause(unit,System.Boolean)
-  name: Pause(unit, Boolean)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_Pause_unit_System_Boolean_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.Pause(unit,System.Boolean)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.Pause(unit, System.Boolean)
-  nameWithType: UnitExtensions.Pause(unit, Boolean)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.Pause*
-  name: Pause
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_Pause_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.Pause
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.Pause
-  nameWithType: UnitExtensions.Pause
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.Remove(unit)
-  name: Remove(unit)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_Remove_unit_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.Remove(unit)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.Remove(unit)
-  nameWithType: UnitExtensions.Remove(unit)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.Remove*
-  name: Remove
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_Remove_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.Remove
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.Remove
-  nameWithType: UnitExtensions.Remove
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.Rescue(unit,player)
-  name: Rescue(unit, player)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_Rescue_unit_player_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.Rescue(unit,player)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.Rescue(unit, player)
-  nameWithType: UnitExtensions.Rescue(unit, player)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.Rescue*
-  name: Rescue
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_Rescue_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.Rescue
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.Rescue
-  nameWithType: UnitExtensions.Rescue
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.Resurrect(unit)
-  name: Resurrect(unit)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_Resurrect_unit_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.Resurrect(unit)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.Resurrect(unit)
-  nameWithType: UnitExtensions.Resurrect(unit)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.Resurrect*
-  name: Resurrect
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_Resurrect_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.Resurrect
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.Resurrect
-  nameWithType: UnitExtensions.Resurrect
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.SetInvulnerable(unit,System.Boolean)
-  name: SetInvulnerable(unit, Boolean)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_SetInvulnerable_unit_System_Boolean_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.SetInvulnerable(unit,System.Boolean)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.SetInvulnerable(unit, System.Boolean)
-  nameWithType: UnitExtensions.SetInvulnerable(unit, Boolean)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.SetInvulnerable*
-  name: SetInvulnerable
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_SetInvulnerable_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.SetInvulnerable
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.SetInvulnerable
-  nameWithType: UnitExtensions.SetInvulnerable
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.SetLifePercent(unit,System.Single)
-  name: SetLifePercent(unit, Single)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_SetLifePercent_unit_System_Single_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.SetLifePercent(unit,System.Single)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.SetLifePercent(unit, System.Single)
-  nameWithType: UnitExtensions.SetLifePercent(unit, Single)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.SetLifePercent*
-  name: SetLifePercent
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_SetLifePercent_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.SetLifePercent
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.SetLifePercent
-  nameWithType: UnitExtensions.SetLifePercent
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.SetOwner(unit,player)
-  name: SetOwner(unit, player)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_SetOwner_unit_player_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.SetOwner(unit,player)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.SetOwner(unit, player)
-  nameWithType: UnitExtensions.SetOwner(unit, player)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.SetOwner*
-  name: SetOwner
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_SetOwner_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.SetOwner
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.SetOwner
-  nameWithType: UnitExtensions.SetOwner
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.SetPosition(unit,Point)
-  name: SetPosition(unit, Point)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_SetPosition_unit_Point_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.SetPosition(unit,Point)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.SetPosition(unit, Point)
-  nameWithType: UnitExtensions.SetPosition(unit, Point)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.SetPosition*
-  name: SetPosition
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_SetPosition_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.SetPosition
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.SetPosition
-  nameWithType: UnitExtensions.SetPosition
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.SetWaygateDestination(unit,Point)
-  name: SetWaygateDestination(unit, Point)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_SetWaygateDestination_unit_Point_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.SetWaygateDestination(unit,Point)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.SetWaygateDestination(unit, Point)
-  nameWithType: UnitExtensions.SetWaygateDestination(unit, Point)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.SetWaygateDestination*
-  name: SetWaygateDestination
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_SetWaygateDestination_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.SetWaygateDestination
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.SetWaygateDestination
-  nameWithType: UnitExtensions.SetWaygateDestination
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.TransferItems(unit,unit)
-  name: TransferItems(unit, unit)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_TransferItems_unit_unit_
-  commentId: M:AzerothWarsCSharp.MacroTools.UnitExtensions.TransferItems(unit,unit)
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.TransferItems(unit, unit)
-  nameWithType: UnitExtensions.TransferItems(unit, unit)
-- uid: AzerothWarsCSharp.MacroTools.UnitExtensions.TransferItems*
-  name: TransferItems
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitExtensions.html#AzerothWarsCSharp_MacroTools_UnitExtensions_TransferItems_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.UnitExtensions.TransferItems
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.UnitExtensions.TransferItems
-  nameWithType: UnitExtensions.TransferItems
 - uid: AzerothWarsCSharp.MacroTools.UnitType
   name: UnitType
   href: api-macroTools/AzerothWarsCSharp.MacroTools.UnitType.html
