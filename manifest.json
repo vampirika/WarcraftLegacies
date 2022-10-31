@@ -1533,7 +1533,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.html",
-          "hash": "3RbXkZz4C0eNoBsBAiebhQ=="
+          "hash": "7VgJmTm2LNHeQycpw/zvng=="
         }
       },
       "is_incremental": false,
@@ -2417,6 +2417,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.RectangleExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.RectangleExtensions.html",
+          "hash": "P6GrJ3eBjHHdR85H35mcZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.ShoreSystem.Shore.yml",
       "output": {
         ".html": {
@@ -3069,7 +3081,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/AzerothWarsCSharp.MacroTools.html",
-          "hash": "8KZwgfU+8/G3wWX4D0VtNw=="
+          "hash": "nJsGyAuux8xO3pnqrEJi6Q=="
         }
       },
       "is_incremental": false,
@@ -3081,7 +3093,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "v3iWJm//4eRY/gDnG06HKA=="
+          "hash": "Brnnmtc90cnfPH+Z5M4t0w=="
         }
       },
       "is_incremental": false,
@@ -6201,7 +6213,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/AzerothWarsCSharp.Source.Setup.AmbianceSetup.html",
-          "hash": "2t4/Xyw/mcRQ+ac2bD6PFw=="
+          "hash": "xIRqEa568Kl68fdmun+nlw=="
         }
       },
       "is_incremental": false,
@@ -7572,7 +7584,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 623,
+          "total_file_count": 624,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

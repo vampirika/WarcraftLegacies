@@ -6385,19 +6385,6 @@ references:
   commentId: T:AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers
   fullName: AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers
   nameWithType: GeneralHelpers
-- uid: AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.AddSoundToRegion(System.Boolean,sound,Rectangle)
-  name: AddSoundToRegion(Boolean, sound, Rectangle)
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.html#AzerothWarsCSharp_MacroTools_Libraries_GeneralHelpers_AddSoundToRegion_System_Boolean_sound_Rectangle_
-  commentId: M:AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.AddSoundToRegion(System.Boolean,sound,Rectangle)
-  fullName: AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.AddSoundToRegion(System.Boolean, sound, Rectangle)
-  nameWithType: GeneralHelpers.AddSoundToRegion(Boolean, sound, Rectangle)
-- uid: AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.AddSoundToRegion*
-  name: AddSoundToRegion
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.html#AzerothWarsCSharp_MacroTools_Libraries_GeneralHelpers_AddSoundToRegion_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.AddSoundToRegion
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.AddSoundToRegion
-  nameWithType: GeneralHelpers.AddSoundToRegion
 - uid: AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.CameraSetEarthquakeNoise(System.Single)
   name: CameraSetEarthquakeNoise(Single)
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.html#AzerothWarsCSharp_MacroTools_Libraries_GeneralHelpers_CameraSetEarthquakeNoise_System_Single_
@@ -6463,19 +6450,6 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.EnumDestructablesInCircle
   nameWithType: GeneralHelpers.EnumDestructablesInCircle
-- uid: AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.GetAllPlayers
-  name: GetAllPlayers()
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.html#AzerothWarsCSharp_MacroTools_Libraries_GeneralHelpers_GetAllPlayers
-  commentId: M:AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.GetAllPlayers
-  fullName: AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.GetAllPlayers()
-  nameWithType: GeneralHelpers.GetAllPlayers()
-- uid: AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.GetAllPlayers*
-  name: GetAllPlayers
-  href: api-macroTools/AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.html#AzerothWarsCSharp_MacroTools_Libraries_GeneralHelpers_GetAllPlayers_
-  commentId: Overload:AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.GetAllPlayers
-  isSpec: "True"
-  fullName: AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.GetAllPlayers
-  nameWithType: GeneralHelpers.GetAllPlayers
 - uid: AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.GetPositionZ(System.Single,System.Single)
   name: GetPositionZ(Single, Single)
   href: api-macroTools/AzerothWarsCSharp.MacroTools.Libraries.GeneralHelpers.html#AzerothWarsCSharp_MacroTools_Libraries_GeneralHelpers_GetPositionZ_System_Single_System_Single_
@@ -9334,6 +9308,25 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.QuestSystem.UtilityStructs.QuestProgressChangedEventArgs.Quest
   nameWithType: QuestProgressChangedEventArgs.Quest
+- uid: AzerothWarsCSharp.MacroTools.RectangleExtensions
+  name: RectangleExtensions
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.RectangleExtensions.html
+  commentId: T:AzerothWarsCSharp.MacroTools.RectangleExtensions
+  fullName: AzerothWarsCSharp.MacroTools.RectangleExtensions
+  nameWithType: RectangleExtensions
+- uid: AzerothWarsCSharp.MacroTools.RectangleExtensions.AddSound(Rectangle,sound)
+  name: AddSound(Rectangle, sound)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.RectangleExtensions.html#AzerothWarsCSharp_MacroTools_RectangleExtensions_AddSound_Rectangle_sound_
+  commentId: M:AzerothWarsCSharp.MacroTools.RectangleExtensions.AddSound(Rectangle,sound)
+  fullName: AzerothWarsCSharp.MacroTools.RectangleExtensions.AddSound(Rectangle, sound)
+  nameWithType: RectangleExtensions.AddSound(Rectangle, sound)
+- uid: AzerothWarsCSharp.MacroTools.RectangleExtensions.AddSound*
+  name: AddSound
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.RectangleExtensions.html#AzerothWarsCSharp_MacroTools_RectangleExtensions_AddSound_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.RectangleExtensions.AddSound
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.RectangleExtensions.AddSound
+  nameWithType: RectangleExtensions.AddSound
 - uid: AzerothWarsCSharp.MacroTools.ShoreSystem
   name: AzerothWarsCSharp.MacroTools.ShoreSystem
   href: api-macroTools/AzerothWarsCSharp.MacroTools.ShoreSystem.html
