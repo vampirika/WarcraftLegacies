@@ -4184,6 +4184,19 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.ApplyCameraField
   nameWithType: PlayerExtensions.ApplyCameraField
+- uid: AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.ChangeMinimapTerrainTexture(player,System.String)
+  name: ChangeMinimapTerrainTexture(player, String)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.html#AzerothWarsCSharp_MacroTools_FactionSystem_PlayerExtensions_ChangeMinimapTerrainTexture_player_System_String_
+  commentId: M:AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.ChangeMinimapTerrainTexture(player,System.String)
+  fullName: AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.ChangeMinimapTerrainTexture(player, System.String)
+  nameWithType: PlayerExtensions.ChangeMinimapTerrainTexture(player, String)
+- uid: AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.ChangeMinimapTerrainTexture*
+  name: ChangeMinimapTerrainTexture
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.html#AzerothWarsCSharp_MacroTools_FactionSystem_PlayerExtensions_ChangeMinimapTerrainTexture_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.ChangeMinimapTerrainTexture
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.ChangeMinimapTerrainTexture
+  nameWithType: PlayerExtensions.ChangeMinimapTerrainTexture
 - uid: AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.GetBaseIncome(player)
   name: GetBaseIncome(player)
   href: api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.html#AzerothWarsCSharp_MacroTools_FactionSystem_PlayerExtensions_GetBaseIncome_player_
@@ -4288,6 +4301,19 @@ references:
   isSpec: "True"
   fullName: AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.GetTotalIncome
   nameWithType: PlayerExtensions.GetTotalIncome
+- uid: AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.RunLocal(player,Action)
+  name: RunLocal(player, Action)
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.html#AzerothWarsCSharp_MacroTools_FactionSystem_PlayerExtensions_RunLocal_player_Action_
+  commentId: M:AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.RunLocal(player,Action)
+  fullName: AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.RunLocal(player, Action)
+  nameWithType: PlayerExtensions.RunLocal(player, Action)
+- uid: AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.RunLocal*
+  name: RunLocal
+  href: api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.html#AzerothWarsCSharp_MacroTools_FactionSystem_PlayerExtensions_RunLocal_
+  commentId: Overload:AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.RunLocal
+  isSpec: "True"
+  fullName: AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.RunLocal
+  nameWithType: PlayerExtensions.RunLocal
 - uid: AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.SetAllianceState(player,player,AzerothWarsCSharp.MacroTools.FactionSystem.AllianceState)
   name: SetAllianceState(player, player, AllianceState)
   href: api-macroTools/AzerothWarsCSharp.MacroTools.FactionSystem.PlayerExtensions.html#AzerothWarsCSharp_MacroTools_FactionSystem_PlayerExtensions_SetAllianceState_player_player_AzerothWarsCSharp_MacroTools_FactionSystem_AllianceState_
