@@ -1,0 +1,470 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class Channel
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class Channel
+   ">
+    <meta name="generator" content="docfx 2.56.7.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="MacroTools.ChannelSystem.Channel">
+  
+  
+  <h1 id="MacroTools_ChannelSystem_Channel" data-uid="MacroTools.ChannelSystem.Channel" class="text-break">Class Channel
+  </h1>
+  <div class="markdown level0 summary"><p>A spell effect which has to be continually maintained by a caster. If the caster is interrupted, the effect ends.</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><span class="xref">Channel</span></div>
+      <div class="level2"><a class="xref" href="MacroTools.Channels.SiphoningRitualChannel.html">SiphoningRitualChannel</a></div>
+      <div class="level2"><a class="xref" href="MacroTools.Channels.SummonLegionChannel.html">SummonLegionChannel</a></div>
+      <div class="level2"><a class="xref" href="MacroTools.Spells.ExactJustice.ExactJusticeChannel.html">ExactJusticeChannel</a></div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="MacroTools.ChannelSystem.html">MacroTools.ChannelSystem</a></h6>
+  <h6><strong>Assembly</strong>: MacroTools.dll</h6>
+  <h5 id="MacroTools_ChannelSystem_Channel_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public abstract class Channel : IPeriodicDisposableAction</code></pre>
+  </div>
+  <h3 id="constructors">Constructors
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ChannelSystem_Channel__ctor_unit_System_Int32_.md&amp;value=---%0Auid%3A%20MacroTools.ChannelSystem.Channel.%23ctor(unit%2CSystem.Int32)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ChannelSystem/Channel.cs/#L18">View Source</a>
+  </span>
+  <a id="MacroTools_ChannelSystem_Channel__ctor_" data-uid="MacroTools.ChannelSystem.Channel.#ctor*"></a>
+  <h4 id="MacroTools_ChannelSystem_Channel__ctor_unit_System_Int32_" data-uid="MacroTools.ChannelSystem.Channel.#ctor(unit,System.Int32)">Channel(unit, Int32)</h4>
+  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="MacroTools.ChannelSystem.Channel.html">Channel</a> class.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected Channel(unit caster, int spellId)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">unit</span></td>
+        <td><span class="parametername">caster</span></td>
+        <td><p>The unit maintaining the <a class="xref" href="MacroTools.ChannelSystem.Channel.html">Channel</a>.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><span class="parametername">spellId</span></td>
+        <td><p>The spell ID representing the <a class="xref" href="MacroTools.ChannelSystem.Channel.html">Channel</a>.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="properties">Properties
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ChannelSystem_Channel_Active.md&amp;value=---%0Auid%3A%20MacroTools.ChannelSystem.Channel.Active%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ChannelSystem/Channel.cs/#L86">View Source</a>
+  </span>
+  <a id="MacroTools_ChannelSystem_Channel_Active_" data-uid="MacroTools.ChannelSystem.Channel.Active*"></a>
+  <h4 id="MacroTools_ChannelSystem_Channel_Active" data-uid="MacroTools.ChannelSystem.Channel.Active">Active</h4>
+  <div class="markdown level1 summary"><p>When false, the <a class="xref" href="MacroTools.ChannelSystem.Channel.html">Channel</a> should be disposed of.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public abstract bool Active { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ChannelSystem_Channel_Caster.md&amp;value=---%0Auid%3A%20MacroTools.ChannelSystem.Channel.Caster%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ChannelSystem/Channel.cs/#L40">View Source</a>
+  </span>
+  <a id="MacroTools_ChannelSystem_Channel_Caster_" data-uid="MacroTools.ChannelSystem.Channel.Caster*"></a>
+  <h4 id="MacroTools_ChannelSystem_Channel_Caster" data-uid="MacroTools.ChannelSystem.Channel.Caster">Caster</h4>
+  <div class="markdown level1 summary"><p>The unit that is maintaining the channel. If it dies or is interrupted, the channel ends.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public unit Caster { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">unit</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ChannelSystem_Channel_Duration.md&amp;value=---%0Auid%3A%20MacroTools.ChannelSystem.Channel.Duration%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ChannelSystem/Channel.cs/#L64">View Source</a>
+  </span>
+  <a id="MacroTools_ChannelSystem_Channel_Duration_" data-uid="MacroTools.ChannelSystem.Channel.Duration*"></a>
+  <h4 id="MacroTools_ChannelSystem_Channel_Duration" data-uid="MacroTools.ChannelSystem.Channel.Duration">Duration</h4>
+  <div class="markdown level1 summary"><p>How long until the <a class="xref" href="MacroTools.ChannelSystem.Channel.html">Channel</a> disappears.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public float Duration { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ChannelSystem_Channel_Interval.md&amp;value=---%0Auid%3A%20MacroTools.ChannelSystem.Channel.Interval%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ChannelSystem/Channel.cs/#L51">View Source</a>
+  </span>
+  <a id="MacroTools_ChannelSystem_Channel_Interval_" data-uid="MacroTools.ChannelSystem.Channel.Interval*"></a>
+  <h4 id="MacroTools_ChannelSystem_Channel_Interval" data-uid="MacroTools.ChannelSystem.Channel.Interval">Interval</h4>
+  <div class="markdown level1 summary"><p>The interval at which the missile will call <a class="xref" href="MacroTools.ChannelSystem.Channel.html#MacroTools_ChannelSystem_Channel_OnPeriodic">OnPeriodic()</a>. Leave at default (0) to disable.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public float Interval { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ChannelSystem_Channel_SpellId.md&amp;value=---%0Auid%3A%20MacroTools.ChannelSystem.Channel.SpellId%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ChannelSystem/Channel.cs/#L46">View Source</a>
+  </span>
+  <a id="MacroTools_ChannelSystem_Channel_SpellId_" data-uid="MacroTools.ChannelSystem.Channel.SpellId*"></a>
+  <h4 id="MacroTools_ChannelSystem_Channel_SpellId" data-uid="MacroTools.ChannelSystem.Channel.SpellId">SpellId</h4>
+  <div class="markdown level1 summary"><p>The spell being used to represent the channel.
+The duration for it is used to determine the duration of this custom effect.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int SpellId { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ChannelSystem_Channel_Action.md&amp;value=---%0Auid%3A%20MacroTools.ChannelSystem.Channel.Action%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ChannelSystem/Channel.cs/#L69">View Source</a>
+  </span>
+  <a id="MacroTools_ChannelSystem_Channel_Action_" data-uid="MacroTools.ChannelSystem.Channel.Action*"></a>
+  <h4 id="MacroTools_ChannelSystem_Channel_Action" data-uid="MacroTools.ChannelSystem.Channel.Action">Action()</h4>
+  <div class="markdown level1 summary"><p>Called by the system. Do not call yourself.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Action()</code></pre>
+  </div>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ChannelSystem_Channel_Dispose.md&amp;value=---%0Auid%3A%20MacroTools.ChannelSystem.Channel.Dispose%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ChannelSystem/Channel.cs/#L75">View Source</a>
+  </span>
+  <a id="MacroTools_ChannelSystem_Channel_Dispose_" data-uid="MacroTools.ChannelSystem.Channel.Dispose*"></a>
+  <h4 id="MacroTools_ChannelSystem_Channel_Dispose" data-uid="MacroTools.ChannelSystem.Channel.Dispose">Dispose()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Dispose()</code></pre>
+  </div>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ChannelSystem_Channel_GetZ_System_Single_System_Single_.md&amp;value=---%0Auid%3A%20MacroTools.ChannelSystem.Channel.GetZ(System.Single%2CSystem.Single)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ChannelSystem/Channel.cs/#L122">View Source</a>
+  </span>
+  <a id="MacroTools_ChannelSystem_Channel_GetZ_" data-uid="MacroTools.ChannelSystem.Channel.GetZ*"></a>
+  <h4 id="MacroTools_ChannelSystem_Channel_GetZ_System_Single_System_Single_" data-uid="MacroTools.ChannelSystem.Channel.GetZ(System.Single,System.Single)">GetZ(Single, Single)</h4>
+  <div class="markdown level1 summary"><p>Retrieves the LocationZ at the given (X, Y) coordinates.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected static float GetZ(float x, float y)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">x</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td><span class="parametername">y</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ChannelSystem_Channel_OnCreate.md&amp;value=---%0Auid%3A%20MacroTools.ChannelSystem.Channel.OnCreate%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ChannelSystem/Channel.cs/#L91">View Source</a>
+  </span>
+  <a id="MacroTools_ChannelSystem_Channel_OnCreate_" data-uid="MacroTools.ChannelSystem.Channel.OnCreate*"></a>
+  <h4 id="MacroTools_ChannelSystem_Channel_OnCreate" data-uid="MacroTools.ChannelSystem.Channel.OnCreate">OnCreate()</h4>
+  <div class="markdown level1 summary"><p>Fired when the <a class="xref" href="MacroTools.ChannelSystem.Channel.html">Channel</a> is initially registered.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual void OnCreate()</code></pre>
+  </div>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ChannelSystem_Channel_OnDispose.md&amp;value=---%0Auid%3A%20MacroTools.ChannelSystem.Channel.OnDispose%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ChannelSystem/Channel.cs/#L115">View Source</a>
+  </span>
+  <a id="MacroTools_ChannelSystem_Channel_OnDispose_" data-uid="MacroTools.ChannelSystem.Channel.OnDispose*"></a>
+  <h4 id="MacroTools_ChannelSystem_Channel_OnDispose" data-uid="MacroTools.ChannelSystem.Channel.OnDispose">OnDispose()</h4>
+  <div class="markdown level1 summary"><p>Override this method if your <a class="xref" href="MacroTools.ChannelSystem.Channel.html">Channel</a> has an effect that should trigger when it ends.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected virtual void OnDispose()</code></pre>
+  </div>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ChannelSystem_Channel_OnPeriodic.md&amp;value=---%0Auid%3A%20MacroTools.ChannelSystem.Channel.OnPeriodic%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ChannelSystem/Channel.cs/#L108">View Source</a>
+  </span>
+  <a id="MacroTools_ChannelSystem_Channel_OnPeriodic_" data-uid="MacroTools.ChannelSystem.Channel.OnPeriodic*"></a>
+  <h4 id="MacroTools_ChannelSystem_Channel_OnPeriodic" data-uid="MacroTools.ChannelSystem.Channel.OnPeriodic">OnPeriodic()</h4>
+  <div class="markdown level1 summary"><p>Override this method if your <a class="xref" href="MacroTools.ChannelSystem.Channel.html">Channel</a> has a periodic effect.</p>
+<p>For this to be active, <a class="xref" href="MacroTools.ChannelSystem.Channel.html#MacroTools_ChannelSystem_Channel_Interval">Interval</a> must be greater than 0.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">protected virtual void OnPeriodic()</code></pre>
+  </div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ChannelSystem_Channel.md&amp;value=---%0Auid%3A%20MacroTools.ChannelSystem.Channel%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                  </li>
+                  <li>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ChannelSystem/Channel.cs/#L11" class="contribution-link">View Source</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
