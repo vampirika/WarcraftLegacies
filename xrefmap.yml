@@ -3317,6 +3317,38 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.TriggerExtensions.AddAction
   nameWithType: TriggerExtensions.AddAction
+- uid: MacroTools.Extensions.TriggerExtensions.RegisterEnterRegion(trigger,Rectangle,System.Nullable{boolexpr})
+  name: RegisterEnterRegion(trigger, Rectangle, Nullable<boolexpr>)
+  href: api-macroTools/MacroTools.Extensions.TriggerExtensions.html#MacroTools_Extensions_TriggerExtensions_RegisterEnterRegion_trigger_Rectangle_System_Nullable_boolexpr__
+  commentId: M:MacroTools.Extensions.TriggerExtensions.RegisterEnterRegion(trigger,Rectangle,System.Nullable{boolexpr})
+  name.vb: RegisterEnterRegion(trigger, Rectangle, Nullable(Of boolexpr))
+  fullName: MacroTools.Extensions.TriggerExtensions.RegisterEnterRegion(trigger, Rectangle, System.Nullable<boolexpr>)
+  fullName.vb: MacroTools.Extensions.TriggerExtensions.RegisterEnterRegion(trigger, Rectangle, System.Nullable(Of boolexpr))
+  nameWithType: TriggerExtensions.RegisterEnterRegion(trigger, Rectangle, Nullable<boolexpr>)
+  nameWithType.vb: TriggerExtensions.RegisterEnterRegion(trigger, Rectangle, Nullable(Of boolexpr))
+- uid: MacroTools.Extensions.TriggerExtensions.RegisterEnterRegion*
+  name: RegisterEnterRegion
+  href: api-macroTools/MacroTools.Extensions.TriggerExtensions.html#MacroTools_Extensions_TriggerExtensions_RegisterEnterRegion_
+  commentId: Overload:MacroTools.Extensions.TriggerExtensions.RegisterEnterRegion
+  isSpec: "True"
+  fullName: MacroTools.Extensions.TriggerExtensions.RegisterEnterRegion
+  nameWithType: TriggerExtensions.RegisterEnterRegion
+- uid: MacroTools.Extensions.TriggerExtensions.RegisterLeaveRegion(trigger,Rectangle,System.Nullable{boolexpr})
+  name: RegisterLeaveRegion(trigger, Rectangle, Nullable<boolexpr>)
+  href: api-macroTools/MacroTools.Extensions.TriggerExtensions.html#MacroTools_Extensions_TriggerExtensions_RegisterLeaveRegion_trigger_Rectangle_System_Nullable_boolexpr__
+  commentId: M:MacroTools.Extensions.TriggerExtensions.RegisterLeaveRegion(trigger,Rectangle,System.Nullable{boolexpr})
+  name.vb: RegisterLeaveRegion(trigger, Rectangle, Nullable(Of boolexpr))
+  fullName: MacroTools.Extensions.TriggerExtensions.RegisterLeaveRegion(trigger, Rectangle, System.Nullable<boolexpr>)
+  fullName.vb: MacroTools.Extensions.TriggerExtensions.RegisterLeaveRegion(trigger, Rectangle, System.Nullable(Of boolexpr))
+  nameWithType: TriggerExtensions.RegisterLeaveRegion(trigger, Rectangle, Nullable<boolexpr>)
+  nameWithType.vb: TriggerExtensions.RegisterLeaveRegion(trigger, Rectangle, Nullable(Of boolexpr))
+- uid: MacroTools.Extensions.TriggerExtensions.RegisterLeaveRegion*
+  name: RegisterLeaveRegion
+  href: api-macroTools/MacroTools.Extensions.TriggerExtensions.html#MacroTools_Extensions_TriggerExtensions_RegisterLeaveRegion_
+  commentId: Overload:MacroTools.Extensions.TriggerExtensions.RegisterLeaveRegion
+  isSpec: "True"
+  fullName: MacroTools.Extensions.TriggerExtensions.RegisterLeaveRegion
+  nameWithType: TriggerExtensions.RegisterLeaveRegion
 - uid: MacroTools.Extensions.TriggerExtensions.RegisterUnitEvent(trigger,unit,unitevent)
   name: RegisterUnitEvent(trigger, unit, unitevent)
   href: api-macroTools/MacroTools.Extensions.TriggerExtensions.html#MacroTools_Extensions_TriggerExtensions_RegisterUnitEvent_trigger_unit_unitevent_
