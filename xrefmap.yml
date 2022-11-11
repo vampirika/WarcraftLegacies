@@ -16092,67 +16092,6 @@ references:
   commentId: N:WarcraftLegacies.Source.Mechanics.Scourge.Plague
   fullName: WarcraftLegacies.Source.Mechanics.Scourge.Plague
   nameWithType: WarcraftLegacies.Source.Mechanics.Scourge.Plague
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction
-  name: DarkConversionPeriodicAction
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.html
-  commentId: T:WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction
-  nameWithType: DarkConversionPeriodicAction
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.#ctor(List{player},List{System.Int32})
-  name: DarkConversionPeriodicAction(List<player>, List<Int32>)
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.html#WarcraftLegacies_Source_Mechanics_Scourge_Plague_DarkConversionPeriodicAction__ctor_List_player__List_System_Int32__
-  commentId: M:WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.#ctor(List{player},List{System.Int32})
-  name.vb: DarkConversionPeriodicAction(List(Of player), List(Of Int32))
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.DarkConversionPeriodicAction(List<player>, List<System.Int32>)
-  fullName.vb: WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.DarkConversionPeriodicAction(List(Of player), List(Of System.Int32))
-  nameWithType: DarkConversionPeriodicAction.DarkConversionPeriodicAction(List<player>, List<Int32>)
-  nameWithType.vb: DarkConversionPeriodicAction.DarkConversionPeriodicAction(List(Of player), List(Of Int32))
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.#ctor*
-  name: DarkConversionPeriodicAction
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.html#WarcraftLegacies_Source_Mechanics_Scourge_Plague_DarkConversionPeriodicAction__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.DarkConversionPeriodicAction
-  nameWithType: DarkConversionPeriodicAction.DarkConversionPeriodicAction
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.Action
-  name: Action()
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.html#WarcraftLegacies_Source_Mechanics_Scourge_Plague_DarkConversionPeriodicAction_Action
-  commentId: M:WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.Action
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.Action()
-  nameWithType: DarkConversionPeriodicAction.Action()
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.Action*
-  name: Action
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.html#WarcraftLegacies_Source_Mechanics_Scourge_Plague_DarkConversionPeriodicAction_Action_
-  commentId: Overload:WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.Action
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.Action
-  nameWithType: DarkConversionPeriodicAction.Action
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.Active
-  name: Active
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.html#WarcraftLegacies_Source_Mechanics_Scourge_Plague_DarkConversionPeriodicAction_Active
-  commentId: P:WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.Active
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.Active
-  nameWithType: DarkConversionPeriodicAction.Active
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.Active*
-  name: Active
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.html#WarcraftLegacies_Source_Mechanics_Scourge_Plague_DarkConversionPeriodicAction_Active_
-  commentId: Overload:WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.Active
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.Active
-  nameWithType: DarkConversionPeriodicAction.Active
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.Dispose
-  name: Dispose()
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.html#WarcraftLegacies_Source_Mechanics_Scourge_Plague_DarkConversionPeriodicAction_Dispose
-  commentId: M:WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.Dispose
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.Dispose()
-  nameWithType: DarkConversionPeriodicAction.Dispose()
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.Dispose*
-  name: Dispose
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.html#WarcraftLegacies_Source_Mechanics_Scourge_Plague_DarkConversionPeriodicAction_Dispose_
-  commentId: Overload:WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.Dispose
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.Dispose
-  nameWithType: DarkConversionPeriodicAction.Dispose
 - uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronBuff
   name: PlagueCauldronBuff
   href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronBuff.html
@@ -32690,6 +32629,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Spells.IllidanSpellSetup.Setup
   nameWithType: IllidanSpellSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup
+  name: KulTirasSpellSetup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup
+  fullName: WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup
+  nameWithType: KulTirasSpellSetup
+- uid: WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_KulTirasSpellSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup.Setup()
+  nameWithType: KulTirasSpellSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_KulTirasSpellSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup.Setup
+  nameWithType: KulTirasSpellSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.Spells.LegionSpellSetup
   name: LegionSpellSetup
   href: api-source/WarcraftLegacies.Source.Setup.Spells.LegionSpellSetup.html

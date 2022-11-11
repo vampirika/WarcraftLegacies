@@ -4037,18 +4037,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.DarkConversionPeriodicAction.html",
-          "hash": "WTBJAy72xDXokegV3TI06g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronBuff.yml",
       "output": {
         ".html": {
@@ -4077,7 +4065,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlaguePower.html",
-          "hash": "2trRuy7wctEHMxXQGZ55uQ=="
+          "hash": "7zNu1GVbWW9HuULJWxzH+A=="
         }
       },
       "is_incremental": false,
@@ -4089,7 +4077,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.html",
-          "hash": "G2UJHly9D3htFw3T5fy1kA=="
+          "hash": "6rGJokHJqrolfecpGzMmlA=="
         }
       },
       "is_incremental": false,
@@ -7781,6 +7769,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup.html",
+          "hash": "XxxKmYUwgpnz65Ebs0GPaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.LegionSpellSetup.yml",
       "output": {
         ".html": {
@@ -7833,7 +7833,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.html",
-          "hash": "x3cqhopAp3t7M21bPNq1yA=="
+          "hash": "m0mbccI7i8M6UeQyURRheA=="
         }
       },
       "is_incremental": false,
@@ -7965,7 +7965,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "/gqgBUhk5g/Txop0PAa8bA=="
+          "hash": "CahX8Rv+xSKxS72pIXmp4Q=="
         }
       },
       "is_incremental": false,
