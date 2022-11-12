@@ -1005,7 +1005,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.UnitExtensions.html",
-          "hash": "24dTtN4mFApeyDf0iiYR4A=="
+          "hash": "x55v/tc7wfoBL/hE17D0AQ=="
         }
       },
       "is_incremental": false,
@@ -3377,30 +3377,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.ArtifactBehaviour.ZinrokhAssembly.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.ArtifactBehaviour.ZinrokhAssembly.html",
-          "hash": "R2BQFJxVMXM6QGdRMC7PZw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.ArtifactBehaviour.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.ArtifactBehaviour.html",
-          "hash": "YuyE8cp+fkK0QItadNNCzw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Artifacts.EyeOfSargerasCooldowns.yml",
       "output": {
         ".html": {
@@ -5513,6 +5489,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.html",
+          "hash": "GDLS4sPBaynJ+NsYVwwA1w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestArathiVolunteers.yml",
       "output": {
         ".html": {
@@ -6225,7 +6213,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestHakkar.html",
-          "hash": "kUqhnZ3oSGHsoAukJ9KEnA=="
+          "hash": "Nk22unwz8x2I+f7lHxF2hQ=="
         }
       },
       "is_incremental": false,
@@ -6285,7 +6273,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.html",
-          "hash": "f/H7GSwD8Q3o2yMqz5cGGg=="
+          "hash": "DVY45K2Gm/kf/7WMVNaI1Q=="
         }
       },
       "is_incremental": false,
@@ -6297,7 +6285,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.html",
-          "hash": "LHkzXJH9oLFrTVHGgewcJg=="
+          "hash": "w7JnhpsOSmcSFDTqwDK2GQ=="
         }
       },
       "is_incremental": false,
@@ -6621,7 +6609,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html",
-          "hash": "K8mScXIPU/MUBDGVoXYMRQ=="
+          "hash": "HnQGBFSkBBzNLptwkv03Dg=="
         }
       },
       "is_incremental": false,
@@ -7065,7 +7053,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.GameSetup.html",
-          "hash": "fDVZ8rnphp89wP7amo6Zrw=="
+          "hash": "IzLbx/a6VU6nDHhTD6PkuA=="
         }
       },
       "is_incremental": false,
@@ -7641,7 +7629,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.html",
-          "hash": "H8C+j40hCYa48AyXwu+x9g=="
+          "hash": "7Diu3ESt+MZqIqmA1tVqSA=="
         }
       },
       "is_incremental": false,
@@ -7701,7 +7689,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.html",
-          "hash": "KTAVg/PuL4Jl9jPrzhFNVg=="
+          "hash": "vTkVDUg/RfPL4Tgsrzsl8w=="
         }
       },
       "is_incremental": false,
@@ -7977,7 +7965,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "CahX8Rv+xSKxS72pIXmp4Q=="
+          "hash": "K4Mk3uVDoe/u2ZNa71RA/g=="
         }
       },
       "is_incremental": false,
@@ -8052,7 +8040,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 663,
+          "total_file_count": 662,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

@@ -3578,6 +3578,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.GetMana
   nameWithType: UnitExtensions.GetMana
+- uid: MacroTools.Extensions.UnitExtensions.GetName(unit)
+  name: GetName(unit)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetName_unit_
+  commentId: M:MacroTools.Extensions.UnitExtensions.GetName(unit)
+  fullName: MacroTools.Extensions.UnitExtensions.GetName(unit)
+  nameWithType: UnitExtensions.GetName(unit)
+- uid: MacroTools.Extensions.UnitExtensions.GetName*
+  name: GetName
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetName_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.GetName
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.GetName
+  nameWithType: UnitExtensions.GetName
 - uid: MacroTools.Extensions.UnitExtensions.GetPosition(unit)
   name: GetPosition(unit)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetPosition_unit_
@@ -3591,6 +3604,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.GetPosition
   nameWithType: UnitExtensions.GetPosition
+- uid: MacroTools.Extensions.UnitExtensions.GetProperName(unit)
+  name: GetProperName(unit)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetProperName_unit_
+  commentId: M:MacroTools.Extensions.UnitExtensions.GetProperName(unit)
+  fullName: MacroTools.Extensions.UnitExtensions.GetProperName(unit)
+  nameWithType: UnitExtensions.GetProperName(unit)
+- uid: MacroTools.Extensions.UnitExtensions.GetProperName*
+  name: GetProperName
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetProperName_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.GetProperName
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.GetProperName
+  nameWithType: UnitExtensions.GetProperName
 - uid: MacroTools.Extensions.UnitExtensions.GetRallyPoint(unit)
   name: GetRallyPoint(unit)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetRallyPoint_unit_
@@ -15005,31 +15031,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.AmbianceLibrary.WetlandsNight
   nameWithType: AmbianceLibrary.WetlandsNight
-- uid: WarcraftLegacies.Source.ArtifactBehaviour
-  name: WarcraftLegacies.Source.ArtifactBehaviour
-  href: api-source/WarcraftLegacies.Source.ArtifactBehaviour.html
-  commentId: N:WarcraftLegacies.Source.ArtifactBehaviour
-  fullName: WarcraftLegacies.Source.ArtifactBehaviour
-  nameWithType: WarcraftLegacies.Source.ArtifactBehaviour
-- uid: WarcraftLegacies.Source.ArtifactBehaviour.ZinrokhAssembly
-  name: ZinrokhAssembly
-  href: api-source/WarcraftLegacies.Source.ArtifactBehaviour.ZinrokhAssembly.html
-  commentId: T:WarcraftLegacies.Source.ArtifactBehaviour.ZinrokhAssembly
-  fullName: WarcraftLegacies.Source.ArtifactBehaviour.ZinrokhAssembly
-  nameWithType: ZinrokhAssembly
-- uid: WarcraftLegacies.Source.ArtifactBehaviour.ZinrokhAssembly.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.ArtifactBehaviour.ZinrokhAssembly.html#WarcraftLegacies_Source_ArtifactBehaviour_ZinrokhAssembly_Setup
-  commentId: M:WarcraftLegacies.Source.ArtifactBehaviour.ZinrokhAssembly.Setup
-  fullName: WarcraftLegacies.Source.ArtifactBehaviour.ZinrokhAssembly.Setup()
-  nameWithType: ZinrokhAssembly.Setup()
-- uid: WarcraftLegacies.Source.ArtifactBehaviour.ZinrokhAssembly.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.ArtifactBehaviour.ZinrokhAssembly.html#WarcraftLegacies_Source_ArtifactBehaviour_ZinrokhAssembly_Setup_
-  commentId: Overload:WarcraftLegacies.Source.ArtifactBehaviour.ZinrokhAssembly.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.ArtifactBehaviour.ZinrokhAssembly.Setup
-  nameWithType: ZinrokhAssembly.Setup
 - uid: WarcraftLegacies.Source.Artifacts
   name: WarcraftLegacies.Source.Artifacts
   href: api-source/WarcraftLegacies.Source.Artifacts.html
@@ -22824,6 +22825,77 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.QuestTombOfSargeras.RewardDescription
   nameWithType: QuestTombOfSargeras.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly
+  name: QuestZinrokhAssembly
+  href: api-source/WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.html
+  commentId: T:WarcraftLegacies.Source.Quests.QuestZinrokhAssembly
+  fullName: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly
+  nameWithType: QuestZinrokhAssembly
+- uid: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.#ctor
+  name: QuestZinrokhAssembly()
+  href: api-source/WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.html#WarcraftLegacies_Source_Quests_QuestZinrokhAssembly__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.#ctor
+  fullName: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.QuestZinrokhAssembly()
+  nameWithType: QuestZinrokhAssembly.QuestZinrokhAssembly()
+- uid: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.#ctor*
+  name: QuestZinrokhAssembly
+  href: api-source/WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.html#WarcraftLegacies_Source_Quests_QuestZinrokhAssembly__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.QuestZinrokhAssembly
+  nameWithType: QuestZinrokhAssembly.QuestZinrokhAssembly
+- uid: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.html#WarcraftLegacies_Source_Quests_QuestZinrokhAssembly_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.CompletionPopup
+  nameWithType: QuestZinrokhAssembly.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.html#WarcraftLegacies_Source_Quests_QuestZinrokhAssembly_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.CompletionPopup
+  nameWithType: QuestZinrokhAssembly.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.FailurePopup
+  name: FailurePopup
+  href: api-source/WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.html#WarcraftLegacies_Source_Quests_QuestZinrokhAssembly_FailurePopup
+  commentId: P:WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.FailurePopup
+  fullName: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.FailurePopup
+  nameWithType: QuestZinrokhAssembly.FailurePopup
+- uid: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.FailurePopup*
+  name: FailurePopup
+  href: api-source/WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.html#WarcraftLegacies_Source_Quests_QuestZinrokhAssembly_FailurePopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.FailurePopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.FailurePopup
+  nameWithType: QuestZinrokhAssembly.FailurePopup
+- uid: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.html#WarcraftLegacies_Source_Quests_QuestZinrokhAssembly_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestZinrokhAssembly.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.html#WarcraftLegacies_Source_Quests_QuestZinrokhAssembly_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.OnComplete
+  nameWithType: QuestZinrokhAssembly.OnComplete
+- uid: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.html#WarcraftLegacies_Source_Quests_QuestZinrokhAssembly_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.RewardDescription
+  nameWithType: QuestZinrokhAssembly.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.html#WarcraftLegacies_Source_Quests_QuestZinrokhAssembly_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.RewardDescription
+  nameWithType: QuestZinrokhAssembly.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Scarlet
   name: WarcraftLegacies.Source.Quests.Scarlet
   href: api-source/WarcraftLegacies.Source.Quests.Scarlet.html
@@ -27460,6 +27532,71 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactZinrokh
   nameWithType: ArtifactSetup.ArtifactZinrokh
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.AzureFragment
+  name: AzureFragment
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_AzureFragment
+  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.AzureFragment
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.AzureFragment
+  nameWithType: ArtifactSetup.AzureFragment
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.AzureFragment*
+  name: AzureFragment
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_AzureFragment_
+  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.AzureFragment
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.AzureFragment
+  nameWithType: ArtifactSetup.AzureFragment
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.BronzeFragment
+  name: BronzeFragment
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_BronzeFragment
+  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.BronzeFragment
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.BronzeFragment
+  nameWithType: ArtifactSetup.BronzeFragment
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.BronzeFragment*
+  name: BronzeFragment
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_BronzeFragment_
+  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.BronzeFragment
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.BronzeFragment
+  nameWithType: ArtifactSetup.BronzeFragment
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.EmeraldFragment
+  name: EmeraldFragment
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_EmeraldFragment
+  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.EmeraldFragment
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.EmeraldFragment
+  nameWithType: ArtifactSetup.EmeraldFragment
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.EmeraldFragment*
+  name: EmeraldFragment
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_EmeraldFragment_
+  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.EmeraldFragment
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.EmeraldFragment
+  nameWithType: ArtifactSetup.EmeraldFragment
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ObsidianFragment
+  name: ObsidianFragment
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ObsidianFragment
+  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ObsidianFragment
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ObsidianFragment
+  nameWithType: ArtifactSetup.ObsidianFragment
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ObsidianFragment*
+  name: ObsidianFragment
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ObsidianFragment_
+  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ObsidianFragment
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ObsidianFragment
+  nameWithType: ArtifactSetup.ObsidianFragment
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.RubyFragment
+  name: RubyFragment
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_RubyFragment
+  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.RubyFragment
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.RubyFragment
+  nameWithType: ArtifactSetup.RubyFragment
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.RubyFragment*
+  name: RubyFragment
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_RubyFragment_
+  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.RubyFragment
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.RubyFragment
+  nameWithType: ArtifactSetup.RubyFragment
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ScytheOfElune
   name: ScytheOfElune
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ScytheOfElune
