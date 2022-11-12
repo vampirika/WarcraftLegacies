@@ -97,7 +97,7 @@ or to the nearest <a class="xref" href="MacroTools.ShoreSystem.Shore.html">Shore
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ArtifactSystem_ArtifactManager_Destroy_MacroTools_ArtifactSystem_Artifact_.md&amp;value=---%0Auid%3A%20MacroTools.ArtifactSystem.ArtifactManager.Destroy(MacroTools.ArtifactSystem.Artifact)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ArtifactSystem/ArtifactManager.cs/#L62">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ArtifactSystem/ArtifactManager.cs/#L71">View Source</a>
   </span>
   <a id="MacroTools_ArtifactSystem_ArtifactManager_Destroy_" data-uid="MacroTools.ArtifactSystem.ArtifactManager.Destroy*"></a>
   <h4 id="MacroTools_ArtifactSystem_ArtifactManager_Destroy_MacroTools_ArtifactSystem_Artifact_" data-uid="MacroTools.ArtifactSystem.ArtifactManager.Destroy(MacroTools.ArtifactSystem.Artifact)">Destroy(Artifact)</h4>
@@ -130,7 +130,7 @@ or to the nearest <a class="xref" href="MacroTools.ShoreSystem.Shore.html">Shore
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ArtifactSystem_ArtifactManager_GetAllArtifacts.md&amp;value=---%0Auid%3A%20MacroTools.ArtifactSystem.ArtifactManager.GetAllArtifacts%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ArtifactSystem/ArtifactManager.cs/#L53">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ArtifactSystem/ArtifactManager.cs/#L62">View Source</a>
   </span>
   <a id="MacroTools_ArtifactSystem_ArtifactManager_GetAllArtifacts_" data-uid="MacroTools.ArtifactSystem.ArtifactManager.GetAllArtifacts*"></a>
   <h4 id="MacroTools_ArtifactSystem_ArtifactManager_GetAllArtifacts" data-uid="MacroTools.ArtifactSystem.ArtifactManager.GetAllArtifacts">GetAllArtifacts()</h4>
@@ -158,10 +158,60 @@ or to the nearest <a class="xref" href="MacroTools.ShoreSystem.Shore.html">Shore
   </table>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ArtifactSystem_ArtifactManager_GetFromName_System_String_.md&amp;value=---%0Auid%3A%20MacroTools.ArtifactSystem.ArtifactManager.GetFromName(System.String)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ArtifactSystem/ArtifactManager.cs/#L38">View Source</a>
+  </span>
+  <a id="MacroTools_ArtifactSystem_ArtifactManager_GetFromName_" data-uid="MacroTools.ArtifactSystem.ArtifactManager.GetFromName*"></a>
+  <h4 id="MacroTools_ArtifactSystem_ArtifactManager_GetFromName_System_String_" data-uid="MacroTools.ArtifactSystem.ArtifactManager.GetFromName(System.String)">GetFromName(String)</h4>
+  <div class="markdown level1 summary"><p>Returns the registered <a class="xref" href="MacroTools.ArtifactSystem.Artifact.html">Artifact</a> with the given name.</p>
+<p>Case insensitive.</p>
+<p>Returns null if there is no match.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static Artifact GetFromName(string name)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">name</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="MacroTools.ArtifactSystem.Artifact.html">Artifact</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ArtifactSystem_ArtifactManager_GetFromTypeId_System_Int32_.md&amp;value=---%0Auid%3A%20MacroTools.ArtifactSystem.ArtifactManager.GetFromTypeId(System.Int32)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ArtifactSystem/ArtifactManager.cs/#L30">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ArtifactSystem/ArtifactManager.cs/#L31">View Source</a>
   </span>
   <a id="MacroTools_ArtifactSystem_ArtifactManager_GetFromTypeId_" data-uid="MacroTools.ArtifactSystem.ArtifactManager.GetFromTypeId*"></a>
   <h4 id="MacroTools_ArtifactSystem_ArtifactManager_GetFromTypeId_System_Int32_" data-uid="MacroTools.ArtifactSystem.ArtifactManager.GetFromTypeId(System.Int32)">GetFromTypeId(Int32)</h4>
@@ -210,7 +260,7 @@ If there isn't one, returns null.</p>
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ArtifactSystem_ArtifactManager_Register_MacroTools_ArtifactSystem_Artifact_.md&amp;value=---%0Auid%3A%20MacroTools.ArtifactSystem.ArtifactManager.Register(MacroTools.ArtifactSystem.Artifact)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ArtifactSystem/ArtifactManager.cs/#L35">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ArtifactSystem/ArtifactManager.cs/#L43">View Source</a>
   </span>
   <a id="MacroTools_ArtifactSystem_ArtifactManager_Register_" data-uid="MacroTools.ArtifactSystem.ArtifactManager.Register*"></a>
   <h4 id="MacroTools_ArtifactSystem_ArtifactManager_Register_MacroTools_ArtifactSystem_Artifact_" data-uid="MacroTools.ArtifactSystem.ArtifactManager.Register(MacroTools.ArtifactSystem.Artifact)">Register(Artifact)</h4>
@@ -245,7 +295,7 @@ If there isn't one, returns null.</p>
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ArtifactSystem_ArtifactManager_ArtifactRegistered.md&amp;value=---%0Auid%3A%20MacroTools.ArtifactSystem.ArtifactManager.ArtifactRegistered%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ArtifactSystem/ArtifactManager.cs/#L24">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ArtifactSystem/ArtifactManager.cs/#L25">View Source</a>
   </span>
   <h4 id="MacroTools_ArtifactSystem_ArtifactManager_ArtifactRegistered" data-uid="MacroTools.ArtifactSystem.ArtifactManager.ArtifactRegistered">ArtifactRegistered</h4>
   <div class="markdown level1 summary"><p>Fired when an <a class="xref" href="MacroTools.ArtifactSystem.Artifact.html">Artifact</a> is newly registered to the system.</p>

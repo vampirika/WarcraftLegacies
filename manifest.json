@@ -9,7 +9,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ArtifactSystem.Artifact.html",
-          "hash": "ahzsv2Up/zCR8EB312oJZA=="
+          "hash": "BvG0pcWThAHKc7sWIYySwA=="
         }
       },
       "is_incremental": false,
@@ -33,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ArtifactSystem.ArtifactManager.html",
-          "hash": "12xO7jJ+zOs19Qc5IED0Pg=="
+          "hash": "H1Bbo6z+EszsW9AIWmj9Qg=="
         }
       },
       "is_incremental": false,
@@ -417,7 +417,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.CheatSystem.Cheat.html",
-          "hash": "SIKMu8SssO3f1b1OA+HVeg=="
+          "hash": "EqW5LLpHnO1H5a6lKsmRoA=="
         }
       },
       "is_incremental": false,
@@ -514,6 +514,18 @@
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatControl.html",
           "hash": "EAovvkZfBqkFQ5L+YQJjVQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Cheats.CheatDestroy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Cheats.CheatDestroy.html",
+          "hash": "U4ltmov1mhMT4i2qSrgd0A=="
         }
       },
       "is_incremental": false,
@@ -789,7 +801,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.html",
-          "hash": "y/OC5rrp+Tv+/wxJW4vK0g=="
+          "hash": "tVbFFmOhHjeUmsqNizDYOQ=="
         }
       },
       "is_incremental": false,
@@ -3345,7 +3357,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "GXvq5Vz3PoN5YIIZGeInLQ=="
+          "hash": "WXBAt7whchO4Jd4XWgQqxw=="
         }
       },
       "is_incremental": false,
@@ -8040,7 +8052,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 662,
+          "total_file_count": 663,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

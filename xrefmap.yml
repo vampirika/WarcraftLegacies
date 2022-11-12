@@ -51,19 +51,6 @@ references:
   commentId: E:MacroTools.ArtifactSystem.Artifact.DescriptionChanged
   fullName: MacroTools.ArtifactSystem.Artifact.DescriptionChanged
   nameWithType: Artifact.DescriptionChanged
-- uid: MacroTools.ArtifactSystem.Artifact.Dispose
-  name: Dispose()
-  href: api-macroTools/MacroTools.ArtifactSystem.Artifact.html#MacroTools_ArtifactSystem_Artifact_Dispose
-  commentId: M:MacroTools.ArtifactSystem.Artifact.Dispose
-  fullName: MacroTools.ArtifactSystem.Artifact.Dispose()
-  nameWithType: Artifact.Dispose()
-- uid: MacroTools.ArtifactSystem.Artifact.Dispose*
-  name: Dispose
-  href: api-macroTools/MacroTools.ArtifactSystem.Artifact.html#MacroTools_ArtifactSystem_Artifact_Dispose_
-  commentId: Overload:MacroTools.ArtifactSystem.Artifact.Dispose
-  isSpec: "True"
-  fullName: MacroTools.ArtifactSystem.Artifact.Dispose
-  nameWithType: Artifact.Dispose
 - uid: MacroTools.ArtifactSystem.Artifact.Disposed
   name: Disposed
   href: api-macroTools/MacroTools.ArtifactSystem.Artifact.html#MacroTools_ArtifactSystem_Artifact_Disposed
@@ -311,6 +298,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.ArtifactSystem.ArtifactManager.GetAllArtifacts
   nameWithType: ArtifactManager.GetAllArtifacts
+- uid: MacroTools.ArtifactSystem.ArtifactManager.GetFromName(System.String)
+  name: GetFromName(String)
+  href: api-macroTools/MacroTools.ArtifactSystem.ArtifactManager.html#MacroTools_ArtifactSystem_ArtifactManager_GetFromName_System_String_
+  commentId: M:MacroTools.ArtifactSystem.ArtifactManager.GetFromName(System.String)
+  fullName: MacroTools.ArtifactSystem.ArtifactManager.GetFromName(System.String)
+  nameWithType: ArtifactManager.GetFromName(String)
+- uid: MacroTools.ArtifactSystem.ArtifactManager.GetFromName*
+  name: GetFromName
+  href: api-macroTools/MacroTools.ArtifactSystem.ArtifactManager.html#MacroTools_ArtifactSystem_ArtifactManager_GetFromName_
+  commentId: Overload:MacroTools.ArtifactSystem.ArtifactManager.GetFromName
+  isSpec: "True"
+  fullName: MacroTools.ArtifactSystem.ArtifactManager.GetFromName
+  nameWithType: ArtifactManager.GetFromName
 - uid: MacroTools.ArtifactSystem.ArtifactManager.GetFromTypeId(System.Int32)
   name: GetFromTypeId(Int32)
   href: api-macroTools/MacroTools.ArtifactSystem.ArtifactManager.html#MacroTools_ArtifactSystem_ArtifactManager_GetFromTypeId_System_Int32_
@@ -2099,6 +2099,54 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatControl.Setup
   nameWithType: CheatControl.Setup
+- uid: MacroTools.Cheats.CheatDestroy
+  name: CheatDestroy
+  href: api-macroTools/MacroTools.Cheats.CheatDestroy.html
+  commentId: T:MacroTools.Cheats.CheatDestroy
+  fullName: MacroTools.Cheats.CheatDestroy
+  nameWithType: CheatDestroy
+- uid: MacroTools.Cheats.CheatDestroy.Command
+  name: Command
+  href: api-macroTools/MacroTools.Cheats.CheatDestroy.html#MacroTools_Cheats_CheatDestroy_Command
+  commentId: P:MacroTools.Cheats.CheatDestroy.Command
+  fullName: MacroTools.Cheats.CheatDestroy.Command
+  nameWithType: CheatDestroy.Command
+- uid: MacroTools.Cheats.CheatDestroy.Command*
+  name: Command
+  href: api-macroTools/MacroTools.Cheats.CheatDestroy.html#MacroTools_Cheats_CheatDestroy_Command_
+  commentId: Overload:MacroTools.Cheats.CheatDestroy.Command
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatDestroy.Command
+  nameWithType: CheatDestroy.Command
+- uid: MacroTools.Cheats.CheatDestroy.Execute(player,System.String[])
+  name: Execute(player, String[])
+  href: api-macroTools/MacroTools.Cheats.CheatDestroy.html#MacroTools_Cheats_CheatDestroy_Execute_player_System_String___
+  commentId: M:MacroTools.Cheats.CheatDestroy.Execute(player,System.String[])
+  name.vb: Execute(player, String())
+  fullName: MacroTools.Cheats.CheatDestroy.Execute(player, System.String[])
+  fullName.vb: MacroTools.Cheats.CheatDestroy.Execute(player, System.String())
+  nameWithType: CheatDestroy.Execute(player, String[])
+  nameWithType.vb: CheatDestroy.Execute(player, String())
+- uid: MacroTools.Cheats.CheatDestroy.Execute*
+  name: Execute
+  href: api-macroTools/MacroTools.Cheats.CheatDestroy.html#MacroTools_Cheats_CheatDestroy_Execute_
+  commentId: Overload:MacroTools.Cheats.CheatDestroy.Execute
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatDestroy.Execute
+  nameWithType: CheatDestroy.Execute
+- uid: MacroTools.Cheats.CheatDestroy.ParameterCount
+  name: ParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatDestroy.html#MacroTools_Cheats_CheatDestroy_ParameterCount
+  commentId: P:MacroTools.Cheats.CheatDestroy.ParameterCount
+  fullName: MacroTools.Cheats.CheatDestroy.ParameterCount
+  nameWithType: CheatDestroy.ParameterCount
+- uid: MacroTools.Cheats.CheatDestroy.ParameterCount*
+  name: ParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatDestroy.html#MacroTools_Cheats_CheatDestroy_ParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatDestroy.ParameterCount
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatDestroy.ParameterCount
+  nameWithType: CheatDestroy.ParameterCount
 - uid: MacroTools.Cheats.CheatFaction
   name: CheatFaction
   href: api-macroTools/MacroTools.Cheats.CheatFaction.html
