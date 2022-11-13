@@ -3805,6 +3805,32 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.Resurrect
   nameWithType: UnitExtensions.Resurrect
+- uid: MacroTools.Extensions.UnitExtensions.SetAnimation(unit,System.String)
+  name: SetAnimation(unit, String)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetAnimation_unit_System_String_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetAnimation(unit,System.String)
+  fullName: MacroTools.Extensions.UnitExtensions.SetAnimation(unit, System.String)
+  nameWithType: UnitExtensions.SetAnimation(unit, String)
+- uid: MacroTools.Extensions.UnitExtensions.SetAnimation*
+  name: SetAnimation
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetAnimation_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetAnimation
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetAnimation
+  nameWithType: UnitExtensions.SetAnimation
+- uid: MacroTools.Extensions.UnitExtensions.SetAnimationSpeed(unit,System.Single)
+  name: SetAnimationSpeed(unit, Single)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetAnimationSpeed_unit_System_Single_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetAnimationSpeed(unit,System.Single)
+  fullName: MacroTools.Extensions.UnitExtensions.SetAnimationSpeed(unit, System.Single)
+  nameWithType: UnitExtensions.SetAnimationSpeed(unit, Single)
+- uid: MacroTools.Extensions.UnitExtensions.SetAnimationSpeed*
+  name: SetAnimationSpeed
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetAnimationSpeed_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetAnimationSpeed
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetAnimationSpeed
+  nameWithType: UnitExtensions.SetAnimationSpeed
 - uid: MacroTools.Extensions.UnitExtensions.SetInvulnerable(unit,System.Boolean)
   name: SetInvulnerable(unit, Boolean)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetInvulnerable_unit_System_Boolean_
@@ -3883,6 +3909,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.SetPosition
   nameWithType: UnitExtensions.SetPosition
+- uid: MacroTools.Extensions.UnitExtensions.SetWaygateActive(unit,System.Boolean)
+  name: SetWaygateActive(unit, Boolean)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetWaygateActive_unit_System_Boolean_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetWaygateActive(unit,System.Boolean)
+  fullName: MacroTools.Extensions.UnitExtensions.SetWaygateActive(unit, System.Boolean)
+  nameWithType: UnitExtensions.SetWaygateActive(unit, Boolean)
+- uid: MacroTools.Extensions.UnitExtensions.SetWaygateActive*
+  name: SetWaygateActive
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetWaygateActive_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetWaygateActive
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetWaygateActive
+  nameWithType: UnitExtensions.SetWaygateActive
 - uid: MacroTools.Extensions.UnitExtensions.SetWaygateDestination(unit,Point)
   name: SetWaygateDestination(unit, Point)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetWaygateDestination_unit_Point_
@@ -7252,6 +7291,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Instances.InstanceSystem.GetDistanceBetweenPointsEx
   nameWithType: InstanceSystem.GetDistanceBetweenPointsEx
+- uid: MacroTools.Instances.InstanceSystem.GetPointInstance(Point)
+  name: GetPointInstance(Point)
+  href: api-macroTools/MacroTools.Instances.InstanceSystem.html#MacroTools_Instances_InstanceSystem_GetPointInstance_Point_
+  commentId: M:MacroTools.Instances.InstanceSystem.GetPointInstance(Point)
+  fullName: MacroTools.Instances.InstanceSystem.GetPointInstance(Point)
+  nameWithType: InstanceSystem.GetPointInstance(Point)
+- uid: MacroTools.Instances.InstanceSystem.GetPointInstance*
+  name: GetPointInstance
+  href: api-macroTools/MacroTools.Instances.InstanceSystem.html#MacroTools_Instances_InstanceSystem_GetPointInstance_
+  commentId: Overload:MacroTools.Instances.InstanceSystem.GetPointInstance
+  isSpec: "True"
+  fullName: MacroTools.Instances.InstanceSystem.GetPointInstance
+  nameWithType: InstanceSystem.GetPointInstance
 - uid: MacroTools.Instances.InstanceSystem.Register(MacroTools.Instances.Instance)
   name: Register(Instance)
   href: api-macroTools/MacroTools.Instances.InstanceSystem.html#MacroTools_Instances_InstanceSystem_Register_MacroTools_Instances_Instance_
@@ -12600,6 +12652,287 @@ references:
   isSpec: "True"
   fullName: MacroTools.Spells.SiphoningRitualSpell.TargetCountLevel
   nameWithType: SiphoningRitualSpell.TargetCountLevel
+- uid: MacroTools.Spells.Slipstream
+  name: MacroTools.Spells.Slipstream
+  href: api-macroTools/MacroTools.Spells.Slipstream.html
+  commentId: N:MacroTools.Spells.Slipstream
+  fullName: MacroTools.Spells.Slipstream
+  nameWithType: MacroTools.Spells.Slipstream
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalBuff
+  name: SlipstreamPortalBuff
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalBuff.html
+  commentId: T:MacroTools.Spells.Slipstream.SlipstreamPortalBuff
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalBuff
+  nameWithType: SlipstreamPortalBuff
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.#ctor(unit,unit)
+  name: SlipstreamPortalBuff(unit, unit)
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalBuff.html#MacroTools_Spells_Slipstream_SlipstreamPortalBuff__ctor_unit_unit_
+  commentId: M:MacroTools.Spells.Slipstream.SlipstreamPortalBuff.#ctor(unit,unit)
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.SlipstreamPortalBuff(unit, unit)
+  nameWithType: SlipstreamPortalBuff.SlipstreamPortalBuff(unit, unit)
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.#ctor*
+  name: SlipstreamPortalBuff
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalBuff.html#MacroTools_Spells_Slipstream_SlipstreamPortalBuff__ctor_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamPortalBuff.#ctor
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.SlipstreamPortalBuff
+  nameWithType: SlipstreamPortalBuff.SlipstreamPortalBuff
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.Close(System.Single)
+  name: Close(Single)
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalBuff.html#MacroTools_Spells_Slipstream_SlipstreamPortalBuff_Close_System_Single_
+  commentId: M:MacroTools.Spells.Slipstream.SlipstreamPortalBuff.Close(System.Single)
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.Close(System.Single)
+  nameWithType: SlipstreamPortalBuff.Close(Single)
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.Close*
+  name: Close
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalBuff.html#MacroTools_Spells_Slipstream_SlipstreamPortalBuff_Close_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamPortalBuff.Close
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.Close
+  nameWithType: SlipstreamPortalBuff.Close
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.OnApply
+  name: OnApply()
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalBuff.html#MacroTools_Spells_Slipstream_SlipstreamPortalBuff_OnApply
+  commentId: M:MacroTools.Spells.Slipstream.SlipstreamPortalBuff.OnApply
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.OnApply()
+  nameWithType: SlipstreamPortalBuff.OnApply()
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.OnApply*
+  name: OnApply
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalBuff.html#MacroTools_Spells_Slipstream_SlipstreamPortalBuff_OnApply_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamPortalBuff.OnApply
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.OnApply
+  nameWithType: SlipstreamPortalBuff.OnApply
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.Open(System.Single)
+  name: Open(Single)
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalBuff.html#MacroTools_Spells_Slipstream_SlipstreamPortalBuff_Open_System_Single_
+  commentId: M:MacroTools.Spells.Slipstream.SlipstreamPortalBuff.Open(System.Single)
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.Open(System.Single)
+  nameWithType: SlipstreamPortalBuff.Open(Single)
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.Open*
+  name: Open
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalBuff.html#MacroTools_Spells_Slipstream_SlipstreamPortalBuff_Open_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamPortalBuff.Open
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.Open
+  nameWithType: SlipstreamPortalBuff.Open
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel
+  name: SlipstreamPortalChannel
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html
+  commentId: T:MacroTools.Spells.Slipstream.SlipstreamPortalChannel
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel
+  nameWithType: SlipstreamPortalChannel
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.#ctor(unit,System.Int32,Point)
+  name: SlipstreamPortalChannel(unit, Int32, Point)
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel__ctor_unit_System_Int32_Point_
+  commentId: M:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.#ctor(unit,System.Int32,Point)
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.SlipstreamPortalChannel(unit, System.Int32, Point)
+  nameWithType: SlipstreamPortalChannel.SlipstreamPortalChannel(unit, Int32, Point)
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.#ctor*
+  name: SlipstreamPortalChannel
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel__ctor_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.#ctor
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.SlipstreamPortalChannel
+  nameWithType: SlipstreamPortalChannel.SlipstreamPortalChannel
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.Active
+  name: Active
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_Active
+  commentId: P:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.Active
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.Active
+  nameWithType: SlipstreamPortalChannel.Active
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.Active*
+  name: Active
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_Active_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.Active
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.Active
+  nameWithType: SlipstreamPortalChannel.Active
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.ClosingDelay
+  name: ClosingDelay
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_ClosingDelay
+  commentId: P:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.ClosingDelay
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.ClosingDelay
+  nameWithType: SlipstreamPortalChannel.ClosingDelay
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.ClosingDelay*
+  name: ClosingDelay
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_ClosingDelay_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.ClosingDelay
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.ClosingDelay
+  nameWithType: SlipstreamPortalChannel.ClosingDelay
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.OnCreate
+  name: OnCreate()
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_OnCreate
+  commentId: M:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.OnCreate
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.OnCreate()
+  nameWithType: SlipstreamPortalChannel.OnCreate()
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.OnCreate*
+  name: OnCreate
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_OnCreate_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.OnCreate
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.OnCreate
+  nameWithType: SlipstreamPortalChannel.OnCreate
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.OnDispose
+  name: OnDispose()
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_OnDispose
+  commentId: M:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.OnDispose
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.OnDispose()
+  nameWithType: SlipstreamPortalChannel.OnDispose()
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.OnDispose*
+  name: OnDispose
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_OnDispose_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.OnDispose
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.OnDispose
+  nameWithType: SlipstreamPortalChannel.OnDispose
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.OpeningDelay
+  name: OpeningDelay
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_OpeningDelay
+  commentId: P:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.OpeningDelay
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.OpeningDelay
+  nameWithType: SlipstreamPortalChannel.OpeningDelay
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.OpeningDelay*
+  name: OpeningDelay
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_OpeningDelay_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.OpeningDelay
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.OpeningDelay
+  nameWithType: SlipstreamPortalChannel.OpeningDelay
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.PortalUnitTypeId
+  name: PortalUnitTypeId
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_PortalUnitTypeId
+  commentId: P:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.PortalUnitTypeId
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.PortalUnitTypeId
+  nameWithType: SlipstreamPortalChannel.PortalUnitTypeId
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.PortalUnitTypeId*
+  name: PortalUnitTypeId
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_PortalUnitTypeId_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.PortalUnitTypeId
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.PortalUnitTypeId
+  nameWithType: SlipstreamPortalChannel.PortalUnitTypeId
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalState
+  name: SlipstreamPortalState
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalState.html
+  commentId: T:MacroTools.Spells.Slipstream.SlipstreamPortalState
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalState
+  nameWithType: SlipstreamPortalState
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalState.Closed
+  name: Closed
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalState.html#MacroTools_Spells_Slipstream_SlipstreamPortalState_Closed
+  commentId: F:MacroTools.Spells.Slipstream.SlipstreamPortalState.Closed
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalState.Closed
+  nameWithType: SlipstreamPortalState.Closed
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalState.Closing
+  name: Closing
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalState.html#MacroTools_Spells_Slipstream_SlipstreamPortalState_Closing
+  commentId: F:MacroTools.Spells.Slipstream.SlipstreamPortalState.Closing
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalState.Closing
+  nameWithType: SlipstreamPortalState.Closing
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalState.Opening
+  name: Opening
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalState.html#MacroTools_Spells_Slipstream_SlipstreamPortalState_Opening
+  commentId: F:MacroTools.Spells.Slipstream.SlipstreamPortalState.Opening
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalState.Opening
+  nameWithType: SlipstreamPortalState.Opening
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalState.Stable
+  name: Stable
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalState.html#MacroTools_Spells_Slipstream_SlipstreamPortalState_Stable
+  commentId: F:MacroTools.Spells.Slipstream.SlipstreamPortalState.Stable
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalState.Stable
+  nameWithType: SlipstreamPortalState.Stable
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalState.Unopened
+  name: Unopened
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalState.html#MacroTools_Spells_Slipstream_SlipstreamPortalState_Unopened
+  commentId: F:MacroTools.Spells.Slipstream.SlipstreamPortalState.Unopened
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalState.Unopened
+  nameWithType: SlipstreamPortalState.Unopened
+- uid: MacroTools.Spells.Slipstream.SlipstreamSpell
+  name: SlipstreamSpell
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpell.html
+  commentId: T:MacroTools.Spells.Slipstream.SlipstreamSpell
+  fullName: MacroTools.Spells.Slipstream.SlipstreamSpell
+  nameWithType: SlipstreamSpell
+- uid: MacroTools.Spells.Slipstream.SlipstreamSpell.#ctor(System.Int32)
+  name: SlipstreamSpell(Int32)
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpell.html#MacroTools_Spells_Slipstream_SlipstreamSpell__ctor_System_Int32_
+  commentId: M:MacroTools.Spells.Slipstream.SlipstreamSpell.#ctor(System.Int32)
+  fullName: MacroTools.Spells.Slipstream.SlipstreamSpell.SlipstreamSpell(System.Int32)
+  nameWithType: SlipstreamSpell.SlipstreamSpell(Int32)
+- uid: MacroTools.Spells.Slipstream.SlipstreamSpell.#ctor*
+  name: SlipstreamSpell
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpell.html#MacroTools_Spells_Slipstream_SlipstreamSpell__ctor_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamSpell.#ctor
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamSpell.SlipstreamSpell
+  nameWithType: SlipstreamSpell.SlipstreamSpell
+- uid: MacroTools.Spells.Slipstream.SlipstreamSpell.ClosingDelay
+  name: ClosingDelay
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpell.html#MacroTools_Spells_Slipstream_SlipstreamSpell_ClosingDelay
+  commentId: P:MacroTools.Spells.Slipstream.SlipstreamSpell.ClosingDelay
+  fullName: MacroTools.Spells.Slipstream.SlipstreamSpell.ClosingDelay
+  nameWithType: SlipstreamSpell.ClosingDelay
+- uid: MacroTools.Spells.Slipstream.SlipstreamSpell.ClosingDelay*
+  name: ClosingDelay
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpell.html#MacroTools_Spells_Slipstream_SlipstreamSpell_ClosingDelay_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamSpell.ClosingDelay
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamSpell.ClosingDelay
+  nameWithType: SlipstreamSpell.ClosingDelay
+- uid: MacroTools.Spells.Slipstream.SlipstreamSpell.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpell.html#MacroTools_Spells_Slipstream_SlipstreamSpell_OnCast_unit_unit_Point_
+  commentId: M:MacroTools.Spells.Slipstream.SlipstreamSpell.OnCast(unit,unit,Point)
+  fullName: MacroTools.Spells.Slipstream.SlipstreamSpell.OnCast(unit, unit, Point)
+  nameWithType: SlipstreamSpell.OnCast(unit, unit, Point)
+- uid: MacroTools.Spells.Slipstream.SlipstreamSpell.OnCast*
+  name: OnCast
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpell.html#MacroTools_Spells_Slipstream_SlipstreamSpell_OnCast_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamSpell.OnCast
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamSpell.OnCast
+  nameWithType: SlipstreamSpell.OnCast
+- uid: MacroTools.Spells.Slipstream.SlipstreamSpell.OnStartCast(unit,unit,Point)
+  name: OnStartCast(unit, unit, Point)
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpell.html#MacroTools_Spells_Slipstream_SlipstreamSpell_OnStartCast_unit_unit_Point_
+  commentId: M:MacroTools.Spells.Slipstream.SlipstreamSpell.OnStartCast(unit,unit,Point)
+  fullName: MacroTools.Spells.Slipstream.SlipstreamSpell.OnStartCast(unit, unit, Point)
+  nameWithType: SlipstreamSpell.OnStartCast(unit, unit, Point)
+- uid: MacroTools.Spells.Slipstream.SlipstreamSpell.OnStartCast*
+  name: OnStartCast
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpell.html#MacroTools_Spells_Slipstream_SlipstreamSpell_OnStartCast_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamSpell.OnStartCast
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamSpell.OnStartCast
+  nameWithType: SlipstreamSpell.OnStartCast
+- uid: MacroTools.Spells.Slipstream.SlipstreamSpell.OpeningDelay
+  name: OpeningDelay
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpell.html#MacroTools_Spells_Slipstream_SlipstreamSpell_OpeningDelay
+  commentId: P:MacroTools.Spells.Slipstream.SlipstreamSpell.OpeningDelay
+  fullName: MacroTools.Spells.Slipstream.SlipstreamSpell.OpeningDelay
+  nameWithType: SlipstreamSpell.OpeningDelay
+- uid: MacroTools.Spells.Slipstream.SlipstreamSpell.OpeningDelay*
+  name: OpeningDelay
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpell.html#MacroTools_Spells_Slipstream_SlipstreamSpell_OpeningDelay_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamSpell.OpeningDelay
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamSpell.OpeningDelay
+  nameWithType: SlipstreamSpell.OpeningDelay
+- uid: MacroTools.Spells.Slipstream.SlipstreamSpell.PortalUnitTypeId
+  name: PortalUnitTypeId
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpell.html#MacroTools_Spells_Slipstream_SlipstreamSpell_PortalUnitTypeId
+  commentId: P:MacroTools.Spells.Slipstream.SlipstreamSpell.PortalUnitTypeId
+  fullName: MacroTools.Spells.Slipstream.SlipstreamSpell.PortalUnitTypeId
+  nameWithType: SlipstreamSpell.PortalUnitTypeId
+- uid: MacroTools.Spells.Slipstream.SlipstreamSpell.PortalUnitTypeId*
+  name: PortalUnitTypeId
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpell.html#MacroTools_Spells_Slipstream_SlipstreamSpell_PortalUnitTypeId_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamSpell.PortalUnitTypeId
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamSpell.PortalUnitTypeId
+  nameWithType: SlipstreamSpell.PortalUnitTypeId
 - uid: MacroTools.Spells.SolarJudgementSpell
   name: SolarJudgementSpell
   href: api-macroTools/MacroTools.Spells.SolarJudgementSpell.html
@@ -32928,6 +33261,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Spells.ScourgeSpellSetup.Setup
   nameWithType: ScourgeSpellSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup
+  name: StormwindSpellSetup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup
+  fullName: WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup
+  nameWithType: StormwindSpellSetup
+- uid: WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_StormwindSpellSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.Setup()
+  nameWithType: StormwindSpellSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_StormwindSpellSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.Setup
+  nameWithType: StormwindSpellSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.SpellsSetup
   name: SpellsSetup
   href: api-source/WarcraftLegacies.Source.Setup.SpellsSetup.html

@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Namespace WarcraftLegacies.Source.Setup.Spells
+    <title>Enum SlipstreamPortalState
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Namespace WarcraftLegacies.Source.Setup.Spells
+    <meta name="title" content="Enum SlipstreamPortalState
    ">
     <meta name="generator" content="docfx 2.56.7.0">
     
@@ -68,39 +68,57 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="WarcraftLegacies.Source.Setup.Spells">
+            <article class="content wrap" id="_content" data-uid="MacroTools.Spells.Slipstream.SlipstreamPortalState">
   
-  <h1 id="WarcraftLegacies_Source_Setup_Spells" data-uid="WarcraftLegacies.Source.Setup.Spells" class="text-break">Namespace WarcraftLegacies.Source.Setup.Spells
+  
+  <h1 id="MacroTools_Spells_Slipstream_SlipstreamPortalState" data-uid="MacroTools.Spells.Slipstream.SlipstreamPortalState" class="text-break">Enum SlipstreamPortalState
   </h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>The state a <a class="xref" href="MacroTools.Spells.Slipstream.SlipstreamPortalBuff.html">SlipstreamPortalBuff</a> is in.</p>
+</div>
   <div class="markdown level0 conceptual"></div>
-  <div class="markdown level0 remarks"></div>
-    <h3 id="classes">Classes
+  <h6><strong>Namespace</strong>: <a class="xref" href="MacroTools.Spells.Slipstream.html">MacroTools.Spells.Slipstream</a></h6>
+  <h6><strong>Assembly</strong>: MacroTools.dll</h6>
+  <h5 id="MacroTools_Spells_Slipstream_SlipstreamPortalState_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public enum SlipstreamPortalState : int</code></pre>
+  </div>
+  <h3 id="fields">Fields
   </h3>
-      <h4><a class="xref" href="WarcraftLegacies.Source.Setup.Spells.DruidsSpellSetup.html">DruidsSpellSetup</a></h4>
-      <section></section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.Setup.Spells.FrostwolfSpellSetup.html">FrostwolfSpellSetup</a></h4>
-      <section></section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.Setup.Spells.GoblinSpellSetup.html">GoblinSpellSetup</a></h4>
-      <section></section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.Setup.Spells.IllidanSpellSetup.html">IllidanSpellSetup</a></h4>
-      <section><p>Responsible for setting up <a class="xref" href="../api-macroTools/MacroTools.SpellSystem.Spell.html">Spell</a>s and <a class="xref" href="../api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html">PassiveAbility</a>s related to Illidan.</p>
-</section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup.html">KulTirasSpellSetup</a></h4>
-      <section><p>Responsible for setting up all KulTiras <a class="xref" href="../api-macroTools/MacroTools.SpellSystem.Spell.html">Spell</a>s.</p>
-</section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.Setup.Spells.LegionSpellSetup.html">LegionSpellSetup</a></h4>
-      <section></section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.Setup.Spells.LordaeronSpellSetup.html">LordaeronSpellSetup</a></h4>
-      <section></section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.Setup.Spells.QuelthalasSpellSetup.html">QuelthalasSpellSetup</a></h4>
-      <section></section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.Setup.Spells.ScourgeSpellSetup.html">ScourgeSpellSetup</a></h4>
-      <section><p>Responsible for setting up all Scourge <a class="xref" href="../api-macroTools/MacroTools.SpellSystem.Spell.html">Spell</a>s.</p>
-</section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.html">StormwindSpellSetup</a></h4>
-      <section><p>Responsible for setting up all Stormwind <a class="xref" href="../api-macroTools/MacroTools.SpellSystem.Spell.html">Spell</a>s.</p>
-</section>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    <thead>
+    <tbody>
+      <tr>
+        <td id="MacroTools_Spells_Slipstream_SlipstreamPortalState_Closed">Closed</td>
+        <td><p>The portal fully closed and cannot be used.</p>
+</td>
+      </tr>
+      <tr>
+        <td id="MacroTools_Spells_Slipstream_SlipstreamPortalState_Closing">Closing</td>
+        <td><p>The portal is in the process of closing. It can be used but will be removed soon.</p>
+</td>
+      </tr>
+      <tr>
+        <td id="MacroTools_Spells_Slipstream_SlipstreamPortalState_Opening">Opening</td>
+        <td><p>The portal is not yet open and cannot be used.</p>
+</td>
+      </tr>
+      <tr>
+        <td id="MacroTools_Spells_Slipstream_SlipstreamPortalState_Stable">Stable</td>
+        <td><p>The portal is open and can be used.</p>
+</td>
+      </tr>
+      <tr>
+        <td id="MacroTools_Spells_Slipstream_SlipstreamPortalState_Unopened">Unopened</td>
+        <td><p>The portal has not been opened yet, and cannot be used.</p>
+</td>
+      </tr>
+    </tbody>
+  </thead></thead></table>
 </article>
           </div>
           
@@ -108,6 +126,12 @@
             <div class="sideaffix">
               <div class="contribution">
                 <ul class="nav">
+                  <li>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Spells_Slipstream_SlipstreamPortalState.md&amp;value=---%0Auid%3A%20MacroTools.Spells.Slipstream.SlipstreamPortalState%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                  </li>
+                  <li>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Spells/Slipstream/SlipstreamPortalState.cs/#L6" class="contribution-link">View Source</a>
+                  </li>
                 </ul>
               </div>
               <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">

@@ -345,7 +345,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ChannelSystem.Channel.html",
-          "hash": "iUMUoV1cYI2s9m7D+tWEwA=="
+          "hash": "vJ9ttZvN9nXi1YuMGT0iIg=="
         }
       },
       "is_incremental": false,
@@ -1005,7 +1005,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.UnitExtensions.html",
-          "hash": "x55v/tc7wfoBL/hE17D0AQ=="
+          "hash": "syzTTEg0RpnORaPUFRs9SQ=="
         }
       },
       "is_incremental": false,
@@ -1581,7 +1581,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Instances.InstanceSystem.html",
-          "hash": "eWa2iAyYMtwS2WUZi2pghw=="
+          "hash": "XHC7iaiMQl3u0F0RDb3Zdw=="
         }
       },
       "is_incremental": false,
@@ -2757,7 +2757,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.SpellSystem.Spell.html",
-          "hash": "5s3TROCz8WqYRS5iDO2kMQ=="
+          "hash": "+D1JU9OlfkkpEnJZL1KOnw=="
         }
       },
       "is_incremental": false,
@@ -3046,6 +3046,66 @@
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Spells.SiphoningRitualSpell.html",
           "hash": "PeJnP0HiFV/yVH/Pbh730A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalBuff.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalBuff.html",
+          "hash": "Luvou0JTh+lCQn766vqoQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html",
+          "hash": "E3kyJJ3vfftZQbuh7SfScw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalState.html",
+          "hash": "vST+nim/62cRVcMtmqO60w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpell.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpell.html",
+          "hash": "jM+7vY6v8WEQzpzusycf9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Spells.Slipstream.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Spells.Slipstream.html",
+          "hash": "CwEXkfEXniqd+0vn1Kq78A=="
         }
       },
       "is_incremental": false,
@@ -3357,7 +3417,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "WXBAt7whchO4Jd4XWgQqxw=="
+          "hash": "BzKYBPOuCVTroLw86kzWlA=="
         }
       },
       "is_incremental": false,
@@ -7829,11 +7889,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.html",
+          "hash": "Kn4XKfkABuqVbI7IJrrc0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.html",
-          "hash": "m0mbccI7i8M6UeQyURRheA=="
+          "hash": "u2o3xcs/gZa1tp9igrasIQ=="
         }
       },
       "is_incremental": false,
@@ -7965,7 +8037,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "K4Mk3uVDoe/u2ZNa71RA/g=="
+          "hash": "gl03p9P3pY2rWAc8Gstgvw=="
         }
       },
       "is_incremental": false,
@@ -8040,7 +8112,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 662,
+          "total_file_count": 668,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
