@@ -10429,6 +10429,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.ObjectiveHeroWithLevelReachRect
   nameWithType: ObjectiveHeroWithLevelReachRect.ObjectiveHeroWithLevelReachRect
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.EnteredRegionUnitName
+  name: EnteredRegionUnitName
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveHeroWithLevelReachRect_EnteredRegionUnitName
+  commentId: P:MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.EnteredRegionUnitName
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.EnteredRegionUnitName
+  nameWithType: ObjectiveHeroWithLevelReachRect.EnteredRegionUnitName
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.EnteredRegionUnitName*
+  name: EnteredRegionUnitName
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveHeroWithLevelReachRect_EnteredRegionUnitName_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.EnteredRegionUnitName
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.EnteredRegionUnitName
+  nameWithType: ObjectiveHeroWithLevelReachRect.EnteredRegionUnitName
 - uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.Position
   name: Position
   href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveHeroWithLevelReachRect_Position
@@ -25384,19 +25397,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestStormwindCity.CompletionPopup
   nameWithType: QuestStormwindCity.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestStormwindCity.OnAdd(MacroTools.FactionSystem.Faction)
-  name: OnAdd(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestStormwindCity.html#WarcraftLegacies_Source_Quests_Stormwind_QuestStormwindCity_OnAdd_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Stormwind.QuestStormwindCity.OnAdd(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestStormwindCity.OnAdd(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestStormwindCity.OnAdd(Faction)
-- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestStormwindCity.OnAdd*
-  name: OnAdd
-  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestStormwindCity.html#WarcraftLegacies_Source_Quests_Stormwind_QuestStormwindCity_OnAdd_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Stormwind.QuestStormwindCity.OnAdd
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestStormwindCity.OnAdd
-  nameWithType: QuestStormwindCity.OnAdd
 - uid: WarcraftLegacies.Source.Quests.Stormwind.QuestStormwindCity.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
   href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestStormwindCity.html#WarcraftLegacies_Source_Quests_Stormwind_QuestStormwindCity_OnComplete_MacroTools_FactionSystem_Faction_
