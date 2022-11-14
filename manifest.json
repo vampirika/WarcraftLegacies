@@ -3693,7 +3693,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.CinematicMode.html",
-          "hash": "cdUirt03Y/IlnUHyeU49Wg=="
+          "hash": "11ekWMDKEVP67tuhNPVdXw=="
         }
       },
       "is_incremental": false,
@@ -4413,7 +4413,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestExiled.html",
-          "hash": "fwuvplfFR1YdYIwOpO5KQw=="
+          "hash": "tV8QwUgCWx8k2RUg8my6Cw=="
         }
       },
       "is_incremental": false,
@@ -5013,7 +5013,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestDominion.html",
-          "hash": "nkTCfHpK5TTC7qdtGQA/uA=="
+          "hash": "a+h3dWqAB2d5RQQywLA8lQ=="
         }
       },
       "is_incremental": false,
@@ -5061,7 +5061,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestWildhammer.html",
-          "hash": "u5FHRT4EjXv0Gbbc6qWF9Q=="
+          "hash": "YrkRElvuvmzi3Pp93RMzNA=="
         }
       },
       "is_incremental": false,
@@ -5529,7 +5529,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html",
-          "hash": "HcdL2xBnts4i/DX+YJ8p1w=="
+          "hash": "88yZVZCLiG0J5JY5HMPeiw=="
         }
       },
       "is_incremental": false,
@@ -5781,7 +5781,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.html",
-          "hash": "zmDz5NaieyWMGCAw72e/BA=="
+          "hash": "NtUSHySCQSMC63NWc3FyuQ=="
         }
       },
       "is_incremental": false,
@@ -7241,6 +7241,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html",
+          "hash": "amfDy8mCj80nnbL5WKOUDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDruids.yml",
       "output": {
         ".html": {
@@ -7485,7 +7497,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.html",
-          "hash": "+cvkM6SSlv1yUPmXRXrs+Q=="
+          "hash": "LmC74PVprmGUzd1lfqUtrA=="
         }
       },
       "is_incremental": false,
@@ -7989,7 +8001,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.TeamSetup.html",
-          "hash": "4klcEB0AZtUuArit/v5LXw=="
+          "hash": "dDP8OJ1K5nX/m4WyEK8fTA=="
         }
       },
       "is_incremental": false,
@@ -8097,7 +8109,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "cKnPxaSn+aARZLd8i/BEaQ=="
+          "hash": "OfJ2h1RO/EeCCTnPaR5cxg=="
         }
       },
       "is_incremental": false,
@@ -8172,7 +8184,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 673,
+          "total_file_count": 674,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

@@ -30221,6 +30221,38 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Shattrah
   nameWithType: LegendDraenei.Shattrah
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw
+  name: LegendDragonmaw
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html
+  commentId: T:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw
+  nameWithType: LegendDragonmaw
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendDragonmawPort
+  name: LegendDragonmawPort
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_LegendDragonmawPort
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendDragonmawPort
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendDragonmawPort
+  nameWithType: LegendDragonmaw.LegendDragonmawPort
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendDragonmawPort*
+  name: LegendDragonmawPort
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_LegendDragonmawPort_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendDragonmawPort
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendDragonmawPort
+  nameWithType: LegendDragonmaw.LegendDragonmawPort
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Setup
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Setup()
+  nameWithType: LegendDragonmaw.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Setup
+  nameWithType: LegendDragonmaw.Setup
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDruids
   name: LegendDruids
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDruids.html
@@ -33424,6 +33456,32 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.TeamSetup.Alliance
   nameWithType: TeamSetup.Alliance
+- uid: WarcraftLegacies.Source.Setup.TeamSetup.Draenei
+  name: Draenei
+  href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_Draenei
+  commentId: P:WarcraftLegacies.Source.Setup.TeamSetup.Draenei
+  fullName: WarcraftLegacies.Source.Setup.TeamSetup.Draenei
+  nameWithType: TeamSetup.Draenei
+- uid: WarcraftLegacies.Source.Setup.TeamSetup.Draenei*
+  name: Draenei
+  href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_Draenei_
+  commentId: Overload:WarcraftLegacies.Source.Setup.TeamSetup.Draenei
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.TeamSetup.Draenei
+  nameWithType: TeamSetup.Draenei
+- uid: WarcraftLegacies.Source.Setup.TeamSetup.Dragonmaw
+  name: Dragonmaw
+  href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_Dragonmaw
+  commentId: P:WarcraftLegacies.Source.Setup.TeamSetup.Dragonmaw
+  fullName: WarcraftLegacies.Source.Setup.TeamSetup.Dragonmaw
+  nameWithType: TeamSetup.Dragonmaw
+- uid: WarcraftLegacies.Source.Setup.TeamSetup.Dragonmaw*
+  name: Dragonmaw
+  href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_Dragonmaw_
+  commentId: Overload:WarcraftLegacies.Source.Setup.TeamSetup.Dragonmaw
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.TeamSetup.Dragonmaw
+  nameWithType: TeamSetup.Dragonmaw
 - uid: WarcraftLegacies.Source.Setup.TeamSetup.Forsaken
   name: Forsaken
   href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_Forsaken
