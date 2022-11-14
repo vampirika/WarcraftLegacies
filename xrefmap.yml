@@ -30227,19 +30227,19 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw
   nameWithType: LegendDragonmaw
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendDragonmawPort
-  name: LegendDragonmawPort
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_LegendDragonmawPort
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendDragonmawPort
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendDragonmawPort
-  nameWithType: LegendDragonmaw.LegendDragonmawPort
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendDragonmawPort*
-  name: LegendDragonmawPort
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_LegendDragonmawPort_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendDragonmawPort
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.DragonmawPort
+  name: DragonmawPort
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_DragonmawPort
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.DragonmawPort
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.DragonmawPort
+  nameWithType: LegendDragonmaw.DragonmawPort
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.DragonmawPort*
+  name: DragonmawPort
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_DragonmawPort_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.DragonmawPort
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendDragonmawPort
-  nameWithType: LegendDragonmaw.LegendDragonmawPort
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.DragonmawPort
+  nameWithType: LegendDragonmaw.DragonmawPort
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Setup
   name: Setup()
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_Setup
