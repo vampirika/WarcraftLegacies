@@ -1721,6 +1721,30 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Mechanics.StructurePacking.PackableStructure.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Mechanics.StructurePacking.PackableStructure.html",
+          "hash": "M16jB4/BuAHLbiinqECKdg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Mechanics.StructurePacking.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Mechanics.StructurePacking.html",
+          "hash": "RVm4MriMqsGZaMAMFNycPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Mechanics.TwilightHammer.Continent.yml",
       "output": {
         ".html": {
@@ -1809,7 +1833,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Mechanics.html",
-          "hash": "tSpxia/FzvEL+uMFxF6shg=="
+          "hash": "ZDAEEsbcItYYAcux4eMdzQ=="
         }
       },
       "is_incremental": false,
@@ -3417,7 +3441,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "BzKYBPOuCVTroLw86kzWlA=="
+          "hash": "gVCZ9X9Umf//++HTxRbw5Q=="
         }
       },
       "is_incremental": false,
@@ -3922,6 +3946,42 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Druids.html",
           "hash": "h5Kcg03iWsXTe5ByCJwcKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolfStructurePackingInit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolfStructurePackingInit.html",
+          "hash": "vKhBR/fbVwRu+1Yk6mIuuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolftructurePackingConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolftructurePackingConfig.html",
+          "hash": "V3P7wZ9YxXsazY8ItiH3fw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.html",
+          "hash": "pkZBZYjEdxWnn5dH4oOzGw=="
         }
       },
       "is_incremental": false,
@@ -4809,7 +4869,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestSeaWitch.html",
-          "hash": "HIxE71op1FkGw/zX4faSJA=="
+          "hash": "pCrJOaWwGsra8Xw5spj4cA=="
         }
       },
       "is_incremental": false,
@@ -6873,7 +6933,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.FrostwolfSetup.html",
-          "hash": "AD3g3Rq1tcZnMPbLmrVjWg=="
+          "hash": "1pOsc9P2B4CmNSwXOVZiQw=="
         }
       },
       "is_incremental": false,
@@ -8037,7 +8097,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "gl03p9P3pY2rWAc8Gstgvw=="
+          "hash": "cKnPxaSn+aARZLd8i/BEaQ=="
         }
       },
       "is_incremental": false,
@@ -8112,7 +8172,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 668,
+          "total_file_count": 673,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

@@ -7953,6 +7953,68 @@ references:
   isSpec: "True"
   fullName: MacroTools.Mechanics.DemonGates.FocalDemonGateBuff.SpawnPoint
   nameWithType: FocalDemonGateBuff.SpawnPoint
+- uid: MacroTools.Mechanics.StructurePacking
+  name: StructurePacking
+  href: api-macroTools/MacroTools.Mechanics.StructurePacking.html
+  commentId: T:MacroTools.Mechanics.StructurePacking
+  fullName: MacroTools.Mechanics.StructurePacking
+  nameWithType: StructurePacking
+- uid: MacroTools.Mechanics.StructurePacking.PackableStructure
+  name: StructurePacking.PackableStructure
+  href: api-macroTools/MacroTools.Mechanics.StructurePacking.PackableStructure.html
+  commentId: T:MacroTools.Mechanics.StructurePacking.PackableStructure
+  fullName: MacroTools.Mechanics.StructurePacking.PackableStructure
+  nameWithType: StructurePacking.PackableStructure
+- uid: MacroTools.Mechanics.StructurePacking.PackableStructure._buildAbility
+  name: _buildAbility
+  href: api-macroTools/MacroTools.Mechanics.StructurePacking.PackableStructure.html#MacroTools_Mechanics_StructurePacking_PackableStructure__buildAbility
+  commentId: F:MacroTools.Mechanics.StructurePacking.PackableStructure._buildAbility
+  fullName: MacroTools.Mechanics.StructurePacking.PackableStructure._buildAbility
+  nameWithType: StructurePacking.PackableStructure._buildAbility
+- uid: MacroTools.Mechanics.StructurePacking.PackableStructure._packedUnitId
+  name: _packedUnitId
+  href: api-macroTools/MacroTools.Mechanics.StructurePacking.PackableStructure.html#MacroTools_Mechanics_StructurePacking_PackableStructure__packedUnitId
+  commentId: F:MacroTools.Mechanics.StructurePacking.PackableStructure._packedUnitId
+  fullName: MacroTools.Mechanics.StructurePacking.PackableStructure._packedUnitId
+  nameWithType: StructurePacking.PackableStructure._packedUnitId
+- uid: MacroTools.Mechanics.StructurePacking.PackableStructure._structureId
+  name: _structureId
+  href: api-macroTools/MacroTools.Mechanics.StructurePacking.PackableStructure.html#MacroTools_Mechanics_StructurePacking_PackableStructure__structureId
+  commentId: F:MacroTools.Mechanics.StructurePacking.PackableStructure._structureId
+  fullName: MacroTools.Mechanics.StructurePacking.PackableStructure._structureId
+  nameWithType: StructurePacking.PackableStructure._structureId
+- uid: MacroTools.Mechanics.StructurePacking.PackableStructure._structureModel
+  name: _structureModel
+  href: api-macroTools/MacroTools.Mechanics.StructurePacking.PackableStructure.html#MacroTools_Mechanics_StructurePacking_PackableStructure__structureModel
+  commentId: F:MacroTools.Mechanics.StructurePacking.PackableStructure._structureModel
+  fullName: MacroTools.Mechanics.StructurePacking.PackableStructure._structureModel
+  nameWithType: StructurePacking.PackableStructure._structureModel
+- uid: MacroTools.Mechanics.StructurePacking.PackableStructure.PackUnitSetup(unit)
+  name: PackUnitSetup(unit)
+  href: api-macroTools/MacroTools.Mechanics.StructurePacking.PackableStructure.html#MacroTools_Mechanics_StructurePacking_PackableStructure_PackUnitSetup_unit_
+  commentId: M:MacroTools.Mechanics.StructurePacking.PackableStructure.PackUnitSetup(unit)
+  fullName: MacroTools.Mechanics.StructurePacking.PackableStructure.PackUnitSetup(unit)
+  nameWithType: StructurePacking.PackableStructure.PackUnitSetup(unit)
+- uid: MacroTools.Mechanics.StructurePacking.PackableStructure.PackUnitSetup*
+  name: PackUnitSetup
+  href: api-macroTools/MacroTools.Mechanics.StructurePacking.PackableStructure.html#MacroTools_Mechanics_StructurePacking_PackableStructure_PackUnitSetup_
+  commentId: Overload:MacroTools.Mechanics.StructurePacking.PackableStructure.PackUnitSetup
+  isSpec: "True"
+  fullName: MacroTools.Mechanics.StructurePacking.PackableStructure.PackUnitSetup
+  nameWithType: StructurePacking.PackableStructure.PackUnitSetup
+- uid: MacroTools.Mechanics.StructurePacking.PackableStructure.Register(System.Int32,System.Int32,System.Int32,System.String)
+  name: Register(Int32, Int32, Int32, String)
+  href: api-macroTools/MacroTools.Mechanics.StructurePacking.PackableStructure.html#MacroTools_Mechanics_StructurePacking_PackableStructure_Register_System_Int32_System_Int32_System_Int32_System_String_
+  commentId: M:MacroTools.Mechanics.StructurePacking.PackableStructure.Register(System.Int32,System.Int32,System.Int32,System.String)
+  fullName: MacroTools.Mechanics.StructurePacking.PackableStructure.Register(System.Int32, System.Int32, System.Int32, System.String)
+  nameWithType: StructurePacking.PackableStructure.Register(Int32, Int32, Int32, String)
+- uid: MacroTools.Mechanics.StructurePacking.PackableStructure.Register*
+  name: Register
+  href: api-macroTools/MacroTools.Mechanics.StructurePacking.PackableStructure.html#MacroTools_Mechanics_StructurePacking_PackableStructure_Register_
+  commentId: Overload:MacroTools.Mechanics.StructurePacking.PackableStructure.Register
+  isSpec: "True"
+  fullName: MacroTools.Mechanics.StructurePacking.PackableStructure.Register
+  nameWithType: StructurePacking.PackableStructure.Register
 - uid: MacroTools.Mechanics.TwilightHammer
   name: MacroTools.Mechanics.TwilightHammer
   href: api-macroTools/MacroTools.Mechanics.TwilightHammer.html
@@ -16150,6 +16212,50 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Mechanics.Druids.CenariusGhost.Setup
   nameWithType: CenariusGhost.Setup
+- uid: WarcraftLegacies.Source.Mechanics.Frostwolf
+  name: WarcraftLegacies.Source.Mechanics.Frostwolf
+  href: api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.html
+  commentId: N:WarcraftLegacies.Source.Mechanics.Frostwolf
+  fullName: WarcraftLegacies.Source.Mechanics.Frostwolf
+  nameWithType: WarcraftLegacies.Source.Mechanics.Frostwolf
+- uid: WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolfStructurePackingInit
+  name: FrostwolfStructurePackingInit
+  href: api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolfStructurePackingInit.html
+  commentId: T:WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolfStructurePackingInit
+  fullName: WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolfStructurePackingInit
+  nameWithType: FrostwolfStructurePackingInit
+- uid: WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolfStructurePackingInit.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolfStructurePackingInit.html#WarcraftLegacies_Source_Mechanics_Frostwolf_FrostwolfStructurePackingInit_Setup
+  commentId: M:WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolfStructurePackingInit.Setup
+  fullName: WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolfStructurePackingInit.Setup()
+  nameWithType: FrostwolfStructurePackingInit.Setup()
+- uid: WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolfStructurePackingInit.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolfStructurePackingInit.html#WarcraftLegacies_Source_Mechanics_Frostwolf_FrostwolfStructurePackingInit_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolfStructurePackingInit.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolfStructurePackingInit.Setup
+  nameWithType: FrostwolfStructurePackingInit.Setup
+- uid: WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolftructurePackingConfig
+  name: FrostwolftructurePackingConfig
+  href: api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolftructurePackingConfig.html
+  commentId: T:WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolftructurePackingConfig
+  fullName: WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolftructurePackingConfig
+  nameWithType: FrostwolftructurePackingConfig
+- uid: WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolftructurePackingConfig.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolftructurePackingConfig.html#WarcraftLegacies_Source_Mechanics_Frostwolf_FrostwolftructurePackingConfig_Setup
+  commentId: M:WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolftructurePackingConfig.Setup
+  fullName: WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolftructurePackingConfig.Setup()
+  nameWithType: FrostwolftructurePackingConfig.Setup()
+- uid: WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolftructurePackingConfig.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolftructurePackingConfig.html#WarcraftLegacies_Source_Mechanics_Frostwolf_FrostwolftructurePackingConfig_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolftructurePackingConfig.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolftructurePackingConfig.Setup
+  nameWithType: FrostwolftructurePackingConfig.Setup
 - uid: WarcraftLegacies.Source.Mechanics.Goblins
   name: WarcraftLegacies.Source.Mechanics.Goblins
   href: api-source/WarcraftLegacies.Source.Mechanics.Goblins.html
