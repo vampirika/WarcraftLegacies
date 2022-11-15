@@ -94,7 +94,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Extensions_RectangleExtensions_AddSound_Rectangle_sound_.md&amp;value=---%0Auid%3A%20MacroTools.Extensions.RectangleExtensions.AddSound(Rectangle%2Csound)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Extensions/RectangleExtensions.cs/#L17">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Extensions/RectangleExtensions.cs/#L40">View Source</a>
   </span>
   <a id="MacroTools_Extensions_RectangleExtensions_AddSound_" data-uid="MacroTools.Extensions.RectangleExtensions.AddSound*"></a>
   <h4 id="MacroTools_Extensions_RectangleExtensions_AddSound_Rectangle_sound_" data-uid="MacroTools.Extensions.RectangleExtensions.AddSound(Rectangle,sound)">AddSound(Rectangle, sound)</h4>
@@ -129,19 +129,19 @@
   </table>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Extensions_RectangleExtensions_PrepareUnitsForRescue_Rectangle_player_.md&amp;value=---%0Auid%3A%20MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle%2Cplayer)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Extensions_RectangleExtensions_PrepareUnitsForRescue_Rectangle_MacroTools_Extensions_RectangleExtensions_RescueMode_.md&amp;value=---%0Auid%3A%20MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle%2CMacroTools.Extensions.RectangleExtensions.RescueMode)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Extensions/RectangleExtensions.cs/#L31">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Extensions/RectangleExtensions.cs/#L67">View Source</a>
   </span>
   <a id="MacroTools_Extensions_RectangleExtensions_PrepareUnitsForRescue_" data-uid="MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue*"></a>
-  <h4 id="MacroTools_Extensions_RectangleExtensions_PrepareUnitsForRescue_Rectangle_player_" data-uid="MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle,player)">PrepareUnitsForRescue(Rectangle, player)</h4>
-  <div class="markdown level1 summary"><p>Renders all units inside the specified <code data-dev-comment-type="paramref" class="paramref">area</code> that belong to <code data-dev-comment-type="paramref" class="paramref">owningUnitsPlayer</code> invulnerable.</p>
+  <h4 id="MacroTools_Extensions_RectangleExtensions_PrepareUnitsForRescue_Rectangle_MacroTools_Extensions_RectangleExtensions_RescueMode_" data-uid="MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle,MacroTools.Extensions.RectangleExtensions.RescueMode)">PrepareUnitsForRescue(Rectangle, RectangleExtensions.RescueMode)</h4>
+  <div class="markdown level1 summary"><p>Creates a group of units inside the specified <code data-dev-comment-type="paramref" class="paramref">area</code> that belong to the neutral passive player.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static List&lt;unit&gt; PrepareUnitsForRescue(this Rectangle area, player owningUnitsPlayer)</code></pre>
+    <pre><code class="lang-csharp hljs">public static List&lt;unit&gt; PrepareUnitsForRescue(this Rectangle area, RectangleExtensions.RescueMode rescueMode)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -156,13 +156,13 @@
       <tr>
         <td><span class="xref">Rectangle</span></td>
         <td><span class="parametername">area</span></td>
-        <td><p>The area in which to make units invulnerable.</p>
+        <td><p>The area in which to get the group of units.</p>
 </td>
       </tr>
       <tr>
-        <td><span class="xref">player</span></td>
-        <td><span class="parametername">owningUnitsPlayer</span></td>
-        <td><p>Only units owned by this player will be made invulnerable.</p>
+        <td><a class="xref" href="MacroTools.Extensions.RectangleExtensions.RescueMode.html">RectangleExtensions.RescueMode</a></td>
+        <td><span class="parametername">rescueMode</span></td>
+        <td><p>Set the <a class="xref" href="MacroTools.Extensions.RectangleExtensions.RescueMode.html">RectangleExtensions.RescueMode</a> to use</p>
 </td>
       </tr>
     </tbody>
@@ -178,7 +178,7 @@
     <tbody>
       <tr>
         <td><span class="xref">List</span>&lt;<span class="xref">unit</span>&gt;</td>
-        <td><p>A list of all units found in the specified area that belong to <code data-dev-comment-type="paramref" class="paramref">owningUnitsPlayer</code>.</p>
+        <td><p>A list of all units found in the specified area that belong to the neutral passive player.</p>
 </td>
       </tr>
     </tbody>
@@ -194,7 +194,7 @@
                     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Extensions_RectangleExtensions.md&amp;value=---%0Auid%3A%20MacroTools.Extensions.RectangleExtensions%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Extensions/RectangleExtensions.cs/#L12" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Extensions/RectangleExtensions.cs/#L13" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>

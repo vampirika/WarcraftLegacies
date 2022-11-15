@@ -929,11 +929,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Extensions.RectangleExtensions.RescueMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Extensions.RectangleExtensions.RescueMode.html",
+          "hash": "qz+evldfwlIbwUc31HpZ9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Extensions.RectangleExtensions.yml",
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.RectangleExtensions.html",
-          "hash": "ZZLcWNBXIum+Ki4Sg/l6yA=="
+          "hash": "m3RQJnYjxhyEHeFXgueXYg=="
         }
       },
       "is_incremental": false,
@@ -1017,7 +1029,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.html",
-          "hash": "8h/qxajlHEpE7S11710Jrw=="
+          "hash": "t4smIOoH/am/y3j97r9wAw=="
         }
       },
       "is_incremental": false,
@@ -3453,7 +3465,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "/FsCkI9z5BrwET8dCcvE/Q=="
+          "hash": "bFdaGPFw/alSm5vi6Ch1hg=="
         }
       },
       "is_incremental": false,
@@ -4437,7 +4449,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestExiled.html",
-          "hash": "tV8QwUgCWx8k2RUg8my6Cw=="
+          "hash": "pN8FutIrPd//BFG3CRSPHg=="
         }
       },
       "is_incremental": false,
@@ -4737,7 +4749,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.html",
-          "hash": "vhWGUvWiZsp66l4uEUXYhw=="
+          "hash": "kfRvlNtl8uVYwiaYlDyl0w=="
         }
       },
       "is_incremental": false,
@@ -8220,7 +8232,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 677,
+          "total_file_count": 678,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
