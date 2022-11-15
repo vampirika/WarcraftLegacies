@@ -3552,6 +3552,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.GetInventoryIndexOfItemType
   nameWithType: UnitExtensions.GetInventoryIndexOfItemType
+- uid: MacroTools.Extensions.UnitExtensions.GetLevel(unit)
+  name: GetLevel(unit)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetLevel_unit_
+  commentId: M:MacroTools.Extensions.UnitExtensions.GetLevel(unit)
+  fullName: MacroTools.Extensions.UnitExtensions.GetLevel(unit)
+  nameWithType: UnitExtensions.GetLevel(unit)
+- uid: MacroTools.Extensions.UnitExtensions.GetLevel*
+  name: GetLevel
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetLevel_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.GetLevel
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.GetLevel
+  nameWithType: UnitExtensions.GetLevel
 - uid: MacroTools.Extensions.UnitExtensions.GetLifePercent(unit)
   name: GetLifePercent(unit)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetLifePercent_unit_
@@ -3630,6 +3643,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.GetRallyPoint
   nameWithType: UnitExtensions.GetRallyPoint
+- uid: MacroTools.Extensions.UnitExtensions.GetTypeId(unit)
+  name: GetTypeId(unit)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetTypeId_unit_
+  commentId: M:MacroTools.Extensions.UnitExtensions.GetTypeId(unit)
+  fullName: MacroTools.Extensions.UnitExtensions.GetTypeId(unit)
+  nameWithType: UnitExtensions.GetTypeId(unit)
+- uid: MacroTools.Extensions.UnitExtensions.GetTypeId*
+  name: GetTypeId
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetTypeId_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.GetTypeId
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.GetTypeId
+  nameWithType: UnitExtensions.GetTypeId
 - uid: MacroTools.Extensions.UnitExtensions.Heal(unit,System.Single)
   name: Heal(unit, Single)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_Heal_unit_System_Single_
@@ -3831,6 +3857,32 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.SetAnimationSpeed
   nameWithType: UnitExtensions.SetAnimationSpeed
+- uid: MacroTools.Extensions.UnitExtensions.SetColor(unit,System.Int32,System.Int32,System.Int32,System.Int32)
+  name: SetColor(unit, Int32, Int32, Int32, Int32)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetColor_unit_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetColor(unit,System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: MacroTools.Extensions.UnitExtensions.SetColor(unit, System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: UnitExtensions.SetColor(unit, Int32, Int32, Int32, Int32)
+- uid: MacroTools.Extensions.UnitExtensions.SetColor*
+  name: SetColor
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetColor_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetColor
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetColor
+  nameWithType: UnitExtensions.SetColor
+- uid: MacroTools.Extensions.UnitExtensions.SetExplodeOnDeath(unit,System.Boolean)
+  name: SetExplodeOnDeath(unit, Boolean)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetExplodeOnDeath_unit_System_Boolean_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetExplodeOnDeath(unit,System.Boolean)
+  fullName: MacroTools.Extensions.UnitExtensions.SetExplodeOnDeath(unit, System.Boolean)
+  nameWithType: UnitExtensions.SetExplodeOnDeath(unit, Boolean)
+- uid: MacroTools.Extensions.UnitExtensions.SetExplodeOnDeath*
+  name: SetExplodeOnDeath
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetExplodeOnDeath_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetExplodeOnDeath
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetExplodeOnDeath
+  nameWithType: UnitExtensions.SetExplodeOnDeath
 - uid: MacroTools.Extensions.UnitExtensions.SetInvulnerable(unit,System.Boolean)
   name: SetInvulnerable(unit, Boolean)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetInvulnerable_unit_System_Boolean_
@@ -3909,6 +3961,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.SetPosition
   nameWithType: UnitExtensions.SetPosition
+- uid: MacroTools.Extensions.UnitExtensions.SetTimedLife(unit,System.Single,System.Int32)
+  name: SetTimedLife(unit, Single, Int32)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetTimedLife_unit_System_Single_System_Int32_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetTimedLife(unit,System.Single,System.Int32)
+  fullName: MacroTools.Extensions.UnitExtensions.SetTimedLife(unit, System.Single, System.Int32)
+  nameWithType: UnitExtensions.SetTimedLife(unit, Single, Int32)
+- uid: MacroTools.Extensions.UnitExtensions.SetTimedLife*
+  name: SetTimedLife
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetTimedLife_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetTimedLife
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetTimedLife
+  nameWithType: UnitExtensions.SetTimedLife
 - uid: MacroTools.Extensions.UnitExtensions.SetWaygateActive(unit,System.Boolean)
   name: SetWaygateActive(unit, Boolean)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetWaygateActive_unit_System_Boolean_
@@ -8502,6 +8567,90 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilities.HideousAppendages.TentacleUnitTypeId
   nameWithType: HideousAppendages.TentacleUnitTypeId
+- uid: MacroTools.PassiveAbilities.PersistentSoul
+  name: PersistentSoul
+  href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html
+  commentId: T:MacroTools.PassiveAbilities.PersistentSoul
+  fullName: MacroTools.PassiveAbilities.PersistentSoul
+  nameWithType: PersistentSoul
+- uid: MacroTools.PassiveAbilities.PersistentSoul.#ctor(System.Int32,System.Int32)
+  name: PersistentSoul(Int32, Int32)
+  href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html#MacroTools_PassiveAbilities_PersistentSoul__ctor_System_Int32_System_Int32_
+  commentId: M:MacroTools.PassiveAbilities.PersistentSoul.#ctor(System.Int32,System.Int32)
+  fullName: MacroTools.PassiveAbilities.PersistentSoul.PersistentSoul(System.Int32, System.Int32)
+  nameWithType: PersistentSoul.PersistentSoul(Int32, Int32)
+- uid: MacroTools.PassiveAbilities.PersistentSoul.#ctor*
+  name: PersistentSoul
+  href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html#MacroTools_PassiveAbilities_PersistentSoul__ctor_
+  commentId: Overload:MacroTools.PassiveAbilities.PersistentSoul.#ctor
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.PersistentSoul.PersistentSoul
+  nameWithType: PersistentSoul.PersistentSoul
+- uid: MacroTools.PassiveAbilities.PersistentSoul.BuffId
+  name: BuffId
+  href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html#MacroTools_PassiveAbilities_PersistentSoul_BuffId
+  commentId: P:MacroTools.PassiveAbilities.PersistentSoul.BuffId
+  fullName: MacroTools.PassiveAbilities.PersistentSoul.BuffId
+  nameWithType: PersistentSoul.BuffId
+- uid: MacroTools.PassiveAbilities.PersistentSoul.BuffId*
+  name: BuffId
+  href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html#MacroTools_PassiveAbilities_PersistentSoul_BuffId_
+  commentId: Overload:MacroTools.PassiveAbilities.PersistentSoul.BuffId
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.PersistentSoul.BuffId
+  nameWithType: PersistentSoul.BuffId
+- uid: MacroTools.PassiveAbilities.PersistentSoul.Duration
+  name: Duration
+  href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html#MacroTools_PassiveAbilities_PersistentSoul_Duration
+  commentId: P:MacroTools.PassiveAbilities.PersistentSoul.Duration
+  fullName: MacroTools.PassiveAbilities.PersistentSoul.Duration
+  nameWithType: PersistentSoul.Duration
+- uid: MacroTools.PassiveAbilities.PersistentSoul.Duration*
+  name: Duration
+  href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html#MacroTools_PassiveAbilities_PersistentSoul_Duration_
+  commentId: Overload:MacroTools.PassiveAbilities.PersistentSoul.Duration
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.PersistentSoul.Duration
+  nameWithType: PersistentSoul.Duration
+- uid: MacroTools.PassiveAbilities.PersistentSoul.OnDeath
+  name: OnDeath()
+  href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html#MacroTools_PassiveAbilities_PersistentSoul_OnDeath
+  commentId: M:MacroTools.PassiveAbilities.PersistentSoul.OnDeath
+  fullName: MacroTools.PassiveAbilities.PersistentSoul.OnDeath()
+  nameWithType: PersistentSoul.OnDeath()
+- uid: MacroTools.PassiveAbilities.PersistentSoul.OnDeath*
+  name: OnDeath
+  href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html#MacroTools_PassiveAbilities_PersistentSoul_OnDeath_
+  commentId: Overload:MacroTools.PassiveAbilities.PersistentSoul.OnDeath
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.PersistentSoul.OnDeath
+  nameWithType: PersistentSoul.OnDeath
+- uid: MacroTools.PassiveAbilities.PersistentSoul.Radius
+  name: Radius
+  href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html#MacroTools_PassiveAbilities_PersistentSoul_Radius
+  commentId: P:MacroTools.PassiveAbilities.PersistentSoul.Radius
+  fullName: MacroTools.PassiveAbilities.PersistentSoul.Radius
+  nameWithType: PersistentSoul.Radius
+- uid: MacroTools.PassiveAbilities.PersistentSoul.Radius*
+  name: Radius
+  href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html#MacroTools_PassiveAbilities_PersistentSoul_Radius_
+  commentId: Overload:MacroTools.PassiveAbilities.PersistentSoul.Radius
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.PersistentSoul.Radius
+  nameWithType: PersistentSoul.Radius
+- uid: MacroTools.PassiveAbilities.PersistentSoul.ReanimationCountLevel
+  name: ReanimationCountLevel
+  href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html#MacroTools_PassiveAbilities_PersistentSoul_ReanimationCountLevel
+  commentId: P:MacroTools.PassiveAbilities.PersistentSoul.ReanimationCountLevel
+  fullName: MacroTools.PassiveAbilities.PersistentSoul.ReanimationCountLevel
+  nameWithType: PersistentSoul.ReanimationCountLevel
+- uid: MacroTools.PassiveAbilities.PersistentSoul.ReanimationCountLevel*
+  name: ReanimationCountLevel
+  href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html#MacroTools_PassiveAbilities_PersistentSoul_ReanimationCountLevel_
+  commentId: Overload:MacroTools.PassiveAbilities.PersistentSoul.ReanimationCountLevel
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.PersistentSoul.ReanimationCountLevel
+  nameWithType: PersistentSoul.ReanimationCountLevel
 - uid: MacroTools.PassiveAbilities.ProvidesIncome
   name: ProvidesIncome
   href: api-macroTools/MacroTools.PassiveAbilities.ProvidesIncome.html
@@ -8967,6 +9116,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilitySystem.PassiveAbility.OnCreated
   nameWithType: PassiveAbility.OnCreated
+- uid: MacroTools.PassiveAbilitySystem.PassiveAbility.OnDeath
+  name: OnDeath()
+  href: api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html#MacroTools_PassiveAbilitySystem_PassiveAbility_OnDeath
+  commentId: M:MacroTools.PassiveAbilitySystem.PassiveAbility.OnDeath
+  fullName: MacroTools.PassiveAbilitySystem.PassiveAbility.OnDeath()
+  nameWithType: PassiveAbility.OnDeath()
+- uid: MacroTools.PassiveAbilitySystem.PassiveAbility.OnDeath*
+  name: OnDeath
+  href: api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html#MacroTools_PassiveAbilitySystem_PassiveAbility_OnDeath_
+  commentId: Overload:MacroTools.PassiveAbilitySystem.PassiveAbility.OnDeath
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilitySystem.PassiveAbility.OnDeath
+  nameWithType: PassiveAbility.OnDeath
 - uid: MacroTools.PassiveAbilitySystem.PassiveAbility.OnTrained
   name: OnTrained()
   href: api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html#MacroTools_PassiveAbilitySystem_PassiveAbility_OnTrained
@@ -33247,6 +33409,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Spells.DruidsSpellSetup.Setup
   nameWithType: DruidsSpellSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup
+  name: ForsakenSpellSetup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup
+  fullName: WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup
+  nameWithType: ForsakenSpellSetup
+- uid: WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_ForsakenSpellSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.Setup()
+  nameWithType: ForsakenSpellSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_ForsakenSpellSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.Setup
+  nameWithType: ForsakenSpellSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.Spells.FrostwolfSpellSetup
   name: FrostwolfSpellSetup
   href: api-source/WarcraftLegacies.Source.Setup.Spells.FrostwolfSpellSetup.html

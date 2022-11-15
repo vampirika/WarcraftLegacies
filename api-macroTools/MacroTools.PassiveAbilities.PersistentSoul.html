@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class SpellOnAttack
+    <title>Class PersistentSoul
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class SpellOnAttack
+    <meta name="title" content="Class PersistentSoul
    ">
     <meta name="generator" content="docfx 2.56.7.0">
     
@@ -68,23 +68,19 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="MacroTools.PassiveAbilities.SpellOnAttack">
+            <article class="content wrap" id="_content" data-uid="MacroTools.PassiveAbilities.PersistentSoul">
   
   
-  <h1 id="MacroTools_PassiveAbilities_SpellOnAttack" data-uid="MacroTools.PassiveAbilities.SpellOnAttack" class="text-break">Class SpellOnAttack
+  <h1 id="MacroTools_PassiveAbilities_PersistentSoul" data-uid="MacroTools.PassiveAbilities.PersistentSoul" class="text-break">Class PersistentSoul
   </h1>
-  <div class="markdown level0 summary"><p>When the unit deals damage, it has a chance to cast a dummy spell against that target.</p>
+  <div class="markdown level0 summary"><p>When the unit dies, it reanimates nearby friendly units.</p>
 </div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><span class="xref">System.Object</span></div>
     <div class="level1"><a class="xref" href="MacroTools.PassiveAbilitySystem.PassiveAbility.html">PassiveAbility</a></div>
-    <div class="level2"><span class="xref">SpellOnAttack</span></div>
-  </div>
-  <div classs="implements">
-    <h5>Implements</h5>
-    <div><a class="xref" href="MacroTools.PassiveAbilitySystem.IAppliesEffectOnDamage.html">IAppliesEffectOnDamage</a></div>
+    <div class="level2"><span class="xref">PersistentSoul</span></div>
   </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
@@ -93,9 +89,6 @@
     </div>
     <div>
       <a class="xref" href="MacroTools.PassiveAbilitySystem.PassiveAbility.html#MacroTools_PassiveAbilitySystem_PassiveAbility_OnUpgrade">PassiveAbility.OnUpgrade()</a>
-    </div>
-    <div>
-      <a class="xref" href="MacroTools.PassiveAbilitySystem.PassiveAbility.html#MacroTools_PassiveAbilitySystem_PassiveAbility_OnDeath">PassiveAbility.OnDeath()</a>
     </div>
     <div>
       <a class="xref" href="MacroTools.PassiveAbilitySystem.PassiveAbility.html#MacroTools_PassiveAbilitySystem_PassiveAbility_OnConstruction">PassiveAbility.OnConstruction()</a>
@@ -112,27 +105,27 @@
   </div>
   <h6><strong>Namespace</strong>: <a class="xref" href="MacroTools.PassiveAbilities.html">MacroTools.PassiveAbilities</a></h6>
   <h6><strong>Assembly</strong>: MacroTools.dll</h6>
-  <h5 id="MacroTools_PassiveAbilities_SpellOnAttack_syntax">Syntax</h5>
+  <h5 id="MacroTools_PassiveAbilities_PersistentSoul_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public sealed class SpellOnAttack : PassiveAbility, IAppliesEffectOnDamage</code></pre>
+    <pre><code class="lang-csharp hljs">public sealed class PersistentSoul : PassiveAbility</code></pre>
   </div>
   <h3 id="constructors">Constructors
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_SpellOnAttack__ctor_System_Int32_System_Int32_.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.SpellOnAttack.%23ctor(System.Int32%2CSystem.Int32)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_PersistentSoul__ctor_System_Int32_System_Int32_.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.PersistentSoul.%23ctor(System.Int32%2CSystem.Int32)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/SpellOnAttack.cs/#L37">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/PersistentSoul.cs/#L21">View Source</a>
   </span>
-  <a id="MacroTools_PassiveAbilities_SpellOnAttack__ctor_" data-uid="MacroTools.PassiveAbilities.SpellOnAttack.#ctor*"></a>
-  <h4 id="MacroTools_PassiveAbilities_SpellOnAttack__ctor_System_Int32_System_Int32_" data-uid="MacroTools.PassiveAbilities.SpellOnAttack.#ctor(System.Int32,System.Int32)">SpellOnAttack(Int32, Int32)</h4>
-  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="MacroTools.PassiveAbilities.SpellOnAttack.html">SpellOnAttack</a> class.</p>
+  <a id="MacroTools_PassiveAbilities_PersistentSoul__ctor_" data-uid="MacroTools.PassiveAbilities.PersistentSoul.#ctor*"></a>
+  <h4 id="MacroTools_PassiveAbilities_PersistentSoul__ctor_System_Int32_System_Int32_" data-uid="MacroTools.PassiveAbilities.PersistentSoul.#ctor(System.Int32,System.Int32)">PersistentSoul(Int32, Int32)</h4>
+  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="MacroTools.PassiveAbilities.PersistentSoul.html">PersistentSoul</a> class.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public SpellOnAttack(int unitTypeId, int abilityTypeId)</code></pre>
+    <pre><code class="lang-csharp hljs">public PersistentSoul(int unitTypeId, int abilityTypeId)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -153,7 +146,7 @@
       <tr>
         <td><span class="xref">System.Int32</span></td>
         <td><span class="parametername">abilityTypeId</span></td>
-        <td><p>The ability the provided unit type has which represents this object.</p>
+        <td><p>The ability ID that determines the effect's level.</p>
 </td>
       </tr>
     </tbody>
@@ -162,19 +155,19 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_SpellOnAttack_AbilityTypeId.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.SpellOnAttack.AbilityTypeId%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_PersistentSoul_BuffId.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.PersistentSoul.BuffId%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/SpellOnAttack.cs/#L15">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/PersistentSoul.cs/#L39">View Source</a>
   </span>
-  <a id="MacroTools_PassiveAbilities_SpellOnAttack_AbilityTypeId_" data-uid="MacroTools.PassiveAbilities.SpellOnAttack.AbilityTypeId*"></a>
-  <h4 id="MacroTools_PassiveAbilities_SpellOnAttack_AbilityTypeId" data-uid="MacroTools.PassiveAbilities.SpellOnAttack.AbilityTypeId">AbilityTypeId</h4>
-  <div class="markdown level1 summary"><p>The unit type ID which has this <a class="xref" href="MacroTools.PassiveAbilitySystem.PassiveAbility.html">PassiveAbility</a> should also have an ability with this ID.</p>
+  <a id="MacroTools_PassiveAbilities_PersistentSoul_BuffId_" data-uid="MacroTools.PassiveAbilities.PersistentSoul.BuffId*"></a>
+  <h4 id="MacroTools_PassiveAbilities_PersistentSoul_BuffId" data-uid="MacroTools.PassiveAbilities.PersistentSoul.BuffId">BuffId</h4>
+  <div class="markdown level1 summary"><p>Used to determine the reanimation buff's name.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public int AbilityTypeId { get; }</code></pre>
+    <pre><code class="lang-csharp hljs">public int BuffId { get; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -193,81 +186,19 @@
   </table>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_SpellOnAttack_DummyAbilityId.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.SpellOnAttack.DummyAbilityId%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_PersistentSoul_Duration.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.PersistentSoul.Duration%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/SpellOnAttack.cs/#L20">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/PersistentSoul.cs/#L34">View Source</a>
   </span>
-  <a id="MacroTools_PassiveAbilities_SpellOnAttack_DummyAbilityId_" data-uid="MacroTools.PassiveAbilities.SpellOnAttack.DummyAbilityId*"></a>
-  <h4 id="MacroTools_PassiveAbilities_SpellOnAttack_DummyAbilityId" data-uid="MacroTools.PassiveAbilities.SpellOnAttack.DummyAbilityId">DummyAbilityId</h4>
-  <div class="markdown level1 summary"><p>The dummy spell to cast on attack.</p>
+  <a id="MacroTools_PassiveAbilities_PersistentSoul_Duration_" data-uid="MacroTools.PassiveAbilities.PersistentSoul.Duration*"></a>
+  <h4 id="MacroTools_PassiveAbilities_PersistentSoul_Duration" data-uid="MacroTools.PassiveAbilities.PersistentSoul.Duration">Duration</h4>
+  <div class="markdown level1 summary"><p>How long the reanimated units should last.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public int DummyAbilityId { get; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">System.Int32</span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  <span class="small pull-right mobile-hide">
-    <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_SpellOnAttack_DummyOrderString.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.SpellOnAttack.DummyOrderString%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
-  </span>
-  <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/SpellOnAttack.cs/#L25">View Source</a>
-  </span>
-  <a id="MacroTools_PassiveAbilities_SpellOnAttack_DummyOrderString_" data-uid="MacroTools.PassiveAbilities.SpellOnAttack.DummyOrderString*"></a>
-  <h4 id="MacroTools_PassiveAbilities_SpellOnAttack_DummyOrderString" data-uid="MacroTools.PassiveAbilities.SpellOnAttack.DummyOrderString">DummyOrderString</h4>
-  <div class="markdown level1 summary"><p>An order string that can be used to cast the specified dummy ability.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public string DummyOrderString { get; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">System.String</span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  <span class="small pull-right mobile-hide">
-    <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_SpellOnAttack_ProcChance.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.SpellOnAttack.ProcChance%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
-  </span>
-  <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/SpellOnAttack.cs/#L30">View Source</a>
-  </span>
-  <a id="MacroTools_PassiveAbilities_SpellOnAttack_ProcChance_" data-uid="MacroTools.PassiveAbilities.SpellOnAttack.ProcChance*"></a>
-  <h4 id="MacroTools_PassiveAbilities_SpellOnAttack_ProcChance" data-uid="MacroTools.PassiveAbilities.SpellOnAttack.ProcChance">ProcChance</h4>
-  <div class="markdown level1 summary"><p>The percentage chance that the effect will occur on attack.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public float ProcChance { get; }</code></pre>
+    <pre><code class="lang-csharp hljs">public float Duration { get; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -284,28 +215,88 @@
       </tr>
     </tbody>
   </table>
-  <h3 id="methods">Methods
-  </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_SpellOnAttack_OnDealsDamage.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.SpellOnAttack.OnDealsDamage%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_PersistentSoul_Radius.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.PersistentSoul.Radius%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/SpellOnAttack.cs/#L43">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/PersistentSoul.cs/#L44">View Source</a>
   </span>
-  <a id="MacroTools_PassiveAbilities_SpellOnAttack_OnDealsDamage_" data-uid="MacroTools.PassiveAbilities.SpellOnAttack.OnDealsDamage*"></a>
-  <h4 id="MacroTools_PassiveAbilities_SpellOnAttack_OnDealsDamage" data-uid="MacroTools.PassiveAbilities.SpellOnAttack.OnDealsDamage">OnDealsDamage()</h4>
-  <div class="markdown level1 summary"><p>A response to a unit dealing damage.</p>
+  <a id="MacroTools_PassiveAbilities_PersistentSoul_Radius_" data-uid="MacroTools.PassiveAbilities.PersistentSoul.Radius*"></a>
+  <h4 id="MacroTools_PassiveAbilities_PersistentSoul_Radius" data-uid="MacroTools.PassiveAbilities.PersistentSoul.Radius">Radius</h4>
+  <div class="markdown level1 summary"><p>How far away corpses can be to be a candidate for reanimation.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void OnDealsDamage()</code></pre>
+    <pre><code class="lang-csharp hljs">public float Radius { get; }</code></pre>
   </div>
-  <h3 id="implements">Implements</h3>
-  <div>
-      <a class="xref" href="MacroTools.PassiveAbilitySystem.IAppliesEffectOnDamage.html">IAppliesEffectOnDamage</a>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_PersistentSoul_ReanimationCountLevel.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.PersistentSoul.ReanimationCountLevel%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/PersistentSoul.cs/#L29">View Source</a>
+  </span>
+  <a id="MacroTools_PassiveAbilities_PersistentSoul_ReanimationCountLevel_" data-uid="MacroTools.PassiveAbilities.PersistentSoul.ReanimationCountLevel*"></a>
+  <h4 id="MacroTools_PassiveAbilities_PersistentSoul_ReanimationCountLevel" data-uid="MacroTools.PassiveAbilities.PersistentSoul.ReanimationCountLevel">ReanimationCountLevel</h4>
+  <div class="markdown level1 summary"><p>How many units this ability reanimates per level.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int ReanimationCountLevel { get; }</code></pre>
   </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_PersistentSoul_OnDeath.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.PersistentSoul.OnDeath%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/PersistentSoul.cs/#L47">View Source</a>
+  </span>
+  <a id="MacroTools_PassiveAbilities_PersistentSoul_OnDeath_" data-uid="MacroTools.PassiveAbilities.PersistentSoul.OnDeath*"></a>
+  <h4 id="MacroTools_PassiveAbilities_PersistentSoul_OnDeath" data-uid="MacroTools.PassiveAbilities.PersistentSoul.OnDeath">OnDeath()</h4>
+  <div class="markdown level1 summary"><p>Fired when the unit dies.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override void OnDeath()</code></pre>
+  </div>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="MacroTools.PassiveAbilitySystem.PassiveAbility.html#MacroTools_PassiveAbilitySystem_PassiveAbility_OnDeath">PassiveAbility.OnDeath()</a></div>
 </article>
           </div>
           
@@ -314,10 +305,10 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_SpellOnAttack.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.SpellOnAttack%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_PersistentSoul.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.PersistentSoul%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/SpellOnAttack.cs/#L10" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/PersistentSoul.cs/#L12" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>

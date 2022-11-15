@@ -86,6 +86,7 @@
       <div class="level2"><a class="xref" href="MacroTools.PassiveAbilities.AnimationSpeedMultiplier.html">AnimationSpeedMultiplier</a></div>
       <div class="level2"><a class="xref" href="MacroTools.PassiveAbilities.Execute.html">Execute</a></div>
       <div class="level2"><a class="xref" href="MacroTools.PassiveAbilities.HideousAppendages.html">HideousAppendages</a></div>
+      <div class="level2"><a class="xref" href="MacroTools.PassiveAbilities.PersistentSoul.html">PersistentSoul</a></div>
       <div class="level2"><a class="xref" href="MacroTools.PassiveAbilities.ProvidesIncome.html">ProvidesIncome</a></div>
       <div class="level2"><a class="xref" href="MacroTools.PassiveAbilities.RegionRestricted.html">RegionRestricted</a></div>
       <div class="level2"><a class="xref" href="MacroTools.PassiveAbilities.ResurrectionAura.html">ResurrectionAura</a></div>
@@ -209,7 +210,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilitySystem_PassiveAbility_OnConstruction.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilitySystem.PassiveAbility.OnConstruction%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilitySystem/PassiveAbility.cs/#L44">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilitySystem/PassiveAbility.cs/#L51">View Source</a>
   </span>
   <a id="MacroTools_PassiveAbilitySystem_PassiveAbility_OnConstruction_" data-uid="MacroTools.PassiveAbilitySystem.PassiveAbility.OnConstruction*"></a>
   <h4 id="MacroTools_PassiveAbilitySystem_PassiveAbility_OnConstruction" data-uid="MacroTools.PassiveAbilitySystem.PassiveAbility.OnConstruction">OnConstruction()</h4>
@@ -225,7 +226,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilitySystem_PassiveAbility_OnCreated_unit_.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilitySystem.PassiveAbility.OnCreated(unit)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilitySystem/PassiveAbility.cs/#L52">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilitySystem/PassiveAbility.cs/#L59">View Source</a>
   </span>
   <a id="MacroTools_PassiveAbilitySystem_PassiveAbility_OnCreated_" data-uid="MacroTools.PassiveAbilitySystem.PassiveAbility.OnCreated*"></a>
   <h4 id="MacroTools_PassiveAbilitySystem_PassiveAbility_OnCreated_unit_" data-uid="MacroTools.PassiveAbilitySystem.PassiveAbility.OnCreated(unit)">OnCreated(unit)</h4>
@@ -255,10 +256,26 @@
   </table>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilitySystem_PassiveAbility_OnDeath.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilitySystem.PassiveAbility.OnDeath%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilitySystem/PassiveAbility.cs/#L44">View Source</a>
+  </span>
+  <a id="MacroTools_PassiveAbilitySystem_PassiveAbility_OnDeath_" data-uid="MacroTools.PassiveAbilitySystem.PassiveAbility.OnDeath*"></a>
+  <h4 id="MacroTools_PassiveAbilitySystem_PassiveAbility_OnDeath" data-uid="MacroTools.PassiveAbilitySystem.PassiveAbility.OnDeath">OnDeath()</h4>
+  <div class="markdown level1 summary"><p>Fired when the unit dies.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual void OnDeath()</code></pre>
+  </div>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilitySystem_PassiveAbility_OnTrained.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilitySystem.PassiveAbility.OnTrained%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilitySystem/PassiveAbility.cs/#L59">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilitySystem/PassiveAbility.cs/#L66">View Source</a>
   </span>
   <a id="MacroTools_PassiveAbilitySystem_PassiveAbility_OnTrained_" data-uid="MacroTools.PassiveAbilitySystem.PassiveAbility.OnTrained*"></a>
   <h4 id="MacroTools_PassiveAbilitySystem_PassiveAbility_OnTrained" data-uid="MacroTools.PassiveAbilitySystem.PassiveAbility.OnTrained">OnTrained()</h4>
@@ -274,7 +291,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilitySystem_PassiveAbility_OnTrainedUnit.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilitySystem.PassiveAbility.OnTrainedUnit%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilitySystem/PassiveAbility.cs/#L66">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilitySystem/PassiveAbility.cs/#L73">View Source</a>
   </span>
   <a id="MacroTools_PassiveAbilitySystem_PassiveAbility_OnTrainedUnit_" data-uid="MacroTools.PassiveAbilitySystem.PassiveAbility.OnTrainedUnit*"></a>
   <h4 id="MacroTools_PassiveAbilitySystem_PassiveAbility_OnTrainedUnit" data-uid="MacroTools.PassiveAbilitySystem.PassiveAbility.OnTrainedUnit">OnTrainedUnit()</h4>
