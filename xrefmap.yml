@@ -1151,19 +1151,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Buffs.OilProducerBuff.OnDispose
   nameWithType: OilProducerBuff.OnDispose
-- uid: MacroTools.Buffs.OilProducerBuff.OnTick
-  name: OnTick()
-  href: api-macroTools/MacroTools.Buffs.OilProducerBuff.html#MacroTools_Buffs_OilProducerBuff_OnTick
-  commentId: M:MacroTools.Buffs.OilProducerBuff.OnTick
-  fullName: MacroTools.Buffs.OilProducerBuff.OnTick()
-  nameWithType: OilProducerBuff.OnTick()
-- uid: MacroTools.Buffs.OilProducerBuff.OnTick*
-  name: OnTick
-  href: api-macroTools/MacroTools.Buffs.OilProducerBuff.html#MacroTools_Buffs_OilProducerBuff_OnTick_
-  commentId: Overload:MacroTools.Buffs.OilProducerBuff.OnTick
-  isSpec: "True"
-  fullName: MacroTools.Buffs.OilProducerBuff.OnTick
-  nameWithType: OilProducerBuff.OnTick
 - uid: MacroTools.Buffs.OilUserBuff
   name: OilUserBuff
   href: api-macroTools/MacroTools.Buffs.OilUserBuff.html
@@ -9129,6 +9116,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilitySystem.PassiveAbility.OnDeath
   nameWithType: PassiveAbility.OnDeath
+- uid: MacroTools.PassiveAbilitySystem.PassiveAbility.OnOrderIssued
+  name: OnOrderIssued()
+  href: api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html#MacroTools_PassiveAbilitySystem_PassiveAbility_OnOrderIssued
+  commentId: M:MacroTools.PassiveAbilitySystem.PassiveAbility.OnOrderIssued
+  fullName: MacroTools.PassiveAbilitySystem.PassiveAbility.OnOrderIssued()
+  nameWithType: PassiveAbility.OnOrderIssued()
+- uid: MacroTools.PassiveAbilitySystem.PassiveAbility.OnOrderIssued*
+  name: OnOrderIssued
+  href: api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html#MacroTools_PassiveAbilitySystem_PassiveAbility_OnOrderIssued_
+  commentId: Overload:MacroTools.PassiveAbilitySystem.PassiveAbility.OnOrderIssued
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilitySystem.PassiveAbility.OnOrderIssued
+  nameWithType: PassiveAbility.OnOrderIssued
 - uid: MacroTools.PassiveAbilitySystem.PassiveAbility.OnTrained
   name: OnTrained()
   href: api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html#MacroTools_PassiveAbilitySystem_PassiveAbility_OnTrained
@@ -16430,12 +16430,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch
   fullName: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch
   nameWithType: NuclearLaunch
-- uid: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.#ctor(System.Int32,System.String,System.Int32,System.Int32,System.Single)
-  name: NuclearLaunch(Int32, String, Int32, Int32, Single)
-  href: api-source/WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.html#WarcraftLegacies_Source_Mechanics_Goblins_NuclearLaunch__ctor_System_Int32_System_String_System_Int32_System_Int32_System_Single_
-  commentId: M:WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.#ctor(System.Int32,System.String,System.Int32,System.Int32,System.Single)
-  fullName: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.NuclearLaunch(System.Int32, System.String, System.Int32, System.Int32, System.Single)
-  nameWithType: NuclearLaunch.NuclearLaunch(Int32, String, Int32, Int32, Single)
+- uid: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.#ctor(System.Int32,System.Int32)
+  name: NuclearLaunch(Int32, Int32)
+  href: api-source/WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.html#WarcraftLegacies_Source_Mechanics_Goblins_NuclearLaunch__ctor_System_Int32_System_Int32_
+  commentId: M:WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.#ctor(System.Int32,System.Int32)
+  fullName: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.NuclearLaunch(System.Int32, System.Int32)
+  nameWithType: NuclearLaunch.NuclearLaunch(Int32, Int32)
 - uid: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.#ctor*
   name: NuclearLaunch
   href: api-source/WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.html#WarcraftLegacies_Source_Mechanics_Goblins_NuclearLaunch__ctor_
@@ -16456,19 +16456,38 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.OnCast
   nameWithType: NuclearLaunch.OnCast
-- uid: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.OnStartCast(unit,unit,Point)
-  name: OnStartCast(unit, unit, Point)
-  href: api-source/WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.html#WarcraftLegacies_Source_Mechanics_Goblins_NuclearLaunch_OnStartCast_unit_unit_Point_
-  commentId: M:WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.OnStartCast(unit,unit,Point)
-  fullName: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.OnStartCast(unit, unit, Point)
-  nameWithType: NuclearLaunch.OnStartCast(unit, unit, Point)
-- uid: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.OnStartCast*
-  name: OnStartCast
-  href: api-source/WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.html#WarcraftLegacies_Source_Mechanics_Goblins_NuclearLaunch_OnStartCast_
-  commentId: Overload:WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.OnStartCast
+- uid: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning
+  name: NuclearLaunchWarning
+  href: api-source/WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning.html
+  commentId: T:WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning
+  fullName: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning
+  nameWithType: NuclearLaunchWarning
+- uid: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning.#ctor(System.Int32,System.Int32,System.String,System.Single)
+  name: NuclearLaunchWarning(Int32, Int32, String, Single)
+  href: api-source/WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning.html#WarcraftLegacies_Source_Mechanics_Goblins_NuclearLaunchWarning__ctor_System_Int32_System_Int32_System_String_System_Single_
+  commentId: M:WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning.#ctor(System.Int32,System.Int32,System.String,System.Single)
+  fullName: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning.NuclearLaunchWarning(System.Int32, System.Int32, System.String, System.Single)
+  nameWithType: NuclearLaunchWarning.NuclearLaunchWarning(Int32, Int32, String, Single)
+- uid: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning.#ctor*
+  name: NuclearLaunchWarning
+  href: api-source/WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning.html#WarcraftLegacies_Source_Mechanics_Goblins_NuclearLaunchWarning__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning.#ctor
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.OnStartCast
-  nameWithType: NuclearLaunch.OnStartCast
+  fullName: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning.NuclearLaunchWarning
+  nameWithType: NuclearLaunchWarning.NuclearLaunchWarning
+- uid: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning.OnOrderIssued
+  name: OnOrderIssued()
+  href: api-source/WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning.html#WarcraftLegacies_Source_Mechanics_Goblins_NuclearLaunchWarning_OnOrderIssued
+  commentId: M:WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning.OnOrderIssued
+  fullName: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning.OnOrderIssued()
+  nameWithType: NuclearLaunchWarning.OnOrderIssued()
+- uid: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning.OnOrderIssued*
+  name: OnOrderIssued
+  href: api-source/WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning.html#WarcraftLegacies_Source_Mechanics_Goblins_NuclearLaunchWarning_OnOrderIssued_
+  commentId: Overload:WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning.OnOrderIssued
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning.OnOrderIssued
+  nameWithType: NuclearLaunchWarning.OnOrderIssued
 - uid: WarcraftLegacies.Source.Mechanics.Goblins.OilProducer
   name: OilProducer
   href: api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilProducer.html
