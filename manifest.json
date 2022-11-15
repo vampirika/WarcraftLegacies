@@ -4517,11 +4517,35 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.html",
+          "hash": "nm6aA/xr0IuUFtJfPUWtmA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.html",
+          "hash": "Y31Qpi93ilmxkNIhj5Tljw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.html",
-          "hash": "N7FnxO3RlZQ8VEZsfVY8vA=="
+          "hash": "7fLZ07N+3+h2DiH3aU1yHA=="
         }
       },
       "is_incremental": false,
@@ -4533,7 +4557,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.html",
-          "hash": "9R4WNX+IDRpqhuRownAnvg=="
+          "hash": "cXMho0+e0HzMcKNcdaYTWA=="
         }
       },
       "is_incremental": false,
@@ -6113,35 +6137,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.html",
-          "hash": "2IGTd4Xn9Ae7rOTK1cKkWQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Twilight.QuestFeludius.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Twilight.QuestFeludius.html",
           "hash": "Qq5k5lA4757u2nt7uy+MVw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.html",
-          "hash": "+L8OTicdLVpxgsND14k6/g=="
         }
       },
       "is_incremental": false,
@@ -6189,7 +6189,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Twilight.html",
-          "hash": "G1YzDeApx0zppKaTOAt1yQ=="
+          "hash": "Q+JSMOr9rwdwfkWVnhkfpQ=="
         }
       },
       "is_incremental": false,
@@ -7605,7 +7605,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.DragonmawQuestSetup.html",
-          "hash": "QAVTaHM9JPYm2gh/w7R9WA=="
+          "hash": "HF88kWhTBwVPxpCg+9NrPw=="
         }
       },
       "is_incremental": false,
@@ -7821,7 +7821,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.html",
-          "hash": "Ee+TES04os0uyrQL9giJ4g=="
+          "hash": "AZ58lgzNrKG5lujwaqlCjw=="
         }
       },
       "is_incremental": false,
@@ -8145,7 +8145,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "rkaU0CM9Im7QTr9qO0SzDg=="
+          "hash": "D9nTuYSTjbB7cx4rdhbZ1A=="
         }
       },
       "is_incremental": false,

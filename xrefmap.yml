@@ -18191,18 +18191,160 @@ references:
   commentId: N:WarcraftLegacies.Source.Quests.Dragonmaw
   fullName: WarcraftLegacies.Source.Quests.Dragonmaw
   nameWithType: WarcraftLegacies.Source.Quests.Dragonmaw
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort
+  name: QuestDragonmawPort
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.html
+  commentId: T:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort
+  nameWithType: QuestDragonmawPort
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.#ctor(Rectangle)
+  name: QuestDragonmawPort(Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDragonmawPort__ctor_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.#ctor(Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.QuestDragonmawPort(Rectangle)
+  nameWithType: QuestDragonmawPort.QuestDragonmawPort(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.#ctor*
+  name: QuestDragonmawPort
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDragonmawPort__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.QuestDragonmawPort
+  nameWithType: QuestDragonmawPort.QuestDragonmawPort
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDragonmawPort_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.CompletionPopup
+  nameWithType: QuestDragonmawPort.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDragonmawPort_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.CompletionPopup
+  nameWithType: QuestDragonmawPort.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDragonmawPort_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestDragonmawPort.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDragonmawPort_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.OnComplete
+  nameWithType: QuestDragonmawPort.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.OnFail(MacroTools.FactionSystem.Faction)
+  name: OnFail(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDragonmawPort_OnFail_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.OnFail(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.OnFail(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestDragonmawPort.OnFail(Faction)
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.OnFail*
+  name: OnFail
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDragonmawPort_OnFail_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.OnFail
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.OnFail
+  nameWithType: QuestDragonmawPort.OnFail
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDragonmawPort_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.RewardDescription
+  nameWithType: QuestDragonmawPort.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDragonmawPort_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.RewardDescription
+  nameWithType: QuestDragonmawPort.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol
+  name: QuestGrimBatol
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.html
+  commentId: T:WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol
+  nameWithType: QuestGrimBatol
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.#ctor(Rectangle,unit,unit,unit)
+  name: QuestGrimBatol(Rectangle, unit, unit, unit)
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestGrimBatol__ctor_Rectangle_unit_unit_unit_
+  commentId: M:WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.#ctor(Rectangle,unit,unit,unit)
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.QuestGrimBatol(Rectangle, unit, unit, unit)
+  nameWithType: QuestGrimBatol.QuestGrimBatol(Rectangle, unit, unit, unit)
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.#ctor*
+  name: QuestGrimBatol
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestGrimBatol__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.QuestGrimBatol
+  nameWithType: QuestGrimBatol.QuestGrimBatol
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestGrimBatol_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.CompletionPopup
+  nameWithType: QuestGrimBatol.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestGrimBatol_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.CompletionPopup
+  nameWithType: QuestGrimBatol.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestGrimBatol_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestGrimBatol.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestGrimBatol_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.OnComplete
+  nameWithType: QuestGrimBatol.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.OnFail(MacroTools.FactionSystem.Faction)
+  name: OnFail(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestGrimBatol_OnFail_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.OnFail(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.OnFail(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestGrimBatol.OnFail(Faction)
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.OnFail*
+  name: OnFail
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestGrimBatol_OnFail_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.OnFail
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.OnFail
+  nameWithType: QuestGrimBatol.OnFail
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestGrimBatol_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.RewardDescription
+  nameWithType: QuestGrimBatol.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestGrimBatol_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.RewardDescription
+  nameWithType: QuestGrimBatol.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal
   name: QuestOrgrimmarPortal
   href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.html
   commentId: T:WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal
   fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal
   nameWithType: QuestOrgrimmarPortal
-- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.#ctor(destructable,unit,unit)
-  name: QuestOrgrimmarPortal(destructable, unit, unit)
-  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal__ctor_destructable_unit_unit_
-  commentId: M:WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.#ctor(destructable,unit,unit)
-  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.QuestOrgrimmarPortal(destructable, unit, unit)
-  nameWithType: QuestOrgrimmarPortal.QuestOrgrimmarPortal(destructable, unit, unit)
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.#ctor(unit)
+  name: QuestOrgrimmarPortal(unit)
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal__ctor_unit_
+  commentId: M:WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.#ctor(unit)
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.QuestOrgrimmarPortal(unit)
+  nameWithType: QuestOrgrimmarPortal.QuestOrgrimmarPortal(unit)
 - uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.#ctor*
   name: QuestOrgrimmarPortal
   href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal__ctor_
@@ -18236,19 +18378,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.OnComplete
   nameWithType: QuestOrgrimmarPortal.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.OnFail(MacroTools.FactionSystem.Faction)
-  name: OnFail(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal_OnFail_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.OnFail(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.OnFail(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestOrgrimmarPortal.OnFail(Faction)
-- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.OnFail*
-  name: OnFail
-  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal_OnFail_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.OnFail
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.OnFail
-  nameWithType: QuestOrgrimmarPortal.OnFail
 - uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal_RewardDescription
@@ -25884,77 +26013,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Twilight.QuestCataclysm.RewardDescription
   nameWithType: QuestCataclysm.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort
-  name: QuestDragonmawPort
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.html
-  commentId: T:WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort
-  nameWithType: QuestDragonmawPort
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.#ctor(Rectangle)
-  name: QuestDragonmawPort(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Twilight_QuestDragonmawPort__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.QuestDragonmawPort(Rectangle)
-  nameWithType: QuestDragonmawPort.QuestDragonmawPort(Rectangle)
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.#ctor*
-  name: QuestDragonmawPort
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Twilight_QuestDragonmawPort__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.QuestDragonmawPort
-  nameWithType: QuestDragonmawPort.QuestDragonmawPort
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.CompletionPopup
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Twilight_QuestDragonmawPort_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.CompletionPopup
-  nameWithType: QuestDragonmawPort.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.CompletionPopup*
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Twilight_QuestDragonmawPort_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.CompletionPopup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.CompletionPopup
-  nameWithType: QuestDragonmawPort.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Twilight_QuestDragonmawPort_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestDragonmawPort.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Twilight_QuestDragonmawPort_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.OnComplete
-  nameWithType: QuestDragonmawPort.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.OnFail(MacroTools.FactionSystem.Faction)
-  name: OnFail(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Twilight_QuestDragonmawPort_OnFail_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.OnFail(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.OnFail(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestDragonmawPort.OnFail(Faction)
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.OnFail*
-  name: OnFail
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Twilight_QuestDragonmawPort_OnFail_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.OnFail
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.OnFail
-  nameWithType: QuestDragonmawPort.OnFail
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Twilight_QuestDragonmawPort_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.RewardDescription
-  nameWithType: QuestDragonmawPort.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Twilight_QuestDragonmawPort_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestDragonmawPort.RewardDescription
-  nameWithType: QuestDragonmawPort.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Twilight.QuestFeludius
   name: QuestFeludius
   href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestFeludius.html
@@ -26000,77 +26058,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Twilight.QuestFeludius.RewardDescription
   nameWithType: QuestFeludius.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol
-  name: QuestGrimBatol
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.html
-  commentId: T:WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol
-  nameWithType: QuestGrimBatol
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.#ctor(Rectangle,unit,unit,unit)
-  name: QuestGrimBatol(Rectangle, unit, unit, unit)
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Twilight_QuestGrimBatol__ctor_Rectangle_unit_unit_unit_
-  commentId: M:WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.#ctor(Rectangle,unit,unit,unit)
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.QuestGrimBatol(Rectangle, unit, unit, unit)
-  nameWithType: QuestGrimBatol.QuestGrimBatol(Rectangle, unit, unit, unit)
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.#ctor*
-  name: QuestGrimBatol
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Twilight_QuestGrimBatol__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.QuestGrimBatol
-  nameWithType: QuestGrimBatol.QuestGrimBatol
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.CompletionPopup
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Twilight_QuestGrimBatol_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.CompletionPopup
-  nameWithType: QuestGrimBatol.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.CompletionPopup*
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Twilight_QuestGrimBatol_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.CompletionPopup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.CompletionPopup
-  nameWithType: QuestGrimBatol.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Twilight_QuestGrimBatol_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestGrimBatol.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Twilight_QuestGrimBatol_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.OnComplete
-  nameWithType: QuestGrimBatol.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.OnFail(MacroTools.FactionSystem.Faction)
-  name: OnFail(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Twilight_QuestGrimBatol_OnFail_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.OnFail(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.OnFail(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestGrimBatol.OnFail(Faction)
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.OnFail*
-  name: OnFail
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Twilight_QuestGrimBatol_OnFail_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.OnFail
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.OnFail
-  nameWithType: QuestGrimBatol.OnFail
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Twilight_QuestGrimBatol_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.RewardDescription
-  nameWithType: QuestGrimBatol.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.html#WarcraftLegacies_Source_Quests_Twilight_QuestGrimBatol_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Twilight.QuestGrimBatol.RewardDescription
-  nameWithType: QuestGrimBatol.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Twilight.QuestIgnacious
   name: QuestIgnacious
   href: api-source/WarcraftLegacies.Source.Quests.Twilight.QuestIgnacious.html
