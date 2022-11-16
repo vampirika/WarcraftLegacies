@@ -94,7 +94,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Extensions_RectangleExtensions_AddSound_Rectangle_sound_.md&amp;value=---%0Auid%3A%20MacroTools.Extensions.RectangleExtensions.AddSound(Rectangle%2Csound)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Extensions/RectangleExtensions.cs/#L40">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Extensions/RectangleExtensions.cs/#L18">View Source</a>
   </span>
   <a id="MacroTools_Extensions_RectangleExtensions_AddSound_" data-uid="MacroTools.Extensions.RectangleExtensions.AddSound*"></a>
   <h4 id="MacroTools_Extensions_RectangleExtensions_AddSound_Rectangle_sound_" data-uid="MacroTools.Extensions.RectangleExtensions.AddSound(Rectangle,sound)">AddSound(Rectangle, sound)</h4>
@@ -129,19 +129,20 @@
   </table>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Extensions_RectangleExtensions_PrepareUnitsForRescue_Rectangle_MacroTools_Extensions_RectangleExtensions_RescueMode_.md&amp;value=---%0Auid%3A%20MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle%2CMacroTools.Extensions.RectangleExtensions.RescueMode)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Extensions_RectangleExtensions_PrepareUnitsForRescue_Rectangle_MacroTools_Extensions_RescuePreparationMode_.md&amp;value=---%0Auid%3A%20MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle%2CMacroTools.Extensions.RescuePreparationMode)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Extensions/RectangleExtensions.cs/#L67">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Extensions/RectangleExtensions.cs/#L33">View Source</a>
   </span>
   <a id="MacroTools_Extensions_RectangleExtensions_PrepareUnitsForRescue_" data-uid="MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue*"></a>
-  <h4 id="MacroTools_Extensions_RectangleExtensions_PrepareUnitsForRescue_Rectangle_MacroTools_Extensions_RectangleExtensions_RescueMode_" data-uid="MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle,MacroTools.Extensions.RectangleExtensions.RescueMode)">PrepareUnitsForRescue(Rectangle, RectangleExtensions.RescueMode)</h4>
-  <div class="markdown level1 summary"><p>Creates a group of units inside the specified <code data-dev-comment-type="paramref" class="paramref">area</code> that belong to the neutral passive player.</p>
+  <h4 id="MacroTools_Extensions_RectangleExtensions_PrepareUnitsForRescue_Rectangle_MacroTools_Extensions_RescuePreparationMode_" data-uid="MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle,MacroTools.Extensions.RescuePreparationMode)">PrepareUnitsForRescue(Rectangle, RescuePreparationMode)</h4>
+  <div class="markdown level1 summary"><p>Prepares all Neutral Passive owned units within the specified <code data-dev-comment-type="paramref" class="paramref">rectangle</code> according to
+the provided <a class="xref" href="MacroTools.Extensions.RescuePreparationMode.html">RescuePreparationMode</a>.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static List&lt;unit&gt; PrepareUnitsForRescue(this Rectangle area, RectangleExtensions.RescueMode rescueMode)</code></pre>
+    <pre><code class="lang-csharp hljs">public static List&lt;unit&gt; PrepareUnitsForRescue(this Rectangle rectangle, RescuePreparationMode rescuePreparationMode)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -155,14 +156,14 @@
     <tbody>
       <tr>
         <td><span class="xref">Rectangle</span></td>
-        <td><span class="parametername">area</span></td>
-        <td><p>The area in which to get the group of units.</p>
+        <td><span class="parametername">rectangle</span></td>
+        <td><p>The rectangle in which to prepare units.</p>
 </td>
       </tr>
       <tr>
-        <td><a class="xref" href="MacroTools.Extensions.RectangleExtensions.RescueMode.html">RectangleExtensions.RescueMode</a></td>
-        <td><span class="parametername">rescueMode</span></td>
-        <td><p>Set the <a class="xref" href="MacroTools.Extensions.RectangleExtensions.RescueMode.html">RectangleExtensions.RescueMode</a> to use</p>
+        <td><a class="xref" href="MacroTools.Extensions.RescuePreparationMode.html">RescuePreparationMode</a></td>
+        <td><span class="parametername">rescuePreparationMode</span></td>
+        <td><p>Determines how units are prepared.</p>
 </td>
       </tr>
     </tbody>
@@ -178,7 +179,7 @@
     <tbody>
       <tr>
         <td><span class="xref">List</span>&lt;<span class="xref">unit</span>&gt;</td>
-        <td><p>A list of all units found in the specified area that belong to the neutral passive player.</p>
+        <td><p>All Neutral Passive units in the specified rectangle.</p>
 </td>
       </tr>
     </tbody>

@@ -929,11 +929,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Extensions.RectangleExtensions.RescueMode.yml",
+      "source_relative_path": "api-macroTools/MacroTools.Extensions.RectangleExtensions.yml",
       "output": {
         ".html": {
-          "relative_path": "api-macroTools/MacroTools.Extensions.RectangleExtensions.RescueMode.html",
-          "hash": "qz+evldfwlIbwUc31HpZ9Q=="
+          "relative_path": "api-macroTools/MacroTools.Extensions.RectangleExtensions.html",
+          "hash": "vI9j8CbCJH3+NwCJt3+KeQ=="
         }
       },
       "is_incremental": false,
@@ -941,11 +941,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Extensions.RectangleExtensions.yml",
+      "source_relative_path": "api-macroTools/MacroTools.Extensions.RescuePreparationMode.yml",
       "output": {
         ".html": {
-          "relative_path": "api-macroTools/MacroTools.Extensions.RectangleExtensions.html",
-          "hash": "m3RQJnYjxhyEHeFXgueXYg=="
+          "relative_path": "api-macroTools/MacroTools.Extensions.RescuePreparationMode.html",
+          "hash": "bjOT4RaZehEgVmIlEMZedw=="
         }
       },
       "is_incremental": false,
@@ -1029,7 +1029,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.html",
-          "hash": "t4smIOoH/am/y3j97r9wAw=="
+          "hash": "SAtpPZtxfMd86jadOrsEGw=="
         }
       },
       "is_incremental": false,
@@ -3501,7 +3501,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "J7WZMl4hjX3hhpCzjgx73g=="
+          "hash": "eEmP2jJFTv/VkOZyrH2pOg=="
         }
       },
       "is_incremental": false,
@@ -4713,7 +4713,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.html",
-          "hash": "+zMWv+0LNNvaHEci+0IgTg=="
+          "hash": "cUubeeghdMuOT0ILK+8aYQ=="
         }
       },
       "is_incremental": false,
@@ -5769,7 +5769,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestScarletCrusade.html",
-          "hash": "zw1l7ORP/T3DeQPajRK9aQ=="
+          "hash": "9oVWUJYRBNJ68M8qjgaGsA=="
         }
       },
       "is_incremental": false,
@@ -5889,7 +5889,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.html",
-          "hash": "NtUSHySCQSMC63NWc3FyuQ=="
+          "hash": "DfJ7AgxWWBvwS+FmICVrCA=="
         }
       },
       "is_incremental": false,

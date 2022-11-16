@@ -3075,12 +3075,12 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.RectangleExtensions.AddSound
   nameWithType: RectangleExtensions.AddSound
-- uid: MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle,MacroTools.Extensions.RectangleExtensions.RescueMode)
-  name: PrepareUnitsForRescue(Rectangle, RectangleExtensions.RescueMode)
-  href: api-macroTools/MacroTools.Extensions.RectangleExtensions.html#MacroTools_Extensions_RectangleExtensions_PrepareUnitsForRescue_Rectangle_MacroTools_Extensions_RectangleExtensions_RescueMode_
-  commentId: M:MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle,MacroTools.Extensions.RectangleExtensions.RescueMode)
-  fullName: MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle, MacroTools.Extensions.RectangleExtensions.RescueMode)
-  nameWithType: RectangleExtensions.PrepareUnitsForRescue(Rectangle, RectangleExtensions.RescueMode)
+- uid: MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle,MacroTools.Extensions.RescuePreparationMode)
+  name: PrepareUnitsForRescue(Rectangle, RescuePreparationMode)
+  href: api-macroTools/MacroTools.Extensions.RectangleExtensions.html#MacroTools_Extensions_RectangleExtensions_PrepareUnitsForRescue_Rectangle_MacroTools_Extensions_RescuePreparationMode_
+  commentId: M:MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle,MacroTools.Extensions.RescuePreparationMode)
+  fullName: MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle, MacroTools.Extensions.RescuePreparationMode)
+  nameWithType: RectangleExtensions.PrepareUnitsForRescue(Rectangle, RescuePreparationMode)
 - uid: MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue*
   name: PrepareUnitsForRescue
   href: api-macroTools/MacroTools.Extensions.RectangleExtensions.html#MacroTools_Extensions_RectangleExtensions_PrepareUnitsForRescue_
@@ -3088,36 +3088,36 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue
   nameWithType: RectangleExtensions.PrepareUnitsForRescue
-- uid: MacroTools.Extensions.RectangleExtensions.RescueMode
-  name: RectangleExtensions.RescueMode
-  href: api-macroTools/MacroTools.Extensions.RectangleExtensions.RescueMode.html
-  commentId: T:MacroTools.Extensions.RectangleExtensions.RescueMode
-  fullName: MacroTools.Extensions.RectangleExtensions.RescueMode
-  nameWithType: RectangleExtensions.RescueMode
-- uid: MacroTools.Extensions.RectangleExtensions.RescueMode.Group
-  name: Group
-  href: api-macroTools/MacroTools.Extensions.RectangleExtensions.RescueMode.html#MacroTools_Extensions_RectangleExtensions_RescueMode_Group
-  commentId: F:MacroTools.Extensions.RectangleExtensions.RescueMode.Group
-  fullName: MacroTools.Extensions.RectangleExtensions.RescueMode.Group
-  nameWithType: RectangleExtensions.RescueMode.Group
-- uid: MacroTools.Extensions.RectangleExtensions.RescueMode.HideStructures
-  name: HideStructures
-  href: api-macroTools/MacroTools.Extensions.RectangleExtensions.RescueMode.html#MacroTools_Extensions_RectangleExtensions_RescueMode_HideStructures
-  commentId: F:MacroTools.Extensions.RectangleExtensions.RescueMode.HideStructures
-  fullName: MacroTools.Extensions.RectangleExtensions.RescueMode.HideStructures
-  nameWithType: RectangleExtensions.RescueMode.HideStructures
-- uid: MacroTools.Extensions.RectangleExtensions.RescueMode.HideUnits
-  name: HideUnits
-  href: api-macroTools/MacroTools.Extensions.RectangleExtensions.RescueMode.html#MacroTools_Extensions_RectangleExtensions_RescueMode_HideUnits
-  commentId: F:MacroTools.Extensions.RectangleExtensions.RescueMode.HideUnits
-  fullName: MacroTools.Extensions.RectangleExtensions.RescueMode.HideUnits
-  nameWithType: RectangleExtensions.RescueMode.HideUnits
-- uid: MacroTools.Extensions.RectangleExtensions.RescueMode.Invulnerable
+- uid: MacroTools.Extensions.RescuePreparationMode
+  name: RescuePreparationMode
+  href: api-macroTools/MacroTools.Extensions.RescuePreparationMode.html
+  commentId: T:MacroTools.Extensions.RescuePreparationMode
+  fullName: MacroTools.Extensions.RescuePreparationMode
+  nameWithType: RescuePreparationMode
+- uid: MacroTools.Extensions.RescuePreparationMode.HideAll
+  name: HideAll
+  href: api-macroTools/MacroTools.Extensions.RescuePreparationMode.html#MacroTools_Extensions_RescuePreparationMode_HideAll
+  commentId: F:MacroTools.Extensions.RescuePreparationMode.HideAll
+  fullName: MacroTools.Extensions.RescuePreparationMode.HideAll
+  nameWithType: RescuePreparationMode.HideAll
+- uid: MacroTools.Extensions.RescuePreparationMode.HideNonStructures
+  name: HideNonStructures
+  href: api-macroTools/MacroTools.Extensions.RescuePreparationMode.html#MacroTools_Extensions_RescuePreparationMode_HideNonStructures
+  commentId: F:MacroTools.Extensions.RescuePreparationMode.HideNonStructures
+  fullName: MacroTools.Extensions.RescuePreparationMode.HideNonStructures
+  nameWithType: RescuePreparationMode.HideNonStructures
+- uid: MacroTools.Extensions.RescuePreparationMode.Invulnerable
   name: Invulnerable
-  href: api-macroTools/MacroTools.Extensions.RectangleExtensions.RescueMode.html#MacroTools_Extensions_RectangleExtensions_RescueMode_Invulnerable
-  commentId: F:MacroTools.Extensions.RectangleExtensions.RescueMode.Invulnerable
-  fullName: MacroTools.Extensions.RectangleExtensions.RescueMode.Invulnerable
-  nameWithType: RectangleExtensions.RescueMode.Invulnerable
+  href: api-macroTools/MacroTools.Extensions.RescuePreparationMode.html#MacroTools_Extensions_RescuePreparationMode_Invulnerable
+  commentId: F:MacroTools.Extensions.RescuePreparationMode.Invulnerable
+  fullName: MacroTools.Extensions.RescuePreparationMode.Invulnerable
+  nameWithType: RescuePreparationMode.Invulnerable
+- uid: MacroTools.Extensions.RescuePreparationMode.None
+  name: None
+  href: api-macroTools/MacroTools.Extensions.RescuePreparationMode.html#MacroTools_Extensions_RescuePreparationMode_None
+  commentId: F:MacroTools.Extensions.RescuePreparationMode.None
+  fullName: MacroTools.Extensions.RescuePreparationMode.None
+  nameWithType: RescuePreparationMode.None
 - uid: MacroTools.Extensions.SoundExtensions
   name: SoundExtensions
   href: api-macroTools/MacroTools.Extensions.SoundExtensions.html
