@@ -5009,6 +5009,102 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestDuskhaven.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestDuskhaven.html",
+          "hash": "NAMRtNvWQjV4FKtW+bycDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGilneasCity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGilneasCity.html",
+          "hash": "bZDVyKNdxcA6GALy8Pvedg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnElvePath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnElvePath.html",
+          "hash": "+F/Y/jirDvubgUiqduNfow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.html",
+          "hash": "sUIeOtwKrTIh6V9cASUMyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestKeelHarbor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestKeelHarbor.html",
+          "hash": "joyP4ClXGy/s9gcj6jM+yQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestStormglen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestStormglen.html",
+          "hash": "WgQFh3cdOp+Ks0+DWPKUJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestTempestReach.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestTempestReach.html",
+          "hash": "5s1EFjAdA3mYhC1JLQScsA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.html",
+          "hash": "rj7gPfeHzkfJ5l15qaZPpA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.yml",
       "output": {
         ".html": {
@@ -7341,7 +7437,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html",
-          "hash": "rnxWyf6+YgEjWkBYLPZ8CQ=="
+          "hash": "PCcUThj0Tu2apHJvZQHBUg=="
         }
       },
       "is_incremental": false,
@@ -7673,6 +7769,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.html",
+          "hash": "Ci5MXvzbbFyRZHq2cFZtxA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.GoblinQuestSetup.yml",
       "output": {
         ".html": {
@@ -7857,7 +7965,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.html",
-          "hash": "lsutO7TKAwEQEgp6+5uWaA=="
+          "hash": "7WzfyY8AkQ3JumwWmdC2dg=="
         }
       },
       "is_incremental": false,
@@ -8157,7 +8265,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "2hvh0dBb04BUmu2yQ9M30w=="
+          "hash": "mzpqtODYF360TdBkT9Qtxw=="
         }
       },
       "is_incremental": false,
@@ -8232,7 +8340,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 678,
+          "total_file_count": 687,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
