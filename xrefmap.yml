@@ -3900,6 +3900,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.SetExplodeOnDeath
   nameWithType: UnitExtensions.SetExplodeOnDeath
+- uid: MacroTools.Extensions.UnitExtensions.SetFacingEx(unit,System.Single)
+  name: SetFacingEx(unit, Single)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetFacingEx_unit_System_Single_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetFacingEx(unit,System.Single)
+  fullName: MacroTools.Extensions.UnitExtensions.SetFacingEx(unit, System.Single)
+  nameWithType: UnitExtensions.SetFacingEx(unit, Single)
+- uid: MacroTools.Extensions.UnitExtensions.SetFacingEx*
+  name: SetFacingEx
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetFacingEx_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetFacingEx
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetFacingEx
+  nameWithType: UnitExtensions.SetFacingEx
 - uid: MacroTools.Extensions.UnitExtensions.SetInvulnerable(unit,System.Boolean)
   name: SetInvulnerable(unit, Boolean)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetInvulnerable_unit_System_Boolean_
@@ -7482,12 +7495,12 @@ references:
   commentId: T:MacroTools.Libraries.Environment
   fullName: MacroTools.Libraries.Environment
   nameWithType: Environment
-- uid: MacroTools.Libraries.Environment.GetPositionZ(System.Single,System.Single)
-  name: GetPositionZ(Single, Single)
-  href: api-macroTools/MacroTools.Libraries.Environment.html#MacroTools_Libraries_Environment_GetPositionZ_System_Single_System_Single_
-  commentId: M:MacroTools.Libraries.Environment.GetPositionZ(System.Single,System.Single)
-  fullName: MacroTools.Libraries.Environment.GetPositionZ(System.Single, System.Single)
-  nameWithType: Environment.GetPositionZ(Single, Single)
+- uid: MacroTools.Libraries.Environment.GetPositionZ(Point)
+  name: GetPositionZ(Point)
+  href: api-macroTools/MacroTools.Libraries.Environment.html#MacroTools_Libraries_Environment_GetPositionZ_Point_
+  commentId: M:MacroTools.Libraries.Environment.GetPositionZ(Point)
+  fullName: MacroTools.Libraries.Environment.GetPositionZ(Point)
+  nameWithType: Environment.GetPositionZ(Point)
 - uid: MacroTools.Libraries.Environment.GetPositionZ*
   name: GetPositionZ
   href: api-macroTools/MacroTools.Libraries.Environment.html#MacroTools_Libraries_Environment_GetPositionZ_
@@ -7495,38 +7508,12 @@ references:
   isSpec: "True"
   fullName: MacroTools.Libraries.Environment.GetPositionZ
   nameWithType: Environment.GetPositionZ
-- uid: MacroTools.Libraries.Environment.IsUnitInRect(unit,rect)
-  name: IsUnitInRect(unit, rect)
-  href: api-macroTools/MacroTools.Libraries.Environment.html#MacroTools_Libraries_Environment_IsUnitInRect_unit_rect_
-  commentId: M:MacroTools.Libraries.Environment.IsUnitInRect(unit,rect)
-  fullName: MacroTools.Libraries.Environment.IsUnitInRect(unit, rect)
-  nameWithType: Environment.IsUnitInRect(unit, rect)
-- uid: MacroTools.Libraries.Environment.IsUnitInRect*
-  name: IsUnitInRect
-  href: api-macroTools/MacroTools.Libraries.Environment.html#MacroTools_Libraries_Environment_IsUnitInRect_
-  commentId: Overload:MacroTools.Libraries.Environment.IsUnitInRect
-  isSpec: "True"
-  fullName: MacroTools.Libraries.Environment.IsUnitInRect
-  nameWithType: Environment.IsUnitInRect
 - uid: MacroTools.Libraries.Environment.MAX_PLAYERS
   name: MAX_PLAYERS
   href: api-macroTools/MacroTools.Libraries.Environment.html#MacroTools_Libraries_Environment_MAX_PLAYERS
   commentId: F:MacroTools.Libraries.Environment.MAX_PLAYERS
   fullName: MacroTools.Libraries.Environment.MAX_PLAYERS
   nameWithType: Environment.MAX_PLAYERS
-- uid: MacroTools.Libraries.Environment.Setup
-  name: Setup()
-  href: api-macroTools/MacroTools.Libraries.Environment.html#MacroTools_Libraries_Environment_Setup
-  commentId: M:MacroTools.Libraries.Environment.Setup
-  fullName: MacroTools.Libraries.Environment.Setup()
-  nameWithType: Environment.Setup()
-- uid: MacroTools.Libraries.Environment.Setup*
-  name: Setup
-  href: api-macroTools/MacroTools.Libraries.Environment.html#MacroTools_Libraries_Environment_Setup_
-  commentId: Overload:MacroTools.Libraries.Environment.Setup
-  isSpec: "True"
-  fullName: MacroTools.Libraries.Environment.Setup
-  nameWithType: Environment.Setup
 - uid: MacroTools.Libraries.GeneralHelpers
   name: GeneralHelpers
   href: api-macroTools/MacroTools.Libraries.GeneralHelpers.html
@@ -10524,19 +10511,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.Position
   nameWithType: ObjectiveChannelRect.Position
-- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.RequiredUnitTypeId
-  name: RequiredUnitTypeId
-  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveChannelRect_RequiredUnitTypeId
-  commentId: P:MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.RequiredUnitTypeId
-  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.RequiredUnitTypeId
-  nameWithType: ObjectiveChannelRect.RequiredUnitTypeId
-- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.RequiredUnitTypeId*
-  name: RequiredUnitTypeId
-  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveChannelRect_RequiredUnitTypeId_
-  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.RequiredUnitTypeId
-  isSpec: "True"
-  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.RequiredUnitTypeId
-  nameWithType: ObjectiveChannelRect.RequiredUnitTypeId
 - uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveCompleteQuest
   name: ObjectiveCompleteQuest
   href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveCompleteQuest.html

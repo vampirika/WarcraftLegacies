@@ -84,7 +84,7 @@
   <h6><strong>Assembly</strong>: MacroTools.dll</h6>
   <h5 id="MacroTools_Libraries_Environment_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class Environment : object</code></pre>
+    <pre><code class="lang-csharp hljs">public static class Environment : object</code></pre>
   </div>
   <h3 id="fields">Fields
   </h3>
@@ -93,7 +93,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Libraries_Environment_MAX_PLAYERS.md&amp;value=---%0Auid%3A%20MacroTools.Libraries.Environment.MAX_PLAYERS%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Libraries/Environment.cs/#L7">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Libraries/Environment.cs/#L8">View Source</a>
   </span>
   <h4 id="MacroTools_Libraries_Environment_MAX_PLAYERS" data-uid="MacroTools.Libraries.Environment.MAX_PLAYERS">MAX_PLAYERS</h4>
   <div class="markdown level1 summary"></div>
@@ -121,18 +121,19 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Libraries_Environment_GetPositionZ_System_Single_System_Single_.md&amp;value=---%0Auid%3A%20MacroTools.Libraries.Environment.GetPositionZ(System.Single%2CSystem.Single)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Libraries_Environment_GetPositionZ_Point_.md&amp;value=---%0Auid%3A%20MacroTools.Libraries.Environment.GetPositionZ(Point)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Libraries/Environment.cs/#L10">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Libraries/Environment.cs/#L14">View Source</a>
   </span>
   <a id="MacroTools_Libraries_Environment_GetPositionZ_" data-uid="MacroTools.Libraries.Environment.GetPositionZ*"></a>
-  <h4 id="MacroTools_Libraries_Environment_GetPositionZ_System_Single_System_Single_" data-uid="MacroTools.Libraries.Environment.GetPositionZ(System.Single,System.Single)">GetPositionZ(Single, Single)</h4>
-  <div class="markdown level1 summary"></div>
+  <h4 id="MacroTools_Libraries_Environment_GetPositionZ_Point_" data-uid="MacroTools.Libraries.Environment.GetPositionZ(Point)">GetPositionZ(Point)</h4>
+  <div class="markdown level1 summary"><p>Returns the height of the terrain at the given position.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static float GetPositionZ(float x, float y)</code></pre>
+    <pre><code class="lang-csharp hljs">public static float GetPositionZ(Point position)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -145,13 +146,8 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.Single</span></td>
-        <td><span class="parametername">x</span></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><span class="xref">System.Single</span></td>
-        <td><span class="parametername">y</span></td>
+        <td><span class="xref">Point</span></td>
+        <td><span class="parametername">position</span></td>
         <td></td>
       </tr>
     </tbody>
@@ -171,73 +167,6 @@
       </tr>
     </tbody>
   </table>
-  <span class="small pull-right mobile-hide">
-    <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Libraries_Environment_IsUnitInRect_unit_rect_.md&amp;value=---%0Auid%3A%20MacroTools.Libraries.Environment.IsUnitInRect(unit%2Crect)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
-  </span>
-  <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Libraries/Environment.cs/#L17">View Source</a>
-  </span>
-  <a id="MacroTools_Libraries_Environment_IsUnitInRect_" data-uid="MacroTools.Libraries.Environment.IsUnitInRect*"></a>
-  <h4 id="MacroTools_Libraries_Environment_IsUnitInRect_unit_rect_" data-uid="MacroTools.Libraries.Environment.IsUnitInRect(unit,rect)">IsUnitInRect(unit, rect)</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static bool IsUnitInRect(unit u, rect r)</code></pre>
-  </div>
-  <h5 class="parameters">Parameters</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Name</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">unit</span></td>
-        <td><span class="parametername">u</span></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td><span class="xref">rect</span></td>
-        <td><span class="parametername">r</span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  <h5 class="returns">Returns</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">System.Boolean</span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  <span class="small pull-right mobile-hide">
-    <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Libraries_Environment_Setup.md&amp;value=---%0Auid%3A%20MacroTools.Libraries.Environment.Setup%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
-  </span>
-  <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Libraries/Environment.cs/#L23">View Source</a>
-  </span>
-  <a id="MacroTools_Libraries_Environment_Setup_" data-uid="MacroTools.Libraries.Environment.Setup*"></a>
-  <h4 id="MacroTools_Libraries_Environment_Setup" data-uid="MacroTools.Libraries.Environment.Setup">Setup()</h4>
-  <div class="markdown level1 summary"></div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static void Setup()</code></pre>
-  </div>
 </article>
           </div>
           
@@ -249,7 +178,7 @@
                     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Libraries_Environment.md&amp;value=---%0Auid%3A%20MacroTools.Libraries.Environment%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Libraries/Environment.cs/#L5" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Libraries/Environment.cs/#L6" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>
