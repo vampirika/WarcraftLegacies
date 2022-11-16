@@ -4557,7 +4557,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.html",
-          "hash": "nm6aA/xr0IuUFtJfPUWtmA=="
+          "hash": "K9h9pFKVwmEKosl13K7XvQ=="
         }
       },
       "is_incremental": false,
@@ -4569,7 +4569,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.html",
-          "hash": "Y31Qpi93ilmxkNIhj5Tljw=="
+          "hash": "HbtPgS517XNC6Ad81PTAVQ=="
         }
       },
       "is_incremental": false,
@@ -4581,7 +4581,19 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.html",
-          "hash": "7fLZ07N+3+h2DiH3aU1yHA=="
+          "hash": "iuT3OjJLhJZuqrRywsq+6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestStonemaul.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestStonemaul.html",
+          "hash": "GVGIE+t+GIe2ViQerSpUdw=="
         }
       },
       "is_incremental": false,
@@ -4593,7 +4605,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.html",
-          "hash": "cXMho0+e0HzMcKNcdaYTWA=="
+          "hash": "ZlcQcpDA8Un3pfFCbKF6Sg=="
         }
       },
       "is_incremental": false,
@@ -4937,6 +4949,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.html",
+          "hash": "KfYfHyh096W+JUwW1o4xdw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder.yml",
       "output": {
         ".html": {
@@ -4961,18 +4985,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.html",
-          "hash": "QzZbgrUNDFHBiBA2RMtvow=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.yml",
       "output": {
         ".html": {
@@ -4989,7 +5001,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.html",
-          "hash": "Gn17ngfrktVx7ZvCMEydAQ=="
+          "hash": "/lEokI97erflcpjtY9+cdQ=="
         }
       },
       "is_incremental": false,
@@ -7269,7 +7281,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html",
-          "hash": "5tiA/G58XvWhXQOkhosZyw=="
+          "hash": "HIr739YyFRYqdEfx4o6rHA=="
         }
       },
       "is_incremental": false,
@@ -7413,7 +7425,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html",
-          "hash": "eg6xYmu4kAH+HPfRxUkHtg=="
+          "hash": "qdbuCNHm3YxFkHW3hiD12Q=="
         }
       },
       "is_incremental": false,
@@ -8145,7 +8157,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "7BSVftJZtBW/myayP2HoQA=="
+          "hash": "2hvh0dBb04BUmu2yQ9M30w=="
         }
       },
       "is_incremental": false,
@@ -8220,7 +8232,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 677,
+          "total_file_count": 678,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
