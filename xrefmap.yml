@@ -6915,102 +6915,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.GameTime.Setup
   nameWithType: GameTime.Setup
-- uid: MacroTools.Gates
-  name: MacroTools.Gates
-  href: api-macroTools/MacroTools.Gates.html
-  commentId: N:MacroTools.Gates
-  fullName: MacroTools.Gates
-  nameWithType: MacroTools.Gates
-- uid: MacroTools.Gates.Gate
-  name: Gate
-  href: api-macroTools/MacroTools.Gates.Gate.html
-  commentId: T:MacroTools.Gates.Gate
-  fullName: MacroTools.Gates.Gate
-  nameWithType: Gate
-- uid: MacroTools.Gates.Gate.#ctor(System.Int32,System.Int32,System.Int32)
-  name: Gate(Int32, Int32, Int32)
-  href: api-macroTools/MacroTools.Gates.Gate.html#MacroTools_Gates_Gate__ctor_System_Int32_System_Int32_System_Int32_
-  commentId: M:MacroTools.Gates.Gate.#ctor(System.Int32,System.Int32,System.Int32)
-  fullName: MacroTools.Gates.Gate.Gate(System.Int32, System.Int32, System.Int32)
-  nameWithType: Gate.Gate(Int32, Int32, Int32)
-- uid: MacroTools.Gates.Gate.#ctor*
-  name: Gate
-  href: api-macroTools/MacroTools.Gates.Gate.html#MacroTools_Gates_Gate__ctor_
-  commentId: Overload:MacroTools.Gates.Gate.#ctor
-  isSpec: "True"
-  fullName: MacroTools.Gates.Gate.Gate
-  nameWithType: Gate.Gate
-- uid: MacroTools.Gates.Gate.ClosedId
-  name: ClosedId
-  href: api-macroTools/MacroTools.Gates.Gate.html#MacroTools_Gates_Gate_ClosedId
-  commentId: P:MacroTools.Gates.Gate.ClosedId
-  fullName: MacroTools.Gates.Gate.ClosedId
-  nameWithType: Gate.ClosedId
-- uid: MacroTools.Gates.Gate.ClosedId*
-  name: ClosedId
-  href: api-macroTools/MacroTools.Gates.Gate.html#MacroTools_Gates_Gate_ClosedId_
-  commentId: Overload:MacroTools.Gates.Gate.ClosedId
-  isSpec: "True"
-  fullName: MacroTools.Gates.Gate.ClosedId
-  nameWithType: Gate.ClosedId
-- uid: MacroTools.Gates.Gate.DeadId
-  name: DeadId
-  href: api-macroTools/MacroTools.Gates.Gate.html#MacroTools_Gates_Gate_DeadId
-  commentId: P:MacroTools.Gates.Gate.DeadId
-  fullName: MacroTools.Gates.Gate.DeadId
-  nameWithType: Gate.DeadId
-- uid: MacroTools.Gates.Gate.DeadId*
-  name: DeadId
-  href: api-macroTools/MacroTools.Gates.Gate.html#MacroTools_Gates_Gate_DeadId_
-  commentId: Overload:MacroTools.Gates.Gate.DeadId
-  isSpec: "True"
-  fullName: MacroTools.Gates.Gate.DeadId
-  nameWithType: Gate.DeadId
-- uid: MacroTools.Gates.Gate.OpenedId
-  name: OpenedId
-  href: api-macroTools/MacroTools.Gates.Gate.html#MacroTools_Gates_Gate_OpenedId
-  commentId: P:MacroTools.Gates.Gate.OpenedId
-  fullName: MacroTools.Gates.Gate.OpenedId
-  nameWithType: Gate.OpenedId
-- uid: MacroTools.Gates.Gate.OpenedId*
-  name: OpenedId
-  href: api-macroTools/MacroTools.Gates.Gate.html#MacroTools_Gates_Gate_OpenedId_
-  commentId: Overload:MacroTools.Gates.Gate.OpenedId
-  isSpec: "True"
-  fullName: MacroTools.Gates.Gate.OpenedId
-  nameWithType: Gate.OpenedId
-- uid: MacroTools.Gates.GateService
-  name: GateService
-  href: api-macroTools/MacroTools.Gates.GateService.html
-  commentId: T:MacroTools.Gates.GateService
-  fullName: MacroTools.Gates.GateService
-  nameWithType: GateService
-- uid: MacroTools.Gates.GateService.#ctor(System.Int32,System.Int32)
-  name: GateService(Int32, Int32)
-  href: api-macroTools/MacroTools.Gates.GateService.html#MacroTools_Gates_GateService__ctor_System_Int32_System_Int32_
-  commentId: M:MacroTools.Gates.GateService.#ctor(System.Int32,System.Int32)
-  fullName: MacroTools.Gates.GateService.GateService(System.Int32, System.Int32)
-  nameWithType: GateService.GateService(Int32, Int32)
-- uid: MacroTools.Gates.GateService.#ctor*
-  name: GateService
-  href: api-macroTools/MacroTools.Gates.GateService.html#MacroTools_Gates_GateService__ctor_
-  commentId: Overload:MacroTools.Gates.GateService.#ctor
-  isSpec: "True"
-  fullName: MacroTools.Gates.GateService.GateService
-  nameWithType: GateService.GateService
-- uid: MacroTools.Gates.GateService.RegisterGate(MacroTools.Gates.Gate)
-  name: RegisterGate(Gate)
-  href: api-macroTools/MacroTools.Gates.GateService.html#MacroTools_Gates_GateService_RegisterGate_MacroTools_Gates_Gate_
-  commentId: M:MacroTools.Gates.GateService.RegisterGate(MacroTools.Gates.Gate)
-  fullName: MacroTools.Gates.GateService.RegisterGate(MacroTools.Gates.Gate)
-  nameWithType: GateService.RegisterGate(Gate)
-- uid: MacroTools.Gates.GateService.RegisterGate*
-  name: RegisterGate
-  href: api-macroTools/MacroTools.Gates.GateService.html#MacroTools_Gates_GateService_RegisterGate_
-  commentId: Overload:MacroTools.Gates.GateService.RegisterGate
-  isSpec: "True"
-  fullName: MacroTools.Gates.GateService.RegisterGate
-  nameWithType: GateService.RegisterGate
 - uid: MacroTools.Hazards
   name: MacroTools.Hazards
   href: api-macroTools/MacroTools.Hazards.html
@@ -8500,6 +8404,64 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilities.Execute.OnDealsDamage
   nameWithType: Execute.OnDealsDamage
+- uid: MacroTools.PassiveAbilities.Gate
+  name: Gate
+  href: api-macroTools/MacroTools.PassiveAbilities.Gate.html
+  commentId: T:MacroTools.PassiveAbilities.Gate
+  fullName: MacroTools.PassiveAbilities.Gate
+  nameWithType: Gate
+- uid: MacroTools.PassiveAbilities.Gate.#ctor(System.Int32,System.Int32,System.Int32)
+  name: Gate(Int32, Int32, Int32)
+  href: api-macroTools/MacroTools.PassiveAbilities.Gate.html#MacroTools_PassiveAbilities_Gate__ctor_System_Int32_System_Int32_System_Int32_
+  commentId: M:MacroTools.PassiveAbilities.Gate.#ctor(System.Int32,System.Int32,System.Int32)
+  fullName: MacroTools.PassiveAbilities.Gate.Gate(System.Int32, System.Int32, System.Int32)
+  nameWithType: Gate.Gate(Int32, Int32, Int32)
+- uid: MacroTools.PassiveAbilities.Gate.#ctor*
+  name: Gate
+  href: api-macroTools/MacroTools.PassiveAbilities.Gate.html#MacroTools_PassiveAbilities_Gate__ctor_
+  commentId: Overload:MacroTools.PassiveAbilities.Gate.#ctor
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.Gate.Gate
+  nameWithType: Gate.Gate
+- uid: MacroTools.PassiveAbilities.Gate.OnCreated(unit)
+  name: OnCreated(unit)
+  href: api-macroTools/MacroTools.PassiveAbilities.Gate.html#MacroTools_PassiveAbilities_Gate_OnCreated_unit_
+  commentId: M:MacroTools.PassiveAbilities.Gate.OnCreated(unit)
+  fullName: MacroTools.PassiveAbilities.Gate.OnCreated(unit)
+  nameWithType: Gate.OnCreated(unit)
+- uid: MacroTools.PassiveAbilities.Gate.OnCreated*
+  name: OnCreated
+  href: api-macroTools/MacroTools.PassiveAbilities.Gate.html#MacroTools_PassiveAbilities_Gate_OnCreated_
+  commentId: Overload:MacroTools.PassiveAbilities.Gate.OnCreated
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.Gate.OnCreated
+  nameWithType: Gate.OnCreated
+- uid: MacroTools.PassiveAbilities.Gate.OnDeath
+  name: OnDeath()
+  href: api-macroTools/MacroTools.PassiveAbilities.Gate.html#MacroTools_PassiveAbilities_Gate_OnDeath
+  commentId: M:MacroTools.PassiveAbilities.Gate.OnDeath
+  fullName: MacroTools.PassiveAbilities.Gate.OnDeath()
+  nameWithType: Gate.OnDeath()
+- uid: MacroTools.PassiveAbilities.Gate.OnDeath*
+  name: OnDeath
+  href: api-macroTools/MacroTools.PassiveAbilities.Gate.html#MacroTools_PassiveAbilities_Gate_OnDeath_
+  commentId: Overload:MacroTools.PassiveAbilities.Gate.OnDeath
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.Gate.OnDeath
+  nameWithType: Gate.OnDeath
+- uid: MacroTools.PassiveAbilities.Gate.OnSpellFinish
+  name: OnSpellFinish()
+  href: api-macroTools/MacroTools.PassiveAbilities.Gate.html#MacroTools_PassiveAbilities_Gate_OnSpellFinish
+  commentId: M:MacroTools.PassiveAbilities.Gate.OnSpellFinish
+  fullName: MacroTools.PassiveAbilities.Gate.OnSpellFinish()
+  nameWithType: Gate.OnSpellFinish()
+- uid: MacroTools.PassiveAbilities.Gate.OnSpellFinish*
+  name: OnSpellFinish
+  href: api-macroTools/MacroTools.PassiveAbilities.Gate.html#MacroTools_PassiveAbilities_Gate_OnSpellFinish_
+  commentId: Overload:MacroTools.PassiveAbilities.Gate.OnSpellFinish
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.Gate.OnSpellFinish
+  nameWithType: Gate.OnSpellFinish
 - uid: MacroTools.PassiveAbilities.HideousAppendages
   name: HideousAppendages
   href: api-macroTools/MacroTools.PassiveAbilities.HideousAppendages.html
@@ -9146,6 +9108,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilitySystem.PassiveAbility.OnOrderIssued
   nameWithType: PassiveAbility.OnOrderIssued
+- uid: MacroTools.PassiveAbilitySystem.PassiveAbility.OnSpellFinish
+  name: OnSpellFinish()
+  href: api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html#MacroTools_PassiveAbilitySystem_PassiveAbility_OnSpellFinish
+  commentId: M:MacroTools.PassiveAbilitySystem.PassiveAbility.OnSpellFinish
+  fullName: MacroTools.PassiveAbilitySystem.PassiveAbility.OnSpellFinish()
+  nameWithType: PassiveAbility.OnSpellFinish()
+- uid: MacroTools.PassiveAbilitySystem.PassiveAbility.OnSpellFinish*
+  name: OnSpellFinish
+  href: api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html#MacroTools_PassiveAbilitySystem_PassiveAbility_OnSpellFinish_
+  commentId: Overload:MacroTools.PassiveAbilitySystem.PassiveAbility.OnSpellFinish
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilitySystem.PassiveAbility.OnSpellFinish
+  nameWithType: PassiveAbility.OnSpellFinish
 - uid: MacroTools.PassiveAbilitySystem.PassiveAbility.OnTrained
   name: OnTrained()
   href: api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html#MacroTools_PassiveAbilitySystem_PassiveAbility_OnTrained

@@ -1469,42 +1469,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Gates.Gate.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Gates.Gate.html",
-          "hash": "tfpI7o+iBm1egeFLPUtT7A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Gates.GateService.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Gates.GateService.html",
-          "hash": "iARHFKqlvZPGuPWfhuixew=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Gates.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Gates.html",
-          "hash": "bdFS570DK0fnB5AL9xyahg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Hazards.RecurrentSpellHazard.yml",
       "output": {
         ".html": {
@@ -1689,7 +1653,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Mechanics.DemonGates.DemonGateType.html",
-          "hash": "ygv1SO+5rJxJSeFtsbRuWA=="
+          "hash": "j4qie9gPA7xoqLsEJB3Kmw=="
         }
       },
       "is_incremental": false,
@@ -1701,7 +1665,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Mechanics.DemonGates.FocalDemonGate.html",
-          "hash": "zPX/hE439t8qBXHj09b4zw=="
+          "hash": "f6hc9TbaYNxRgA1IrILiNQ=="
         }
       },
       "is_incremental": false,
@@ -1857,7 +1821,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.AnimalCompanion.html",
-          "hash": "znnmMpkh4Fg/X/ejNflzmg=="
+          "hash": "YUs7ScVkkJq9mg+PMKnsPg=="
         }
       },
       "is_incremental": false,
@@ -1869,7 +1833,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.AnimationSpeedMultiplier.html",
-          "hash": "BfqXD235ok64Sbb/52PR8A=="
+          "hash": "boCTiLlOETTwlYLSmftEsw=="
         }
       },
       "is_incremental": false,
@@ -1881,7 +1845,19 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.Execute.html",
-          "hash": "aKHAyomCVutZtuGaDS9CQA=="
+          "hash": "CyuOibSu8/irrcMjINt4KQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.Gate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.PassiveAbilities.Gate.html",
+          "hash": "kVQQUrzw4Mid6uTT1oqaaw=="
         }
       },
       "is_incremental": false,
@@ -1893,7 +1869,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.HideousAppendages.html",
-          "hash": "cuJD6aTwA527/RTu5ILaIA=="
+          "hash": "4LSx3+YZT6YycaCL7FJlUA=="
         }
       },
       "is_incremental": false,
@@ -1905,7 +1881,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html",
-          "hash": "d2MkZRd/lSu89SeFDf59xQ=="
+          "hash": "AdI9j9YiGxsH0ZEsDwpwjQ=="
         }
       },
       "is_incremental": false,
@@ -1917,7 +1893,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.ProvidesIncome.html",
-          "hash": "vKSIpRCNeOFOklK1JC5/Hg=="
+          "hash": "BLVAfV2UCGBGFeqMuTXQog=="
         }
       },
       "is_incremental": false,
@@ -1929,7 +1905,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.RegionRestricted.html",
-          "hash": "p6xpcmEL4mbbUEdnRcxbyA=="
+          "hash": "t68jNUll5XKpw5p3wqDnqQ=="
         }
       },
       "is_incremental": false,
@@ -1941,7 +1917,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.ResurrectionAura.html",
-          "hash": "hCuVhytkq0hl7gq2bgLSRw=="
+          "hash": "vbz8O4gaNUc+r8ZMZ2vi4A=="
         }
       },
       "is_incremental": false,
@@ -1953,7 +1929,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.SpellOnAttack.html",
-          "hash": "yJEgToek5koIehylnTPdLQ=="
+          "hash": "NT1mlA/KS3UfaJMkd8wiAw=="
         }
       },
       "is_incremental": false,
@@ -1965,7 +1941,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.SpellResistanceAura.html",
-          "hash": "D2gG+wFDIJOyGSvcVxzfIw=="
+          "hash": "1ieiB0v3LIspPkx0QyYAkg=="
         }
       },
       "is_incremental": false,
@@ -1977,7 +1953,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.WarglaivesOfAzzinoth.html",
-          "hash": "6ldh6nNi8I2BcqmCuOk98Q=="
+          "hash": "7yjJvuPbJLKrN6rRvQBBTw=="
         }
       },
       "is_incremental": false,
@@ -1989,7 +1965,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.html",
-          "hash": "bEUUa8nVtNFeNUkxJqfvzA=="
+          "hash": "blf9x+LO1UoBsh/OTmI0sw=="
         }
       },
       "is_incremental": false,
@@ -2013,7 +1989,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html",
-          "hash": "k9UKFZymkaBlwZ3/p3ffxw=="
+          "hash": "XzyuNRvjabfHurM5yFWm3w=="
         }
       },
       "is_incremental": false,
@@ -3501,7 +3477,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "eEmP2jJFTv/VkOZyrH2pOg=="
+          "hash": "nzAukoSJClD+/QwJ22TaDg=="
         }
       },
       "is_incremental": false,
@@ -4065,7 +4041,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunchWarning.html",
-          "hash": "UipMYUGjnBF8Bw5LqD7iBA=="
+          "hash": "ZxWpMSDKbXyS2fvEO9+Hgg=="
         }
       },
       "is_incremental": false,
@@ -4077,7 +4053,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilProducer.html",
-          "hash": "6mv5yO3ToCXXGmKoA5sstw=="
+          "hash": "ySMmdCPnz8QflPBFHbDOxA=="
         }
       },
       "is_incremental": false,
@@ -4089,7 +4065,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilRigConstructor.html",
-          "hash": "srA77az2w5RRXJf/RvBXUw=="
+          "hash": "dNM2ycyqr2tAztsKrEG5cg=="
         }
       },
       "is_incremental": false,
@@ -4101,7 +4077,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilUser.html",
-          "hash": "FsKS5wqfVAMrFMjl+gOVgg=="
+          "hash": "BaLq2dib1jXXFQfGS43+Yw=="
         }
       },
       "is_incremental": false,
@@ -4113,7 +4089,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.Trader.html",
-          "hash": "3uNBRkS29OAOvdGXALThow=="
+          "hash": "294lloJyw+KF2Pt0ike7WQ=="
         }
       },
       "is_incremental": false,
@@ -7269,7 +7245,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.GateSetup.html",
-          "hash": "SsCP7+7kqo/oe/mNoDyicg=="
+          "hash": "XUxb2PGnXE/bZ/LDWiARGQ=="
         }
       },
       "is_incremental": false,
@@ -8280,7 +8256,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 682,
+          "total_file_count": 680,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
