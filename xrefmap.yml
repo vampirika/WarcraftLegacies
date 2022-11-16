@@ -10242,6 +10242,38 @@ references:
   isSpec: "True"
   fullName: MacroTools.QuestSystem.UtilityStructs.FactionListExtensions.Contains
   nameWithType: FactionListExtensions.Contains
+- uid: MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit
+  name: IHasCompletingUnit
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.html
+  commentId: T:MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit
+  fullName: MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit
+  nameWithType: IHasCompletingUnit
+- uid: MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.CompletingUnit
+  name: CompletingUnit
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.html#MacroTools_QuestSystem_UtilityStructs_IHasCompletingUnit_CompletingUnit
+  commentId: P:MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.CompletingUnit
+  fullName: MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.CompletingUnit
+  nameWithType: IHasCompletingUnit.CompletingUnit
+- uid: MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.CompletingUnit*
+  name: CompletingUnit
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.html#MacroTools_QuestSystem_UtilityStructs_IHasCompletingUnit_CompletingUnit_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.CompletingUnit
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.CompletingUnit
+  nameWithType: IHasCompletingUnit.CompletingUnit
+- uid: MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.CompletingUnitName
+  name: CompletingUnitName
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.html#MacroTools_QuestSystem_UtilityStructs_IHasCompletingUnit_CompletingUnitName
+  commentId: P:MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.CompletingUnitName
+  fullName: MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.CompletingUnitName
+  nameWithType: IHasCompletingUnit.CompletingUnitName
+- uid: MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.CompletingUnitName*
+  name: CompletingUnitName
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.html#MacroTools_QuestSystem_UtilityStructs_IHasCompletingUnit_CompletingUnitName_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.CompletingUnitName
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.CompletingUnitName
+  nameWithType: IHasCompletingUnit.CompletingUnitName
 - uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveAcquireArtifact
   name: ObjectiveAcquireArtifact
   href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAcquireArtifact.html
@@ -10261,6 +10293,64 @@ references:
   isSpec: "True"
   fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveAcquireArtifact.ObjectiveAcquireArtifact
   nameWithType: ObjectiveAcquireArtifact.ObjectiveAcquireArtifact
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect
+  name: ObjectiveAnyHeroWithLevelReachRect
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.html
+  commentId: T:MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect
+  nameWithType: ObjectiveAnyHeroWithLevelReachRect
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.#ctor(System.Int32,Rectangle,System.String)
+  name: ObjectiveAnyHeroWithLevelReachRect(Int32, Rectangle, String)
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveAnyHeroWithLevelReachRect__ctor_System_Int32_Rectangle_System_String_
+  commentId: M:MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.#ctor(System.Int32,Rectangle,System.String)
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.ObjectiveAnyHeroWithLevelReachRect(System.Int32, Rectangle, System.String)
+  nameWithType: ObjectiveAnyHeroWithLevelReachRect.ObjectiveAnyHeroWithLevelReachRect(Int32, Rectangle, String)
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.#ctor*
+  name: ObjectiveAnyHeroWithLevelReachRect
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveAnyHeroWithLevelReachRect__ctor_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.#ctor
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.ObjectiveAnyHeroWithLevelReachRect
+  nameWithType: ObjectiveAnyHeroWithLevelReachRect.ObjectiveAnyHeroWithLevelReachRect
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.CompletingUnit
+  name: CompletingUnit
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveAnyHeroWithLevelReachRect_CompletingUnit
+  commentId: P:MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.CompletingUnit
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.CompletingUnit
+  nameWithType: ObjectiveAnyHeroWithLevelReachRect.CompletingUnit
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.CompletingUnit*
+  name: CompletingUnit
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveAnyHeroWithLevelReachRect_CompletingUnit_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.CompletingUnit
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.CompletingUnit
+  nameWithType: ObjectiveAnyHeroWithLevelReachRect.CompletingUnit
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.CompletingUnitName
+  name: CompletingUnitName
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveAnyHeroWithLevelReachRect_CompletingUnitName
+  commentId: P:MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.CompletingUnitName
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.CompletingUnitName
+  nameWithType: ObjectiveAnyHeroWithLevelReachRect.CompletingUnitName
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.CompletingUnitName*
+  name: CompletingUnitName
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveAnyHeroWithLevelReachRect_CompletingUnitName_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.CompletingUnitName
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.CompletingUnitName
+  nameWithType: ObjectiveAnyHeroWithLevelReachRect.CompletingUnitName
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.Position
+  name: Position
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveAnyHeroWithLevelReachRect_Position
+  commentId: P:MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.Position
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.Position
+  nameWithType: ObjectiveAnyHeroWithLevelReachRect.Position
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.Position*
+  name: Position
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveAnyHeroWithLevelReachRect_Position_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.Position
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.Position
+  nameWithType: ObjectiveAnyHeroWithLevelReachRect.Position
 - uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect
   name: ObjectiveAnyUnitInRect
   href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.html
@@ -10280,6 +10370,32 @@ references:
   isSpec: "True"
   fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.ObjectiveAnyUnitInRect
   nameWithType: ObjectiveAnyUnitInRect.ObjectiveAnyUnitInRect
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.CompletingUnit
+  name: CompletingUnit
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveAnyUnitInRect_CompletingUnit
+  commentId: P:MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.CompletingUnit
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.CompletingUnit
+  nameWithType: ObjectiveAnyUnitInRect.CompletingUnit
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.CompletingUnit*
+  name: CompletingUnit
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveAnyUnitInRect_CompletingUnit_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.CompletingUnit
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.CompletingUnit
+  nameWithType: ObjectiveAnyUnitInRect.CompletingUnit
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.CompletingUnitName
+  name: CompletingUnitName
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveAnyUnitInRect_CompletingUnitName
+  commentId: P:MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.CompletingUnitName
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.CompletingUnitName
+  nameWithType: ObjectiveAnyUnitInRect.CompletingUnitName
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.CompletingUnitName*
+  name: CompletingUnitName
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveAnyUnitInRect_CompletingUnitName_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.CompletingUnitName
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.CompletingUnitName
+  nameWithType: ObjectiveAnyUnitInRect.CompletingUnitName
 - uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.Position
   name: Position
   href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveAnyUnitInRect_Position
@@ -10293,19 +10409,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.Position
   nameWithType: ObjectiveAnyUnitInRect.Position
-- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.TriggerUnit
-  name: TriggerUnit
-  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveAnyUnitInRect_TriggerUnit
-  commentId: P:MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.TriggerUnit
-  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.TriggerUnit
-  nameWithType: ObjectiveAnyUnitInRect.TriggerUnit
-- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.TriggerUnit*
-  name: TriggerUnit
-  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveAnyUnitInRect_TriggerUnit_
-  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.TriggerUnit
-  isSpec: "True"
-  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.TriggerUnit
-  nameWithType: ObjectiveAnyUnitInRect.TriggerUnit
 - uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveArtifactInRect
   name: ObjectiveArtifactInRect
   href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveArtifactInRect.html
@@ -10664,51 +10767,64 @@ references:
   isSpec: "True"
   fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveFactionDefeated.ObjectiveFactionDefeated
   nameWithType: ObjectiveFactionDefeated.ObjectiveFactionDefeated
-- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect
-  name: ObjectiveHeroWithLevelReachRect
-  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.html
-  commentId: T:MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect
-  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect
-  nameWithType: ObjectiveHeroWithLevelReachRect
-- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.#ctor(System.Int32,Rectangle,System.String)
-  name: ObjectiveHeroWithLevelReachRect(Int32, Rectangle, String)
-  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveHeroWithLevelReachRect__ctor_System_Int32_Rectangle_System_String_
-  commentId: M:MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.#ctor(System.Int32,Rectangle,System.String)
-  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.ObjectiveHeroWithLevelReachRect(System.Int32, Rectangle, System.String)
-  nameWithType: ObjectiveHeroWithLevelReachRect.ObjectiveHeroWithLevelReachRect(Int32, Rectangle, String)
-- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.#ctor*
-  name: ObjectiveHeroWithLevelReachRect
-  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveHeroWithLevelReachRect__ctor_
-  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.#ctor
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect
+  name: ObjectiveHeroWithLevelInRect
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.html
+  commentId: T:MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect
+  nameWithType: ObjectiveHeroWithLevelInRect
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.#ctor(System.Int32,Rectangle,System.String)
+  name: ObjectiveHeroWithLevelInRect(Int32, Rectangle, String)
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveHeroWithLevelInRect__ctor_System_Int32_Rectangle_System_String_
+  commentId: M:MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.#ctor(System.Int32,Rectangle,System.String)
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.ObjectiveHeroWithLevelInRect(System.Int32, Rectangle, System.String)
+  nameWithType: ObjectiveHeroWithLevelInRect.ObjectiveHeroWithLevelInRect(Int32, Rectangle, String)
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.#ctor*
+  name: ObjectiveHeroWithLevelInRect
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveHeroWithLevelInRect__ctor_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.#ctor
   isSpec: "True"
-  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.ObjectiveHeroWithLevelReachRect
-  nameWithType: ObjectiveHeroWithLevelReachRect.ObjectiveHeroWithLevelReachRect
-- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.EnteredRegionUnitName
-  name: EnteredRegionUnitName
-  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveHeroWithLevelReachRect_EnteredRegionUnitName
-  commentId: P:MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.EnteredRegionUnitName
-  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.EnteredRegionUnitName
-  nameWithType: ObjectiveHeroWithLevelReachRect.EnteredRegionUnitName
-- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.EnteredRegionUnitName*
-  name: EnteredRegionUnitName
-  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveHeroWithLevelReachRect_EnteredRegionUnitName_
-  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.EnteredRegionUnitName
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.ObjectiveHeroWithLevelInRect
+  nameWithType: ObjectiveHeroWithLevelInRect.ObjectiveHeroWithLevelInRect
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.CompletingUnit
+  name: CompletingUnit
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveHeroWithLevelInRect_CompletingUnit
+  commentId: P:MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.CompletingUnit
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.CompletingUnit
+  nameWithType: ObjectiveHeroWithLevelInRect.CompletingUnit
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.CompletingUnit*
+  name: CompletingUnit
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveHeroWithLevelInRect_CompletingUnit_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.CompletingUnit
   isSpec: "True"
-  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.EnteredRegionUnitName
-  nameWithType: ObjectiveHeroWithLevelReachRect.EnteredRegionUnitName
-- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.Position
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.CompletingUnit
+  nameWithType: ObjectiveHeroWithLevelInRect.CompletingUnit
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.CompletingUnitName
+  name: CompletingUnitName
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveHeroWithLevelInRect_CompletingUnitName
+  commentId: P:MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.CompletingUnitName
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.CompletingUnitName
+  nameWithType: ObjectiveHeroWithLevelInRect.CompletingUnitName
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.CompletingUnitName*
+  name: CompletingUnitName
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveHeroWithLevelInRect_CompletingUnitName_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.CompletingUnitName
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.CompletingUnitName
+  nameWithType: ObjectiveHeroWithLevelInRect.CompletingUnitName
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.Position
   name: Position
-  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveHeroWithLevelReachRect_Position
-  commentId: P:MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.Position
-  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.Position
-  nameWithType: ObjectiveHeroWithLevelReachRect.Position
-- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.Position*
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveHeroWithLevelInRect_Position
+  commentId: P:MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.Position
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.Position
+  nameWithType: ObjectiveHeroWithLevelInRect.Position
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.Position*
   name: Position
-  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveHeroWithLevelReachRect_Position_
-  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.Position
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveHeroWithLevelInRect_Position_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.Position
   isSpec: "True"
-  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.Position
-  nameWithType: ObjectiveHeroWithLevelReachRect.Position
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.Position
+  nameWithType: ObjectiveHeroWithLevelInRect.Position
 - uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveKillUnit
   name: ObjectiveKillUnit
   href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveKillUnit.html
@@ -10926,6 +11042,25 @@ references:
   isSpec: "True"
   fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveLegendReachRect.Position
   nameWithType: ObjectiveLegendReachRect.Position
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveNoOtherPlayerGetsArtifact
+  name: ObjectiveNoOtherPlayerGetsArtifact
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveNoOtherPlayerGetsArtifact.html
+  commentId: T:MacroTools.QuestSystem.UtilityStructs.ObjectiveNoOtherPlayerGetsArtifact
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveNoOtherPlayerGetsArtifact
+  nameWithType: ObjectiveNoOtherPlayerGetsArtifact
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveNoOtherPlayerGetsArtifact.#ctor(MacroTools.ArtifactSystem.Artifact)
+  name: ObjectiveNoOtherPlayerGetsArtifact(Artifact)
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveNoOtherPlayerGetsArtifact.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveNoOtherPlayerGetsArtifact__ctor_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:MacroTools.QuestSystem.UtilityStructs.ObjectiveNoOtherPlayerGetsArtifact.#ctor(MacroTools.ArtifactSystem.Artifact)
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveNoOtherPlayerGetsArtifact.ObjectiveNoOtherPlayerGetsArtifact(MacroTools.ArtifactSystem.Artifact)
+  nameWithType: ObjectiveNoOtherPlayerGetsArtifact.ObjectiveNoOtherPlayerGetsArtifact(Artifact)
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveNoOtherPlayerGetsArtifact.#ctor*
+  name: ObjectiveNoOtherPlayerGetsArtifact
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveNoOtherPlayerGetsArtifact.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveNoOtherPlayerGetsArtifact__ctor_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveNoOtherPlayerGetsArtifact.#ctor
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveNoOtherPlayerGetsArtifact.ObjectiveNoOtherPlayerGetsArtifact
+  nameWithType: ObjectiveNoOtherPlayerGetsArtifact.ObjectiveNoOtherPlayerGetsArtifact
 - uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveResearch
   name: ObjectiveResearch
   href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveResearch.html
@@ -23533,6 +23668,77 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.RewardDescription
   nameWithType: QuestTheBloodElves.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.QuestBookOfMedivh
+  name: QuestBookOfMedivh
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html
+  commentId: T:WarcraftLegacies.Source.Quests.QuestBookOfMedivh
+  fullName: WarcraftLegacies.Source.Quests.QuestBookOfMedivh
+  nameWithType: QuestBookOfMedivh
+- uid: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.#ctor(unit,System.Boolean)
+  name: QuestBookOfMedivh(unit, Boolean)
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html#WarcraftLegacies_Source_Quests_QuestBookOfMedivh__ctor_unit_System_Boolean_
+  commentId: M:WarcraftLegacies.Source.Quests.QuestBookOfMedivh.#ctor(unit,System.Boolean)
+  fullName: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.QuestBookOfMedivh(unit, System.Boolean)
+  nameWithType: QuestBookOfMedivh.QuestBookOfMedivh(unit, Boolean)
+- uid: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.#ctor*
+  name: QuestBookOfMedivh
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html#WarcraftLegacies_Source_Quests_QuestBookOfMedivh__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestBookOfMedivh.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.QuestBookOfMedivh
+  nameWithType: QuestBookOfMedivh.QuestBookOfMedivh
+- uid: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html#WarcraftLegacies_Source_Quests_QuestBookOfMedivh_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.QuestBookOfMedivh.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.CompletionPopup
+  nameWithType: QuestBookOfMedivh.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html#WarcraftLegacies_Source_Quests_QuestBookOfMedivh_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestBookOfMedivh.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.CompletionPopup
+  nameWithType: QuestBookOfMedivh.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.FailurePopup
+  name: FailurePopup
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html#WarcraftLegacies_Source_Quests_QuestBookOfMedivh_FailurePopup
+  commentId: P:WarcraftLegacies.Source.Quests.QuestBookOfMedivh.FailurePopup
+  fullName: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.FailurePopup
+  nameWithType: QuestBookOfMedivh.FailurePopup
+- uid: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.FailurePopup*
+  name: FailurePopup
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html#WarcraftLegacies_Source_Quests_QuestBookOfMedivh_FailurePopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestBookOfMedivh.FailurePopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.FailurePopup
+  nameWithType: QuestBookOfMedivh.FailurePopup
+- uid: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html#WarcraftLegacies_Source_Quests_QuestBookOfMedivh_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.QuestBookOfMedivh.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestBookOfMedivh.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html#WarcraftLegacies_Source_Quests_QuestBookOfMedivh_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestBookOfMedivh.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.OnComplete
+  nameWithType: QuestBookOfMedivh.OnComplete
+- uid: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html#WarcraftLegacies_Source_Quests_QuestBookOfMedivh_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.QuestBookOfMedivh.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.RewardDescription
+  nameWithType: QuestBookOfMedivh.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html#WarcraftLegacies_Source_Quests_QuestBookOfMedivh_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestBookOfMedivh.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.RewardDescription
+  nameWithType: QuestBookOfMedivh.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.QuestTombOfSargeras
   name: QuestTombOfSargeras
   href: api-source/WarcraftLegacies.Source.Quests.QuestTombOfSargeras.html
@@ -27896,19 +28102,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactAshbringer
   nameWithType: ArtifactSetup.ArtifactAshbringer
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactBookofmedivh
-  name: ArtifactBookofmedivh
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactBookofmedivh
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactBookofmedivh
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactBookofmedivh
-  nameWithType: ArtifactSetup.ArtifactBookofmedivh
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactBookofmedivh*
-  name: ArtifactBookofmedivh
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactBookofmedivh_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactBookofmedivh
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactBookofmedivh
-  nameWithType: ArtifactSetup.ArtifactBookofmedivh
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrowneasternkingdoms
   name: ArtifactCrowneasternkingdoms
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactCrowneasternkingdoms
@@ -28156,6 +28349,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.AzureFragment
   nameWithType: ArtifactSetup.AzureFragment
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.BookOfMedivh
+  name: BookOfMedivh
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_BookOfMedivh
+  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.BookOfMedivh
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.BookOfMedivh
+  nameWithType: ArtifactSetup.BookOfMedivh
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.BookOfMedivh*
+  name: BookOfMedivh
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_BookOfMedivh_
+  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.BookOfMedivh
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.BookOfMedivh
+  nameWithType: ArtifactSetup.BookOfMedivh
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.BronzeFragment
   name: BronzeFragment
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_BronzeFragment

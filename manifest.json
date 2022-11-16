@@ -2193,7 +2193,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.QuestSystem.Objective.html",
-          "hash": "0f1+QhBy8sJzWj1Grn6Gwg=="
+          "hash": "3NdMvYx06pxpqBWpiIzq/Q=="
         }
       },
       "is_incremental": false,
@@ -2249,6 +2249,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.html",
+          "hash": "BQBT6CoI4U7MZSCvuSFLFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAcquireArtifact.yml",
       "output": {
         ".html": {
@@ -2261,11 +2273,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyHeroWithLevelReachRect.html",
+          "hash": "jDOS0+6RyetJAPuvuS+8JA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.yml",
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAnyUnitInRect.html",
-          "hash": "Mu1v8Xgesiw0o5+2dYyLSw=="
+          "hash": "8ePJATdLAwd3NCByJEihTw=="
         }
       },
       "is_incremental": false,
@@ -2417,11 +2441,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.yml",
+      "source_relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.yml",
       "output": {
         ".html": {
-          "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelReachRect.html",
-          "hash": "VV9xXbkvBGBhN0A10bzL1Q=="
+          "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.html",
+          "hash": "MjV+6KorjxcAdLJdckdU1A=="
         }
       },
       "is_incremental": false,
@@ -2518,6 +2542,18 @@
         ".html": {
           "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveLegendReachRect.html",
           "hash": "4iEwJj9EZFgEW8Rs7ksatg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveNoOtherPlayerGetsArtifact.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveNoOtherPlayerGetsArtifact.html",
+          "hash": "z86/jnPxOYTiQjI+V7fCiA=="
         }
       },
       "is_incremental": false,
@@ -2625,7 +2661,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.html",
-          "hash": "mc/+UbhZnz+/VCaux+RUfg=="
+          "hash": "WfVcP8YRjYuCsF0tIKtDfA=="
         }
       },
       "is_incremental": false,
@@ -3465,7 +3501,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "bFdaGPFw/alSm5vi6Ch1hg=="
+          "hash": "J7WZMl4hjX3hhpCzjgx73g=="
         }
       },
       "is_incremental": false,
@@ -5229,7 +5265,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.html",
-          "hash": "LhcmswgQthxjwMVdGxMZvw=="
+          "hash": "qlyLoAYsng5kR/3JcYrwvQ=="
         }
       },
       "is_incremental": false,
@@ -5325,7 +5361,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestSummonLegion.html",
-          "hash": "KXJu9xK+nN7SnUy28sELkA=="
+          "hash": "tylMOdTmDrWk3j/CMyfOmw=="
         }
       },
       "is_incremental": false,
@@ -5650,6 +5686,18 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.html",
           "hash": "hmadOAocB6HIyqwtY41Hcw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html",
+          "hash": "mutgWgBKrGmjc7b3I36lOQ=="
         }
       },
       "is_incremental": false,
@@ -6441,7 +6489,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.html",
-          "hash": "w7JnhpsOSmcSFDTqwDK2GQ=="
+          "hash": "RkMkCsxYBQ6P5xtFsposmw=="
         }
       },
       "is_incremental": false,
@@ -6765,7 +6813,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html",
-          "hash": "HnQGBFSkBBzNLptwkv03Dg=="
+          "hash": "H94s+oITQMCIBhQtAE7BGQ=="
         }
       },
       "is_incremental": false,
@@ -7785,7 +7833,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.html",
-          "hash": "7Diu3ESt+MZqIqmA1tVqSA=="
+          "hash": "mgUDmqeyYE/Q16nMK0zV/w=="
         }
       },
       "is_incremental": false,
@@ -8145,7 +8193,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "TI+038ciGg6SKs09VLCd1g=="
+          "hash": "ZDhkMx/Mx2D+ZlzN3GLTjw=="
         }
       },
       "is_incremental": false,
@@ -8220,7 +8268,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 677,
+          "total_file_count": 681,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
