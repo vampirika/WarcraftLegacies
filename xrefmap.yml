@@ -4249,12 +4249,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Faction.FoodMaximum
   nameWithType: Faction.FoodMaximum
-- uid: MacroTools.FactionSystem.Faction.GameLeave
-  name: GameLeave
-  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_GameLeave
-  commentId: E:MacroTools.FactionSystem.Faction.GameLeave
-  fullName: MacroTools.FactionSystem.Faction.GameLeave
-  nameWithType: Faction.GameLeave
 - uid: MacroTools.FactionSystem.Faction.GetAllPowers
   name: GetAllPowers()
   href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_GetAllPowers
@@ -4393,6 +4387,12 @@ references:
   commentId: E:MacroTools.FactionSystem.Faction.JoinedTeam
   fullName: MacroTools.FactionSystem.Faction.JoinedTeam
   nameWithType: Faction.JoinedTeam
+- uid: MacroTools.FactionSystem.Faction.LeftGame
+  name: LeftGame
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_LeftGame
+  commentId: E:MacroTools.FactionSystem.Faction.LeftGame
+  fullName: MacroTools.FactionSystem.Faction.LeftGame
+  nameWithType: Faction.LeftGame
 - uid: MacroTools.FactionSystem.Faction.Lumber
   name: Lumber
   href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_Lumber
@@ -16939,6 +16939,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.Setup
   nameWithType: EventKelthuzadDeath.Setup
+- uid: WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves
+  name: HelmOfDominationDropsWhenScourgeLeaves
+  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.html
+  commentId: T:WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves
+  fullName: WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves
+  nameWithType: HelmOfDominationDropsWhenScourgeLeaves
+- uid: WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.html#WarcraftLegacies_Source_Mechanics_Scourge_HelmOfDominationDropsWhenScourgeLeaves_Setup
+  commentId: M:WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.Setup
+  fullName: WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.Setup()
+  nameWithType: HelmOfDominationDropsWhenScourgeLeaves.Setup()
+- uid: WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.html#WarcraftLegacies_Source_Mechanics_Scourge_HelmOfDominationDropsWhenScourgeLeaves_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.Setup
+  nameWithType: HelmOfDominationDropsWhenScourgeLeaves.Setup
 - uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague
   name: WarcraftLegacies.Source.Mechanics.Scourge.Plague
   href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.html

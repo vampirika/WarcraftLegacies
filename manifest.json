@@ -1053,7 +1053,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Faction.html",
-          "hash": "Ag7WUWlyuuxUj4UbbBWKpg=="
+          "hash": "nJ8b4n1WpQTZxIg/zyDqyA=="
         }
       },
       "is_incremental": false,
@@ -4217,6 +4217,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.html",
+          "hash": "thMXo8R2RbS+pfhMVQt0jQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronBuff.yml",
       "output": {
         ".html": {
@@ -4293,7 +4305,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Scourge.html",
-          "hash": "oU8j9b1ap/jtMPmrspb1/g=="
+          "hash": "nslUriemTLFDBTnVD7etuA=="
         }
       },
       "is_incremental": false,
@@ -7149,7 +7161,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.html",
-          "hash": "XiqWJkyY+c2ZYZ/KuGUtXQ=="
+          "hash": "Sjt+9Snvb09hxyN9QiSbog=="
         }
       },
       "is_incremental": false,
@@ -8193,7 +8205,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "ZDhkMx/Mx2D+ZlzN3GLTjw=="
+          "hash": "V3Tq+VahjBLL/yVM42SqpQ=="
         }
       },
       "is_incremental": false,
@@ -8268,7 +8280,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 681,
+          "total_file_count": 682,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
