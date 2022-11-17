@@ -32980,42 +32980,58 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.Legends.LegendSentinels
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels
   nameWithType: LegendSentinels
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.legendAuberdine
-  name: legendAuberdine
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_legendAuberdine
-  commentId: F:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.legendAuberdine
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.legendAuberdine
-  nameWithType: LegendSentinels.legendAuberdine
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.legendFeathermoon
-  name: legendFeathermoon
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_legendFeathermoon
-  commentId: F:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.legendFeathermoon
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.legendFeathermoon
-  nameWithType: LegendSentinels.legendFeathermoon
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.legendJarod
-  name: legendJarod
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_legendJarod
-  commentId: F:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.legendJarod
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.legendJarod
-  nameWithType: LegendSentinels.legendJarod
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.legendMaiev
-  name: legendMaiev
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_legendMaiev
-  commentId: F:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.legendMaiev
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.legendMaiev
-  nameWithType: LegendSentinels.legendMaiev
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.legendShandris
-  name: legendShandris
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_legendShandris
-  commentId: F:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.legendShandris
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.legendShandris
-  nameWithType: LegendSentinels.legendShandris
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.legendTyrande
-  name: legendTyrande
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_legendTyrande
-  commentId: F:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.legendTyrande
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.legendTyrande
-  nameWithType: LegendSentinels.legendTyrande
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Auberdine
+  name: Auberdine
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Auberdine
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Auberdine
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Auberdine
+  nameWithType: LegendSentinels.Auberdine
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Auberdine*
+  name: Auberdine
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Auberdine_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Auberdine
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Auberdine
+  nameWithType: LegendSentinels.Auberdine
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Feathermoon
+  name: Feathermoon
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Feathermoon
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Feathermoon
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Feathermoon
+  nameWithType: LegendSentinels.Feathermoon
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Feathermoon*
+  name: Feathermoon
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Feathermoon_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Feathermoon
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Feathermoon
+  nameWithType: LegendSentinels.Feathermoon
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Jarod
+  name: Jarod
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Jarod
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Jarod
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Jarod
+  nameWithType: LegendSentinels.Jarod
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Jarod*
+  name: Jarod
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Jarod_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Jarod
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Jarod
+  nameWithType: LegendSentinels.Jarod
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Maiev
+  name: Maiev
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Maiev
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Maiev
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Maiev
+  nameWithType: LegendSentinels.Maiev
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Maiev*
+  name: Maiev
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Maiev_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Maiev
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Maiev
+  nameWithType: LegendSentinels.Maiev
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Setup
   name: Setup()
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Setup
@@ -33029,6 +33045,32 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Setup
   nameWithType: LegendSentinels.Setup
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Shandris
+  name: Shandris
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Shandris
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Shandris
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Shandris
+  nameWithType: LegendSentinels.Shandris
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Shandris*
+  name: Shandris
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Shandris_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Shandris
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Shandris
+  nameWithType: LegendSentinels.Shandris
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Tyrande
+  name: Tyrande
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Tyrande
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Tyrande
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Tyrande
+  nameWithType: LegendSentinels.Tyrande
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Tyrande*
+  name: Tyrande
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Tyrande_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Tyrande
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Tyrande
+  nameWithType: LegendSentinels.Tyrande
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendStormwind
   name: LegendStormwind
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendStormwind.html
