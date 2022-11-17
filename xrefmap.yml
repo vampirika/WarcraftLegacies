@@ -6059,19 +6059,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Frames.Books.ArtifactSystem.ArtifactPage.AddArtifact
   nameWithType: ArtifactPage.AddArtifact
-- uid: MacroTools.Frames.Books.ArtifactSystem.ArtifactPage.RemoveArtifact(MacroTools.ArtifactSystem.Artifact)
-  name: RemoveArtifact(Artifact)
-  href: api-macroTools/MacroTools.Frames.Books.ArtifactSystem.ArtifactPage.html#MacroTools_Frames_Books_ArtifactSystem_ArtifactPage_RemoveArtifact_MacroTools_ArtifactSystem_Artifact_
-  commentId: M:MacroTools.Frames.Books.ArtifactSystem.ArtifactPage.RemoveArtifact(MacroTools.ArtifactSystem.Artifact)
-  fullName: MacroTools.Frames.Books.ArtifactSystem.ArtifactPage.RemoveArtifact(MacroTools.ArtifactSystem.Artifact)
-  nameWithType: ArtifactPage.RemoveArtifact(Artifact)
-- uid: MacroTools.Frames.Books.ArtifactSystem.ArtifactPage.RemoveArtifact*
-  name: RemoveArtifact
-  href: api-macroTools/MacroTools.Frames.Books.ArtifactSystem.ArtifactPage.html#MacroTools_Frames_Books_ArtifactSystem_ArtifactPage_RemoveArtifact_
-  commentId: Overload:MacroTools.Frames.Books.ArtifactSystem.ArtifactPage.RemoveArtifact
-  isSpec: "True"
-  fullName: MacroTools.Frames.Books.ArtifactSystem.ArtifactPage.RemoveArtifact
-  nameWithType: ArtifactPage.RemoveArtifact
 - uid: MacroTools.Frames.Books.Augments
   name: MacroTools.Frames.Books.Augments
   href: api-macroTools/MacroTools.Frames.Books.Augments.html
