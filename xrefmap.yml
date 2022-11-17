@@ -3699,6 +3699,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.IsAlive
   nameWithType: UnitExtensions.IsAlive
+- uid: MacroTools.Extensions.UnitExtensions.IsIllusion(unit)
+  name: IsIllusion(unit)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_IsIllusion_unit_
+  commentId: M:MacroTools.Extensions.UnitExtensions.IsIllusion(unit)
+  fullName: MacroTools.Extensions.UnitExtensions.IsIllusion(unit)
+  nameWithType: UnitExtensions.IsIllusion(unit)
+- uid: MacroTools.Extensions.UnitExtensions.IsIllusion*
+  name: IsIllusion
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_IsIllusion_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.IsIllusion
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.IsIllusion
+  nameWithType: UnitExtensions.IsIllusion
 - uid: MacroTools.Extensions.UnitExtensions.IssueOrder(unit,System.String)
   name: IssueOrder(unit, String)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_IssueOrder_unit_System_String_
@@ -3718,6 +3731,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.IssueOrder
   nameWithType: UnitExtensions.IssueOrder
+- uid: MacroTools.Extensions.UnitExtensions.IsType(unit,unittype)
+  name: IsType(unit, unittype)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_IsType_unit_unittype_
+  commentId: M:MacroTools.Extensions.UnitExtensions.IsType(unit,unittype)
+  fullName: MacroTools.Extensions.UnitExtensions.IsType(unit, unittype)
+  nameWithType: UnitExtensions.IsType(unit, unittype)
+- uid: MacroTools.Extensions.UnitExtensions.IsType*
+  name: IsType
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_IsType_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.IsType
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.IsType
+  nameWithType: UnitExtensions.IsType
 - uid: MacroTools.Extensions.UnitExtensions.Kill(unit)
   name: Kill(unit)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_Kill_unit_
