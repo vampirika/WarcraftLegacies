@@ -28801,6 +28801,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.AugmentSetup.Setup
   nameWithType: AugmentSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.BlockerSetup
+  name: BlockerSetup
+  href: api-source/WarcraftLegacies.Source.Setup.BlockerSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.BlockerSetup
+  fullName: WarcraftLegacies.Source.Setup.BlockerSetup
+  nameWithType: BlockerSetup
+- uid: WarcraftLegacies.Source.Setup.BlockerSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.BlockerSetup.html#WarcraftLegacies_Source_Setup_BlockerSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.BlockerSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.BlockerSetup.Setup()
+  nameWithType: BlockerSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.BlockerSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.BlockerSetup.html#WarcraftLegacies_Source_Setup_BlockerSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.BlockerSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.BlockerSetup.Setup
+  nameWithType: BlockerSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.Cameras
   name: Cameras
   href: api-source/WarcraftLegacies.Source.Setup.Cameras.html

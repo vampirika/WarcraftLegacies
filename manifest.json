@@ -6893,6 +6893,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.BlockerSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.BlockerSetup.html",
+          "hash": "1+41Y29jd2fGCWhQAeWG9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Cameras.yml",
       "output": {
         ".html": {
@@ -8181,7 +8193,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.html",
-          "hash": "hbNZ5RbWnRpYqIV0rfOAYA=="
+          "hash": "skNz4vmCFRSpQfW/iqmUDQ=="
         }
       },
       "is_incremental": false,
@@ -8265,7 +8277,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "mzpqtODYF360TdBkT9Qtxw=="
+          "hash": "b+Pvbm6ihBAi3mbSBgckWQ=="
         }
       },
       "is_incremental": false,
@@ -8340,7 +8352,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 687,
+          "total_file_count": 688,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
