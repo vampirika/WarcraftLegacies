@@ -24693,19 +24693,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestScarletCrusade.OnComplete
   nameWithType: QuestScarletCrusade.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestScarletCrusade.OnFail(MacroTools.FactionSystem.Faction)
-  name: OnFail(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestScarletCrusade.html#WarcraftLegacies_Source_Quests_Scarlet_QuestScarletCrusade_OnFail_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Scarlet.QuestScarletCrusade.OnFail(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestScarletCrusade.OnFail(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestScarletCrusade.OnFail(Faction)
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestScarletCrusade.OnFail*
-  name: OnFail
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestScarletCrusade.html#WarcraftLegacies_Source_Quests_Scarlet_QuestScarletCrusade_OnFail_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scarlet.QuestScarletCrusade.OnFail
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestScarletCrusade.OnFail
-  nameWithType: QuestScarletCrusade.OnFail
 - uid: WarcraftLegacies.Source.Quests.Scarlet.QuestScarletCrusade.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestScarletCrusade.html#WarcraftLegacies_Source_Quests_Scarlet_QuestScarletCrusade_RewardDescription
