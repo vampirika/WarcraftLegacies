@@ -4565,6 +4565,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.html",
+          "hash": "ufNRbofFgeV8eLL4ar1DZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.yml",
       "output": {
         ".html": {
@@ -4581,7 +4593,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.html",
-          "hash": "iuT3OjJLhJZuqrRywsq+6A=="
+          "hash": "lTJNcG1TRJ4AIwfFn2+fDA=="
         }
       },
       "is_incremental": false,
@@ -4601,11 +4613,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.html",
+          "hash": "YseV51DqKuvXcuVNaW9rOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.html",
-          "hash": "ZlcQcpDA8Un3pfFCbKF6Sg=="
+          "hash": "7KVvKWMnSydZOudbQkBuKw=="
         }
       },
       "is_incremental": false,
@@ -5237,6 +5261,30 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.html",
+          "hash": "owi9xHywejJ0hQ8EBerJYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.html",
+          "hash": "vjGlPnX/+cdJwU1T20lztg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestThelsamar.yml",
       "output": {
         ".html": {
@@ -5265,7 +5313,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.html",
-          "hash": "0PYzF5izLOcb/gB6TtOojA=="
+          "hash": "LwRKg4At5mn/I3+HR5F1zA=="
         }
       },
       "is_incremental": false,
@@ -7389,7 +7437,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html",
-          "hash": "HIr739YyFRYqdEfx4o6rHA=="
+          "hash": "/WCSdvUeejcbyhSobGgK4A=="
         }
       },
       "is_incremental": false,
@@ -7473,7 +7521,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendIronforge.html",
-          "hash": "mJP8ig/irp+v75XsbIgpoQ=="
+          "hash": "KnKmhu7fojK7nroVYx/k+A=="
         }
       },
       "is_incremental": false,
@@ -8277,7 +8325,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "b+Pvbm6ihBAi3mbSBgckWQ=="
+          "hash": "wWg7AXIYPPOPZ/EfVDhK5A=="
         }
       },
       "is_incremental": false,
@@ -8352,7 +8400,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 688,
+          "total_file_count": 692,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

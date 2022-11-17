@@ -18408,6 +18408,64 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.RewardDescription
   nameWithType: QuestDragonmawPort.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege
+  name: QuestDunAlgazSiege
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.html
+  commentId: T:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege
+  nameWithType: QuestDunAlgazSiege
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.#ctor
+  name: QuestDunAlgazSiege()
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDunAlgazSiege__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.#ctor
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.QuestDunAlgazSiege()
+  nameWithType: QuestDunAlgazSiege.QuestDunAlgazSiege()
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.#ctor*
+  name: QuestDunAlgazSiege
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDunAlgazSiege__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.QuestDunAlgazSiege
+  nameWithType: QuestDunAlgazSiege.QuestDunAlgazSiege
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDunAlgazSiege_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.CompletionPopup
+  nameWithType: QuestDunAlgazSiege.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDunAlgazSiege_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.CompletionPopup
+  nameWithType: QuestDunAlgazSiege.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDunAlgazSiege_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestDunAlgazSiege.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDunAlgazSiege_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.OnComplete
+  nameWithType: QuestDunAlgazSiege.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDunAlgazSiege_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.RewardDescription
+  nameWithType: QuestDunAlgazSiege.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDunAlgazSiege_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDunAlgazSiege.RewardDescription
+  nameWithType: QuestDunAlgazSiege.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol
   name: QuestGrimBatol
   href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestGrimBatol.html
@@ -18608,6 +18666,64 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestStonemaul.RewardDescription
   nameWithType: QuestStonemaul.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive
+  name: QuestWetlandOffensive
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.html
+  commentId: T:WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive
+  nameWithType: QuestWetlandOffensive
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.#ctor
+  name: QuestWetlandOffensive()
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestWetlandOffensive__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.#ctor
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.QuestWetlandOffensive()
+  nameWithType: QuestWetlandOffensive.QuestWetlandOffensive()
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.#ctor*
+  name: QuestWetlandOffensive
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestWetlandOffensive__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.QuestWetlandOffensive
+  nameWithType: QuestWetlandOffensive.QuestWetlandOffensive
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestWetlandOffensive_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.CompletionPopup
+  nameWithType: QuestWetlandOffensive.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestWetlandOffensive_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.CompletionPopup
+  nameWithType: QuestWetlandOffensive.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestWetlandOffensive_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestWetlandOffensive.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestWetlandOffensive_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.OnComplete
+  nameWithType: QuestWetlandOffensive.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestWetlandOffensive_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.RewardDescription
+  nameWithType: QuestWetlandOffensive.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestWetlandOffensive_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.RewardDescription
+  nameWithType: QuestWetlandOffensive.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Druids
   name: WarcraftLegacies.Source.Quests.Druids
   href: api-source/WarcraftLegacies.Source.Quests.Druids.html
@@ -21610,6 +21726,122 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestGnomeregan.RewardDescription
   nameWithType: QuestGnomeregan.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive
+  name: QuestGrimBatolOffensive
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.html
+  commentId: T:WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive
+  nameWithType: QuestGrimBatolOffensive
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.#ctor
+  name: QuestGrimBatolOffensive()
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.html#WarcraftLegacies_Source_Quests_Ironforge_QuestGrimBatolOffensive__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.#ctor
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.QuestGrimBatolOffensive()
+  nameWithType: QuestGrimBatolOffensive.QuestGrimBatolOffensive()
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.#ctor*
+  name: QuestGrimBatolOffensive
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.html#WarcraftLegacies_Source_Quests_Ironforge_QuestGrimBatolOffensive__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.QuestGrimBatolOffensive
+  nameWithType: QuestGrimBatolOffensive.QuestGrimBatolOffensive
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.html#WarcraftLegacies_Source_Quests_Ironforge_QuestGrimBatolOffensive_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.CompletionPopup
+  nameWithType: QuestGrimBatolOffensive.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.html#WarcraftLegacies_Source_Quests_Ironforge_QuestGrimBatolOffensive_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.CompletionPopup
+  nameWithType: QuestGrimBatolOffensive.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.html#WarcraftLegacies_Source_Quests_Ironforge_QuestGrimBatolOffensive_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestGrimBatolOffensive.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.html#WarcraftLegacies_Source_Quests_Ironforge_QuestGrimBatolOffensive_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.OnComplete
+  nameWithType: QuestGrimBatolOffensive.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.html#WarcraftLegacies_Source_Quests_Ironforge_QuestGrimBatolOffensive_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.RewardDescription
+  nameWithType: QuestGrimBatolOffensive.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.html#WarcraftLegacies_Source_Quests_Ironforge_QuestGrimBatolOffensive_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.RewardDescription
+  nameWithType: QuestGrimBatolOffensive.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast
+  name: QuestTheAccursedCoast
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.html
+  commentId: T:WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast
+  nameWithType: QuestTheAccursedCoast
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.#ctor
+  name: QuestTheAccursedCoast()
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.html#WarcraftLegacies_Source_Quests_Ironforge_QuestTheAccursedCoast__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.#ctor
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.QuestTheAccursedCoast()
+  nameWithType: QuestTheAccursedCoast.QuestTheAccursedCoast()
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.#ctor*
+  name: QuestTheAccursedCoast
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.html#WarcraftLegacies_Source_Quests_Ironforge_QuestTheAccursedCoast__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.QuestTheAccursedCoast
+  nameWithType: QuestTheAccursedCoast.QuestTheAccursedCoast
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.html#WarcraftLegacies_Source_Quests_Ironforge_QuestTheAccursedCoast_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.CompletionPopup
+  nameWithType: QuestTheAccursedCoast.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.html#WarcraftLegacies_Source_Quests_Ironforge_QuestTheAccursedCoast_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.CompletionPopup
+  nameWithType: QuestTheAccursedCoast.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.html#WarcraftLegacies_Source_Quests_Ironforge_QuestTheAccursedCoast_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestTheAccursedCoast.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.html#WarcraftLegacies_Source_Quests_Ironforge_QuestTheAccursedCoast_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.OnComplete
+  nameWithType: QuestTheAccursedCoast.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.html#WarcraftLegacies_Source_Quests_Ironforge_QuestTheAccursedCoast_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.RewardDescription
+  nameWithType: QuestTheAccursedCoast.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.html#WarcraftLegacies_Source_Quests_Ironforge_QuestTheAccursedCoast_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.RewardDescription
+  nameWithType: QuestTheAccursedCoast.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Ironforge.QuestThelsamar
   name: QuestThelsamar
   href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestThelsamar.html
@@ -30999,6 +31231,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.DragonmawPort
   nameWithType: LegendDragonmaw.DragonmawPort
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendNekrosh
+  name: LegendNekrosh
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_LegendNekrosh
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendNekrosh
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendNekrosh
+  nameWithType: LegendDragonmaw.LegendNekrosh
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendNekrosh*
+  name: LegendNekrosh
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_LegendNekrosh_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendNekrosh
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendNekrosh
+  nameWithType: LegendDragonmaw.LegendNekrosh
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendZaela
   name: LegendZaela
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_LegendZaela
@@ -31704,6 +31949,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendIronforge.LegendMagni
   nameWithType: LegendIronforge.LegendMagni
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendIronforge.LegendMenethilHarbor
+  name: LegendMenethilHarbor
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendIronforge.html#WarcraftLegacies_Source_Setup_Legends_LegendIronforge_LegendMenethilHarbor
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendIronforge.LegendMenethilHarbor
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendIronforge.LegendMenethilHarbor
+  nameWithType: LegendIronforge.LegendMenethilHarbor
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendIronforge.LegendMenethilHarbor*
+  name: LegendMenethilHarbor
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendIronforge.html#WarcraftLegacies_Source_Setup_Legends_LegendIronforge_LegendMenethilHarbor_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendIronforge.LegendMenethilHarbor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendIronforge.LegendMenethilHarbor
+  nameWithType: LegendIronforge.LegendMenethilHarbor
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendIronforge.LegendThelsamar
   name: LegendThelsamar
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendIronforge.html#WarcraftLegacies_Source_Setup_Legends_LegendIronforge_LegendThelsamar
