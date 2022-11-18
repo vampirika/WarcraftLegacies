@@ -6533,6 +6533,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Team.Size
   nameWithType: Team.Size
+- uid: MacroTools.FactionSystem.Team.UndefeatedPlayerCount
+  name: UndefeatedPlayerCount
+  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_UndefeatedPlayerCount
+  commentId: P:MacroTools.FactionSystem.Team.UndefeatedPlayerCount
+  fullName: MacroTools.FactionSystem.Team.UndefeatedPlayerCount
+  nameWithType: Team.UndefeatedPlayerCount
+- uid: MacroTools.FactionSystem.Team.UndefeatedPlayerCount*
+  name: UndefeatedPlayerCount
+  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_UndefeatedPlayerCount_
+  commentId: Overload:MacroTools.FactionSystem.Team.UndefeatedPlayerCount
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Team.UndefeatedPlayerCount
+  nameWithType: Team.UndefeatedPlayerCount
 - uid: MacroTools.FactionSystem.Team.Uninvite(player)
   name: Uninvite(player)
   href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_Uninvite_player_
