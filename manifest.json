@@ -8117,6 +8117,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.DragonmawSpellSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.DragonmawSpellSetup.html",
+          "hash": "AM+GaQTrpiY/nTvJeAoccw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.DruidsSpellSetup.yml",
       "output": {
         ".html": {
@@ -8253,7 +8265,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.html",
-          "hash": "sKFU/RRGhXzO3mky/CTqfA=="
+          "hash": "ZHitJRYAZs2bSwTyb7G42g=="
         }
       },
       "is_incremental": false,
@@ -8385,7 +8397,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "NdGDBzqcCN260NbcjdBUVw=="
+          "hash": "IMS+K3ZoS+vJxUeYQ6vACA=="
         }
       },
       "is_incremental": false,
@@ -8460,7 +8472,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 697,
+          "total_file_count": 698,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

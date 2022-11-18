@@ -34396,6 +34396,25 @@ references:
   commentId: N:WarcraftLegacies.Source.Setup.Spells
   fullName: WarcraftLegacies.Source.Setup.Spells
   nameWithType: WarcraftLegacies.Source.Setup.Spells
+- uid: WarcraftLegacies.Source.Setup.Spells.DragonmawSpellSetup
+  name: DragonmawSpellSetup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.DragonmawSpellSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.Spells.DragonmawSpellSetup
+  fullName: WarcraftLegacies.Source.Setup.Spells.DragonmawSpellSetup
+  nameWithType: DragonmawSpellSetup
+- uid: WarcraftLegacies.Source.Setup.Spells.DragonmawSpellSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.DragonmawSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_DragonmawSpellSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.Spells.DragonmawSpellSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.Spells.DragonmawSpellSetup.Setup()
+  nameWithType: DragonmawSpellSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.Spells.DragonmawSpellSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.DragonmawSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_DragonmawSpellSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Spells.DragonmawSpellSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Spells.DragonmawSpellSetup.Setup
+  nameWithType: DragonmawSpellSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.Spells.DruidsSpellSetup
   name: DruidsSpellSetup
   href: api-source/WarcraftLegacies.Source.Setup.Spells.DruidsSpellSetup.html
