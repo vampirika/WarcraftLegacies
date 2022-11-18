@@ -82,19 +82,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.ArtifactSystem.Artifact.FalsePosition
   nameWithType: Artifact.FalsePosition
-- uid: MacroTools.ArtifactSystem.Artifact.Finalize
-  name: Finalize()
-  href: api-macroTools/MacroTools.ArtifactSystem.Artifact.html#MacroTools_ArtifactSystem_Artifact_Finalize
-  commentId: M:MacroTools.ArtifactSystem.Artifact.Finalize
-  fullName: MacroTools.ArtifactSystem.Artifact.Finalize()
-  nameWithType: Artifact.Finalize()
-- uid: MacroTools.ArtifactSystem.Artifact.Finalize*
-  name: Finalize
-  href: api-macroTools/MacroTools.ArtifactSystem.Artifact.html#MacroTools_ArtifactSystem_Artifact_Finalize_
-  commentId: Overload:MacroTools.ArtifactSystem.Artifact.Finalize
-  isSpec: "True"
-  fullName: MacroTools.ArtifactSystem.Artifact.Finalize
-  nameWithType: Artifact.Finalize
 - uid: MacroTools.ArtifactSystem.Artifact.Item
   name: Item
   href: api-macroTools/MacroTools.ArtifactSystem.Artifact.html#MacroTools_ArtifactSystem_Artifact_Item
@@ -5637,19 +5624,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Legend.DeathSfx
   nameWithType: Legend.DeathSfx
-- uid: MacroTools.FactionSystem.Legend.Finalize
-  name: Finalize()
-  href: api-macroTools/MacroTools.FactionSystem.Legend.html#MacroTools_FactionSystem_Legend_Finalize
-  commentId: M:MacroTools.FactionSystem.Legend.Finalize
-  fullName: MacroTools.FactionSystem.Legend.Finalize()
-  nameWithType: Legend.Finalize()
-- uid: MacroTools.FactionSystem.Legend.Finalize*
-  name: Finalize
-  href: api-macroTools/MacroTools.FactionSystem.Legend.html#MacroTools_FactionSystem_Legend_Finalize_
-  commentId: Overload:MacroTools.FactionSystem.Legend.Finalize
-  isSpec: "True"
-  fullName: MacroTools.FactionSystem.Legend.Finalize
-  nameWithType: Legend.Finalize
 - uid: MacroTools.FactionSystem.Legend.ForceCreate(player,Point,System.Single)
   name: ForceCreate(player, Point, Single)
   href: api-macroTools/MacroTools.FactionSystem.Legend.html#MacroTools_FactionSystem_Legend_ForceCreate_player_Point_System_Single_
@@ -6749,19 +6723,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Frames.Frame.DisposeEvents
   nameWithType: Frame.DisposeEvents
-- uid: MacroTools.Frames.Frame.Finalize
-  name: Finalize()
-  href: api-macroTools/MacroTools.Frames.Frame.html#MacroTools_Frames_Frame_Finalize
-  commentId: M:MacroTools.Frames.Frame.Finalize
-  fullName: MacroTools.Frames.Frame.Finalize()
-  nameWithType: Frame.Finalize()
-- uid: MacroTools.Frames.Frame.Finalize*
-  name: Finalize
-  href: api-macroTools/MacroTools.Frames.Frame.html#MacroTools_Frames_Frame_Finalize_
-  commentId: Overload:MacroTools.Frames.Frame.Finalize
-  isSpec: "True"
-  fullName: MacroTools.Frames.Frame.Finalize
-  nameWithType: Frame.Finalize
 - uid: MacroTools.Frames.Frame.Handle
   name: Handle
   href: api-macroTools/MacroTools.Frames.Frame.html#MacroTools_Frames_Frame_Handle
@@ -15334,19 +15295,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Wrappers.GroupWrapper.EnumUnitsOfType
   nameWithType: GroupWrapper.EnumUnitsOfType
-- uid: MacroTools.Wrappers.GroupWrapper.Finalize
-  name: Finalize()
-  href: api-macroTools/MacroTools.Wrappers.GroupWrapper.html#MacroTools_Wrappers_GroupWrapper_Finalize
-  commentId: M:MacroTools.Wrappers.GroupWrapper.Finalize
-  fullName: MacroTools.Wrappers.GroupWrapper.Finalize()
-  nameWithType: GroupWrapper.Finalize()
-- uid: MacroTools.Wrappers.GroupWrapper.Finalize*
-  name: Finalize
-  href: api-macroTools/MacroTools.Wrappers.GroupWrapper.html#MacroTools_Wrappers_GroupWrapper_Finalize_
-  commentId: Overload:MacroTools.Wrappers.GroupWrapper.Finalize
-  isSpec: "True"
-  fullName: MacroTools.Wrappers.GroupWrapper.Finalize
-  nameWithType: GroupWrapper.Finalize
 - uid: MacroTools.Wrappers.SoundEax
   name: SoundEax
   href: api-macroTools/MacroTools.Wrappers.SoundEax.html
@@ -15484,19 +15432,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Wrappers.TriggerWrapper.Dispose
   nameWithType: TriggerWrapper.Dispose
-- uid: MacroTools.Wrappers.TriggerWrapper.Finalize
-  name: Finalize()
-  href: api-macroTools/MacroTools.Wrappers.TriggerWrapper.html#MacroTools_Wrappers_TriggerWrapper_Finalize
-  commentId: M:MacroTools.Wrappers.TriggerWrapper.Finalize
-  fullName: MacroTools.Wrappers.TriggerWrapper.Finalize()
-  nameWithType: TriggerWrapper.Finalize()
-- uid: MacroTools.Wrappers.TriggerWrapper.Finalize*
-  name: Finalize
-  href: api-macroTools/MacroTools.Wrappers.TriggerWrapper.html#MacroTools_Wrappers_TriggerWrapper_Finalize_
-  commentId: Overload:MacroTools.Wrappers.TriggerWrapper.Finalize
-  isSpec: "True"
-  fullName: MacroTools.Wrappers.TriggerWrapper.Finalize
-  nameWithType: TriggerWrapper.Finalize
 - uid: MacroTools.Wrappers.TriggerWrapper.RegisterFrameEvent(framehandle,frameeventtype)
   name: RegisterFrameEvent(framehandle, frameeventtype)
   href: api-macroTools/MacroTools.Wrappers.TriggerWrapper.html#MacroTools_Wrappers_TriggerWrapper_RegisterFrameEvent_framehandle_frameeventtype_
