@@ -68,20 +68,25 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="MacroTools.Frames.Books.Book`1">
+            <article class="content wrap" id="_content" data-uid="MacroTools.BookSystem.Book`1">
   
   
-  <h1 id="MacroTools_Frames_Books_Book_1" data-uid="MacroTools.Frames.Books.Book`1" class="text-break">Class Book&lt;T&gt;
+  <h1 id="MacroTools_BookSystem_Book_1" data-uid="MacroTools.BookSystem.Book`1" class="text-break">Class Book&lt;T&gt;
   </h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>A collection of <a class="xref" href="MacroTools.BookSystem.Page.html">Page</a>s that players can flip through to read information.</p>
+</div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><span class="xref">System.Object</span></div>
     <div class="level1"><a class="xref" href="MacroTools.Frames.Frame.html">Frame</a></div>
     <div class="level2"><span class="xref">Book&lt;T&gt;</span></div>
-      <div class="level3"><a class="xref" href="MacroTools.Frames.Books.ArtifactSystem.ArtifactBook.html">ArtifactBook</a></div>
-      <div class="level3"><a class="xref" href="MacroTools.Frames.Books.Powers.PowerBook.html">PowerBook</a></div>
+      <div class="level3"><a class="xref" href="MacroTools.BookSystem.ArtifactSystem.ArtifactBook.html">ArtifactBook</a></div>
+      <div class="level3"><a class="xref" href="MacroTools.BookSystem.Powers.PowerBook.html">PowerBook</a></div>
+  </div>
+  <div classs="implements">
+    <h5>Implements</h5>
+    <div><a class="xref" href="MacroTools.BookSystem.IBook.html">IBook</a></div>
   </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
@@ -125,11 +130,11 @@
       <a class="xref" href="MacroTools.Frames.Frame.html#MacroTools_Frames_Frame_DisposeEvents">Frame.DisposeEvents()</a>
     </div>
   </div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="MacroTools.Frames.Books.html">MacroTools.Frames.Books</a></h6>
+  <h6><strong>Namespace</strong>: <a class="xref" href="MacroTools.BookSystem.html">MacroTools.BookSystem</a></h6>
   <h6><strong>Assembly</strong>: MacroTools.dll</h6>
-  <h5 id="MacroTools_Frames_Books_Book_1_syntax">Syntax</h5>
+  <h5 id="MacroTools_BookSystem_Book_1_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public abstract class Book&lt;T&gt; : Frame where T : Page, new()</code></pre>
+    <pre><code class="lang-csharp hljs">public abstract class Book&lt;T&gt; : Frame, IBook where T : Page, new()</code></pre>
   </div>
   <h5 class="typeParameters">Type Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -150,13 +155,13 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Frames_Books_Book_1__ctor_System_Single_System_Single_System_Single_System_Single_.md&amp;value=---%0Auid%3A%20MacroTools.Frames.Books.Book%601.%23ctor(System.Single%2CSystem.Single%2CSystem.Single%2CSystem.Single)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_BookSystem_Book_1__ctor_System_Single_System_Single_System_Single_System_Single_.md&amp;value=---%0Auid%3A%20MacroTools.BookSystem.Book%601.%23ctor(System.Single%2CSystem.Single%2CSystem.Single%2CSystem.Single)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Frames/Books/Book.cs/#L27">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/BookSystem/Book.cs/#L34">View Source</a>
   </span>
-  <a id="MacroTools_Frames_Books_Book_1__ctor_" data-uid="MacroTools.Frames.Books.Book`1.#ctor*"></a>
-  <h4 id="MacroTools_Frames_Books_Book_1__ctor_System_Single_System_Single_System_Single_System_Single_" data-uid="MacroTools.Frames.Books.Book`1.#ctor(System.Single,System.Single,System.Single,System.Single)">Book(Single, Single, Single, Single)</h4>
+  <a id="MacroTools_BookSystem_Book_1__ctor_" data-uid="MacroTools.BookSystem.Book`1.#ctor*"></a>
+  <h4 id="MacroTools_BookSystem_Book_1__ctor_System_Single_System_Single_System_Single_System_Single_" data-uid="MacroTools.BookSystem.Book`1.#ctor(System.Single,System.Single,System.Single,System.Single)">Book(Single, Single, Single, Single)</h4>
   <div class="markdown level1 summary"><p>Creates a new Book.&gt;.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
@@ -204,13 +209,14 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Frames_Books_Book_1_Pages.md&amp;value=---%0Auid%3A%20MacroTools.Frames.Books.Book%601.Pages%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_BookSystem_Book_1_Pages.md&amp;value=---%0Auid%3A%20MacroTools.BookSystem.Book%601.Pages%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Frames/Books/Book.cs/#L16">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/BookSystem/Book.cs/#L19">View Source</a>
   </span>
-  <h4 id="MacroTools_Frames_Books_Book_1_Pages" data-uid="MacroTools.Frames.Books.Book`1.Pages">Pages</h4>
-  <div class="markdown level1 summary"></div>
+  <h4 id="MacroTools_BookSystem_Book_1_Pages" data-uid="MacroTools.BookSystem.Book`1.Pages">Pages</h4>
+  <div class="markdown level1 summary"><p>All <a class="xref" href="MacroTools.BookSystem.Page.html">Page</a>s contained in the Book.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -235,55 +241,20 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Frames_Books_Book_1_BookTitle.md&amp;value=---%0Auid%3A%20MacroTools.Frames.Books.Book%601.BookTitle%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_BookSystem_Book_1_LauncherParent.md&amp;value=---%0Auid%3A%20MacroTools.BookSystem.Book%601.LauncherParent%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Frames/Books/Book.cs/#L86">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/BookSystem/Book.cs/#L98">View Source</a>
   </span>
-  <a id="MacroTools_Frames_Books_Book_1_BookTitle_" data-uid="MacroTools.Frames.Books.Book`1.BookTitle*"></a>
-  <h4 id="MacroTools_Frames_Books_Book_1_BookTitle" data-uid="MacroTools.Frames.Books.Book`1.BookTitle">BookTitle</h4>
-  <div class="markdown level1 summary"><p>The name of the Book's launcher Button.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">protected string BookTitle
-{
-}</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">System.String</span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  <span class="small pull-right mobile-hide">
-    <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Frames_Books_Book_1_LauncherParent.md&amp;value=---%0Auid%3A%20MacroTools.Frames.Books.Book%601.LauncherParent%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
-  </span>
-  <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Frames/Books/Book.cs/#L99">View Source</a>
-  </span>
-  <a id="MacroTools_Frames_Books_Book_1_LauncherParent_" data-uid="MacroTools.Frames.Books.Book`1.LauncherParent*"></a>
-  <h4 id="MacroTools_Frames_Books_Book_1_LauncherParent" data-uid="MacroTools.Frames.Books.Book`1.LauncherParent">LauncherParent</h4>
+  <a id="MacroTools_BookSystem_Book_1_LauncherParent_" data-uid="MacroTools.BookSystem.Book`1.LauncherParent*"></a>
+  <h4 id="MacroTools_BookSystem_Book_1_LauncherParent" data-uid="MacroTools.BookSystem.Book`1.LauncherParent">LauncherParent</h4>
   <div class="markdown level1 summary"><p>When set, the Book's Launcher button is moved directly below the provided parent with the same width and height.
 Useful for mimicking existing Blizzard buttons like the Quest or Allies menu.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">protected framehandle LauncherParent
-{
-}</code></pre>
+    <pre><code class="lang-csharp hljs">public framehandle LauncherParent { get; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -302,21 +273,19 @@ Useful for mimicking existing Blizzard buttons like the Quest or Allies menu.</p
   </table>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Frames_Books_Book_1_LauncherPosition.md&amp;value=---%0Auid%3A%20MacroTools.Frames.Books.Book%601.LauncherPosition%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_BookSystem_Book_1_OnClickExitButton.md&amp;value=---%0Auid%3A%20MacroTools.BookSystem.Book%601.OnClickExitButton%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Frames/Books/Book.cs/#L112">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/BookSystem/Book.cs/#L83">View Source</a>
   </span>
-  <a id="MacroTools_Frames_Books_Book_1_LauncherPosition_" data-uid="MacroTools.Frames.Books.Book`1.LauncherPosition*"></a>
-  <h4 id="MacroTools_Frames_Books_Book_1_LauncherPosition" data-uid="MacroTools.Frames.Books.Book`1.LauncherPosition">LauncherPosition</h4>
-  <div class="markdown level1 summary"><p>The position of the Book's launcher Button.</p>
+  <a id="MacroTools_BookSystem_Book_1_OnClickExitButton_" data-uid="MacroTools.BookSystem.Book`1.OnClickExitButton*"></a>
+  <h4 id="MacroTools_BookSystem_Book_1_OnClickExitButton" data-uid="MacroTools.BookSystem.Book`1.OnClickExitButton">OnClickExitButton</h4>
+  <div class="markdown level1 summary"><p>Fired when the exit button is clicked.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">protected Point LauncherPosition
-{
-}</code></pre>
+    <pre><code class="lang-csharp hljs">public OnClickAction OnClickExitButton { set; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -328,27 +297,26 @@ Useful for mimicking existing Blizzard buttons like the Quest or Allies menu.</p
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">Point</span></td>
+        <td><a class="xref" href="MacroTools.Frames.OnClickAction.html">OnClickAction</a></td>
         <td></td>
       </tr>
     </tbody>
   </table>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Frames_Books_Book_1_Position.md&amp;value=---%0Auid%3A%20MacroTools.Frames.Books.Book%601.Position%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_BookSystem_Book_1_Title.md&amp;value=---%0Auid%3A%20MacroTools.BookSystem.Book%601.Title%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Frames/Books/Book.cs/#L117">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/BookSystem/Book.cs/#L91">View Source</a>
   </span>
-  <a id="MacroTools_Frames_Books_Book_1_Position_" data-uid="MacroTools.Frames.Books.Book`1.Position*"></a>
-  <h4 id="MacroTools_Frames_Books_Book_1_Position" data-uid="MacroTools.Frames.Books.Book`1.Position">Position</h4>
-  <div class="markdown level1 summary"></div>
+  <a id="MacroTools_BookSystem_Book_1_Title_" data-uid="MacroTools.BookSystem.Book`1.Title*"></a>
+  <h4 id="MacroTools_BookSystem_Book_1_Title" data-uid="MacroTools.BookSystem.Book`1.Title">Title</h4>
+  <div class="markdown level1 summary"><p>The name of the Book's launcher Button.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">protected Point Position
-{
-}</code></pre>
+    <pre><code class="lang-csharp hljs">public string Title { get; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -360,44 +328,15 @@ Useful for mimicking existing Blizzard buttons like the Quest or Allies menu.</p
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">Point</span></td>
+        <td><span class="xref">System.String</span></td>
         <td></td>
       </tr>
     </tbody>
   </table>
-  <h3 id="methods">Methods
-  </h3>
-  <span class="small pull-right mobile-hide">
-    <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Frames_Books_Book_1_AddPage.md&amp;value=---%0Auid%3A%20MacroTools.Frames.Books.Book%601.AddPage%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
-  </span>
-  <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Frames/Books/Book.cs/#L194">View Source</a>
-  </span>
-  <a id="MacroTools_Frames_Books_Book_1_AddPage_" data-uid="MacroTools.Frames.Books.Book`1.AddPage*"></a>
-  <h4 id="MacroTools_Frames_Books_Book_1_AddPage" data-uid="MacroTools.Frames.Books.Book`1.AddPage">AddPage()</h4>
-  <div class="markdown level1 summary"><p>Adds a new Page to the end of the Book.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">protected T AddPage()</code></pre>
+  <h3 id="implements">Implements</h3>
+  <div>
+      <a class="xref" href="MacroTools.BookSystem.IBook.html">IBook</a>
   </div>
-  <h5 class="returns">Returns</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><span class="xref">T</span></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
 </article>
           </div>
           
@@ -406,10 +345,10 @@ Useful for mimicking existing Blizzard buttons like the Quest or Allies menu.</p
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Frames_Books_Book_1.md&amp;value=---%0Auid%3A%20MacroTools.Frames.Books.Book%601%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_BookSystem_Book_1.md&amp;value=---%0Auid%3A%20MacroTools.BookSystem.Book%601%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Frames/Books/Book.cs/#L9" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/BookSystem/Book.cs/#L14" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>

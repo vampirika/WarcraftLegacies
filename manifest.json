@@ -149,6 +149,222 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.ArtifactSystem.ArtifactBook.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.ArtifactSystem.ArtifactBook.html",
+          "hash": "8lwiW+pYfpybeJ+iB+N/Pw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.ArtifactSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.ArtifactSystem.html",
+          "hash": "sEXNtiUgaGjRmekzFG3ixw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.Artifacts.ArtifactCard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.Artifacts.ArtifactCard.html",
+          "hash": "Jwt42yJQ0mV+JDqEL3kyIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.Artifacts.ArtifactPage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.Artifacts.ArtifactPage.html",
+          "hash": "enmRJ1DjdEYSiB91CebKxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.Artifacts.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.Artifacts.html",
+          "hash": "9B63/+L3YZEdbzZbMu2eTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.Augments.AugmentCard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.Augments.AugmentCard.html",
+          "hash": "glhaiVTeUP3X1dhww76HuQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.Augments.AugmentPage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.Augments.AugmentPage.html",
+          "hash": "bG+xdKly2Su1yoZuYkhyQA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.Augments.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.Augments.html",
+          "hash": "YM0a6WP/44s6+RPrs9SV5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.Book-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.Book-1.html",
+          "hash": "RPYmZFPytd8iAvMNSeG5wg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.BookManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.BookManager.html",
+          "hash": "zybsMH/ycuTEiktPTQfJUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.Card.html",
+          "hash": "7ONGNC4Y5OwCDpyiw8YGyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.IBook.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.IBook.html",
+          "hash": "p4UxtEIflaz1MdbCpU2tSw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.Page.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.Page.html",
+          "hash": "KoqmeQIssbQUFVNQIexb0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.Powers.PowerBook.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.Powers.PowerBook.html",
+          "hash": "tXZ6gVm2HTV4L2V5WsetqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.Powers.PowerCard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.Powers.PowerCard.html",
+          "hash": "kQSzUJN72LBNz4Ixl+1guA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.Powers.PowerPage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.Powers.PowerPage.html",
+          "hash": "rqkMBRfIykefckkLyAjPOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.Powers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.Powers.html",
+          "hash": "d/ihFH69YpChhQQxEG8MzQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.html",
+          "hash": "TVjcXPN6dI9VV7JgWI9b1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Buffs.AnimalCompanionCaster.yml",
       "output": {
         ".html": {
@@ -917,6 +1133,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Extensions.FrameExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Extensions.FrameExtensions.html",
+          "hash": "fnhRtvWgmRkK7XPTILHwDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Extensions.ItemExtensions.yml",
       "output": {
         ".html": {
@@ -1029,7 +1257,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.html",
-          "hash": "SAtpPZtxfMd86jadOrsEGw=="
+          "hash": "p4Cg1hhBz/F9/1ESmXTJsQ=="
         }
       },
       "is_incremental": false,
@@ -1205,191 +1433,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Frames.Books.ArtifactSystem.ArtifactBook.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Frames.Books.ArtifactSystem.ArtifactBook.html",
-          "hash": "QoxIB7T2DYW14FS1wezHMA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Frames.Books.ArtifactSystem.ArtifactCard.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Frames.Books.ArtifactSystem.ArtifactCard.html",
-          "hash": "Cn01e/STUghwfQxw/nvvKg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Frames.Books.ArtifactSystem.ArtifactPage.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Frames.Books.ArtifactSystem.ArtifactPage.html",
-          "hash": "xZCohXOyI/sbvStVarv1vg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Frames.Books.ArtifactSystem.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Frames.Books.ArtifactSystem.html",
-          "hash": "pgEwGVFdbiUlKaMGVMfkmA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Frames.Books.Augments.AugmentCard.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Frames.Books.Augments.AugmentCard.html",
-          "hash": "Gto/bQLfRisX2WhHQblMCQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Frames.Books.Augments.AugmentPage.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Frames.Books.Augments.AugmentPage.html",
-          "hash": "e04f0TH0dGdXbmM0bIk81A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Frames.Books.Augments.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Frames.Books.Augments.html",
-          "hash": "FH7zUh66I73ccZFR35uSdQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Frames.Books.Book-1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Frames.Books.Book-1.html",
-          "hash": "m/4mMrpf8+taYyE0T3xdKw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Frames.Books.Card.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Frames.Books.Card.html",
-          "hash": "DWIPAxjYXqhQNo/kOtJoWw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Frames.Books.Page.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Frames.Books.Page.html",
-          "hash": "z0VANi17blEmouXhzSaDRw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Frames.Books.Powers.PowerBook.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Frames.Books.Powers.PowerBook.html",
-          "hash": "789qfDy8+AF+sWd6kINVrw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Frames.Books.Powers.PowerCard.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Frames.Books.Powers.PowerCard.html",
-          "hash": "gMvVCLUUMw1gaLm0HZDaMQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Frames.Books.Powers.PowerPage.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Frames.Books.Powers.PowerPage.html",
-          "hash": "yi3xUpvkeNpg5olqPEOr0Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Frames.Books.Powers.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Frames.Books.Powers.html",
-          "hash": "WU4LJ7HatYuCeqNg4MwzJg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Frames.Books.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Frames.Books.html",
-          "hash": "5THQgeg+lU/HBb1emPNUVA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Frames.Button.yml",
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Frames.Button.html",
-          "hash": "lT6wck4J5cZyaARfOCxMKA=="
+          "hash": "x+W+S+zlOg+kYgByvy32hg=="
         }
       },
       "is_incremental": false,
@@ -1401,7 +1449,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Frames.Frame.html",
-          "hash": "fq1aVeBhN7pYCzsmM73EPA=="
+          "hash": "d7AkLkB6RnheVAsGdUFphQ=="
         }
       },
       "is_incremental": false,
@@ -3477,7 +3525,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "nzAukoSJClD+/QwJ22TaDg=="
+          "hash": "fLYvbKaiKngMwD8AcQbRZA=="
         }
       },
       "is_incremental": false,
@@ -6953,6 +7001,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.BookSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.BookSetup.html",
+          "hash": "BwY1fOSxxPaMkI6zbkiXxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Cameras.yml",
       "output": {
         ".html": {
@@ -7365,7 +7425,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.GameSetup.html",
-          "hash": "IzLbx/a6VU6nDHhTD6PkuA=="
+          "hash": "ct2kk1E3JYTOKvPJdxzjKw=="
         }
       },
       "is_incremental": false,
@@ -8241,7 +8301,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.html",
-          "hash": "skNz4vmCFRSpQfW/iqmUDQ=="
+          "hash": "vEt7/hsZ+nGVpkortfYr1A=="
         }
       },
       "is_incremental": false,
@@ -8325,7 +8385,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "wWg7AXIYPPOPZ/EfVDhK5A=="
+          "hash": "NdGDBzqcCN260NbcjdBUVw=="
         }
       },
       "is_incremental": false,
@@ -8400,7 +8460,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 692,
+          "total_file_count": 697,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
