@@ -10301,19 +10301,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.QuestSystem.UtilityStructs.Channel.Dispose
   nameWithType: Channel.Dispose
-- uid: MacroTools.QuestSystem.UtilityStructs.Channel.Finalize
-  name: Finalize()
-  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.Channel.html#MacroTools_QuestSystem_UtilityStructs_Channel_Finalize
-  commentId: M:MacroTools.QuestSystem.UtilityStructs.Channel.Finalize
-  fullName: MacroTools.QuestSystem.UtilityStructs.Channel.Finalize()
-  nameWithType: Channel.Finalize()
-- uid: MacroTools.QuestSystem.UtilityStructs.Channel.Finalize*
-  name: Finalize
-  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.Channel.html#MacroTools_QuestSystem_UtilityStructs_Channel_Finalize_
-  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.Channel.Finalize
-  isSpec: "True"
-  fullName: MacroTools.QuestSystem.UtilityStructs.Channel.Finalize
-  nameWithType: Channel.Finalize
 - uid: MacroTools.QuestSystem.UtilityStructs.Channel.Finished
   name: Finished
   href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.Channel.html#MacroTools_QuestSystem_UtilityStructs_Channel_Finished
@@ -15452,51 +15439,6 @@ references:
   commentId: T:MacroTools.Wrappers.SoundWrapper.PlayCondition
   fullName: MacroTools.Wrappers.SoundWrapper.PlayCondition
   nameWithType: SoundWrapper.PlayCondition
-- uid: MacroTools.Wrappers.TimerWrapper
-  name: TimerWrapper
-  href: api-macroTools/MacroTools.Wrappers.TimerWrapper.html
-  commentId: T:MacroTools.Wrappers.TimerWrapper
-  fullName: MacroTools.Wrappers.TimerWrapper
-  nameWithType: TimerWrapper
-- uid: MacroTools.Wrappers.TimerWrapper.Dispose
-  name: Dispose()
-  href: api-macroTools/MacroTools.Wrappers.TimerWrapper.html#MacroTools_Wrappers_TimerWrapper_Dispose
-  commentId: M:MacroTools.Wrappers.TimerWrapper.Dispose
-  fullName: MacroTools.Wrappers.TimerWrapper.Dispose()
-  nameWithType: TimerWrapper.Dispose()
-- uid: MacroTools.Wrappers.TimerWrapper.Dispose*
-  name: Dispose
-  href: api-macroTools/MacroTools.Wrappers.TimerWrapper.html#MacroTools_Wrappers_TimerWrapper_Dispose_
-  commentId: Overload:MacroTools.Wrappers.TimerWrapper.Dispose
-  isSpec: "True"
-  fullName: MacroTools.Wrappers.TimerWrapper.Dispose
-  nameWithType: TimerWrapper.Dispose
-- uid: MacroTools.Wrappers.TimerWrapper.Finalize
-  name: Finalize()
-  href: api-macroTools/MacroTools.Wrappers.TimerWrapper.html#MacroTools_Wrappers_TimerWrapper_Finalize
-  commentId: M:MacroTools.Wrappers.TimerWrapper.Finalize
-  fullName: MacroTools.Wrappers.TimerWrapper.Finalize()
-  nameWithType: TimerWrapper.Finalize()
-- uid: MacroTools.Wrappers.TimerWrapper.Finalize*
-  name: Finalize
-  href: api-macroTools/MacroTools.Wrappers.TimerWrapper.html#MacroTools_Wrappers_TimerWrapper_Finalize_
-  commentId: Overload:MacroTools.Wrappers.TimerWrapper.Finalize
-  isSpec: "True"
-  fullName: MacroTools.Wrappers.TimerWrapper.Finalize
-  nameWithType: TimerWrapper.Finalize
-- uid: MacroTools.Wrappers.TimerWrapper.Start(System.Single,System.Boolean,Action)
-  name: Start(Single, Boolean, Action)
-  href: api-macroTools/MacroTools.Wrappers.TimerWrapper.html#MacroTools_Wrappers_TimerWrapper_Start_System_Single_System_Boolean_Action_
-  commentId: M:MacroTools.Wrappers.TimerWrapper.Start(System.Single,System.Boolean,Action)
-  fullName: MacroTools.Wrappers.TimerWrapper.Start(System.Single, System.Boolean, Action)
-  nameWithType: TimerWrapper.Start(Single, Boolean, Action)
-- uid: MacroTools.Wrappers.TimerWrapper.Start*
-  name: Start
-  href: api-macroTools/MacroTools.Wrappers.TimerWrapper.html#MacroTools_Wrappers_TimerWrapper_Start_
-  commentId: Overload:MacroTools.Wrappers.TimerWrapper.Start
-  isSpec: "True"
-  fullName: MacroTools.Wrappers.TimerWrapper.Start
-  nameWithType: TimerWrapper.Start
 - uid: MacroTools.Wrappers.TriggerWrapper
   name: TriggerWrapper
   href: api-macroTools/MacroTools.Wrappers.TriggerWrapper.html

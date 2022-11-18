@@ -2277,7 +2277,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.Channel.html",
-          "hash": "Lk8hhTBnW/SSS+iInYQo/g=="
+          "hash": "+/b0Kmp0AtEJ71M5NB7+hw=="
         }
       },
       "is_incremental": false,
@@ -3497,18 +3497,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Wrappers.TimerWrapper.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Wrappers.TimerWrapper.html",
-          "hash": "KxWpELBXaJyaVqx0uMxOxA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Wrappers.TriggerWrapper.yml",
       "output": {
         ".html": {
@@ -3525,7 +3513,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Wrappers.html",
-          "hash": "NT0Oxf/utmXZ4L2+GdHfhg=="
+          "hash": "cJdumdJG9FsyIUC/eh3+dQ=="
         }
       },
       "is_incremental": false,
@@ -3549,7 +3537,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "4wISe3dtVGfrLJbcoPmkYA=="
+          "hash": "n4dIvqCVtA69/fF2STT1dQ=="
         }
       },
       "is_incremental": false,
@@ -8508,7 +8496,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 701,
+          "total_file_count": 700,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
