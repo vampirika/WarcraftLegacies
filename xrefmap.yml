@@ -8929,6 +8929,67 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilities.SpellResistanceAura.OnCreated
   nameWithType: SpellResistanceAura.OnCreated
+- uid: MacroTools.PassiveAbilities.TakeExtraDamageOnWater
+  name: TakeExtraDamageOnWater
+  href: api-macroTools/MacroTools.PassiveAbilities.TakeExtraDamageOnWater.html
+  commentId: T:MacroTools.PassiveAbilities.TakeExtraDamageOnWater
+  fullName: MacroTools.PassiveAbilities.TakeExtraDamageOnWater
+  nameWithType: TakeExtraDamageOnWater
+- uid: MacroTools.PassiveAbilities.TakeExtraDamageOnWater.#ctor(IEnumerable{System.Int32},System.Int32)
+  name: TakeExtraDamageOnWater(IEnumerable<Int32>, Int32)
+  href: api-macroTools/MacroTools.PassiveAbilities.TakeExtraDamageOnWater.html#MacroTools_PassiveAbilities_TakeExtraDamageOnWater__ctor_IEnumerable_System_Int32__System_Int32_
+  commentId: M:MacroTools.PassiveAbilities.TakeExtraDamageOnWater.#ctor(IEnumerable{System.Int32},System.Int32)
+  name.vb: TakeExtraDamageOnWater(IEnumerable(Of Int32), Int32)
+  fullName: MacroTools.PassiveAbilities.TakeExtraDamageOnWater.TakeExtraDamageOnWater(IEnumerable<System.Int32>, System.Int32)
+  fullName.vb: MacroTools.PassiveAbilities.TakeExtraDamageOnWater.TakeExtraDamageOnWater(IEnumerable(Of System.Int32), System.Int32)
+  nameWithType: TakeExtraDamageOnWater.TakeExtraDamageOnWater(IEnumerable<Int32>, Int32)
+  nameWithType.vb: TakeExtraDamageOnWater.TakeExtraDamageOnWater(IEnumerable(Of Int32), Int32)
+- uid: MacroTools.PassiveAbilities.TakeExtraDamageOnWater.#ctor*
+  name: TakeExtraDamageOnWater
+  href: api-macroTools/MacroTools.PassiveAbilities.TakeExtraDamageOnWater.html#MacroTools_PassiveAbilities_TakeExtraDamageOnWater__ctor_
+  commentId: Overload:MacroTools.PassiveAbilities.TakeExtraDamageOnWater.#ctor
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.TakeExtraDamageOnWater.TakeExtraDamageOnWater
+  nameWithType: TakeExtraDamageOnWater.TakeExtraDamageOnWater
+- uid: MacroTools.PassiveAbilities.TakeExtraDamageOnWater.DamageMultiplier
+  name: DamageMultiplier
+  href: api-macroTools/MacroTools.PassiveAbilities.TakeExtraDamageOnWater.html#MacroTools_PassiveAbilities_TakeExtraDamageOnWater_DamageMultiplier
+  commentId: P:MacroTools.PassiveAbilities.TakeExtraDamageOnWater.DamageMultiplier
+  fullName: MacroTools.PassiveAbilities.TakeExtraDamageOnWater.DamageMultiplier
+  nameWithType: TakeExtraDamageOnWater.DamageMultiplier
+- uid: MacroTools.PassiveAbilities.TakeExtraDamageOnWater.DamageMultiplier*
+  name: DamageMultiplier
+  href: api-macroTools/MacroTools.PassiveAbilities.TakeExtraDamageOnWater.html#MacroTools_PassiveAbilities_TakeExtraDamageOnWater_DamageMultiplier_
+  commentId: Overload:MacroTools.PassiveAbilities.TakeExtraDamageOnWater.DamageMultiplier
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.TakeExtraDamageOnWater.DamageMultiplier
+  nameWithType: TakeExtraDamageOnWater.DamageMultiplier
+- uid: MacroTools.PassiveAbilities.TakeExtraDamageOnWater.OnCreated(unit)
+  name: OnCreated(unit)
+  href: api-macroTools/MacroTools.PassiveAbilities.TakeExtraDamageOnWater.html#MacroTools_PassiveAbilities_TakeExtraDamageOnWater_OnCreated_unit_
+  commentId: M:MacroTools.PassiveAbilities.TakeExtraDamageOnWater.OnCreated(unit)
+  fullName: MacroTools.PassiveAbilities.TakeExtraDamageOnWater.OnCreated(unit)
+  nameWithType: TakeExtraDamageOnWater.OnCreated(unit)
+- uid: MacroTools.PassiveAbilities.TakeExtraDamageOnWater.OnCreated*
+  name: OnCreated
+  href: api-macroTools/MacroTools.PassiveAbilities.TakeExtraDamageOnWater.html#MacroTools_PassiveAbilities_TakeExtraDamageOnWater_OnCreated_
+  commentId: Overload:MacroTools.PassiveAbilities.TakeExtraDamageOnWater.OnCreated
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.TakeExtraDamageOnWater.OnCreated
+  nameWithType: TakeExtraDamageOnWater.OnCreated
+- uid: MacroTools.PassiveAbilities.TakeExtraDamageOnWater.OnTakesDamage
+  name: OnTakesDamage()
+  href: api-macroTools/MacroTools.PassiveAbilities.TakeExtraDamageOnWater.html#MacroTools_PassiveAbilities_TakeExtraDamageOnWater_OnTakesDamage
+  commentId: M:MacroTools.PassiveAbilities.TakeExtraDamageOnWater.OnTakesDamage
+  fullName: MacroTools.PassiveAbilities.TakeExtraDamageOnWater.OnTakesDamage()
+  nameWithType: TakeExtraDamageOnWater.OnTakesDamage()
+- uid: MacroTools.PassiveAbilities.TakeExtraDamageOnWater.OnTakesDamage*
+  name: OnTakesDamage
+  href: api-macroTools/MacroTools.PassiveAbilities.TakeExtraDamageOnWater.html#MacroTools_PassiveAbilities_TakeExtraDamageOnWater_OnTakesDamage_
+  commentId: Overload:MacroTools.PassiveAbilities.TakeExtraDamageOnWater.OnTakesDamage
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.TakeExtraDamageOnWater.OnTakesDamage
+  nameWithType: TakeExtraDamageOnWater.OnTakesDamage
 - uid: MacroTools.PassiveAbilities.WarglaivesOfAzzinoth
   name: WarglaivesOfAzzinoth
   href: api-macroTools/MacroTools.PassiveAbilities.WarglaivesOfAzzinoth.html
@@ -9099,6 +9160,25 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilitySystem.IAppliesEffectOnDamage.OnDealsDamage
   nameWithType: IAppliesEffectOnDamage.OnDealsDamage
+- uid: MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage
+  name: IEffectOnTakesDamage
+  href: api-macroTools/MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage.html
+  commentId: T:MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage
+  fullName: MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage
+  nameWithType: IEffectOnTakesDamage
+- uid: MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage.OnTakesDamage
+  name: OnTakesDamage()
+  href: api-macroTools/MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage.html#MacroTools_PassiveAbilitySystem_IEffectOnTakesDamage_OnTakesDamage
+  commentId: M:MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage.OnTakesDamage
+  fullName: MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage.OnTakesDamage()
+  nameWithType: IEffectOnTakesDamage.OnTakesDamage()
+- uid: MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage.OnTakesDamage*
+  name: OnTakesDamage
+  href: api-macroTools/MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage.html#MacroTools_PassiveAbilitySystem_IEffectOnTakesDamage_OnTakesDamage_
+  commentId: Overload:MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage.OnTakesDamage
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage.OnTakesDamage
+  nameWithType: IEffectOnTakesDamage.OnTakesDamage
 - uid: MacroTools.PassiveAbilitySystem.PassiveAbility
   name: PassiveAbility
   href: api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html
@@ -34510,6 +34590,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Spells.IllidanSpellSetup.Setup
   nameWithType: IllidanSpellSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.Spells.IllidariSpellSetup
+  name: IllidariSpellSetup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.IllidariSpellSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.Spells.IllidariSpellSetup
+  fullName: WarcraftLegacies.Source.Setup.Spells.IllidariSpellSetup
+  nameWithType: IllidariSpellSetup
+- uid: WarcraftLegacies.Source.Setup.Spells.IllidariSpellSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.IllidariSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_IllidariSpellSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.Spells.IllidariSpellSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.Spells.IllidariSpellSetup.Setup()
+  nameWithType: IllidariSpellSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.Spells.IllidariSpellSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.IllidariSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_IllidariSpellSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Spells.IllidariSpellSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Spells.IllidariSpellSetup.Setup
+  nameWithType: IllidariSpellSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup
   name: KulTirasSpellSetup
   href: api-source/WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup.html

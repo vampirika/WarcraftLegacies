@@ -1997,6 +1997,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.TakeExtraDamageOnWater.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.PassiveAbilities.TakeExtraDamageOnWater.html",
+          "hash": "wedOhQjsBnTBodjPnMcXEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.WarglaivesOfAzzinoth.yml",
       "output": {
         ".html": {
@@ -2013,7 +2025,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.html",
-          "hash": "blf9x+LO1UoBsh/OTmI0sw=="
+          "hash": "4H+lCjfnDEe6QsJk/VnAuA=="
         }
       },
       "is_incremental": false,
@@ -2033,11 +2045,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage.html",
+          "hash": "fhsUXNsKzrhGu9Zuqump2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.yml",
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html",
-          "hash": "XzyuNRvjabfHurM5yFWm3w=="
+          "hash": "uTVuBxt86NonF/fnp99CdQ=="
         }
       },
       "is_incremental": false,
@@ -2073,7 +2097,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilitySystem.html",
-          "hash": "IW2+sm+1PUMUnvuo/iaikg=="
+          "hash": "b8gQx6NUdVgYW2FCFjb13w=="
         }
       },
       "is_incremental": false,
@@ -3525,7 +3549,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "fLYvbKaiKngMwD8AcQbRZA=="
+          "hash": "4wISe3dtVGfrLJbcoPmkYA=="
         }
       },
       "is_incremental": false,
@@ -8189,6 +8213,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.IllidariSpellSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.IllidariSpellSetup.html",
+          "hash": "XzoxIj4mUKltZsdMeeGC1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup.yml",
       "output": {
         ".html": {
@@ -8265,7 +8301,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.html",
-          "hash": "ZHitJRYAZs2bSwTyb7G42g=="
+          "hash": "0ZAYSUTXukACoylQ9Wrjdw=="
         }
       },
       "is_incremental": false,
@@ -8397,7 +8433,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "IMS+K3ZoS+vJxUeYQ6vACA=="
+          "hash": "vIYlnIqpzue/8hCrwcfWvw=="
         }
       },
       "is_incremental": false,
@@ -8472,7 +8508,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 698,
+          "total_file_count": 701,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

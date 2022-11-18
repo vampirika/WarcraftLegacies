@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Namespace MacroTools.PassiveAbilitySystem
+    <title>Interface IEffectOnTakesDamage
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Namespace MacroTools.PassiveAbilitySystem
+    <meta name="title" content="Interface IEffectOnTakesDamage
    ">
     <meta name="generator" content="docfx 2.56.7.0">
     
@@ -68,31 +68,38 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="MacroTools.PassiveAbilitySystem">
+            <article class="content wrap" id="_content" data-uid="MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage">
   
-  <h1 id="MacroTools_PassiveAbilitySystem" data-uid="MacroTools.PassiveAbilitySystem" class="text-break">Namespace MacroTools.PassiveAbilitySystem
+  
+  <h1 id="MacroTools_PassiveAbilitySystem_IEffectOnTakesDamage" data-uid="MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage" class="text-break">Interface IEffectOnTakesDamage
   </h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>Provides methods for responding to damage taken events.</p>
+</div>
   <div class="markdown level0 conceptual"></div>
-  <div class="markdown level0 remarks"></div>
-    <h3 id="classes">Classes
+  <h6><strong>Namespace</strong>: <a class="xref" href="MacroTools.PassiveAbilitySystem.html">MacroTools.PassiveAbilitySystem</a></h6>
+  <h6><strong>Assembly</strong>: MacroTools.dll</h6>
+  <h5 id="MacroTools_PassiveAbilitySystem_IEffectOnTakesDamage_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public interface IEffectOnTakesDamage</code></pre>
+  </div>
+  <h3 id="methods">Methods
   </h3>
-      <h4><a class="xref" href="MacroTools.PassiveAbilitySystem.PassiveAbility.html">PassiveAbility</a></h4>
-      <section><p>A passive ability attached to a specific unit type.</p>
-</section>
-      <h4><a class="xref" href="MacroTools.PassiveAbilitySystem.PassiveAbilityManager.html">PassiveAbilityManager</a></h4>
-      <section><p>Responsible for registering the events that allow <a class="xref" href="MacroTools.PassiveAbilitySystem.PassiveAbility.html">PassiveAbility</a> instances to work.</p>
-</section>
-      <h4><a class="xref" href="MacroTools.PassiveAbilitySystem.TakeDamagePassiveAbility.html">TakeDamagePassiveAbility</a></h4>
-      <section></section>
-    <h3 id="interfaces">Interfaces
-  </h3>
-      <h4><a class="xref" href="MacroTools.PassiveAbilitySystem.IAppliesEffectOnDamage.html">IAppliesEffectOnDamage</a></h4>
-      <section><p>Provides methods for responding to damage events with some kind of effect.</p>
-</section>
-      <h4><a class="xref" href="MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage.html">IEffectOnTakesDamage</a></h4>
-      <section><p>Provides methods for responding to damage taken events.</p>
-</section>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilitySystem_IEffectOnTakesDamage_OnTakesDamage.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage.OnTakesDamage%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilitySystem/IEffectOnTakesDamage.cs/#L11">View Source</a>
+  </span>
+  <a id="MacroTools_PassiveAbilitySystem_IEffectOnTakesDamage_OnTakesDamage_" data-uid="MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage.OnTakesDamage*"></a>
+  <h4 id="MacroTools_PassiveAbilitySystem_IEffectOnTakesDamage_OnTakesDamage" data-uid="MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage.OnTakesDamage">OnTakesDamage()</h4>
+  <div class="markdown level1 summary"><p>A response to a unit taking damage.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">void OnTakesDamage()</code></pre>
+  </div>
 </article>
           </div>
           
@@ -100,6 +107,12 @@
             <div class="sideaffix">
               <div class="contribution">
                 <ul class="nav">
+                  <li>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilitySystem_IEffectOnTakesDamage.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilitySystem.IEffectOnTakesDamage%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                  </li>
+                  <li>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilitySystem/IEffectOnTakesDamage.cs/#L6" class="contribution-link">View Source</a>
+                  </li>
                 </ul>
               </div>
               <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
