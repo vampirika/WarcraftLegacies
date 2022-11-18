@@ -8720,6 +8720,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilities.ProvidesIncome.OnConstruction
   nameWithType: ProvidesIncome.OnConstruction
+- uid: MacroTools.PassiveAbilities.ProvidesIncome.OnCreated(unit)
+  name: OnCreated(unit)
+  href: api-macroTools/MacroTools.PassiveAbilities.ProvidesIncome.html#MacroTools_PassiveAbilities_ProvidesIncome_OnCreated_unit_
+  commentId: M:MacroTools.PassiveAbilities.ProvidesIncome.OnCreated(unit)
+  fullName: MacroTools.PassiveAbilities.ProvidesIncome.OnCreated(unit)
+  nameWithType: ProvidesIncome.OnCreated(unit)
+- uid: MacroTools.PassiveAbilities.ProvidesIncome.OnCreated*
+  name: OnCreated
+  href: api-macroTools/MacroTools.PassiveAbilities.ProvidesIncome.html#MacroTools_PassiveAbilities_ProvidesIncome_OnCreated_
+  commentId: Overload:MacroTools.PassiveAbilities.ProvidesIncome.OnCreated
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.ProvidesIncome.OnCreated
+  nameWithType: ProvidesIncome.OnCreated
 - uid: MacroTools.PassiveAbilities.ProvidesIncome.OnUpgrade
   name: OnUpgrade()
   href: api-macroTools/MacroTools.PassiveAbilities.ProvidesIncome.html#MacroTools_PassiveAbilities_ProvidesIncome_OnUpgrade
