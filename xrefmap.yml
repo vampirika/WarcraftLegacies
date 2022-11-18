@@ -23555,19 +23555,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestMograine.CompletionPopup
   nameWithType: QuestMograine.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestMograine.OnAdd(MacroTools.FactionSystem.Faction)
-  name: OnAdd(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestMograine.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestMograine_OnAdd_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Lordaeron.QuestMograine.OnAdd(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestMograine.OnAdd(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestMograine.OnAdd(Faction)
-- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestMograine.OnAdd*
-  name: OnAdd
-  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestMograine.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestMograine_OnAdd_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Lordaeron.QuestMograine.OnAdd
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestMograine.OnAdd
-  nameWithType: QuestMograine.OnAdd
 - uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestMograine.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestMograine.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestMograine_RewardDescription
