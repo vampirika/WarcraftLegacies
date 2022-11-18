@@ -9747,6 +9747,19 @@ references:
   commentId: T:MacroTools.PreplacedUnitSystem
   fullName: MacroTools.PreplacedUnitSystem
   nameWithType: PreplacedUnitSystem
+- uid: MacroTools.PreplacedUnitSystem.#ctor
+  name: PreplacedUnitSystem()
+  href: api-macroTools/MacroTools.PreplacedUnitSystem.html#MacroTools_PreplacedUnitSystem__ctor
+  commentId: M:MacroTools.PreplacedUnitSystem.#ctor
+  fullName: MacroTools.PreplacedUnitSystem.PreplacedUnitSystem()
+  nameWithType: PreplacedUnitSystem.PreplacedUnitSystem()
+- uid: MacroTools.PreplacedUnitSystem.#ctor*
+  name: PreplacedUnitSystem
+  href: api-macroTools/MacroTools.PreplacedUnitSystem.html#MacroTools_PreplacedUnitSystem__ctor_
+  commentId: Overload:MacroTools.PreplacedUnitSystem.#ctor
+  isSpec: "True"
+  fullName: MacroTools.PreplacedUnitSystem.PreplacedUnitSystem
+  nameWithType: PreplacedUnitSystem.PreplacedUnitSystem
 - uid: MacroTools.PreplacedUnitSystem.GetDestructable(System.Int32)
   name: GetDestructable(Int32)
   href: api-macroTools/MacroTools.PreplacedUnitSystem.html#MacroTools_PreplacedUnitSystem_GetDestructable_System_Int32_
@@ -9785,32 +9798,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.PreplacedUnitSystem.GetUnit
   nameWithType: PreplacedUnitSystem.GetUnit
-- uid: MacroTools.PreplacedUnitSystem.Initialize
-  name: Initialize()
-  href: api-macroTools/MacroTools.PreplacedUnitSystem.html#MacroTools_PreplacedUnitSystem_Initialize
-  commentId: M:MacroTools.PreplacedUnitSystem.Initialize
-  fullName: MacroTools.PreplacedUnitSystem.Initialize()
-  nameWithType: PreplacedUnitSystem.Initialize()
-- uid: MacroTools.PreplacedUnitSystem.Initialize*
-  name: Initialize
-  href: api-macroTools/MacroTools.PreplacedUnitSystem.html#MacroTools_PreplacedUnitSystem_Initialize_
-  commentId: Overload:MacroTools.PreplacedUnitSystem.Initialize
-  isSpec: "True"
-  fullName: MacroTools.PreplacedUnitSystem.Initialize
-  nameWithType: PreplacedUnitSystem.Initialize
-- uid: MacroTools.PreplacedUnitSystem.Shutdown
-  name: Shutdown()
-  href: api-macroTools/MacroTools.PreplacedUnitSystem.html#MacroTools_PreplacedUnitSystem_Shutdown
-  commentId: M:MacroTools.PreplacedUnitSystem.Shutdown
-  fullName: MacroTools.PreplacedUnitSystem.Shutdown()
-  nameWithType: PreplacedUnitSystem.Shutdown()
-- uid: MacroTools.PreplacedUnitSystem.Shutdown*
-  name: Shutdown
-  href: api-macroTools/MacroTools.PreplacedUnitSystem.html#MacroTools_PreplacedUnitSystem_Shutdown_
-  commentId: Overload:MacroTools.PreplacedUnitSystem.Shutdown
-  isSpec: "True"
-  fullName: MacroTools.PreplacedUnitSystem.Shutdown
-  nameWithType: PreplacedUnitSystem.Shutdown
 - uid: MacroTools.QuestMenuSetup
   name: QuestMenuSetup
   href: api-macroTools/MacroTools.QuestMenuSetup.html
@@ -16921,12 +16908,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Mechanics.Scourge.Blight.BlightSetup
   fullName: WarcraftLegacies.Source.Mechanics.Scourge.Blight.BlightSetup
   nameWithType: BlightSetup
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.Blight.BlightSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Blight.BlightSetup.html#WarcraftLegacies_Source_Mechanics_Scourge_Blight_BlightSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Mechanics.Scourge.Blight.BlightSetup.Setup
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.Blight.BlightSetup.Setup()
-  nameWithType: BlightSetup.Setup()
+- uid: WarcraftLegacies.Source.Mechanics.Scourge.Blight.BlightSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Blight.BlightSetup.html#WarcraftLegacies_Source_Mechanics_Scourge_Blight_BlightSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Mechanics.Scourge.Blight.BlightSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Mechanics.Scourge.Blight.BlightSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: BlightSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Mechanics.Scourge.Blight.BlightSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Blight.BlightSetup.html#WarcraftLegacies_Source_Mechanics_Scourge_Blight_BlightSetup_Setup_
@@ -17241,12 +17228,12 @@ references:
   commentId: T:WarcraftLegacies.Source.PatronSystem
   fullName: WarcraftLegacies.Source.PatronSystem
   nameWithType: PatronSystem
-- uid: WarcraftLegacies.Source.PatronSystem.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.PatronSystem.html#WarcraftLegacies_Source_PatronSystem_Setup
-  commentId: M:WarcraftLegacies.Source.PatronSystem.Setup
-  fullName: WarcraftLegacies.Source.PatronSystem.Setup()
-  nameWithType: PatronSystem.Setup()
+- uid: WarcraftLegacies.Source.PatronSystem.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.PatronSystem.html#WarcraftLegacies_Source_PatronSystem_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.PatronSystem.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.PatronSystem.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: PatronSystem.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.PatronSystem.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.PatronSystem.html#WarcraftLegacies_Source_PatronSystem_Setup_
@@ -18118,12 +18105,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Draenei.QuestFirstWave
   fullName: WarcraftLegacies.Source.Quests.Draenei.QuestFirstWave
   nameWithType: QuestFirstWave
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestFirstWave.#ctor
-  name: QuestFirstWave()
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestFirstWave.html#WarcraftLegacies_Source_Quests_Draenei_QuestFirstWave__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestFirstWave.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestFirstWave.QuestFirstWave()
-  nameWithType: QuestFirstWave.QuestFirstWave()
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestFirstWave.#ctor(MacroTools.PreplacedUnitSystem)
+  name: QuestFirstWave(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestFirstWave.html#WarcraftLegacies_Source_Quests_Draenei_QuestFirstWave__ctor_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestFirstWave.#ctor(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestFirstWave.QuestFirstWave(MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestFirstWave.QuestFirstWave(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Quests.Draenei.QuestFirstWave.#ctor*
   name: QuestFirstWave
   href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestFirstWave.html#WarcraftLegacies_Source_Quests_Draenei_QuestFirstWave__ctor_
@@ -18672,12 +18659,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Dragonmaw.QuestStonemaul
   fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestStonemaul
   nameWithType: QuestStonemaul
-- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestStonemaul.#ctor(Rectangle)
-  name: QuestStonemaul(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestStonemaul.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestStonemaul__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Dragonmaw.QuestStonemaul.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestStonemaul.QuestStonemaul(Rectangle)
-  nameWithType: QuestStonemaul.QuestStonemaul(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestStonemaul.#ctor(MacroTools.PreplacedUnitSystem,Rectangle)
+  name: QuestStonemaul(PreplacedUnitSystem, Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestStonemaul.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestStonemaul__ctor_MacroTools_PreplacedUnitSystem_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Dragonmaw.QuestStonemaul.#ctor(MacroTools.PreplacedUnitSystem,Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestStonemaul.QuestStonemaul(MacroTools.PreplacedUnitSystem, Rectangle)
+  nameWithType: QuestStonemaul.QuestStonemaul(PreplacedUnitSystem, Rectangle)
 - uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestStonemaul.#ctor*
   name: QuestStonemaul
   href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestStonemaul.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestStonemaul__ctor_
@@ -19754,12 +19741,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance
   fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance
   nameWithType: QuestOpenScholomance
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.#ctor(MacroTools.QuestSystem.QuestData)
-  name: QuestOpenScholomance(QuestData)
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.html#WarcraftLegacies_Source_Quests_Forsaken_QuestOpenScholomance__ctor_MacroTools_QuestSystem_QuestData_
-  commentId: M:WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.#ctor(MacroTools.QuestSystem.QuestData)
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.QuestOpenScholomance(MacroTools.QuestSystem.QuestData)
-  nameWithType: QuestOpenScholomance.QuestOpenScholomance(QuestData)
+- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.#ctor(MacroTools.PreplacedUnitSystem,MacroTools.QuestSystem.QuestData)
+  name: QuestOpenScholomance(PreplacedUnitSystem, QuestData)
+  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.html#WarcraftLegacies_Source_Quests_Forsaken_QuestOpenScholomance__ctor_MacroTools_PreplacedUnitSystem_MacroTools_QuestSystem_QuestData_
+  commentId: M:WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.#ctor(MacroTools.PreplacedUnitSystem,MacroTools.QuestSystem.QuestData)
+  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.QuestOpenScholomance(MacroTools.PreplacedUnitSystem, MacroTools.QuestSystem.QuestData)
+  nameWithType: QuestOpenScholomance.QuestOpenScholomance(PreplacedUnitSystem, QuestData)
 - uid: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.#ctor*
   name: QuestOpenScholomance
   href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.html#WarcraftLegacies_Source_Quests_Forsaken_QuestOpenScholomance__ctor_
@@ -20411,12 +20398,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar
   fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar
   nameWithType: QuestRexxar
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.#ctor
-  name: QuestRexxar()
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestRexxar__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.QuestRexxar()
-  nameWithType: QuestRexxar.QuestRexxar()
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.#ctor(MacroTools.PreplacedUnitSystem)
+  name: QuestRexxar(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestRexxar__ctor_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.#ctor(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.QuestRexxar(MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestRexxar.QuestRexxar(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.#ctor*
   name: QuestRexxar
   href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestRexxar__ctor_
@@ -21648,12 +21635,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Ironforge.QuestDunMorogh
   fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestDunMorogh
   nameWithType: QuestDunMorogh
-- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestDunMorogh.#ctor
-  name: QuestDunMorogh()
-  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestDunMorogh.html#WarcraftLegacies_Source_Quests_Ironforge_QuestDunMorogh__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Ironforge.QuestDunMorogh.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestDunMorogh.QuestDunMorogh()
-  nameWithType: QuestDunMorogh.QuestDunMorogh()
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestDunMorogh.#ctor(MacroTools.PreplacedUnitSystem)
+  name: QuestDunMorogh(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestDunMorogh.html#WarcraftLegacies_Source_Quests_Ironforge_QuestDunMorogh__ctor_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Ironforge.QuestDunMorogh.#ctor(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestDunMorogh.QuestDunMorogh(MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestDunMorogh.QuestDunMorogh(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Quests.Ironforge.QuestDunMorogh.#ctor*
   name: QuestDunMorogh
   href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestDunMorogh.html#WarcraftLegacies_Source_Quests_Ironforge_QuestDunMorogh__ctor_
@@ -21719,12 +21706,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Ironforge.QuestGnomeregan
   fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestGnomeregan
   nameWithType: QuestGnomeregan
-- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestGnomeregan.#ctor(Rectangle)
-  name: QuestGnomeregan(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestGnomeregan.html#WarcraftLegacies_Source_Quests_Ironforge_QuestGnomeregan__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Ironforge.QuestGnomeregan.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestGnomeregan.QuestGnomeregan(Rectangle)
-  nameWithType: QuestGnomeregan.QuestGnomeregan(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestGnomeregan.#ctor(Rectangle,MacroTools.PreplacedUnitSystem)
+  name: QuestGnomeregan(Rectangle, PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestGnomeregan.html#WarcraftLegacies_Source_Quests_Ironforge_QuestGnomeregan__ctor_Rectangle_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Ironforge.QuestGnomeregan.#ctor(Rectangle,MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestGnomeregan.QuestGnomeregan(Rectangle, MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestGnomeregan.QuestGnomeregan(Rectangle, PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Quests.Ironforge.QuestGnomeregan.#ctor*
   name: QuestGnomeregan
   href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestGnomeregan.html#WarcraftLegacies_Source_Quests_Ironforge_QuestGnomeregan__ctor_
@@ -21919,12 +21906,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Ironforge.QuestThelsamar
   fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestThelsamar
   nameWithType: QuestThelsamar
-- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestThelsamar.#ctor(Rectangle)
-  name: QuestThelsamar(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestThelsamar.html#WarcraftLegacies_Source_Quests_Ironforge_QuestThelsamar__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Ironforge.QuestThelsamar.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestThelsamar.QuestThelsamar(Rectangle)
-  nameWithType: QuestThelsamar.QuestThelsamar(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestThelsamar.#ctor(MacroTools.PreplacedUnitSystem,Rectangle)
+  name: QuestThelsamar(PreplacedUnitSystem, Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestThelsamar.html#WarcraftLegacies_Source_Quests_Ironforge_QuestThelsamar__ctor_MacroTools_PreplacedUnitSystem_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Ironforge.QuestThelsamar.#ctor(MacroTools.PreplacedUnitSystem,Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestThelsamar.QuestThelsamar(MacroTools.PreplacedUnitSystem, Rectangle)
+  nameWithType: QuestThelsamar.QuestThelsamar(PreplacedUnitSystem, Rectangle)
 - uid: WarcraftLegacies.Source.Quests.Ironforge.QuestThelsamar.#ctor*
   name: QuestThelsamar
   href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestThelsamar.html#WarcraftLegacies_Source_Quests_Ironforge_QuestThelsamar__ctor_
@@ -22112,12 +22099,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.KulTiras.QuestBoralus
   fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestBoralus
   nameWithType: QuestBoralus
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestBoralus.#ctor(Rectangle)
-  name: QuestBoralus(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestBoralus.html#WarcraftLegacies_Source_Quests_KulTiras_QuestBoralus__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.KulTiras.QuestBoralus.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestBoralus.QuestBoralus(Rectangle)
-  nameWithType: QuestBoralus.QuestBoralus(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestBoralus.#ctor(Rectangle,MacroTools.PreplacedUnitSystem)
+  name: QuestBoralus(Rectangle, PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestBoralus.html#WarcraftLegacies_Source_Quests_KulTiras_QuestBoralus__ctor_Rectangle_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.KulTiras.QuestBoralus.#ctor(Rectangle,MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestBoralus.QuestBoralus(Rectangle, MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestBoralus.QuestBoralus(Rectangle, PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Quests.KulTiras.QuestBoralus.#ctor*
   name: QuestBoralus
   href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestBoralus.html#WarcraftLegacies_Source_Quests_KulTiras_QuestBoralus__ctor_
@@ -22473,12 +22460,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Legion.QuestArgusControl
   fullName: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl
   nameWithType: QuestArgusControl
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.#ctor
-  name: QuestArgusControl()
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.html#WarcraftLegacies_Source_Quests_Legion_QuestArgusControl__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.QuestArgusControl()
-  nameWithType: QuestArgusControl.QuestArgusControl()
+- uid: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.#ctor(MacroTools.PreplacedUnitSystem)
+  name: QuestArgusControl(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.html#WarcraftLegacies_Source_Quests_Legion_QuestArgusControl__ctor_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.#ctor(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.QuestArgusControl(MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestArgusControl.QuestArgusControl(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.#ctor*
   name: QuestArgusControl
   href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.html#WarcraftLegacies_Source_Quests_Legion_QuestArgusControl__ctor_
@@ -22589,12 +22576,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Legion.QuestDemonGateMonastery
   fullName: WarcraftLegacies.Source.Quests.Legion.QuestDemonGateMonastery
   nameWithType: QuestDemonGateMonastery
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestDemonGateMonastery.#ctor
-  name: QuestDemonGateMonastery()
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestDemonGateMonastery.html#WarcraftLegacies_Source_Quests_Legion_QuestDemonGateMonastery__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Legion.QuestDemonGateMonastery.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestDemonGateMonastery.QuestDemonGateMonastery()
-  nameWithType: QuestDemonGateMonastery.QuestDemonGateMonastery()
+- uid: WarcraftLegacies.Source.Quests.Legion.QuestDemonGateMonastery.#ctor(MacroTools.PreplacedUnitSystem)
+  name: QuestDemonGateMonastery(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestDemonGateMonastery.html#WarcraftLegacies_Source_Quests_Legion_QuestDemonGateMonastery__ctor_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Legion.QuestDemonGateMonastery.#ctor(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Legion.QuestDemonGateMonastery.QuestDemonGateMonastery(MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestDemonGateMonastery.QuestDemonGateMonastery(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Quests.Legion.QuestDemonGateMonastery.#ctor*
   name: QuestDemonGateMonastery
   href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestDemonGateMonastery.html#WarcraftLegacies_Source_Quests_Legion_QuestDemonGateMonastery__ctor_
@@ -23662,12 +23649,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Lordaeron.QuestStratholme
   fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestStratholme
   nameWithType: QuestStratholme
-- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestStratholme.#ctor(Rectangle)
-  name: QuestStratholme(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestStratholme.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestStratholme__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Lordaeron.QuestStratholme.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestStratholme.QuestStratholme(Rectangle)
-  nameWithType: QuestStratholme.QuestStratholme(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestStratholme.#ctor(Rectangle,MacroTools.PreplacedUnitSystem)
+  name: QuestStratholme(Rectangle, PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestStratholme.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestStratholme__ctor_Rectangle_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Lordaeron.QuestStratholme.#ctor(Rectangle,MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestStratholme.QuestStratholme(Rectangle, MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestStratholme.QuestStratholme(Rectangle, PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestStratholme.#ctor*
   name: QuestStratholme
   href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestStratholme.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestStratholme__ctor_
@@ -24035,12 +24022,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Quelthalas.QuestSilvermoon
   fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestSilvermoon
   nameWithType: QuestSilvermoon
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestSilvermoon.#ctor(Rectangle,unit)
-  name: QuestSilvermoon(Rectangle, unit)
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestSilvermoon.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestSilvermoon__ctor_Rectangle_unit_
-  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestSilvermoon.#ctor(Rectangle,unit)
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestSilvermoon.QuestSilvermoon(Rectangle, unit)
-  nameWithType: QuestSilvermoon.QuestSilvermoon(Rectangle, unit)
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestSilvermoon.#ctor(Rectangle,unit,MacroTools.PreplacedUnitSystem)
+  name: QuestSilvermoon(Rectangle, unit, PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestSilvermoon.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestSilvermoon__ctor_Rectangle_unit_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestSilvermoon.#ctor(Rectangle,unit,MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestSilvermoon.QuestSilvermoon(Rectangle, unit, MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestSilvermoon.QuestSilvermoon(Rectangle, unit, PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestSilvermoon.#ctor*
   name: QuestSilvermoon
   href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestSilvermoon.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestSilvermoon__ctor_
@@ -26065,12 +26052,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Stormwind.QuestClosePortal
   fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestClosePortal
   nameWithType: QuestClosePortal
-- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestClosePortal.#ctor
-  name: QuestClosePortal()
-  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestClosePortal.html#WarcraftLegacies_Source_Quests_Stormwind_QuestClosePortal__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Stormwind.QuestClosePortal.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestClosePortal.QuestClosePortal()
-  nameWithType: QuestClosePortal.QuestClosePortal()
+- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestClosePortal.#ctor(MacroTools.PreplacedUnitSystem)
+  name: QuestClosePortal(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestClosePortal.html#WarcraftLegacies_Source_Quests_Stormwind_QuestClosePortal__ctor_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Stormwind.QuestClosePortal.#ctor(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestClosePortal.QuestClosePortal(MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestClosePortal.QuestClosePortal(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Quests.Stormwind.QuestClosePortal.#ctor*
   name: QuestClosePortal
   href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestClosePortal.html#WarcraftLegacies_Source_Quests_Stormwind_QuestClosePortal__ctor_
@@ -27183,12 +27170,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Warsong.QuestCrossroads
   fullName: WarcraftLegacies.Source.Quests.Warsong.QuestCrossroads
   nameWithType: QuestCrossroads
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestCrossroads.#ctor(Rectangle)
-  name: QuestCrossroads(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestCrossroads.html#WarcraftLegacies_Source_Quests_Warsong_QuestCrossroads__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Warsong.QuestCrossroads.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestCrossroads.QuestCrossroads(Rectangle)
-  nameWithType: QuestCrossroads.QuestCrossroads(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestCrossroads.#ctor(Rectangle,MacroTools.PreplacedUnitSystem)
+  name: QuestCrossroads(Rectangle, PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestCrossroads.html#WarcraftLegacies_Source_Quests_Warsong_QuestCrossroads__ctor_Rectangle_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Warsong.QuestCrossroads.#ctor(Rectangle,MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestCrossroads.QuestCrossroads(Rectangle, MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestCrossroads.QuestCrossroads(Rectangle, PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Quests.Warsong.QuestCrossroads.#ctor*
   name: QuestCrossroads
   href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestCrossroads.html#WarcraftLegacies_Source_Quests_Warsong_QuestCrossroads__ctor_
@@ -28266,12 +28253,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram
   fullName: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram
   nameWithType: DeeprunTram
-- uid: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.html#WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram_Setup
-  commentId: M:WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.Setup
-  fullName: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.Setup()
-  nameWithType: DeeprunTram.Setup()
+- uid: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.html#WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: DeeprunTram.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.html#WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram_Setup_
@@ -28468,12 +28455,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold
   fullName: WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold
   nameWithType: TierKnowledgeOfHonorHold
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.html#WarcraftLegacies_Source_Researches_Stormwind_TierKnowledgeOfHonorHold_Setup
-  commentId: M:WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.Setup
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.Setup()
-  nameWithType: TierKnowledgeOfHonorHold.Setup()
+- uid: WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.html#WarcraftLegacies_Source_Researches_Stormwind_TierKnowledgeOfHonorHold_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: TierKnowledgeOfHonorHold.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.html#WarcraftLegacies_Source_Researches_Stormwind_TierKnowledgeOfHonorHold_Setup_
@@ -28487,12 +28474,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde
   fullName: WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde
   nameWithType: TierMagesOfStromgarde
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.html#WarcraftLegacies_Source_Researches_Stormwind_TierMagesOfStromgarde_Setup
-  commentId: M:WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.Setup
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.Setup()
-  nameWithType: TierMagesOfStromgarde.Setup()
+- uid: WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.html#WarcraftLegacies_Source_Researches_Stormwind_TierMagesOfStromgarde_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: TierMagesOfStromgarde.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.html#WarcraftLegacies_Source_Researches_Stormwind_TierMagesOfStromgarde_Setup_
@@ -28658,12 +28645,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.AllFactionSetup
   fullName: WarcraftLegacies.Source.Setup.AllFactionSetup
   nameWithType: AllFactionSetup
-- uid: WarcraftLegacies.Source.Setup.AllFactionSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.AllFactionSetup.html#WarcraftLegacies_Source_Setup_AllFactionSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.AllFactionSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.AllFactionSetup.Setup()
-  nameWithType: AllFactionSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.AllFactionSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.AllFactionSetup.html#WarcraftLegacies_Source_Setup_AllFactionSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.AllFactionSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.AllFactionSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: AllFactionSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.AllFactionSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.AllFactionSetup.html#WarcraftLegacies_Source_Setup_AllFactionSetup_Setup_
@@ -28677,12 +28664,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.AllLegendSetup
   fullName: WarcraftLegacies.Source.Setup.AllLegendSetup
   nameWithType: AllLegendSetup
-- uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.AllLegendSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.Setup()
-  nameWithType: AllLegendSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.AllLegendSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: AllLegendSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Setup_
@@ -28696,12 +28683,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.AllQuestSetup
   fullName: WarcraftLegacies.Source.Setup.AllQuestSetup
   nameWithType: AllQuestSetup
-- uid: WarcraftLegacies.Source.Setup.AllQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.AllQuestSetup.html#WarcraftLegacies_Source_Setup_AllQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.AllQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.AllQuestSetup.Setup()
-  nameWithType: AllQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.AllQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.AllQuestSetup.html#WarcraftLegacies_Source_Setup_AllQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.AllQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.AllQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: AllQuestSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.AllQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.AllQuestSetup.html#WarcraftLegacies_Source_Setup_AllQuestSetup_Setup_
@@ -29072,12 +29059,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ScytheOfElune
   nameWithType: ArtifactSetup.ScytheOfElune
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.ArtifactSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.Setup()
-  nameWithType: ArtifactSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.ArtifactSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: ArtifactSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_Setup_
@@ -30130,12 +30117,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.DestructibleSetup
   fullName: WarcraftLegacies.Source.Setup.DestructibleSetup
   nameWithType: DestructibleSetup
-- uid: WarcraftLegacies.Source.Setup.DestructibleSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.DestructibleSetup.html#WarcraftLegacies_Source_Setup_DestructibleSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.DestructibleSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.DestructibleSetup.Setup()
-  nameWithType: DestructibleSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.DestructibleSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.DestructibleSetup.html#WarcraftLegacies_Source_Setup_DestructibleSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.DestructibleSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.DestructibleSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: DestructibleSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.DestructibleSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.DestructibleSetup.html#WarcraftLegacies_Source_Setup_DestructibleSetup_Setup_
@@ -30219,12 +30206,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.DalaranSetup.Dalaran
   nameWithType: DalaranSetup.Dalaran
-- uid: WarcraftLegacies.Source.Setup.FactionSetup.DalaranSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.DalaranSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_DalaranSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.DalaranSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.FactionSetup.DalaranSetup.Setup()
-  nameWithType: DalaranSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.DalaranSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.DalaranSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_DalaranSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.DalaranSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.DalaranSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: DalaranSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.DalaranSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.DalaranSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_DalaranSetup_Setup_
@@ -30315,12 +30302,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.DruidsSetup.Druids
   nameWithType: DruidsSetup.Druids
-- uid: WarcraftLegacies.Source.Setup.FactionSetup.DruidsSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.DruidsSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_DruidsSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.DruidsSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.FactionSetup.DruidsSetup.Setup()
-  nameWithType: DruidsSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.DruidsSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.DruidsSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_DruidsSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.DruidsSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.DruidsSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: DruidsSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.DruidsSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.DruidsSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_DruidsSetup_Setup_
@@ -30347,12 +30334,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.FelHordeSetup.FelHorde
   nameWithType: FelHordeSetup.FelHorde
-- uid: WarcraftLegacies.Source.Setup.FactionSetup.FelHordeSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FelHordeSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_FelHordeSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.FelHordeSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.FactionSetup.FelHordeSetup.Setup()
-  nameWithType: FelHordeSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.FelHordeSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FelHordeSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_FelHordeSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.FelHordeSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.FelHordeSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: FelHordeSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.FelHordeSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FelHordeSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_FelHordeSetup_Setup_
@@ -30411,12 +30398,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.FrostwolfSetup.Frostwolf
   nameWithType: FrostwolfSetup.Frostwolf
-- uid: WarcraftLegacies.Source.Setup.FactionSetup.FrostwolfSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FrostwolfSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_FrostwolfSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.FrostwolfSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.FactionSetup.FrostwolfSetup.Setup()
-  nameWithType: FrostwolfSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.FrostwolfSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FrostwolfSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_FrostwolfSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.FrostwolfSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.FrostwolfSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: FrostwolfSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.FrostwolfSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FrostwolfSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_FrostwolfSetup_Setup_
@@ -30571,12 +30558,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.IronforgeSetup.Ironforge
   nameWithType: IronforgeSetup.Ironforge
-- uid: WarcraftLegacies.Source.Setup.FactionSetup.IronforgeSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.IronforgeSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_IronforgeSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.IronforgeSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.FactionSetup.IronforgeSetup.Setup()
-  nameWithType: IronforgeSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.IronforgeSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.IronforgeSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_IronforgeSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.IronforgeSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.IronforgeSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: IronforgeSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.IronforgeSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.IronforgeSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_IronforgeSetup_Setup_
@@ -30603,12 +30590,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.KultirasSetup.Kultiras
   nameWithType: KultirasSetup.Kultiras
-- uid: WarcraftLegacies.Source.Setup.FactionSetup.KultirasSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.KultirasSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_KultirasSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.KultirasSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.FactionSetup.KultirasSetup.Setup()
-  nameWithType: KultirasSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.KultirasSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.KultirasSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_KultirasSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.KultirasSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.KultirasSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: KultirasSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.KultirasSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.KultirasSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_KultirasSetup_Setup_
@@ -30635,12 +30622,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.LegionSetup.Legion
   nameWithType: LegionSetup.Legion
-- uid: WarcraftLegacies.Source.Setup.FactionSetup.LegionSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.LegionSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_LegionSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.LegionSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.FactionSetup.LegionSetup.Setup()
-  nameWithType: LegionSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.LegionSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.LegionSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_LegionSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.LegionSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.LegionSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegionSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.LegionSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.LegionSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_LegionSetup_Setup_
@@ -30667,12 +30654,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.LordaeronSetup.Lordaeron
   nameWithType: LordaeronSetup.Lordaeron
-- uid: WarcraftLegacies.Source.Setup.FactionSetup.LordaeronSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.LordaeronSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_LordaeronSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.LordaeronSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.FactionSetup.LordaeronSetup.Setup()
-  nameWithType: LordaeronSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.LordaeronSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.LordaeronSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_LordaeronSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.LordaeronSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.LordaeronSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LordaeronSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.LordaeronSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.LordaeronSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_LordaeronSetup_Setup_
@@ -30731,12 +30718,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.QuelthalasSetup.Quelthalas
   nameWithType: QuelthalasSetup.Quelthalas
-- uid: WarcraftLegacies.Source.Setup.FactionSetup.QuelthalasSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.QuelthalasSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_QuelthalasSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.QuelthalasSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.FactionSetup.QuelthalasSetup.Setup()
-  nameWithType: QuelthalasSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.QuelthalasSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.QuelthalasSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_QuelthalasSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.QuelthalasSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.QuelthalasSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: QuelthalasSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.QuelthalasSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.QuelthalasSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_QuelthalasSetup_Setup_
@@ -30763,12 +30750,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.ScarletSetup.ScarletCrusade
   nameWithType: ScarletSetup.ScarletCrusade
-- uid: WarcraftLegacies.Source.Setup.FactionSetup.ScarletSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.ScarletSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_ScarletSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.ScarletSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.FactionSetup.ScarletSetup.Setup()
-  nameWithType: ScarletSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.ScarletSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.ScarletSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_ScarletSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.ScarletSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.ScarletSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: ScarletSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.ScarletSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.ScarletSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_ScarletSetup_Setup_
@@ -30795,12 +30782,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.Scourge
   nameWithType: ScourgeSetup.Scourge
-- uid: WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_ScourgeSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.Setup()
-  nameWithType: ScourgeSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_ScourgeSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: ScourgeSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_ScourgeSetup_Setup_
@@ -30827,12 +30814,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.SentinelsSetup.Sentinels
   nameWithType: SentinelsSetup.Sentinels
-- uid: WarcraftLegacies.Source.Setup.FactionSetup.SentinelsSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.SentinelsSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_SentinelsSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.SentinelsSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.FactionSetup.SentinelsSetup.Setup()
-  nameWithType: SentinelsSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.SentinelsSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.SentinelsSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_SentinelsSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.SentinelsSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.SentinelsSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: SentinelsSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.SentinelsSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.SentinelsSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_SentinelsSetup_Setup_
@@ -30910,12 +30897,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.FactionSetup.WarsongSetup
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.WarsongSetup
   nameWithType: WarsongSetup
-- uid: WarcraftLegacies.Source.Setup.FactionSetup.WarsongSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.WarsongSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_WarsongSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.WarsongSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.FactionSetup.WarsongSetup.Setup()
-  nameWithType: WarsongSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.WarsongSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.WarsongSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_WarsongSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.WarsongSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.WarsongSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: WarsongSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.WarsongSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.WarsongSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_WarsongSetup_Setup_
@@ -30942,12 +30929,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.FactionSetup.ZandalarSetup
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.ZandalarSetup
   nameWithType: ZandalarSetup
-- uid: WarcraftLegacies.Source.Setup.FactionSetup.ZandalarSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.ZandalarSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_ZandalarSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.ZandalarSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.FactionSetup.ZandalarSetup.Setup()
-  nameWithType: ZandalarSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.ZandalarSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.ZandalarSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_ZandalarSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.ZandalarSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.ZandalarSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: ZandalarSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.ZandalarSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.ZandalarSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_ZandalarSetup_Setup_
@@ -31050,12 +31037,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.InstanceSetup
   fullName: WarcraftLegacies.Source.Setup.InstanceSetup
   nameWithType: InstanceSetup
-- uid: WarcraftLegacies.Source.Setup.InstanceSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.InstanceSetup.html#WarcraftLegacies_Source_Setup_InstanceSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.InstanceSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.InstanceSetup.Setup()
-  nameWithType: InstanceSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.InstanceSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.InstanceSetup.html#WarcraftLegacies_Source_Setup_InstanceSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.InstanceSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.InstanceSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: InstanceSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.InstanceSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.InstanceSetup.html#WarcraftLegacies_Source_Setup_InstanceSetup_Setup_
@@ -31153,12 +31140,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.LegendMedivh
   nameWithType: LegendDalaran.LegendMedivh
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDalaran.html#WarcraftLegacies_Source_Setup_Legends_LegendDalaran_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Setup()
-  nameWithType: LegendDalaran.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDalaran.html#WarcraftLegacies_Source_Setup_Legends_LegendDalaran_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendDalaran.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDalaran.html#WarcraftLegacies_Source_Setup_Legends_LegendDalaran_Setup_
@@ -31263,12 +31250,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendDraenei.LegendVelen
   nameWithType: LegendDraenei.LegendVelen
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDraenei.html#WarcraftLegacies_Source_Setup_Legends_LegendDraenei_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Setup()
-  nameWithType: LegendDraenei.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDraenei.html#WarcraftLegacies_Source_Setup_Legends_LegendDraenei_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendDraenei.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDraenei.html#WarcraftLegacies_Source_Setup_Legends_LegendDraenei_Setup_
@@ -31334,12 +31321,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendZaela
   nameWithType: LegendDragonmaw.LegendZaela
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Setup()
-  nameWithType: LegendDragonmaw.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendDragonmaw.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_Setup_
@@ -31431,12 +31418,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendDruids.LegendUrsoc
   nameWithType: LegendDruids.LegendUrsoc
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendDruids.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDruids.html#WarcraftLegacies_Source_Setup_Legends_LegendDruids_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendDruids.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDruids.Setup()
-  nameWithType: LegendDruids.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDruids.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDruids.html#WarcraftLegacies_Source_Setup_Legends_LegendDruids_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendDruids.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDruids.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendDruids.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDruids.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDruids.html#WarcraftLegacies_Source_Setup_Legends_LegendDruids_Setup_
@@ -31606,12 +31593,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.LegendZuluhed
   nameWithType: LegendFelHorde.LegendZuluhed
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.html#WarcraftLegacies_Source_Setup_Legends_LegendFelHorde_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.Setup()
-  nameWithType: LegendFelHorde.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.html#WarcraftLegacies_Source_Setup_Legends_LegendFelHorde_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendFelHorde.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.html#WarcraftLegacies_Source_Setup_Legends_LegendFelHorde_Setup_
@@ -31651,12 +31638,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Scholomance
   nameWithType: LegendForsaken.Scholomance
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendForsaken.html#WarcraftLegacies_Source_Setup_Legends_LegendForsaken_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Setup()
-  nameWithType: LegendForsaken.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendForsaken.html#WarcraftLegacies_Source_Setup_Legends_LegendForsaken_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendForsaken.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendForsaken.html#WarcraftLegacies_Source_Setup_Legends_LegendForsaken_Setup_
@@ -31787,12 +31774,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.LegendThunderbluff
   nameWithType: LegendFrostwolf.LegendThunderbluff
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.html#WarcraftLegacies_Source_Setup_Legends_LegendFrostwolf_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.Setup()
-  nameWithType: LegendFrostwolf.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.html#WarcraftLegacies_Source_Setup_Legends_LegendFrostwolf_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendFrostwolf.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.html#WarcraftLegacies_Source_Setup_Legends_LegendFrostwolf_Setup_
@@ -31955,12 +31942,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendGoblin.Noggenfogger
   nameWithType: LegendGoblin.Noggenfogger
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendGoblin.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGoblin.html#WarcraftLegacies_Source_Setup_Legends_LegendGoblin_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendGoblin.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGoblin.Setup()
-  nameWithType: LegendGoblin.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendGoblin.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGoblin.html#WarcraftLegacies_Source_Setup_Legends_LegendGoblin_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendGoblin.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGoblin.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendGoblin.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendGoblin.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGoblin.html#WarcraftLegacies_Source_Setup_Legends_LegendGoblin_Setup_
@@ -32052,12 +32039,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendIronforge.LegendThelsamar
   nameWithType: LegendIronforge.LegendThelsamar
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendIronforge.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendIronforge.html#WarcraftLegacies_Source_Setup_Legends_LegendIronforge_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendIronforge.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendIronforge.Setup()
-  nameWithType: LegendIronforge.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendIronforge.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendIronforge.html#WarcraftLegacies_Source_Setup_Legends_LegendIronforge_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendIronforge.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendIronforge.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendIronforge.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendIronforge.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendIronforge.html#WarcraftLegacies_Source_Setup_Legends_LegendIronforge_Setup_
@@ -32136,12 +32123,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendKultiras.LegendLucille
   nameWithType: LegendKultiras.LegendLucille
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendKultiras.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendKultiras.html#WarcraftLegacies_Source_Setup_Legends_LegendKultiras_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendKultiras.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendKultiras.Setup()
-  nameWithType: LegendKultiras.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendKultiras.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendKultiras.html#WarcraftLegacies_Source_Setup_Legends_LegendKultiras_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendKultiras.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendKultiras.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendKultiras.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendKultiras.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendKultiras.html#WarcraftLegacies_Source_Setup_Legends_LegendKultiras_Setup_
@@ -32246,12 +32233,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LEGION_NEXUS_OUTLAND
   nameWithType: LegendLegion.LEGION_NEXUS_OUTLAND
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendLegion.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLegion.html#WarcraftLegacies_Source_Setup_Legends_LegendLegion_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendLegion.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendLegion.Setup()
-  nameWithType: LegendLegion.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendLegion.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLegion.html#WarcraftLegacies_Source_Setup_Legends_LegendLegion_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendLegion.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendLegion.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendLegion.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendLegion.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLegion.html#WarcraftLegacies_Source_Setup_Legends_LegendLegion_Setup_
@@ -32330,12 +32317,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Mograine
   nameWithType: LegendLordaeron.Mograine
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.html#WarcraftLegacies_Source_Setup_Legends_LegendLordaeron_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Setup()
-  nameWithType: LegendLordaeron.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.html#WarcraftLegacies_Source_Setup_Legends_LegendLordaeron_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendLordaeron.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.html#WarcraftLegacies_Source_Setup_Legends_LegendLordaeron_Setup_
@@ -32518,12 +32505,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendVault
   nameWithType: LegendNaga.LegendVault
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNaga.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNaga.html#WarcraftLegacies_Source_Setup_Legends_LegendNaga_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendNaga.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNaga.Setup()
-  nameWithType: LegendNaga.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNaga.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNaga.html#WarcraftLegacies_Source_Setup_Legends_LegendNaga_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendNaga.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNaga.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendNaga.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendNaga.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNaga.html#WarcraftLegacies_Source_Setup_Legends_LegendNaga_Setup_
@@ -32940,12 +32927,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.LegendZulgurub
   nameWithType: LegendNeutral.LegendZulgurub
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Setup()
-  nameWithType: LegendNeutral.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendNeutral.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_Setup_
@@ -33102,12 +33089,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.LegendSylvanas
   nameWithType: LegendQuelthalas.LegendSylvanas
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.html#WarcraftLegacies_Source_Setup_Legends_LegendQuelthalas_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Setup()
-  nameWithType: LegendQuelthalas.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.html#WarcraftLegacies_Source_Setup_Legends_LegendQuelthalas_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendQuelthalas.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.html#WarcraftLegacies_Source_Setup_Legends_LegendQuelthalas_Setup_
@@ -33244,12 +33231,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Naxxramas
   nameWithType: LegendScourge.Naxxramas
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendScourge.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Setup()
-  nameWithType: LegendScourge.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendScourge.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendScourge.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_Setup_
@@ -33354,12 +33341,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Maiev
   nameWithType: LegendSentinels.Maiev
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Setup()
-  nameWithType: LegendSentinels.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendSentinels.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Setup_
@@ -33503,12 +33490,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendStormwind.LegendVarian
   nameWithType: LegendStormwind.LegendVarian
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendStormwind.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendStormwind.html#WarcraftLegacies_Source_Setup_Legends_LegendStormwind_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendStormwind.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendStormwind.Setup()
-  nameWithType: LegendStormwind.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendStormwind.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendStormwind.html#WarcraftLegacies_Source_Setup_Legends_LegendStormwind_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendStormwind.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendStormwind.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendStormwind.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendStormwind.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendStormwind.html#WarcraftLegacies_Source_Setup_Legends_LegendStormwind_Setup_
@@ -33645,12 +33632,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.LegendTwilightcitadel
   nameWithType: LegendTwilight.LegendTwilightcitadel
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.html#WarcraftLegacies_Source_Setup_Legends_LegendTwilight_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Setup()
-  nameWithType: LegendTwilight.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.html#WarcraftLegacies_Source_Setup_Legends_LegendTwilight_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendTwilight.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.html#WarcraftLegacies_Source_Setup_Legends_LegendTwilight_Setup_
@@ -33729,12 +33716,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Saurfang
   nameWithType: LegendWarsong.Saurfang
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html#WarcraftLegacies_Source_Setup_Legends_LegendWarsong_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Setup()
-  nameWithType: LegendWarsong.Setup()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html#WarcraftLegacies_Source_Setup_Legends_LegendWarsong_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendWarsong.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html#WarcraftLegacies_Source_Setup_Legends_LegendWarsong_Setup_
@@ -33856,12 +33843,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup
   nameWithType: DalaranQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_DalaranQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.Setup()
-  nameWithType: DalaranQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_DalaranQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: DalaranQuestSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_DalaranQuestSetup_Setup_
@@ -33875,12 +33862,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.DraeneiQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.DraeneiQuestSetup
   nameWithType: DraeneiQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.DraeneiQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.DraeneiQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_DraeneiQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.DraeneiQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.DraeneiQuestSetup.Setup()
-  nameWithType: DraeneiQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.DraeneiQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.DraeneiQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_DraeneiQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.DraeneiQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.DraeneiQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: DraeneiQuestSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.DraeneiQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.DraeneiQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_DraeneiQuestSetup_Setup_
@@ -33894,12 +33881,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.DragonmawQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.DragonmawQuestSetup
   nameWithType: DragonmawQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.DragonmawQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.DragonmawQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_DragonmawQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.DragonmawQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.DragonmawQuestSetup.Setup()
-  nameWithType: DragonmawQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.DragonmawQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.DragonmawQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_DragonmawQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.DragonmawQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.DragonmawQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: DragonmawQuestSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.DragonmawQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.DragonmawQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_DragonmawQuestSetup_Setup_
@@ -33932,12 +33919,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup
   nameWithType: FelHordeQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_FelHordeQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup()
-  nameWithType: FelHordeQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_FelHordeQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: FelHordeQuestSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_FelHordeQuestSetup_Setup_
@@ -33951,12 +33938,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup
   nameWithType: ForsakenQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.Setup(MacroTools.QuestSystem.QuestData)
-  name: Setup(QuestData)
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ForsakenQuestSetup_Setup_MacroTools_QuestSystem_QuestData_
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.Setup(MacroTools.QuestSystem.QuestData)
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.Setup(MacroTools.QuestSystem.QuestData)
-  nameWithType: ForsakenQuestSetup.Setup(QuestData)
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.Setup(MacroTools.QuestSystem.QuestData,MacroTools.PreplacedUnitSystem)
+  name: Setup(QuestData, PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ForsakenQuestSetup_Setup_MacroTools_QuestSystem_QuestData_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.Setup(MacroTools.QuestSystem.QuestData,MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.Setup(MacroTools.QuestSystem.QuestData, MacroTools.PreplacedUnitSystem)
+  nameWithType: ForsakenQuestSetup.Setup(QuestData, PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ForsakenQuestSetup_Setup_
@@ -33970,12 +33957,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup
   nameWithType: FrostwolfQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_FrostwolfQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup()
-  nameWithType: FrostwolfQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_FrostwolfQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: FrostwolfQuestSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_FrostwolfQuestSetup_Setup_
@@ -34027,12 +34014,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.IronforgeQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.IronforgeQuestSetup
   nameWithType: IronforgeQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.IronforgeQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.IronforgeQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_IronforgeQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.IronforgeQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.IronforgeQuestSetup.Setup()
-  nameWithType: IronforgeQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.IronforgeQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.IronforgeQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_IronforgeQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.IronforgeQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.IronforgeQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: IronforgeQuestSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.IronforgeQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.IronforgeQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_IronforgeQuestSetup_Setup_
@@ -34046,12 +34033,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.KultirasQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.KultirasQuestSetup
   nameWithType: KultirasQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.KultirasQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.KultirasQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_KultirasQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.KultirasQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.KultirasQuestSetup.Setup()
-  nameWithType: KultirasQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.KultirasQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.KultirasQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_KultirasQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.KultirasQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.KultirasQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: KultirasQuestSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.KultirasQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.KultirasQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_KultirasQuestSetup_Setup_
@@ -34065,12 +34052,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.LegionQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.LegionQuestSetup
   nameWithType: LegionQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.LegionQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.LegionQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_LegionQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.LegionQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.LegionQuestSetup.Setup()
-  nameWithType: LegionQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.LegionQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.LegionQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_LegionQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.LegionQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.LegionQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegionQuestSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.LegionQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.LegionQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_LegionQuestSetup_Setup_
@@ -34084,12 +34071,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup
   nameWithType: LordaeronQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_LordaeronQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.Setup()
-  nameWithType: LordaeronQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_LordaeronQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LordaeronQuestSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_LordaeronQuestSetup_Setup_
@@ -34200,12 +34187,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.QuelthalasQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.QuelthalasQuestSetup
   nameWithType: QuelthalasQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.QuelthalasQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.QuelthalasQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_QuelthalasQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.QuelthalasQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.QuelthalasQuestSetup.Setup()
-  nameWithType: QuelthalasQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.QuelthalasQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.QuelthalasQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_QuelthalasQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.QuelthalasQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.QuelthalasQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: QuelthalasQuestSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.QuelthalasQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.QuelthalasQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_QuelthalasQuestSetup_Setup_
@@ -34219,12 +34206,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup
   nameWithType: ScarletQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ScarletQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.Setup()
-  nameWithType: ScarletQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ScarletQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: ScarletQuestSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ScarletQuestSetup_Setup_
@@ -34238,12 +34225,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup
   nameWithType: ScourgeQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ScourgeQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.Setup()
-  nameWithType: ScourgeQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ScourgeQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: ScourgeQuestSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ScourgeQuestSetup_Setup_
@@ -34276,12 +34263,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup
   nameWithType: SharedQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_SharedQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.Setup()
-  nameWithType: SharedQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_SharedQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: SharedQuestSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_SharedQuestSetup_Setup_
@@ -34295,12 +34282,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup
   nameWithType: StormwindQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_StormwindQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.Setup()
-  nameWithType: StormwindQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_StormwindQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: StormwindQuestSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_StormwindQuestSetup_Setup_
@@ -34333,12 +34320,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup
   nameWithType: TwilightQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_TwilightQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.Setup()
-  nameWithType: TwilightQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_TwilightQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: TwilightQuestSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_TwilightQuestSetup_Setup_
@@ -34352,12 +34339,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup
   nameWithType: WarsongQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_WarsongQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup()
-  nameWithType: WarsongQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_WarsongQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: WarsongQuestSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_WarsongQuestSetup_Setup_
@@ -34371,12 +34358,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.ResearchSetup
   fullName: WarcraftLegacies.Source.Setup.ResearchSetup
   nameWithType: ResearchSetup
-- uid: WarcraftLegacies.Source.Setup.ResearchSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.ResearchSetup.html#WarcraftLegacies_Source_Setup_ResearchSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.ResearchSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.ResearchSetup.Setup()
-  nameWithType: ResearchSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.ResearchSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.ResearchSetup.html#WarcraftLegacies_Source_Setup_ResearchSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.ResearchSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.ResearchSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: ResearchSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.ResearchSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.ResearchSetup.html#WarcraftLegacies_Source_Setup_ResearchSetup_Setup_
