@@ -11466,6 +11466,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.SoundLibrary.Rescue
   nameWithType: SoundLibrary.Rescue
+- uid: MacroTools.SoundLibrary.Setup
+  name: Setup()
+  href: api-macroTools/MacroTools.SoundLibrary.html#MacroTools_SoundLibrary_Setup
+  commentId: M:MacroTools.SoundLibrary.Setup
+  fullName: MacroTools.SoundLibrary.Setup()
+  nameWithType: SoundLibrary.Setup()
+- uid: MacroTools.SoundLibrary.Setup*
+  name: Setup
+  href: api-macroTools/MacroTools.SoundLibrary.html#MacroTools_SoundLibrary_Setup_
+  commentId: Overload:MacroTools.SoundLibrary.Setup
+  isSpec: "True"
+  fullName: MacroTools.SoundLibrary.Setup
+  nameWithType: SoundLibrary.Setup
 - uid: MacroTools.SoundLibrary.Warning
   name: Warning
   href: api-macroTools/MacroTools.SoundLibrary.html#MacroTools_SoundLibrary_Warning
