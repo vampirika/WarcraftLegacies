@@ -437,6 +437,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Buffs.OilHarvesterBuff.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Buffs.OilHarvesterBuff.html",
+          "hash": "REZHleYrtFdyqNgg6FlkTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Buffs.OilProducerBuff.yml",
       "output": {
         ".html": {
@@ -549,7 +561,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Buffs.html",
-          "hash": "OOoxIXbNiHj4y6twWm3Zmg=="
+          "hash": "DMX924vIbhrMC5b5lYmPPA=="
         }
       },
       "is_incremental": false,
@@ -1509,7 +1521,19 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.GameTime.html",
-          "hash": "s50HAQd3rbMlZFRk9iwVew=="
+          "hash": "FlB7ntQ3QkpRMk4nmO162Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Hazards.OilPool.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Hazards.OilPool.html",
+          "hash": "c0LJEswKGIdHBgD1Nb2+4A=="
         }
       },
       "is_incremental": false,
@@ -1521,7 +1545,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Hazards.RecurrentSpellHazard.html",
-          "hash": "f3RtJqvpVt7XbX2ZPKtsgw=="
+          "hash": "F9EDD1nqXti7ioZVbQwe7w=="
         }
       },
       "is_incremental": false,
@@ -1533,7 +1557,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Hazards.SolarJudgementHazard.html",
-          "hash": "Hfsc6ToB8Km5LysI5mbJAw=="
+          "hash": "eH6kL7nL3CkD0j25+g6ptw=="
         }
       },
       "is_incremental": false,
@@ -1545,7 +1569,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Hazards.html",
-          "hash": "zSpvONO1AgLC0pAxrm4gpw=="
+          "hash": "xiLVFG2Fs2kUvz3/HIoS9Q=="
         }
       },
       "is_incremental": false,
@@ -1925,6 +1949,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.OilHarvester.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.PassiveAbilities.OilHarvester.html",
+          "hash": "aD/cBxN0FlkJt1UpXyjfMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.yml",
       "output": {
         ".html": {
@@ -2025,7 +2061,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.html",
-          "hash": "4H+lCjfnDEe6QsJk/VnAuA=="
+          "hash": "ssh7w7UCn5VNUmjQb++3xw=="
         }
       },
       "is_incremental": false,
@@ -2061,7 +2097,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html",
-          "hash": "uTVuBxt86NonF/fnp99CdQ=="
+          "hash": "1fS5rT4Va3zwOQFxlmCWew=="
         }
       },
       "is_incremental": false,
@@ -2157,7 +2193,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Powers.OilPower.html",
-          "hash": "L4Gz2jP+0xzkEcqQXa/5yg=="
+          "hash": "K1oil37Z/g7/4/DvLFuYOw=="
         }
       },
       "is_incremental": false,
@@ -2865,7 +2901,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.SpellSystem.Hazard.html",
-          "hash": "3qzbQDiAKOstTfdQxBu+lg=="
+          "hash": "iTpyGF5nADwbU7KOlNvBqQ=="
         }
       },
       "is_incremental": false,
@@ -3537,7 +3573,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "n4dIvqCVtA69/fF2STT1dQ=="
+          "hash": "zKwtOsHET7V7fJC91eywBQ=="
         }
       },
       "is_incremental": false,
@@ -4109,30 +4145,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilProducer.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilProducer.html",
-          "hash": "ySMmdCPnz8QflPBFHbDOxA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilRigConstructor.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilRigConstructor.html",
-          "hash": "dNM2ycyqr2tAztsKrEG5cg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilUser.yml",
       "output": {
         ".html": {
@@ -4161,7 +4173,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.html",
-          "hash": "vrV9pR8sGe4BPstMkEHjaQ=="
+          "hash": "ImPQDe9tsLva6FsbC5HQ+Q=="
         }
       },
       "is_incremental": false,
@@ -8181,7 +8193,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.GoblinSpellSetup.html",
-          "hash": "JsqSnD/1FmCG1oqPJmHn/g=="
+          "hash": "tpaHCoUGtECrB94ARg17HA=="
         }
       },
       "is_incremental": false,
@@ -8421,7 +8433,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "vIYlnIqpzue/8hCrwcfWvw=="
+          "hash": "CZDiXM//iNqw4A15qs9XvA=="
         }
       },
       "is_incremental": false,
@@ -8496,7 +8508,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 700,
+          "total_file_count": 701,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
