@@ -1649,6 +1649,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.LeveledAbilityField-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.LeveledAbilityField-1.html",
+          "hash": "iPTGwqLlZj9yavXr12MpsQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Libraries.Display.yml",
       "output": {
         ".html": {
@@ -1997,6 +2009,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.RestoreManaFromDamage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.PassiveAbilities.RestoreManaFromDamage.html",
+          "hash": "ddMTrvfAFs2gVWTbpgI2NA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.ResurrectionAura.yml",
       "output": {
         ".html": {
@@ -2061,7 +2085,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.html",
-          "hash": "ssh7w7UCn5VNUmjQb++3xw=="
+          "hash": "AY/0+Pc5q+51aXz7br+A1w=="
         }
       },
       "is_incremental": false,
@@ -2097,7 +2121,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html",
-          "hash": "1fS5rT4Va3zwOQFxlmCWew=="
+          "hash": "NR9daIY+cLwmeQhq/zX2mA=="
         }
       },
       "is_incremental": false,
@@ -3561,7 +3585,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.html",
-          "hash": "9kNz3YB6Li27LKH9VXyxkg=="
+          "hash": "AWdwIgNGN8p0YCUQIN8FFA=="
         }
       },
       "is_incremental": false,
@@ -3573,7 +3597,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "zKwtOsHET7V7fJC91eywBQ=="
+          "hash": "HDfOQf6ZFsEkYyRMO1ob8Q=="
         }
       },
       "is_incremental": false,
@@ -8145,7 +8169,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.DragonmawSpellSetup.html",
-          "hash": "AM+GaQTrpiY/nTvJeAoccw=="
+          "hash": "VcEh/qz7G7zZOq3NKtPvUQ=="
         }
       },
       "is_incremental": false,
@@ -8520,7 +8544,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 702,
+          "total_file_count": 704,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

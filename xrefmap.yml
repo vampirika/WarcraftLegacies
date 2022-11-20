@@ -7509,6 +7509,49 @@ references:
   isSpec: "True"
   fullName: MacroTools.Instances.InstanceSystem.Register
   nameWithType: InstanceSystem.Register
+- uid: MacroTools.LeveledAbilityField`1
+  name: LeveledAbilityField<T>
+  href: api-macroTools/MacroTools.LeveledAbilityField-1.html
+  commentId: T:MacroTools.LeveledAbilityField`1
+  name.vb: LeveledAbilityField(Of T)
+  fullName: MacroTools.LeveledAbilityField<T>
+  fullName.vb: MacroTools.LeveledAbilityField(Of T)
+  nameWithType: LeveledAbilityField<T>
+  nameWithType.vb: LeveledAbilityField(Of T)
+- uid: MacroTools.LeveledAbilityField`1.Base
+  name: Base
+  href: api-macroTools/MacroTools.LeveledAbilityField-1.html#MacroTools_LeveledAbilityField_1_Base
+  commentId: P:MacroTools.LeveledAbilityField`1.Base
+  fullName: MacroTools.LeveledAbilityField<T>.Base
+  fullName.vb: MacroTools.LeveledAbilityField(Of T).Base
+  nameWithType: LeveledAbilityField<T>.Base
+  nameWithType.vb: LeveledAbilityField(Of T).Base
+- uid: MacroTools.LeveledAbilityField`1.Base*
+  name: Base
+  href: api-macroTools/MacroTools.LeveledAbilityField-1.html#MacroTools_LeveledAbilityField_1_Base_
+  commentId: Overload:MacroTools.LeveledAbilityField`1.Base
+  isSpec: "True"
+  fullName: MacroTools.LeveledAbilityField<T>.Base
+  fullName.vb: MacroTools.LeveledAbilityField(Of T).Base
+  nameWithType: LeveledAbilityField<T>.Base
+  nameWithType.vb: LeveledAbilityField(Of T).Base
+- uid: MacroTools.LeveledAbilityField`1.PerLevel
+  name: PerLevel
+  href: api-macroTools/MacroTools.LeveledAbilityField-1.html#MacroTools_LeveledAbilityField_1_PerLevel
+  commentId: P:MacroTools.LeveledAbilityField`1.PerLevel
+  fullName: MacroTools.LeveledAbilityField<T>.PerLevel
+  fullName.vb: MacroTools.LeveledAbilityField(Of T).PerLevel
+  nameWithType: LeveledAbilityField<T>.PerLevel
+  nameWithType.vb: LeveledAbilityField(Of T).PerLevel
+- uid: MacroTools.LeveledAbilityField`1.PerLevel*
+  name: PerLevel
+  href: api-macroTools/MacroTools.LeveledAbilityField-1.html#MacroTools_LeveledAbilityField_1_PerLevel_
+  commentId: Overload:MacroTools.LeveledAbilityField`1.PerLevel
+  isSpec: "True"
+  fullName: MacroTools.LeveledAbilityField<T>.PerLevel
+  fullName.vb: MacroTools.LeveledAbilityField(Of T).PerLevel
+  nameWithType: LeveledAbilityField<T>.PerLevel
+  nameWithType.vb: LeveledAbilityField(Of T).PerLevel
 - uid: MacroTools.Libraries
   name: MacroTools.Libraries
   href: api-macroTools/MacroTools.Libraries.html
@@ -8961,6 +9004,64 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilities.RegionRestricted.OnCreated
   nameWithType: RegionRestricted.OnCreated
+- uid: MacroTools.PassiveAbilities.RestoreManaFromDamage
+  name: RestoreManaFromDamage
+  href: api-macroTools/MacroTools.PassiveAbilities.RestoreManaFromDamage.html
+  commentId: T:MacroTools.PassiveAbilities.RestoreManaFromDamage
+  fullName: MacroTools.PassiveAbilities.RestoreManaFromDamage
+  nameWithType: RestoreManaFromDamage
+- uid: MacroTools.PassiveAbilities.RestoreManaFromDamage.#ctor(System.Int32,System.Int32)
+  name: RestoreManaFromDamage(Int32, Int32)
+  href: api-macroTools/MacroTools.PassiveAbilities.RestoreManaFromDamage.html#MacroTools_PassiveAbilities_RestoreManaFromDamage__ctor_System_Int32_System_Int32_
+  commentId: M:MacroTools.PassiveAbilities.RestoreManaFromDamage.#ctor(System.Int32,System.Int32)
+  fullName: MacroTools.PassiveAbilities.RestoreManaFromDamage.RestoreManaFromDamage(System.Int32, System.Int32)
+  nameWithType: RestoreManaFromDamage.RestoreManaFromDamage(Int32, Int32)
+- uid: MacroTools.PassiveAbilities.RestoreManaFromDamage.#ctor*
+  name: RestoreManaFromDamage
+  href: api-macroTools/MacroTools.PassiveAbilities.RestoreManaFromDamage.html#MacroTools_PassiveAbilities_RestoreManaFromDamage__ctor_
+  commentId: Overload:MacroTools.PassiveAbilities.RestoreManaFromDamage.#ctor
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.RestoreManaFromDamage.RestoreManaFromDamage
+  nameWithType: RestoreManaFromDamage.RestoreManaFromDamage
+- uid: MacroTools.PassiveAbilities.RestoreManaFromDamage.Effect
+  name: Effect
+  href: api-macroTools/MacroTools.PassiveAbilities.RestoreManaFromDamage.html#MacroTools_PassiveAbilities_RestoreManaFromDamage_Effect
+  commentId: P:MacroTools.PassiveAbilities.RestoreManaFromDamage.Effect
+  fullName: MacroTools.PassiveAbilities.RestoreManaFromDamage.Effect
+  nameWithType: RestoreManaFromDamage.Effect
+- uid: MacroTools.PassiveAbilities.RestoreManaFromDamage.Effect*
+  name: Effect
+  href: api-macroTools/MacroTools.PassiveAbilities.RestoreManaFromDamage.html#MacroTools_PassiveAbilities_RestoreManaFromDamage_Effect_
+  commentId: Overload:MacroTools.PassiveAbilities.RestoreManaFromDamage.Effect
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.RestoreManaFromDamage.Effect
+  nameWithType: RestoreManaFromDamage.Effect
+- uid: MacroTools.PassiveAbilities.RestoreManaFromDamage.ManaPerDamage
+  name: ManaPerDamage
+  href: api-macroTools/MacroTools.PassiveAbilities.RestoreManaFromDamage.html#MacroTools_PassiveAbilities_RestoreManaFromDamage_ManaPerDamage
+  commentId: P:MacroTools.PassiveAbilities.RestoreManaFromDamage.ManaPerDamage
+  fullName: MacroTools.PassiveAbilities.RestoreManaFromDamage.ManaPerDamage
+  nameWithType: RestoreManaFromDamage.ManaPerDamage
+- uid: MacroTools.PassiveAbilities.RestoreManaFromDamage.ManaPerDamage*
+  name: ManaPerDamage
+  href: api-macroTools/MacroTools.PassiveAbilities.RestoreManaFromDamage.html#MacroTools_PassiveAbilities_RestoreManaFromDamage_ManaPerDamage_
+  commentId: Overload:MacroTools.PassiveAbilities.RestoreManaFromDamage.ManaPerDamage
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.RestoreManaFromDamage.ManaPerDamage
+  nameWithType: RestoreManaFromDamage.ManaPerDamage
+- uid: MacroTools.PassiveAbilities.RestoreManaFromDamage.OnDealsDamage
+  name: OnDealsDamage()
+  href: api-macroTools/MacroTools.PassiveAbilities.RestoreManaFromDamage.html#MacroTools_PassiveAbilities_RestoreManaFromDamage_OnDealsDamage
+  commentId: M:MacroTools.PassiveAbilities.RestoreManaFromDamage.OnDealsDamage
+  fullName: MacroTools.PassiveAbilities.RestoreManaFromDamage.OnDealsDamage()
+  nameWithType: RestoreManaFromDamage.OnDealsDamage()
+- uid: MacroTools.PassiveAbilities.RestoreManaFromDamage.OnDealsDamage*
+  name: OnDealsDamage
+  href: api-macroTools/MacroTools.PassiveAbilities.RestoreManaFromDamage.html#MacroTools_PassiveAbilities_RestoreManaFromDamage_OnDealsDamage_
+  commentId: Overload:MacroTools.PassiveAbilities.RestoreManaFromDamage.OnDealsDamage
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.RestoreManaFromDamage.OnDealsDamage
+  nameWithType: RestoreManaFromDamage.OnDealsDamage
 - uid: MacroTools.PassiveAbilities.ResurrectionAura
   name: ResurrectionAura
   href: api-macroTools/MacroTools.PassiveAbilities.ResurrectionAura.html
