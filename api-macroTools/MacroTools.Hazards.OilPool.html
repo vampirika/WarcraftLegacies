@@ -122,19 +122,19 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Hazards_OilPool__ctor_Point_System_String_MacroTools_Powers_OilPower_.md&amp;value=---%0Auid%3A%20MacroTools.Hazards.OilPool.%23ctor(Point%2CSystem.String%2CMacroTools.Powers.OilPower)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Hazards_OilPool__ctor_player_Point_System_String_MacroTools_Powers_OilPower_.md&amp;value=---%0Auid%3A%20MacroTools.Hazards.OilPool.%23ctor(player%2CPoint%2CSystem.String%2CMacroTools.Powers.OilPower)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Hazards/OilPool.cs/#L33">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Hazards/OilPool.cs/#L37">View Source</a>
   </span>
   <a id="MacroTools_Hazards_OilPool__ctor_" data-uid="MacroTools.Hazards.OilPool.#ctor*"></a>
-  <h4 id="MacroTools_Hazards_OilPool__ctor_Point_System_String_MacroTools_Powers_OilPower_" data-uid="MacroTools.Hazards.OilPool.#ctor(Point,System.String,MacroTools.Powers.OilPower)">OilPool(Point, String, OilPower)</h4>
+  <h4 id="MacroTools_Hazards_OilPool__ctor_player_Point_System_String_MacroTools_Powers_OilPower_" data-uid="MacroTools.Hazards.OilPool.#ctor(player,Point,System.String,MacroTools.Powers.OilPower)">OilPool(player, Point, String, OilPower)</h4>
   <div class="markdown level1 summary"><p>Initializes a new instance of the OilPool class.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public OilPool(Point position, string effectPath, OilPower oilPower)</code></pre>
+    <pre><code class="lang-csharp hljs">public OilPool(player owner, Point position, string effectPath, OilPower oilPower)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -146,6 +146,12 @@
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <td><span class="xref">player</span></td>
+        <td><span class="parametername">owner</span></td>
+        <td><p>The player that owns the oil pool. Only this player can see it.</p>
+</td>
+      </tr>
       <tr>
         <td><span class="xref">Point</span></td>
         <td><span class="parametername">position</span></td>
@@ -173,7 +179,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Hazards_OilPool_Active.md&amp;value=---%0Auid%3A%20MacroTools.Hazards.OilPool.Active%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Hazards/OilPool.cs/#L20">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Hazards/OilPool.cs/#L23">View Source</a>
   </span>
   <a id="MacroTools_Hazards_OilPool_Active_" data-uid="MacroTools.Hazards.OilPool.Active*"></a>
   <h4 id="MacroTools_Hazards_OilPool_Active" data-uid="MacroTools.Hazards.OilPool.Active">Active</h4>
@@ -205,7 +211,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Hazards_OilPool_OilAmount.md&amp;value=---%0Auid%3A%20MacroTools.Hazards.OilPool.OilAmount%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Hazards/OilPool.cs/#L25">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Hazards/OilPool.cs/#L28">View Source</a>
   </span>
   <a id="MacroTools_Hazards_OilPool_OilAmount_" data-uid="MacroTools.Hazards.OilPool.OilAmount*"></a>
   <h4 id="MacroTools_Hazards_OilPool_OilAmount" data-uid="MacroTools.Hazards.OilPool.OilAmount">OilAmount</h4>
@@ -231,47 +237,45 @@
       </tr>
     </tbody>
   </table>
-  <h3 id="methods">Methods
-  </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Hazards_OilPool_Harvest_System_Int32_.md&amp;value=---%0Auid%3A%20MacroTools.Hazards.OilPool.Harvest(System.Int32)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Hazards_OilPool_OilPower.md&amp;value=---%0Auid%3A%20MacroTools.Hazards.OilPool.OilPower%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Hazards/OilPool.cs/#L54">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Hazards/OilPool.cs/#L17">View Source</a>
   </span>
-  <a id="MacroTools_Hazards_OilPool_Harvest_" data-uid="MacroTools.Hazards.OilPool.Harvest*"></a>
-  <h4 id="MacroTools_Hazards_OilPool_Harvest_System_Int32_" data-uid="MacroTools.Hazards.OilPool.Harvest(System.Int32)">Harvest(Int32)</h4>
-  <div class="markdown level1 summary"><p>Harvest an amount of oil from the pool.</p>
+  <a id="MacroTools_Hazards_OilPool_OilPower_" data-uid="MacroTools.Hazards.OilPool.OilPower*"></a>
+  <h4 id="MacroTools_Hazards_OilPool_OilPower" data-uid="MacroTools.Hazards.OilPool.OilPower">OilPower</h4>
+  <div class="markdown level1 summary"><p>The <a class="xref" href="MacroTools.Hazards.OilPool.html#MacroTools_Hazards_OilPool_OilPower">OilPower</a> that generated this <a class="xref" href="MacroTools.Hazards.OilPool.html">OilPool</a>.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void Harvest(int oilHarvestedPerSecond)</code></pre>
+    <pre><code class="lang-csharp hljs">public OilPower OilPower { get; }</code></pre>
   </div>
-  <h5 class="parameters">Parameters</h5>
+  <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
     <thead>
       <tr>
         <th>Type</th>
-        <th>Name</th>
         <th>Description</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.Int32</span></td>
-        <td><span class="parametername">oilHarvestedPerSecond</span></td>
+        <td><a class="xref" href="MacroTools.Powers.OilPower.html">OilPower</a></td>
         <td></td>
       </tr>
     </tbody>
   </table>
+  <h3 id="methods">Methods
+  </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Hazards_OilPool_OnDispose.md&amp;value=---%0Auid%3A%20MacroTools.Hazards.OilPool.OnDispose%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Hazards/OilPool.cs/#L45">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Hazards/OilPool.cs/#L51">View Source</a>
   </span>
   <a id="MacroTools_Hazards_OilPool_OnDispose_" data-uid="MacroTools.Hazards.OilPool.OnDispose*"></a>
   <h4 id="MacroTools_Hazards_OilPool_OnDispose" data-uid="MacroTools.Hazards.OilPool.OnDispose">OnDispose()</h4>
@@ -295,7 +299,7 @@
                     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Hazards_OilPool.md&amp;value=---%0Auid%3A%20MacroTools.Hazards.OilPool%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Hazards/OilPool.cs/#L13" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Hazards/OilPool.cs/#L12" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>

@@ -1720,12 +1720,12 @@ references:
   commentId: T:MacroTools.Buffs.OilHarvesterBuff
   fullName: MacroTools.Buffs.OilHarvesterBuff
   nameWithType: OilHarvesterBuff
-- uid: MacroTools.Buffs.OilHarvesterBuff.#ctor(unit,MacroTools.Powers.OilPower)
-  name: OilHarvesterBuff(unit, OilPower)
-  href: api-macroTools/MacroTools.Buffs.OilHarvesterBuff.html#MacroTools_Buffs_OilHarvesterBuff__ctor_unit_MacroTools_Powers_OilPower_
-  commentId: M:MacroTools.Buffs.OilHarvesterBuff.#ctor(unit,MacroTools.Powers.OilPower)
-  fullName: MacroTools.Buffs.OilHarvesterBuff.OilHarvesterBuff(unit, MacroTools.Powers.OilPower)
-  nameWithType: OilHarvesterBuff.OilHarvesterBuff(unit, OilPower)
+- uid: MacroTools.Buffs.OilHarvesterBuff.#ctor(unit,MacroTools.Hazards.OilPool)
+  name: OilHarvesterBuff(unit, OilPool)
+  href: api-macroTools/MacroTools.Buffs.OilHarvesterBuff.html#MacroTools_Buffs_OilHarvesterBuff__ctor_unit_MacroTools_Hazards_OilPool_
+  commentId: M:MacroTools.Buffs.OilHarvesterBuff.#ctor(unit,MacroTools.Hazards.OilPool)
+  fullName: MacroTools.Buffs.OilHarvesterBuff.OilHarvesterBuff(unit, MacroTools.Hazards.OilPool)
+  nameWithType: OilHarvesterBuff.OilHarvesterBuff(unit, OilPool)
 - uid: MacroTools.Buffs.OilHarvesterBuff.#ctor*
   name: OilHarvesterBuff
   href: api-macroTools/MacroTools.Buffs.OilHarvesterBuff.html#MacroTools_Buffs_OilHarvesterBuff__ctor_
@@ -1746,6 +1746,32 @@ references:
   isSpec: "True"
   fullName: MacroTools.Buffs.OilHarvesterBuff.OilHarvestedPerSecond
   nameWithType: OilHarvesterBuff.OilHarvestedPerSecond
+- uid: MacroTools.Buffs.OilHarvesterBuff.OnApply
+  name: OnApply()
+  href: api-macroTools/MacroTools.Buffs.OilHarvesterBuff.html#MacroTools_Buffs_OilHarvesterBuff_OnApply
+  commentId: M:MacroTools.Buffs.OilHarvesterBuff.OnApply
+  fullName: MacroTools.Buffs.OilHarvesterBuff.OnApply()
+  nameWithType: OilHarvesterBuff.OnApply()
+- uid: MacroTools.Buffs.OilHarvesterBuff.OnApply*
+  name: OnApply
+  href: api-macroTools/MacroTools.Buffs.OilHarvesterBuff.html#MacroTools_Buffs_OilHarvesterBuff_OnApply_
+  commentId: Overload:MacroTools.Buffs.OilHarvesterBuff.OnApply
+  isSpec: "True"
+  fullName: MacroTools.Buffs.OilHarvesterBuff.OnApply
+  nameWithType: OilHarvesterBuff.OnApply
+- uid: MacroTools.Buffs.OilHarvesterBuff.OnDispose
+  name: OnDispose()
+  href: api-macroTools/MacroTools.Buffs.OilHarvesterBuff.html#MacroTools_Buffs_OilHarvesterBuff_OnDispose
+  commentId: M:MacroTools.Buffs.OilHarvesterBuff.OnDispose
+  fullName: MacroTools.Buffs.OilHarvesterBuff.OnDispose()
+  nameWithType: OilHarvesterBuff.OnDispose()
+- uid: MacroTools.Buffs.OilHarvesterBuff.OnDispose*
+  name: OnDispose
+  href: api-macroTools/MacroTools.Buffs.OilHarvesterBuff.html#MacroTools_Buffs_OilHarvesterBuff_OnDispose_
+  commentId: Overload:MacroTools.Buffs.OilHarvesterBuff.OnDispose
+  isSpec: "True"
+  fullName: MacroTools.Buffs.OilHarvesterBuff.OnDispose
+  nameWithType: OilHarvesterBuff.OnDispose
 - uid: MacroTools.Buffs.OilHarvesterBuff.OnTick
   name: OnTick()
   href: api-macroTools/MacroTools.Buffs.OilHarvesterBuff.html#MacroTools_Buffs_OilHarvesterBuff_OnTick
@@ -1759,19 +1785,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Buffs.OilHarvesterBuff.OnTick
   nameWithType: OilHarvesterBuff.OnTick
-- uid: MacroTools.Buffs.OilHarvesterBuff.Radius
-  name: Radius
-  href: api-macroTools/MacroTools.Buffs.OilHarvesterBuff.html#MacroTools_Buffs_OilHarvesterBuff_Radius
-  commentId: P:MacroTools.Buffs.OilHarvesterBuff.Radius
-  fullName: MacroTools.Buffs.OilHarvesterBuff.Radius
-  nameWithType: OilHarvesterBuff.Radius
-- uid: MacroTools.Buffs.OilHarvesterBuff.Radius*
-  name: Radius
-  href: api-macroTools/MacroTools.Buffs.OilHarvesterBuff.html#MacroTools_Buffs_OilHarvesterBuff_Radius_
-  commentId: Overload:MacroTools.Buffs.OilHarvesterBuff.Radius
-  isSpec: "True"
-  fullName: MacroTools.Buffs.OilHarvesterBuff.Radius
-  nameWithType: OilHarvesterBuff.Radius
 - uid: MacroTools.Buffs.OilProducerBuff
   name: OilProducerBuff
   href: api-macroTools/MacroTools.Buffs.OilProducerBuff.html
@@ -7036,12 +7049,12 @@ references:
   commentId: T:MacroTools.Hazards.OilPool
   fullName: MacroTools.Hazards.OilPool
   nameWithType: OilPool
-- uid: MacroTools.Hazards.OilPool.#ctor(Point,System.String,MacroTools.Powers.OilPower)
-  name: OilPool(Point, String, OilPower)
-  href: api-macroTools/MacroTools.Hazards.OilPool.html#MacroTools_Hazards_OilPool__ctor_Point_System_String_MacroTools_Powers_OilPower_
-  commentId: M:MacroTools.Hazards.OilPool.#ctor(Point,System.String,MacroTools.Powers.OilPower)
-  fullName: MacroTools.Hazards.OilPool.OilPool(Point, System.String, MacroTools.Powers.OilPower)
-  nameWithType: OilPool.OilPool(Point, String, OilPower)
+- uid: MacroTools.Hazards.OilPool.#ctor(player,Point,System.String,MacroTools.Powers.OilPower)
+  name: OilPool(player, Point, String, OilPower)
+  href: api-macroTools/MacroTools.Hazards.OilPool.html#MacroTools_Hazards_OilPool__ctor_player_Point_System_String_MacroTools_Powers_OilPower_
+  commentId: M:MacroTools.Hazards.OilPool.#ctor(player,Point,System.String,MacroTools.Powers.OilPower)
+  fullName: MacroTools.Hazards.OilPool.OilPool(player, Point, System.String, MacroTools.Powers.OilPower)
+  nameWithType: OilPool.OilPool(player, Point, String, OilPower)
 - uid: MacroTools.Hazards.OilPool.#ctor*
   name: OilPool
   href: api-macroTools/MacroTools.Hazards.OilPool.html#MacroTools_Hazards_OilPool__ctor_
@@ -7062,19 +7075,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Hazards.OilPool.Active
   nameWithType: OilPool.Active
-- uid: MacroTools.Hazards.OilPool.Harvest(System.Int32)
-  name: Harvest(Int32)
-  href: api-macroTools/MacroTools.Hazards.OilPool.html#MacroTools_Hazards_OilPool_Harvest_System_Int32_
-  commentId: M:MacroTools.Hazards.OilPool.Harvest(System.Int32)
-  fullName: MacroTools.Hazards.OilPool.Harvest(System.Int32)
-  nameWithType: OilPool.Harvest(Int32)
-- uid: MacroTools.Hazards.OilPool.Harvest*
-  name: Harvest
-  href: api-macroTools/MacroTools.Hazards.OilPool.html#MacroTools_Hazards_OilPool_Harvest_
-  commentId: Overload:MacroTools.Hazards.OilPool.Harvest
-  isSpec: "True"
-  fullName: MacroTools.Hazards.OilPool.Harvest
-  nameWithType: OilPool.Harvest
 - uid: MacroTools.Hazards.OilPool.OilAmount
   name: OilAmount
   href: api-macroTools/MacroTools.Hazards.OilPool.html#MacroTools_Hazards_OilPool_OilAmount
@@ -7088,6 +7088,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Hazards.OilPool.OilAmount
   nameWithType: OilPool.OilAmount
+- uid: MacroTools.Hazards.OilPool.OilPower
+  name: OilPower
+  href: api-macroTools/MacroTools.Hazards.OilPool.html#MacroTools_Hazards_OilPool_OilPower
+  commentId: P:MacroTools.Hazards.OilPool.OilPower
+  fullName: MacroTools.Hazards.OilPool.OilPower
+  nameWithType: OilPool.OilPower
+- uid: MacroTools.Hazards.OilPool.OilPower*
+  name: OilPower
+  href: api-macroTools/MacroTools.Hazards.OilPool.html#MacroTools_Hazards_OilPool_OilPower_
+  commentId: Overload:MacroTools.Hazards.OilPool.OilPower
+  isSpec: "True"
+  fullName: MacroTools.Hazards.OilPool.OilPower
+  nameWithType: OilPool.OilPower
 - uid: MacroTools.Hazards.OilPool.OnDispose
   name: OnDispose()
   href: api-macroTools/MacroTools.Hazards.OilPool.html#MacroTools_Hazards_OilPool_OnDispose
@@ -9850,19 +9863,45 @@ references:
   isSpec: "True"
   fullName: MacroTools.Powers.OilPower.Income
   nameWithType: OilPower.Income
-- uid: MacroTools.Powers.OilPower.OilPoolMax
-  name: OilPoolMax
-  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_OilPoolMax
-  commentId: P:MacroTools.Powers.OilPower.OilPoolMax
-  fullName: MacroTools.Powers.OilPower.OilPoolMax
-  nameWithType: OilPower.OilPoolMax
-- uid: MacroTools.Powers.OilPower.OilPoolMax*
-  name: OilPoolMax
-  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_OilPoolMax_
-  commentId: Overload:MacroTools.Powers.OilPower.OilPoolMax
+- uid: MacroTools.Powers.OilPower.OilPoolCount
+  name: OilPoolCount
+  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_OilPoolCount
+  commentId: P:MacroTools.Powers.OilPower.OilPoolCount
+  fullName: MacroTools.Powers.OilPower.OilPoolCount
+  nameWithType: OilPower.OilPoolCount
+- uid: MacroTools.Powers.OilPower.OilPoolCount*
+  name: OilPoolCount
+  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_OilPoolCount_
+  commentId: Overload:MacroTools.Powers.OilPower.OilPoolCount
   isSpec: "True"
-  fullName: MacroTools.Powers.OilPower.OilPoolMax
-  nameWithType: OilPower.OilPoolMax
+  fullName: MacroTools.Powers.OilPower.OilPoolCount
+  nameWithType: OilPower.OilPoolCount
+- uid: MacroTools.Powers.OilPower.OilPoolMaximumValue
+  name: OilPoolMaximumValue
+  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_OilPoolMaximumValue
+  commentId: P:MacroTools.Powers.OilPower.OilPoolMaximumValue
+  fullName: MacroTools.Powers.OilPower.OilPoolMaximumValue
+  nameWithType: OilPower.OilPoolMaximumValue
+- uid: MacroTools.Powers.OilPower.OilPoolMaximumValue*
+  name: OilPoolMaximumValue
+  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_OilPoolMaximumValue_
+  commentId: Overload:MacroTools.Powers.OilPower.OilPoolMaximumValue
+  isSpec: "True"
+  fullName: MacroTools.Powers.OilPower.OilPoolMaximumValue
+  nameWithType: OilPower.OilPoolMaximumValue
+- uid: MacroTools.Powers.OilPower.OilPoolMinimumValue
+  name: OilPoolMinimumValue
+  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_OilPoolMinimumValue
+  commentId: P:MacroTools.Powers.OilPower.OilPoolMinimumValue
+  fullName: MacroTools.Powers.OilPower.OilPoolMinimumValue
+  nameWithType: OilPower.OilPoolMinimumValue
+- uid: MacroTools.Powers.OilPower.OilPoolMinimumValue*
+  name: OilPoolMinimumValue
+  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_OilPoolMinimumValue_
+  commentId: Overload:MacroTools.Powers.OilPower.OilPoolMinimumValue
+  isSpec: "True"
+  fullName: MacroTools.Powers.OilPower.OilPoolMinimumValue
+  nameWithType: OilPower.OilPoolMinimumValue
 - uid: MacroTools.Powers.OilPower.OnAdd(player)
   name: OnAdd(player)
   href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_OnAdd_player_
