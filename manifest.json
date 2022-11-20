@@ -8193,7 +8193,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.GoblinSpellSetup.html",
-          "hash": "tpaHCoUGtECrB94ARg17HA=="
+          "hash": "JsqSnD/1FmCG1oqPJmHn/g=="
         }
       },
       "is_incremental": false,
@@ -8369,6 +8369,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Spells.PingOilDeposits.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Spells.PingOilDeposits.html",
+          "hash": "u/mJhEVJ83OG7M4+pqrKZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Spells.WeaponEmpowerment.yml",
       "output": {
         ".html": {
@@ -8385,7 +8397,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Spells.html",
-          "hash": "pYRBZ7ynzcnxsLlt4BfJVQ=="
+          "hash": "qw+BD4pAJvQwmeIq/BKA3g=="
         }
       },
       "is_incremental": false,
@@ -8433,7 +8445,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "CZDiXM//iNqw4A15qs9XvA=="
+          "hash": "NUemmOYrU21Q5m2sig3OnA=="
         }
       },
       "is_incremental": false,
@@ -8508,7 +8520,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 701,
+          "total_file_count": 702,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

@@ -34993,6 +34993,51 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Spells.CorruptBuildingSpell.OnCast
   nameWithType: CorruptBuildingSpell.OnCast
+- uid: WarcraftLegacies.Source.Spells.PingOilDeposits
+  name: PingOilDeposits
+  href: api-source/WarcraftLegacies.Source.Spells.PingOilDeposits.html
+  commentId: T:WarcraftLegacies.Source.Spells.PingOilDeposits
+  fullName: WarcraftLegacies.Source.Spells.PingOilDeposits
+  nameWithType: PingOilDeposits
+- uid: WarcraftLegacies.Source.Spells.PingOilDeposits.#ctor(System.Int32)
+  name: PingOilDeposits(Int32)
+  href: api-source/WarcraftLegacies.Source.Spells.PingOilDeposits.html#WarcraftLegacies_Source_Spells_PingOilDeposits__ctor_System_Int32_
+  commentId: M:WarcraftLegacies.Source.Spells.PingOilDeposits.#ctor(System.Int32)
+  fullName: WarcraftLegacies.Source.Spells.PingOilDeposits.PingOilDeposits(System.Int32)
+  nameWithType: PingOilDeposits.PingOilDeposits(Int32)
+- uid: WarcraftLegacies.Source.Spells.PingOilDeposits.#ctor*
+  name: PingOilDeposits
+  href: api-source/WarcraftLegacies.Source.Spells.PingOilDeposits.html#WarcraftLegacies_Source_Spells_PingOilDeposits__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Spells.PingOilDeposits.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Spells.PingOilDeposits.PingOilDeposits
+  nameWithType: PingOilDeposits.PingOilDeposits
+- uid: WarcraftLegacies.Source.Spells.PingOilDeposits.Duration
+  name: Duration
+  href: api-source/WarcraftLegacies.Source.Spells.PingOilDeposits.html#WarcraftLegacies_Source_Spells_PingOilDeposits_Duration
+  commentId: P:WarcraftLegacies.Source.Spells.PingOilDeposits.Duration
+  fullName: WarcraftLegacies.Source.Spells.PingOilDeposits.Duration
+  nameWithType: PingOilDeposits.Duration
+- uid: WarcraftLegacies.Source.Spells.PingOilDeposits.Duration*
+  name: Duration
+  href: api-source/WarcraftLegacies.Source.Spells.PingOilDeposits.html#WarcraftLegacies_Source_Spells_PingOilDeposits_Duration_
+  commentId: Overload:WarcraftLegacies.Source.Spells.PingOilDeposits.Duration
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Spells.PingOilDeposits.Duration
+  nameWithType: PingOilDeposits.Duration
+- uid: WarcraftLegacies.Source.Spells.PingOilDeposits.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-source/WarcraftLegacies.Source.Spells.PingOilDeposits.html#WarcraftLegacies_Source_Spells_PingOilDeposits_OnCast_unit_unit_Point_
+  commentId: M:WarcraftLegacies.Source.Spells.PingOilDeposits.OnCast(unit,unit,Point)
+  fullName: WarcraftLegacies.Source.Spells.PingOilDeposits.OnCast(unit, unit, Point)
+  nameWithType: PingOilDeposits.OnCast(unit, unit, Point)
+- uid: WarcraftLegacies.Source.Spells.PingOilDeposits.OnCast*
+  name: OnCast
+  href: api-source/WarcraftLegacies.Source.Spells.PingOilDeposits.html#WarcraftLegacies_Source_Spells_PingOilDeposits_OnCast_
+  commentId: Overload:WarcraftLegacies.Source.Spells.PingOilDeposits.OnCast
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Spells.PingOilDeposits.OnCast
+  nameWithType: PingOilDeposits.OnCast
 - uid: WarcraftLegacies.Source.Spells.WeaponEmpowerment
   name: WeaponEmpowerment
   href: api-source/WarcraftLegacies.Source.Spells.WeaponEmpowerment.html
