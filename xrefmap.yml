@@ -16958,6 +16958,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.StartingResources.Setup
   nameWithType: StartingResources.Setup
+- uid: WarcraftLegacies.Source.GameLogic.SummonRallyPoints
+  name: SummonRallyPoints
+  href: api-source/WarcraftLegacies.Source.GameLogic.SummonRallyPoints.html
+  commentId: T:WarcraftLegacies.Source.GameLogic.SummonRallyPoints
+  fullName: WarcraftLegacies.Source.GameLogic.SummonRallyPoints
+  nameWithType: SummonRallyPoints
+- uid: WarcraftLegacies.Source.GameLogic.SummonRallyPoints.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.GameLogic.SummonRallyPoints.html#WarcraftLegacies_Source_GameLogic_SummonRallyPoints_Setup
+  commentId: M:WarcraftLegacies.Source.GameLogic.SummonRallyPoints.Setup
+  fullName: WarcraftLegacies.Source.GameLogic.SummonRallyPoints.Setup()
+  nameWithType: SummonRallyPoints.Setup()
+- uid: WarcraftLegacies.Source.GameLogic.SummonRallyPoints.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.GameLogic.SummonRallyPoints.html#WarcraftLegacies_Source_GameLogic_SummonRallyPoints_Setup_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.SummonRallyPoints.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.SummonRallyPoints.Setup
+  nameWithType: SummonRallyPoints.Setup
 - uid: WarcraftLegacies.Source.Hints
   name: WarcraftLegacies.Source.Hints
   href: api-source/WarcraftLegacies.Source.Hints.html

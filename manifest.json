@@ -4025,11 +4025,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.SummonRallyPoints.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.SummonRallyPoints.html",
+          "hash": "K4T+rGgOw9CAfzY3rA/3fw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.html",
-          "hash": "E/qb1cr5WDgmueeUT7ndSA=="
+          "hash": "mPQIyURNO8q8KO7C0ZZtCw=="
         }
       },
       "is_incremental": false,
@@ -8457,7 +8469,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "NUemmOYrU21Q5m2sig3OnA=="
+          "hash": "8Lk7IsSIS+k/LJwq1cvy+Q=="
         }
       },
       "is_incremental": false,
@@ -8532,7 +8544,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 703,
+          "total_file_count": 704,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
