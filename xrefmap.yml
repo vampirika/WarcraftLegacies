@@ -31683,32 +31683,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.DragonmawPort
   nameWithType: LegendDragonmaw.DragonmawPort
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendNekrosh
-  name: LegendNekrosh
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_LegendNekrosh
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendNekrosh
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendNekrosh
-  nameWithType: LegendDragonmaw.LegendNekrosh
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendNekrosh*
-  name: LegendNekrosh
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_LegendNekrosh_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendNekrosh
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Nekrosh
+  name: Nekrosh
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_Nekrosh
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Nekrosh
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Nekrosh
+  nameWithType: LegendDragonmaw.Nekrosh
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Nekrosh*
+  name: Nekrosh
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_Nekrosh_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Nekrosh
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendNekrosh
-  nameWithType: LegendDragonmaw.LegendNekrosh
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendZaela
-  name: LegendZaela
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_LegendZaela
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendZaela
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendZaela
-  nameWithType: LegendDragonmaw.LegendZaela
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendZaela*
-  name: LegendZaela
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_LegendZaela_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendZaela
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.LegendZaela
-  nameWithType: LegendDragonmaw.LegendZaela
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Nekrosh
+  nameWithType: LegendDragonmaw.Nekrosh
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Setup(MacroTools.PreplacedUnitSystem)
   name: Setup(PreplacedUnitSystem)
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_Setup_MacroTools_PreplacedUnitSystem_
@@ -31722,6 +31709,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Setup
   nameWithType: LegendDragonmaw.Setup
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Zaela
+  name: Zaela
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_Zaela
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Zaela
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Zaela
+  nameWithType: LegendDragonmaw.Zaela
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Zaela*
+  name: Zaela
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html#WarcraftLegacies_Source_Setup_Legends_LegendDragonmaw_Zaela_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Zaela
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.Zaela
+  nameWithType: LegendDragonmaw.Zaela
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDruids
   name: LegendDruids
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDruids.html
