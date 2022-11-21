@@ -851,6 +851,40 @@ references:
   fullName.vb: MacroTools.BookSystem.Book(Of T).Book
   nameWithType: Book<T>.Book
   nameWithType.vb: Book(Of T).Book
+- uid: MacroTools.BookSystem.Book`1.ExitButton
+  name: ExitButton
+  href: api-macroTools/MacroTools.BookSystem.Book-1.html#MacroTools_BookSystem_Book_1_ExitButton
+  commentId: P:MacroTools.BookSystem.Book`1.ExitButton
+  fullName: MacroTools.BookSystem.Book<T>.ExitButton
+  fullName.vb: MacroTools.BookSystem.Book(Of T).ExitButton
+  nameWithType: Book<T>.ExitButton
+  nameWithType.vb: Book(Of T).ExitButton
+- uid: MacroTools.BookSystem.Book`1.ExitButton*
+  name: ExitButton
+  href: api-macroTools/MacroTools.BookSystem.Book-1.html#MacroTools_BookSystem_Book_1_ExitButton_
+  commentId: Overload:MacroTools.BookSystem.Book`1.ExitButton
+  isSpec: "True"
+  fullName: MacroTools.BookSystem.Book<T>.ExitButton
+  fullName.vb: MacroTools.BookSystem.Book(Of T).ExitButton
+  nameWithType: Book<T>.ExitButton
+  nameWithType.vb: Book(Of T).ExitButton
+- uid: MacroTools.BookSystem.Book`1.LauncherButton
+  name: LauncherButton
+  href: api-macroTools/MacroTools.BookSystem.Book-1.html#MacroTools_BookSystem_Book_1_LauncherButton
+  commentId: P:MacroTools.BookSystem.Book`1.LauncherButton
+  fullName: MacroTools.BookSystem.Book<T>.LauncherButton
+  fullName.vb: MacroTools.BookSystem.Book(Of T).LauncherButton
+  nameWithType: Book<T>.LauncherButton
+  nameWithType.vb: Book(Of T).LauncherButton
+- uid: MacroTools.BookSystem.Book`1.LauncherButton*
+  name: LauncherButton
+  href: api-macroTools/MacroTools.BookSystem.Book-1.html#MacroTools_BookSystem_Book_1_LauncherButton_
+  commentId: Overload:MacroTools.BookSystem.Book`1.LauncherButton
+  isSpec: "True"
+  fullName: MacroTools.BookSystem.Book<T>.LauncherButton
+  fullName.vb: MacroTools.BookSystem.Book(Of T).LauncherButton
+  nameWithType: Book<T>.LauncherButton
+  nameWithType.vb: Book(Of T).LauncherButton
 - uid: MacroTools.BookSystem.Book`1.LauncherParent
   name: LauncherParent
   href: api-macroTools/MacroTools.BookSystem.Book-1.html#MacroTools_BookSystem_Book_1_LauncherParent
@@ -868,23 +902,40 @@ references:
   fullName.vb: MacroTools.BookSystem.Book(Of T).LauncherParent
   nameWithType: Book<T>.LauncherParent
   nameWithType.vb: Book(Of T).LauncherParent
-- uid: MacroTools.BookSystem.Book`1.OnClickExitButton
-  name: OnClickExitButton
-  href: api-macroTools/MacroTools.BookSystem.Book-1.html#MacroTools_BookSystem_Book_1_OnClickExitButton
-  commentId: P:MacroTools.BookSystem.Book`1.OnClickExitButton
-  fullName: MacroTools.BookSystem.Book<T>.OnClickExitButton
-  fullName.vb: MacroTools.BookSystem.Book(Of T).OnClickExitButton
-  nameWithType: Book<T>.OnClickExitButton
-  nameWithType.vb: Book(Of T).OnClickExitButton
-- uid: MacroTools.BookSystem.Book`1.OnClickExitButton*
-  name: OnClickExitButton
-  href: api-macroTools/MacroTools.BookSystem.Book-1.html#MacroTools_BookSystem_Book_1_OnClickExitButton_
-  commentId: Overload:MacroTools.BookSystem.Book`1.OnClickExitButton
+- uid: MacroTools.BookSystem.Book`1.MoveNextButton
+  name: MoveNextButton
+  href: api-macroTools/MacroTools.BookSystem.Book-1.html#MacroTools_BookSystem_Book_1_MoveNextButton
+  commentId: P:MacroTools.BookSystem.Book`1.MoveNextButton
+  fullName: MacroTools.BookSystem.Book<T>.MoveNextButton
+  fullName.vb: MacroTools.BookSystem.Book(Of T).MoveNextButton
+  nameWithType: Book<T>.MoveNextButton
+  nameWithType.vb: Book(Of T).MoveNextButton
+- uid: MacroTools.BookSystem.Book`1.MoveNextButton*
+  name: MoveNextButton
+  href: api-macroTools/MacroTools.BookSystem.Book-1.html#MacroTools_BookSystem_Book_1_MoveNextButton_
+  commentId: Overload:MacroTools.BookSystem.Book`1.MoveNextButton
   isSpec: "True"
-  fullName: MacroTools.BookSystem.Book<T>.OnClickExitButton
-  fullName.vb: MacroTools.BookSystem.Book(Of T).OnClickExitButton
-  nameWithType: Book<T>.OnClickExitButton
-  nameWithType.vb: Book(Of T).OnClickExitButton
+  fullName: MacroTools.BookSystem.Book<T>.MoveNextButton
+  fullName.vb: MacroTools.BookSystem.Book(Of T).MoveNextButton
+  nameWithType: Book<T>.MoveNextButton
+  nameWithType.vb: Book(Of T).MoveNextButton
+- uid: MacroTools.BookSystem.Book`1.MovePreviousButton
+  name: MovePreviousButton
+  href: api-macroTools/MacroTools.BookSystem.Book-1.html#MacroTools_BookSystem_Book_1_MovePreviousButton
+  commentId: P:MacroTools.BookSystem.Book`1.MovePreviousButton
+  fullName: MacroTools.BookSystem.Book<T>.MovePreviousButton
+  fullName.vb: MacroTools.BookSystem.Book(Of T).MovePreviousButton
+  nameWithType: Book<T>.MovePreviousButton
+  nameWithType.vb: Book(Of T).MovePreviousButton
+- uid: MacroTools.BookSystem.Book`1.MovePreviousButton*
+  name: MovePreviousButton
+  href: api-macroTools/MacroTools.BookSystem.Book-1.html#MacroTools_BookSystem_Book_1_MovePreviousButton_
+  commentId: Overload:MacroTools.BookSystem.Book`1.MovePreviousButton
+  isSpec: "True"
+  fullName: MacroTools.BookSystem.Book<T>.MovePreviousButton
+  fullName.vb: MacroTools.BookSystem.Book(Of T).MovePreviousButton
+  nameWithType: Book<T>.MovePreviousButton
+  nameWithType.vb: Book(Of T).MovePreviousButton
 - uid: MacroTools.BookSystem.Book`1.Pages
   name: Pages
   href: api-macroTools/MacroTools.BookSystem.Book-1.html#MacroTools_BookSystem_Book_1_Pages
@@ -957,6 +1008,45 @@ references:
   commentId: T:MacroTools.BookSystem.IBook
   fullName: MacroTools.BookSystem.IBook
   nameWithType: IBook
+- uid: MacroTools.BookSystem.IBook.Exit(player)
+  name: Exit(player)
+  href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_Exit_player_
+  commentId: M:MacroTools.BookSystem.IBook.Exit(player)
+  fullName: MacroTools.BookSystem.IBook.Exit(player)
+  nameWithType: IBook.Exit(player)
+- uid: MacroTools.BookSystem.IBook.Exit*
+  name: Exit
+  href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_Exit_
+  commentId: Overload:MacroTools.BookSystem.IBook.Exit
+  isSpec: "True"
+  fullName: MacroTools.BookSystem.IBook.Exit
+  nameWithType: IBook.Exit
+- uid: MacroTools.BookSystem.IBook.ExitButton
+  name: ExitButton
+  href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_ExitButton
+  commentId: P:MacroTools.BookSystem.IBook.ExitButton
+  fullName: MacroTools.BookSystem.IBook.ExitButton
+  nameWithType: IBook.ExitButton
+- uid: MacroTools.BookSystem.IBook.ExitButton*
+  name: ExitButton
+  href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_ExitButton_
+  commentId: Overload:MacroTools.BookSystem.IBook.ExitButton
+  isSpec: "True"
+  fullName: MacroTools.BookSystem.IBook.ExitButton
+  nameWithType: IBook.ExitButton
+- uid: MacroTools.BookSystem.IBook.LauncherButton
+  name: LauncherButton
+  href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_LauncherButton
+  commentId: P:MacroTools.BookSystem.IBook.LauncherButton
+  fullName: MacroTools.BookSystem.IBook.LauncherButton
+  nameWithType: IBook.LauncherButton
+- uid: MacroTools.BookSystem.IBook.LauncherButton*
+  name: LauncherButton
+  href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_LauncherButton_
+  commentId: Overload:MacroTools.BookSystem.IBook.LauncherButton
+  isSpec: "True"
+  fullName: MacroTools.BookSystem.IBook.LauncherButton
+  nameWithType: IBook.LauncherButton
 - uid: MacroTools.BookSystem.IBook.LauncherParent
   name: LauncherParent
   href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_LauncherParent
@@ -970,19 +1060,71 @@ references:
   isSpec: "True"
   fullName: MacroTools.BookSystem.IBook.LauncherParent
   nameWithType: IBook.LauncherParent
-- uid: MacroTools.BookSystem.IBook.OnClickExitButton
-  name: OnClickExitButton
-  href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_OnClickExitButton
-  commentId: P:MacroTools.BookSystem.IBook.OnClickExitButton
-  fullName: MacroTools.BookSystem.IBook.OnClickExitButton
-  nameWithType: IBook.OnClickExitButton
-- uid: MacroTools.BookSystem.IBook.OnClickExitButton*
-  name: OnClickExitButton
-  href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_OnClickExitButton_
-  commentId: Overload:MacroTools.BookSystem.IBook.OnClickExitButton
+- uid: MacroTools.BookSystem.IBook.MoveNext(player)
+  name: MoveNext(player)
+  href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_MoveNext_player_
+  commentId: M:MacroTools.BookSystem.IBook.MoveNext(player)
+  fullName: MacroTools.BookSystem.IBook.MoveNext(player)
+  nameWithType: IBook.MoveNext(player)
+- uid: MacroTools.BookSystem.IBook.MoveNext*
+  name: MoveNext
+  href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_MoveNext_
+  commentId: Overload:MacroTools.BookSystem.IBook.MoveNext
   isSpec: "True"
-  fullName: MacroTools.BookSystem.IBook.OnClickExitButton
-  nameWithType: IBook.OnClickExitButton
+  fullName: MacroTools.BookSystem.IBook.MoveNext
+  nameWithType: IBook.MoveNext
+- uid: MacroTools.BookSystem.IBook.MoveNextButton
+  name: MoveNextButton
+  href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_MoveNextButton
+  commentId: P:MacroTools.BookSystem.IBook.MoveNextButton
+  fullName: MacroTools.BookSystem.IBook.MoveNextButton
+  nameWithType: IBook.MoveNextButton
+- uid: MacroTools.BookSystem.IBook.MoveNextButton*
+  name: MoveNextButton
+  href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_MoveNextButton_
+  commentId: Overload:MacroTools.BookSystem.IBook.MoveNextButton
+  isSpec: "True"
+  fullName: MacroTools.BookSystem.IBook.MoveNextButton
+  nameWithType: IBook.MoveNextButton
+- uid: MacroTools.BookSystem.IBook.MovePrevious(player)
+  name: MovePrevious(player)
+  href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_MovePrevious_player_
+  commentId: M:MacroTools.BookSystem.IBook.MovePrevious(player)
+  fullName: MacroTools.BookSystem.IBook.MovePrevious(player)
+  nameWithType: IBook.MovePrevious(player)
+- uid: MacroTools.BookSystem.IBook.MovePrevious*
+  name: MovePrevious
+  href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_MovePrevious_
+  commentId: Overload:MacroTools.BookSystem.IBook.MovePrevious
+  isSpec: "True"
+  fullName: MacroTools.BookSystem.IBook.MovePrevious
+  nameWithType: IBook.MovePrevious
+- uid: MacroTools.BookSystem.IBook.MovePreviousButton
+  name: MovePreviousButton
+  href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_MovePreviousButton
+  commentId: P:MacroTools.BookSystem.IBook.MovePreviousButton
+  fullName: MacroTools.BookSystem.IBook.MovePreviousButton
+  nameWithType: IBook.MovePreviousButton
+- uid: MacroTools.BookSystem.IBook.MovePreviousButton*
+  name: MovePreviousButton
+  href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_MovePreviousButton_
+  commentId: Overload:MacroTools.BookSystem.IBook.MovePreviousButton
+  isSpec: "True"
+  fullName: MacroTools.BookSystem.IBook.MovePreviousButton
+  nameWithType: IBook.MovePreviousButton
+- uid: MacroTools.BookSystem.IBook.Open(player)
+  name: Open(player)
+  href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_Open_player_
+  commentId: M:MacroTools.BookSystem.IBook.Open(player)
+  fullName: MacroTools.BookSystem.IBook.Open(player)
+  nameWithType: IBook.Open(player)
+- uid: MacroTools.BookSystem.IBook.Open*
+  name: Open
+  href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_Open_
+  commentId: Overload:MacroTools.BookSystem.IBook.Open
+  isSpec: "True"
+  fullName: MacroTools.BookSystem.IBook.Open
+  nameWithType: IBook.Open
 - uid: MacroTools.BookSystem.IBook.Title
   name: Title
   href: api-macroTools/MacroTools.BookSystem.IBook.html#MacroTools_BookSystem_IBook_Title
