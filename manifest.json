@@ -237,7 +237,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.BookSystem.Book-1.html",
-          "hash": "Fk22ANoM34t4+v249c1gEw=="
+          "hash": "kPwnl1cPHTxEt/9rgWfrEA=="
         }
       },
       "is_incremental": false,
@@ -4689,7 +4689,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.html",
-          "hash": "ut/BQP3M33KF/h0gcUNqCA=="
+          "hash": "I7pQfs2v1qsT72Wfddwi2g=="
         }
       },
       "is_incremental": false,
@@ -8105,18 +8105,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.html",
-          "hash": "w1bYpTAwLFNg8KJHOpNRgA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.yml",
       "output": {
         ".html": {
@@ -8133,7 +8121,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.html",
-          "hash": "7WzfyY8AkQ3JumwWmdC2dg=="
+          "hash": "4Q9qc2ywQCtE2xtxdBtYzQ=="
         }
       },
       "is_incremental": false,
@@ -8469,7 +8457,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "Zocgo10eFMxgmNHNre5QIA=="
+          "hash": "coJQb/hAZvTeMuDSIbCQDw=="
         }
       },
       "is_incremental": false,
@@ -8544,7 +8532,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 704,
+          "total_file_count": 703,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

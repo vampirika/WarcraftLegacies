@@ -34708,25 +34708,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.TrollQuestSetup.Setup
   nameWithType: TrollQuestSetup.Setup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup
-  name: TwilightQuestSetup
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.html
-  commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup
-  nameWithType: TwilightQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_TwilightQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: TwilightQuestSetup.Setup(PreplacedUnitSystem)
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_TwilightQuestSetup_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.TwilightQuestSetup.Setup
-  nameWithType: TwilightQuestSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup
   name: WarsongQuestSetup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.html
