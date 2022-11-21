@@ -16254,30 +16254,30 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.AmbianceLibrary.WetlandsNight
   nameWithType: AmbianceLibrary.WetlandsNight
-- uid: WarcraftLegacies.Source.Artifacts
-  name: WarcraftLegacies.Source.Artifacts
-  href: api-source/WarcraftLegacies.Source.Artifacts.html
-  commentId: N:WarcraftLegacies.Source.Artifacts
-  fullName: WarcraftLegacies.Source.Artifacts
-  nameWithType: WarcraftLegacies.Source.Artifacts
-- uid: WarcraftLegacies.Source.Artifacts.EyeOfSargerasCooldowns
+- uid: WarcraftLegacies.Source.ArtifactBehaviour
+  name: WarcraftLegacies.Source.ArtifactBehaviour
+  href: api-source/WarcraftLegacies.Source.ArtifactBehaviour.html
+  commentId: N:WarcraftLegacies.Source.ArtifactBehaviour
+  fullName: WarcraftLegacies.Source.ArtifactBehaviour
+  nameWithType: WarcraftLegacies.Source.ArtifactBehaviour
+- uid: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasCooldowns
   name: EyeOfSargerasCooldowns
-  href: api-source/WarcraftLegacies.Source.Artifacts.EyeOfSargerasCooldowns.html
-  commentId: T:WarcraftLegacies.Source.Artifacts.EyeOfSargerasCooldowns
-  fullName: WarcraftLegacies.Source.Artifacts.EyeOfSargerasCooldowns
+  href: api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasCooldowns.html
+  commentId: T:WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasCooldowns
+  fullName: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasCooldowns
   nameWithType: EyeOfSargerasCooldowns
-- uid: WarcraftLegacies.Source.Artifacts.EyeOfSargerasCooldowns.Setup
+- uid: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasCooldowns.Setup
   name: Setup()
-  href: api-source/WarcraftLegacies.Source.Artifacts.EyeOfSargerasCooldowns.html#WarcraftLegacies_Source_Artifacts_EyeOfSargerasCooldowns_Setup
-  commentId: M:WarcraftLegacies.Source.Artifacts.EyeOfSargerasCooldowns.Setup
-  fullName: WarcraftLegacies.Source.Artifacts.EyeOfSargerasCooldowns.Setup()
+  href: api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasCooldowns.html#WarcraftLegacies_Source_ArtifactBehaviour_EyeOfSargerasCooldowns_Setup
+  commentId: M:WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasCooldowns.Setup
+  fullName: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasCooldowns.Setup()
   nameWithType: EyeOfSargerasCooldowns.Setup()
-- uid: WarcraftLegacies.Source.Artifacts.EyeOfSargerasCooldowns.Setup*
+- uid: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasCooldowns.Setup*
   name: Setup
-  href: api-source/WarcraftLegacies.Source.Artifacts.EyeOfSargerasCooldowns.html#WarcraftLegacies_Source_Artifacts_EyeOfSargerasCooldowns_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Artifacts.EyeOfSargerasCooldowns.Setup
+  href: api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasCooldowns.html#WarcraftLegacies_Source_ArtifactBehaviour_EyeOfSargerasCooldowns_Setup_
+  commentId: Overload:WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasCooldowns.Setup
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Artifacts.EyeOfSargerasCooldowns.Setup
+  fullName: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasCooldowns.Setup
   nameWithType: EyeOfSargerasCooldowns.Setup
 - uid: WarcraftLegacies.Source.Buffs
   name: WarcraftLegacies.Source.Buffs

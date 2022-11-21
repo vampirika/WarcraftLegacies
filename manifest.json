@@ -1773,7 +1773,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Mechanics.StructurePacking.PackableStructure.html",
-          "hash": "ztLbc/UrpoHqYfYFx+GeoQ=="
+          "hash": "u/qkWrBZcfn/mUyWmJFyzw=="
         }
       },
       "is_incremental": false,
@@ -1785,7 +1785,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Mechanics.StructurePacking.html",
-          "hash": "RVm4MriMqsGZaMAMFNycPg=="
+          "hash": "8AF2BniZMZoPbp9sXcXkQw=="
         }
       },
       "is_incremental": false,
@@ -3605,11 +3605,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Artifacts.EyeOfSargerasCooldowns.yml",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasCooldowns.yml",
       "output": {
         ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Artifacts.EyeOfSargerasCooldowns.html",
-          "hash": "dfs6CPUi2EhljlxV6eLLJw=="
+          "relative_path": "api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasCooldowns.html",
+          "hash": "u6sqUYq6guglgb3QsHg7CA=="
         }
       },
       "is_incremental": false,
@@ -3617,11 +3617,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Artifacts.yml",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.ArtifactBehaviour.yml",
       "output": {
         ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Artifacts.html",
-          "hash": "Iv3G5Dd/VHnIAf0wh4Oodw=="
+          "relative_path": "api-source/WarcraftLegacies.Source.ArtifactBehaviour.html",
+          "hash": "IHoFjhWzvdSHZjyxHnOblA=="
         }
       },
       "is_incremental": false,
@@ -4929,7 +4929,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.html",
-          "hash": "7jgSPpOjYoMuuPYjC3XaNw=="
+          "hash": "O0w+pI+kwxfBa5BhX9hJRA=="
         }
       },
       "is_incremental": false,
@@ -5433,7 +5433,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestBoralus.html",
-          "hash": "WFPWuChAG0PkUPygmVlYrg=="
+          "hash": "njfZGsa3nODfiGh2fMp0pA=="
         }
       },
       "is_incremental": false,
@@ -5745,7 +5745,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestStratholme.html",
-          "hash": "e7AMiHpOE5AvOzAdXdc0lA=="
+          "hash": "gBUN+lBmYWk73BoHJoZoiw=="
         }
       },
       "is_incremental": false,
@@ -8469,7 +8469,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "8Lk7IsSIS+k/LJwq1cvy+Q=="
+          "hash": "Zocgo10eFMxgmNHNre5QIA=="
         }
       },
       "is_incremental": false,
