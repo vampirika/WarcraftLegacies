@@ -638,76 +638,6 @@ references:
   commentId: N:MacroTools.BookSystem
   fullName: MacroTools.BookSystem
   nameWithType: MacroTools.BookSystem
-- uid: MacroTools.BookSystem.Artifacts
-  name: MacroTools.BookSystem.Artifacts
-  href: api-macroTools/MacroTools.BookSystem.Artifacts.html
-  commentId: N:MacroTools.BookSystem.Artifacts
-  fullName: MacroTools.BookSystem.Artifacts
-  nameWithType: MacroTools.BookSystem.Artifacts
-- uid: MacroTools.BookSystem.Artifacts.ArtifactCard
-  name: ArtifactCard
-  href: api-macroTools/MacroTools.BookSystem.Artifacts.ArtifactCard.html
-  commentId: T:MacroTools.BookSystem.Artifacts.ArtifactCard
-  fullName: MacroTools.BookSystem.Artifacts.ArtifactCard
-  nameWithType: ArtifactCard
-- uid: MacroTools.BookSystem.Artifacts.ArtifactCard.#ctor(MacroTools.ArtifactSystem.Artifact,MacroTools.Frames.Frame)
-  name: ArtifactCard(Artifact, Frame)
-  href: api-macroTools/MacroTools.BookSystem.Artifacts.ArtifactCard.html#MacroTools_BookSystem_Artifacts_ArtifactCard__ctor_MacroTools_ArtifactSystem_Artifact_MacroTools_Frames_Frame_
-  commentId: M:MacroTools.BookSystem.Artifacts.ArtifactCard.#ctor(MacroTools.ArtifactSystem.Artifact,MacroTools.Frames.Frame)
-  fullName: MacroTools.BookSystem.Artifacts.ArtifactCard.ArtifactCard(MacroTools.ArtifactSystem.Artifact, MacroTools.Frames.Frame)
-  nameWithType: ArtifactCard.ArtifactCard(Artifact, Frame)
-- uid: MacroTools.BookSystem.Artifacts.ArtifactCard.#ctor*
-  name: ArtifactCard
-  href: api-macroTools/MacroTools.BookSystem.Artifacts.ArtifactCard.html#MacroTools_BookSystem_Artifacts_ArtifactCard__ctor_
-  commentId: Overload:MacroTools.BookSystem.Artifacts.ArtifactCard.#ctor
-  isSpec: "True"
-  fullName: MacroTools.BookSystem.Artifacts.ArtifactCard.ArtifactCard
-  nameWithType: ArtifactCard.ArtifactCard
-- uid: MacroTools.BookSystem.Artifacts.ArtifactCard.DisposeEvents
-  name: DisposeEvents()
-  href: api-macroTools/MacroTools.BookSystem.Artifacts.ArtifactCard.html#MacroTools_BookSystem_Artifacts_ArtifactCard_DisposeEvents
-  commentId: M:MacroTools.BookSystem.Artifacts.ArtifactCard.DisposeEvents
-  fullName: MacroTools.BookSystem.Artifacts.ArtifactCard.DisposeEvents()
-  nameWithType: ArtifactCard.DisposeEvents()
-- uid: MacroTools.BookSystem.Artifacts.ArtifactCard.DisposeEvents*
-  name: DisposeEvents
-  href: api-macroTools/MacroTools.BookSystem.Artifacts.ArtifactCard.html#MacroTools_BookSystem_Artifacts_ArtifactCard_DisposeEvents_
-  commentId: Overload:MacroTools.BookSystem.Artifacts.ArtifactCard.DisposeEvents
-  isSpec: "True"
-  fullName: MacroTools.BookSystem.Artifacts.ArtifactCard.DisposeEvents
-  nameWithType: ArtifactCard.DisposeEvents
-- uid: MacroTools.BookSystem.Artifacts.ArtifactPage
-  name: ArtifactPage
-  href: api-macroTools/MacroTools.BookSystem.Artifacts.ArtifactPage.html
-  commentId: T:MacroTools.BookSystem.Artifacts.ArtifactPage
-  fullName: MacroTools.BookSystem.Artifacts.ArtifactPage
-  nameWithType: ArtifactPage
-- uid: MacroTools.BookSystem.Artifacts.ArtifactPage.#ctor
-  name: ArtifactPage()
-  href: api-macroTools/MacroTools.BookSystem.Artifacts.ArtifactPage.html#MacroTools_BookSystem_Artifacts_ArtifactPage__ctor
-  commentId: M:MacroTools.BookSystem.Artifacts.ArtifactPage.#ctor
-  fullName: MacroTools.BookSystem.Artifacts.ArtifactPage.ArtifactPage()
-  nameWithType: ArtifactPage.ArtifactPage()
-- uid: MacroTools.BookSystem.Artifacts.ArtifactPage.#ctor*
-  name: ArtifactPage
-  href: api-macroTools/MacroTools.BookSystem.Artifacts.ArtifactPage.html#MacroTools_BookSystem_Artifacts_ArtifactPage__ctor_
-  commentId: Overload:MacroTools.BookSystem.Artifacts.ArtifactPage.#ctor
-  isSpec: "True"
-  fullName: MacroTools.BookSystem.Artifacts.ArtifactPage.ArtifactPage
-  nameWithType: ArtifactPage.ArtifactPage
-- uid: MacroTools.BookSystem.Artifacts.ArtifactPage.AddArtifact(MacroTools.ArtifactSystem.Artifact)
-  name: AddArtifact(Artifact)
-  href: api-macroTools/MacroTools.BookSystem.Artifacts.ArtifactPage.html#MacroTools_BookSystem_Artifacts_ArtifactPage_AddArtifact_MacroTools_ArtifactSystem_Artifact_
-  commentId: M:MacroTools.BookSystem.Artifacts.ArtifactPage.AddArtifact(MacroTools.ArtifactSystem.Artifact)
-  fullName: MacroTools.BookSystem.Artifacts.ArtifactPage.AddArtifact(MacroTools.ArtifactSystem.Artifact)
-  nameWithType: ArtifactPage.AddArtifact(Artifact)
-- uid: MacroTools.BookSystem.Artifacts.ArtifactPage.AddArtifact*
-  name: AddArtifact
-  href: api-macroTools/MacroTools.BookSystem.Artifacts.ArtifactPage.html#MacroTools_BookSystem_Artifacts_ArtifactPage_AddArtifact_
-  commentId: Overload:MacroTools.BookSystem.Artifacts.ArtifactPage.AddArtifact
-  isSpec: "True"
-  fullName: MacroTools.BookSystem.Artifacts.ArtifactPage.AddArtifact
-  nameWithType: ArtifactPage.AddArtifact
 - uid: MacroTools.BookSystem.ArtifactSystem
   name: MacroTools.BookSystem.ArtifactSystem
   href: api-macroTools/MacroTools.BookSystem.ArtifactSystem.html
@@ -746,6 +676,70 @@ references:
   isSpec: "True"
   fullName: MacroTools.BookSystem.ArtifactSystem.ArtifactBook.DisposeEvents
   nameWithType: ArtifactBook.DisposeEvents
+- uid: MacroTools.BookSystem.ArtifactSystem.ArtifactCard
+  name: ArtifactCard
+  href: api-macroTools/MacroTools.BookSystem.ArtifactSystem.ArtifactCard.html
+  commentId: T:MacroTools.BookSystem.ArtifactSystem.ArtifactCard
+  fullName: MacroTools.BookSystem.ArtifactSystem.ArtifactCard
+  nameWithType: ArtifactCard
+- uid: MacroTools.BookSystem.ArtifactSystem.ArtifactCard.#ctor(MacroTools.ArtifactSystem.Artifact,MacroTools.Frames.Frame)
+  name: ArtifactCard(Artifact, Frame)
+  href: api-macroTools/MacroTools.BookSystem.ArtifactSystem.ArtifactCard.html#MacroTools_BookSystem_ArtifactSystem_ArtifactCard__ctor_MacroTools_ArtifactSystem_Artifact_MacroTools_Frames_Frame_
+  commentId: M:MacroTools.BookSystem.ArtifactSystem.ArtifactCard.#ctor(MacroTools.ArtifactSystem.Artifact,MacroTools.Frames.Frame)
+  fullName: MacroTools.BookSystem.ArtifactSystem.ArtifactCard.ArtifactCard(MacroTools.ArtifactSystem.Artifact, MacroTools.Frames.Frame)
+  nameWithType: ArtifactCard.ArtifactCard(Artifact, Frame)
+- uid: MacroTools.BookSystem.ArtifactSystem.ArtifactCard.#ctor*
+  name: ArtifactCard
+  href: api-macroTools/MacroTools.BookSystem.ArtifactSystem.ArtifactCard.html#MacroTools_BookSystem_ArtifactSystem_ArtifactCard__ctor_
+  commentId: Overload:MacroTools.BookSystem.ArtifactSystem.ArtifactCard.#ctor
+  isSpec: "True"
+  fullName: MacroTools.BookSystem.ArtifactSystem.ArtifactCard.ArtifactCard
+  nameWithType: ArtifactCard.ArtifactCard
+- uid: MacroTools.BookSystem.ArtifactSystem.ArtifactCard.DisposeEvents
+  name: DisposeEvents()
+  href: api-macroTools/MacroTools.BookSystem.ArtifactSystem.ArtifactCard.html#MacroTools_BookSystem_ArtifactSystem_ArtifactCard_DisposeEvents
+  commentId: M:MacroTools.BookSystem.ArtifactSystem.ArtifactCard.DisposeEvents
+  fullName: MacroTools.BookSystem.ArtifactSystem.ArtifactCard.DisposeEvents()
+  nameWithType: ArtifactCard.DisposeEvents()
+- uid: MacroTools.BookSystem.ArtifactSystem.ArtifactCard.DisposeEvents*
+  name: DisposeEvents
+  href: api-macroTools/MacroTools.BookSystem.ArtifactSystem.ArtifactCard.html#MacroTools_BookSystem_ArtifactSystem_ArtifactCard_DisposeEvents_
+  commentId: Overload:MacroTools.BookSystem.ArtifactSystem.ArtifactCard.DisposeEvents
+  isSpec: "True"
+  fullName: MacroTools.BookSystem.ArtifactSystem.ArtifactCard.DisposeEvents
+  nameWithType: ArtifactCard.DisposeEvents
+- uid: MacroTools.BookSystem.ArtifactSystem.ArtifactPage
+  name: ArtifactPage
+  href: api-macroTools/MacroTools.BookSystem.ArtifactSystem.ArtifactPage.html
+  commentId: T:MacroTools.BookSystem.ArtifactSystem.ArtifactPage
+  fullName: MacroTools.BookSystem.ArtifactSystem.ArtifactPage
+  nameWithType: ArtifactPage
+- uid: MacroTools.BookSystem.ArtifactSystem.ArtifactPage.#ctor
+  name: ArtifactPage()
+  href: api-macroTools/MacroTools.BookSystem.ArtifactSystem.ArtifactPage.html#MacroTools_BookSystem_ArtifactSystem_ArtifactPage__ctor
+  commentId: M:MacroTools.BookSystem.ArtifactSystem.ArtifactPage.#ctor
+  fullName: MacroTools.BookSystem.ArtifactSystem.ArtifactPage.ArtifactPage()
+  nameWithType: ArtifactPage.ArtifactPage()
+- uid: MacroTools.BookSystem.ArtifactSystem.ArtifactPage.#ctor*
+  name: ArtifactPage
+  href: api-macroTools/MacroTools.BookSystem.ArtifactSystem.ArtifactPage.html#MacroTools_BookSystem_ArtifactSystem_ArtifactPage__ctor_
+  commentId: Overload:MacroTools.BookSystem.ArtifactSystem.ArtifactPage.#ctor
+  isSpec: "True"
+  fullName: MacroTools.BookSystem.ArtifactSystem.ArtifactPage.ArtifactPage
+  nameWithType: ArtifactPage.ArtifactPage
+- uid: MacroTools.BookSystem.ArtifactSystem.ArtifactPage.AddArtifact(MacroTools.ArtifactSystem.Artifact)
+  name: AddArtifact(Artifact)
+  href: api-macroTools/MacroTools.BookSystem.ArtifactSystem.ArtifactPage.html#MacroTools_BookSystem_ArtifactSystem_ArtifactPage_AddArtifact_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:MacroTools.BookSystem.ArtifactSystem.ArtifactPage.AddArtifact(MacroTools.ArtifactSystem.Artifact)
+  fullName: MacroTools.BookSystem.ArtifactSystem.ArtifactPage.AddArtifact(MacroTools.ArtifactSystem.Artifact)
+  nameWithType: ArtifactPage.AddArtifact(Artifact)
+- uid: MacroTools.BookSystem.ArtifactSystem.ArtifactPage.AddArtifact*
+  name: AddArtifact
+  href: api-macroTools/MacroTools.BookSystem.ArtifactSystem.ArtifactPage.html#MacroTools_BookSystem_ArtifactSystem_ArtifactPage_AddArtifact_
+  commentId: Overload:MacroTools.BookSystem.ArtifactSystem.ArtifactPage.AddArtifact
+  isSpec: "True"
+  fullName: MacroTools.BookSystem.ArtifactSystem.ArtifactPage.AddArtifact
+  nameWithType: ArtifactPage.AddArtifact
 - uid: MacroTools.BookSystem.Augments
   name: MacroTools.BookSystem.Augments
   href: api-macroTools/MacroTools.BookSystem.Augments.html

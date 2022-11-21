@@ -153,7 +153,31 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.BookSystem.ArtifactSystem.ArtifactBook.html",
-          "hash": "AtoXGFmvHaXFMYKeQ9pAdw=="
+          "hash": "ihy6W8P5JVeZdf+ZFADupQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.ArtifactSystem.ArtifactCard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.ArtifactSystem.ArtifactCard.html",
+          "hash": "KzuGqp2HwF3nwTKcehvdZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.BookSystem.ArtifactSystem.ArtifactPage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.BookSystem.ArtifactSystem.ArtifactPage.html",
+          "hash": "Ahng1rHt3KwoOOB42j3ADA=="
         }
       },
       "is_incremental": false,
@@ -165,43 +189,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.BookSystem.ArtifactSystem.html",
-          "hash": "sEXNtiUgaGjRmekzFG3ixw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.BookSystem.Artifacts.ArtifactCard.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.BookSystem.Artifacts.ArtifactCard.html",
-          "hash": "Jwt42yJQ0mV+JDqEL3kyIg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.BookSystem.Artifacts.ArtifactPage.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.BookSystem.Artifacts.ArtifactPage.html",
-          "hash": "Y30uYATh7KLE03CJQRT3xA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.BookSystem.Artifacts.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.BookSystem.Artifacts.html",
-          "hash": "9B63/+L3YZEdbzZbMu2eTg=="
+          "hash": "fcKVqU1pummGh2CGZRfshw=="
         }
       },
       "is_incremental": false,
@@ -273,7 +261,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.BookSystem.Card.html",
-          "hash": "r6ItTcju3wQG9/u0/kd8Nw=="
+          "hash": "3F68JQY/urqYAVuDM3c/6Q=="
         }
       },
       "is_incremental": false,
@@ -297,7 +285,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.BookSystem.Page.html",
-          "hash": "H0h9kUNKBR9UR3jTFNcRPQ=="
+          "hash": "E9AOBHQnBZODXfiPpKawHA=="
         }
       },
       "is_incremental": false,
@@ -3597,7 +3585,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "HDfOQf6ZFsEkYyRMO1ob8Q=="
+          "hash": "R0IRN69VezvY/uBecDtTSg=="
         }
       },
       "is_incremental": false,
@@ -8544,7 +8532,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 704,
+          "total_file_count": 703,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

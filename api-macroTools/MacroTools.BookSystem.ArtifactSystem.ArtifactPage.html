@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class ArtifactCard
+    <title>Class ArtifactPage
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class ArtifactCard
+    <meta name="title" content="Class ArtifactPage
    ">
     <meta name="generator" content="docfx 2.56.7.0">
     
@@ -68,23 +68,53 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="MacroTools.BookSystem.Artifacts.ArtifactCard">
+            <article class="content wrap" id="_content" data-uid="MacroTools.BookSystem.ArtifactSystem.ArtifactPage">
   
   
-  <h1 id="MacroTools_BookSystem_Artifacts_ArtifactCard" data-uid="MacroTools.BookSystem.Artifacts.ArtifactCard" class="text-break">Class ArtifactCard
+  <h1 id="MacroTools_BookSystem_ArtifactSystem_ArtifactPage" data-uid="MacroTools.BookSystem.ArtifactSystem.ArtifactPage" class="text-break">Class ArtifactPage
   </h1>
-  <div class="markdown level0 summary"><p>Represents a single Artifact in a black rectangle.</p>
+  <div class="markdown level0 summary"><p>Represents a limited number of Artifacts in a rectangular grid.</p>
 </div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><span class="xref">System.Object</span></div>
     <div class="level1"><a class="xref" href="MacroTools.Frames.Frame.html">Frame</a></div>
-    <div class="level2"><a class="xref" href="MacroTools.BookSystem.Card.html">Card</a></div>
-    <div class="level3"><span class="xref">ArtifactCard</span></div>
+    <div class="level2"><a class="xref" href="MacroTools.BookSystem.Page.html">Page</a></div>
+    <div class="level3"><span class="xref">ArtifactPage</span></div>
   </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="MacroTools.BookSystem.Page.html#MacroTools_BookSystem_Page_Cards">Page.Cards</a>
+    </div>
+    <div>
+      <a class="xref" href="MacroTools.BookSystem.Page.html#MacroTools_BookSystem_Page_PageNumber">Page.PageNumber</a>
+    </div>
+    <div>
+      <a class="xref" href="MacroTools.BookSystem.Page.html#MacroTools_BookSystem_Page_Rows">Page.Rows</a>
+    </div>
+    <div>
+      <a class="xref" href="MacroTools.BookSystem.Page.html#MacroTools_BookSystem_Page_Columns">Page.Columns</a>
+    </div>
+    <div>
+      <a class="xref" href="MacroTools.BookSystem.Page.html#MacroTools_BookSystem_Page_YOffsetTop">Page.YOffsetTop</a>
+    </div>
+    <div>
+      <a class="xref" href="MacroTools.BookSystem.Page.html#MacroTools_BookSystem_Page_YOffsetBot">Page.YOffsetBot</a>
+    </div>
+    <div>
+      <a class="xref" href="MacroTools.BookSystem.Page.html#MacroTools_BookSystem_Page_CardLimit">Page.CardLimit</a>
+    </div>
+    <div>
+      <a class="xref" href="MacroTools.BookSystem.Page.html#MacroTools_BookSystem_Page_CardCount">Page.CardCount</a>
+    </div>
+    <div>
+      <a class="xref" href="MacroTools.BookSystem.Page.html#MacroTools_BookSystem_Page_PositionAllCards">Page.PositionAllCards()</a>
+    </div>
+    <div>
+      <a class="xref" href="MacroTools.BookSystem.Page.html#MacroTools_BookSystem_Page_PositionFrameAtIndex_MacroTools_Frames_Frame_System_Int32_">Page.PositionFrameAtIndex(Frame, Int32)</a>
+    </div>
     <div>
       <a class="xref" href="MacroTools.Frames.Frame.html#MacroTools_Frames_Frame_Handle">Frame.Handle</a>
     </div>
@@ -119,32 +149,53 @@
       <a class="xref" href="MacroTools.Frames.Frame.html#MacroTools_Frames_Frame_ClearAllPoints">Frame.ClearAllPoints()</a>
     </div>
     <div>
+      <a class="xref" href="MacroTools.Frames.Frame.html#MacroTools_Frames_Frame_DisposeEvents">Frame.DisposeEvents()</a>
+    </div>
+    <div>
       <a class="xref" href="MacroTools.Frames.Frame.html#MacroTools_Frames_Frame_Dispose">Frame.Dispose()</a>
     </div>
   </div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="MacroTools.BookSystem.Artifacts.html">MacroTools.BookSystem.Artifacts</a></h6>
+  <h6><strong>Namespace</strong>: <a class="xref" href="MacroTools.BookSystem.ArtifactSystem.html">MacroTools.BookSystem.ArtifactSystem</a></h6>
   <h6><strong>Assembly</strong>: MacroTools.dll</h6>
-  <h5 id="MacroTools_BookSystem_Artifacts_ArtifactCard_syntax">Syntax</h5>
+  <h5 id="MacroTools_BookSystem_ArtifactSystem_ArtifactPage_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public sealed class ArtifactCard : Card</code></pre>
+    <pre><code class="lang-csharp hljs">public sealed class ArtifactPage : Page</code></pre>
   </div>
   <h3 id="constructors">Constructors
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_BookSystem_Artifacts_ArtifactCard__ctor_MacroTools_ArtifactSystem_Artifact_MacroTools_Frames_Frame_.md&amp;value=---%0Auid%3A%20MacroTools.BookSystem.Artifacts.ArtifactCard.%23ctor(MacroTools.ArtifactSystem.Artifact%2CMacroTools.Frames.Frame)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_BookSystem_ArtifactSystem_ArtifactPage__ctor.md&amp;value=---%0Auid%3A%20MacroTools.BookSystem.ArtifactSystem.ArtifactPage.%23ctor%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/BookSystem/ArtifactSystem/ArtifactCard.cs/#L27">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/BookSystem/ArtifactSystem/ArtifactPage.cs/#L14">View Source</a>
   </span>
-  <a id="MacroTools_BookSystem_Artifacts_ArtifactCard__ctor_" data-uid="MacroTools.BookSystem.Artifacts.ArtifactCard.#ctor*"></a>
-  <h4 id="MacroTools_BookSystem_Artifacts_ArtifactCard__ctor_MacroTools_ArtifactSystem_Artifact_MacroTools_Frames_Frame_" data-uid="MacroTools.BookSystem.Artifacts.ArtifactCard.#ctor(MacroTools.ArtifactSystem.Artifact,MacroTools.Frames.Frame)">ArtifactCard(Artifact, Frame)</h4>
-  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="MacroTools.BookSystem.Artifacts.ArtifactCard.html">ArtifactCard</a> class.</p>
+  <a id="MacroTools_BookSystem_ArtifactSystem_ArtifactPage__ctor_" data-uid="MacroTools.BookSystem.ArtifactSystem.ArtifactPage.#ctor*"></a>
+  <h4 id="MacroTools_BookSystem_ArtifactSystem_ArtifactPage__ctor" data-uid="MacroTools.BookSystem.ArtifactSystem.ArtifactPage.#ctor">ArtifactPage()</h4>
+  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="MacroTools.BookSystem.ArtifactSystem.ArtifactPage.html">ArtifactPage</a> class.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public ArtifactCard(Artifact artifact, Frame parent)</code></pre>
+    <pre><code class="lang-csharp hljs">public ArtifactPage()</code></pre>
+  </div>
+  <h3 id="methods">Methods
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_BookSystem_ArtifactSystem_ArtifactPage_AddArtifact_MacroTools_ArtifactSystem_Artifact_.md&amp;value=---%0Auid%3A%20MacroTools.BookSystem.ArtifactSystem.ArtifactPage.AddArtifact(MacroTools.ArtifactSystem.Artifact)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/BookSystem/ArtifactSystem/ArtifactPage.cs/#L25">View Source</a>
+  </span>
+  <a id="MacroTools_BookSystem_ArtifactSystem_ArtifactPage_AddArtifact_" data-uid="MacroTools.BookSystem.ArtifactSystem.ArtifactPage.AddArtifact*"></a>
+  <h4 id="MacroTools_BookSystem_ArtifactSystem_ArtifactPage_AddArtifact_MacroTools_ArtifactSystem_Artifact_" data-uid="MacroTools.BookSystem.ArtifactSystem.ArtifactPage.AddArtifact(MacroTools.ArtifactSystem.Artifact)">AddArtifact(Artifact)</h4>
+  <div class="markdown level1 summary"><p>Renders an Artifact on this MenuPage as an ArtifactCard.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void AddArtifact(Artifact artifact)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -159,37 +210,10 @@
       <tr>
         <td><a class="xref" href="MacroTools.ArtifactSystem.Artifact.html">Artifact</a></td>
         <td><span class="parametername">artifact</span></td>
-        <td><p>The <a class="xref" href="MacroTools.ArtifactSystem.Artifact.html">Artifact</a> being represented.</p>
-</td>
-      </tr>
-      <tr>
-        <td><a class="xref" href="MacroTools.Frames.Frame.html">Frame</a></td>
-        <td><span class="parametername">parent</span></td>
-        <td><p><inheritdoc></inheritdoc></p>
-</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
-  <h3 id="methods">Methods
-  </h3>
-  <span class="small pull-right mobile-hide">
-    <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_BookSystem_Artifacts_ArtifactCard_DisposeEvents.md&amp;value=---%0Auid%3A%20MacroTools.BookSystem.Artifacts.ArtifactCard.DisposeEvents%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
-  </span>
-  <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/BookSystem/ArtifactSystem/ArtifactCard.cs/#L150">View Source</a>
-  </span>
-  <a id="MacroTools_BookSystem_Artifacts_ArtifactCard_DisposeEvents_" data-uid="MacroTools.BookSystem.Artifacts.ArtifactCard.DisposeEvents*"></a>
-  <h4 id="MacroTools_BookSystem_Artifacts_ArtifactCard_DisposeEvents" data-uid="MacroTools.BookSystem.Artifacts.ArtifactCard.DisposeEvents">DisposeEvents()</h4>
-  <div class="markdown level1 summary"><p>Unhooks all events from this class. Called when Dispose is called or the Frame is garbage collected.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">protected override void DisposeEvents()</code></pre>
-  </div>
-  <h5 class="overrides">Overrides</h5>
-  <div><a class="xref" href="MacroTools.Frames.Frame.html#MacroTools_Frames_Frame_DisposeEvents">Frame.DisposeEvents()</a></div>
 </article>
           </div>
           
@@ -198,10 +222,10 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_BookSystem_Artifacts_ArtifactCard.md&amp;value=---%0Auid%3A%20MacroTools.BookSystem.Artifacts.ArtifactCard%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_BookSystem_ArtifactSystem_ArtifactPage.md&amp;value=---%0Auid%3A%20MacroTools.BookSystem.ArtifactSystem.ArtifactPage%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/BookSystem/ArtifactSystem/ArtifactCard.cs/#L13" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/BookSystem/ArtifactSystem/ArtifactPage.cs/#L9" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>
