@@ -134,19 +134,19 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal__ctor_unit_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.%23ctor(unit)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal__ctor_MacroTools_QuestSystem_QuestData_unit_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.%23ctor(MacroTools.QuestSystem.QuestData%2Cunit)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Dragonmaw/QuestOrgrimmarPortal.cs/#L24">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Dragonmaw/QuestOrgrimmarPortal.cs/#L25">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal__ctor_" data-uid="WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.#ctor*"></a>
-  <h4 id="WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal__ctor_unit_" data-uid="WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.#ctor(unit)">QuestOrgrimmarPortal(unit)</h4>
+  <h4 id="WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal__ctor_MacroTools_QuestSystem_QuestData_unit_" data-uid="WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.#ctor(MacroTools.QuestSystem.QuestData,unit)">QuestOrgrimmarPortal(QuestData, unit)</h4>
   <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.html">QuestOrgrimmarPortal</a> class.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public QuestOrgrimmarPortal(unit waygateDragonmawPort)</code></pre>
+    <pre><code class="lang-csharp hljs">public QuestOrgrimmarPortal(QuestData prequel, unit waygateDragonmawPort)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -158,6 +158,12 @@
       </tr>
     </thead>
     <tbody>
+      <tr>
+        <td><a class="xref" href="../api-macroTools/MacroTools.QuestSystem.QuestData.html">QuestData</a></td>
+        <td><span class="parametername">prequel</span></td>
+        <td><p>This quest must be completed first.</p>
+</td>
+      </tr>
       <tr>
         <td><span class="xref">unit</span></td>
         <td><span class="parametername">waygateDragonmawPort</span></td>
@@ -173,7 +179,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal_CompletionPopup.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.CompletionPopup%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Dragonmaw/QuestOrgrimmarPortal.cs/#L39">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Dragonmaw/QuestOrgrimmarPortal.cs/#L40">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal_CompletionPopup_" data-uid="WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.CompletionPopup*"></a>
   <h4 id="WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal_CompletionPopup" data-uid="WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.CompletionPopup">CompletionPopup</h4>
@@ -205,7 +211,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal_RewardDescription.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.RewardDescription%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Dragonmaw/QuestOrgrimmarPortal.cs/#L43">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Dragonmaw/QuestOrgrimmarPortal.cs/#L44">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal_RewardDescription_" data-uid="WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.RewardDescription*"></a>
   <h4 id="WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal_RewardDescription" data-uid="WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.RewardDescription">RewardDescription</h4>
@@ -239,7 +245,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal_OnComplete_MacroTools_FactionSystem_Faction_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.OnComplete(MacroTools.FactionSystem.Faction)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Dragonmaw/QuestOrgrimmarPortal.cs/#L46">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Dragonmaw/QuestOrgrimmarPortal.cs/#L47">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal_OnComplete_" data-uid="WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.OnComplete*"></a>
   <h4 id="WarcraftLegacies_Source_Quests_Dragonmaw_QuestOrgrimmarPortal_OnComplete_MacroTools_FactionSystem_Faction_" data-uid="WarcraftLegacies.Source.Quests.Dragonmaw.QuestOrgrimmarPortal.OnComplete(MacroTools.FactionSystem.Faction)">OnComplete(Faction)</h4>
