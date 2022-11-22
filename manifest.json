@@ -1389,7 +1389,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Power.html",
-          "hash": "fmNhjsIBvRRaTQzwjcdZ/Q=="
+          "hash": "Z8Iz7Xc9iEwvEXaMWf1f9A=="
         }
       },
       "is_incremental": false,
@@ -1786,66 +1786,6 @@
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Mechanics.StructurePacking.html",
           "hash": "8AF2BniZMZoPbp9sXcXkQw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Mechanics.TwilightHammer.Continent.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Mechanics.TwilightHammer.Continent.html",
-          "hash": "clY1/XmsZS3PzEkUgn+Alg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Mechanics.TwilightHammer.CorruptWorkerBuff.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Mechanics.TwilightHammer.CorruptWorkerBuff.html",
-          "hash": "bDGI6QIhP+y3rV883pFT7A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Mechanics.TwilightHammer.CorruptWorkerPeriodicAction.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Mechanics.TwilightHammer.CorruptWorkerPeriodicAction.html",
-          "hash": "AAQDvBrgpCflSWKpALBacA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Mechanics.TwilightHammer.PowerCorruptWorker.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Mechanics.TwilightHammer.PowerCorruptWorker.html",
-          "hash": "lssy3DjfsS2305T/mfNU+A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Mechanics.TwilightHammer.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Mechanics.TwilightHammer.html",
-          "hash": "0bYsZR4sEgt4yT6qNwPCRw=="
         }
       },
       "is_incremental": false,
@@ -3585,7 +3525,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "R0IRN69VezvY/uBecDtTSg=="
+          "hash": "uevpJDBHYwKUC+hqtgOsbQ=="
         }
       },
       "is_incremental": false,
@@ -5693,18 +5633,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestLivingShadow.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestLivingShadow.html",
-          "hash": "p5CAMcb5L0boG2tTMNKflg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestMograine.yml",
       "output": {
         ".html": {
@@ -5769,7 +5697,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.html",
-          "hash": "XM+H0NJE7DMN1aE34FMHcQ=="
+          "hash": "aUbd0uaEkmMKkoa8mcIyyg=="
         }
       },
       "is_incremental": false,
@@ -6382,78 +6310,6 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Stormwind.html",
           "hash": "I94m+K04sbVLTvLFKNMjPw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Twilight.QuestCataclysm.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Twilight.QuestCataclysm.html",
-          "hash": "KfK3UQwwaHOJ4LEgjwuT/A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Twilight.QuestFeludius.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Twilight.QuestFeludius.html",
-          "hash": "Qq5k5lA4757u2nt7uy+MVw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Twilight.QuestIgnacious.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Twilight.QuestIgnacious.html",
-          "hash": "fEcriS55DrghcgocInkkBA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Twilight.QuestSpreadTheWord.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Twilight.QuestSpreadTheWord.html",
-          "hash": "UBWVs3JuWvKCCvRYkhNdfw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Twilight.QuestThunderfury.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Twilight.QuestThunderfury.html",
-          "hash": "Qcy1mVx8b5gUKnDYjLLy9g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Twilight.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Twilight.html",
-          "hash": "Q+JSMOr9rwdwfkWVnhkfpQ=="
         }
       },
       "is_incremental": false,
@@ -7145,18 +7001,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.html",
-          "hash": "9NLJo8Wk2blcRT1ZShS2pQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.DalaranSetup.yml",
       "output": {
         ".html": {
@@ -7337,18 +7181,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.NzothSetup.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.NzothSetup.html",
-          "hash": "yL5uTcfwNNt0H+VgI9Raqg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.QuelthalasSetup.yml",
       "output": {
         ".html": {
@@ -7409,18 +7241,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.TwilightSetup.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.TwilightSetup.html",
-          "hash": "LIJaYbuZv2BQtgSFq0xpXg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.WarsongSetup.yml",
       "output": {
         ".html": {
@@ -7449,7 +7269,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.html",
-          "hash": "9aw5gb69/1rM67Wl1bLTKQ=="
+          "hash": "Eyc6VL/lNnjSpH1pzQR4pw=="
         }
       },
       "is_incremental": false,
@@ -7769,18 +7589,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.html",
-          "hash": "K6aLb7ybmYc1Zd3m/cSh9A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.yml",
       "output": {
         ".html": {
@@ -7797,7 +7605,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.html",
-          "hash": "+caxcCpCax2VoYEjG6lZgw=="
+          "hash": "LJcn01GMg6pfxcaRGxyB0g=="
         }
       },
       "is_incremental": false,
@@ -8457,7 +8265,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "coJQb/hAZvTeMuDSIbCQDw=="
+          "hash": "bQ3/7yfk/99Rbbxfn0Z53w=="
         }
       },
       "is_incremental": false,
@@ -8532,7 +8340,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 703,
+          "total_file_count": 687,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
