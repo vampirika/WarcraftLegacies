@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class Cheat
+    <title>Class Cam
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class Cheat
+    <meta name="title" content="Class Cam
    ">
     <meta name="generator" content="docfx 2.56.7.0">
     
@@ -68,46 +68,43 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="MacroTools.CheatSystem.Cheat">
+            <article class="content wrap" id="_content" data-uid="MacroTools.Commands.Cam">
   
   
-  <h1 id="MacroTools_CheatSystem_Cheat" data-uid="MacroTools.CheatSystem.Cheat" class="text-break">Class Cheat
+  <h1 id="MacroTools_Commands_Cam" data-uid="MacroTools.Commands.Cam" class="text-break">Class Cam
   </h1>
-  <div class="markdown level0 summary"><p>A function that a player can execute via the chat, which is only enabled in testing scenarios.</p>
+  <div class="markdown level0 summary"><p>A <a class="xref" href="MacroTools.CommandSystem.Command.html">Command</a> that sets the player's camera to a specific height.</p>
 </div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><span class="xref">System.Object</span></div>
-    <div class="level1"><span class="xref">Cheat</span></div>
-      <div class="level2"><a class="xref" href="MacroTools.Cheats.CheatAddSpell.html">CheatAddSpell</a></div>
-      <div class="level2"><a class="xref" href="MacroTools.Cheats.CheatDestroy.html">CheatDestroy</a></div>
-      <div class="level2"><a class="xref" href="MacroTools.Cheats.CheatSetResearchLevel.html">CheatSetResearchLevel</a></div>
-      <div class="level2"><a class="xref" href="MacroTools.Cheats.CheatTeam.html">CheatTeam</a></div>
+    <div class="level1"><a class="xref" href="MacroTools.CommandSystem.Command.html">Command</a></div>
+    <div class="level2"><span class="xref">Cam</span></div>
   </div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="MacroTools.CheatSystem.html">MacroTools.CheatSystem</a></h6>
+  <h6><strong>Namespace</strong>: <a class="xref" href="MacroTools.Commands.html">MacroTools.Commands</a></h6>
   <h6><strong>Assembly</strong>: MacroTools.dll</h6>
-  <h5 id="MacroTools_CheatSystem_Cheat_syntax">Syntax</h5>
+  <h5 id="MacroTools_Commands_Cam_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public abstract class Cheat : object</code></pre>
+    <pre><code class="lang-csharp hljs">public sealed class Cam : Command</code></pre>
   </div>
   <h3 id="properties">Properties
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_CheatSystem_Cheat_Command.md&amp;value=---%0Auid%3A%20MacroTools.CheatSystem.Cheat.Command%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Commands_Cam_CommandText.md&amp;value=---%0Auid%3A%20MacroTools.Commands.Cam.CommandText%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/CheatSystem/Cheat.cs/#L13">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Commands/Cam.cs/#L14">View Source</a>
   </span>
-  <a id="MacroTools_CheatSystem_Cheat_Command_" data-uid="MacroTools.CheatSystem.Cheat.Command*"></a>
-  <h4 id="MacroTools_CheatSystem_Cheat_Command" data-uid="MacroTools.CheatSystem.Cheat.Command">Command</h4>
-  <div class="markdown level1 summary"><p>The command that a player can execute to run the <a class="xref" href="MacroTools.CheatSystem.Cheat.html">Cheat</a>.</p>
+  <a id="MacroTools_Commands_Cam_CommandText_" data-uid="MacroTools.Commands.Cam.CommandText*"></a>
+  <h4 id="MacroTools_Commands_Cam_CommandText" data-uid="MacroTools.Commands.Cam.CommandText">CommandText</h4>
+  <div class="markdown level1 summary"><p>The command that a player can execute to run the <a class="xref" href="MacroTools.CommandSystem.Command.html">Command</a>.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public abstract string Command { get; }</code></pre>
+    <pre><code class="lang-csharp hljs">public override string CommandText { get; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -124,21 +121,23 @@
       </tr>
     </tbody>
   </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="MacroTools.CommandSystem.Command.html#MacroTools_CommandSystem_Command_CommandText">Command.CommandText</a></div>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_CheatSystem_Cheat_ParameterCount.md&amp;value=---%0Auid%3A%20MacroTools.CheatSystem.Cheat.ParameterCount%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Commands_Cam_ParameterCount.md&amp;value=---%0Auid%3A%20MacroTools.Commands.Cam.ParameterCount%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/CheatSystem/Cheat.cs/#L18">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Commands/Cam.cs/#L17">View Source</a>
   </span>
-  <a id="MacroTools_CheatSystem_Cheat_ParameterCount_" data-uid="MacroTools.CheatSystem.Cheat.ParameterCount*"></a>
-  <h4 id="MacroTools_CheatSystem_Cheat_ParameterCount" data-uid="MacroTools.CheatSystem.Cheat.ParameterCount">ParameterCount</h4>
-  <div class="markdown level1 summary"><p>How many parameters should be supplied to this <a class="xref" href="MacroTools.CheatSystem.Cheat.html">Cheat</a> command.</p>
+  <a id="MacroTools_Commands_Cam_ParameterCount_" data-uid="MacroTools.Commands.Cam.ParameterCount*"></a>
+  <h4 id="MacroTools_Commands_Cam_ParameterCount" data-uid="MacroTools.Commands.Cam.ParameterCount">ParameterCount</h4>
+  <div class="markdown level1 summary"><p>How many parameters should be supplied to this <a class="xref" href="MacroTools.CommandSystem.Command.html">Command</a> command.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public abstract int ParameterCount { get; }</code></pre>
+    <pre><code class="lang-csharp hljs">public override int ParameterCount { get; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -155,23 +154,25 @@
       </tr>
     </tbody>
   </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="MacroTools.CommandSystem.Command.html#MacroTools_CommandSystem_Command_ParameterCount">Command.ParameterCount</a></div>
   <h3 id="methods">Methods
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_CheatSystem_Cheat_Execute_player_System_String___.md&amp;value=---%0Auid%3A%20MacroTools.CheatSystem.Cheat.Execute(player%2CSystem.String%5B%5D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Commands_Cam_Execute_player_System_String___.md&amp;value=---%0Auid%3A%20MacroTools.Commands.Cam.Execute(player%2CSystem.String%5B%5D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/CheatSystem/Cheat.cs/#L26">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Commands/Cam.cs/#L20">View Source</a>
   </span>
-  <a id="MacroTools_CheatSystem_Cheat_Execute_" data-uid="MacroTools.CheatSystem.Cheat.Execute*"></a>
-  <h4 id="MacroTools_CheatSystem_Cheat_Execute_player_System_String___" data-uid="MacroTools.CheatSystem.Cheat.Execute(player,System.String[])">Execute(player, String[])</h4>
-  <div class="markdown level1 summary"><p>What happens when the <a class="xref" href="MacroTools.CheatSystem.Cheat.html">Cheat</a> gets executed by a player.</p>
+  <a id="MacroTools_Commands_Cam_Execute_" data-uid="MacroTools.Commands.Cam.Execute*"></a>
+  <h4 id="MacroTools_Commands_Cam_Execute_player_System_String___" data-uid="MacroTools.Commands.Cam.Execute(player,System.String[])">Execute(player, String[])</h4>
+  <div class="markdown level1 summary"><p>What happens when the <a class="xref" href="MacroTools.CommandSystem.Command.html">Command</a> gets executed by a player.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public abstract string Execute(player cheater, params string[] parameters)</code></pre>
+    <pre><code class="lang-csharp hljs">public override string Execute(player commandUser, params string[] parameters)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -185,9 +186,8 @@
     <tbody>
       <tr>
         <td><span class="xref">player</span></td>
-        <td><span class="parametername">cheater</span></td>
-        <td><p>The player typing the <a class="xref" href="MacroTools.CheatSystem.Cheat.html">Cheat</a> command in.</p>
-</td>
+        <td><span class="parametername">commandUser</span></td>
+        <td></td>
       </tr>
       <tr>
         <td><span class="xref">System.String</span>[]</td>
@@ -208,11 +208,13 @@
     <tbody>
       <tr>
         <td><span class="xref">System.String</span></td>
-        <td><p>A message describing what the <a class="xref" href="MacroTools.CheatSystem.Cheat.html">Cheat</a> is doing to the executing player.</p>
+        <td><p>A message describing what the <a class="xref" href="MacroTools.CommandSystem.Command.html">Command</a> is doing to the executing player.</p>
 </td>
       </tr>
     </tbody>
   </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="MacroTools.CommandSystem.Command.html#MacroTools_CommandSystem_Command_Execute_player_System_String___">Command.Execute(player, String[])</a></div>
 </article>
           </div>
           
@@ -221,10 +223,10 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_CheatSystem_Cheat.md&amp;value=---%0Auid%3A%20MacroTools.CheatSystem.Cheat%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Commands_Cam.md&amp;value=---%0Auid%3A%20MacroTools.Commands.Cam%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/CheatSystem/Cheat.cs/#L8" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Commands/Cam.cs/#L11" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>

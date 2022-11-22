@@ -629,59 +629,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.CheatSystem.Cheat.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.CheatSystem.Cheat.html",
-          "hash": "EqW5LLpHnO1H5a6lKsmRoA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.CheatSystem.CheatManager.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.CheatSystem.CheatManager.html",
-          "hash": "RMaYIXjc8n7txqacqgaooA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.CheatSystem.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.CheatSystem.html",
-          "hash": "fW5iQvfcvHGukyJaJ05MHQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Cheats.CheatAddRandomAugment.yml",
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatAddRandomAugment.html",
           "hash": "X6wx3Zh0FOS5Tm+A08ifZQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Cheats.CheatAddSpell.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Cheats.CheatAddSpell.html",
-          "hash": "R3YeE6Fh5yNVLcff48+ofg=="
         }
       },
       "is_incremental": false,
@@ -717,7 +669,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatCompleteQuest.html",
-          "hash": "LYDemolFZfPTzZIC2W2A2w=="
+          "hash": "DNm0r/XvYa59GhwT0B0/SQ=="
         }
       },
       "is_incremental": false,
@@ -730,18 +682,6 @@
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatControl.html",
           "hash": "EAovvkZfBqkFQ5L+YQJjVQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Cheats.CheatDestroy.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Cheats.CheatDestroy.html",
-          "hash": "U4ltmov1mhMT4i2qSrgd0A=="
         }
       },
       "is_incremental": false,
@@ -917,35 +857,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Cheats.CheatSetResearchLevel.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Cheats.CheatSetResearchLevel.html",
-          "hash": "6S8M8eTB7RZeGix4D3o8Dg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Cheats.CheatSpawn.yml",
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatSpawn.html",
           "hash": "Nnc6f2ehAj/ApPxYw9PFzg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Cheats.CheatTeam.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Cheats.CheatTeam.html",
-          "hash": "h1fy6czVKnoHPoPNHpHm2A=="
         }
       },
       "is_incremental": false,
@@ -1001,6 +917,54 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Cheats.CommandAddSpell.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Cheats.CommandAddSpell.html",
+          "hash": "W2dx+0bwNg07m7EIJpkANg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Cheats.CommandDestroy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Cheats.CommandDestroy.html",
+          "hash": "15arFWZU8BguYBCY/EfwYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Cheats.CommandSetResearchLevel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Cheats.CommandSetResearchLevel.html",
+          "hash": "AqoNb8k0+VVnw4zpMUOR+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Cheats.CommandTeam.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Cheats.CommandTeam.html",
+          "hash": "R2glIzx4AjtNYURuy1Aq+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Cheats.TestSafety.yml",
       "output": {
         ".html": {
@@ -1017,7 +981,91 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.html",
-          "hash": "tVbFFmOhHjeUmsqNizDYOQ=="
+          "hash": "J+AqzM518MU4RtBmjmzESQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.CommandSystem.Command.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.CommandSystem.Command.html",
+          "hash": "M0FhXy6JNP1ABqa6LQJRKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.CommandSystem.CommandManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.CommandSystem.CommandManager.html",
+          "hash": "NloLAa/7TPXlDt8aRqmEdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.CommandSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.CommandSystem.html",
+          "hash": "hgqzfzypFrPiNduZmBNVdQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Commands.Cam.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Commands.Cam.html",
+          "hash": "jAeROCSKqssgDqE62vLmPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Commands.Clear.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Commands.Clear.html",
+          "hash": "MilYWfURNaLsPdNXJmpoHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Commands.Limited.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Commands.Limited.html",
+          "hash": "ZdDzuS39rSSN0aerIFU6wQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Commands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Commands.html",
+          "hash": "XvKyNE6vEcH9b4I1kAAJwA=="
         }
       },
       "is_incremental": false,
@@ -1365,7 +1413,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.PlayerExtensions.html",
-          "hash": "VOU1+k4E5Savq1UhxOqFKw=="
+          "hash": "VfMfftgTNj9ZkGMMVKtwnQ=="
         }
       },
       "is_incremental": false,
@@ -3525,7 +3573,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "uevpJDBHYwKUC+hqtgOsbQ=="
+          "hash": "alAineeVXwWfIcZPoDPmYA=="
         }
       },
       "is_incremental": false,
@@ -6957,7 +7005,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.CommandSetup.html",
-          "hash": "SuRCoRdqYcwGIjLV0YKWag=="
+          "hash": "a0edXlJVnlzNxYHOFAboIw=="
         }
       },
       "is_incremental": false,
@@ -8352,7 +8400,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 688,
+          "total_file_count": 692,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
