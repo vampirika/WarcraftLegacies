@@ -4988,6 +4988,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.SetMaximumMana
   nameWithType: UnitExtensions.SetMaximumMana
+- uid: MacroTools.Extensions.UnitExtensions.SetName(unit,System.String)
+  name: SetName(unit, String)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetName_unit_System_String_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetName(unit,System.String)
+  fullName: MacroTools.Extensions.UnitExtensions.SetName(unit, System.String)
+  nameWithType: UnitExtensions.SetName(unit, String)
+- uid: MacroTools.Extensions.UnitExtensions.SetName*
+  name: SetName
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetName_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetName
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetName
+  nameWithType: UnitExtensions.SetName
 - uid: MacroTools.Extensions.UnitExtensions.SetOwner(unit,player)
   name: SetOwner(unit, player)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetOwner_unit_player_
@@ -5014,6 +5027,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.SetPosition
   nameWithType: UnitExtensions.SetPosition
+- uid: MacroTools.Extensions.UnitExtensions.SetSkin(unit,System.Int32)
+  name: SetSkin(unit, Int32)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetSkin_unit_System_Int32_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetSkin(unit,System.Int32)
+  fullName: MacroTools.Extensions.UnitExtensions.SetSkin(unit, System.Int32)
+  nameWithType: UnitExtensions.SetSkin(unit, Int32)
+- uid: MacroTools.Extensions.UnitExtensions.SetSkin*
+  name: SetSkin
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetSkin_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetSkin
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetSkin
+  nameWithType: UnitExtensions.SetSkin
 - uid: MacroTools.Extensions.UnitExtensions.SetTimedLife(unit,System.Single,System.Int32)
   name: SetTimedLife(unit, Single, Int32)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetTimedLife_unit_System_Single_System_Int32_
@@ -8837,6 +8863,109 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilities.HideousAppendages.TentacleUnitTypeId
   nameWithType: HideousAppendages.TentacleUnitTypeId
+- uid: MacroTools.PassiveAbilities.LocationBasedFlavourAbility
+  name: LocationBasedFlavourAbility
+  href: api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourAbility.html
+  commentId: T:MacroTools.PassiveAbilities.LocationBasedFlavourAbility
+  fullName: MacroTools.PassiveAbilities.LocationBasedFlavourAbility
+  nameWithType: LocationBasedFlavourAbility
+- uid: MacroTools.PassiveAbilities.LocationBasedFlavourAbility.#ctor(System.Int32)
+  name: LocationBasedFlavourAbility(Int32)
+  href: api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourAbility.html#MacroTools_PassiveAbilities_LocationBasedFlavourAbility__ctor_System_Int32_
+  commentId: M:MacroTools.PassiveAbilities.LocationBasedFlavourAbility.#ctor(System.Int32)
+  fullName: MacroTools.PassiveAbilities.LocationBasedFlavourAbility.LocationBasedFlavourAbility(System.Int32)
+  nameWithType: LocationBasedFlavourAbility.LocationBasedFlavourAbility(Int32)
+- uid: MacroTools.PassiveAbilities.LocationBasedFlavourAbility.#ctor*
+  name: LocationBasedFlavourAbility
+  href: api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourAbility.html#MacroTools_PassiveAbilities_LocationBasedFlavourAbility__ctor_
+  commentId: Overload:MacroTools.PassiveAbilities.LocationBasedFlavourAbility.#ctor
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.LocationBasedFlavourAbility.LocationBasedFlavourAbility
+  nameWithType: LocationBasedFlavourAbility.LocationBasedFlavourAbility
+- uid: MacroTools.PassiveAbilities.LocationBasedFlavourAbility.LocationBasedFlavourSettings
+  name: LocationBasedFlavourSettings
+  href: api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourAbility.html#MacroTools_PassiveAbilities_LocationBasedFlavourAbility_LocationBasedFlavourSettings
+  commentId: P:MacroTools.PassiveAbilities.LocationBasedFlavourAbility.LocationBasedFlavourSettings
+  fullName: MacroTools.PassiveAbilities.LocationBasedFlavourAbility.LocationBasedFlavourSettings
+  nameWithType: LocationBasedFlavourAbility.LocationBasedFlavourSettings
+- uid: MacroTools.PassiveAbilities.LocationBasedFlavourAbility.LocationBasedFlavourSettings*
+  name: LocationBasedFlavourSettings
+  href: api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourAbility.html#MacroTools_PassiveAbilities_LocationBasedFlavourAbility_LocationBasedFlavourSettings_
+  commentId: Overload:MacroTools.PassiveAbilities.LocationBasedFlavourAbility.LocationBasedFlavourSettings
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.LocationBasedFlavourAbility.LocationBasedFlavourSettings
+  nameWithType: LocationBasedFlavourAbility.LocationBasedFlavourSettings
+- uid: MacroTools.PassiveAbilities.LocationBasedFlavourAbility.OnCreated(unit)
+  name: OnCreated(unit)
+  href: api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourAbility.html#MacroTools_PassiveAbilities_LocationBasedFlavourAbility_OnCreated_unit_
+  commentId: M:MacroTools.PassiveAbilities.LocationBasedFlavourAbility.OnCreated(unit)
+  fullName: MacroTools.PassiveAbilities.LocationBasedFlavourAbility.OnCreated(unit)
+  nameWithType: LocationBasedFlavourAbility.OnCreated(unit)
+- uid: MacroTools.PassiveAbilities.LocationBasedFlavourAbility.OnCreated*
+  name: OnCreated
+  href: api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourAbility.html#MacroTools_PassiveAbilities_LocationBasedFlavourAbility_OnCreated_
+  commentId: Overload:MacroTools.PassiveAbilities.LocationBasedFlavourAbility.OnCreated
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.LocationBasedFlavourAbility.OnCreated
+  nameWithType: LocationBasedFlavourAbility.OnCreated
+- uid: MacroTools.PassiveAbilities.LocationBasedFlavourSetting
+  name: LocationBasedFlavourSetting
+  href: api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourSetting.html
+  commentId: T:MacroTools.PassiveAbilities.LocationBasedFlavourSetting
+  fullName: MacroTools.PassiveAbilities.LocationBasedFlavourSetting
+  nameWithType: LocationBasedFlavourSetting
+- uid: MacroTools.PassiveAbilities.LocationBasedFlavourSetting.#ctor(System.String,System.Int32,Point)
+  name: LocationBasedFlavourSetting(String, Int32, Point)
+  href: api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourSetting.html#MacroTools_PassiveAbilities_LocationBasedFlavourSetting__ctor_System_String_System_Int32_Point_
+  commentId: M:MacroTools.PassiveAbilities.LocationBasedFlavourSetting.#ctor(System.String,System.Int32,Point)
+  fullName: MacroTools.PassiveAbilities.LocationBasedFlavourSetting.LocationBasedFlavourSetting(System.String, System.Int32, Point)
+  nameWithType: LocationBasedFlavourSetting.LocationBasedFlavourSetting(String, Int32, Point)
+- uid: MacroTools.PassiveAbilities.LocationBasedFlavourSetting.#ctor*
+  name: LocationBasedFlavourSetting
+  href: api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourSetting.html#MacroTools_PassiveAbilities_LocationBasedFlavourSetting__ctor_
+  commentId: Overload:MacroTools.PassiveAbilities.LocationBasedFlavourSetting.#ctor
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.LocationBasedFlavourSetting.LocationBasedFlavourSetting
+  nameWithType: LocationBasedFlavourSetting.LocationBasedFlavourSetting
+- uid: MacroTools.PassiveAbilities.LocationBasedFlavourSetting.AlternateUnitTypeId
+  name: AlternateUnitTypeId
+  href: api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourSetting.html#MacroTools_PassiveAbilities_LocationBasedFlavourSetting_AlternateUnitTypeId
+  commentId: P:MacroTools.PassiveAbilities.LocationBasedFlavourSetting.AlternateUnitTypeId
+  fullName: MacroTools.PassiveAbilities.LocationBasedFlavourSetting.AlternateUnitTypeId
+  nameWithType: LocationBasedFlavourSetting.AlternateUnitTypeId
+- uid: MacroTools.PassiveAbilities.LocationBasedFlavourSetting.AlternateUnitTypeId*
+  name: AlternateUnitTypeId
+  href: api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourSetting.html#MacroTools_PassiveAbilities_LocationBasedFlavourSetting_AlternateUnitTypeId_
+  commentId: Overload:MacroTools.PassiveAbilities.LocationBasedFlavourSetting.AlternateUnitTypeId
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.LocationBasedFlavourSetting.AlternateUnitTypeId
+  nameWithType: LocationBasedFlavourSetting.AlternateUnitTypeId
+- uid: MacroTools.PassiveAbilities.LocationBasedFlavourSetting.Location
+  name: Location
+  href: api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourSetting.html#MacroTools_PassiveAbilities_LocationBasedFlavourSetting_Location
+  commentId: P:MacroTools.PassiveAbilities.LocationBasedFlavourSetting.Location
+  fullName: MacroTools.PassiveAbilities.LocationBasedFlavourSetting.Location
+  nameWithType: LocationBasedFlavourSetting.Location
+- uid: MacroTools.PassiveAbilities.LocationBasedFlavourSetting.Location*
+  name: Location
+  href: api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourSetting.html#MacroTools_PassiveAbilities_LocationBasedFlavourSetting_Location_
+  commentId: Overload:MacroTools.PassiveAbilities.LocationBasedFlavourSetting.Location
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.LocationBasedFlavourSetting.Location
+  nameWithType: LocationBasedFlavourSetting.Location
+- uid: MacroTools.PassiveAbilities.LocationBasedFlavourSetting.Name
+  name: Name
+  href: api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourSetting.html#MacroTools_PassiveAbilities_LocationBasedFlavourSetting_Name
+  commentId: P:MacroTools.PassiveAbilities.LocationBasedFlavourSetting.Name
+  fullName: MacroTools.PassiveAbilities.LocationBasedFlavourSetting.Name
+  nameWithType: LocationBasedFlavourSetting.Name
+- uid: MacroTools.PassiveAbilities.LocationBasedFlavourSetting.Name*
+  name: Name
+  href: api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourSetting.html#MacroTools_PassiveAbilities_LocationBasedFlavourSetting_Name_
+  commentId: Overload:MacroTools.PassiveAbilities.LocationBasedFlavourSetting.Name
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.LocationBasedFlavourSetting.Name
+  nameWithType: LocationBasedFlavourSetting.Name
 - uid: MacroTools.PassiveAbilities.OilHarvester
   name: OilHarvester
   href: api-macroTools/MacroTools.PassiveAbilities.OilHarvester.html

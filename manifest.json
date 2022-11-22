@@ -1293,7 +1293,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.UnitExtensions.html",
-          "hash": "Wd2GYJl7sGTKPIeQzNfZrA=="
+          "hash": "teqbh4KPGfIZ/bY4xzqv0A=="
         }
       },
       "is_incremental": false,
@@ -1937,6 +1937,30 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourAbility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourAbility.html",
+          "hash": "71Pu8nOzr9Gud3S/ATuCTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourSetting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.PassiveAbilities.LocationBasedFlavourSetting.html",
+          "hash": "aPhWRCFR/XSEnBgS4/oiWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.OilHarvester.yml",
       "output": {
         ".html": {
@@ -2061,7 +2085,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.html",
-          "hash": "AY/0+Pc5q+51aXz7br+A1w=="
+          "hash": "P9sisWGCf6zrSI2v/viFEA=="
         }
       },
       "is_incremental": false,
@@ -2097,7 +2121,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html",
-          "hash": "NR9daIY+cLwmeQhq/zX2mA=="
+          "hash": "/lszBALJo4W9AwCItNPBFQ=="
         }
       },
       "is_incremental": false,
@@ -3573,7 +3597,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "alAineeVXwWfIcZPoDPmYA=="
+          "hash": "dl2MGysx9ZJO5zrxMu/KhQ=="
         }
       },
       "is_incremental": false,
@@ -8025,7 +8049,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.DragonmawSpellSetup.html",
-          "hash": "VcEh/qz7G7zZOq3NKtPvUQ=="
+          "hash": "gIiFc7cdG/3ypAOXYVFx9w=="
         }
       },
       "is_incremental": false,
@@ -8400,7 +8424,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 692,
+          "total_file_count": 694,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
