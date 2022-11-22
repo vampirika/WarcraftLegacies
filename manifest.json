@@ -5705,6 +5705,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestAetheneumTomb.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestAetheneumTomb.html",
+          "hash": "QrEsji2fErN4VHVU7XnoSw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.yml",
       "output": {
         ".html": {
@@ -5733,7 +5745,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.html",
-          "hash": "YjwY+DrjAvXea4o15KwkWw=="
+          "hash": "O6YF+t30fy9PUTQemZQliw=="
         }
       },
       "is_incremental": false,
@@ -7821,7 +7833,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.html",
-          "hash": "FfY/sGbPStfl1VEiL7u1Kw=="
+          "hash": "24QsVr5A7+5kAEjFqbq+1g=="
         }
       },
       "is_incremental": false,
@@ -8265,7 +8277,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "bQ3/7yfk/99Rbbxfn0Z53w=="
+          "hash": "aApLkt6JTC0fFt5sRAEINQ=="
         }
       },
       "is_incremental": false,
@@ -8340,7 +8352,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 687,
+          "total_file_count": 688,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
