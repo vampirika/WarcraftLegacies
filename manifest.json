@@ -5385,7 +5385,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.html",
-          "hash": "kADdOFchZ7+TfFB9p43/Ww=="
+          "hash": "/RCiHfEGxFxde2R/g/pHcA=="
         }
       },
       "is_incremental": false,
@@ -5813,11 +5813,47 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.html",
+          "hash": "ZFGL++F8m5BGSzsRt53m3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestRegroupCastaway.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestRegroupCastaway.html",
+          "hash": "ap3Dc8rdbNkPjpf6K1D5gQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html",
+          "hash": "N/rc6oLaVQeLa0YwLjoFcw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.html",
-          "hash": "O6YF+t30fy9PUTQemZQliw=="
+          "hash": "7Uw+Xai7m7AhPQ2ZEAZHMQ=="
         }
       },
       "is_incremental": false,
@@ -7449,7 +7485,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html",
-          "hash": "S6MoNIJWlvXe9Mf93mO/7Q=="
+          "hash": "G68rn1Wb1oTN9ufBzWXiAQ=="
         }
       },
       "is_incremental": false,
@@ -8349,7 +8385,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "aApLkt6JTC0fFt5sRAEINQ=="
+          "hash": "jE/dwNUESVp88YouVsL2KQ=="
         }
       },
       "is_incremental": false,
@@ -8424,7 +8460,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 694,
+          "total_file_count": 697,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
