@@ -3262,6 +3262,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CommandAddSpell.ParameterCount
   nameWithType: CommandAddSpell.ParameterCount
+- uid: MacroTools.Cheats.CommandAddSpell.Type
+  name: Type
+  href: api-macroTools/MacroTools.Cheats.CommandAddSpell.html#MacroTools_Cheats_CommandAddSpell_Type
+  commentId: P:MacroTools.Cheats.CommandAddSpell.Type
+  fullName: MacroTools.Cheats.CommandAddSpell.Type
+  nameWithType: CommandAddSpell.Type
+- uid: MacroTools.Cheats.CommandAddSpell.Type*
+  name: Type
+  href: api-macroTools/MacroTools.Cheats.CommandAddSpell.html#MacroTools_Cheats_CommandAddSpell_Type_
+  commentId: Overload:MacroTools.Cheats.CommandAddSpell.Type
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CommandAddSpell.Type
+  nameWithType: CommandAddSpell.Type
 - uid: MacroTools.Cheats.CommandDestroy
   name: CommandDestroy
   href: api-macroTools/MacroTools.Cheats.CommandDestroy.html
@@ -3310,6 +3323,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CommandDestroy.ParameterCount
   nameWithType: CommandDestroy.ParameterCount
+- uid: MacroTools.Cheats.CommandDestroy.Type
+  name: Type
+  href: api-macroTools/MacroTools.Cheats.CommandDestroy.html#MacroTools_Cheats_CommandDestroy_Type
+  commentId: P:MacroTools.Cheats.CommandDestroy.Type
+  fullName: MacroTools.Cheats.CommandDestroy.Type
+  nameWithType: CommandDestroy.Type
+- uid: MacroTools.Cheats.CommandDestroy.Type*
+  name: Type
+  href: api-macroTools/MacroTools.Cheats.CommandDestroy.html#MacroTools_Cheats_CommandDestroy_Type_
+  commentId: Overload:MacroTools.Cheats.CommandDestroy.Type
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CommandDestroy.Type
+  nameWithType: CommandDestroy.Type
 - uid: MacroTools.Cheats.CommandSetResearchLevel
   name: CommandSetResearchLevel
   href: api-macroTools/MacroTools.Cheats.CommandSetResearchLevel.html
@@ -3358,6 +3384,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CommandSetResearchLevel.ParameterCount
   nameWithType: CommandSetResearchLevel.ParameterCount
+- uid: MacroTools.Cheats.CommandSetResearchLevel.Type
+  name: Type
+  href: api-macroTools/MacroTools.Cheats.CommandSetResearchLevel.html#MacroTools_Cheats_CommandSetResearchLevel_Type
+  commentId: P:MacroTools.Cheats.CommandSetResearchLevel.Type
+  fullName: MacroTools.Cheats.CommandSetResearchLevel.Type
+  nameWithType: CommandSetResearchLevel.Type
+- uid: MacroTools.Cheats.CommandSetResearchLevel.Type*
+  name: Type
+  href: api-macroTools/MacroTools.Cheats.CommandSetResearchLevel.html#MacroTools_Cheats_CommandSetResearchLevel_Type_
+  commentId: Overload:MacroTools.Cheats.CommandSetResearchLevel.Type
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CommandSetResearchLevel.Type
+  nameWithType: CommandSetResearchLevel.Type
 - uid: MacroTools.Cheats.CommandTeam
   name: CommandTeam
   href: api-macroTools/MacroTools.Cheats.CommandTeam.html
@@ -3406,51 +3445,64 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CommandTeam.ParameterCount
   nameWithType: CommandTeam.ParameterCount
-- uid: MacroTools.Cheats.TestSafety
-  name: TestSafety
-  href: api-macroTools/MacroTools.Cheats.TestSafety.html
-  commentId: T:MacroTools.Cheats.TestSafety
-  fullName: MacroTools.Cheats.TestSafety
-  nameWithType: TestSafety
-- uid: MacroTools.Cheats.TestSafety.AreCheatsActive
-  name: AreCheatsActive
-  href: api-macroTools/MacroTools.Cheats.TestSafety.html#MacroTools_Cheats_TestSafety_AreCheatsActive
-  commentId: P:MacroTools.Cheats.TestSafety.AreCheatsActive
-  fullName: MacroTools.Cheats.TestSafety.AreCheatsActive
-  nameWithType: TestSafety.AreCheatsActive
-- uid: MacroTools.Cheats.TestSafety.AreCheatsActive*
-  name: AreCheatsActive
-  href: api-macroTools/MacroTools.Cheats.TestSafety.html#MacroTools_Cheats_TestSafety_AreCheatsActive_
-  commentId: Overload:MacroTools.Cheats.TestSafety.AreCheatsActive
+- uid: MacroTools.Cheats.CommandTeam.Type
+  name: Type
+  href: api-macroTools/MacroTools.Cheats.CommandTeam.html#MacroTools_Cheats_CommandTeam_Type
+  commentId: P:MacroTools.Cheats.CommandTeam.Type
+  fullName: MacroTools.Cheats.CommandTeam.Type
+  nameWithType: CommandTeam.Type
+- uid: MacroTools.Cheats.CommandTeam.Type*
+  name: Type
+  href: api-macroTools/MacroTools.Cheats.CommandTeam.html#MacroTools_Cheats_CommandTeam_Type_
+  commentId: Overload:MacroTools.Cheats.CommandTeam.Type
   isSpec: "True"
-  fullName: MacroTools.Cheats.TestSafety.AreCheatsActive
-  nameWithType: TestSafety.AreCheatsActive
-- uid: MacroTools.Cheats.TestSafety.CheatCondition
+  fullName: MacroTools.Cheats.CommandTeam.Type
+  nameWithType: CommandTeam.Type
+- uid: MacroTools.Cheats.TestMode
+  name: TestMode
+  href: api-macroTools/MacroTools.Cheats.TestMode.html
+  commentId: T:MacroTools.Cheats.TestMode
+  fullName: MacroTools.Cheats.TestMode
+  nameWithType: TestMode
+- uid: MacroTools.Cheats.TestMode.AreCheatsActive
+  name: AreCheatsActive
+  href: api-macroTools/MacroTools.Cheats.TestMode.html#MacroTools_Cheats_TestMode_AreCheatsActive
+  commentId: P:MacroTools.Cheats.TestMode.AreCheatsActive
+  fullName: MacroTools.Cheats.TestMode.AreCheatsActive
+  nameWithType: TestMode.AreCheatsActive
+- uid: MacroTools.Cheats.TestMode.AreCheatsActive*
+  name: AreCheatsActive
+  href: api-macroTools/MacroTools.Cheats.TestMode.html#MacroTools_Cheats_TestMode_AreCheatsActive_
+  commentId: Overload:MacroTools.Cheats.TestMode.AreCheatsActive
+  isSpec: "True"
+  fullName: MacroTools.Cheats.TestMode.AreCheatsActive
+  nameWithType: TestMode.AreCheatsActive
+- uid: MacroTools.Cheats.TestMode.CheatCondition
   name: CheatCondition()
-  href: api-macroTools/MacroTools.Cheats.TestSafety.html#MacroTools_Cheats_TestSafety_CheatCondition
-  commentId: M:MacroTools.Cheats.TestSafety.CheatCondition
-  fullName: MacroTools.Cheats.TestSafety.CheatCondition()
-  nameWithType: TestSafety.CheatCondition()
-- uid: MacroTools.Cheats.TestSafety.CheatCondition*
+  href: api-macroTools/MacroTools.Cheats.TestMode.html#MacroTools_Cheats_TestMode_CheatCondition
+  commentId: M:MacroTools.Cheats.TestMode.CheatCondition
+  fullName: MacroTools.Cheats.TestMode.CheatCondition()
+  nameWithType: TestMode.CheatCondition()
+- uid: MacroTools.Cheats.TestMode.CheatCondition*
   name: CheatCondition
-  href: api-macroTools/MacroTools.Cheats.TestSafety.html#MacroTools_Cheats_TestSafety_CheatCondition_
-  commentId: Overload:MacroTools.Cheats.TestSafety.CheatCondition
+  href: api-macroTools/MacroTools.Cheats.TestMode.html#MacroTools_Cheats_TestMode_CheatCondition_
+  commentId: Overload:MacroTools.Cheats.TestMode.CheatCondition
   isSpec: "True"
-  fullName: MacroTools.Cheats.TestSafety.CheatCondition
-  nameWithType: TestSafety.CheatCondition
-- uid: MacroTools.Cheats.TestSafety.Setup
+  fullName: MacroTools.Cheats.TestMode.CheatCondition
+  nameWithType: TestMode.CheatCondition
+- uid: MacroTools.Cheats.TestMode.Setup
   name: Setup()
-  href: api-macroTools/MacroTools.Cheats.TestSafety.html#MacroTools_Cheats_TestSafety_Setup
-  commentId: M:MacroTools.Cheats.TestSafety.Setup
-  fullName: MacroTools.Cheats.TestSafety.Setup()
-  nameWithType: TestSafety.Setup()
-- uid: MacroTools.Cheats.TestSafety.Setup*
+  href: api-macroTools/MacroTools.Cheats.TestMode.html#MacroTools_Cheats_TestMode_Setup
+  commentId: M:MacroTools.Cheats.TestMode.Setup
+  fullName: MacroTools.Cheats.TestMode.Setup()
+  nameWithType: TestMode.Setup()
+- uid: MacroTools.Cheats.TestMode.Setup*
   name: Setup
-  href: api-macroTools/MacroTools.Cheats.TestSafety.html#MacroTools_Cheats_TestSafety_Setup_
-  commentId: Overload:MacroTools.Cheats.TestSafety.Setup
+  href: api-macroTools/MacroTools.Cheats.TestMode.html#MacroTools_Cheats_TestMode_Setup_
+  commentId: Overload:MacroTools.Cheats.TestMode.Setup
   isSpec: "True"
-  fullName: MacroTools.Cheats.TestSafety.Setup
-  nameWithType: TestSafety.Setup
+  fullName: MacroTools.Cheats.TestMode.Setup
+  nameWithType: TestMode.Setup
 - uid: MacroTools.Commands
   name: MacroTools.Commands
   href: api-macroTools/MacroTools.Commands.html
@@ -3505,6 +3557,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Commands.Cam.ParameterCount
   nameWithType: Cam.ParameterCount
+- uid: MacroTools.Commands.Cam.Type
+  name: Type
+  href: api-macroTools/MacroTools.Commands.Cam.html#MacroTools_Commands_Cam_Type
+  commentId: P:MacroTools.Commands.Cam.Type
+  fullName: MacroTools.Commands.Cam.Type
+  nameWithType: Cam.Type
+- uid: MacroTools.Commands.Cam.Type*
+  name: Type
+  href: api-macroTools/MacroTools.Commands.Cam.html#MacroTools_Commands_Cam_Type_
+  commentId: Overload:MacroTools.Commands.Cam.Type
+  isSpec: "True"
+  fullName: MacroTools.Commands.Cam.Type
+  nameWithType: Cam.Type
 - uid: MacroTools.Commands.Clear
   name: Clear
   href: api-macroTools/MacroTools.Commands.Clear.html
@@ -3553,6 +3618,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Commands.Clear.ParameterCount
   nameWithType: Clear.ParameterCount
+- uid: MacroTools.Commands.Clear.Type
+  name: Type
+  href: api-macroTools/MacroTools.Commands.Clear.html#MacroTools_Commands_Clear_Type
+  commentId: P:MacroTools.Commands.Clear.Type
+  fullName: MacroTools.Commands.Clear.Type
+  nameWithType: Clear.Type
+- uid: MacroTools.Commands.Clear.Type*
+  name: Type
+  href: api-macroTools/MacroTools.Commands.Clear.html#MacroTools_Commands_Clear_Type_
+  commentId: Overload:MacroTools.Commands.Clear.Type
+  isSpec: "True"
+  fullName: MacroTools.Commands.Clear.Type
+  nameWithType: Clear.Type
 - uid: MacroTools.Commands.Limited
   name: Limited
   href: api-macroTools/MacroTools.Commands.Limited.html
@@ -3601,6 +3679,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Commands.Limited.ParameterCount
   nameWithType: Limited.ParameterCount
+- uid: MacroTools.Commands.Limited.Type
+  name: Type
+  href: api-macroTools/MacroTools.Commands.Limited.html#MacroTools_Commands_Limited_Type
+  commentId: P:MacroTools.Commands.Limited.Type
+  fullName: MacroTools.Commands.Limited.Type
+  nameWithType: Limited.Type
+- uid: MacroTools.Commands.Limited.Type*
+  name: Type
+  href: api-macroTools/MacroTools.Commands.Limited.html#MacroTools_Commands_Limited_Type_
+  commentId: Overload:MacroTools.Commands.Limited.Type
+  isSpec: "True"
+  fullName: MacroTools.Commands.Limited.Type
+  nameWithType: Limited.Type
 - uid: MacroTools.CommandSystem
   name: MacroTools.CommandSystem
   href: api-macroTools/MacroTools.CommandSystem.html
@@ -3655,6 +3746,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.CommandSystem.Command.ParameterCount
   nameWithType: Command.ParameterCount
+- uid: MacroTools.CommandSystem.Command.Type
+  name: Type
+  href: api-macroTools/MacroTools.CommandSystem.Command.html#MacroTools_CommandSystem_Command_Type
+  commentId: P:MacroTools.CommandSystem.Command.Type
+  fullName: MacroTools.CommandSystem.Command.Type
+  nameWithType: Command.Type
+- uid: MacroTools.CommandSystem.Command.Type*
+  name: Type
+  href: api-macroTools/MacroTools.CommandSystem.Command.html#MacroTools_CommandSystem_Command_Type_
+  commentId: Overload:MacroTools.CommandSystem.Command.Type
+  isSpec: "True"
+  fullName: MacroTools.CommandSystem.Command.Type
+  nameWithType: Command.Type
 - uid: MacroTools.CommandSystem.CommandManager
   name: CommandManager
   href: api-macroTools/MacroTools.CommandSystem.CommandManager.html
@@ -3674,6 +3778,24 @@ references:
   isSpec: "True"
   fullName: MacroTools.CommandSystem.CommandManager.Register
   nameWithType: CommandManager.Register
+- uid: MacroTools.CommandSystem.CommandType
+  name: CommandType
+  href: api-macroTools/MacroTools.CommandSystem.CommandType.html
+  commentId: T:MacroTools.CommandSystem.CommandType
+  fullName: MacroTools.CommandSystem.CommandType
+  nameWithType: CommandType
+- uid: MacroTools.CommandSystem.CommandType.Cheat
+  name: Cheat
+  href: api-macroTools/MacroTools.CommandSystem.CommandType.html#MacroTools_CommandSystem_CommandType_Cheat
+  commentId: F:MacroTools.CommandSystem.CommandType.Cheat
+  fullName: MacroTools.CommandSystem.CommandType.Cheat
+  nameWithType: CommandType.Cheat
+- uid: MacroTools.CommandSystem.CommandType.Normal
+  name: Normal
+  href: api-macroTools/MacroTools.CommandSystem.CommandType.html#MacroTools_CommandSystem_CommandType_Normal
+  commentId: F:MacroTools.CommandSystem.CommandType.Normal
+  fullName: MacroTools.CommandSystem.CommandType.Normal
+  nameWithType: CommandType.Normal
 - uid: MacroTools.ControlPointSystem
   name: MacroTools.ControlPointSystem
   href: api-macroTools/MacroTools.ControlPointSystem.html
@@ -4411,6 +4533,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.TriggerExtensions.RegisterLeaveRegion
   nameWithType: TriggerExtensions.RegisterLeaveRegion
+- uid: MacroTools.Extensions.TriggerExtensions.RegisterSharedChatEvent(trigger,System.String,System.Boolean)
+  name: RegisterSharedChatEvent(trigger, String, Boolean)
+  href: api-macroTools/MacroTools.Extensions.TriggerExtensions.html#MacroTools_Extensions_TriggerExtensions_RegisterSharedChatEvent_trigger_System_String_System_Boolean_
+  commentId: M:MacroTools.Extensions.TriggerExtensions.RegisterSharedChatEvent(trigger,System.String,System.Boolean)
+  fullName: MacroTools.Extensions.TriggerExtensions.RegisterSharedChatEvent(trigger, System.String, System.Boolean)
+  nameWithType: TriggerExtensions.RegisterSharedChatEvent(trigger, String, Boolean)
+- uid: MacroTools.Extensions.TriggerExtensions.RegisterSharedChatEvent*
+  name: RegisterSharedChatEvent
+  href: api-macroTools/MacroTools.Extensions.TriggerExtensions.html#MacroTools_Extensions_TriggerExtensions_RegisterSharedChatEvent_
+  commentId: Overload:MacroTools.Extensions.TriggerExtensions.RegisterSharedChatEvent
+  isSpec: "True"
+  fullName: MacroTools.Extensions.TriggerExtensions.RegisterSharedChatEvent
+  nameWithType: TriggerExtensions.RegisterSharedChatEvent
 - uid: MacroTools.Extensions.TriggerExtensions.RegisterSharedKeyEvent(trigger,oskeytype,System.Int32,System.Boolean)
   name: RegisterSharedKeyEvent(trigger, oskeytype, Int32, Boolean)
   href: api-macroTools/MacroTools.Extensions.TriggerExtensions.html#MacroTools_Extensions_TriggerExtensions_RegisterSharedKeyEvent_trigger_oskeytype_System_Int32_System_Boolean_
@@ -16030,19 +16165,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Wrappers.TriggerWrapper.RegisterFrameEvent
   nameWithType: TriggerWrapper.RegisterFrameEvent
-- uid: MacroTools.Wrappers.TriggerWrapper.RegisterPlayerChatEvent(player,System.String,System.Boolean)
-  name: RegisterPlayerChatEvent(player, String, Boolean)
-  href: api-macroTools/MacroTools.Wrappers.TriggerWrapper.html#MacroTools_Wrappers_TriggerWrapper_RegisterPlayerChatEvent_player_System_String_System_Boolean_
-  commentId: M:MacroTools.Wrappers.TriggerWrapper.RegisterPlayerChatEvent(player,System.String,System.Boolean)
-  fullName: MacroTools.Wrappers.TriggerWrapper.RegisterPlayerChatEvent(player, System.String, System.Boolean)
-  nameWithType: TriggerWrapper.RegisterPlayerChatEvent(player, String, Boolean)
-- uid: MacroTools.Wrappers.TriggerWrapper.RegisterPlayerChatEvent*
-  name: RegisterPlayerChatEvent
-  href: api-macroTools/MacroTools.Wrappers.TriggerWrapper.html#MacroTools_Wrappers_TriggerWrapper_RegisterPlayerChatEvent_
-  commentId: Overload:MacroTools.Wrappers.TriggerWrapper.RegisterPlayerChatEvent
-  isSpec: "True"
-  fullName: MacroTools.Wrappers.TriggerWrapper.RegisterPlayerChatEvent
-  nameWithType: TriggerWrapper.RegisterPlayerChatEvent
 - uid: MacroTools.Wrappers.TriggerWrapper.RegisterUnitEvent(unit,unitevent)
   name: RegisterUnitEvent(unit, unitevent)
   href: api-macroTools/MacroTools.Wrappers.TriggerWrapper.html#MacroTools_Wrappers_TriggerWrapper_RegisterUnitEvent_unit_unitevent_

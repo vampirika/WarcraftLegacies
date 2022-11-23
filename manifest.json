@@ -921,7 +921,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CommandAddSpell.html",
-          "hash": "W2dx+0bwNg07m7EIJpkANg=="
+          "hash": "dkdOqtXpcxALISnpW/l72g=="
         }
       },
       "is_incremental": false,
@@ -933,7 +933,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CommandDestroy.html",
-          "hash": "15arFWZU8BguYBCY/EfwYw=="
+          "hash": "J8IKUGRnO3XcyJaHamUh0A=="
         }
       },
       "is_incremental": false,
@@ -945,7 +945,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CommandSetResearchLevel.html",
-          "hash": "AqoNb8k0+VVnw4zpMUOR+A=="
+          "hash": "PrN2gl1dcMC3QX++h3XRyA=="
         }
       },
       "is_incremental": false,
@@ -957,7 +957,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CommandTeam.html",
-          "hash": "R2glIzx4AjtNYURuy1Aq+A=="
+          "hash": "5H2X2Y9yP6erx5pLWuDrTg=="
         }
       },
       "is_incremental": false,
@@ -965,11 +965,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Cheats.TestSafety.yml",
+      "source_relative_path": "api-macroTools/MacroTools.Cheats.TestMode.yml",
       "output": {
         ".html": {
-          "relative_path": "api-macroTools/MacroTools.Cheats.TestSafety.html",
-          "hash": "i/jaUGfl50+ZQxAf0c0Rlw=="
+          "relative_path": "api-macroTools/MacroTools.Cheats.TestMode.html",
+          "hash": "k7Mev0Bp22ogkzHdFAIupQ=="
         }
       },
       "is_incremental": false,
@@ -981,7 +981,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.html",
-          "hash": "J+AqzM518MU4RtBmjmzESQ=="
+          "hash": "W1tBetXxIJjMvbgnjMs45w=="
         }
       },
       "is_incremental": false,
@@ -993,7 +993,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.CommandSystem.Command.html",
-          "hash": "M0FhXy6JNP1ABqa6LQJRKQ=="
+          "hash": "pIhBa7x0bEW8R0Q6vQzNIA=="
         }
       },
       "is_incremental": false,
@@ -1005,7 +1005,19 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.CommandSystem.CommandManager.html",
-          "hash": "NloLAa/7TPXlDt8aRqmEdA=="
+          "hash": "xJplvFbqlsEs/JI20ElqJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.CommandSystem.CommandType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.CommandSystem.CommandType.html",
+          "hash": "PtIYoa/pCJ6R+ykNWCt0dQ=="
         }
       },
       "is_incremental": false,
@@ -1017,7 +1029,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.CommandSystem.html",
-          "hash": "hgqzfzypFrPiNduZmBNVdQ=="
+          "hash": "Ef1AYDTOJn8LCMslErsZxg=="
         }
       },
       "is_incremental": false,
@@ -1029,7 +1041,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Commands.Cam.html",
-          "hash": "jAeROCSKqssgDqE62vLmPg=="
+          "hash": "eKLvJKRKYODF/06MYiDuHw=="
         }
       },
       "is_incremental": false,
@@ -1041,7 +1053,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Commands.Clear.html",
-          "hash": "MilYWfURNaLsPdNXJmpoHA=="
+          "hash": "v49z5O30Xpc40AkimO0jzg=="
         }
       },
       "is_incremental": false,
@@ -1053,7 +1065,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Commands.Limited.html",
-          "hash": "ZdDzuS39rSSN0aerIFU6wQ=="
+          "hash": "ZQxRGqXKAQ09dXACyujmyA=="
         }
       },
       "is_incremental": false,
@@ -1269,7 +1281,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.TriggerExtensions.html",
-          "hash": "vEoptN0XMnVes+aXYupEyQ=="
+          "hash": "5y8RGeDF+FEw7UdBm0w7Dg=="
         }
       },
       "is_incremental": false,
@@ -3561,7 +3573,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Wrappers.TriggerWrapper.html",
-          "hash": "bPYvUCTocM0CIT9U24UTbA=="
+          "hash": "KcNBtsJrOs8e+vUzCPsQAQ=="
         }
       },
       "is_incremental": false,
@@ -3597,7 +3609,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "dl2MGysx9ZJO5zrxMu/KhQ=="
+          "hash": "svTHFxytCSCLUwntGyZTuw=="
         }
       },
       "is_incremental": false,
@@ -3669,7 +3681,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Cheats.CheatSkipCinematic.html",
-          "hash": "fN8OV9zhPIQPPxhDi4HgCg=="
+          "hash": "3PnfJNAe72qL/QKzVsloNQ=="
         }
       },
       "is_incremental": false,
@@ -8460,7 +8472,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 697,
+          "total_file_count": 698,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
