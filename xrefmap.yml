@@ -16500,12 +16500,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Buffs.CorruptBuildingBuff
   fullName: WarcraftLegacies.Source.Buffs.CorruptBuildingBuff
   nameWithType: CorruptBuildingBuff
-- uid: WarcraftLegacies.Source.Buffs.CorruptBuildingBuff.#ctor(unit,unit,System.Int32,System.Int32)
-  name: CorruptBuildingBuff(unit, unit, Int32, Int32)
-  href: api-source/WarcraftLegacies.Source.Buffs.CorruptBuildingBuff.html#WarcraftLegacies_Source_Buffs_CorruptBuildingBuff__ctor_unit_unit_System_Int32_System_Int32_
-  commentId: M:WarcraftLegacies.Source.Buffs.CorruptBuildingBuff.#ctor(unit,unit,System.Int32,System.Int32)
-  fullName: WarcraftLegacies.Source.Buffs.CorruptBuildingBuff.CorruptBuildingBuff(unit, unit, System.Int32, System.Int32)
-  nameWithType: CorruptBuildingBuff.CorruptBuildingBuff(unit, unit, Int32, Int32)
+- uid: WarcraftLegacies.Source.Buffs.CorruptBuildingBuff.#ctor(unit,unit,System.Int32,System.Int32,System.Int32)
+  name: CorruptBuildingBuff(unit, unit, Int32, Int32, Int32)
+  href: api-source/WarcraftLegacies.Source.Buffs.CorruptBuildingBuff.html#WarcraftLegacies_Source_Buffs_CorruptBuildingBuff__ctor_unit_unit_System_Int32_System_Int32_System_Int32_
+  commentId: M:WarcraftLegacies.Source.Buffs.CorruptBuildingBuff.#ctor(unit,unit,System.Int32,System.Int32,System.Int32)
+  fullName: WarcraftLegacies.Source.Buffs.CorruptBuildingBuff.CorruptBuildingBuff(unit, unit, System.Int32, System.Int32, System.Int32)
+  nameWithType: CorruptBuildingBuff.CorruptBuildingBuff(unit, unit, Int32, Int32, Int32)
 - uid: WarcraftLegacies.Source.Buffs.CorruptBuildingBuff.#ctor*
   name: CorruptBuildingBuff
   href: api-source/WarcraftLegacies.Source.Buffs.CorruptBuildingBuff.html#WarcraftLegacies_Source_Buffs_CorruptBuildingBuff__ctor_
@@ -35111,12 +35111,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Spells.CorruptBuildingSpell
   fullName: WarcraftLegacies.Source.Spells.CorruptBuildingSpell
   nameWithType: CorruptBuildingSpell
-- uid: WarcraftLegacies.Source.Spells.CorruptBuildingSpell.#ctor(System.Int32,System.Int32,System.Int32)
-  name: CorruptBuildingSpell(Int32, Int32, Int32)
-  href: api-source/WarcraftLegacies.Source.Spells.CorruptBuildingSpell.html#WarcraftLegacies_Source_Spells_CorruptBuildingSpell__ctor_System_Int32_System_Int32_System_Int32_
-  commentId: M:WarcraftLegacies.Source.Spells.CorruptBuildingSpell.#ctor(System.Int32,System.Int32,System.Int32)
-  fullName: WarcraftLegacies.Source.Spells.CorruptBuildingSpell.CorruptBuildingSpell(System.Int32, System.Int32, System.Int32)
-  nameWithType: CorruptBuildingSpell.CorruptBuildingSpell(Int32, Int32, Int32)
+- uid: WarcraftLegacies.Source.Spells.CorruptBuildingSpell.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)
+  name: CorruptBuildingSpell(Int32, Int32, Int32, Int32)
+  href: api-source/WarcraftLegacies.Source.Spells.CorruptBuildingSpell.html#WarcraftLegacies_Source_Spells_CorruptBuildingSpell__ctor_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:WarcraftLegacies.Source.Spells.CorruptBuildingSpell.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: WarcraftLegacies.Source.Spells.CorruptBuildingSpell.CorruptBuildingSpell(System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: CorruptBuildingSpell.CorruptBuildingSpell(Int32, Int32, Int32, Int32)
 - uid: WarcraftLegacies.Source.Spells.CorruptBuildingSpell.#ctor*
   name: CorruptBuildingSpell
   href: api-source/WarcraftLegacies.Source.Spells.CorruptBuildingSpell.html#WarcraftLegacies_Source_Spells_CorruptBuildingSpell__ctor_
