@@ -4411,6 +4411,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.TriggerExtensions.RegisterLeaveRegion
   nameWithType: TriggerExtensions.RegisterLeaveRegion
+- uid: MacroTools.Extensions.TriggerExtensions.RegisterSharedKeyEvent(trigger,oskeytype,System.Int32,System.Boolean)
+  name: RegisterSharedKeyEvent(trigger, oskeytype, Int32, Boolean)
+  href: api-macroTools/MacroTools.Extensions.TriggerExtensions.html#MacroTools_Extensions_TriggerExtensions_RegisterSharedKeyEvent_trigger_oskeytype_System_Int32_System_Boolean_
+  commentId: M:MacroTools.Extensions.TriggerExtensions.RegisterSharedKeyEvent(trigger,oskeytype,System.Int32,System.Boolean)
+  fullName: MacroTools.Extensions.TriggerExtensions.RegisterSharedKeyEvent(trigger, oskeytype, System.Int32, System.Boolean)
+  nameWithType: TriggerExtensions.RegisterSharedKeyEvent(trigger, oskeytype, Int32, Boolean)
+- uid: MacroTools.Extensions.TriggerExtensions.RegisterSharedKeyEvent*
+  name: RegisterSharedKeyEvent
+  href: api-macroTools/MacroTools.Extensions.TriggerExtensions.html#MacroTools_Extensions_TriggerExtensions_RegisterSharedKeyEvent_
+  commentId: Overload:MacroTools.Extensions.TriggerExtensions.RegisterSharedKeyEvent
+  isSpec: "True"
+  fullName: MacroTools.Extensions.TriggerExtensions.RegisterSharedKeyEvent
+  nameWithType: TriggerExtensions.RegisterSharedKeyEvent
 - uid: MacroTools.Extensions.TriggerExtensions.RegisterUnitEvent(trigger,unit,unitevent)
   name: RegisterUnitEvent(trigger, unit, unitevent)
   href: api-macroTools/MacroTools.Extensions.TriggerExtensions.html#MacroTools_Extensions_TriggerExtensions_RegisterUnitEvent_trigger_unit_unitevent_
