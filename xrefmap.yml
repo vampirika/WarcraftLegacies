@@ -6148,6 +6148,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Legend.PlayerColor
   nameWithType: Legend.PlayerColor
+- uid: MacroTools.FactionSystem.Legend.ProtectorCount
+  name: ProtectorCount
+  href: api-macroTools/MacroTools.FactionSystem.Legend.html#MacroTools_FactionSystem_Legend_ProtectorCount
+  commentId: P:MacroTools.FactionSystem.Legend.ProtectorCount
+  fullName: MacroTools.FactionSystem.Legend.ProtectorCount
+  nameWithType: Legend.ProtectorCount
+- uid: MacroTools.FactionSystem.Legend.ProtectorCount*
+  name: ProtectorCount
+  href: api-macroTools/MacroTools.FactionSystem.Legend.html#MacroTools_FactionSystem_Legend_ProtectorCount_
+  commentId: Overload:MacroTools.FactionSystem.Legend.ProtectorCount
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Legend.ProtectorCount
+  nameWithType: Legend.ProtectorCount
 - uid: MacroTools.FactionSystem.Legend.Register(MacroTools.FactionSystem.Legend)
   name: Register(Legend)
   href: api-macroTools/MacroTools.FactionSystem.Legend.html#MacroTools_FactionSystem_Legend_Register_MacroTools_FactionSystem_Legend_
