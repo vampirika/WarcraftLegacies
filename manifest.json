@@ -2313,7 +2313,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.QuestSystem.Objective.html",
-          "hash": "3NdMvYx06pxpqBWpiIzq/Q=="
+          "hash": "C/fGwYVWc8md4Lu2wZ1VLA=="
         }
       },
       "is_incremental": false,
@@ -2753,6 +2753,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.html",
+          "hash": "Wpe8gKzYbn/y1ozVscXS8Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveUpgrade.yml",
       "output": {
         ".html": {
@@ -2781,7 +2793,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.html",
-          "hash": "pImLFp6sp88Sfy9oCqKavQ=="
+          "hash": "OMqHf6a96voOZZMFrFpEeg=="
         }
       },
       "is_incremental": false,
@@ -3609,7 +3621,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "svTHFxytCSCLUwntGyZTuw=="
+          "hash": "7+ejKFfdKeW9GJDOaJhSHw=="
         }
       },
       "is_incremental": false,
@@ -8472,7 +8484,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 698,
+          "total_file_count": 699,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

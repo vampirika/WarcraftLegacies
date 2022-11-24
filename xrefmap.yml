@@ -11966,6 +11966,51 @@ references:
   isSpec: "True"
   fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveTrain.ObjectiveTrain
   nameWithType: ObjectiveTrain.ObjectiveTrain
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead
+  name: ObjectiveUnitIsDead
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.html
+  commentId: T:MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead
+  nameWithType: ObjectiveUnitIsDead
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.#ctor(unit)
+  name: ObjectiveUnitIsDead(unit)
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveUnitIsDead__ctor_unit_
+  commentId: M:MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.#ctor(unit)
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.ObjectiveUnitIsDead(unit)
+  nameWithType: ObjectiveUnitIsDead.ObjectiveUnitIsDead(unit)
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.#ctor*
+  name: ObjectiveUnitIsDead
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveUnitIsDead__ctor_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.#ctor
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.ObjectiveUnitIsDead
+  nameWithType: ObjectiveUnitIsDead.ObjectiveUnitIsDead
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.Position
+  name: Position
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveUnitIsDead_Position
+  commentId: P:MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.Position
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.Position
+  nameWithType: ObjectiveUnitIsDead.Position
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.Position*
+  name: Position
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveUnitIsDead_Position_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.Position
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.Position
+  nameWithType: ObjectiveUnitIsDead.Position
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.Target
+  name: Target
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveUnitIsDead_Target
+  commentId: P:MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.Target
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.Target
+  nameWithType: ObjectiveUnitIsDead.Target
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.Target*
+  name: Target
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveUnitIsDead_Target_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.Target
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitIsDead.Target
+  nameWithType: ObjectiveUnitIsDead.Target
 - uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveUpgrade
   name: ObjectiveUpgrade
   href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveUpgrade.html
