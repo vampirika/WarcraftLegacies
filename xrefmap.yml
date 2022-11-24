@@ -21037,77 +21037,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestFreeNerzhul.RewardDescription
   nameWithType: QuestFreeNerzhul.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe
-  name: QuestGazlowe
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.html
-  commentId: T:WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe
-  nameWithType: QuestGazlowe
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.#ctor
-  name: QuestGazlowe()
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestGazlowe__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.QuestGazlowe()
-  nameWithType: QuestGazlowe.QuestGazlowe()
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.#ctor*
-  name: QuestGazlowe
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestGazlowe__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.QuestGazlowe
-  nameWithType: QuestGazlowe.QuestGazlowe
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.CompletionPopup
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestGazlowe_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.CompletionPopup
-  nameWithType: QuestGazlowe.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.CompletionPopup*
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestGazlowe_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.CompletionPopup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.CompletionPopup
-  nameWithType: QuestGazlowe.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.OnAdd(MacroTools.FactionSystem.Faction)
-  name: OnAdd(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestGazlowe_OnAdd_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.OnAdd(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.OnAdd(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestGazlowe.OnAdd(Faction)
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.OnAdd*
-  name: OnAdd
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestGazlowe_OnAdd_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.OnAdd
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.OnAdd
-  nameWithType: QuestGazlowe.OnAdd
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestGazlowe_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestGazlowe.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestGazlowe_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.OnComplete
-  nameWithType: QuestGazlowe.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestGazlowe_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.RewardDescription
-  nameWithType: QuestGazlowe.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestGazlowe_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.RewardDescription
-  nameWithType: QuestGazlowe.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar
   name: QuestRexxar
   href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.html
@@ -33340,6 +33269,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Morghor
   nameWithType: LegendNeutral.Morghor
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.MurlocSorc
+  name: MurlocSorc
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_MurlocSorc
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.MurlocSorc
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.MurlocSorc
+  nameWithType: LegendNeutral.MurlocSorc
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.MurlocSorc*
+  name: MurlocSorc
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_MurlocSorc_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.MurlocSorc
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.MurlocSorc
+  nameWithType: LegendNeutral.MurlocSorc
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Occulus
   name: Occulus
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_Occulus

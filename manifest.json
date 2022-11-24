@@ -5093,18 +5093,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestGazlowe.html",
-          "hash": "pyjHqwnQ0GY4vTioXjsyRg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.yml",
       "output": {
         ".html": {
@@ -5157,7 +5145,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.html",
-          "hash": "/lEokI97erflcpjtY9+cdQ=="
+          "hash": "McHPbvY+qZ67Nn9fRkSrCg=="
         }
       },
       "is_incremental": false,
@@ -5421,7 +5409,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestThelsamar.html",
-          "hash": "+2LN2wezSgQIGp6/8oLZ3Q=="
+          "hash": "/xHdJHfN1U26Pt09UWbq4g=="
         }
       },
       "is_incremental": false,
@@ -5805,7 +5793,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestAetheneumTomb.html",
-          "hash": "QrEsji2fErN4VHVU7XnoSw=="
+          "hash": "fXwny73HQiqM2y9zgaoUug=="
         }
       },
       "is_incremental": false,
@@ -7665,7 +7653,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html",
-          "hash": "9gHIAJuinthNjZXtJtAWHA=="
+          "hash": "2OsnMuCqTouXhuLforPhaA=="
         }
       },
       "is_incremental": false,
@@ -8421,7 +8409,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "D3QJjG9wuAzLj+ngLQyLKQ=="
+          "hash": "OnHgi5PfpR/uTVOEIe+qYg=="
         }
       },
       "is_incremental": false,
@@ -8496,7 +8484,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 700,
+          "total_file_count": 699,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
