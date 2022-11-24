@@ -10966,12 +10966,12 @@ references:
   commentId: T:MacroTools.QuestSystem.UtilityStructs.Channel
   fullName: MacroTools.QuestSystem.UtilityStructs.Channel
   nameWithType: Channel
-- uid: MacroTools.QuestSystem.UtilityStructs.Channel.#ctor(unit,System.Single,System.Single,Point,System.Boolean,System.String)
-  name: Channel(unit, Single, Single, Point, Boolean, String)
-  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.Channel.html#MacroTools_QuestSystem_UtilityStructs_Channel__ctor_unit_System_Single_System_Single_Point_System_Boolean_System_String_
-  commentId: M:MacroTools.QuestSystem.UtilityStructs.Channel.#ctor(unit,System.Single,System.Single,Point,System.Boolean,System.String)
-  fullName: MacroTools.QuestSystem.UtilityStructs.Channel.Channel(unit, System.Single, System.Single, Point, System.Boolean, System.String)
-  nameWithType: Channel.Channel(unit, Single, Single, Point, Boolean, String)
+- uid: MacroTools.QuestSystem.UtilityStructs.Channel.#ctor(unit,System.Int32,System.Single,Point,System.Boolean,System.String)
+  name: Channel(unit, Int32, Single, Point, Boolean, String)
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.Channel.html#MacroTools_QuestSystem_UtilityStructs_Channel__ctor_unit_System_Int32_System_Single_Point_System_Boolean_System_String_
+  commentId: M:MacroTools.QuestSystem.UtilityStructs.Channel.#ctor(unit,System.Int32,System.Single,Point,System.Boolean,System.String)
+  fullName: MacroTools.QuestSystem.UtilityStructs.Channel.Channel(unit, System.Int32, System.Single, Point, System.Boolean, System.String)
+  nameWithType: Channel.Channel(unit, Int32, Single, Point, Boolean, String)
 - uid: MacroTools.QuestSystem.UtilityStructs.Channel.#ctor*
   name: Channel
   href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.Channel.html#MacroTools_QuestSystem_UtilityStructs_Channel__ctor_
@@ -11289,12 +11289,12 @@ references:
   commentId: T:MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect
   fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect
   nameWithType: ObjectiveChannelRect
-- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.#ctor(Rectangle,System.String,MacroTools.FactionSystem.Legend,System.Single,System.Single)
-  name: ObjectiveChannelRect(Rectangle, String, Legend, Single, Single)
-  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveChannelRect__ctor_Rectangle_System_String_MacroTools_FactionSystem_Legend_System_Single_System_Single_
-  commentId: M:MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.#ctor(Rectangle,System.String,MacroTools.FactionSystem.Legend,System.Single,System.Single)
-  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.ObjectiveChannelRect(Rectangle, System.String, MacroTools.FactionSystem.Legend, System.Single, System.Single)
-  nameWithType: ObjectiveChannelRect.ObjectiveChannelRect(Rectangle, String, Legend, Single, Single)
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.#ctor(Rectangle,System.String,MacroTools.FactionSystem.Legend,System.Int32,System.Single)
+  name: ObjectiveChannelRect(Rectangle, String, Legend, Int32, Single)
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveChannelRect__ctor_Rectangle_System_String_MacroTools_FactionSystem_Legend_System_Int32_System_Single_
+  commentId: M:MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.#ctor(Rectangle,System.String,MacroTools.FactionSystem.Legend,System.Int32,System.Single)
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.ObjectiveChannelRect(Rectangle, System.String, MacroTools.FactionSystem.Legend, System.Int32, System.Single)
+  nameWithType: ObjectiveChannelRect.ObjectiveChannelRect(Rectangle, String, Legend, Int32, Single)
 - uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.#ctor*
   name: ObjectiveChannelRect
   href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveChannelRect.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveChannelRect__ctor_
