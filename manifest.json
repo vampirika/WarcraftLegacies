@@ -5621,18 +5621,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.html",
-          "hash": "YMTob+M4I5OcrV5XRZJo/g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestSummonLegion.yml",
       "output": {
         ".html": {
@@ -5649,7 +5637,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.html",
-          "hash": "5infYTetJ3mNWxZhOQZc4A=="
+          "hash": "Hhxs+SpiyLNzZw37v3O5jA=="
         }
       },
       "is_incremental": false,
@@ -5801,6 +5789,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.html",
+          "hash": "H8UelqLbaZiTYBlHNWDiBA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestAetheneumTomb.yml",
       "output": {
         ".html": {
@@ -5818,6 +5818,18 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.html",
           "hash": "baeBoOOIPt031A90b4kfHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.html",
+          "hash": "LkIJFW0jOvl1ykDhqiwiSg=="
         }
       },
       "is_incremental": false,
@@ -5861,23 +5873,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html",
-          "hash": "N/rc6oLaVQeLa0YwLjoFcw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.html",
-          "hash": "7Uw+Xai7m7AhPQ2ZEAZHMQ=="
+          "hash": "sAr7C1PURne1B2I3gguTfQ=="
         }
       },
       "is_incremental": false,
@@ -5974,6 +5974,18 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html",
           "hash": "mutgWgBKrGmjc7b3I36lOQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html",
+          "hash": "VS8gdna1yh2L7nE8gRi5YA=="
         }
       },
       "is_incremental": false,
@@ -6693,7 +6705,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.html",
-          "hash": "RkMkCsxYBQ6P5xtFsposmw=="
+          "hash": "qHlX9AoUHfzA566ygyCKqQ=="
         }
       },
       "is_incremental": false,
@@ -8409,7 +8421,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "jE/dwNUESVp88YouVsL2KQ=="
+          "hash": "D3QJjG9wuAzLj+ngLQyLKQ=="
         }
       },
       "is_incremental": false,
@@ -8484,7 +8496,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 699,
+          "total_file_count": 700,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

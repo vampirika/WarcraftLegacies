@@ -23563,77 +23563,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Legion.QuestLegionKillLordaeron.RewardDescription
   nameWithType: QuestLegionKillLordaeron.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan
-  name: QuestSkullOfGuldan
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.html
-  commentId: T:WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan
-  nameWithType: QuestSkullOfGuldan
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.#ctor
-  name: QuestSkullOfGuldan()
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Legion_QuestSkullOfGuldan__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.QuestSkullOfGuldan()
-  nameWithType: QuestSkullOfGuldan.QuestSkullOfGuldan()
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.#ctor*
-  name: QuestSkullOfGuldan
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Legion_QuestSkullOfGuldan__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.QuestSkullOfGuldan
-  nameWithType: QuestSkullOfGuldan.QuestSkullOfGuldan
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.CompletionPopup
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Legion_QuestSkullOfGuldan_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.CompletionPopup
-  nameWithType: QuestSkullOfGuldan.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.CompletionPopup*
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Legion_QuestSkullOfGuldan_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.CompletionPopup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.CompletionPopup
-  nameWithType: QuestSkullOfGuldan.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Legion_QuestSkullOfGuldan_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestSkullOfGuldan.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Legion_QuestSkullOfGuldan_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.OnComplete
-  nameWithType: QuestSkullOfGuldan.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.OnFail(MacroTools.FactionSystem.Faction)
-  name: OnFail(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Legion_QuestSkullOfGuldan_OnFail_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.OnFail(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.OnFail(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestSkullOfGuldan.OnFail(Faction)
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.OnFail*
-  name: OnFail
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Legion_QuestSkullOfGuldan_OnFail_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.OnFail
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.OnFail
-  nameWithType: QuestSkullOfGuldan.OnFail
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Legion_QuestSkullOfGuldan_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.RewardDescription
-  nameWithType: QuestSkullOfGuldan.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Legion_QuestSkullOfGuldan_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestSkullOfGuldan.RewardDescription
-  nameWithType: QuestSkullOfGuldan.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Legion.QuestSummonLegion
   name: QuestSummonLegion
   href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestSummonLegion.html
@@ -24423,6 +24352,51 @@ references:
   commentId: N:WarcraftLegacies.Source.Quests.Naga
   fullName: WarcraftLegacies.Source.Quests.Naga
   nameWithType: WarcraftLegacies.Source.Quests.Naga
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow
+  name: QuestADestinyofFlameandSorrow
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.html
+  commentId: T:WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow
+  nameWithType: QuestADestinyofFlameandSorrow
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.#ctor
+  name: QuestADestinyofFlameandSorrow()
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestADestinyofFlameandSorrow__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.#ctor
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.QuestADestinyofFlameandSorrow()
+  nameWithType: QuestADestinyofFlameandSorrow.QuestADestinyofFlameandSorrow()
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.#ctor*
+  name: QuestADestinyofFlameandSorrow
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestADestinyofFlameandSorrow__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.QuestADestinyofFlameandSorrow
+  nameWithType: QuestADestinyofFlameandSorrow.QuestADestinyofFlameandSorrow
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestADestinyofFlameandSorrow_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.CompletionPopup
+  nameWithType: QuestADestinyofFlameandSorrow.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestADestinyofFlameandSorrow_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.CompletionPopup
+  nameWithType: QuestADestinyofFlameandSorrow.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestADestinyofFlameandSorrow_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.RewardDescription
+  nameWithType: QuestADestinyofFlameandSorrow.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestADestinyofFlameandSorrow_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.RewardDescription
+  nameWithType: QuestADestinyofFlameandSorrow.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Naga.QuestAetheneumTomb
   name: QuestAetheneumTomb
   href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestAetheneumTomb.html
@@ -24552,6 +24526,51 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.RewardDescription
   nameWithType: QuestBlackTemple.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras
+  name: QuestEyeofSargeras
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.html
+  commentId: T:WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras
+  nameWithType: QuestEyeofSargeras
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.#ctor
+  name: QuestEyeofSargeras()
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.html#WarcraftLegacies_Source_Quests_Naga_QuestEyeofSargeras__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.#ctor
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.QuestEyeofSargeras()
+  nameWithType: QuestEyeofSargeras.QuestEyeofSargeras()
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.#ctor*
+  name: QuestEyeofSargeras
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.html#WarcraftLegacies_Source_Quests_Naga_QuestEyeofSargeras__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.QuestEyeofSargeras
+  nameWithType: QuestEyeofSargeras.QuestEyeofSargeras
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.html#WarcraftLegacies_Source_Quests_Naga_QuestEyeofSargeras_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.CompletionPopup
+  nameWithType: QuestEyeofSargeras.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.html#WarcraftLegacies_Source_Quests_Naga_QuestEyeofSargeras_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.CompletionPopup
+  nameWithType: QuestEyeofSargeras.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.html#WarcraftLegacies_Source_Quests_Naga_QuestEyeofSargeras_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.RewardDescription
+  nameWithType: QuestEyeofSargeras.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.html#WarcraftLegacies_Source_Quests_Naga_QuestEyeofSargeras_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.RewardDescription
+  nameWithType: QuestEyeofSargeras.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Naga.QuestFrozenThrone
   name: QuestFrozenThrone
   href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestFrozenThrone.html
@@ -24726,51 +24745,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Naga.QuestRegroupCastaway.RewardDescription
   nameWithType: QuestRegroupCastaway.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan
-  name: QuestSkullOfGuldan
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html
-  commentId: T:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan
-  nameWithType: QuestSkullOfGuldan
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.#ctor
-  name: QuestSkullOfGuldan()
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Naga_QuestSkullOfGuldan__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.QuestSkullOfGuldan()
-  nameWithType: QuestSkullOfGuldan.QuestSkullOfGuldan()
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.#ctor*
-  name: QuestSkullOfGuldan
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Naga_QuestSkullOfGuldan__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.QuestSkullOfGuldan
-  nameWithType: QuestSkullOfGuldan.QuestSkullOfGuldan
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.CompletionPopup
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Naga_QuestSkullOfGuldan_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.CompletionPopup
-  nameWithType: QuestSkullOfGuldan.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.CompletionPopup*
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Naga_QuestSkullOfGuldan_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.CompletionPopup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.CompletionPopup
-  nameWithType: QuestSkullOfGuldan.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Naga_QuestSkullOfGuldan_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardDescription
-  nameWithType: QuestSkullOfGuldan.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Naga_QuestSkullOfGuldan_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardDescription
-  nameWithType: QuestSkullOfGuldan.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Quelthalas
   name: WarcraftLegacies.Source.Quests.Quelthalas
   href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.html
@@ -25261,6 +25235,77 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.RewardDescription
   nameWithType: QuestBookOfMedivh.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan
+  name: QuestSkullOfGuldan
+  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html
+  commentId: T:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan
+  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan
+  nameWithType: QuestSkullOfGuldan
+- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.#ctor(unit,System.Boolean)
+  name: QuestSkullOfGuldan(unit, Boolean)
+  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan__ctor_unit_System_Boolean_
+  commentId: M:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.#ctor(unit,System.Boolean)
+  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.QuestSkullOfGuldan(unit, System.Boolean)
+  nameWithType: QuestSkullOfGuldan.QuestSkullOfGuldan(unit, Boolean)
+- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.#ctor*
+  name: QuestSkullOfGuldan
+  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.QuestSkullOfGuldan
+  nameWithType: QuestSkullOfGuldan.QuestSkullOfGuldan
+- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.CompletionPopup
+  nameWithType: QuestSkullOfGuldan.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.CompletionPopup
+  nameWithType: QuestSkullOfGuldan.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.FailurePopup
+  name: FailurePopup
+  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan_FailurePopup
+  commentId: P:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.FailurePopup
+  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.FailurePopup
+  nameWithType: QuestSkullOfGuldan.FailurePopup
+- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.FailurePopup*
+  name: FailurePopup
+  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan_FailurePopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.FailurePopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.FailurePopup
+  nameWithType: QuestSkullOfGuldan.FailurePopup
+- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestSkullOfGuldan.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.OnComplete
+  nameWithType: QuestSkullOfGuldan.OnComplete
+- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.RewardDescription
+  nameWithType: QuestSkullOfGuldan.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.RewardDescription
+  nameWithType: QuestSkullOfGuldan.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.QuestTombOfSargeras
   name: QuestTombOfSargeras
   href: api-source/WarcraftLegacies.Source.Quests.QuestTombOfSargeras.html
