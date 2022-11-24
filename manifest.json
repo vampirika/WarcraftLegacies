@@ -1305,7 +1305,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.UnitExtensions.html",
-          "hash": "UrtmA1Beg90ASLAr3KwNJQ=="
+          "hash": "rFoqS0mL6m5/UW2GXHD9Wg=="
         }
       },
       "is_incremental": false,
@@ -4865,6 +4865,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.html",
+          "hash": "sZMP60ebB+CAXWnVMtFpzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestFelHordeKillIronforge.yml",
       "output": {
         ".html": {
@@ -4941,7 +4953,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.html",
-          "hash": "KFPg/Yohaj+U9XHP3/VseQ=="
+          "hash": "PMaRnIpIbljaazwTYc50GQ=="
         }
       },
       "is_incremental": false,
@@ -8397,7 +8409,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "jE/dwNUESVp88YouVsL2KQ=="
+          "hash": "pMNRS3cc91luaYJ9fOKRaQ=="
         }
       },
       "is_incremental": false,
@@ -8472,7 +8484,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 698,
+          "total_file_count": 699,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
