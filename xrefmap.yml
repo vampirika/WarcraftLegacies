@@ -2897,19 +2897,61 @@ references:
   commentId: T:MacroTools.Cheats.CheatGod
   fullName: MacroTools.Cheats.CheatGod
   nameWithType: CheatGod
-- uid: MacroTools.Cheats.CheatGod.Setup
-  name: Setup()
-  href: api-macroTools/MacroTools.Cheats.CheatGod.html#MacroTools_Cheats_CheatGod_Setup
-  commentId: M:MacroTools.Cheats.CheatGod.Setup
-  fullName: MacroTools.Cheats.CheatGod.Setup()
-  nameWithType: CheatGod.Setup()
-- uid: MacroTools.Cheats.CheatGod.Setup*
-  name: Setup
-  href: api-macroTools/MacroTools.Cheats.CheatGod.html#MacroTools_Cheats_CheatGod_Setup_
-  commentId: Overload:MacroTools.Cheats.CheatGod.Setup
+- uid: MacroTools.Cheats.CheatGod.CommandText
+  name: CommandText
+  href: api-macroTools/MacroTools.Cheats.CheatGod.html#MacroTools_Cheats_CheatGod_CommandText
+  commentId: P:MacroTools.Cheats.CheatGod.CommandText
+  fullName: MacroTools.Cheats.CheatGod.CommandText
+  nameWithType: CheatGod.CommandText
+- uid: MacroTools.Cheats.CheatGod.CommandText*
+  name: CommandText
+  href: api-macroTools/MacroTools.Cheats.CheatGod.html#MacroTools_Cheats_CheatGod_CommandText_
+  commentId: Overload:MacroTools.Cheats.CheatGod.CommandText
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatGod.Setup
-  nameWithType: CheatGod.Setup
+  fullName: MacroTools.Cheats.CheatGod.CommandText
+  nameWithType: CheatGod.CommandText
+- uid: MacroTools.Cheats.CheatGod.Execute(player,System.String[])
+  name: Execute(player, String[])
+  href: api-macroTools/MacroTools.Cheats.CheatGod.html#MacroTools_Cheats_CheatGod_Execute_player_System_String___
+  commentId: M:MacroTools.Cheats.CheatGod.Execute(player,System.String[])
+  name.vb: Execute(player, String())
+  fullName: MacroTools.Cheats.CheatGod.Execute(player, System.String[])
+  fullName.vb: MacroTools.Cheats.CheatGod.Execute(player, System.String())
+  nameWithType: CheatGod.Execute(player, String[])
+  nameWithType.vb: CheatGod.Execute(player, String())
+- uid: MacroTools.Cheats.CheatGod.Execute*
+  name: Execute
+  href: api-macroTools/MacroTools.Cheats.CheatGod.html#MacroTools_Cheats_CheatGod_Execute_
+  commentId: Overload:MacroTools.Cheats.CheatGod.Execute
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatGod.Execute
+  nameWithType: CheatGod.Execute
+- uid: MacroTools.Cheats.CheatGod.ParameterCount
+  name: ParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatGod.html#MacroTools_Cheats_CheatGod_ParameterCount
+  commentId: P:MacroTools.Cheats.CheatGod.ParameterCount
+  fullName: MacroTools.Cheats.CheatGod.ParameterCount
+  nameWithType: CheatGod.ParameterCount
+- uid: MacroTools.Cheats.CheatGod.ParameterCount*
+  name: ParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatGod.html#MacroTools_Cheats_CheatGod_ParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatGod.ParameterCount
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatGod.ParameterCount
+  nameWithType: CheatGod.ParameterCount
+- uid: MacroTools.Cheats.CheatGod.Type
+  name: Type
+  href: api-macroTools/MacroTools.Cheats.CheatGod.html#MacroTools_Cheats_CheatGod_Type
+  commentId: P:MacroTools.Cheats.CheatGod.Type
+  fullName: MacroTools.Cheats.CheatGod.Type
+  nameWithType: CheatGod.Type
+- uid: MacroTools.Cheats.CheatGod.Type*
+  name: Type
+  href: api-macroTools/MacroTools.Cheats.CheatGod.html#MacroTools_Cheats_CheatGod_Type_
+  commentId: Overload:MacroTools.Cheats.CheatGod.Type
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatGod.Type
+  nameWithType: CheatGod.Type
 - uid: MacroTools.Cheats.CheatGold
   name: CheatGold
   href: api-macroTools/MacroTools.Cheats.CheatGold.html
