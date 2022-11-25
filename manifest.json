@@ -1137,7 +1137,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.CustomPlayerUnitEvents.html",
-          "hash": "o9uMRuB+hxCE6QBVRBY2Xg=="
+          "hash": "dfNVKLGMU2SAp+Bki/oMFg=="
         }
       },
       "is_incremental": false,
@@ -1305,7 +1305,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.UnitExtensions.html",
-          "hash": "zX6fHzsaAKp2uDfEU9x/Cg=="
+          "hash": "8KVFii+/z084SLDErZSkxQ=="
         }
       },
       "is_incremental": false,
@@ -1449,7 +1449,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Power.html",
-          "hash": "Z8Iz7Xc9iEwvEXaMWf1f9A=="
+          "hash": "NF6LwnHQBZi57GUQpedOgw=="
         }
       },
       "is_incremental": false,
@@ -2213,6 +2213,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Powers.MaelstromWeapon.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Powers.MaelstromWeapon.html",
+          "hash": "GnNVNYJntCVk0mwbIHP5xw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Powers.OilIncomePeriodicAction.yml",
       "output": {
         ".html": {
@@ -2277,7 +2289,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Powers.html",
-          "hash": "OAdwbCuXyCSxjH8MHZvCnQ=="
+          "hash": "cxVYOb/g4K9Rn7po3aSf3Q=="
         }
       },
       "is_incremental": false,
@@ -3609,7 +3621,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.html",
-          "hash": "AWdwIgNGN8p0YCUQIN8FFA=="
+          "hash": "aabk7xBXShf0mAg/70ahEQ=="
         }
       },
       "is_incremental": false,
@@ -3621,7 +3633,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "7+ejKFfdKeW9GJDOaJhSHw=="
+          "hash": "x4JSJO7ZaWRvvQKT84GUsA=="
         }
       },
       "is_incremental": false,
@@ -5153,11 +5165,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.html",
+          "hash": "KI3D5j06A6/smbmw4L1IiA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.html",
-          "hash": "McHPbvY+qZ67Nn9fRkSrCg=="
+          "hash": "guCi3wHXu1UiWtZs1/M3cg=="
         }
       },
       "is_incremental": false,
@@ -8421,7 +8445,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "q4Yr+d6ZFUc+ahLcgEnECg=="
+          "hash": "bHn7gD29oQx/zQZ8iL+2Sg=="
         }
       },
       "is_incremental": false,
@@ -8496,7 +8520,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 700,
+          "total_file_count": 702,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

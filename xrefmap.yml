@@ -4036,6 +4036,19 @@ references:
   commentId: T:MacroTools.CustomPlayerUnitEvents
   fullName: MacroTools.CustomPlayerUnitEvents
   nameWithType: CustomPlayerUnitEvents
+- uid: MacroTools.CustomPlayerUnitEvents.PlayerDealsDamage
+  name: PlayerDealsDamage
+  href: api-macroTools/MacroTools.CustomPlayerUnitEvents.html#MacroTools_CustomPlayerUnitEvents_PlayerDealsDamage
+  commentId: P:MacroTools.CustomPlayerUnitEvents.PlayerDealsDamage
+  fullName: MacroTools.CustomPlayerUnitEvents.PlayerDealsDamage
+  nameWithType: CustomPlayerUnitEvents.PlayerDealsDamage
+- uid: MacroTools.CustomPlayerUnitEvents.PlayerDealsDamage*
+  name: PlayerDealsDamage
+  href: api-macroTools/MacroTools.CustomPlayerUnitEvents.html#MacroTools_CustomPlayerUnitEvents_PlayerDealsDamage_
+  commentId: Overload:MacroTools.CustomPlayerUnitEvents.PlayerDealsDamage
+  isSpec: "True"
+  fullName: MacroTools.CustomPlayerUnitEvents.PlayerDealsDamage
+  nameWithType: CustomPlayerUnitEvents.PlayerDealsDamage
 - uid: MacroTools.CustomPlayerUnitEvents.PlayerFinishesTraining
   name: PlayerFinishesTraining
   href: api-macroTools/MacroTools.CustomPlayerUnitEvents.html#MacroTools_CustomPlayerUnitEvents_PlayerFinishesTraining
@@ -4655,6 +4668,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.AddAbility
   nameWithType: UnitExtensions.AddAbility
+- uid: MacroTools.Extensions.UnitExtensions.AddExperience(unit,System.Int32)
+  name: AddExperience(unit, Int32)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_AddExperience_unit_System_Int32_
+  commentId: M:MacroTools.Extensions.UnitExtensions.AddExperience(unit,System.Int32)
+  fullName: MacroTools.Extensions.UnitExtensions.AddExperience(unit, System.Int32)
+  nameWithType: UnitExtensions.AddExperience(unit, Int32)
+- uid: MacroTools.Extensions.UnitExtensions.AddExperience*
+  name: AddExperience
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_AddExperience_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.AddExperience
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.AddExperience
+  nameWithType: UnitExtensions.AddExperience
 - uid: MacroTools.Extensions.UnitExtensions.AddHeroAttributes(unit,System.Int32,System.Int32,System.Int32)
   name: AddHeroAttributes(unit, Int32, Int32, Int32)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_AddHeroAttributes_unit_System_Int32_System_Int32_System_Int32_
@@ -10258,6 +10284,70 @@ references:
   isSpec: "True"
   fullName: MacroTools.Powers.LumberIncomePower.OnRemove
   nameWithType: LumberIncomePower.OnRemove
+- uid: MacroTools.Powers.MaelstromWeapon
+  name: MaelstromWeapon
+  href: api-macroTools/MacroTools.Powers.MaelstromWeapon.html
+  commentId: T:MacroTools.Powers.MaelstromWeapon
+  fullName: MacroTools.Powers.MaelstromWeapon
+  nameWithType: MaelstromWeapon
+- uid: MacroTools.Powers.MaelstromWeapon.#ctor(System.Single,System.Single)
+  name: MaelstromWeapon(Single, Single)
+  href: api-macroTools/MacroTools.Powers.MaelstromWeapon.html#MacroTools_Powers_MaelstromWeapon__ctor_System_Single_System_Single_
+  commentId: M:MacroTools.Powers.MaelstromWeapon.#ctor(System.Single,System.Single)
+  fullName: MacroTools.Powers.MaelstromWeapon.MaelstromWeapon(System.Single, System.Single)
+  nameWithType: MaelstromWeapon.MaelstromWeapon(Single, Single)
+- uid: MacroTools.Powers.MaelstromWeapon.#ctor*
+  name: MaelstromWeapon
+  href: api-macroTools/MacroTools.Powers.MaelstromWeapon.html#MacroTools_Powers_MaelstromWeapon__ctor_
+  commentId: Overload:MacroTools.Powers.MaelstromWeapon.#ctor
+  isSpec: "True"
+  fullName: MacroTools.Powers.MaelstromWeapon.MaelstromWeapon
+  nameWithType: MaelstromWeapon.MaelstromWeapon
+- uid: MacroTools.Powers.MaelstromWeapon.Effect
+  name: Effect
+  href: api-macroTools/MacroTools.Powers.MaelstromWeapon.html#MacroTools_Powers_MaelstromWeapon_Effect
+  commentId: P:MacroTools.Powers.MaelstromWeapon.Effect
+  fullName: MacroTools.Powers.MaelstromWeapon.Effect
+  nameWithType: MaelstromWeapon.Effect
+- uid: MacroTools.Powers.MaelstromWeapon.Effect*
+  name: Effect
+  href: api-macroTools/MacroTools.Powers.MaelstromWeapon.html#MacroTools_Powers_MaelstromWeapon_Effect_
+  commentId: Overload:MacroTools.Powers.MaelstromWeapon.Effect
+  isSpec: "True"
+  fullName: MacroTools.Powers.MaelstromWeapon.Effect
+  nameWithType: MaelstromWeapon.Effect
+- uid: MacroTools.Powers.MaelstromWeapon.OnAdd(player)
+  name: OnAdd(player)
+  href: api-macroTools/MacroTools.Powers.MaelstromWeapon.html#MacroTools_Powers_MaelstromWeapon_OnAdd_player_
+  commentId: M:MacroTools.Powers.MaelstromWeapon.OnAdd(player)
+  fullName: MacroTools.Powers.MaelstromWeapon.OnAdd(player)
+  nameWithType: MaelstromWeapon.OnAdd(player)
+- uid: MacroTools.Powers.MaelstromWeapon.OnAdd*
+  name: OnAdd
+  href: api-macroTools/MacroTools.Powers.MaelstromWeapon.html#MacroTools_Powers_MaelstromWeapon_OnAdd_
+  commentId: Overload:MacroTools.Powers.MaelstromWeapon.OnAdd
+  isSpec: "True"
+  fullName: MacroTools.Powers.MaelstromWeapon.OnAdd
+  nameWithType: MaelstromWeapon.OnAdd
+- uid: MacroTools.Powers.MaelstromWeapon.OnRemove(player)
+  name: OnRemove(player)
+  href: api-macroTools/MacroTools.Powers.MaelstromWeapon.html#MacroTools_Powers_MaelstromWeapon_OnRemove_player_
+  commentId: M:MacroTools.Powers.MaelstromWeapon.OnRemove(player)
+  fullName: MacroTools.Powers.MaelstromWeapon.OnRemove(player)
+  nameWithType: MaelstromWeapon.OnRemove(player)
+- uid: MacroTools.Powers.MaelstromWeapon.OnRemove*
+  name: OnRemove
+  href: api-macroTools/MacroTools.Powers.MaelstromWeapon.html#MacroTools_Powers_MaelstromWeapon_OnRemove_
+  commentId: Overload:MacroTools.Powers.MaelstromWeapon.OnRemove
+  isSpec: "True"
+  fullName: MacroTools.Powers.MaelstromWeapon.OnRemove
+  nameWithType: MaelstromWeapon.OnRemove
+- uid: MacroTools.Powers.MaelstromWeapon.ValidUnitTypes
+  name: ValidUnitTypes
+  href: api-macroTools/MacroTools.Powers.MaelstromWeapon.html#MacroTools_Powers_MaelstromWeapon_ValidUnitTypes
+  commentId: F:MacroTools.Powers.MaelstromWeapon.ValidUnitTypes
+  fullName: MacroTools.Powers.MaelstromWeapon.ValidUnitTypes
+  nameWithType: MaelstromWeapon.ValidUnitTypes
 - uid: MacroTools.Powers.OilIncomePeriodicAction
   name: OilIncomePeriodicAction
   href: api-macroTools/MacroTools.Powers.OilIncomePeriodicAction.html
@@ -21369,6 +21459,64 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.RewardDescription
   nameWithType: QuestThunderBluff.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman
+  name: QuestWorldShaman
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.html
+  commentId: T:WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman
+  nameWithType: QuestWorldShaman
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.#ctor
+  name: QuestWorldShaman()
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestWorldShaman__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.#ctor
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.QuestWorldShaman()
+  nameWithType: QuestWorldShaman.QuestWorldShaman()
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.#ctor*
+  name: QuestWorldShaman
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestWorldShaman__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.QuestWorldShaman
+  nameWithType: QuestWorldShaman.QuestWorldShaman
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestWorldShaman_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.CompletionPopup
+  nameWithType: QuestWorldShaman.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestWorldShaman_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.CompletionPopup
+  nameWithType: QuestWorldShaman.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestWorldShaman_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestWorldShaman.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestWorldShaman_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.OnComplete
+  nameWithType: QuestWorldShaman.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestWorldShaman_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.RewardDescription
+  nameWithType: QuestWorldShaman.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestWorldShaman_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.RewardDescription
+  nameWithType: QuestWorldShaman.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Gilneas
   name: WarcraftLegacies.Source.Quests.Gilneas
   href: api-source/WarcraftLegacies.Source.Quests.Gilneas.html
