@@ -4236,12 +4236,15 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.RectangleExtensions.AddSound
   nameWithType: RectangleExtensions.AddSound
-- uid: MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle,MacroTools.Extensions.RescuePreparationMode)
-  name: PrepareUnitsForRescue(Rectangle, RescuePreparationMode)
-  href: api-macroTools/MacroTools.Extensions.RectangleExtensions.html#MacroTools_Extensions_RectangleExtensions_PrepareUnitsForRescue_Rectangle_MacroTools_Extensions_RescuePreparationMode_
-  commentId: M:MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle,MacroTools.Extensions.RescuePreparationMode)
-  fullName: MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle, MacroTools.Extensions.RescuePreparationMode)
-  nameWithType: RectangleExtensions.PrepareUnitsForRescue(Rectangle, RescuePreparationMode)
+- uid: MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle,MacroTools.Extensions.RescuePreparationMode,System.Nullable{Func{unit,System.Boolean}})
+  name: PrepareUnitsForRescue(Rectangle, RescuePreparationMode, Nullable<Func<unit, Boolean>>)
+  href: api-macroTools/MacroTools.Extensions.RectangleExtensions.html#MacroTools_Extensions_RectangleExtensions_PrepareUnitsForRescue_Rectangle_MacroTools_Extensions_RescuePreparationMode_System_Nullable_Func_unit_System_Boolean___
+  commentId: M:MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle,MacroTools.Extensions.RescuePreparationMode,System.Nullable{Func{unit,System.Boolean}})
+  name.vb: PrepareUnitsForRescue(Rectangle, RescuePreparationMode, Nullable(Of Func(Of unit, Boolean)))
+  fullName: MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle, MacroTools.Extensions.RescuePreparationMode, System.Nullable<Func<unit, System.Boolean>>)
+  fullName.vb: MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue(Rectangle, MacroTools.Extensions.RescuePreparationMode, System.Nullable(Of Func(Of unit, System.Boolean)))
+  nameWithType: RectangleExtensions.PrepareUnitsForRescue(Rectangle, RescuePreparationMode, Nullable<Func<unit, Boolean>>)
+  nameWithType.vb: RectangleExtensions.PrepareUnitsForRescue(Rectangle, RescuePreparationMode, Nullable(Of Func(Of unit, Boolean)))
 - uid: MacroTools.Extensions.RectangleExtensions.PrepareUnitsForRescue*
   name: PrepareUnitsForRescue
   href: api-macroTools/MacroTools.Extensions.RectangleExtensions.html#MacroTools_Extensions_RectangleExtensions_PrepareUnitsForRescue_
@@ -20081,6 +20084,77 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.RewardDescription
   nameWithType: QuestBlackrock.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen
+  name: QuestDarkPortalOpen
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.html
+  commentId: T:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen
+  nameWithType: QuestDarkPortalOpen
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.#ctor(unit,unit,unit,unit,unit,unit,unit)
+  name: QuestDarkPortalOpen(unit, unit, unit, unit, unit, unit, unit)
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortalOpen__ctor_unit_unit_unit_unit_unit_unit_unit_
+  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.#ctor(unit,unit,unit,unit,unit,unit,unit)
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.QuestDarkPortalOpen(unit, unit, unit, unit, unit, unit, unit)
+  nameWithType: QuestDarkPortalOpen.QuestDarkPortalOpen(unit, unit, unit, unit, unit, unit, unit)
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.#ctor*
+  name: QuestDarkPortalOpen
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortalOpen__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.QuestDarkPortalOpen
+  nameWithType: QuestDarkPortalOpen.QuestDarkPortalOpen
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortalOpen_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.CompletionPopup
+  nameWithType: QuestDarkPortalOpen.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortalOpen_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.CompletionPopup
+  nameWithType: QuestDarkPortalOpen.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortalOpen_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestDarkPortalOpen.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortalOpen_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.OnComplete
+  nameWithType: QuestDarkPortalOpen.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.OnFail(MacroTools.FactionSystem.Faction)
+  name: OnFail(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortalOpen_OnFail_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.OnFail(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.OnFail(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestDarkPortalOpen.OnFail(Faction)
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.OnFail*
+  name: OnFail
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortalOpen_OnFail_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.OnFail
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.OnFail
+  nameWithType: QuestDarkPortalOpen.OnFail
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortalOpen_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.RewardDescription
+  nameWithType: QuestDarkPortalOpen.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortalOpen_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.RewardDescription
+  nameWithType: QuestDarkPortalOpen.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestFelHordeKillIronforge
   name: QuestFelHordeKillIronforge
   href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestFelHordeKillIronforge.html
@@ -23633,15 +23707,15 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity
   fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity
   nameWithType: QuestCapitalCity
-- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.#ctor(Rectangle,unit,IEnumerable{MacroTools.QuestSystem.QuestData})
-  name: QuestCapitalCity(Rectangle, unit, IEnumerable<QuestData>)
-  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestCapitalCity__ctor_Rectangle_unit_IEnumerable_MacroTools_QuestSystem_QuestData__
-  commentId: M:WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.#ctor(Rectangle,unit,IEnumerable{MacroTools.QuestSystem.QuestData})
-  name.vb: QuestCapitalCity(Rectangle, unit, IEnumerable(Of QuestData))
-  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.QuestCapitalCity(Rectangle, unit, IEnumerable<MacroTools.QuestSystem.QuestData>)
-  fullName.vb: WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.QuestCapitalCity(Rectangle, unit, IEnumerable(Of MacroTools.QuestSystem.QuestData))
-  nameWithType: QuestCapitalCity.QuestCapitalCity(Rectangle, unit, IEnumerable<QuestData>)
-  nameWithType.vb: QuestCapitalCity.QuestCapitalCity(Rectangle, unit, IEnumerable(Of QuestData))
+- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.#ctor(Rectangle,unit,MacroTools.FactionSystem.Legend,IEnumerable{MacroTools.QuestSystem.QuestData})
+  name: QuestCapitalCity(Rectangle, unit, Legend, IEnumerable<QuestData>)
+  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestCapitalCity__ctor_Rectangle_unit_MacroTools_FactionSystem_Legend_IEnumerable_MacroTools_QuestSystem_QuestData__
+  commentId: M:WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.#ctor(Rectangle,unit,MacroTools.FactionSystem.Legend,IEnumerable{MacroTools.QuestSystem.QuestData})
+  name.vb: QuestCapitalCity(Rectangle, unit, Legend, IEnumerable(Of QuestData))
+  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.QuestCapitalCity(Rectangle, unit, MacroTools.FactionSystem.Legend, IEnumerable<MacroTools.QuestSystem.QuestData>)
+  fullName.vb: WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.QuestCapitalCity(Rectangle, unit, MacroTools.FactionSystem.Legend, IEnumerable(Of MacroTools.QuestSystem.QuestData))
+  nameWithType: QuestCapitalCity.QuestCapitalCity(Rectangle, unit, Legend, IEnumerable<QuestData>)
+  nameWithType.vb: QuestCapitalCity.QuestCapitalCity(Rectangle, unit, Legend, IEnumerable(Of QuestData))
 - uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.#ctor*
   name: QuestCapitalCity
   href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestCapitalCity__ctor_

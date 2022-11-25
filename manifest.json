@@ -1221,7 +1221,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.RectangleExtensions.html",
-          "hash": "vI9j8CbCJH3+NwCJt3+KeQ=="
+          "hash": "egYiEj206cl9FC5JiQ9FHg=="
         }
       },
       "is_incremental": false,
@@ -4877,6 +4877,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.html",
+          "hash": "oOcgEuczcZhv2VrLmw1DVQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestFelHordeKillIronforge.yml",
       "output": {
         ".html": {
@@ -4917,7 +4929,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.html",
-          "hash": "stp05ghfuwy2PNdPi1kTTw=="
+          "hash": "fnos7ZWK9R+3k+pPw12vvw=="
         }
       },
       "is_incremental": false,
@@ -4953,7 +4965,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.html",
-          "hash": "KFPg/Yohaj+U9XHP3/VseQ=="
+          "hash": "D4+N5w0u1k7/tOaJa5SN7A=="
         }
       },
       "is_incremental": false,
@@ -5649,7 +5661,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.html",
-          "hash": "wUHNd4twqhdwhyIa15+Sog=="
+          "hash": "KVl5GlOSRnRZc/AGo3ipGQ=="
         }
       },
       "is_incremental": false,
@@ -8409,7 +8421,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "OnHgi5PfpR/uTVOEIe+qYg=="
+          "hash": "q4Yr+d6ZFUc+ahLcgEnECg=="
         }
       },
       "is_incremental": false,
@@ -8484,7 +8496,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 699,
+          "total_file_count": 700,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
