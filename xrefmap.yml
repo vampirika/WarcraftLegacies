@@ -24387,6 +24387,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.CompletionPopup
   nameWithType: QuestADestinyofFlameandSorrow.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestADestinyofFlameandSorrow_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestADestinyofFlameandSorrow.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestADestinyofFlameandSorrow_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.OnComplete
+  nameWithType: QuestADestinyofFlameandSorrow.OnComplete
 - uid: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestADestinyofFlameandSorrow_RewardDescription
