@@ -10291,12 +10291,12 @@ references:
   commentId: T:MacroTools.Powers.CityOfHeroes
   fullName: MacroTools.Powers.CityOfHeroes
   nameWithType: CityOfHeroes
-- uid: MacroTools.Powers.CityOfHeroes.#ctor(System.Single)
-  name: CityOfHeroes(Single)
-  href: api-macroTools/MacroTools.Powers.CityOfHeroes.html#MacroTools_Powers_CityOfHeroes__ctor_System_Single_
-  commentId: M:MacroTools.Powers.CityOfHeroes.#ctor(System.Single)
-  fullName: MacroTools.Powers.CityOfHeroes.CityOfHeroes(System.Single)
-  nameWithType: CityOfHeroes.CityOfHeroes(Single)
+- uid: MacroTools.Powers.CityOfHeroes.#ctor(System.Single,System.Single)
+  name: CityOfHeroes(Single, Single)
+  href: api-macroTools/MacroTools.Powers.CityOfHeroes.html#MacroTools_Powers_CityOfHeroes__ctor_System_Single_System_Single_
+  commentId: M:MacroTools.Powers.CityOfHeroes.#ctor(System.Single,System.Single)
+  fullName: MacroTools.Powers.CityOfHeroes.CityOfHeroes(System.Single, System.Single)
+  nameWithType: CityOfHeroes.CityOfHeroes(Single, Single)
 - uid: MacroTools.Powers.CityOfHeroes.#ctor*
   name: CityOfHeroes
   href: api-macroTools/MacroTools.Powers.CityOfHeroes.html#MacroTools_Powers_CityOfHeroes__ctor_
