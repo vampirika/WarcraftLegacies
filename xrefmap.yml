@@ -5213,6 +5213,32 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.SetAnimationSpeed
   nameWithType: UnitExtensions.SetAnimationSpeed
+- uid: MacroTools.Extensions.UnitExtensions.SetArmorType(unit,System.Int32)
+  name: SetArmorType(unit, Int32)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetArmorType_unit_System_Int32_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetArmorType(unit,System.Int32)
+  fullName: MacroTools.Extensions.UnitExtensions.SetArmorType(unit, System.Int32)
+  nameWithType: UnitExtensions.SetArmorType(unit, Int32)
+- uid: MacroTools.Extensions.UnitExtensions.SetArmorType*
+  name: SetArmorType
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetArmorType_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetArmorType
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetArmorType
+  nameWithType: UnitExtensions.SetArmorType
+- uid: MacroTools.Extensions.UnitExtensions.SetAttackType(unit,System.Int32)
+  name: SetAttackType(unit, Int32)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetAttackType_unit_System_Int32_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetAttackType(unit,System.Int32)
+  fullName: MacroTools.Extensions.UnitExtensions.SetAttackType(unit, System.Int32)
+  nameWithType: UnitExtensions.SetAttackType(unit, Int32)
+- uid: MacroTools.Extensions.UnitExtensions.SetAttackType*
+  name: SetAttackType
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetAttackType_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetAttackType
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetAttackType
+  nameWithType: UnitExtensions.SetAttackType
 - uid: MacroTools.Extensions.UnitExtensions.SetColor(unit,System.Int32,System.Int32,System.Int32,System.Int32)
   name: SetColor(unit, Int32, Int32, Int32, Int32)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetColor_unit_System_Int32_System_Int32_System_Int32_System_Int32_
