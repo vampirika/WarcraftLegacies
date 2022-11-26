@@ -4895,6 +4895,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.GetMana
   nameWithType: UnitExtensions.GetMana
+- uid: MacroTools.Extensions.UnitExtensions.GetManaPercent(unit)
+  name: GetManaPercent(unit)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetManaPercent_unit_
+  commentId: M:MacroTools.Extensions.UnitExtensions.GetManaPercent(unit)
+  fullName: MacroTools.Extensions.UnitExtensions.GetManaPercent(unit)
+  nameWithType: UnitExtensions.GetManaPercent(unit)
+- uid: MacroTools.Extensions.UnitExtensions.GetManaPercent*
+  name: GetManaPercent
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetManaPercent_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.GetManaPercent
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.GetManaPercent
+  nameWithType: UnitExtensions.GetManaPercent
 - uid: MacroTools.Extensions.UnitExtensions.GetName(unit)
   name: GetName(unit)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetName_unit_
@@ -5070,6 +5083,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.MultiplyMaxHitpoints
   nameWithType: UnitExtensions.MultiplyMaxHitpoints
+- uid: MacroTools.Extensions.UnitExtensions.MultiplyMaxMana(unit,System.Single)
+  name: MultiplyMaxMana(unit, Single)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_MultiplyMaxMana_unit_System_Single_
+  commentId: M:MacroTools.Extensions.UnitExtensions.MultiplyMaxMana(unit,System.Single)
+  fullName: MacroTools.Extensions.UnitExtensions.MultiplyMaxMana(unit, System.Single)
+  nameWithType: UnitExtensions.MultiplyMaxMana(unit, Single)
+- uid: MacroTools.Extensions.UnitExtensions.MultiplyMaxMana*
+  name: MultiplyMaxMana
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_MultiplyMaxMana_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.MultiplyMaxMana
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.MultiplyMaxMana
+  nameWithType: UnitExtensions.MultiplyMaxMana
 - uid: MacroTools.Extensions.UnitExtensions.OwningPlayer(unit)
   name: OwningPlayer(unit)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_OwningPlayer_unit_
@@ -5265,6 +5291,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.SetMana
   nameWithType: UnitExtensions.SetMana
+- uid: MacroTools.Extensions.UnitExtensions.SetManaPercent(unit,System.Single)
+  name: SetManaPercent(unit, Single)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetManaPercent_unit_System_Single_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetManaPercent(unit,System.Single)
+  fullName: MacroTools.Extensions.UnitExtensions.SetManaPercent(unit, System.Single)
+  nameWithType: UnitExtensions.SetManaPercent(unit, Single)
+- uid: MacroTools.Extensions.UnitExtensions.SetManaPercent*
+  name: SetManaPercent
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetManaPercent_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetManaPercent
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetManaPercent
+  nameWithType: UnitExtensions.SetManaPercent
 - uid: MacroTools.Extensions.UnitExtensions.SetMaximumMana(unit,System.Int32)
   name: SetMaximumMana(unit, Int32)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetMaximumMana_unit_System_Int32_
@@ -10220,6 +10259,64 @@ references:
   commentId: N:MacroTools.Powers
   fullName: MacroTools.Powers
   nameWithType: MacroTools.Powers
+- uid: MacroTools.Powers.CityOfHeroes
+  name: CityOfHeroes
+  href: api-macroTools/MacroTools.Powers.CityOfHeroes.html
+  commentId: T:MacroTools.Powers.CityOfHeroes
+  fullName: MacroTools.Powers.CityOfHeroes
+  nameWithType: CityOfHeroes
+- uid: MacroTools.Powers.CityOfHeroes.#ctor(System.Single)
+  name: CityOfHeroes(Single)
+  href: api-macroTools/MacroTools.Powers.CityOfHeroes.html#MacroTools_Powers_CityOfHeroes__ctor_System_Single_
+  commentId: M:MacroTools.Powers.CityOfHeroes.#ctor(System.Single)
+  fullName: MacroTools.Powers.CityOfHeroes.CityOfHeroes(System.Single)
+  nameWithType: CityOfHeroes.CityOfHeroes(Single)
+- uid: MacroTools.Powers.CityOfHeroes.#ctor*
+  name: CityOfHeroes
+  href: api-macroTools/MacroTools.Powers.CityOfHeroes.html#MacroTools_Powers_CityOfHeroes__ctor_
+  commentId: Overload:MacroTools.Powers.CityOfHeroes.#ctor
+  isSpec: "True"
+  fullName: MacroTools.Powers.CityOfHeroes.CityOfHeroes
+  nameWithType: CityOfHeroes.CityOfHeroes
+- uid: MacroTools.Powers.CityOfHeroes.HeroGlowAbilityTypeId
+  name: HeroGlowAbilityTypeId
+  href: api-macroTools/MacroTools.Powers.CityOfHeroes.html#MacroTools_Powers_CityOfHeroes_HeroGlowAbilityTypeId
+  commentId: P:MacroTools.Powers.CityOfHeroes.HeroGlowAbilityTypeId
+  fullName: MacroTools.Powers.CityOfHeroes.HeroGlowAbilityTypeId
+  nameWithType: CityOfHeroes.HeroGlowAbilityTypeId
+- uid: MacroTools.Powers.CityOfHeroes.HeroGlowAbilityTypeId*
+  name: HeroGlowAbilityTypeId
+  href: api-macroTools/MacroTools.Powers.CityOfHeroes.html#MacroTools_Powers_CityOfHeroes_HeroGlowAbilityTypeId_
+  commentId: Overload:MacroTools.Powers.CityOfHeroes.HeroGlowAbilityTypeId
+  isSpec: "True"
+  fullName: MacroTools.Powers.CityOfHeroes.HeroGlowAbilityTypeId
+  nameWithType: CityOfHeroes.HeroGlowAbilityTypeId
+- uid: MacroTools.Powers.CityOfHeroes.OnAdd(player)
+  name: OnAdd(player)
+  href: api-macroTools/MacroTools.Powers.CityOfHeroes.html#MacroTools_Powers_CityOfHeroes_OnAdd_player_
+  commentId: M:MacroTools.Powers.CityOfHeroes.OnAdd(player)
+  fullName: MacroTools.Powers.CityOfHeroes.OnAdd(player)
+  nameWithType: CityOfHeroes.OnAdd(player)
+- uid: MacroTools.Powers.CityOfHeroes.OnAdd*
+  name: OnAdd
+  href: api-macroTools/MacroTools.Powers.CityOfHeroes.html#MacroTools_Powers_CityOfHeroes_OnAdd_
+  commentId: Overload:MacroTools.Powers.CityOfHeroes.OnAdd
+  isSpec: "True"
+  fullName: MacroTools.Powers.CityOfHeroes.OnAdd
+  nameWithType: CityOfHeroes.OnAdd
+- uid: MacroTools.Powers.CityOfHeroes.OnRemove(player)
+  name: OnRemove(player)
+  href: api-macroTools/MacroTools.Powers.CityOfHeroes.html#MacroTools_Powers_CityOfHeroes_OnRemove_player_
+  commentId: M:MacroTools.Powers.CityOfHeroes.OnRemove(player)
+  fullName: MacroTools.Powers.CityOfHeroes.OnRemove(player)
+  nameWithType: CityOfHeroes.OnRemove(player)
+- uid: MacroTools.Powers.CityOfHeroes.OnRemove*
+  name: OnRemove
+  href: api-macroTools/MacroTools.Powers.CityOfHeroes.html#MacroTools_Powers_CityOfHeroes_OnRemove_
+  commentId: Overload:MacroTools.Powers.CityOfHeroes.OnRemove
+  isSpec: "True"
+  fullName: MacroTools.Powers.CityOfHeroes.OnRemove
+  nameWithType: CityOfHeroes.OnRemove
 - uid: MacroTools.Powers.DummyPower
   name: DummyPower
   href: api-macroTools/MacroTools.Powers.DummyPower.html

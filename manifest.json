@@ -1317,7 +1317,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.UnitExtensions.html",
-          "hash": "8KVFii+/z084SLDErZSkxQ=="
+          "hash": "ezGdC7mbsY0DwrOA32ogyw=="
         }
       },
       "is_incremental": false,
@@ -1461,7 +1461,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Power.html",
-          "hash": "NF6LwnHQBZi57GUQpedOgw=="
+          "hash": "6hJbIIc0OFVDJrFWsOtVIQ=="
         }
       },
       "is_incremental": false,
@@ -2189,6 +2189,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Powers.CityOfHeroes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Powers.CityOfHeroes.html",
+          "hash": "w4ktNcjZoxONlZiFUeZPQA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Powers.DummyPower.yml",
       "output": {
         ".html": {
@@ -2301,7 +2313,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Powers.html",
-          "hash": "cxVYOb/g4K9Rn7po3aSf3Q=="
+          "hash": "ZVv7nHHo8X7ccDLhcw0SbA=="
         }
       },
       "is_incremental": false,
@@ -3657,7 +3669,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "sy/DWRrdvUlZd0nXrdST0Q=="
+          "hash": "xSVuWOBmDEb2zPHwm5qmQQ=="
         }
       },
       "is_incremental": false,
@@ -6405,7 +6417,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestDarkshire.html",
-          "hash": "urUpPtQpr9fReUYCyV++2Q=="
+          "hash": "xX/S7uHgSFWIA1kbgI8i5g=="
         }
       },
       "is_incremental": false,
@@ -6417,7 +6429,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestGoldshire.html",
-          "hash": "XEBd/pPrY9TbkeLSa8//fA=="
+          "hash": "gDECfsBCSZY1r/L8EtuJcw=="
         }
       },
       "is_incremental": false,
@@ -6429,7 +6441,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestHonorHold.html",
-          "hash": "vcx61TQYBAgoj+C13oKyuA=="
+          "hash": "XZo53rP6wh3LvMKV+vu78w=="
         }
       },
       "is_incremental": false,
@@ -6465,7 +6477,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestLakeshire.html",
-          "hash": "TQ/hsdeHUJb7oAhUSZhY/A=="
+          "hash": "P1pgLd+nFheZ0sPaGte3HA=="
         }
       },
       "is_incremental": false,
@@ -7437,7 +7449,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.StormwindSetup.html",
-          "hash": "s2nTIO5S8CPz7fhmERkUJg=="
+          "hash": "iMSv9DTjcxsXc4I4iLCDNQ=="
         }
       },
       "is_incremental": false,
@@ -8544,7 +8556,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 704,
+          "total_file_count": 705,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
