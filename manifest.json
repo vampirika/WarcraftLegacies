@@ -989,6 +989,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Color.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Color.html",
+          "hash": "mCJdy7hPZthK7NHtR4KzbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.CommandSystem.Command.yml",
       "output": {
         ".html": {
@@ -2985,7 +2997,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.SpellSystem.Spell.html",
-          "hash": "+D1JU9OlfkkpEnJZL1KOnw=="
+          "hash": "aDULgt66yfMtf0UCaPXVpA=="
         }
       },
       "is_incremental": false,
@@ -3297,7 +3309,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html",
-          "hash": "E3kyJJ3vfftZQbuh7SfScw=="
+          "hash": "4jeuWu8eUnD2UKVQyMnHUA=="
         }
       },
       "is_incremental": false,
@@ -3321,7 +3333,19 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpell.html",
-          "hash": "jM+7vY6v8WEQzpzusycf9Q=="
+          "hash": "erp3wbdXwWR3CBvUaerwuQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpellSpecificLocation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpellSpecificLocation.html",
+          "hash": "p7Ofd/p/sb30zvwWxLYHUQ=="
         }
       },
       "is_incremental": false,
@@ -3333,7 +3357,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Spells.Slipstream.html",
-          "hash": "CwEXkfEXniqd+0vn1Kq78A=="
+          "hash": "K1fJx/1p19SLOgCGReXltA=="
         }
       },
       "is_incremental": false,
@@ -3621,7 +3645,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.html",
-          "hash": "aabk7xBXShf0mAg/70ahEQ=="
+          "hash": "6Rr/M4ypyC/YoLvkNi8jDw=="
         }
       },
       "is_incremental": false,
@@ -3633,7 +3657,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "x4JSJO7ZaWRvvQKT84GUsA=="
+          "hash": "sy/DWRrdvUlZd0nXrdST0Q=="
         }
       },
       "is_incremental": false,
@@ -5109,7 +5133,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestFreeNerzhul.html",
-          "hash": "taNeFUCTzuNm+scBa5h3/A=="
+          "hash": "BmQ946NBCj7kspndaItjyA=="
         }
       },
       "is_incremental": false,
@@ -5181,7 +5205,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.html",
-          "hash": "guCi3wHXu1UiWtZs1/M3cg=="
+          "hash": "K5Ar8m5UjKiJdp5VKw+R4Q=="
         }
       },
       "is_incremental": false,
@@ -8181,7 +8205,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.FrostwolfSpellSetup.html",
-          "hash": "4T5HlbwMVVKb7iwSJUW/8w=="
+          "hash": "AihEmQrFFU5c3OEIifzW+w=="
         }
       },
       "is_incremental": false,
@@ -8289,7 +8313,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.html",
-          "hash": "Kn4XKfkABuqVbI7IJrrc0Q=="
+          "hash": "9PKEMMxzbFUDJJNs3B1d8A=="
         }
       },
       "is_incremental": false,
@@ -8520,7 +8544,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 702,
+          "total_file_count": 704,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
