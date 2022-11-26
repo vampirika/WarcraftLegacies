@@ -29570,44 +29570,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Researches.Stormwind.TierExploitWeakness.Setup
   nameWithType: TierExploitWeakness.Setup
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierHighSorcererAndromath
-  name: TierHighSorcererAndromath
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierHighSorcererAndromath.html
-  commentId: T:WarcraftLegacies.Source.Researches.Stormwind.TierHighSorcererAndromath
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierHighSorcererAndromath
-  nameWithType: TierHighSorcererAndromath
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierHighSorcererAndromath.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierHighSorcererAndromath.html#WarcraftLegacies_Source_Researches_Stormwind_TierHighSorcererAndromath_Setup
-  commentId: M:WarcraftLegacies.Source.Researches.Stormwind.TierHighSorcererAndromath.Setup
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierHighSorcererAndromath.Setup()
-  nameWithType: TierHighSorcererAndromath.Setup()
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierHighSorcererAndromath.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierHighSorcererAndromath.html#WarcraftLegacies_Source_Researches_Stormwind_TierHighSorcererAndromath_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Researches.Stormwind.TierHighSorcererAndromath.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierHighSorcererAndromath.Setup
-  nameWithType: TierHighSorcererAndromath.Setup
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierKatranaPrestor
-  name: TierKatranaPrestor
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierKatranaPrestor.html
-  commentId: T:WarcraftLegacies.Source.Researches.Stormwind.TierKatranaPrestor
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierKatranaPrestor
-  nameWithType: TierKatranaPrestor
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierKatranaPrestor.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierKatranaPrestor.html#WarcraftLegacies_Source_Researches_Stormwind_TierKatranaPrestor_Setup
-  commentId: M:WarcraftLegacies.Source.Researches.Stormwind.TierKatranaPrestor.Setup
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierKatranaPrestor.Setup()
-  nameWithType: TierKatranaPrestor.Setup()
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierKatranaPrestor.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierKatranaPrestor.html#WarcraftLegacies_Source_Researches_Stormwind_TierKatranaPrestor_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Researches.Stormwind.TierKatranaPrestor.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierKatranaPrestor.Setup
-  nameWithType: TierKatranaPrestor.Setup
 - uid: WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold
   name: TierKnowledgeOfHonorHold
   href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.html

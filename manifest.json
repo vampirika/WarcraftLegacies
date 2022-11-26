@@ -6893,35 +6893,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierHighSorcererAndromath.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierHighSorcererAndromath.html",
-          "hash": "K8G0f180TccSBn2OxoYkjQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierKatranaPrestor.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierKatranaPrestor.html",
-          "hash": "YNmdeAlxW1NS8uCqXboL5Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.html",
-          "hash": "5KyX3mUBCPVMHU1upQTn9Q=="
+          "hash": "6/VTTVXJh/xNIJXiJw5nLw=="
         }
       },
       "is_incremental": false,
@@ -6981,7 +6957,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.html",
-          "hash": "E1h487STn9VNoOxYoFdQYA=="
+          "hash": "FRb66u+uf0VTXtdzwJCzCw=="
         }
       },
       "is_incremental": false,
@@ -8481,7 +8457,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "bHn7gD29oQx/zQZ8iL+2Sg=="
+          "hash": "lcW3Kku9ajf9eW5fFn+Pzg=="
         }
       },
       "is_incremental": false,
@@ -8556,7 +8532,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 705,
+          "total_file_count": 703,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
