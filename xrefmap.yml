@@ -28715,12 +28715,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul
   fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul
   nameWithType: QuestConquerKul
-- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.#ctor
-  name: QuestConquerKul()
-  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.html#WarcraftLegacies_Source_Quests_Zandalar_QuestConquerKul__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.QuestConquerKul()
-  nameWithType: QuestConquerKul.QuestConquerKul()
+- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.#ctor(Rectangle,MacroTools.QuestSystem.QuestData,MacroTools.QuestSystem.QuestData)
+  name: QuestConquerKul(Rectangle, QuestData, QuestData)
+  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.html#WarcraftLegacies_Source_Quests_Zandalar_QuestConquerKul__ctor_Rectangle_MacroTools_QuestSystem_QuestData_MacroTools_QuestSystem_QuestData_
+  commentId: M:WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.#ctor(Rectangle,MacroTools.QuestSystem.QuestData,MacroTools.QuestSystem.QuestData)
+  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.QuestConquerKul(Rectangle, MacroTools.QuestSystem.QuestData, MacroTools.QuestSystem.QuestData)
+  nameWithType: QuestConquerKul.QuestConquerKul(Rectangle, QuestData, QuestData)
 - uid: WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.#ctor*
   name: QuestConquerKul
   href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.html#WarcraftLegacies_Source_Quests_Zandalar_QuestConquerKul__ctor_
@@ -28754,6 +28754,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.FailurePopup
   nameWithType: QuestConquerKul.FailurePopup
+- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.html#WarcraftLegacies_Source_Quests_Zandalar_QuestConquerKul_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestConquerKul.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.html#WarcraftLegacies_Source_Quests_Zandalar_QuestConquerKul_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.OnComplete
+  nameWithType: QuestConquerKul.OnComplete
 - uid: WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.OnFail(MacroTools.FactionSystem.Faction)
   name: OnFail(Faction)
   href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.html#WarcraftLegacies_Source_Quests_Zandalar_QuestConquerKul_OnFail_MacroTools_FactionSystem_Faction_
@@ -28825,19 +28838,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.CompletionPopup
   nameWithType: QuestGoldenFleet.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.OnAdd(MacroTools.FactionSystem.Faction)
-  name: OnAdd(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.html#WarcraftLegacies_Source_Quests_Zandalar_QuestGoldenFleet_OnAdd_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.OnAdd(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.OnAdd(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestGoldenFleet.OnAdd(Faction)
-- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.OnAdd*
-  name: OnAdd
-  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.html#WarcraftLegacies_Source_Quests_Zandalar_QuestGoldenFleet_OnAdd_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.OnAdd
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.OnAdd
-  nameWithType: QuestGoldenFleet.OnAdd
 - uid: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.html#WarcraftLegacies_Source_Quests_Zandalar_QuestGoldenFleet_RewardDescription
