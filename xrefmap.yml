@@ -10911,6 +10911,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.PreplacedUnitSystem.GetUnit
   nameWithType: PreplacedUnitSystem.GetUnit
+- uid: MacroTools.PreplacedUnitSystem.GetUnits(System.Int32)
+  name: GetUnits(Int32)
+  href: api-macroTools/MacroTools.PreplacedUnitSystem.html#MacroTools_PreplacedUnitSystem_GetUnits_System_Int32_
+  commentId: M:MacroTools.PreplacedUnitSystem.GetUnits(System.Int32)
+  fullName: MacroTools.PreplacedUnitSystem.GetUnits(System.Int32)
+  nameWithType: PreplacedUnitSystem.GetUnits(Int32)
+- uid: MacroTools.PreplacedUnitSystem.GetUnits*
+  name: GetUnits
+  href: api-macroTools/MacroTools.PreplacedUnitSystem.html#MacroTools_PreplacedUnitSystem_GetUnits_
+  commentId: Overload:MacroTools.PreplacedUnitSystem.GetUnits
+  isSpec: "True"
+  fullName: MacroTools.PreplacedUnitSystem.GetUnits
+  nameWithType: PreplacedUnitSystem.GetUnits
 - uid: MacroTools.QuestMenuSetup
   name: QuestMenuSetup
   href: api-macroTools/MacroTools.QuestMenuSetup.html
