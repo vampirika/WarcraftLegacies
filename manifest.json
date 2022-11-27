@@ -1149,7 +1149,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.CustomPlayerUnitEvents.html",
-          "hash": "dfNVKLGMU2SAp+Bki/oMFg=="
+          "hash": "NAXkW9lq8eDzfAL64sWDmQ=="
         }
       },
       "is_incremental": false,
@@ -1461,7 +1461,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Power.html",
-          "hash": "6hJbIIc0OFVDJrFWsOtVIQ=="
+          "hash": "YCnrbl5Ilbskpyx98V6/mg=="
         }
       },
       "is_incremental": false,
@@ -2285,6 +2285,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Powers.Rematerialization.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Powers.Rematerialization.html",
+          "hash": "PpnDTmMkm6oyCocXQ98usQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Powers.TitanicStrength.yml",
       "output": {
         ".html": {
@@ -2313,7 +2325,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Powers.html",
-          "hash": "ZVv7nHHo8X7ccDLhcw0SbA=="
+          "hash": "XaCHPZv2geDK5j98deFAnA=="
         }
       },
       "is_incremental": false,
@@ -3669,7 +3681,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "xSVuWOBmDEb2zPHwm5qmQQ=="
+          "hash": "uS1VBHYnwsP/2Ya2c8erlQ=="
         }
       },
       "is_incremental": false,
@@ -8133,7 +8145,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.ResearchSetup.html",
-          "hash": "dKlPvJZOg7KJXzZ6eQPpeg=="
+          "hash": "ZVW3ORdBthjdMIhVBgEtDA=="
         }
       },
       "is_incremental": false,
@@ -8361,7 +8373,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.html",
-          "hash": "vEt7/hsZ+nGVpkortfYr1A=="
+          "hash": "Phk2J8EANYqft3kAIuLBlQ=="
         }
       },
       "is_incremental": false,
@@ -8532,7 +8544,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 703,
+          "total_file_count": 704,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

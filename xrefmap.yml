@@ -4133,6 +4133,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.CustomPlayerUnitEvents.PlayerFinishesTraining
   nameWithType: CustomPlayerUnitEvents.PlayerFinishesTraining
+- uid: MacroTools.CustomPlayerUnitEvents.PlayerUnitDies
+  name: PlayerUnitDies
+  href: api-macroTools/MacroTools.CustomPlayerUnitEvents.html#MacroTools_CustomPlayerUnitEvents_PlayerUnitDies
+  commentId: P:MacroTools.CustomPlayerUnitEvents.PlayerUnitDies
+  fullName: MacroTools.CustomPlayerUnitEvents.PlayerUnitDies
+  nameWithType: CustomPlayerUnitEvents.PlayerUnitDies
+- uid: MacroTools.CustomPlayerUnitEvents.PlayerUnitDies*
+  name: PlayerUnitDies
+  href: api-macroTools/MacroTools.CustomPlayerUnitEvents.html#MacroTools_CustomPlayerUnitEvents_PlayerUnitDies_
+  commentId: Overload:MacroTools.CustomPlayerUnitEvents.PlayerUnitDies
+  isSpec: "True"
+  fullName: MacroTools.CustomPlayerUnitEvents.PlayerUnitDies
+  nameWithType: CustomPlayerUnitEvents.PlayerUnitDies
 - uid: MacroTools.DialogueSystem
   name: MacroTools.DialogueSystem
   href: api-macroTools/MacroTools.DialogueSystem.html
@@ -10761,6 +10774,64 @@ references:
   isSpec: "True"
   fullName: MacroTools.Powers.RapidMobilization.OnRemove
   nameWithType: RapidMobilization.OnRemove
+- uid: MacroTools.Powers.Rematerialization
+  name: Rematerialization
+  href: api-macroTools/MacroTools.Powers.Rematerialization.html
+  commentId: T:MacroTools.Powers.Rematerialization
+  fullName: MacroTools.Powers.Rematerialization
+  nameWithType: Rematerialization
+- uid: MacroTools.Powers.Rematerialization.#ctor(System.Single,Point,System.String,Rectangle)
+  name: Rematerialization(Single, Point, String, Rectangle)
+  href: api-macroTools/MacroTools.Powers.Rematerialization.html#MacroTools_Powers_Rematerialization__ctor_System_Single_Point_System_String_Rectangle_
+  commentId: M:MacroTools.Powers.Rematerialization.#ctor(System.Single,Point,System.String,Rectangle)
+  fullName: MacroTools.Powers.Rematerialization.Rematerialization(System.Single, Point, System.String, Rectangle)
+  nameWithType: Rematerialization.Rematerialization(Single, Point, String, Rectangle)
+- uid: MacroTools.Powers.Rematerialization.#ctor*
+  name: Rematerialization
+  href: api-macroTools/MacroTools.Powers.Rematerialization.html#MacroTools_Powers_Rematerialization__ctor_
+  commentId: Overload:MacroTools.Powers.Rematerialization.#ctor
+  isSpec: "True"
+  fullName: MacroTools.Powers.Rematerialization.Rematerialization
+  nameWithType: Rematerialization.Rematerialization
+- uid: MacroTools.Powers.Rematerialization.EligibilityCondition
+  name: EligibilityCondition
+  href: api-macroTools/MacroTools.Powers.Rematerialization.html#MacroTools_Powers_Rematerialization_EligibilityCondition
+  commentId: P:MacroTools.Powers.Rematerialization.EligibilityCondition
+  fullName: MacroTools.Powers.Rematerialization.EligibilityCondition
+  nameWithType: Rematerialization.EligibilityCondition
+- uid: MacroTools.Powers.Rematerialization.EligibilityCondition*
+  name: EligibilityCondition
+  href: api-macroTools/MacroTools.Powers.Rematerialization.html#MacroTools_Powers_Rematerialization_EligibilityCondition_
+  commentId: Overload:MacroTools.Powers.Rematerialization.EligibilityCondition
+  isSpec: "True"
+  fullName: MacroTools.Powers.Rematerialization.EligibilityCondition
+  nameWithType: Rematerialization.EligibilityCondition
+- uid: MacroTools.Powers.Rematerialization.OnAdd(player)
+  name: OnAdd(player)
+  href: api-macroTools/MacroTools.Powers.Rematerialization.html#MacroTools_Powers_Rematerialization_OnAdd_player_
+  commentId: M:MacroTools.Powers.Rematerialization.OnAdd(player)
+  fullName: MacroTools.Powers.Rematerialization.OnAdd(player)
+  nameWithType: Rematerialization.OnAdd(player)
+- uid: MacroTools.Powers.Rematerialization.OnAdd*
+  name: OnAdd
+  href: api-macroTools/MacroTools.Powers.Rematerialization.html#MacroTools_Powers_Rematerialization_OnAdd_
+  commentId: Overload:MacroTools.Powers.Rematerialization.OnAdd
+  isSpec: "True"
+  fullName: MacroTools.Powers.Rematerialization.OnAdd
+  nameWithType: Rematerialization.OnAdd
+- uid: MacroTools.Powers.Rematerialization.OnRemove(player)
+  name: OnRemove(player)
+  href: api-macroTools/MacroTools.Powers.Rematerialization.html#MacroTools_Powers_Rematerialization_OnRemove_player_
+  commentId: M:MacroTools.Powers.Rematerialization.OnRemove(player)
+  fullName: MacroTools.Powers.Rematerialization.OnRemove(player)
+  nameWithType: Rematerialization.OnRemove(player)
+- uid: MacroTools.Powers.Rematerialization.OnRemove*
+  name: OnRemove
+  href: api-macroTools/MacroTools.Powers.Rematerialization.html#MacroTools_Powers_Rematerialization_OnRemove_
+  commentId: Overload:MacroTools.Powers.Rematerialization.OnRemove
+  isSpec: "True"
+  fullName: MacroTools.Powers.Rematerialization.OnRemove
+  nameWithType: Rematerialization.OnRemove
 - uid: MacroTools.Powers.TitanicStrength
   name: TitanicStrength
   href: api-macroTools/MacroTools.Powers.TitanicStrength.html
