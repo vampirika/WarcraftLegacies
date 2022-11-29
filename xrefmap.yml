@@ -8264,6 +8264,38 @@ references:
   commentId: N:MacroTools.Libraries
   fullName: MacroTools.Libraries
   nameWithType: MacroTools.Libraries
+- uid: MacroTools.Libraries.DestructibleHider
+  name: DestructibleHider
+  href: api-macroTools/MacroTools.Libraries.DestructibleHider.html
+  commentId: T:MacroTools.Libraries.DestructibleHider
+  fullName: MacroTools.Libraries.DestructibleHider
+  nameWithType: DestructibleHider
+- uid: MacroTools.Libraries.DestructibleHider.Register(destructable)
+  name: Register(destructable)
+  href: api-macroTools/MacroTools.Libraries.DestructibleHider.html#MacroTools_Libraries_DestructibleHider_Register_destructable_
+  commentId: M:MacroTools.Libraries.DestructibleHider.Register(destructable)
+  fullName: MacroTools.Libraries.DestructibleHider.Register(destructable)
+  nameWithType: DestructibleHider.Register(destructable)
+- uid: MacroTools.Libraries.DestructibleHider.Register*
+  name: Register
+  href: api-macroTools/MacroTools.Libraries.DestructibleHider.html#MacroTools_Libraries_DestructibleHider_Register_
+  commentId: Overload:MacroTools.Libraries.DestructibleHider.Register
+  isSpec: "True"
+  fullName: MacroTools.Libraries.DestructibleHider.Register
+  nameWithType: DestructibleHider.Register
+- uid: MacroTools.Libraries.DestructibleHider.Unregister(destructable)
+  name: Unregister(destructable)
+  href: api-macroTools/MacroTools.Libraries.DestructibleHider.html#MacroTools_Libraries_DestructibleHider_Unregister_destructable_
+  commentId: M:MacroTools.Libraries.DestructibleHider.Unregister(destructable)
+  fullName: MacroTools.Libraries.DestructibleHider.Unregister(destructable)
+  nameWithType: DestructibleHider.Unregister(destructable)
+- uid: MacroTools.Libraries.DestructibleHider.Unregister*
+  name: Unregister
+  href: api-macroTools/MacroTools.Libraries.DestructibleHider.html#MacroTools_Libraries_DestructibleHider_Unregister_
+  commentId: Overload:MacroTools.Libraries.DestructibleHider.Unregister
+  isSpec: "True"
+  fullName: MacroTools.Libraries.DestructibleHider.Unregister
+  nameWithType: DestructibleHider.Unregister
 - uid: MacroTools.Libraries.Display
   name: Display
   href: api-macroTools/MacroTools.Libraries.Display.html

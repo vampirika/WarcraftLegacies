@@ -1721,6 +1721,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Libraries.DestructibleHider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Libraries.DestructibleHider.html",
+          "hash": "zIxq7GLDItgxMZo8Sma29g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Libraries.Display.yml",
       "output": {
         ".html": {
@@ -1773,7 +1785,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Libraries.html",
-          "hash": "YWc50ADIZzV6PR35m/bLeg=="
+          "hash": "V07q4LvOpfaK1qIxVV1zag=="
         }
       },
       "is_incremental": false,
@@ -3681,7 +3693,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "uS1VBHYnwsP/2Ya2c8erlQ=="
+          "hash": "b4oC0JK31Y07KgYfHBXHCQ=="
         }
       },
       "is_incremental": false,
@@ -8544,7 +8556,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 704,
+          "total_file_count": 705,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
