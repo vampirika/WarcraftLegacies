@@ -1913,6 +1913,30 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Missiles.DefensiveOrbMissile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Missiles.DefensiveOrbMissile.html",
+          "hash": "t1NiVUnA+cegqOcPB8Pt4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Missiles.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Missiles.html",
+          "hash": "vpqotD4IwuG1tRXML44sdQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.AnimalCompanion.yml",
       "output": {
         ".html": {
@@ -1930,6 +1954,18 @@
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.AnimationSpeedMultiplier.html",
           "hash": "boCTiLlOETTwlYLSmftEsw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.DefensiveOrbs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.PassiveAbilities.DefensiveOrbs.html",
+          "hash": "iJOYuzxGHECfGlHN70hCEQ=="
         }
       },
       "is_incremental": false,
@@ -2121,7 +2157,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.html",
-          "hash": "P9sisWGCf6zrSI2v/viFEA=="
+          "hash": "vMiCKjIB3fwMuqt6O/HEQw=="
         }
       },
       "is_incremental": false,
@@ -2157,7 +2193,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html",
-          "hash": "/lszBALJo4W9AwCItNPBFQ=="
+          "hash": "H0UB81dbkV9wI6xFslTdhw=="
         }
       },
       "is_incremental": false,
@@ -3693,7 +3729,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "b4oC0JK31Y07KgYfHBXHCQ=="
+          "hash": "4n15hMSBjyYvMSIzh1Sosw=="
         }
       },
       "is_incremental": false,
@@ -8301,7 +8337,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.QuelthalasSpellSetup.html",
-          "hash": "yIFmWkIYfENr17/HR4926w=="
+          "hash": "eyGn0o+hfPYvBbkP62S3HQ=="
         }
       },
       "is_incremental": false,
@@ -8556,7 +8592,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 705,
+          "total_file_count": 708,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
