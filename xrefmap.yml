@@ -21267,6 +21267,32 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.CompletionPopup
   nameWithType: QuestScholomanceBuild.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.html#WarcraftLegacies_Source_Quests_Forsaken_QuestScholomanceBuild_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestScholomanceBuild.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.html#WarcraftLegacies_Source_Quests_Forsaken_QuestScholomanceBuild_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.OnComplete
+  nameWithType: QuestScholomanceBuild.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.OnFail(MacroTools.FactionSystem.Faction)
+  name: OnFail(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.html#WarcraftLegacies_Source_Quests_Forsaken_QuestScholomanceBuild_OnFail_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.OnFail(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.OnFail(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestScholomanceBuild.OnFail(Faction)
+- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.OnFail*
+  name: OnFail
+  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.html#WarcraftLegacies_Source_Quests_Forsaken_QuestScholomanceBuild_OnFail_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.OnFail
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.OnFail
+  nameWithType: QuestScholomanceBuild.OnFail
 - uid: WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.html#WarcraftLegacies_Source_Quests_Forsaken_QuestScholomanceBuild_RewardDescription
