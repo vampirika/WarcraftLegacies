@@ -32934,84 +32934,71 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.Legends.LegendGilneas
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas
   nameWithType: LegendGilneas
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendDarius
-  name: LegendDarius
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_LegendDarius
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendDarius
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendDarius
-  nameWithType: LegendGilneas.LegendDarius
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendDarius*
-  name: LegendDarius
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_LegendDarius_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendDarius
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Darius
+  name: Darius
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_Darius
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Darius
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Darius
+  nameWithType: LegendGilneas.Darius
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Darius*
+  name: Darius
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_Darius_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Darius
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendDarius
-  nameWithType: LegendGilneas.LegendDarius
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGenn
-  name: LegendGenn
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_LegendGenn
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGenn
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGenn
-  nameWithType: LegendGilneas.LegendGenn
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGenn*
-  name: LegendGenn
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_LegendGenn_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGenn
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Darius
+  nameWithType: LegendGilneas.Darius
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Genn
+  name: Genn
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_Genn
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Genn
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Genn
+  nameWithType: LegendGilneas.Genn
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Genn*
+  name: Genn
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_Genn_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Genn
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGenn
-  nameWithType: LegendGilneas.LegendGenn
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGilneascastle
-  name: LegendGilneascastle
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_LegendGilneascastle
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGilneascastle
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGilneascastle
-  nameWithType: LegendGilneas.LegendGilneascastle
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGilneascastle*
-  name: LegendGilneascastle
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_LegendGilneascastle_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGilneascastle
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Genn
+  nameWithType: LegendGilneas.Genn
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.GilneasCastle
+  name: GilneasCastle
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_GilneasCastle
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.GilneasCastle
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.GilneasCastle
+  nameWithType: LegendGilneas.GilneasCastle
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.GilneasCastle*
+  name: GilneasCastle
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_GilneasCastle_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.GilneasCastle
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGilneascastle
-  nameWithType: LegendGilneas.LegendGilneascastle
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGoldrinn
-  name: LegendGoldrinn
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_LegendGoldrinn
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGoldrinn
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGoldrinn
-  nameWithType: LegendGilneas.LegendGoldrinn
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGoldrinn*
-  name: LegendGoldrinn
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_LegendGoldrinn_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGoldrinn
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.GilneasCastle
+  nameWithType: LegendGilneas.GilneasCastle
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Goldrinn
+  name: Goldrinn
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_Goldrinn
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Goldrinn
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Goldrinn
+  nameWithType: LegendGilneas.Goldrinn
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Goldrinn*
+  name: Goldrinn
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_Goldrinn_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Goldrinn
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGoldrinn
-  nameWithType: LegendGilneas.LegendGoldrinn
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendLightdawn
-  name: LegendLightdawn
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_LegendLightdawn
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendLightdawn
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendLightdawn
-  nameWithType: LegendGilneas.LegendLightdawn
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendLightdawn*
-  name: LegendLightdawn
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_LegendLightdawn_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendLightdawn
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Goldrinn
+  nameWithType: LegendGilneas.Goldrinn
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LightDawn
+  name: LightDawn
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_LightDawn
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LightDawn
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LightDawn
+  nameWithType: LegendGilneas.LightDawn
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LightDawn*
+  name: LightDawn
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_LightDawn_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LightDawn
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendLightdawn
-  nameWithType: LegendGilneas.LegendLightdawn
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendTess
-  name: LegendTess
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_LegendTess
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendTess
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendTess
-  nameWithType: LegendGilneas.LegendTess
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendTess*
-  name: LegendTess
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_LegendTess_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendTess
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendTess
-  nameWithType: LegendGilneas.LegendTess
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LightDawn
+  nameWithType: LegendGilneas.LightDawn
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Setup
   name: Setup()
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_Setup
@@ -33025,6 +33012,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Setup
   nameWithType: LegendGilneas.Setup
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Tess
+  name: Tess
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_Tess
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Tess
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Tess
+  nameWithType: LegendGilneas.Tess
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Tess*
+  name: Tess
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_Tess_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Tess
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Tess
+  nameWithType: LegendGilneas.Tess
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendGoblin
   name: LegendGoblin
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGoblin.html
