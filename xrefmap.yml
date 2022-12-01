@@ -10543,6 +10543,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Powers.CityOfHeroes.CityOfHeroes
   nameWithType: CityOfHeroes.CityOfHeroes
+- uid: MacroTools.Powers.CityOfHeroes.Filter
+  name: Filter
+  href: api-macroTools/MacroTools.Powers.CityOfHeroes.html#MacroTools_Powers_CityOfHeroes_Filter
+  commentId: P:MacroTools.Powers.CityOfHeroes.Filter
+  fullName: MacroTools.Powers.CityOfHeroes.Filter
+  nameWithType: CityOfHeroes.Filter
+- uid: MacroTools.Powers.CityOfHeroes.Filter*
+  name: Filter
+  href: api-macroTools/MacroTools.Powers.CityOfHeroes.html#MacroTools_Powers_CityOfHeroes_Filter_
+  commentId: Overload:MacroTools.Powers.CityOfHeroes.Filter
+  isSpec: "True"
+  fullName: MacroTools.Powers.CityOfHeroes.Filter
+  nameWithType: CityOfHeroes.Filter
 - uid: MacroTools.Powers.CityOfHeroes.HeroGlowAbilityTypeId
   name: HeroGlowAbilityTypeId
   href: api-macroTools/MacroTools.Powers.CityOfHeroes.html#MacroTools_Powers_CityOfHeroes_HeroGlowAbilityTypeId
