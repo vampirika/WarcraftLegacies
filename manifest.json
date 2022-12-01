@@ -1353,7 +1353,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Faction.html",
-          "hash": "nHQCnyujxTiAmmze4wWedA=="
+          "hash": "jMb4KdUOjeffRiNF6gvwGA=="
         }
       },
       "is_incremental": false,
@@ -1437,7 +1437,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.PlayerExtensions.html",
-          "hash": "VfMfftgTNj9ZkGMMVKtwnQ=="
+          "hash": "DR+f2HmhgJkcDbK/yB8BVg=="
         }
       },
       "is_incremental": false,
@@ -1641,7 +1641,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.HintSystem.Hint.html",
-          "hash": "2nSdIsv6zyey3qAfr3A5xw=="
+          "hash": "AFQN4pWM6IzE/sHgA6tkXA=="
         }
       },
       "is_incremental": false,
@@ -1733,18 +1733,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Libraries.Display.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Libraries.Display.html",
-          "hash": "P81WwjztjPZMCJT4PY7blg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Libraries.Environment.yml",
       "output": {
         ".html": {
@@ -1785,7 +1773,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Libraries.html",
-          "hash": "e8z4ZDeGDs7MxmFdrxxhwQ=="
+          "hash": "YSCnkh6n3/4abrhJN9O9ng=="
         }
       },
       "is_incremental": false,
@@ -3729,7 +3717,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "4n15hMSBjyYvMSIzh1Sosw=="
+          "hash": "67aDlNMumEXJdnbcjfn/5Q=="
         }
       },
       "is_incremental": false,
@@ -4569,7 +4557,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestBlueDragons.html",
-          "hash": "Va/Oy/OCDuUMxWXxIbSPoA=="
+          "hash": "YQJWWRgdCeJf5ps22E9ECQ=="
         }
       },
       "is_incremental": false,
@@ -4581,7 +4569,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestCrystalGolem.html",
-          "hash": "2vd9am6W/y4+7R9SH6BmHA=="
+          "hash": "euJTfI1Vk2seQbdp4UGNxA=="
         }
       },
       "is_incremental": false,
@@ -4617,7 +4605,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestJainaSoulGem.html",
-          "hash": "9EHBTAhbTkzsrCtQi6RT3g=="
+          "hash": "Xp2nNNCwCvhgcI73ORlfcA=="
         }
       },
       "is_incremental": false,
@@ -4905,7 +4893,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Druids.QuestDruidsKillFrostwolf.html",
-          "hash": "FPzuLlyPM3pIQBVBx9h6Lw=="
+          "hash": "zhV01Xb/+OCSqIz79Yr4EQ=="
         }
       },
       "is_incremental": false,
@@ -4917,7 +4905,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Druids.QuestDruidsKillWarsong.html",
-          "hash": "FTl/JO7M8nH6eS4QeD162w=="
+          "hash": "UQsWs+NbHTGvASoDPZ7ixQ=="
         }
       },
       "is_incremental": false,
@@ -5193,7 +5181,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestDrektharsSpellbook.html",
-          "hash": "HQuLuZ2XpSGr3frxvm6MSg=="
+          "hash": "AGRIWa788ZgpFMBwseXkmg=="
         }
       },
       "is_incremental": false,
@@ -5733,7 +5721,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestLegionKillLordaeron.html",
-          "hash": "UvLT6bHv6dn3o1jIK2HbIg=="
+          "hash": "9CkvsQT0slMlasLJd+0RSA=="
         }
       },
       "is_incremental": false,
@@ -5817,7 +5805,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestKingdomOfManLordaeron.html",
-          "hash": "x9w3+yLzCaApSML1mpR+iA=="
+          "hash": "CxZ5kT9oi/4LPXZu7DZjKA=="
         }
       },
       "is_incremental": false,
@@ -5877,7 +5865,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestThunderEagle.html",
-          "hash": "Rcn7/NO5Kae85NljgcBcqg=="
+          "hash": "JvJlczVoy3YNckXwK49dCA=="
         }
       },
       "is_incremental": false,
@@ -6057,7 +6045,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html",
-          "hash": "GtE799YeAqzK+LwfCFTDOQ=="
+          "hash": "LggzSKM6m2n8i+YpwgJy3Q=="
         }
       },
       "is_incremental": false,
@@ -6393,7 +6381,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Sentinels.QuestSentinelsKillFrostwolf.html",
-          "hash": "o12CgHatqjfcqUQqL9+DeQ=="
+          "hash": "XDpNBsxl8BO07NzmCuz94Q=="
         }
       },
       "is_incremental": false,
@@ -6417,7 +6405,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Sentinels.QuestVaultoftheWardens.html",
-          "hash": "VxcC1mk+TraT1pJZVAMd1A=="
+          "hash": "BPE3FoeNitJwsdPDr13Uxw=="
         }
       },
       "is_incremental": false,
@@ -6509,18 +6497,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html",
-          "hash": "kVniDiAOpNFxM7qk02s4uA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestLakeshire.yml",
       "output": {
         ".html": {
@@ -6573,7 +6549,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Stormwind.html",
-          "hash": "I94m+K04sbVLTvLFKNMjPw=="
+          "hash": "hw3gO/nkzTwIIV52Pe4PcA=="
         }
       },
       "is_incremental": false,
@@ -6633,7 +6609,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.QuestMoreWyverns.html",
-          "hash": "OvId6ZvHCLVtYrZzDH+zrA=="
+          "hash": "4AlJ/APtCXFrrhof3q8r2A=="
         }
       },
       "is_incremental": false,
@@ -7113,7 +7089,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html",
-          "hash": "7vRjPtWge9qi7JTLk/b/9Q=="
+          "hash": "UZZ9El1sAptravkzS6D+Hw=="
         }
       },
       "is_incremental": false,
@@ -7977,7 +7953,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.html",
-          "hash": "7J15TKbEUneMOYHeFhaCgg=="
+          "hash": "zrsJGsW9Cn6c7FsetWVwUw=="
         }
       },
       "is_incremental": false,
@@ -8097,7 +8073,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.html",
-          "hash": "tPvpxprRhwURgheuovRYVA=="
+          "hash": "YuiTCi5fiDCFYAlNzFm/Tw=="
         }
       },
       "is_incremental": false,
@@ -8505,7 +8481,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "FGYYQfZmL3l5lk6NDrQY8A=="
+          "hash": "tVPCFotYTNmwYmeqP5tQCA=="
         }
       },
       "is_incremental": false,
@@ -8580,7 +8556,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 707,
+          "total_file_count": 705,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

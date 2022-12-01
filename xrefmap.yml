@@ -6771,6 +6771,71 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.PlayerExtensions.ChangeMinimapTerrainTexture
   nameWithType: PlayerExtensions.ChangeMinimapTerrainTexture
+- uid: MacroTools.FactionSystem.PlayerExtensions.DisplayHeroReward(unit,System.Int32,System.Int32,System.Int32,System.Int32)
+  name: DisplayHeroReward(unit, Int32, Int32, Int32, Int32)
+  href: api-macroTools/MacroTools.FactionSystem.PlayerExtensions.html#MacroTools_FactionSystem_PlayerExtensions_DisplayHeroReward_unit_System_Int32_System_Int32_System_Int32_System_Int32_
+  commentId: M:MacroTools.FactionSystem.PlayerExtensions.DisplayHeroReward(unit,System.Int32,System.Int32,System.Int32,System.Int32)
+  fullName: MacroTools.FactionSystem.PlayerExtensions.DisplayHeroReward(unit, System.Int32, System.Int32, System.Int32, System.Int32)
+  nameWithType: PlayerExtensions.DisplayHeroReward(unit, Int32, Int32, Int32, Int32)
+- uid: MacroTools.FactionSystem.PlayerExtensions.DisplayHeroReward*
+  name: DisplayHeroReward
+  href: api-macroTools/MacroTools.FactionSystem.PlayerExtensions.html#MacroTools_FactionSystem_PlayerExtensions_DisplayHeroReward_
+  commentId: Overload:MacroTools.FactionSystem.PlayerExtensions.DisplayHeroReward
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.PlayerExtensions.DisplayHeroReward
+  nameWithType: PlayerExtensions.DisplayHeroReward
+- uid: MacroTools.FactionSystem.PlayerExtensions.DisplayHint(player,System.String)
+  name: DisplayHint(player, String)
+  href: api-macroTools/MacroTools.FactionSystem.PlayerExtensions.html#MacroTools_FactionSystem_PlayerExtensions_DisplayHint_player_System_String_
+  commentId: M:MacroTools.FactionSystem.PlayerExtensions.DisplayHint(player,System.String)
+  fullName: MacroTools.FactionSystem.PlayerExtensions.DisplayHint(player, System.String)
+  nameWithType: PlayerExtensions.DisplayHint(player, String)
+- uid: MacroTools.FactionSystem.PlayerExtensions.DisplayHint*
+  name: DisplayHint
+  href: api-macroTools/MacroTools.FactionSystem.PlayerExtensions.html#MacroTools_FactionSystem_PlayerExtensions_DisplayHint_
+  commentId: Overload:MacroTools.FactionSystem.PlayerExtensions.DisplayHint
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.PlayerExtensions.DisplayHint
+  nameWithType: PlayerExtensions.DisplayHint
+- uid: MacroTools.FactionSystem.PlayerExtensions.DisplayResearchAcquired(player,System.Int32,System.Int32)
+  name: DisplayResearchAcquired(player, Int32, Int32)
+  href: api-macroTools/MacroTools.FactionSystem.PlayerExtensions.html#MacroTools_FactionSystem_PlayerExtensions_DisplayResearchAcquired_player_System_Int32_System_Int32_
+  commentId: M:MacroTools.FactionSystem.PlayerExtensions.DisplayResearchAcquired(player,System.Int32,System.Int32)
+  fullName: MacroTools.FactionSystem.PlayerExtensions.DisplayResearchAcquired(player, System.Int32, System.Int32)
+  nameWithType: PlayerExtensions.DisplayResearchAcquired(player, Int32, Int32)
+- uid: MacroTools.FactionSystem.PlayerExtensions.DisplayResearchAcquired*
+  name: DisplayResearchAcquired
+  href: api-macroTools/MacroTools.FactionSystem.PlayerExtensions.html#MacroTools_FactionSystem_PlayerExtensions_DisplayResearchAcquired_
+  commentId: Overload:MacroTools.FactionSystem.PlayerExtensions.DisplayResearchAcquired
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.PlayerExtensions.DisplayResearchAcquired
+  nameWithType: PlayerExtensions.DisplayResearchAcquired
+- uid: MacroTools.FactionSystem.PlayerExtensions.DisplayUnitLimit(MacroTools.FactionSystem.Faction,System.Int32)
+  name: DisplayUnitLimit(Faction, Int32)
+  href: api-macroTools/MacroTools.FactionSystem.PlayerExtensions.html#MacroTools_FactionSystem_PlayerExtensions_DisplayUnitLimit_MacroTools_FactionSystem_Faction_System_Int32_
+  commentId: M:MacroTools.FactionSystem.PlayerExtensions.DisplayUnitLimit(MacroTools.FactionSystem.Faction,System.Int32)
+  fullName: MacroTools.FactionSystem.PlayerExtensions.DisplayUnitLimit(MacroTools.FactionSystem.Faction, System.Int32)
+  nameWithType: PlayerExtensions.DisplayUnitLimit(Faction, Int32)
+- uid: MacroTools.FactionSystem.PlayerExtensions.DisplayUnitLimit*
+  name: DisplayUnitLimit
+  href: api-macroTools/MacroTools.FactionSystem.PlayerExtensions.html#MacroTools_FactionSystem_PlayerExtensions_DisplayUnitLimit_
+  commentId: Overload:MacroTools.FactionSystem.PlayerExtensions.DisplayUnitLimit
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.PlayerExtensions.DisplayUnitLimit
+  nameWithType: PlayerExtensions.DisplayUnitLimit
+- uid: MacroTools.FactionSystem.PlayerExtensions.DisplayUnitTypeAcquired(player,System.Int32,System.String)
+  name: DisplayUnitTypeAcquired(player, Int32, String)
+  href: api-macroTools/MacroTools.FactionSystem.PlayerExtensions.html#MacroTools_FactionSystem_PlayerExtensions_DisplayUnitTypeAcquired_player_System_Int32_System_String_
+  commentId: M:MacroTools.FactionSystem.PlayerExtensions.DisplayUnitTypeAcquired(player,System.Int32,System.String)
+  fullName: MacroTools.FactionSystem.PlayerExtensions.DisplayUnitTypeAcquired(player, System.Int32, System.String)
+  nameWithType: PlayerExtensions.DisplayUnitTypeAcquired(player, Int32, String)
+- uid: MacroTools.FactionSystem.PlayerExtensions.DisplayUnitTypeAcquired*
+  name: DisplayUnitTypeAcquired
+  href: api-macroTools/MacroTools.FactionSystem.PlayerExtensions.html#MacroTools_FactionSystem_PlayerExtensions_DisplayUnitTypeAcquired_
+  commentId: Overload:MacroTools.FactionSystem.PlayerExtensions.DisplayUnitTypeAcquired
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.PlayerExtensions.DisplayUnitTypeAcquired
+  nameWithType: PlayerExtensions.DisplayUnitTypeAcquired
 - uid: MacroTools.FactionSystem.PlayerExtensions.GetBaseIncome(player)
   name: GetBaseIncome(player)
   href: api-macroTools/MacroTools.FactionSystem.PlayerExtensions.html#MacroTools_FactionSystem_PlayerExtensions_GetBaseIncome_player_
@@ -8296,77 +8361,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Libraries.DestructibleHider.Unregister
   nameWithType: DestructibleHider.Unregister
-- uid: MacroTools.Libraries.Display
-  name: Display
-  href: api-macroTools/MacroTools.Libraries.Display.html
-  commentId: T:MacroTools.Libraries.Display
-  fullName: MacroTools.Libraries.Display
-  nameWithType: Display
-- uid: MacroTools.Libraries.Display.DisplayHeroReward(unit,System.Int32,System.Int32,System.Int32,System.Int32)
-  name: DisplayHeroReward(unit, Int32, Int32, Int32, Int32)
-  href: api-macroTools/MacroTools.Libraries.Display.html#MacroTools_Libraries_Display_DisplayHeroReward_unit_System_Int32_System_Int32_System_Int32_System_Int32_
-  commentId: M:MacroTools.Libraries.Display.DisplayHeroReward(unit,System.Int32,System.Int32,System.Int32,System.Int32)
-  fullName: MacroTools.Libraries.Display.DisplayHeroReward(unit, System.Int32, System.Int32, System.Int32, System.Int32)
-  nameWithType: Display.DisplayHeroReward(unit, Int32, Int32, Int32, Int32)
-- uid: MacroTools.Libraries.Display.DisplayHeroReward*
-  name: DisplayHeroReward
-  href: api-macroTools/MacroTools.Libraries.Display.html#MacroTools_Libraries_Display_DisplayHeroReward_
-  commentId: Overload:MacroTools.Libraries.Display.DisplayHeroReward
-  isSpec: "True"
-  fullName: MacroTools.Libraries.Display.DisplayHeroReward
-  nameWithType: Display.DisplayHeroReward
-- uid: MacroTools.Libraries.Display.DisplayHint(player,System.String)
-  name: DisplayHint(player, String)
-  href: api-macroTools/MacroTools.Libraries.Display.html#MacroTools_Libraries_Display_DisplayHint_player_System_String_
-  commentId: M:MacroTools.Libraries.Display.DisplayHint(player,System.String)
-  fullName: MacroTools.Libraries.Display.DisplayHint(player, System.String)
-  nameWithType: Display.DisplayHint(player, String)
-- uid: MacroTools.Libraries.Display.DisplayHint*
-  name: DisplayHint
-  href: api-macroTools/MacroTools.Libraries.Display.html#MacroTools_Libraries_Display_DisplayHint_
-  commentId: Overload:MacroTools.Libraries.Display.DisplayHint
-  isSpec: "True"
-  fullName: MacroTools.Libraries.Display.DisplayHint
-  nameWithType: Display.DisplayHint
-- uid: MacroTools.Libraries.Display.DisplayResearchAcquired(player,System.Int32,System.Int32)
-  name: DisplayResearchAcquired(player, Int32, Int32)
-  href: api-macroTools/MacroTools.Libraries.Display.html#MacroTools_Libraries_Display_DisplayResearchAcquired_player_System_Int32_System_Int32_
-  commentId: M:MacroTools.Libraries.Display.DisplayResearchAcquired(player,System.Int32,System.Int32)
-  fullName: MacroTools.Libraries.Display.DisplayResearchAcquired(player, System.Int32, System.Int32)
-  nameWithType: Display.DisplayResearchAcquired(player, Int32, Int32)
-- uid: MacroTools.Libraries.Display.DisplayResearchAcquired*
-  name: DisplayResearchAcquired
-  href: api-macroTools/MacroTools.Libraries.Display.html#MacroTools_Libraries_Display_DisplayResearchAcquired_
-  commentId: Overload:MacroTools.Libraries.Display.DisplayResearchAcquired
-  isSpec: "True"
-  fullName: MacroTools.Libraries.Display.DisplayResearchAcquired
-  nameWithType: Display.DisplayResearchAcquired
-- uid: MacroTools.Libraries.Display.DisplayUnitLimit(MacroTools.FactionSystem.Faction,System.Int32)
-  name: DisplayUnitLimit(Faction, Int32)
-  href: api-macroTools/MacroTools.Libraries.Display.html#MacroTools_Libraries_Display_DisplayUnitLimit_MacroTools_FactionSystem_Faction_System_Int32_
-  commentId: M:MacroTools.Libraries.Display.DisplayUnitLimit(MacroTools.FactionSystem.Faction,System.Int32)
-  fullName: MacroTools.Libraries.Display.DisplayUnitLimit(MacroTools.FactionSystem.Faction, System.Int32)
-  nameWithType: Display.DisplayUnitLimit(Faction, Int32)
-- uid: MacroTools.Libraries.Display.DisplayUnitLimit*
-  name: DisplayUnitLimit
-  href: api-macroTools/MacroTools.Libraries.Display.html#MacroTools_Libraries_Display_DisplayUnitLimit_
-  commentId: Overload:MacroTools.Libraries.Display.DisplayUnitLimit
-  isSpec: "True"
-  fullName: MacroTools.Libraries.Display.DisplayUnitLimit
-  nameWithType: Display.DisplayUnitLimit
-- uid: MacroTools.Libraries.Display.DisplayUnitTypeAcquired(player,System.Int32,System.String)
-  name: DisplayUnitTypeAcquired(player, Int32, String)
-  href: api-macroTools/MacroTools.Libraries.Display.html#MacroTools_Libraries_Display_DisplayUnitTypeAcquired_player_System_Int32_System_String_
-  commentId: M:MacroTools.Libraries.Display.DisplayUnitTypeAcquired(player,System.Int32,System.String)
-  fullName: MacroTools.Libraries.Display.DisplayUnitTypeAcquired(player, System.Int32, System.String)
-  nameWithType: Display.DisplayUnitTypeAcquired(player, Int32, String)
-- uid: MacroTools.Libraries.Display.DisplayUnitTypeAcquired*
-  name: DisplayUnitTypeAcquired
-  href: api-macroTools/MacroTools.Libraries.Display.html#MacroTools_Libraries_Display_DisplayUnitTypeAcquired_
-  commentId: Overload:MacroTools.Libraries.Display.DisplayUnitTypeAcquired
-  isSpec: "True"
-  fullName: MacroTools.Libraries.Display.DisplayUnitTypeAcquired
-  nameWithType: Display.DisplayUnitTypeAcquired
 - uid: MacroTools.Libraries.Environment
   name: Environment
   href: api-macroTools/MacroTools.Libraries.Environment.html
@@ -28136,64 +28130,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKhadgar.RewardDescription
   nameWithType: QuestKhadgar.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind
-  name: QuestKingdomOfManStormwind
-  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html
-  commentId: T:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind
-  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind
-  nameWithType: QuestKingdomOfManStormwind
-- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.#ctor
-  name: QuestKingdomOfManStormwind()
-  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html#WarcraftLegacies_Source_Quests_Stormwind_QuestKingdomOfManStormwind__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.QuestKingdomOfManStormwind()
-  nameWithType: QuestKingdomOfManStormwind.QuestKingdomOfManStormwind()
-- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.#ctor*
-  name: QuestKingdomOfManStormwind
-  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html#WarcraftLegacies_Source_Quests_Stormwind_QuestKingdomOfManStormwind__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.QuestKingdomOfManStormwind
-  nameWithType: QuestKingdomOfManStormwind.QuestKingdomOfManStormwind
-- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.CompletionPopup
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html#WarcraftLegacies_Source_Quests_Stormwind_QuestKingdomOfManStormwind_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.CompletionPopup
-  nameWithType: QuestKingdomOfManStormwind.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.CompletionPopup*
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html#WarcraftLegacies_Source_Quests_Stormwind_QuestKingdomOfManStormwind_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.CompletionPopup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.CompletionPopup
-  nameWithType: QuestKingdomOfManStormwind.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html#WarcraftLegacies_Source_Quests_Stormwind_QuestKingdomOfManStormwind_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestKingdomOfManStormwind.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html#WarcraftLegacies_Source_Quests_Stormwind_QuestKingdomOfManStormwind_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.OnComplete
-  nameWithType: QuestKingdomOfManStormwind.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html#WarcraftLegacies_Source_Quests_Stormwind_QuestKingdomOfManStormwind_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.RewardDescription
-  nameWithType: QuestKingdomOfManStormwind.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html#WarcraftLegacies_Source_Quests_Stormwind_QuestKingdomOfManStormwind_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.RewardDescription
-  nameWithType: QuestKingdomOfManStormwind.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Stormwind.QuestLakeshire
   name: QuestLakeshire
   href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestLakeshire.html
@@ -30113,19 +30049,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactAshbringer
   nameWithType: ArtifactSetup.ArtifactAshbringer
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrowneasternkingdoms
-  name: ArtifactCrowneasternkingdoms
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactCrowneasternkingdoms
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrowneasternkingdoms
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrowneasternkingdoms
-  nameWithType: ArtifactSetup.ArtifactCrowneasternkingdoms
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrowneasternkingdoms*
-  name: ArtifactCrowneasternkingdoms
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactCrowneasternkingdoms_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrowneasternkingdoms
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrowneasternkingdoms
-  nameWithType: ArtifactSetup.ArtifactCrowneasternkingdoms
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrownlordaeron
   name: ArtifactCrownlordaeron
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactCrownlordaeron
@@ -30152,32 +30075,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrownstormwind
   nameWithType: ArtifactSetup.ArtifactCrownstormwind
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrowntriumvirate
-  name: ArtifactCrowntriumvirate
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactCrowntriumvirate
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrowntriumvirate
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrowntriumvirate
-  nameWithType: ArtifactSetup.ArtifactCrowntriumvirate
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrowntriumvirate*
-  name: ArtifactCrowntriumvirate
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactCrowntriumvirate_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrowntriumvirate
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrowntriumvirate
-  nameWithType: ArtifactSetup.ArtifactCrowntriumvirate
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactDrektharsspellbook
-  name: ArtifactDrektharsspellbook
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactDrektharsspellbook
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactDrektharsspellbook
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactDrektharsspellbook
-  nameWithType: ArtifactSetup.ArtifactDrektharsspellbook
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactDrektharsspellbook*
-  name: ArtifactDrektharsspellbook
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactDrektharsspellbook_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactDrektharsspellbook
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactDrektharsspellbook
-  nameWithType: ArtifactSetup.ArtifactDrektharsspellbook
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactEyeofsargeras
   name: ArtifactEyeofsargeras
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactEyeofsargeras
@@ -30256,19 +30153,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactSkullofguldan
   nameWithType: ArtifactSetup.ArtifactSkullofguldan
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactSoulgem
-  name: ArtifactSoulgem
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactSoulgem
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactSoulgem
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactSoulgem
-  nameWithType: ArtifactSetup.ArtifactSoulgem
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactSoulgem*
-  name: ArtifactSoulgem
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactSoulgem_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactSoulgem
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactSoulgem
-  nameWithType: ArtifactSetup.ArtifactSoulgem
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactTrolkalar
   name: ArtifactTrolkalar
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactTrolkalar
