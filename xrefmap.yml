@@ -6810,6 +6810,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.PlayerExtensions.DisplayHint
   nameWithType: PlayerExtensions.DisplayHint
+- uid: MacroTools.FactionSystem.PlayerExtensions.DisplayPowerAcquired(player,MacroTools.FactionSystem.Power)
+  name: DisplayPowerAcquired(player, Power)
+  href: api-macroTools/MacroTools.FactionSystem.PlayerExtensions.html#MacroTools_FactionSystem_PlayerExtensions_DisplayPowerAcquired_player_MacroTools_FactionSystem_Power_
+  commentId: M:MacroTools.FactionSystem.PlayerExtensions.DisplayPowerAcquired(player,MacroTools.FactionSystem.Power)
+  fullName: MacroTools.FactionSystem.PlayerExtensions.DisplayPowerAcquired(player, MacroTools.FactionSystem.Power)
+  nameWithType: PlayerExtensions.DisplayPowerAcquired(player, Power)
+- uid: MacroTools.FactionSystem.PlayerExtensions.DisplayPowerAcquired*
+  name: DisplayPowerAcquired
+  href: api-macroTools/MacroTools.FactionSystem.PlayerExtensions.html#MacroTools_FactionSystem_PlayerExtensions_DisplayPowerAcquired_
+  commentId: Overload:MacroTools.FactionSystem.PlayerExtensions.DisplayPowerAcquired
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.PlayerExtensions.DisplayPowerAcquired
+  nameWithType: PlayerExtensions.DisplayPowerAcquired
 - uid: MacroTools.FactionSystem.PlayerExtensions.DisplayResearchAcquired(player,System.Int32,System.Int32)
   name: DisplayResearchAcquired(player, Int32, Int32)
   href: api-macroTools/MacroTools.FactionSystem.PlayerExtensions.html#MacroTools_FactionSystem_PlayerExtensions_DisplayResearchAcquired_player_System_Int32_System_Int32_
