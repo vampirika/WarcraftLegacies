@@ -1461,7 +1461,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Power.html",
-          "hash": "YCnrbl5Ilbskpyx98V6/mg=="
+          "hash": "iPh285hTGUzFSArS7ta8Gg=="
         }
       },
       "is_incremental": false,
@@ -2345,6 +2345,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Powers.UnitsStealMana.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Powers.UnitsStealMana.html",
+          "hash": "KJzt0qi/qc3mT/ElFPtHTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Powers.VisionPower.yml",
       "output": {
         ".html": {
@@ -2361,7 +2373,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Powers.html",
-          "hash": "XaCHPZv2geDK5j98deFAnA=="
+          "hash": "X6BAsPUe/1vzenfomuV+Yw=="
         }
       },
       "is_incremental": false,
@@ -3717,7 +3729,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "67aDlNMumEXJdnbcjfn/5Q=="
+          "hash": "y+ZVv+/6ZJZrKgzO0UVKOg=="
         }
       },
       "is_incremental": false,
@@ -6045,7 +6057,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html",
-          "hash": "LggzSKM6m2n8i+YpwgJy3Q=="
+          "hash": "mBYgiy5uCAdRjBObdjd37g=="
         }
       },
       "is_incremental": false,
@@ -8556,7 +8568,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 705,
+          "total_file_count": 706,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

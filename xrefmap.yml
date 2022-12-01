@@ -11129,6 +11129,51 @@ references:
   isSpec: "True"
   fullName: MacroTools.Powers.TitanicStrength.OnRemove
   nameWithType: TitanicStrength.OnRemove
+- uid: MacroTools.Powers.UnitsStealMana
+  name: UnitsStealMana
+  href: api-macroTools/MacroTools.Powers.UnitsStealMana.html
+  commentId: T:MacroTools.Powers.UnitsStealMana
+  fullName: MacroTools.Powers.UnitsStealMana
+  nameWithType: UnitsStealMana
+- uid: MacroTools.Powers.UnitsStealMana.#ctor(System.Single)
+  name: UnitsStealMana(Single)
+  href: api-macroTools/MacroTools.Powers.UnitsStealMana.html#MacroTools_Powers_UnitsStealMana__ctor_System_Single_
+  commentId: M:MacroTools.Powers.UnitsStealMana.#ctor(System.Single)
+  fullName: MacroTools.Powers.UnitsStealMana.UnitsStealMana(System.Single)
+  nameWithType: UnitsStealMana.UnitsStealMana(Single)
+- uid: MacroTools.Powers.UnitsStealMana.#ctor*
+  name: UnitsStealMana
+  href: api-macroTools/MacroTools.Powers.UnitsStealMana.html#MacroTools_Powers_UnitsStealMana__ctor_
+  commentId: Overload:MacroTools.Powers.UnitsStealMana.#ctor
+  isSpec: "True"
+  fullName: MacroTools.Powers.UnitsStealMana.UnitsStealMana
+  nameWithType: UnitsStealMana.UnitsStealMana
+- uid: MacroTools.Powers.UnitsStealMana.OnAdd(player)
+  name: OnAdd(player)
+  href: api-macroTools/MacroTools.Powers.UnitsStealMana.html#MacroTools_Powers_UnitsStealMana_OnAdd_player_
+  commentId: M:MacroTools.Powers.UnitsStealMana.OnAdd(player)
+  fullName: MacroTools.Powers.UnitsStealMana.OnAdd(player)
+  nameWithType: UnitsStealMana.OnAdd(player)
+- uid: MacroTools.Powers.UnitsStealMana.OnAdd*
+  name: OnAdd
+  href: api-macroTools/MacroTools.Powers.UnitsStealMana.html#MacroTools_Powers_UnitsStealMana_OnAdd_
+  commentId: Overload:MacroTools.Powers.UnitsStealMana.OnAdd
+  isSpec: "True"
+  fullName: MacroTools.Powers.UnitsStealMana.OnAdd
+  nameWithType: UnitsStealMana.OnAdd
+- uid: MacroTools.Powers.UnitsStealMana.OnRemove(player)
+  name: OnRemove(player)
+  href: api-macroTools/MacroTools.Powers.UnitsStealMana.html#MacroTools_Powers_UnitsStealMana_OnRemove_player_
+  commentId: M:MacroTools.Powers.UnitsStealMana.OnRemove(player)
+  fullName: MacroTools.Powers.UnitsStealMana.OnRemove(player)
+  nameWithType: UnitsStealMana.OnRemove(player)
+- uid: MacroTools.Powers.UnitsStealMana.OnRemove*
+  name: OnRemove
+  href: api-macroTools/MacroTools.Powers.UnitsStealMana.html#MacroTools_Powers_UnitsStealMana_OnRemove_
+  commentId: Overload:MacroTools.Powers.UnitsStealMana.OnRemove
+  isSpec: "True"
+  fullName: MacroTools.Powers.UnitsStealMana.OnRemove
+  nameWithType: UnitsStealMana.OnRemove
 - uid: MacroTools.Powers.VisionPower
   name: VisionPower
   href: api-macroTools/MacroTools.Powers.VisionPower.html
