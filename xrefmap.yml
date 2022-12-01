@@ -18867,15 +18867,15 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Dalaran.QuestDalaran
   fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestDalaran
   nameWithType: QuestDalaran
-- uid: WarcraftLegacies.Source.Quests.Dalaran.QuestDalaran.#ctor(IEnumerable{Rectangle})
-  name: QuestDalaran(IEnumerable<Rectangle>)
-  href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestDalaran.html#WarcraftLegacies_Source_Quests_Dalaran_QuestDalaran__ctor_IEnumerable_Rectangle__
-  commentId: M:WarcraftLegacies.Source.Quests.Dalaran.QuestDalaran.#ctor(IEnumerable{Rectangle})
-  name.vb: QuestDalaran(IEnumerable(Of Rectangle))
-  fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestDalaran.QuestDalaran(IEnumerable<Rectangle>)
-  fullName.vb: WarcraftLegacies.Source.Quests.Dalaran.QuestDalaran.QuestDalaran(IEnumerable(Of Rectangle))
-  nameWithType: QuestDalaran.QuestDalaran(IEnumerable<Rectangle>)
-  nameWithType.vb: QuestDalaran.QuestDalaran(IEnumerable(Of Rectangle))
+- uid: WarcraftLegacies.Source.Quests.Dalaran.QuestDalaran.#ctor(IEnumerable{Rectangle},IEnumerable{MacroTools.QuestSystem.QuestData})
+  name: QuestDalaran(IEnumerable<Rectangle>, IEnumerable<QuestData>)
+  href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestDalaran.html#WarcraftLegacies_Source_Quests_Dalaran_QuestDalaran__ctor_IEnumerable_Rectangle__IEnumerable_MacroTools_QuestSystem_QuestData__
+  commentId: M:WarcraftLegacies.Source.Quests.Dalaran.QuestDalaran.#ctor(IEnumerable{Rectangle},IEnumerable{MacroTools.QuestSystem.QuestData})
+  name.vb: QuestDalaran(IEnumerable(Of Rectangle), IEnumerable(Of QuestData))
+  fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestDalaran.QuestDalaran(IEnumerable<Rectangle>, IEnumerable<MacroTools.QuestSystem.QuestData>)
+  fullName.vb: WarcraftLegacies.Source.Quests.Dalaran.QuestDalaran.QuestDalaran(IEnumerable(Of Rectangle), IEnumerable(Of MacroTools.QuestSystem.QuestData))
+  nameWithType: QuestDalaran.QuestDalaran(IEnumerable<Rectangle>, IEnumerable<QuestData>)
+  nameWithType.vb: QuestDalaran.QuestDalaran(IEnumerable(Of Rectangle), IEnumerable(Of QuestData))
 - uid: WarcraftLegacies.Source.Quests.Dalaran.QuestDalaran.#ctor*
   name: QuestDalaran
   href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestDalaran.html#WarcraftLegacies_Source_Quests_Dalaran_QuestDalaran__ctor_
