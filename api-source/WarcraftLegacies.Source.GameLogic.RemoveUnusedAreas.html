@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Namespace WarcraftLegacies.Source.GameLogic
+    <title>Class RemoveUnusedAreas
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Namespace WarcraftLegacies.Source.GameLogic
+    <meta name="title" content="Class RemoveUnusedAreas
    ">
     <meta name="generator" content="docfx 2.56.7.0">
     
@@ -68,59 +68,43 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="WarcraftLegacies.Source.GameLogic">
+            <article class="content wrap" id="_content" data-uid="WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas">
   
-  <h1 id="WarcraftLegacies_Source_GameLogic" data-uid="WarcraftLegacies.Source.GameLogic" class="text-break">Namespace WarcraftLegacies.Source.GameLogic
+  
+  <h1 id="WarcraftLegacies_Source_GameLogic_RemoveUnusedAreas" data-uid="WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas" class="text-break">Class RemoveUnusedAreas
   </h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>Removes units in areas of the map that are not currently in use.</p>
+</div>
   <div class="markdown level0 conceptual"></div>
-  <div class="markdown level0 remarks"></div>
-    <h3 id="classes">Classes
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><span class="xref">RemoveUnusedAreas</span></div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="WarcraftLegacies.Source.GameLogic.html">WarcraftLegacies.Source.GameLogic</a></h6>
+  <h6><strong>Assembly</strong>: WarcraftLegacies.Source.dll</h6>
+  <h5 id="WarcraftLegacies_Source_GameLogic_RemoveUnusedAreas_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static class RemoveUnusedAreas : object</code></pre>
+  </div>
+  <h3 id="methods">Methods
   </h3>
-      <h4><a class="xref" href="WarcraftLegacies.Source.GameLogic.CinematicMode.html">CinematicMode</a></h4>
-      <section><p>Used to engage cinematic mode, which prevents players from taking actions and manipulates sound
-and weather effects for a cinematic experience.</p>
-</section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.GameLogic.CleanPersons.html">CleanPersons</a></h4>
-      <section><p>Responsible for ensuring that unoccupied player slots do not persist in the game.</p>
-</section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.GameLogic.DisplayIntroText.html">DisplayIntroText</a></h4>
-      <section><p>Display intro text to all players after some period of time has elapsed.</p>
-</section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.GameLogic.GameSettings.html">GameSettings</a></h4>
-      <section><p>Responsible for managing basic game settings.</p>
-</section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.GameLogic.HeroGlowFix.html">HeroGlowFix</a></h4>
-      <section><p>Responsible for managing hero glow colours.</p>
-</section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.GameLogic.InfoQuests.html">InfoQuests</a></h4>
-      <section><p>Provides a set of dummy quests that provide information to players.</p>
-</section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.GameLogic.OpenAllianceVote.html">OpenAllianceVote</a></h4>
-      <section><p>Players can vote as to whether or not all players can freely ally.</p>
-</section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.GameLogic.RefundZeroLimitUnits.html">RefundZeroLimitUnits</a></h4>
-      <section><p>If a unit with a tech limit of 0 is trained or revived, delete and refund it instantly.</p>
-</section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas.html">RemoveUnusedAreas</a></h4>
-      <section><p>Removes units in areas of the map that are not currently in use.</p>
-</section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.GameLogic.ShipyardBanZones.html">ShipyardBanZones</a></h4>
-      <section><p>Responsible for preventing Shipyards from being constructed in specific areas.</p>
-</section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.GameLogic.StartingQuestPopup.html">StartingQuestPopup</a></h4>
-      <section><p>Responsible for displaying each <a class="xref" href="../api-macroTools/MacroTools.FactionSystem.Faction.html">Faction</a>'s starting <a class="xref" href="../api-macroTools/MacroTools.QuestSystem.QuestData.html">QuestData</a>.</p>
-</section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.GameLogic.StartingResources.html">StartingResources</a></h4>
-      <section><p>Responsible for giving players resources at the start of the game.</p>
-</section>
-      <h4><a class="xref" href="WarcraftLegacies.Source.GameLogic.SummonRallyPoints.html">SummonRallyPoints</a></h4>
-      <section><p>When units are summoned by buildings, send them to attack-move towards their rally points.</p>
-</section>
-    <h3 id="enums">Enums
-  </h3>
-      <h4><a class="xref" href="WarcraftLegacies.Source.GameLogic.CinematicState.html">CinematicState</a></h4>
-      <section></section>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_GameLogic_RemoveUnusedAreas_Run.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas.Run%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/GameLogic/RemoveUnusedAreas.cs/#L16">View Source</a>
+  </span>
+  <a id="WarcraftLegacies_Source_GameLogic_RemoveUnusedAreas_Run_" data-uid="WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas.Run*"></a>
+  <h4 id="WarcraftLegacies_Source_GameLogic_RemoveUnusedAreas_Run" data-uid="WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas.Run">Run()</h4>
+  <div class="markdown level1 summary"><p>Runs <a class="xref" href="WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas.html">RemoveUnusedAreas</a>.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void Run()</code></pre>
+  </div>
 </article>
           </div>
           
@@ -128,6 +112,12 @@ and weather effects for a cinematic experience.</p>
             <div class="sideaffix">
               <div class="contribution">
                 <ul class="nav">
+                  <li>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_GameLogic_RemoveUnusedAreas.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                  </li>
+                  <li>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/GameLogic/RemoveUnusedAreas.cs/#L11" class="contribution-link">View Source</a>
+                  </li>
                 </ul>
               </div>
               <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">

@@ -4133,6 +4133,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas.html",
+          "hash": "sANdBp9JmTqHwxQZoi+K7w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.ShipyardBanZones.yml",
       "output": {
         ".html": {
@@ -4185,7 +4197,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.html",
-          "hash": "EwWWmBK18tprr7ft5jevlQ=="
+          "hash": "rjdWxs0N23SsJVlfe1UrDg=="
         }
       },
       "is_incremental": false,
@@ -8493,7 +8505,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "tVPCFotYTNmwYmeqP5tQCA=="
+          "hash": "mJRIrPeuGJByb21MzgDxvQ=="
         }
       },
       "is_incremental": false,
@@ -8568,7 +8580,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 706,
+          "total_file_count": 707,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

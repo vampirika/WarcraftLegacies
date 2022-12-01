@@ -18011,6 +18011,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.RefundZeroLimitUnits.Setup
   nameWithType: RefundZeroLimitUnits.Setup
+- uid: WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas
+  name: RemoveUnusedAreas
+  href: api-source/WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas.html
+  commentId: T:WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas
+  fullName: WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas
+  nameWithType: RemoveUnusedAreas
+- uid: WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas.Run
+  name: Run()
+  href: api-source/WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas.html#WarcraftLegacies_Source_GameLogic_RemoveUnusedAreas_Run
+  commentId: M:WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas.Run
+  fullName: WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas.Run()
+  nameWithType: RemoveUnusedAreas.Run()
+- uid: WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas.Run*
+  name: Run
+  href: api-source/WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas.html#WarcraftLegacies_Source_GameLogic_RemoveUnusedAreas_Run_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas.Run
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas.Run
+  nameWithType: RemoveUnusedAreas.Run
 - uid: WarcraftLegacies.Source.GameLogic.ShipyardBanZones
   name: ShipyardBanZones
   href: api-source/WarcraftLegacies.Source.GameLogic.ShipyardBanZones.html
