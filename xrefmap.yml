@@ -30149,19 +30149,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactSetup
   nameWithType: ArtifactSetup.ArtifactSetup
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.Ashbringer
-  name: Ashbringer
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_Ashbringer
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.Ashbringer
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.Ashbringer
-  nameWithType: ArtifactSetup.Ashbringer
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.Ashbringer*
-  name: Ashbringer
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_Ashbringer_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.Ashbringer
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.Ashbringer
-  nameWithType: ArtifactSetup.Ashbringer
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.AzureFragment
   name: AzureFragment
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_AzureFragment
