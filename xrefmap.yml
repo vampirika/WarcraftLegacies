@@ -18524,12 +18524,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves
   fullName: WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves
   nameWithType: HelmOfDominationDropsWhenScourgeLeaves
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.html#WarcraftLegacies_Source_Mechanics_Scourge_HelmOfDominationDropsWhenScourgeLeaves_Setup
-  commentId: M:WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.Setup
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.Setup()
-  nameWithType: HelmOfDominationDropsWhenScourgeLeaves.Setup()
+- uid: WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.Setup(MacroTools.ArtifactSystem.Artifact)
+  name: Setup(Artifact)
+  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.html#WarcraftLegacies_Source_Mechanics_Scourge_HelmOfDominationDropsWhenScourgeLeaves_Setup_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.Setup(MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.Setup(MacroTools.ArtifactSystem.Artifact)
+  nameWithType: HelmOfDominationDropsWhenScourgeLeaves.Setup(Artifact)
 - uid: WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.html#WarcraftLegacies_Source_Mechanics_Scourge_HelmOfDominationDropsWhenScourgeLeaves_Setup_
@@ -19206,12 +19206,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian
   fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian
   nameWithType: QuestNewGuardian
-- uid: WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.#ctor
-  name: QuestNewGuardian()
-  href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.html#WarcraftLegacies_Source_Quests_Dalaran_QuestNewGuardian__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.QuestNewGuardian()
-  nameWithType: QuestNewGuardian.QuestNewGuardian()
+- uid: WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.#ctor(MacroTools.ArtifactSystem.Artifact)
+  name: QuestNewGuardian(Artifact)
+  href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.html#WarcraftLegacies_Source_Quests_Dalaran_QuestNewGuardian__ctor_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.#ctor(MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.QuestNewGuardian(MacroTools.ArtifactSystem.Artifact)
+  nameWithType: QuestNewGuardian.QuestNewGuardian(Artifact)
 - uid: WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.#ctor*
   name: QuestNewGuardian
   href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.html#WarcraftLegacies_Source_Quests_Dalaran_QuestNewGuardian__ctor_
@@ -20669,12 +20669,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens
   fullName: WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens
   nameWithType: QuestMalfurionAwakens
-- uid: WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.#ctor(Rectangle,unit)
-  name: QuestMalfurionAwakens(Rectangle, unit)
-  href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.html#WarcraftLegacies_Source_Quests_Druids_QuestMalfurionAwakens__ctor_Rectangle_unit_
-  commentId: M:WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.#ctor(Rectangle,unit)
-  fullName: WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.QuestMalfurionAwakens(Rectangle, unit)
-  nameWithType: QuestMalfurionAwakens.QuestMalfurionAwakens(Rectangle, unit)
+- uid: WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.#ctor(Rectangle,unit,MacroTools.ArtifactSystem.Artifact)
+  name: QuestMalfurionAwakens(Rectangle, unit, Artifact)
+  href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.html#WarcraftLegacies_Source_Quests_Druids_QuestMalfurionAwakens__ctor_Rectangle_unit_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.#ctor(Rectangle,unit,MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.QuestMalfurionAwakens(Rectangle, unit, MacroTools.ArtifactSystem.Artifact)
+  nameWithType: QuestMalfurionAwakens.QuestMalfurionAwakens(Rectangle, unit, Artifact)
 - uid: WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.#ctor*
   name: QuestMalfurionAwakens
   href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.html#WarcraftLegacies_Source_Quests_Druids_QuestMalfurionAwakens__ctor_
@@ -22002,12 +22002,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder
   fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder
   nameWithType: QuestRoyalPlunder
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder.#ctor(Rectangle)
-  name: QuestRoyalPlunder(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestRoyalPlunder__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder.QuestRoyalPlunder(Rectangle)
-  nameWithType: QuestRoyalPlunder.QuestRoyalPlunder(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder.#ctor(Rectangle,MacroTools.ArtifactSystem.Artifact)
+  name: QuestRoyalPlunder(Rectangle, Artifact)
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestRoyalPlunder__ctor_Rectangle_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder.#ctor(Rectangle,MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder.QuestRoyalPlunder(Rectangle, MacroTools.ArtifactSystem.Artifact)
+  nameWithType: QuestRoyalPlunder.QuestRoyalPlunder(Rectangle, Artifact)
 - uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder.#ctor*
   name: QuestRoyalPlunder
   href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestRoyalPlunder__ctor_
@@ -22421,12 +22421,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnElvePath
   fullName: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnElvePath
   nameWithType: QuestGoldrinnElvePath
-- uid: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnElvePath.#ctor
-  name: QuestGoldrinnElvePath()
-  href: api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnElvePath.html#WarcraftLegacies_Source_Quests_Gilneas_QuestGoldrinnElvePath__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnElvePath.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnElvePath.QuestGoldrinnElvePath()
-  nameWithType: QuestGoldrinnElvePath.QuestGoldrinnElvePath()
+- uid: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnElvePath.#ctor(MacroTools.ArtifactSystem.Artifact)
+  name: QuestGoldrinnElvePath(Artifact)
+  href: api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnElvePath.html#WarcraftLegacies_Source_Quests_Gilneas_QuestGoldrinnElvePath__ctor_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnElvePath.#ctor(MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnElvePath.QuestGoldrinnElvePath(MacroTools.ArtifactSystem.Artifact)
+  nameWithType: QuestGoldrinnElvePath.QuestGoldrinnElvePath(Artifact)
 - uid: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnElvePath.#ctor*
   name: QuestGoldrinnElvePath
   href: api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnElvePath.html#WarcraftLegacies_Source_Quests_Gilneas_QuestGoldrinnElvePath__ctor_
@@ -22479,12 +22479,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath
   fullName: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath
   nameWithType: QuestGoldrinnHumanPath
-- uid: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.#ctor(MacroTools.QuestSystem.QuestData)
-  name: QuestGoldrinnHumanPath(QuestData)
-  href: api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.html#WarcraftLegacies_Source_Quests_Gilneas_QuestGoldrinnHumanPath__ctor_MacroTools_QuestSystem_QuestData_
-  commentId: M:WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.#ctor(MacroTools.QuestSystem.QuestData)
-  fullName: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.QuestGoldrinnHumanPath(MacroTools.QuestSystem.QuestData)
-  nameWithType: QuestGoldrinnHumanPath.QuestGoldrinnHumanPath(QuestData)
+- uid: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.#ctor(MacroTools.QuestSystem.QuestData,MacroTools.ArtifactSystem.Artifact)
+  name: QuestGoldrinnHumanPath(QuestData, Artifact)
+  href: api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.html#WarcraftLegacies_Source_Quests_Gilneas_QuestGoldrinnHumanPath__ctor_MacroTools_QuestSystem_QuestData_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.#ctor(MacroTools.QuestSystem.QuestData,MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.QuestGoldrinnHumanPath(MacroTools.QuestSystem.QuestData, MacroTools.ArtifactSystem.Artifact)
+  nameWithType: QuestGoldrinnHumanPath.QuestGoldrinnHumanPath(QuestData, Artifact)
 - uid: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.#ctor*
   name: QuestGoldrinnHumanPath
   href: api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.html#WarcraftLegacies_Source_Quests_Gilneas_QuestGoldrinnHumanPath__ctor_
@@ -24737,12 +24737,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Lordaeron.QuestKingArthas
   fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestKingArthas
   nameWithType: QuestKingArthas
-- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestKingArthas.#ctor(unit)
-  name: QuestKingArthas(unit)
-  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestKingArthas.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestKingArthas__ctor_unit_
-  commentId: M:WarcraftLegacies.Source.Quests.Lordaeron.QuestKingArthas.#ctor(unit)
-  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestKingArthas.QuestKingArthas(unit)
-  nameWithType: QuestKingArthas.QuestKingArthas(unit)
+- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestKingArthas.#ctor(unit,MacroTools.ArtifactSystem.Artifact)
+  name: QuestKingArthas(unit, Artifact)
+  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestKingArthas.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestKingArthas__ctor_unit_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Quests.Lordaeron.QuestKingArthas.#ctor(unit,MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestKingArthas.QuestKingArthas(unit, MacroTools.ArtifactSystem.Artifact)
+  nameWithType: QuestKingArthas.QuestKingArthas(unit, Artifact)
 - uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestKingArthas.#ctor*
   name: QuestKingArthas
   href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestKingArthas.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestKingArthas__ctor_
@@ -24795,12 +24795,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Lordaeron.QuestKingdomOfManLordaeron
   fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestKingdomOfManLordaeron
   nameWithType: QuestKingdomOfManLordaeron
-- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestKingdomOfManLordaeron.#ctor
-  name: QuestKingdomOfManLordaeron()
-  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestKingdomOfManLordaeron.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestKingdomOfManLordaeron__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Lordaeron.QuestKingdomOfManLordaeron.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestKingdomOfManLordaeron.QuestKingdomOfManLordaeron()
-  nameWithType: QuestKingdomOfManLordaeron.QuestKingdomOfManLordaeron()
+- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestKingdomOfManLordaeron.#ctor(MacroTools.ArtifactSystem.Artifact,MacroTools.ArtifactSystem.Artifact)
+  name: QuestKingdomOfManLordaeron(Artifact, Artifact)
+  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestKingdomOfManLordaeron.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestKingdomOfManLordaeron__ctor_MacroTools_ArtifactSystem_Artifact_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Quests.Lordaeron.QuestKingdomOfManLordaeron.#ctor(MacroTools.ArtifactSystem.Artifact,MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestKingdomOfManLordaeron.QuestKingdomOfManLordaeron(MacroTools.ArtifactSystem.Artifact, MacroTools.ArtifactSystem.Artifact)
+  nameWithType: QuestKingdomOfManLordaeron.QuestKingdomOfManLordaeron(Artifact, Artifact)
 - uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestKingdomOfManLordaeron.#ctor*
   name: QuestKingdomOfManLordaeron
   href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestKingdomOfManLordaeron.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestKingdomOfManLordaeron__ctor_
@@ -25201,12 +25201,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow
   fullName: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow
   nameWithType: QuestADestinyofFlameandSorrow
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.#ctor
-  name: QuestADestinyofFlameandSorrow()
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestADestinyofFlameandSorrow__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.QuestADestinyofFlameandSorrow()
-  nameWithType: QuestADestinyofFlameandSorrow.QuestADestinyofFlameandSorrow()
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.#ctor(MacroTools.ArtifactSystem.Artifact)
+  name: QuestADestinyofFlameandSorrow(Artifact)
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestADestinyofFlameandSorrow__ctor_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.#ctor(MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.QuestADestinyofFlameandSorrow(MacroTools.ArtifactSystem.Artifact)
+  nameWithType: QuestADestinyofFlameandSorrow.QuestADestinyofFlameandSorrow(Artifact)
 - uid: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.#ctor*
   name: QuestADestinyofFlameandSorrow
   href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestADestinyofFlameandSorrow__ctor_
@@ -25388,12 +25388,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras
   fullName: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras
   nameWithType: QuestEyeofSargeras
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.#ctor
-  name: QuestEyeofSargeras()
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.html#WarcraftLegacies_Source_Quests_Naga_QuestEyeofSargeras__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.QuestEyeofSargeras()
-  nameWithType: QuestEyeofSargeras.QuestEyeofSargeras()
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.#ctor(MacroTools.ArtifactSystem.Artifact)
+  name: QuestEyeofSargeras(Artifact)
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.html#WarcraftLegacies_Source_Quests_Naga_QuestEyeofSargeras__ctor_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.#ctor(MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.QuestEyeofSargeras(MacroTools.ArtifactSystem.Artifact)
+  nameWithType: QuestEyeofSargeras.QuestEyeofSargeras(Artifact)
 - uid: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.#ctor*
   name: QuestEyeofSargeras
   href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.html#WarcraftLegacies_Source_Quests_Naga_QuestEyeofSargeras__ctor_
@@ -26026,12 +26026,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.QuestBookOfMedivh
   fullName: WarcraftLegacies.Source.Quests.QuestBookOfMedivh
   nameWithType: QuestBookOfMedivh
-- uid: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.#ctor(unit,System.Boolean)
-  name: QuestBookOfMedivh(unit, Boolean)
-  href: api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html#WarcraftLegacies_Source_Quests_QuestBookOfMedivh__ctor_unit_System_Boolean_
-  commentId: M:WarcraftLegacies.Source.Quests.QuestBookOfMedivh.#ctor(unit,System.Boolean)
-  fullName: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.QuestBookOfMedivh(unit, System.Boolean)
-  nameWithType: QuestBookOfMedivh.QuestBookOfMedivh(unit, Boolean)
+- uid: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.#ctor(unit,System.Boolean,MacroTools.ArtifactSystem.Artifact)
+  name: QuestBookOfMedivh(unit, Boolean, Artifact)
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html#WarcraftLegacies_Source_Quests_QuestBookOfMedivh__ctor_unit_System_Boolean_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Quests.QuestBookOfMedivh.#ctor(unit,System.Boolean,MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.QuestBookOfMedivh(unit, System.Boolean, MacroTools.ArtifactSystem.Artifact)
+  nameWithType: QuestBookOfMedivh.QuestBookOfMedivh(unit, Boolean, Artifact)
 - uid: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.#ctor*
   name: QuestBookOfMedivh
   href: api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html#WarcraftLegacies_Source_Quests_QuestBookOfMedivh__ctor_
@@ -26097,12 +26097,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan
   fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan
   nameWithType: QuestSkullOfGuldan
-- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.#ctor(unit,System.Boolean)
-  name: QuestSkullOfGuldan(unit, Boolean)
-  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan__ctor_unit_System_Boolean_
-  commentId: M:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.#ctor(unit,System.Boolean)
-  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.QuestSkullOfGuldan(unit, System.Boolean)
-  nameWithType: QuestSkullOfGuldan.QuestSkullOfGuldan(unit, Boolean)
+- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.#ctor(unit,System.Boolean,MacroTools.ArtifactSystem.Artifact)
+  name: QuestSkullOfGuldan(unit, Boolean, Artifact)
+  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan__ctor_unit_System_Boolean_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.#ctor(unit,System.Boolean,MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.QuestSkullOfGuldan(unit, System.Boolean, MacroTools.ArtifactSystem.Artifact)
+  nameWithType: QuestSkullOfGuldan.QuestSkullOfGuldan(unit, Boolean, Artifact)
 - uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.#ctor*
   name: QuestSkullOfGuldan
   href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan__ctor_
@@ -26226,12 +26226,15 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.QuestZinrokhAssembly
   fullName: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly
   nameWithType: QuestZinrokhAssembly
-- uid: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.#ctor
-  name: QuestZinrokhAssembly()
-  href: api-source/WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.html#WarcraftLegacies_Source_Quests_QuestZinrokhAssembly__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.#ctor
-  fullName: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.QuestZinrokhAssembly()
-  nameWithType: QuestZinrokhAssembly.QuestZinrokhAssembly()
+- uid: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.#ctor(List{MacroTools.ArtifactSystem.Artifact})
+  name: QuestZinrokhAssembly(List<Artifact>)
+  href: api-source/WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.html#WarcraftLegacies_Source_Quests_QuestZinrokhAssembly__ctor_List_MacroTools_ArtifactSystem_Artifact__
+  commentId: M:WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.#ctor(List{MacroTools.ArtifactSystem.Artifact})
+  name.vb: QuestZinrokhAssembly(List(Of Artifact))
+  fullName: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.QuestZinrokhAssembly(List<MacroTools.ArtifactSystem.Artifact>)
+  fullName.vb: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.QuestZinrokhAssembly(List(Of MacroTools.ArtifactSystem.Artifact))
+  nameWithType: QuestZinrokhAssembly.QuestZinrokhAssembly(List<Artifact>)
+  nameWithType.vb: QuestZinrokhAssembly.QuestZinrokhAssembly(List(Of Artifact))
 - uid: WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.#ctor*
   name: QuestZinrokhAssembly
   href: api-source/WarcraftLegacies.Source.Quests.QuestZinrokhAssembly.html#WarcraftLegacies_Source_Quests_QuestZinrokhAssembly__ctor_
@@ -26999,12 +27002,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Scourge.QuestLichKingArthas
   fullName: WarcraftLegacies.Source.Quests.Scourge.QuestLichKingArthas
   nameWithType: QuestLichKingArthas
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestLichKingArthas.#ctor(unit)
-  name: QuestLichKingArthas(unit)
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestLichKingArthas.html#WarcraftLegacies_Source_Quests_Scourge_QuestLichKingArthas__ctor_unit_
-  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestLichKingArthas.#ctor(unit)
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestLichKingArthas.QuestLichKingArthas(unit)
-  nameWithType: QuestLichKingArthas.QuestLichKingArthas(unit)
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestLichKingArthas.#ctor(unit,MacroTools.ArtifactSystem.Artifact)
+  name: QuestLichKingArthas(unit, Artifact)
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestLichKingArthas.html#WarcraftLegacies_Source_Quests_Scourge_QuestLichKingArthas__ctor_unit_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestLichKingArthas.#ctor(unit,MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestLichKingArthas.QuestLichKingArthas(unit, MacroTools.ArtifactSystem.Artifact)
+  nameWithType: QuestLichKingArthas.QuestLichKingArthas(unit, Artifact)
 - uid: WarcraftLegacies.Source.Quests.Scourge.QuestLichKingArthas.#ctor*
   name: QuestLichKingArthas
   href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestLichKingArthas.html#WarcraftLegacies_Source_Quests_Scourge_QuestLichKingArthas__ctor_
@@ -27553,12 +27556,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Sentinels.QuestScepterOfTheQueenSentinels
   fullName: WarcraftLegacies.Source.Quests.Sentinels.QuestScepterOfTheQueenSentinels
   nameWithType: QuestScepterOfTheQueenSentinels
-- uid: WarcraftLegacies.Source.Quests.Sentinels.QuestScepterOfTheQueenSentinels.#ctor(Rectangle)
-  name: QuestScepterOfTheQueenSentinels(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Sentinels.QuestScepterOfTheQueenSentinels.html#WarcraftLegacies_Source_Quests_Sentinels_QuestScepterOfTheQueenSentinels__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Sentinels.QuestScepterOfTheQueenSentinels.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Sentinels.QuestScepterOfTheQueenSentinels.QuestScepterOfTheQueenSentinels(Rectangle)
-  nameWithType: QuestScepterOfTheQueenSentinels.QuestScepterOfTheQueenSentinels(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Sentinels.QuestScepterOfTheQueenSentinels.#ctor(Rectangle,MacroTools.ArtifactSystem.Artifact)
+  name: QuestScepterOfTheQueenSentinels(Rectangle, Artifact)
+  href: api-source/WarcraftLegacies.Source.Quests.Sentinels.QuestScepterOfTheQueenSentinels.html#WarcraftLegacies_Source_Quests_Sentinels_QuestScepterOfTheQueenSentinels__ctor_Rectangle_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Quests.Sentinels.QuestScepterOfTheQueenSentinels.#ctor(Rectangle,MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Quests.Sentinels.QuestScepterOfTheQueenSentinels.QuestScepterOfTheQueenSentinels(Rectangle, MacroTools.ArtifactSystem.Artifact)
+  nameWithType: QuestScepterOfTheQueenSentinels.QuestScepterOfTheQueenSentinels(Rectangle, Artifact)
 - uid: WarcraftLegacies.Source.Quests.Sentinels.QuestScepterOfTheQueenSentinels.#ctor*
   name: QuestScepterOfTheQueenSentinels
   href: api-source/WarcraftLegacies.Source.Quests.Sentinels.QuestScepterOfTheQueenSentinels.html#WarcraftLegacies_Source_Quests_Sentinels_QuestScepterOfTheQueenSentinels__ctor_
@@ -28949,12 +28952,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong
   fullName: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong
   nameWithType: QuestScepterOfTheQueenWarsong
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.#ctor(Rectangle)
-  name: QuestScepterOfTheQueenWarsong(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.html#WarcraftLegacies_Source_Quests_Warsong_QuestScepterOfTheQueenWarsong__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.QuestScepterOfTheQueenWarsong(Rectangle)
-  nameWithType: QuestScepterOfTheQueenWarsong.QuestScepterOfTheQueenWarsong(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.#ctor(Rectangle,MacroTools.ArtifactSystem.Artifact)
+  name: QuestScepterOfTheQueenWarsong(Rectangle, Artifact)
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.html#WarcraftLegacies_Source_Quests_Warsong_QuestScepterOfTheQueenWarsong__ctor_Rectangle_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.#ctor(Rectangle,MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.QuestScepterOfTheQueenWarsong(Rectangle, MacroTools.ArtifactSystem.Artifact)
+  nameWithType: QuestScepterOfTheQueenWarsong.QuestScepterOfTheQueenWarsong(Rectangle, Artifact)
 - uid: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.#ctor*
   name: QuestScepterOfTheQueenWarsong
   href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.html#WarcraftLegacies_Source_Quests_Warsong_QuestScepterOfTheQueenWarsong__ctor_
@@ -29355,12 +29358,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Zandalar.QuestHakkar
   fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestHakkar
   nameWithType: QuestHakkar
-- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestHakkar.#ctor
-  name: QuestHakkar()
-  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestHakkar.html#WarcraftLegacies_Source_Quests_Zandalar_QuestHakkar__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Zandalar.QuestHakkar.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestHakkar.QuestHakkar()
-  nameWithType: QuestHakkar.QuestHakkar()
+- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestHakkar.#ctor(MacroTools.ArtifactSystem.Artifact)
+  name: QuestHakkar(Artifact)
+  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestHakkar.html#WarcraftLegacies_Source_Quests_Zandalar_QuestHakkar__ctor_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Quests.Zandalar.QuestHakkar.#ctor(MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestHakkar.QuestHakkar(MacroTools.ArtifactSystem.Artifact)
+  nameWithType: QuestHakkar.QuestHakkar(Artifact)
 - uid: WarcraftLegacies.Source.Quests.Zandalar.QuestHakkar.#ctor*
   name: QuestHakkar
   href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestHakkar.html#WarcraftLegacies_Source_Quests_Zandalar_QuestHakkar__ctor_
@@ -30057,12 +30060,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.AllFactionSetup
   fullName: WarcraftLegacies.Source.Setup.AllFactionSetup
   nameWithType: AllFactionSetup
-- uid: WarcraftLegacies.Source.Setup.AllFactionSetup.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Setup.AllFactionSetup.html#WarcraftLegacies_Source_Setup_AllFactionSetup_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Setup.AllFactionSetup.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Setup.AllFactionSetup.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: AllFactionSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.AllFactionSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  name: Setup(PreplacedUnitSystem, ArtifactSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.AllFactionSetup.html#WarcraftLegacies_Source_Setup_AllFactionSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_ArtifactSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.AllFactionSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  fullName: WarcraftLegacies.Source.Setup.AllFactionSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.ArtifactSetup)
+  nameWithType: AllFactionSetup.Setup(PreplacedUnitSystem, ArtifactSetup)
 - uid: WarcraftLegacies.Source.Setup.AllFactionSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.AllFactionSetup.html#WarcraftLegacies_Source_Setup_AllFactionSetup_Setup_
@@ -30076,12 +30079,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.AllLegendSetup
   fullName: WarcraftLegacies.Source.Setup.AllLegendSetup
   nameWithType: AllLegendSetup
-- uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Setup.AllLegendSetup.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: AllLegendSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  name: Setup(PreplacedUnitSystem, ArtifactSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_ArtifactSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.AllLegendSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.ArtifactSetup)
+  nameWithType: AllLegendSetup.Setup(PreplacedUnitSystem, ArtifactSetup)
 - uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Setup_
@@ -30095,12 +30098,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.AllQuestSetup
   fullName: WarcraftLegacies.Source.Setup.AllQuestSetup
   nameWithType: AllQuestSetup
-- uid: WarcraftLegacies.Source.Setup.AllQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Setup.AllQuestSetup.html#WarcraftLegacies_Source_Setup_AllQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Setup.AllQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Setup.AllQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: AllQuestSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.AllQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  name: Setup(PreplacedUnitSystem, ArtifactSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.AllQuestSetup.html#WarcraftLegacies_Source_Setup_AllQuestSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_ArtifactSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.AllQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  fullName: WarcraftLegacies.Source.Setup.AllQuestSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.ArtifactSetup)
+  nameWithType: AllQuestSetup.Setup(PreplacedUnitSystem, ArtifactSetup)
 - uid: WarcraftLegacies.Source.Setup.AllQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.AllQuestSetup.html#WarcraftLegacies_Source_Setup_AllQuestSetup_Setup_
@@ -30133,136 +30136,32 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.ArtifactSetup
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup
   nameWithType: ArtifactSetup
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactAshbringer
-  name: ArtifactAshbringer
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactAshbringer
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactAshbringer
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactAshbringer
-  nameWithType: ArtifactSetup.ArtifactAshbringer
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactAshbringer*
-  name: ArtifactAshbringer
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactAshbringer_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactAshbringer
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.#ctor(MacroTools.PreplacedUnitSystem)
+  name: ArtifactSetup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup__ctor_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.ArtifactSetup.#ctor(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactSetup(MacroTools.PreplacedUnitSystem)
+  nameWithType: ArtifactSetup.ArtifactSetup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.#ctor*
+  name: ArtifactSetup
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.#ctor
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactAshbringer
-  nameWithType: ArtifactSetup.ArtifactAshbringer
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrownlordaeron
-  name: ArtifactCrownlordaeron
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactCrownlordaeron
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrownlordaeron
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrownlordaeron
-  nameWithType: ArtifactSetup.ArtifactCrownlordaeron
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrownlordaeron*
-  name: ArtifactCrownlordaeron
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactCrownlordaeron_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrownlordaeron
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactSetup
+  nameWithType: ArtifactSetup.ArtifactSetup
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.Ashbringer
+  name: Ashbringer
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_Ashbringer
+  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.Ashbringer
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.Ashbringer
+  nameWithType: ArtifactSetup.Ashbringer
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.Ashbringer*
+  name: Ashbringer
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_Ashbringer_
+  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.Ashbringer
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrownlordaeron
-  nameWithType: ArtifactSetup.ArtifactCrownlordaeron
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrownstormwind
-  name: ArtifactCrownstormwind
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactCrownstormwind
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrownstormwind
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrownstormwind
-  nameWithType: ArtifactSetup.ArtifactCrownstormwind
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrownstormwind*
-  name: ArtifactCrownstormwind
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactCrownstormwind_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrownstormwind
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrownstormwind
-  nameWithType: ArtifactSetup.ArtifactCrownstormwind
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactEyeofsargeras
-  name: ArtifactEyeofsargeras
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactEyeofsargeras
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactEyeofsargeras
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactEyeofsargeras
-  nameWithType: ArtifactSetup.ArtifactEyeofsargeras
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactEyeofsargeras*
-  name: ArtifactEyeofsargeras
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactEyeofsargeras_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactEyeofsargeras
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactEyeofsargeras
-  nameWithType: ArtifactSetup.ArtifactEyeofsargeras
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactGhanir
-  name: ArtifactGhanir
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactGhanir
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactGhanir
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactGhanir
-  nameWithType: ArtifactSetup.ArtifactGhanir
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactGhanir*
-  name: ArtifactGhanir
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactGhanir_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactGhanir
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactGhanir
-  nameWithType: ArtifactSetup.ArtifactGhanir
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactHelmofdomination
-  name: ArtifactHelmofdomination
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactHelmofdomination
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactHelmofdomination
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactHelmofdomination
-  nameWithType: ArtifactSetup.ArtifactHelmofdomination
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactHelmofdomination*
-  name: ArtifactHelmofdomination
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactHelmofdomination_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactHelmofdomination
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactHelmofdomination
-  nameWithType: ArtifactSetup.ArtifactHelmofdomination
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactHornofcenarius
-  name: ArtifactHornofcenarius
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactHornofcenarius
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactHornofcenarius
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactHornofcenarius
-  nameWithType: ArtifactSetup.ArtifactHornofcenarius
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactHornofcenarius*
-  name: ArtifactHornofcenarius
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactHornofcenarius_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactHornofcenarius
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactHornofcenarius
-  nameWithType: ArtifactSetup.ArtifactHornofcenarius
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactScepterofthequeen
-  name: ArtifactScepterofthequeen
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactScepterofthequeen
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactScepterofthequeen
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactScepterofthequeen
-  nameWithType: ArtifactSetup.ArtifactScepterofthequeen
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactScepterofthequeen*
-  name: ArtifactScepterofthequeen
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactScepterofthequeen_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactScepterofthequeen
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactScepterofthequeen
-  nameWithType: ArtifactSetup.ArtifactScepterofthequeen
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactSkullofguldan
-  name: ArtifactSkullofguldan
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactSkullofguldan
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactSkullofguldan
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactSkullofguldan
-  nameWithType: ArtifactSetup.ArtifactSkullofguldan
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactSkullofguldan*
-  name: ArtifactSkullofguldan
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactSkullofguldan_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactSkullofguldan
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactSkullofguldan
-  nameWithType: ArtifactSetup.ArtifactSkullofguldan
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactZinrokh
-  name: ArtifactZinrokh
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactZinrokh
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactZinrokh
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactZinrokh
-  nameWithType: ArtifactSetup.ArtifactZinrokh
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactZinrokh*
-  name: ArtifactZinrokh
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactZinrokh_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactZinrokh
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactZinrokh
-  nameWithType: ArtifactSetup.ArtifactZinrokh
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.Ashbringer
+  nameWithType: ArtifactSetup.Ashbringer
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.AzureFragment
   name: AzureFragment
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_AzureFragment
@@ -30302,6 +30201,32 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.BronzeFragment
   nameWithType: ArtifactSetup.BronzeFragment
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.CrownOfLordaeron
+  name: CrownOfLordaeron
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_CrownOfLordaeron
+  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.CrownOfLordaeron
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.CrownOfLordaeron
+  nameWithType: ArtifactSetup.CrownOfLordaeron
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.CrownOfLordaeron*
+  name: CrownOfLordaeron
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_CrownOfLordaeron_
+  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.CrownOfLordaeron
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.CrownOfLordaeron
+  nameWithType: ArtifactSetup.CrownOfLordaeron
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.CrownOfStormwind
+  name: CrownOfStormwind
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_CrownOfStormwind
+  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.CrownOfStormwind
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.CrownOfStormwind
+  nameWithType: ArtifactSetup.CrownOfStormwind
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.CrownOfStormwind*
+  name: CrownOfStormwind
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_CrownOfStormwind_
+  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.CrownOfStormwind
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.CrownOfStormwind
+  nameWithType: ArtifactSetup.CrownOfStormwind
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.EmeraldFragment
   name: EmeraldFragment
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_EmeraldFragment
@@ -30315,6 +30240,58 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.EmeraldFragment
   nameWithType: ArtifactSetup.EmeraldFragment
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.EyeOfSargeras
+  name: EyeOfSargeras
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_EyeOfSargeras
+  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.EyeOfSargeras
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.EyeOfSargeras
+  nameWithType: ArtifactSetup.EyeOfSargeras
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.EyeOfSargeras*
+  name: EyeOfSargeras
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_EyeOfSargeras_
+  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.EyeOfSargeras
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.EyeOfSargeras
+  nameWithType: ArtifactSetup.EyeOfSargeras
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.Ghanir
+  name: Ghanir
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_Ghanir
+  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.Ghanir
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.Ghanir
+  nameWithType: ArtifactSetup.Ghanir
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.Ghanir*
+  name: Ghanir
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_Ghanir_
+  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.Ghanir
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.Ghanir
+  nameWithType: ArtifactSetup.Ghanir
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.HelmOfDomination
+  name: HelmOfDomination
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_HelmOfDomination
+  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.HelmOfDomination
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.HelmOfDomination
+  nameWithType: ArtifactSetup.HelmOfDomination
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.HelmOfDomination*
+  name: HelmOfDomination
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_HelmOfDomination_
+  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.HelmOfDomination
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.HelmOfDomination
+  nameWithType: ArtifactSetup.HelmOfDomination
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.HornOfCenarius
+  name: HornOfCenarius
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_HornOfCenarius
+  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.HornOfCenarius
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.HornOfCenarius
+  nameWithType: ArtifactSetup.HornOfCenarius
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.HornOfCenarius*
+  name: HornOfCenarius
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_HornOfCenarius_
+  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.HornOfCenarius
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.HornOfCenarius
+  nameWithType: ArtifactSetup.HornOfCenarius
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ObsidianFragment
   name: ObsidianFragment
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ObsidianFragment
@@ -30341,6 +30318,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.RubyFragment
   nameWithType: ArtifactSetup.RubyFragment
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ScepterOfTheQueen
+  name: ScepterOfTheQueen
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ScepterOfTheQueen
+  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ScepterOfTheQueen
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ScepterOfTheQueen
+  nameWithType: ArtifactSetup.ScepterOfTheQueen
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ScepterOfTheQueen*
+  name: ScepterOfTheQueen
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ScepterOfTheQueen_
+  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ScepterOfTheQueen
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ScepterOfTheQueen
+  nameWithType: ArtifactSetup.ScepterOfTheQueen
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ScytheOfElune
   name: ScytheOfElune
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ScytheOfElune
@@ -30354,19 +30344,32 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ScytheOfElune
   nameWithType: ArtifactSetup.ScytheOfElune
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Setup.ArtifactSetup.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: ArtifactSetup.Setup(PreplacedUnitSystem)
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.SkullOfGuldan
+  name: SkullOfGuldan
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_SkullOfGuldan
+  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.SkullOfGuldan
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.SkullOfGuldan
+  nameWithType: ArtifactSetup.SkullOfGuldan
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.SkullOfGuldan*
+  name: SkullOfGuldan
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_SkullOfGuldan_
+  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.SkullOfGuldan
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.Setup
-  nameWithType: ArtifactSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.SkullOfGuldan
+  nameWithType: ArtifactSetup.SkullOfGuldan
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ZinRokh
+  name: ZinRokh
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ZinRokh
+  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ZinRokh
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ZinRokh
+  nameWithType: ArtifactSetup.ZinRokh
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ZinRokh*
+  name: ZinRokh
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ZinRokh_
+  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ZinRokh
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ZinRokh
+  nameWithType: ArtifactSetup.ZinRokh
 - uid: WarcraftLegacies.Source.Setup.AugmentSetup
   name: AugmentSetup
   href: api-source/WarcraftLegacies.Source.Setup.AugmentSetup.html
@@ -32013,12 +32016,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.Scourge
   nameWithType: ScourgeSetup.Scourge
-- uid: WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_ScourgeSetup_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: ScourgeSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.Setup(MacroTools.PreplacedUnitSystem,MacroTools.ArtifactSystem.Artifact)
+  name: Setup(PreplacedUnitSystem, Artifact)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_ScourgeSetup_Setup_MacroTools_PreplacedUnitSystem_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.Setup(MacroTools.PreplacedUnitSystem,MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.Setup(MacroTools.PreplacedUnitSystem, MacroTools.ArtifactSystem.Artifact)
+  nameWithType: ScourgeSetup.Setup(PreplacedUnitSystem, Artifact)
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.ScourgeSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_ScourgeSetup_Setup_
@@ -33529,12 +33532,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Mograine
   nameWithType: LegendLordaeron.Mograine
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.html#WarcraftLegacies_Source_Setup_Legends_LegendLordaeron_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: LegendLordaeron.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  name: Setup(PreplacedUnitSystem, ArtifactSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.html#WarcraftLegacies_Source_Setup_Legends_LegendLordaeron_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_ArtifactSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.ArtifactSetup)
+  nameWithType: LegendLordaeron.Setup(PreplacedUnitSystem, ArtifactSetup)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.html#WarcraftLegacies_Source_Setup_Legends_LegendLordaeron_Setup_
@@ -34971,12 +34974,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup
   nameWithType: DalaranQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_DalaranQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: DalaranQuestSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  name: Setup(PreplacedUnitSystem, ArtifactSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_DalaranQuestSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_ArtifactSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.ArtifactSetup)
+  nameWithType: DalaranQuestSetup.Setup(PreplacedUnitSystem, ArtifactSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_DalaranQuestSetup_Setup_
@@ -35028,12 +35031,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.DruidsQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.DruidsQuestSetup
   nameWithType: DruidsQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.DruidsQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.DruidsQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_DruidsQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.DruidsQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.DruidsQuestSetup.Setup()
-  nameWithType: DruidsQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.DruidsQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
+  name: Setup(ArtifactSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.DruidsQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_DruidsQuestSetup_Setup_WarcraftLegacies_Source_Setup_ArtifactSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.DruidsQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.DruidsQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
+  nameWithType: DruidsQuestSetup.Setup(ArtifactSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.DruidsQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.DruidsQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_DruidsQuestSetup_Setup_
@@ -35085,12 +35088,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup
   nameWithType: FrostwolfQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_FrostwolfQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: FrostwolfQuestSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  name: Setup(PreplacedUnitSystem, ArtifactSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_FrostwolfQuestSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_ArtifactSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.ArtifactSetup)
+  nameWithType: FrostwolfQuestSetup.Setup(PreplacedUnitSystem, ArtifactSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_FrostwolfQuestSetup_Setup_
@@ -35104,12 +35107,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup
   nameWithType: GilneasQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_GilneasQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup()
-  nameWithType: GilneasQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
+  name: Setup(ArtifactSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_GilneasQuestSetup_Setup_WarcraftLegacies_Source_Setup_ArtifactSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
+  nameWithType: GilneasQuestSetup.Setup(ArtifactSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_GilneasQuestSetup_Setup_
@@ -35199,12 +35202,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup
   nameWithType: LordaeronQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_LordaeronQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: LordaeronQuestSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  name: Setup(PreplacedUnitSystem, ArtifactSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_LordaeronQuestSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_ArtifactSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.ArtifactSetup)
+  nameWithType: LordaeronQuestSetup.Setup(PreplacedUnitSystem, ArtifactSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_LordaeronQuestSetup_Setup_
@@ -35218,12 +35221,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup
   nameWithType: NagaQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_NagaQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.Setup()
-  nameWithType: NagaQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
+  name: Setup(ArtifactSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_NagaQuestSetup_Setup_WarcraftLegacies_Source_Setup_ArtifactSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
+  nameWithType: NagaQuestSetup.Setup(ArtifactSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_NagaQuestSetup_Setup_
@@ -35275,12 +35278,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup
   nameWithType: ScourgeQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ScourgeQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: ScourgeQuestSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  name: Setup(PreplacedUnitSystem, ArtifactSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ScourgeQuestSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_ArtifactSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.ArtifactSetup)
+  nameWithType: ScourgeQuestSetup.Setup(PreplacedUnitSystem, ArtifactSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ScourgeQuestSetup_Setup_
@@ -35294,12 +35297,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.SentinelsQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.SentinelsQuestSetup
   nameWithType: SentinelsQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.SentinelsQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.SentinelsQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_SentinelsQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.SentinelsQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.SentinelsQuestSetup.Setup()
-  nameWithType: SentinelsQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.SentinelsQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
+  name: Setup(ArtifactSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.SentinelsQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_SentinelsQuestSetup_Setup_WarcraftLegacies_Source_Setup_ArtifactSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.SentinelsQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.SentinelsQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
+  nameWithType: SentinelsQuestSetup.Setup(ArtifactSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.SentinelsQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.SentinelsQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_SentinelsQuestSetup_Setup_
@@ -35313,12 +35316,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup
   nameWithType: SharedQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_SharedQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: SharedQuestSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  name: Setup(PreplacedUnitSystem, ArtifactSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_SharedQuestSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_ArtifactSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.ArtifactSetup)
+  nameWithType: SharedQuestSetup.Setup(PreplacedUnitSystem, ArtifactSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_SharedQuestSetup_Setup_
@@ -35351,12 +35354,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.TrollQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.TrollQuestSetup
   nameWithType: TrollQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.TrollQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.TrollQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_TrollQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.TrollQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.TrollQuestSetup.Setup()
-  nameWithType: TrollQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.TrollQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
+  name: Setup(ArtifactSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.TrollQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_TrollQuestSetup_Setup_WarcraftLegacies_Source_Setup_ArtifactSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.TrollQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.TrollQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
+  nameWithType: TrollQuestSetup.Setup(ArtifactSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.TrollQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.TrollQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_TrollQuestSetup_Setup_
@@ -35370,12 +35373,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup
   nameWithType: WarsongQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_WarsongQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: WarsongQuestSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  name: Setup(PreplacedUnitSystem, ArtifactSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_WarsongQuestSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_ArtifactSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.ArtifactSetup)
+  nameWithType: WarsongQuestSetup.Setup(PreplacedUnitSystem, ArtifactSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_WarsongQuestSetup_Setup_
