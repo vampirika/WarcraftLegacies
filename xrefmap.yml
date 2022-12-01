@@ -30153,19 +30153,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactSkullofguldan
   nameWithType: ArtifactSetup.ArtifactSkullofguldan
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactTrolkalar
-  name: ArtifactTrolkalar
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactTrolkalar
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactTrolkalar
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactTrolkalar
-  nameWithType: ArtifactSetup.ArtifactTrolkalar
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactTrolkalar*
-  name: ArtifactTrolkalar
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactTrolkalar_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactTrolkalar
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactTrolkalar
-  nameWithType: ArtifactSetup.ArtifactTrolkalar
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactZinrokh
   name: ArtifactZinrokh
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactZinrokh
