@@ -24450,64 +24450,6 @@ references:
   commentId: N:WarcraftLegacies.Source.Quests.Lordaeron
   fullName: WarcraftLegacies.Source.Quests.Lordaeron
   nameWithType: WarcraftLegacies.Source.Quests.Lordaeron
-- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer
-  name: QuestAshbringer
-  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.html
-  commentId: T:WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer
-  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer
-  nameWithType: QuestAshbringer
-- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.#ctor
-  name: QuestAshbringer()
-  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestAshbringer__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.QuestAshbringer()
-  nameWithType: QuestAshbringer.QuestAshbringer()
-- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.#ctor*
-  name: QuestAshbringer
-  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestAshbringer__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.QuestAshbringer
-  nameWithType: QuestAshbringer.QuestAshbringer
-- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.CompletionPopup
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestAshbringer_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.CompletionPopup
-  nameWithType: QuestAshbringer.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.CompletionPopup*
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestAshbringer_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.CompletionPopup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.CompletionPopup
-  nameWithType: QuestAshbringer.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestAshbringer_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestAshbringer.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestAshbringer_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.OnComplete
-  nameWithType: QuestAshbringer.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestAshbringer_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.RewardDescription
-  nameWithType: QuestAshbringer.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestAshbringer_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.RewardDescription
-  nameWithType: QuestAshbringer.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity
   name: QuestCapitalCity
   href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.html
@@ -30223,19 +30165,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactCrowntriumvirate
   nameWithType: ArtifactSetup.ArtifactCrowntriumvirate
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactDemonsoul
-  name: ArtifactDemonsoul
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactDemonsoul
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactDemonsoul
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactDemonsoul
-  nameWithType: ArtifactSetup.ArtifactDemonsoul
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactDemonsoul*
-  name: ArtifactDemonsoul
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactDemonsoul_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactDemonsoul
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactDemonsoul
-  nameWithType: ArtifactSetup.ArtifactDemonsoul
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactDrektharsspellbook
   name: ArtifactDrektharsspellbook
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactDrektharsspellbook
@@ -30301,19 +30230,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactHornofcenarius
   nameWithType: ArtifactSetup.ArtifactHornofcenarius
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactLivingshadow
-  name: ArtifactLivingshadow
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactLivingshadow
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactLivingshadow
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactLivingshadow
-  nameWithType: ArtifactSetup.ArtifactLivingshadow
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactLivingshadow*
-  name: ArtifactLivingshadow
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactLivingshadow_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactLivingshadow
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactLivingshadow
-  nameWithType: ArtifactSetup.ArtifactLivingshadow
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactScepterofthequeen
   name: ArtifactScepterofthequeen
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactScepterofthequeen
@@ -30353,19 +30269,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactSoulgem
   nameWithType: ArtifactSetup.ArtifactSoulgem
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactThunderfury
-  name: ArtifactThunderfury
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactThunderfury
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactThunderfury
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactThunderfury
-  nameWithType: ArtifactSetup.ArtifactThunderfury
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactThunderfury*
-  name: ArtifactThunderfury
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactThunderfury_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactThunderfury
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactThunderfury
-  nameWithType: ArtifactSetup.ArtifactThunderfury
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactTrolkalar
   name: ArtifactTrolkalar
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactTrolkalar
@@ -30379,19 +30282,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactTrolkalar
   nameWithType: ArtifactSetup.ArtifactTrolkalar
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactXalatath
-  name: ArtifactXalatath
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactXalatath
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactXalatath
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactXalatath
-  nameWithType: ArtifactSetup.ArtifactXalatath
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactXalatath*
-  name: ArtifactXalatath
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactXalatath_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactXalatath
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactXalatath
-  nameWithType: ArtifactSetup.ArtifactXalatath
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.ArtifactZinrokh
   name: ArtifactZinrokh
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_ArtifactZinrokh
@@ -35354,19 +35244,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.Setup
   nameWithType: LordaeronQuestSetup.Setup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.TheAshbringer
-  name: TheAshbringer
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_LordaeronQuestSetup_TheAshbringer
-  commentId: P:WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.TheAshbringer
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.TheAshbringer
-  nameWithType: LordaeronQuestSetup.TheAshbringer
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.TheAshbringer*
-  name: TheAshbringer
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_LordaeronQuestSetup_TheAshbringer_
-  commentId: Overload:WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.TheAshbringer
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.TheAshbringer
-  nameWithType: LordaeronQuestSetup.TheAshbringer
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup
   name: NagaQuestSetup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.html

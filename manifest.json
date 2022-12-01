@@ -5765,18 +5765,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestAshbringer.html",
-          "hash": "jv3NL+bFaDYOTQc1E4TW+A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.yml",
       "output": {
         ".html": {
@@ -5889,7 +5877,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestThunderEagle.html",
-          "hash": "PdYtS76+nKhAoKAglgL8Wg=="
+          "hash": "Rcn7/NO5Kae85NljgcBcqg=="
         }
       },
       "is_incremental": false,
@@ -5901,7 +5889,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.html",
-          "hash": "aUbd0uaEkmMKkoa8mcIyyg=="
+          "hash": "67s7NT8vtsqoch13Hz/rUw=="
         }
       },
       "is_incremental": false,
@@ -7125,7 +7113,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html",
-          "hash": "0KSyA5bsTOzsFa6sDCxK4A=="
+          "hash": "7vRjPtWge9qi7JTLk/b/9Q=="
         }
       },
       "is_incremental": false,
@@ -8061,7 +8049,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.LordaeronQuestSetup.html",
-          "hash": "gSERjCmJqQN6ISOhG0PwZQ=="
+          "hash": "W0GryArT5S9eJXVWtZtYaA=="
         }
       },
       "is_incremental": false,
@@ -8517,7 +8505,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "lcW3Kku9ajf9eW5fFn+Pzg=="
+          "hash": "FGYYQfZmL3l5lk6NDrQY8A=="
         }
       },
       "is_incremental": false,
@@ -8592,7 +8580,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 708,
+          "total_file_count": 707,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
