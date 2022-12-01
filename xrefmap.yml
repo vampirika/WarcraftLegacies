@@ -9205,6 +9205,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilities.DefensiveOrbs.DefensiveOrbs
   nameWithType: DefensiveOrbs.DefensiveOrbs
+- uid: MacroTools.PassiveAbilities.DefensiveOrbs.AbilityWhitelist
+  name: AbilityWhitelist
+  href: api-macroTools/MacroTools.PassiveAbilities.DefensiveOrbs.html#MacroTools_PassiveAbilities_DefensiveOrbs_AbilityWhitelist
+  commentId: P:MacroTools.PassiveAbilities.DefensiveOrbs.AbilityWhitelist
+  fullName: MacroTools.PassiveAbilities.DefensiveOrbs.AbilityWhitelist
+  nameWithType: DefensiveOrbs.AbilityWhitelist
+- uid: MacroTools.PassiveAbilities.DefensiveOrbs.AbilityWhitelist*
+  name: AbilityWhitelist
+  href: api-macroTools/MacroTools.PassiveAbilities.DefensiveOrbs.html#MacroTools_PassiveAbilities_DefensiveOrbs_AbilityWhitelist_
+  commentId: Overload:MacroTools.PassiveAbilities.DefensiveOrbs.AbilityWhitelist
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.DefensiveOrbs.AbilityWhitelist
+  nameWithType: DefensiveOrbs.AbilityWhitelist
 - uid: MacroTools.PassiveAbilities.DefensiveOrbs.CollisionRadius
   name: CollisionRadius
   href: api-macroTools/MacroTools.PassiveAbilities.DefensiveOrbs.html#MacroTools_PassiveAbilities_DefensiveOrbs_CollisionRadius
