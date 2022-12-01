@@ -5161,6 +5161,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.Remove
   nameWithType: UnitExtensions.Remove
+- uid: MacroTools.Extensions.UnitExtensions.RemoveAbility(unit,System.Int32)
+  name: RemoveAbility(unit, Int32)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_RemoveAbility_unit_System_Int32_
+  commentId: M:MacroTools.Extensions.UnitExtensions.RemoveAbility(unit,System.Int32)
+  fullName: MacroTools.Extensions.UnitExtensions.RemoveAbility(unit, System.Int32)
+  nameWithType: UnitExtensions.RemoveAbility(unit, Int32)
+- uid: MacroTools.Extensions.UnitExtensions.RemoveAbility*
+  name: RemoveAbility
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_RemoveAbility_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.RemoveAbility
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.RemoveAbility
+  nameWithType: UnitExtensions.RemoveAbility
 - uid: MacroTools.Extensions.UnitExtensions.Rescue(unit,player)
   name: Rescue(unit, player)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_Rescue_unit_player_
@@ -10530,12 +10543,12 @@ references:
   commentId: T:MacroTools.Powers.CityOfHeroes
   fullName: MacroTools.Powers.CityOfHeroes
   nameWithType: CityOfHeroes
-- uid: MacroTools.Powers.CityOfHeroes.#ctor(System.Single,System.Single)
-  name: CityOfHeroes(Single, Single)
-  href: api-macroTools/MacroTools.Powers.CityOfHeroes.html#MacroTools_Powers_CityOfHeroes__ctor_System_Single_System_Single_
-  commentId: M:MacroTools.Powers.CityOfHeroes.#ctor(System.Single,System.Single)
-  fullName: MacroTools.Powers.CityOfHeroes.CityOfHeroes(System.Single, System.Single)
-  nameWithType: CityOfHeroes.CityOfHeroes(Single, Single)
+- uid: MacroTools.Powers.CityOfHeroes.#ctor(System.Single,System.Single,System.String)
+  name: CityOfHeroes(Single, Single, String)
+  href: api-macroTools/MacroTools.Powers.CityOfHeroes.html#MacroTools_Powers_CityOfHeroes__ctor_System_Single_System_Single_System_String_
+  commentId: M:MacroTools.Powers.CityOfHeroes.#ctor(System.Single,System.Single,System.String)
+  fullName: MacroTools.Powers.CityOfHeroes.CityOfHeroes(System.Single, System.Single, System.String)
+  nameWithType: CityOfHeroes.CityOfHeroes(Single, Single, String)
 - uid: MacroTools.Powers.CityOfHeroes.#ctor*
   name: CityOfHeroes
   href: api-macroTools/MacroTools.Powers.CityOfHeroes.html#MacroTools_Powers_CityOfHeroes__ctor_
