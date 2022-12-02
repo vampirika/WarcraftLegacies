@@ -9270,19 +9270,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilities.DefensiveOrbs.Damage
   nameWithType: DefensiveOrbs.Damage
-- uid: MacroTools.PassiveAbilities.DefensiveOrbs.OnSpellFinish
-  name: OnSpellFinish()
-  href: api-macroTools/MacroTools.PassiveAbilities.DefensiveOrbs.html#MacroTools_PassiveAbilities_DefensiveOrbs_OnSpellFinish
-  commentId: M:MacroTools.PassiveAbilities.DefensiveOrbs.OnSpellFinish
-  fullName: MacroTools.PassiveAbilities.DefensiveOrbs.OnSpellFinish()
-  nameWithType: DefensiveOrbs.OnSpellFinish()
-- uid: MacroTools.PassiveAbilities.DefensiveOrbs.OnSpellFinish*
-  name: OnSpellFinish
-  href: api-macroTools/MacroTools.PassiveAbilities.DefensiveOrbs.html#MacroTools_PassiveAbilities_DefensiveOrbs_OnSpellFinish_
-  commentId: Overload:MacroTools.PassiveAbilities.DefensiveOrbs.OnSpellFinish
+- uid: MacroTools.PassiveAbilities.DefensiveOrbs.OnSpellEffect
+  name: OnSpellEffect()
+  href: api-macroTools/MacroTools.PassiveAbilities.DefensiveOrbs.html#MacroTools_PassiveAbilities_DefensiveOrbs_OnSpellEffect
+  commentId: M:MacroTools.PassiveAbilities.DefensiveOrbs.OnSpellEffect
+  fullName: MacroTools.PassiveAbilities.DefensiveOrbs.OnSpellEffect()
+  nameWithType: DefensiveOrbs.OnSpellEffect()
+- uid: MacroTools.PassiveAbilities.DefensiveOrbs.OnSpellEffect*
+  name: OnSpellEffect
+  href: api-macroTools/MacroTools.PassiveAbilities.DefensiveOrbs.html#MacroTools_PassiveAbilities_DefensiveOrbs_OnSpellEffect_
+  commentId: Overload:MacroTools.PassiveAbilities.DefensiveOrbs.OnSpellEffect
   isSpec: "True"
-  fullName: MacroTools.PassiveAbilities.DefensiveOrbs.OnSpellFinish
-  nameWithType: DefensiveOrbs.OnSpellFinish
+  fullName: MacroTools.PassiveAbilities.DefensiveOrbs.OnSpellEffect
+  nameWithType: DefensiveOrbs.OnSpellEffect
 - uid: MacroTools.PassiveAbilities.DefensiveOrbs.OrbDuration
   name: OrbDuration
   href: api-macroTools/MacroTools.PassiveAbilities.DefensiveOrbs.html#MacroTools_PassiveAbilities_DefensiveOrbs_OrbDuration
@@ -10383,6 +10383,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilitySystem.PassiveAbility.OnOrderIssued
   nameWithType: PassiveAbility.OnOrderIssued
+- uid: MacroTools.PassiveAbilitySystem.PassiveAbility.OnSpellEffect
+  name: OnSpellEffect()
+  href: api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html#MacroTools_PassiveAbilitySystem_PassiveAbility_OnSpellEffect
+  commentId: M:MacroTools.PassiveAbilitySystem.PassiveAbility.OnSpellEffect
+  fullName: MacroTools.PassiveAbilitySystem.PassiveAbility.OnSpellEffect()
+  nameWithType: PassiveAbility.OnSpellEffect()
+- uid: MacroTools.PassiveAbilitySystem.PassiveAbility.OnSpellEffect*
+  name: OnSpellEffect
+  href: api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html#MacroTools_PassiveAbilitySystem_PassiveAbility_OnSpellEffect_
+  commentId: Overload:MacroTools.PassiveAbilitySystem.PassiveAbility.OnSpellEffect
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilitySystem.PassiveAbility.OnSpellEffect
+  nameWithType: PassiveAbility.OnSpellEffect
 - uid: MacroTools.PassiveAbilitySystem.PassiveAbility.OnSpellFinish
   name: OnSpellFinish()
   href: api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html#MacroTools_PassiveAbilitySystem_PassiveAbility_OnSpellFinish
