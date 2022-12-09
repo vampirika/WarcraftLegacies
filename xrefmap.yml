@@ -32852,19 +32852,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Nathanos
   nameWithType: LegendForsaken.Nathanos
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Scholomance
-  name: Scholomance
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendForsaken.html#WarcraftLegacies_Source_Setup_Legends_LegendForsaken_Scholomance
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Scholomance
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Scholomance
-  nameWithType: LegendForsaken.Scholomance
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Scholomance*
-  name: Scholomance
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendForsaken.html#WarcraftLegacies_Source_Setup_Legends_LegendForsaken_Scholomance_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Scholomance
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Scholomance
-  nameWithType: LegendForsaken.Scholomance
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Setup
   name: Setup()
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendForsaken.html#WarcraftLegacies_Source_Setup_Legends_LegendForsaken_Setup
