@@ -32746,19 +32746,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.SylvanasUndead
   nameWithType: LegendForsaken.SylvanasUndead
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Undercity
-  name: Undercity
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendForsaken.html#WarcraftLegacies_Source_Setup_Legends_LegendForsaken_Undercity
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Undercity
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Undercity
-  nameWithType: LegendForsaken.Undercity
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Undercity*
-  name: Undercity
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendForsaken.html#WarcraftLegacies_Source_Setup_Legends_LegendForsaken_Undercity_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Undercity
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Undercity
-  nameWithType: LegendForsaken.Undercity
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Varimathras
   name: Varimathras
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendForsaken.html#WarcraftLegacies_Source_Setup_Legends_LegendForsaken_Varimathras
