@@ -1329,7 +1329,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.UnitExtensions.html",
-          "hash": "2B4CDjIQr+PCixI6yjXh8A=="
+          "hash": "wagpQP53HUnoHtqJMBqCjg=="
         }
       },
       "is_incremental": false,
@@ -2129,6 +2129,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.SummonUnitOnDeath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.PassiveAbilities.SummonUnitOnDeath.html",
+          "hash": "INgd/3I21kwOc2UXivItgg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.TakeExtraDamageOnWater.yml",
       "output": {
         ".html": {
@@ -2157,7 +2169,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.html",
-          "hash": "vMiCKjIB3fwMuqt6O/HEQw=="
+          "hash": "/rbbPdv6r2maKRhMbkdvHg=="
         }
       },
       "is_incremental": false,
@@ -2193,7 +2205,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html",
-          "hash": "6rYNWnpgYQ1X+j0JrHc7vA=="
+          "hash": "DRWB/HCs5/RCKhZT/eZguA=="
         }
       },
       "is_incremental": false,
@@ -3741,7 +3753,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "RZjzZGWLNF4AhVdBFgjE0g=="
+          "hash": "5yS5bxVe8cZb/pyzv9gXVw=="
         }
       },
       "is_incremental": false,
@@ -8213,6 +8225,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.FelHordeSpellSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.FelHordeSpellSetup.html",
+          "hash": "g5yvynOtqpsNxiXMFuXESg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.yml",
       "output": {
         ".html": {
@@ -8349,7 +8373,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.html",
-          "hash": "0ZAYSUTXukACoylQ9Wrjdw=="
+          "hash": "qj9pLm0UJ5elbEJSyFbTdw=="
         }
       },
       "is_incremental": false,
@@ -8481,7 +8505,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "Jgr5pEDckJK0V7AQsSwYxQ=="
+          "hash": "scoxvC5NzpFNjdQG8A16YQ=="
         }
       },
       "is_incremental": false,
@@ -8556,7 +8580,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 705,
+          "total_file_count": 707,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

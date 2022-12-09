@@ -4894,6 +4894,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.AddItemSafe
   nameWithType: UnitExtensions.AddItemSafe
+- uid: MacroTools.Extensions.UnitExtensions.AddType(unit,unittype)
+  name: AddType(unit, unittype)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_AddType_unit_unittype_
+  commentId: M:MacroTools.Extensions.UnitExtensions.AddType(unit,unittype)
+  fullName: MacroTools.Extensions.UnitExtensions.AddType(unit, unittype)
+  nameWithType: UnitExtensions.AddType(unit, unittype)
+- uid: MacroTools.Extensions.UnitExtensions.AddType*
+  name: AddType
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_AddType_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.AddType
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.AddType
+  nameWithType: UnitExtensions.AddType
 - uid: MacroTools.Extensions.UnitExtensions.DropAllItems(unit)
   name: DropAllItems(unit)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_DropAllItems_unit_
@@ -10156,6 +10169,103 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilities.SpellResistanceAura.OnCreated
   nameWithType: SpellResistanceAura.OnCreated
+- uid: MacroTools.PassiveAbilities.SummonUnitOnDeath
+  name: SummonUnitOnDeath
+  href: api-macroTools/MacroTools.PassiveAbilities.SummonUnitOnDeath.html
+  commentId: T:MacroTools.PassiveAbilities.SummonUnitOnDeath
+  fullName: MacroTools.PassiveAbilities.SummonUnitOnDeath
+  nameWithType: SummonUnitOnDeath
+- uid: MacroTools.PassiveAbilities.SummonUnitOnDeath.#ctor(System.Int32)
+  name: SummonUnitOnDeath(Int32)
+  href: api-macroTools/MacroTools.PassiveAbilities.SummonUnitOnDeath.html#MacroTools_PassiveAbilities_SummonUnitOnDeath__ctor_System_Int32_
+  commentId: M:MacroTools.PassiveAbilities.SummonUnitOnDeath.#ctor(System.Int32)
+  fullName: MacroTools.PassiveAbilities.SummonUnitOnDeath.SummonUnitOnDeath(System.Int32)
+  nameWithType: SummonUnitOnDeath.SummonUnitOnDeath(Int32)
+- uid: MacroTools.PassiveAbilities.SummonUnitOnDeath.#ctor*
+  name: SummonUnitOnDeath
+  href: api-macroTools/MacroTools.PassiveAbilities.SummonUnitOnDeath.html#MacroTools_PassiveAbilities_SummonUnitOnDeath__ctor_
+  commentId: Overload:MacroTools.PassiveAbilities.SummonUnitOnDeath.#ctor
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.SummonUnitOnDeath.SummonUnitOnDeath
+  nameWithType: SummonUnitOnDeath.SummonUnitOnDeath
+- uid: MacroTools.PassiveAbilities.SummonUnitOnDeath.Duration
+  name: Duration
+  href: api-macroTools/MacroTools.PassiveAbilities.SummonUnitOnDeath.html#MacroTools_PassiveAbilities_SummonUnitOnDeath_Duration
+  commentId: P:MacroTools.PassiveAbilities.SummonUnitOnDeath.Duration
+  fullName: MacroTools.PassiveAbilities.SummonUnitOnDeath.Duration
+  nameWithType: SummonUnitOnDeath.Duration
+- uid: MacroTools.PassiveAbilities.SummonUnitOnDeath.Duration*
+  name: Duration
+  href: api-macroTools/MacroTools.PassiveAbilities.SummonUnitOnDeath.html#MacroTools_PassiveAbilities_SummonUnitOnDeath_Duration_
+  commentId: Overload:MacroTools.PassiveAbilities.SummonUnitOnDeath.Duration
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.SummonUnitOnDeath.Duration
+  nameWithType: SummonUnitOnDeath.Duration
+- uid: MacroTools.PassiveAbilities.SummonUnitOnDeath.OnDeath
+  name: OnDeath()
+  href: api-macroTools/MacroTools.PassiveAbilities.SummonUnitOnDeath.html#MacroTools_PassiveAbilities_SummonUnitOnDeath_OnDeath
+  commentId: M:MacroTools.PassiveAbilities.SummonUnitOnDeath.OnDeath
+  fullName: MacroTools.PassiveAbilities.SummonUnitOnDeath.OnDeath()
+  nameWithType: SummonUnitOnDeath.OnDeath()
+- uid: MacroTools.PassiveAbilities.SummonUnitOnDeath.OnDeath*
+  name: OnDeath
+  href: api-macroTools/MacroTools.PassiveAbilities.SummonUnitOnDeath.html#MacroTools_PassiveAbilities_SummonUnitOnDeath_OnDeath_
+  commentId: Overload:MacroTools.PassiveAbilities.SummonUnitOnDeath.OnDeath
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.SummonUnitOnDeath.OnDeath
+  nameWithType: SummonUnitOnDeath.OnDeath
+- uid: MacroTools.PassiveAbilities.SummonUnitOnDeath.RequiredResearch
+  name: RequiredResearch
+  href: api-macroTools/MacroTools.PassiveAbilities.SummonUnitOnDeath.html#MacroTools_PassiveAbilities_SummonUnitOnDeath_RequiredResearch
+  commentId: P:MacroTools.PassiveAbilities.SummonUnitOnDeath.RequiredResearch
+  fullName: MacroTools.PassiveAbilities.SummonUnitOnDeath.RequiredResearch
+  nameWithType: SummonUnitOnDeath.RequiredResearch
+- uid: MacroTools.PassiveAbilities.SummonUnitOnDeath.RequiredResearch*
+  name: RequiredResearch
+  href: api-macroTools/MacroTools.PassiveAbilities.SummonUnitOnDeath.html#MacroTools_PassiveAbilities_SummonUnitOnDeath_RequiredResearch_
+  commentId: Overload:MacroTools.PassiveAbilities.SummonUnitOnDeath.RequiredResearch
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.SummonUnitOnDeath.RequiredResearch
+  nameWithType: SummonUnitOnDeath.RequiredResearch
+- uid: MacroTools.PassiveAbilities.SummonUnitOnDeath.SpecialEffectPath
+  name: SpecialEffectPath
+  href: api-macroTools/MacroTools.PassiveAbilities.SummonUnitOnDeath.html#MacroTools_PassiveAbilities_SummonUnitOnDeath_SpecialEffectPath
+  commentId: P:MacroTools.PassiveAbilities.SummonUnitOnDeath.SpecialEffectPath
+  fullName: MacroTools.PassiveAbilities.SummonUnitOnDeath.SpecialEffectPath
+  nameWithType: SummonUnitOnDeath.SpecialEffectPath
+- uid: MacroTools.PassiveAbilities.SummonUnitOnDeath.SpecialEffectPath*
+  name: SpecialEffectPath
+  href: api-macroTools/MacroTools.PassiveAbilities.SummonUnitOnDeath.html#MacroTools_PassiveAbilities_SummonUnitOnDeath_SpecialEffectPath_
+  commentId: Overload:MacroTools.PassiveAbilities.SummonUnitOnDeath.SpecialEffectPath
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.SummonUnitOnDeath.SpecialEffectPath
+  nameWithType: SummonUnitOnDeath.SpecialEffectPath
+- uid: MacroTools.PassiveAbilities.SummonUnitOnDeath.SummonCount
+  name: SummonCount
+  href: api-macroTools/MacroTools.PassiveAbilities.SummonUnitOnDeath.html#MacroTools_PassiveAbilities_SummonUnitOnDeath_SummonCount
+  commentId: P:MacroTools.PassiveAbilities.SummonUnitOnDeath.SummonCount
+  fullName: MacroTools.PassiveAbilities.SummonUnitOnDeath.SummonCount
+  nameWithType: SummonUnitOnDeath.SummonCount
+- uid: MacroTools.PassiveAbilities.SummonUnitOnDeath.SummonCount*
+  name: SummonCount
+  href: api-macroTools/MacroTools.PassiveAbilities.SummonUnitOnDeath.html#MacroTools_PassiveAbilities_SummonUnitOnDeath_SummonCount_
+  commentId: Overload:MacroTools.PassiveAbilities.SummonUnitOnDeath.SummonCount
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.SummonUnitOnDeath.SummonCount
+  nameWithType: SummonUnitOnDeath.SummonCount
+- uid: MacroTools.PassiveAbilities.SummonUnitOnDeath.SummonUnitTypeId
+  name: SummonUnitTypeId
+  href: api-macroTools/MacroTools.PassiveAbilities.SummonUnitOnDeath.html#MacroTools_PassiveAbilities_SummonUnitOnDeath_SummonUnitTypeId
+  commentId: P:MacroTools.PassiveAbilities.SummonUnitOnDeath.SummonUnitTypeId
+  fullName: MacroTools.PassiveAbilities.SummonUnitOnDeath.SummonUnitTypeId
+  nameWithType: SummonUnitOnDeath.SummonUnitTypeId
+- uid: MacroTools.PassiveAbilities.SummonUnitOnDeath.SummonUnitTypeId*
+  name: SummonUnitTypeId
+  href: api-macroTools/MacroTools.PassiveAbilities.SummonUnitOnDeath.html#MacroTools_PassiveAbilities_SummonUnitOnDeath_SummonUnitTypeId_
+  commentId: Overload:MacroTools.PassiveAbilities.SummonUnitOnDeath.SummonUnitTypeId
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.SummonUnitOnDeath.SummonUnitTypeId
+  nameWithType: SummonUnitOnDeath.SummonUnitTypeId
 - uid: MacroTools.PassiveAbilities.TakeExtraDamageOnWater
   name: TakeExtraDamageOnWater
   href: api-macroTools/MacroTools.PassiveAbilities.TakeExtraDamageOnWater.html
@@ -35270,6 +35380,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Spells.DruidsSpellSetup.Setup
   nameWithType: DruidsSpellSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.Spells.FelHordeSpellSetup
+  name: FelHordeSpellSetup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.FelHordeSpellSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.Spells.FelHordeSpellSetup
+  fullName: WarcraftLegacies.Source.Setup.Spells.FelHordeSpellSetup
+  nameWithType: FelHordeSpellSetup
+- uid: WarcraftLegacies.Source.Setup.Spells.FelHordeSpellSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.FelHordeSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_FelHordeSpellSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.Spells.FelHordeSpellSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.Spells.FelHordeSpellSetup.Setup()
+  nameWithType: FelHordeSpellSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.Spells.FelHordeSpellSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.FelHordeSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_FelHordeSpellSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Spells.FelHordeSpellSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Spells.FelHordeSpellSetup.Setup
+  nameWithType: FelHordeSpellSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup
   name: ForsakenSpellSetup
   href: api-source/WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.html
