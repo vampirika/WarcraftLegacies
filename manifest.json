@@ -1113,7 +1113,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html",
-          "hash": "GyL0CD1SQ2Lz3yl4o72/sw=="
+          "hash": "ah6cjpznH6RVTZ1HCmF8EQ=="
         }
       },
       "is_incremental": false,
@@ -1137,7 +1137,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ControlPointSystem.html",
-          "hash": "fyUpXDnZssoiulxz9D5Klg=="
+          "hash": "kc0GpScfh2vKZzST961U2A=="
         }
       },
       "is_incremental": false,
@@ -3641,6 +3641,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.WarningLogger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.WarningLogger.html",
+          "hash": "5NLUaRdZBEKIaXQRqxu/hQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Wrappers.EaxExtensions.yml",
       "output": {
         ".html": {
@@ -3717,7 +3729,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.html",
-          "hash": "70GjjWGnRRujeWxwsPRt7A=="
+          "hash": "0s5mKKkM1H/PzLz9gCB2tQ=="
         }
       },
       "is_incremental": false,
@@ -3729,7 +3741,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "b6CLj5yCytTBdFeFggqvnA=="
+          "hash": "RZjzZGWLNF4AhVdBFgjE0g=="
         }
       },
       "is_incremental": false,
@@ -5925,7 +5937,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestAetheneumTomb.html",
-          "hash": "I8/w4Mw51is3X835Yk/Otw=="
+          "hash": "vY19k5lCWt4Dqok6qEX2HQ=="
         }
       },
       "is_incremental": false,
@@ -7533,7 +7545,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.GameSetup.html",
-          "hash": "ct2kk1E3JYTOKvPJdxzjKw=="
+          "hash": "IzLbx/a6VU6nDHhTD6PkuA=="
         }
       },
       "is_incremental": false,
@@ -7641,7 +7653,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendForsaken.html",
-          "hash": "yLXf2x3gAk3y0jcW0VQQ+Q=="
+          "hash": "29QP4kcyHV/Py2L1E0X8kQ=="
         }
       },
       "is_incremental": false,
@@ -7737,7 +7749,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendNaga.html",
-          "hash": "ey1JX9bHM89uf9wGthlQ5g=="
+          "hash": "aNqBAq92FU/Qgke4IWMqfQ=="
         }
       },
       "is_incremental": false,
@@ -7749,7 +7761,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html",
-          "hash": "2OsnMuCqTouXhuLforPhaA=="
+          "hash": "/L9/MUggRMkI/zsNgyodTw=="
         }
       },
       "is_incremental": false,
@@ -8580,7 +8592,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 707,
+          "total_file_count": 708,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

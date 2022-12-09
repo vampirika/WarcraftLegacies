@@ -16881,6 +16881,25 @@ references:
   isSpec: "True"
   fullName: MacroTools.UserInterface.FactionMultiboard.Setup
   nameWithType: FactionMultiboard.Setup
+- uid: MacroTools.WarningLogger
+  name: WarningLogger
+  href: api-macroTools/MacroTools.WarningLogger.html
+  commentId: T:MacroTools.WarningLogger
+  fullName: MacroTools.WarningLogger
+  nameWithType: WarningLogger
+- uid: MacroTools.WarningLogger.Log(System.String)
+  name: Log(String)
+  href: api-macroTools/MacroTools.WarningLogger.html#MacroTools_WarningLogger_Log_System_String_
+  commentId: M:MacroTools.WarningLogger.Log(System.String)
+  fullName: MacroTools.WarningLogger.Log(System.String)
+  nameWithType: WarningLogger.Log(String)
+- uid: MacroTools.WarningLogger.Log*
+  name: Log
+  href: api-macroTools/MacroTools.WarningLogger.html#MacroTools_WarningLogger_Log_
+  commentId: Overload:MacroTools.WarningLogger.Log
+  isSpec: "True"
+  fullName: MacroTools.WarningLogger.Log
+  nameWithType: WarningLogger.Log
 - uid: MacroTools.Wrappers
   name: MacroTools.Wrappers
   href: api-macroTools/MacroTools.Wrappers.html
@@ -32846,12 +32865,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Scholomance
   nameWithType: LegendForsaken.Scholomance
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendForsaken.html#WarcraftLegacies_Source_Setup_Legends_LegendForsaken_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: LegendForsaken.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendForsaken.html#WarcraftLegacies_Source_Setup_Legends_LegendForsaken_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Setup
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Setup()
+  nameWithType: LegendForsaken.Setup()
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendForsaken.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendForsaken.html#WarcraftLegacies_Source_Setup_Legends_LegendForsaken_Setup_
@@ -33661,32 +33680,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendNajentus
   nameWithType: LegendNaga.LegendNajentus
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendNazjatar
-  name: LegendNazjatar
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNaga.html#WarcraftLegacies_Source_Setup_Legends_LegendNaga_LegendNazjatar
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendNazjatar
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendNazjatar
-  nameWithType: LegendNaga.LegendNazjatar
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendNazjatar*
-  name: LegendNazjatar
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNaga.html#WarcraftLegacies_Source_Setup_Legends_LegendNaga_LegendNazjatar_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendNazjatar
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendNazjatar
-  nameWithType: LegendNaga.LegendNazjatar
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendNzoth
-  name: LegendNzoth
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNaga.html#WarcraftLegacies_Source_Setup_Legends_LegendNaga_LegendNzoth
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendNzoth
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendNzoth
-  nameWithType: LegendNaga.LegendNzoth
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendNzoth*
-  name: LegendNzoth
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNaga.html#WarcraftLegacies_Source_Setup_Legends_LegendNaga_LegendNzoth_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendNzoth
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendNzoth
-  nameWithType: LegendNaga.LegendNzoth
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendVashj
   name: LegendVashj
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNaga.html#WarcraftLegacies_Source_Setup_Legends_LegendNaga_LegendVashj
@@ -33700,25 +33693,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendVashj
   nameWithType: LegendNaga.LegendVashj
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendVault
-  name: LegendVault
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNaga.html#WarcraftLegacies_Source_Setup_Legends_LegendNaga_LegendVault
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendVault
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendVault
-  nameWithType: LegendNaga.LegendVault
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendVault*
-  name: LegendVault
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNaga.html#WarcraftLegacies_Source_Setup_Legends_LegendNaga_LegendVault_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendVault
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNaga.LegendVault
-  nameWithType: LegendNaga.LegendVault
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNaga.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNaga.html#WarcraftLegacies_Source_Setup_Legends_LegendNaga_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendNaga.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNaga.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: LegendNaga.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNaga.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNaga.html#WarcraftLegacies_Source_Setup_Legends_LegendNaga_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendNaga.Setup
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNaga.Setup()
+  nameWithType: LegendNaga.Setup()
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendNaga.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNaga.html#WarcraftLegacies_Source_Setup_Legends_LegendNaga_Setup_
@@ -33927,19 +33907,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Gundrak
   nameWithType: LegendNeutral.Gundrak
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Immolthar
-  name: Immolthar
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_Immolthar
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Immolthar
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Immolthar
-  nameWithType: LegendNeutral.Immolthar
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Immolthar*
-  name: Immolthar
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_Immolthar_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Immolthar
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Immolthar
-  nameWithType: LegendNeutral.Immolthar
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Jinthaalor
   name: Jinthaalor
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_Jinthaalor
