@@ -5013,7 +5013,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.html",
-          "hash": "DVT2PgxOvv992yMY6Bggdw=="
+          "hash": "3gHzbvUhYxFpVplO/Rhk4Q=="
         }
       },
       "is_incremental": false,
@@ -5105,18 +5105,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.html",
-          "hash": "O0w+pI+kwxfBa5BhX9hJRA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestReanimateSylvanas.yml",
       "output": {
         ".html": {
@@ -5189,23 +5177,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.html",
-          "hash": "UM5c5e0jYpJ+jgAB1oh20w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.html",
-          "hash": "x92+ghxea2lfZy2DT/CLBg=="
+          "hash": "WYjMSS6tdaAAGsS/D6CMHA=="
         }
       },
       "is_incremental": false,
@@ -6321,7 +6297,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestPlague.html",
-          "hash": "KxJ5flEBVJ+3YgVAtmKuPQ=="
+          "hash": "OqywaSW5QpwKK8U0Pn+P+Q=="
         }
       },
       "is_incremental": false,
@@ -7977,7 +7953,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.html",
-          "hash": "30fZRp3vshtsVczrqhTpjw=="
+          "hash": "oVa85zqEpKhFJxaWirQG1w=="
         }
       },
       "is_incremental": false,
@@ -8429,18 +8405,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Spells.CorruptBuildingSpell.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Spells.CorruptBuildingSpell.html",
-          "hash": "owwDq5gHMkIeBPb+SgaTdg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Spells.PingOilDeposits.yml",
       "output": {
         ".html": {
@@ -8469,7 +8433,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Spells.html",
-          "hash": "qw+BD4pAJvQwmeIq/BKA3g=="
+          "hash": "8n0aI0RkzXazMBqMYMakSQ=="
         }
       },
       "is_incremental": false,
@@ -8517,7 +8481,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "mJRIrPeuGJByb21MzgDxvQ=="
+          "hash": "Jgr5pEDckJK0V7AQsSwYxQ=="
         }
       },
       "is_incremental": false,
@@ -8592,7 +8556,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 708,
+          "total_file_count": 705,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

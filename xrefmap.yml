@@ -21364,64 +21364,6 @@ references:
   commentId: N:WarcraftLegacies.Source.Quests.Forsaken
   fullName: WarcraftLegacies.Source.Quests.Forsaken
   nameWithType: WarcraftLegacies.Source.Quests.Forsaken
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance
-  name: QuestOpenScholomance
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.html
-  commentId: T:WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance
-  nameWithType: QuestOpenScholomance
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.#ctor(MacroTools.PreplacedUnitSystem,MacroTools.QuestSystem.QuestData)
-  name: QuestOpenScholomance(PreplacedUnitSystem, QuestData)
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.html#WarcraftLegacies_Source_Quests_Forsaken_QuestOpenScholomance__ctor_MacroTools_PreplacedUnitSystem_MacroTools_QuestSystem_QuestData_
-  commentId: M:WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.#ctor(MacroTools.PreplacedUnitSystem,MacroTools.QuestSystem.QuestData)
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.QuestOpenScholomance(MacroTools.PreplacedUnitSystem, MacroTools.QuestSystem.QuestData)
-  nameWithType: QuestOpenScholomance.QuestOpenScholomance(PreplacedUnitSystem, QuestData)
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.#ctor*
-  name: QuestOpenScholomance
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.html#WarcraftLegacies_Source_Quests_Forsaken_QuestOpenScholomance__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.QuestOpenScholomance
-  nameWithType: QuestOpenScholomance.QuestOpenScholomance
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.CompletionPopup
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.html#WarcraftLegacies_Source_Quests_Forsaken_QuestOpenScholomance_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.CompletionPopup
-  nameWithType: QuestOpenScholomance.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.CompletionPopup*
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.html#WarcraftLegacies_Source_Quests_Forsaken_QuestOpenScholomance_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.CompletionPopup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.CompletionPopup
-  nameWithType: QuestOpenScholomance.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.html#WarcraftLegacies_Source_Quests_Forsaken_QuestOpenScholomance_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestOpenScholomance.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.html#WarcraftLegacies_Source_Quests_Forsaken_QuestOpenScholomance_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.OnComplete
-  nameWithType: QuestOpenScholomance.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.html#WarcraftLegacies_Source_Quests_Forsaken_QuestOpenScholomance_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.RewardDescription
-  nameWithType: QuestOpenScholomance.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.html#WarcraftLegacies_Source_Quests_Forsaken_QuestOpenScholomance_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestOpenScholomance.RewardDescription
-  nameWithType: QuestOpenScholomance.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Forsaken.QuestReanimateSylvanas
   name: QuestReanimateSylvanas
   href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestReanimateSylvanas.html
@@ -21783,77 +21725,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestThePlaguelands.RewardDescription
   nameWithType: QuestThePlaguelands.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity
-  name: QuestUndercity
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.html
-  commentId: T:WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity
-  nameWithType: QuestUndercity
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.#ctor(Rectangle,unit,unit,unit,unit)
-  name: QuestUndercity(Rectangle, unit, unit, unit, unit)
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.html#WarcraftLegacies_Source_Quests_Forsaken_QuestUndercity__ctor_Rectangle_unit_unit_unit_unit_
-  commentId: M:WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.#ctor(Rectangle,unit,unit,unit,unit)
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.QuestUndercity(Rectangle, unit, unit, unit, unit)
-  nameWithType: QuestUndercity.QuestUndercity(Rectangle, unit, unit, unit, unit)
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.#ctor*
-  name: QuestUndercity
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.html#WarcraftLegacies_Source_Quests_Forsaken_QuestUndercity__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.QuestUndercity
-  nameWithType: QuestUndercity.QuestUndercity
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.CompletionPopup
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.html#WarcraftLegacies_Source_Quests_Forsaken_QuestUndercity_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.CompletionPopup
-  nameWithType: QuestUndercity.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.CompletionPopup*
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.html#WarcraftLegacies_Source_Quests_Forsaken_QuestUndercity_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.CompletionPopup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.CompletionPopup
-  nameWithType: QuestUndercity.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.html#WarcraftLegacies_Source_Quests_Forsaken_QuestUndercity_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestUndercity.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.html#WarcraftLegacies_Source_Quests_Forsaken_QuestUndercity_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.OnComplete
-  nameWithType: QuestUndercity.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.OnFail(MacroTools.FactionSystem.Faction)
-  name: OnFail(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.html#WarcraftLegacies_Source_Quests_Forsaken_QuestUndercity_OnFail_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.OnFail(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.OnFail(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestUndercity.OnFail(Faction)
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.OnFail*
-  name: OnFail
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.html#WarcraftLegacies_Source_Quests_Forsaken_QuestUndercity_OnFail_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.OnFail
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.OnFail
-  nameWithType: QuestUndercity.OnFail
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.html#WarcraftLegacies_Source_Quests_Forsaken_QuestUndercity_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.RewardDescription
-  nameWithType: QuestUndercity.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.html#WarcraftLegacies_Source_Quests_Forsaken_QuestUndercity_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Forsaken.QuestUndercity.RewardDescription
-  nameWithType: QuestUndercity.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Frostwolf
   name: WarcraftLegacies.Source.Quests.Frostwolf
   href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.html
@@ -27143,15 +27014,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Scourge.QuestPlague
   fullName: WarcraftLegacies.Source.Quests.Scourge.QuestPlague
   nameWithType: QuestPlague
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestPlague.#ctor(MacroTools.FactionSystem.Faction,unit,IEnumerable{unit},WarcraftLegacies.Source.Quests.Scourge.PlagueParameters)
-  name: QuestPlague(Faction, unit, IEnumerable<unit>, PlagueParameters)
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestPlague.html#WarcraftLegacies_Source_Quests_Scourge_QuestPlague__ctor_MacroTools_FactionSystem_Faction_unit_IEnumerable_unit__WarcraftLegacies_Source_Quests_Scourge_PlagueParameters_
-  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestPlague.#ctor(MacroTools.FactionSystem.Faction,unit,IEnumerable{unit},WarcraftLegacies.Source.Quests.Scourge.PlagueParameters)
-  name.vb: QuestPlague(Faction, unit, IEnumerable(Of unit), PlagueParameters)
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestPlague.QuestPlague(MacroTools.FactionSystem.Faction, unit, IEnumerable<unit>, WarcraftLegacies.Source.Quests.Scourge.PlagueParameters)
-  fullName.vb: WarcraftLegacies.Source.Quests.Scourge.QuestPlague.QuestPlague(MacroTools.FactionSystem.Faction, unit, IEnumerable(Of unit), WarcraftLegacies.Source.Quests.Scourge.PlagueParameters)
-  nameWithType: QuestPlague.QuestPlague(Faction, unit, IEnumerable<unit>, PlagueParameters)
-  nameWithType.vb: QuestPlague.QuestPlague(Faction, unit, IEnumerable(Of unit), PlagueParameters)
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestPlague.#ctor(MacroTools.FactionSystem.Faction,unit,WarcraftLegacies.Source.Quests.Scourge.PlagueParameters)
+  name: QuestPlague(Faction, unit, PlagueParameters)
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestPlague.html#WarcraftLegacies_Source_Quests_Scourge_QuestPlague__ctor_MacroTools_FactionSystem_Faction_unit_WarcraftLegacies_Source_Quests_Scourge_PlagueParameters_
+  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestPlague.#ctor(MacroTools.FactionSystem.Faction,unit,WarcraftLegacies.Source.Quests.Scourge.PlagueParameters)
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestPlague.QuestPlague(MacroTools.FactionSystem.Faction, unit, WarcraftLegacies.Source.Quests.Scourge.PlagueParameters)
+  nameWithType: QuestPlague.QuestPlague(Faction, unit, PlagueParameters)
 - uid: WarcraftLegacies.Source.Quests.Scourge.QuestPlague.#ctor*
   name: QuestPlague
   href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestPlague.html#WarcraftLegacies_Source_Quests_Scourge_QuestPlague__ctor_
@@ -35016,12 +34884,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup
   nameWithType: ForsakenQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.Setup(MacroTools.QuestSystem.QuestData,MacroTools.PreplacedUnitSystem)
-  name: Setup(QuestData, PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ForsakenQuestSetup_Setup_MacroTools_QuestSystem_QuestData_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.Setup(MacroTools.QuestSystem.QuestData,MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.Setup(MacroTools.QuestSystem.QuestData, MacroTools.PreplacedUnitSystem)
-  nameWithType: ForsakenQuestSetup.Setup(QuestData, PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ForsakenQuestSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.Setup()
+  nameWithType: ForsakenQuestSetup.Setup()
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ForsakenQuestSetup_Setup_
@@ -35830,38 +35698,6 @@ references:
   commentId: N:WarcraftLegacies.Source.Spells
   fullName: WarcraftLegacies.Source.Spells
   nameWithType: WarcraftLegacies.Source.Spells
-- uid: WarcraftLegacies.Source.Spells.CorruptBuildingSpell
-  name: CorruptBuildingSpell
-  href: api-source/WarcraftLegacies.Source.Spells.CorruptBuildingSpell.html
-  commentId: T:WarcraftLegacies.Source.Spells.CorruptBuildingSpell
-  fullName: WarcraftLegacies.Source.Spells.CorruptBuildingSpell
-  nameWithType: CorruptBuildingSpell
-- uid: WarcraftLegacies.Source.Spells.CorruptBuildingSpell.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)
-  name: CorruptBuildingSpell(Int32, Int32, Int32, Int32)
-  href: api-source/WarcraftLegacies.Source.Spells.CorruptBuildingSpell.html#WarcraftLegacies_Source_Spells_CorruptBuildingSpell__ctor_System_Int32_System_Int32_System_Int32_System_Int32_
-  commentId: M:WarcraftLegacies.Source.Spells.CorruptBuildingSpell.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)
-  fullName: WarcraftLegacies.Source.Spells.CorruptBuildingSpell.CorruptBuildingSpell(System.Int32, System.Int32, System.Int32, System.Int32)
-  nameWithType: CorruptBuildingSpell.CorruptBuildingSpell(Int32, Int32, Int32, Int32)
-- uid: WarcraftLegacies.Source.Spells.CorruptBuildingSpell.#ctor*
-  name: CorruptBuildingSpell
-  href: api-source/WarcraftLegacies.Source.Spells.CorruptBuildingSpell.html#WarcraftLegacies_Source_Spells_CorruptBuildingSpell__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Spells.CorruptBuildingSpell.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Spells.CorruptBuildingSpell.CorruptBuildingSpell
-  nameWithType: CorruptBuildingSpell.CorruptBuildingSpell
-- uid: WarcraftLegacies.Source.Spells.CorruptBuildingSpell.OnCast(unit,unit,Point)
-  name: OnCast(unit, unit, Point)
-  href: api-source/WarcraftLegacies.Source.Spells.CorruptBuildingSpell.html#WarcraftLegacies_Source_Spells_CorruptBuildingSpell_OnCast_unit_unit_Point_
-  commentId: M:WarcraftLegacies.Source.Spells.CorruptBuildingSpell.OnCast(unit,unit,Point)
-  fullName: WarcraftLegacies.Source.Spells.CorruptBuildingSpell.OnCast(unit, unit, Point)
-  nameWithType: CorruptBuildingSpell.OnCast(unit, unit, Point)
-- uid: WarcraftLegacies.Source.Spells.CorruptBuildingSpell.OnCast*
-  name: OnCast
-  href: api-source/WarcraftLegacies.Source.Spells.CorruptBuildingSpell.html#WarcraftLegacies_Source_Spells_CorruptBuildingSpell_OnCast_
-  commentId: Overload:WarcraftLegacies.Source.Spells.CorruptBuildingSpell.OnCast
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Spells.CorruptBuildingSpell.OnCast
-  nameWithType: CorruptBuildingSpell.OnCast
 - uid: WarcraftLegacies.Source.Spells.PingOilDeposits
   name: PingOilDeposits
   href: api-source/WarcraftLegacies.Source.Spells.PingOilDeposits.html
