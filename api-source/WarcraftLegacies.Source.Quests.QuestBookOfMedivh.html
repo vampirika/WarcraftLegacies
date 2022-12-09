@@ -131,19 +131,19 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Quests_QuestBookOfMedivh__ctor_unit_System_Boolean_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Quests.QuestBookOfMedivh.%23ctor(unit%2CSystem.Boolean)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Quests_QuestBookOfMedivh__ctor_unit_System_Boolean_MacroTools_ArtifactSystem_Artifact_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Quests.QuestBookOfMedivh.%23ctor(unit%2CSystem.Boolean%2CMacroTools.ArtifactSystem.Artifact)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/QuestBookOfMedivh.cs/#L24">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/QuestBookOfMedivh.cs/#L26">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Quests_QuestBookOfMedivh__ctor_" data-uid="WarcraftLegacies.Source.Quests.QuestBookOfMedivh.#ctor*"></a>
-  <h4 id="WarcraftLegacies_Source_Quests_QuestBookOfMedivh__ctor_unit_System_Boolean_" data-uid="WarcraftLegacies.Source.Quests.QuestBookOfMedivh.#ctor(unit,System.Boolean)">QuestBookOfMedivh(unit, Boolean)</h4>
+  <h4 id="WarcraftLegacies_Source_Quests_QuestBookOfMedivh__ctor_unit_System_Boolean_MacroTools_ArtifactSystem_Artifact_" data-uid="WarcraftLegacies.Source.Quests.QuestBookOfMedivh.#ctor(unit,System.Boolean,MacroTools.ArtifactSystem.Artifact)">QuestBookOfMedivh(unit, Boolean, Artifact)</h4>
   <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html">QuestBookOfMedivh</a> class.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public QuestBookOfMedivh(unit bookOfMedivhPedestal, bool isLegion)</code></pre>
+    <pre><code class="lang-csharp hljs">public QuestBookOfMedivh(unit bookOfMedivhPedestal, bool isLegion, Artifact bookOfMedivh)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -167,6 +167,12 @@
         <td><p>If set to true, any hero of any level can complete the objective.</p>
 </td>
       </tr>
+      <tr>
+        <td><a class="xref" href="../api-macroTools/MacroTools.ArtifactSystem.Artifact.html">Artifact</a></td>
+        <td><span class="parametername">bookOfMedivh</span></td>
+        <td><p>Reward for completing the quest.</p>
+</td>
+      </tr>
     </tbody>
   </table>
   <h3 id="properties">Properties
@@ -176,7 +182,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Quests_QuestBookOfMedivh_CompletionPopup.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Quests.QuestBookOfMedivh.CompletionPopup%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/QuestBookOfMedivh.cs/#L45">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/QuestBookOfMedivh.cs/#L48">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Quests_QuestBookOfMedivh_CompletionPopup_" data-uid="WarcraftLegacies.Source.Quests.QuestBookOfMedivh.CompletionPopup*"></a>
   <h4 id="WarcraftLegacies_Source_Quests_QuestBookOfMedivh_CompletionPopup" data-uid="WarcraftLegacies.Source.Quests.QuestBookOfMedivh.CompletionPopup">CompletionPopup</h4>
@@ -208,7 +214,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Quests_QuestBookOfMedivh_FailurePopup.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Quests.QuestBookOfMedivh.FailurePopup%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/QuestBookOfMedivh.cs/#L50">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/QuestBookOfMedivh.cs/#L53">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Quests_QuestBookOfMedivh_FailurePopup_" data-uid="WarcraftLegacies.Source.Quests.QuestBookOfMedivh.FailurePopup*"></a>
   <h4 id="WarcraftLegacies_Source_Quests_QuestBookOfMedivh_FailurePopup" data-uid="WarcraftLegacies.Source.Quests.QuestBookOfMedivh.FailurePopup">FailurePopup</h4>
@@ -240,7 +246,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Quests_QuestBookOfMedivh_RewardDescription.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Quests.QuestBookOfMedivh.RewardDescription%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/QuestBookOfMedivh.cs/#L40">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/QuestBookOfMedivh.cs/#L43">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Quests_QuestBookOfMedivh_RewardDescription_" data-uid="WarcraftLegacies.Source.Quests.QuestBookOfMedivh.RewardDescription*"></a>
   <h4 id="WarcraftLegacies_Source_Quests_QuestBookOfMedivh_RewardDescription" data-uid="WarcraftLegacies.Source.Quests.QuestBookOfMedivh.RewardDescription">RewardDescription</h4>
@@ -274,7 +280,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Quests_QuestBookOfMedivh_OnComplete_MacroTools_FactionSystem_Faction_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Quests.QuestBookOfMedivh.OnComplete(MacroTools.FactionSystem.Faction)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/QuestBookOfMedivh.cs/#L54">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/QuestBookOfMedivh.cs/#L57">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Quests_QuestBookOfMedivh_OnComplete_" data-uid="WarcraftLegacies.Source.Quests.QuestBookOfMedivh.OnComplete*"></a>
   <h4 id="WarcraftLegacies_Source_Quests_QuestBookOfMedivh_OnComplete_MacroTools_FactionSystem_Faction_" data-uid="WarcraftLegacies.Source.Quests.QuestBookOfMedivh.OnComplete(MacroTools.FactionSystem.Faction)">OnComplete(Faction)</h4>
