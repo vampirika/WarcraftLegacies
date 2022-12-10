@@ -8315,6 +8315,19 @@ references:
   commentId: T:MacroTools.LegendSystem.LegendaryHero
   fullName: MacroTools.LegendSystem.LegendaryHero
   nameWithType: LegendaryHero
+- uid: MacroTools.LegendSystem.LegendaryHero.#ctor(System.String)
+  name: LegendaryHero(String)
+  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero__ctor_System_String_
+  commentId: M:MacroTools.LegendSystem.LegendaryHero.#ctor(System.String)
+  fullName: MacroTools.LegendSystem.LegendaryHero.LegendaryHero(System.String)
+  nameWithType: LegendaryHero.LegendaryHero(String)
+- uid: MacroTools.LegendSystem.LegendaryHero.#ctor*
+  name: LegendaryHero
+  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero__ctor_
+  commentId: Overload:MacroTools.LegendSystem.LegendaryHero.#ctor
+  isSpec: "True"
+  fullName: MacroTools.LegendSystem.LegendaryHero.LegendaryHero
+  nameWithType: LegendaryHero.LegendaryHero
 - uid: MacroTools.LegendSystem.LegendaryHero.AddUnitDependency(unit)
   name: AddUnitDependency(unit)
   href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_AddUnitDependency_unit_
