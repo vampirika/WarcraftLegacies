@@ -5624,6 +5624,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.Kill
   nameWithType: UnitExtensions.Kill
+- uid: MacroTools.Extensions.UnitExtensions.MakeCapturable(unit)
+  name: MakeCapturable(unit)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_MakeCapturable_unit_
+  commentId: M:MacroTools.Extensions.UnitExtensions.MakeCapturable(unit)
+  fullName: MacroTools.Extensions.UnitExtensions.MakeCapturable(unit)
+  nameWithType: UnitExtensions.MakeCapturable(unit)
+- uid: MacroTools.Extensions.UnitExtensions.MakeCapturable*
+  name: MakeCapturable
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_MakeCapturable_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.MakeCapturable
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.MakeCapturable
+  nameWithType: UnitExtensions.MakeCapturable
 - uid: MacroTools.Extensions.UnitExtensions.MultiplyBaseDamage(unit,System.Single,System.Int32)
   name: MultiplyBaseDamage(unit, Single, Int32)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_MultiplyBaseDamage_unit_System_Single_System_Int32_
@@ -31201,6 +31214,25 @@ references:
   commentId: F:WarcraftLegacies.Source.Setup.Cameras.warsong7
   fullName: WarcraftLegacies.Source.Setup.Cameras.warsong7
   nameWithType: Cameras.warsong7
+- uid: WarcraftLegacies.Source.Setup.CapturableUnitSetup
+  name: CapturableUnitSetup
+  href: api-source/WarcraftLegacies.Source.Setup.CapturableUnitSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.CapturableUnitSetup
+  fullName: WarcraftLegacies.Source.Setup.CapturableUnitSetup
+  nameWithType: CapturableUnitSetup
+- uid: WarcraftLegacies.Source.Setup.CapturableUnitSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.CapturableUnitSetup.html#WarcraftLegacies_Source_Setup_CapturableUnitSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.CapturableUnitSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.CapturableUnitSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: CapturableUnitSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.CapturableUnitSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.CapturableUnitSetup.html#WarcraftLegacies_Source_Setup_CapturableUnitSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.CapturableUnitSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.CapturableUnitSetup.Setup
+  nameWithType: CapturableUnitSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.CheatSetup
   name: CheatSetup
   href: api-source/WarcraftLegacies.Source.Setup.CheatSetup.html
@@ -33633,45 +33665,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.FountainOfBlood
   nameWithType: LegendNeutral.FountainOfBlood
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.FountainOfHealth
-  name: FountainOfHealth
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_FountainOfHealth
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.FountainOfHealth
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.FountainOfHealth
-  nameWithType: LegendNeutral.FountainOfHealth
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.FountainOfHealth*
-  name: FountainOfHealth
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_FountainOfHealth_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.FountainOfHealth
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.FountainOfHealth
-  nameWithType: LegendNeutral.FountainOfHealth
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.FountainOfHealthFeralas
-  name: FountainOfHealthFeralas
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_FountainOfHealthFeralas
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.FountainOfHealthFeralas
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.FountainOfHealthFeralas
-  nameWithType: LegendNeutral.FountainOfHealthFeralas
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.FountainOfHealthFeralas*
-  name: FountainOfHealthFeralas
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_FountainOfHealthFeralas_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.FountainOfHealthFeralas
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.FountainOfHealthFeralas
-  nameWithType: LegendNeutral.FountainOfHealthFeralas
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.FountainOfHealthWetlands
-  name: FountainOfHealthWetlands
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_FountainOfHealthWetlands
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.FountainOfHealthWetlands
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.FountainOfHealthWetlands
-  nameWithType: LegendNeutral.FountainOfHealthWetlands
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.FountainOfHealthWetlands*
-  name: FountainOfHealthWetlands
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_FountainOfHealthWetlands_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.FountainOfHealthWetlands
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.FountainOfHealthWetlands
-  nameWithType: LegendNeutral.FountainOfHealthWetlands
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.GrimBatol
   name: GrimBatol
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_GrimBatol

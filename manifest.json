@@ -1341,7 +1341,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.UnitExtensions.html",
-          "hash": "Zn+SVNPi3yyWYIvsJf68dw=="
+          "hash": "fMEuMXiSKHLahEH28j0yVg=="
         }
       },
       "is_incremental": false,
@@ -7217,6 +7217,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.CapturableUnitSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.CapturableUnitSetup.html",
+          "hash": "Qo+eTvadBoGiO1rgW4Yyxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.CheatSetup.yml",
       "output": {
         ".html": {
@@ -7797,7 +7809,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html",
-          "hash": "WTBiSFnRbqE+6JlsY7zGdg=="
+          "hash": "tkpIId1kneUiL6VgBwGJWg=="
         }
       },
       "is_incremental": false,
@@ -8469,7 +8481,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.html",
-          "hash": "ssaRA1s2fMJzeBZubJ4PVw=="
+          "hash": "pE5XXRt11sZnHG42KIuj8g=="
         }
       },
       "is_incremental": false,
@@ -8553,7 +8565,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "LT78oz2imlzVqNbZIXPOuQ=="
+          "hash": "Jf/Kn0nIk/9Znl0F1jpzeg=="
         }
       },
       "is_incremental": false,
@@ -8628,7 +8640,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 711,
+          "total_file_count": 712,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
