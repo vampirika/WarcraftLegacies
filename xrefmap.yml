@@ -21362,15 +21362,15 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel
   fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel
   nameWithType: QuestHellfireCitadel
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.#ctor(Rectangle,List{unit},IEnumerable{MacroTools.QuestSystem.QuestData})
-  name: QuestHellfireCitadel(Rectangle, List<unit>, IEnumerable<QuestData>)
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestHellfireCitadel__ctor_Rectangle_List_unit__IEnumerable_MacroTools_QuestSystem_QuestData__
-  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.#ctor(Rectangle,List{unit},IEnumerable{MacroTools.QuestSystem.QuestData})
-  name.vb: QuestHellfireCitadel(Rectangle, List(Of unit), IEnumerable(Of QuestData))
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.QuestHellfireCitadel(Rectangle, List<unit>, IEnumerable<MacroTools.QuestSystem.QuestData>)
-  fullName.vb: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.QuestHellfireCitadel(Rectangle, List(Of unit), IEnumerable(Of MacroTools.QuestSystem.QuestData))
-  nameWithType: QuestHellfireCitadel.QuestHellfireCitadel(Rectangle, List<unit>, IEnumerable<QuestData>)
-  nameWithType.vb: QuestHellfireCitadel.QuestHellfireCitadel(Rectangle, List(Of unit), IEnumerable(Of QuestData))
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.#ctor(Rectangle,List{unit})
+  name: QuestHellfireCitadel(Rectangle, List<unit>)
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestHellfireCitadel__ctor_Rectangle_List_unit__
+  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.#ctor(Rectangle,List{unit})
+  name.vb: QuestHellfireCitadel(Rectangle, List(Of unit))
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.QuestHellfireCitadel(Rectangle, List<unit>)
+  fullName.vb: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.QuestHellfireCitadel(Rectangle, List(Of unit))
+  nameWithType: QuestHellfireCitadel.QuestHellfireCitadel(Rectangle, List<unit>)
+  nameWithType.vb: QuestHellfireCitadel.QuestHellfireCitadel(Rectangle, List(Of unit))
 - uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.#ctor*
   name: QuestHellfireCitadel
   href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestHellfireCitadel__ctor_
@@ -21488,77 +21488,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKillDraenei.RewardDescription
   nameWithType: QuestKillDraenei.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow
-  name: QuestKilsorrow
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.html
-  commentId: T:WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow
-  nameWithType: QuestKilsorrow
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.#ctor(Rectangle,unit,unit,unit)
-  name: QuestKilsorrow(Rectangle, unit, unit, unit)
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestKilsorrow__ctor_Rectangle_unit_unit_unit_
-  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.#ctor(Rectangle,unit,unit,unit)
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.QuestKilsorrow(Rectangle, unit, unit, unit)
-  nameWithType: QuestKilsorrow.QuestKilsorrow(Rectangle, unit, unit, unit)
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.#ctor*
-  name: QuestKilsorrow
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestKilsorrow__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.QuestKilsorrow
-  nameWithType: QuestKilsorrow.QuestKilsorrow
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.CompletionPopup
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestKilsorrow_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.CompletionPopup
-  nameWithType: QuestKilsorrow.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.CompletionPopup*
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestKilsorrow_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.CompletionPopup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.CompletionPopup
-  nameWithType: QuestKilsorrow.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestKilsorrow_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestKilsorrow.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestKilsorrow_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.OnComplete
-  nameWithType: QuestKilsorrow.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.OnFail(MacroTools.FactionSystem.Faction)
-  name: OnFail(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestKilsorrow_OnFail_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.OnFail(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.OnFail(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestKilsorrow.OnFail(Faction)
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.OnFail*
-  name: OnFail
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestKilsorrow_OnFail_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.OnFail
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.OnFail
-  nameWithType: QuestKilsorrow.OnFail
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestKilsorrow_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.RewardDescription
-  nameWithType: QuestKilsorrow.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestKilsorrow_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.RewardDescription
-  nameWithType: QuestKilsorrow.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Forsaken
   name: WarcraftLegacies.Source.Quests.Forsaken
   href: api-source/WarcraftLegacies.Source.Quests.Forsaken.html

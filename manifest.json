@@ -5157,7 +5157,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.html",
-          "hash": "fnos7ZWK9R+3k+pPw12vvw=="
+          "hash": "WOoV86SOLusXfR3w5KxxOQ=="
         }
       },
       "is_incremental": false,
@@ -5177,23 +5177,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestKilsorrow.html",
-          "hash": "BKEy7SOVqrOPHPcstpsieA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.html",
-          "hash": "u1NV6586T8NsiqETZUF3lg=="
+          "hash": "89lgjX29ATpTuoixpkJa5Q=="
         }
       },
       "is_incremental": false,
@@ -8565,7 +8553,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "/p3DVwCXE8oqgE+JDTpjEQ=="
+          "hash": "LT78oz2imlzVqNbZIXPOuQ=="
         }
       },
       "is_incremental": false,
@@ -8640,7 +8628,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 712,
+          "total_file_count": 711,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
