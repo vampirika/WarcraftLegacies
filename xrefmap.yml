@@ -20173,12 +20173,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort
   fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort
   nameWithType: QuestDragonmawPort
-- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.#ctor(Rectangle,unit)
-  name: QuestDragonmawPort(Rectangle, unit)
-  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDragonmawPort__ctor_Rectangle_unit_
-  commentId: M:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.#ctor(Rectangle,unit)
-  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.QuestDragonmawPort(Rectangle, unit)
-  nameWithType: QuestDragonmawPort.QuestDragonmawPort(Rectangle, unit)
+- uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,unit)
+  name: QuestDragonmawPort(PreplacedUnitSystem, Rectangle, unit)
+  href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDragonmawPort__ctor_MacroTools_PreplacedUnitSystem_Rectangle_unit_
+  commentId: M:WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,unit)
+  fullName: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.QuestDragonmawPort(MacroTools.PreplacedUnitSystem, Rectangle, unit)
+  nameWithType: QuestDragonmawPort.QuestDragonmawPort(PreplacedUnitSystem, Rectangle, unit)
 - uid: WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.#ctor*
   name: QuestDragonmawPort
   href: api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestDragonmawPort.html#WarcraftLegacies_Source_Quests_Dragonmaw_QuestDragonmawPort__ctor_
@@ -22099,12 +22099,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff
   fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff
   nameWithType: QuestThunderBluff
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.#ctor(rect)
-  name: QuestThunderBluff(rect)
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestThunderBluff__ctor_rect_
-  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.#ctor(rect)
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.QuestThunderBluff(rect)
-  nameWithType: QuestThunderBluff.QuestThunderBluff(rect)
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.#ctor(MacroTools.PreplacedUnitSystem,rect)
+  name: QuestThunderBluff(PreplacedUnitSystem, rect)
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestThunderBluff__ctor_MacroTools_PreplacedUnitSystem_rect_
+  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.#ctor(MacroTools.PreplacedUnitSystem,rect)
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.QuestThunderBluff(MacroTools.PreplacedUnitSystem, rect)
+  nameWithType: QuestThunderBluff.QuestThunderBluff(PreplacedUnitSystem, rect)
 - uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.#ctor*
   name: QuestThunderBluff
   href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestThunderBluff__ctor_
@@ -33587,19 +33587,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Caerdarrow
   nameWithType: LegendNeutral.Caerdarrow
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.CentaurKhan
-  name: CentaurKhan
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_CentaurKhan
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.CentaurKhan
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.CentaurKhan
-  nameWithType: LegendNeutral.CentaurKhan
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.CentaurKhan*
-  name: CentaurKhan
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_CentaurKhan_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.CentaurKhan
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.CentaurKhan
-  nameWithType: LegendNeutral.CentaurKhan
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Dazaralor
   name: Dazaralor
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_Dazaralor
@@ -33717,45 +33704,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Karazhan
   nameWithType: LegendNeutral.Karazhan
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Morghor
-  name: Morghor
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_Morghor
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Morghor
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Morghor
-  nameWithType: LegendNeutral.Morghor
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Morghor*
-  name: Morghor
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_Morghor_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Morghor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Morghor
-  nameWithType: LegendNeutral.Morghor
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.MurlocSorc
-  name: MurlocSorc
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_MurlocSorc
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.MurlocSorc
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.MurlocSorc
-  nameWithType: LegendNeutral.MurlocSorc
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.MurlocSorc*
-  name: MurlocSorc
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_MurlocSorc_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.MurlocSorc
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.MurlocSorc
-  nameWithType: LegendNeutral.MurlocSorc
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Occulus
-  name: Occulus
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_Occulus
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Occulus
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Occulus
-  nameWithType: LegendNeutral.Occulus
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Occulus*
-  name: Occulus
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_Occulus_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Occulus
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Occulus
-  nameWithType: LegendNeutral.Occulus
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Oshugun
   name: Oshugun
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_Oshugun
@@ -33782,19 +33730,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Ragnaros
   nameWithType: LegendNeutral.Ragnaros
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Saragosa
-  name: Saragosa
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_Saragosa
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Saragosa
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Saragosa
-  nameWithType: LegendNeutral.Saragosa
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Saragosa*
-  name: Saragosa
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_Saragosa_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Saragosa
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Saragosa
-  nameWithType: LegendNeutral.Saragosa
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Seradane
   name: Seradane
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_Seradane
