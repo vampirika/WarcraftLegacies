@@ -5591,6 +5591,12 @@ references:
   commentId: M:MacroTools.Extensions.UnitExtensions.IssueOrder(unit,System.String,Point)
   fullName: MacroTools.Extensions.UnitExtensions.IssueOrder(unit, System.String, Point)
   nameWithType: UnitExtensions.IssueOrder(unit, String, Point)
+- uid: MacroTools.Extensions.UnitExtensions.IssueOrder(unit,System.String,widget)
+  name: IssueOrder(unit, String, widget)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_IssueOrder_unit_System_String_widget_
+  commentId: M:MacroTools.Extensions.UnitExtensions.IssueOrder(unit,System.String,widget)
+  fullName: MacroTools.Extensions.UnitExtensions.IssueOrder(unit, System.String, widget)
+  nameWithType: UnitExtensions.IssueOrder(unit, String, widget)
 - uid: MacroTools.Extensions.UnitExtensions.IssueOrder*
   name: IssueOrder
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_IssueOrder_
@@ -5780,6 +5786,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.Resurrect
   nameWithType: UnitExtensions.Resurrect
+- uid: MacroTools.Extensions.UnitExtensions.SetAbilityLevel(unit,System.Int32,System.Int32)
+  name: SetAbilityLevel(unit, Int32, Int32)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetAbilityLevel_unit_System_Int32_System_Int32_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetAbilityLevel(unit,System.Int32,System.Int32)
+  fullName: MacroTools.Extensions.UnitExtensions.SetAbilityLevel(unit, System.Int32, System.Int32)
+  nameWithType: UnitExtensions.SetAbilityLevel(unit, Int32, Int32)
+- uid: MacroTools.Extensions.UnitExtensions.SetAbilityLevel*
+  name: SetAbilityLevel
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetAbilityLevel_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetAbilityLevel
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetAbilityLevel
+  nameWithType: UnitExtensions.SetAbilityLevel
 - uid: MacroTools.Extensions.UnitExtensions.SetAnimation(unit,System.String)
   name: SetAnimation(unit, String)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetAnimation_unit_System_String_
@@ -16575,12 +16594,12 @@ references:
   isSpec: "True"
   fullName: MacroTools.SpellSystem.DummyCast.DummyCastPoint
   nameWithType: DummyCast.DummyCastPoint
-- uid: MacroTools.SpellSystem.DummyCast.DummyCastUnit(player,System.Int32,System.String,System.Int32,unit)
-  name: DummyCastUnit(player, Int32, String, Int32, unit)
-  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastUnit_player_System_Int32_System_String_System_Int32_unit_
-  commentId: M:MacroTools.SpellSystem.DummyCast.DummyCastUnit(player,System.Int32,System.String,System.Int32,unit)
-  fullName: MacroTools.SpellSystem.DummyCast.DummyCastUnit(player, System.Int32, System.String, System.Int32, unit)
-  nameWithType: DummyCast.DummyCastUnit(player, Int32, String, Int32, unit)
+- uid: MacroTools.SpellSystem.DummyCast.DummyCastUnit(unit,System.Int32,System.String,System.Int32,unit)
+  name: DummyCastUnit(unit, Int32, String, Int32, unit)
+  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastUnit_unit_System_Int32_System_String_System_Int32_unit_
+  commentId: M:MacroTools.SpellSystem.DummyCast.DummyCastUnit(unit,System.Int32,System.String,System.Int32,unit)
+  fullName: MacroTools.SpellSystem.DummyCast.DummyCastUnit(unit, System.Int32, System.String, System.Int32, unit)
+  nameWithType: DummyCast.DummyCastUnit(unit, Int32, String, Int32, unit)
 - uid: MacroTools.SpellSystem.DummyCast.DummyCastUnit*
   name: DummyCastUnit
   href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastUnit_
