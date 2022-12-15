@@ -4493,6 +4493,30 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Neutral.GilneasGateTowers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Neutral.GilneasGateTowers.html",
+          "hash": "zkDlWvuPMiRYoqDBzWY4ag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Neutral.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Neutral.html",
+          "hash": "YZS2zoBnYyXg9qWDPE00vg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Quelthalas.SilvermoonDies.yml",
       "output": {
         ".html": {
@@ -7593,7 +7617,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.GameSetup.html",
-          "hash": "IzLbx/a6VU6nDHhTD6PkuA=="
+          "hash": "fDVZ8rnphp89wP7amo6Zrw=="
         }
       },
       "is_incremental": false,
@@ -8565,7 +8589,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "Jf/Kn0nIk/9Znl0F1jpzeg=="
+          "hash": "l3yDHjWqemdxEH3AE9zpQA=="
         }
       },
       "is_incremental": false,
@@ -8640,7 +8664,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 712,
+          "total_file_count": 714,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
