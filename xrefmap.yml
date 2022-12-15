@@ -34267,6 +34267,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Tyrande
   nameWithType: LegendSentinels.Tyrande
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.VaultOfTheWardens
+  name: VaultOfTheWardens
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_VaultOfTheWardens
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.VaultOfTheWardens
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.VaultOfTheWardens
+  nameWithType: LegendSentinels.VaultOfTheWardens
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.VaultOfTheWardens*
+  name: VaultOfTheWardens
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_VaultOfTheWardens_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.VaultOfTheWardens
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.VaultOfTheWardens
+  nameWithType: LegendSentinels.VaultOfTheWardens
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendStormwind
   name: LegendStormwind
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendStormwind.html
