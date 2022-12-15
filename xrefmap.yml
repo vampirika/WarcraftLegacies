@@ -25612,12 +25612,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil
   fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil
   nameWithType: QuestQueldanil
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.#ctor(rect)
-  name: QuestQueldanil(rect)
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueldanil__ctor_rect_
-  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.#ctor(rect)
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.QuestQueldanil(rect)
-  nameWithType: QuestQueldanil.QuestQueldanil(rect)
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.#ctor(Rectangle)
+  name: QuestQueldanil(Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueldanil__ctor_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.#ctor(Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.QuestQueldanil(Rectangle)
+  nameWithType: QuestQueldanil.QuestQueldanil(Rectangle)
 - uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.#ctor*
   name: QuestQueldanil
   href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueldanil__ctor_
