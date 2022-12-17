@@ -1233,7 +1233,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.ItemExtensions.html",
-          "hash": "6VZPbPikTGdFurvtvWFE/Q=="
+          "hash": "ubk0QxqbuPT32M1P6BNQpQ=="
         }
       },
       "is_incremental": false,
@@ -1341,7 +1341,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.UnitExtensions.html",
-          "hash": "bPF9y2cOfDl6YtOX4ag9Jw=="
+          "hash": "yiQY5LuPQFHHk7SpFXTTZg=="
         }
       },
       "is_incremental": false,
@@ -3893,11 +3893,35 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.html",
+          "hash": "8vzBl9/eAm9KKeNGi6LJWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasPickup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasPickup.html",
+          "hash": "J2ZtJLmUqAGcIFTDRjy2jw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.ArtifactBehaviour.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.ArtifactBehaviour.html",
-          "hash": "KMZt9iOWjhU8ZJaS1vTjdQ=="
+          "hash": "Gw+V78n188jlAg68V5W/Dg=="
         }
       },
       "is_incremental": false,
@@ -8589,7 +8613,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "l3yDHjWqemdxEH3AE9zpQA=="
+          "hash": "rCm/MKx3leno1o72afjoDw=="
         }
       },
       "is_incremental": false,
@@ -8664,7 +8688,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 714,
+          "total_file_count": 716,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

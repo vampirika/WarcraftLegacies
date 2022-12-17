@@ -17812,6 +17812,57 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasCooldowns.Setup
   nameWithType: EyeOfSargerasCooldowns.Setup
+- uid: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile
+  name: EyeOfSargerasMissile
+  href: api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.html
+  commentId: T:WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile
+  fullName: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile
+  nameWithType: EyeOfSargerasMissile
+- uid: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.#ctor(unit,unit,item)
+  name: EyeOfSargerasMissile(unit, unit, item)
+  href: api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.html#WarcraftLegacies_Source_ArtifactBehaviour_EyeOfSargerasMissile__ctor_unit_unit_item_
+  commentId: M:WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.#ctor(unit,unit,item)
+  fullName: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.EyeOfSargerasMissile(unit, unit, item)
+  nameWithType: EyeOfSargerasMissile.EyeOfSargerasMissile(unit, unit, item)
+- uid: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.#ctor*
+  name: EyeOfSargerasMissile
+  href: api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.html#WarcraftLegacies_Source_ArtifactBehaviour_EyeOfSargerasMissile__ctor_
+  commentId: Overload:WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.EyeOfSargerasMissile
+  nameWithType: EyeOfSargerasMissile.EyeOfSargerasMissile
+- uid: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.OnImpact
+  name: OnImpact()
+  href: api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.html#WarcraftLegacies_Source_ArtifactBehaviour_EyeOfSargerasMissile_OnImpact
+  commentId: M:WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.OnImpact
+  fullName: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.OnImpact()
+  nameWithType: EyeOfSargerasMissile.OnImpact()
+- uid: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.OnImpact*
+  name: OnImpact
+  href: api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.html#WarcraftLegacies_Source_ArtifactBehaviour_EyeOfSargerasMissile_OnImpact_
+  commentId: Overload:WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.OnImpact
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.OnImpact
+  nameWithType: EyeOfSargerasMissile.OnImpact
+- uid: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasPickup
+  name: EyeOfSargerasPickup
+  href: api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasPickup.html
+  commentId: T:WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasPickup
+  fullName: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasPickup
+  nameWithType: EyeOfSargerasPickup
+- uid: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasPickup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasPickup.html#WarcraftLegacies_Source_ArtifactBehaviour_EyeOfSargerasPickup_Setup
+  commentId: M:WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasPickup.Setup
+  fullName: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasPickup.Setup()
+  nameWithType: EyeOfSargerasPickup.Setup()
+- uid: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasPickup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasPickup.html#WarcraftLegacies_Source_ArtifactBehaviour_EyeOfSargerasPickup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasPickup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasPickup.Setup
+  nameWithType: EyeOfSargerasPickup.Setup
 - uid: WarcraftLegacies.Source.Buffs
   name: WarcraftLegacies.Source.Buffs
   href: api-source/WarcraftLegacies.Source.Buffs.html
