@@ -26109,12 +26109,15 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.QuestTombOfSargeras
   fullName: WarcraftLegacies.Source.Quests.QuestTombOfSargeras
   nameWithType: QuestTombOfSargeras
-- uid: WarcraftLegacies.Source.Quests.QuestTombOfSargeras.#ctor(unit,Rectangle,unit)
-  name: QuestTombOfSargeras(unit, Rectangle, unit)
-  href: api-source/WarcraftLegacies.Source.Quests.QuestTombOfSargeras.html#WarcraftLegacies_Source_Quests_QuestTombOfSargeras__ctor_unit_Rectangle_unit_
-  commentId: M:WarcraftLegacies.Source.Quests.QuestTombOfSargeras.#ctor(unit,Rectangle,unit)
-  fullName: WarcraftLegacies.Source.Quests.QuestTombOfSargeras.QuestTombOfSargeras(unit, Rectangle, unit)
-  nameWithType: QuestTombOfSargeras.QuestTombOfSargeras(unit, Rectangle, unit)
+- uid: WarcraftLegacies.Source.Quests.QuestTombOfSargeras.#ctor(IReadOnlyCollection{Rectangle},Rectangle,unit,unit)
+  name: QuestTombOfSargeras(IReadOnlyCollection<Rectangle>, Rectangle, unit, unit)
+  href: api-source/WarcraftLegacies.Source.Quests.QuestTombOfSargeras.html#WarcraftLegacies_Source_Quests_QuestTombOfSargeras__ctor_IReadOnlyCollection_Rectangle__Rectangle_unit_unit_
+  commentId: M:WarcraftLegacies.Source.Quests.QuestTombOfSargeras.#ctor(IReadOnlyCollection{Rectangle},Rectangle,unit,unit)
+  name.vb: QuestTombOfSargeras(IReadOnlyCollection(Of Rectangle), Rectangle, unit, unit)
+  fullName: WarcraftLegacies.Source.Quests.QuestTombOfSargeras.QuestTombOfSargeras(IReadOnlyCollection<Rectangle>, Rectangle, unit, unit)
+  fullName.vb: WarcraftLegacies.Source.Quests.QuestTombOfSargeras.QuestTombOfSargeras(IReadOnlyCollection(Of Rectangle), Rectangle, unit, unit)
+  nameWithType: QuestTombOfSargeras.QuestTombOfSargeras(IReadOnlyCollection<Rectangle>, Rectangle, unit, unit)
+  nameWithType.vb: QuestTombOfSargeras.QuestTombOfSargeras(IReadOnlyCollection(Of Rectangle), Rectangle, unit, unit)
 - uid: WarcraftLegacies.Source.Quests.QuestTombOfSargeras.#ctor*
   name: QuestTombOfSargeras
   href: api-source/WarcraftLegacies.Source.Quests.QuestTombOfSargeras.html#WarcraftLegacies_Source_Quests_QuestTombOfSargeras__ctor_
