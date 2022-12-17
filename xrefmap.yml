@@ -6059,6 +6059,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.Show
   nameWithType: UnitExtensions.Show
+- uid: MacroTools.Extensions.UnitExtensions.StartUnitAbilityCooldownFull(unit,System.Int32)
+  name: StartUnitAbilityCooldownFull(unit, Int32)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_StartUnitAbilityCooldownFull_unit_System_Int32_
+  commentId: M:MacroTools.Extensions.UnitExtensions.StartUnitAbilityCooldownFull(unit,System.Int32)
+  fullName: MacroTools.Extensions.UnitExtensions.StartUnitAbilityCooldownFull(unit, System.Int32)
+  nameWithType: UnitExtensions.StartUnitAbilityCooldownFull(unit, Int32)
+- uid: MacroTools.Extensions.UnitExtensions.StartUnitAbilityCooldownFull*
+  name: StartUnitAbilityCooldownFull
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_StartUnitAbilityCooldownFull_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.StartUnitAbilityCooldownFull
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.StartUnitAbilityCooldownFull
+  nameWithType: UnitExtensions.StartUnitAbilityCooldownFull
 - uid: MacroTools.Extensions.UnitExtensions.TakeDamage(unit,unit,System.Single,System.Boolean,System.Boolean,System.Nullable{attacktype},System.Nullable{damagetype},System.Nullable{weapontype})
   name: TakeDamage(unit, unit, Single, Boolean, Boolean, Nullable<attacktype>, Nullable<damagetype>, Nullable<weapontype>)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_TakeDamage_unit_unit_System_Single_System_Boolean_System_Boolean_System_Nullable_attacktype__System_Nullable_damagetype__System_Nullable_weapontype__
@@ -16959,25 +16972,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.SpellSystem.Spell.OnStop
   nameWithType: Spell.OnStop
-- uid: MacroTools.SpellSystem.SpellHelpers
-  name: SpellHelpers
-  href: api-macroTools/MacroTools.SpellSystem.SpellHelpers.html
-  commentId: T:MacroTools.SpellSystem.SpellHelpers
-  fullName: MacroTools.SpellSystem.SpellHelpers
-  nameWithType: SpellHelpers
-- uid: MacroTools.SpellSystem.SpellHelpers.StartUnitAbilityCooldownFull(unit,System.Int32)
-  name: StartUnitAbilityCooldownFull(unit, Int32)
-  href: api-macroTools/MacroTools.SpellSystem.SpellHelpers.html#MacroTools_SpellSystem_SpellHelpers_StartUnitAbilityCooldownFull_unit_System_Int32_
-  commentId: M:MacroTools.SpellSystem.SpellHelpers.StartUnitAbilityCooldownFull(unit,System.Int32)
-  fullName: MacroTools.SpellSystem.SpellHelpers.StartUnitAbilityCooldownFull(unit, System.Int32)
-  nameWithType: SpellHelpers.StartUnitAbilityCooldownFull(unit, Int32)
-- uid: MacroTools.SpellSystem.SpellHelpers.StartUnitAbilityCooldownFull*
-  name: StartUnitAbilityCooldownFull
-  href: api-macroTools/MacroTools.SpellSystem.SpellHelpers.html#MacroTools_SpellSystem_SpellHelpers_StartUnitAbilityCooldownFull_
-  commentId: Overload:MacroTools.SpellSystem.SpellHelpers.StartUnitAbilityCooldownFull
-  isSpec: "True"
-  fullName: MacroTools.SpellSystem.SpellHelpers.StartUnitAbilityCooldownFull
-  nameWithType: SpellHelpers.StartUnitAbilityCooldownFull
 - uid: MacroTools.SpellSystem.SpellSystem
   name: SpellSystem
   href: api-macroTools/MacroTools.SpellSystem.SpellSystem.html

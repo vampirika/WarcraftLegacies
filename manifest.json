@@ -1341,7 +1341,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.UnitExtensions.html",
-          "hash": "yiQY5LuPQFHHk7SpFXTTZg=="
+          "hash": "IxGz3fyUTxvP2vasIKz+Cw=="
         }
       },
       "is_incremental": false,
@@ -3209,18 +3209,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.SpellSystem.SpellHelpers.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.SpellSystem.SpellHelpers.html",
-          "hash": "nQiW8+9jOsqRmqhKtDA0LQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.SpellSystem.SpellSystem.yml",
       "output": {
         ".html": {
@@ -3249,7 +3237,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.SpellSystem.html",
-          "hash": "LSxeiz7tVImU0+nGvBYGTg=="
+          "hash": "yoL7i7iqcElqPMAHR8EhRQ=="
         }
       },
       "is_incremental": false,
@@ -3861,7 +3849,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "TRXWBTS6SGKxVnyNdVJWtg=="
+          "hash": "5SR2i0B6O350I5zCD071eA=="
         }
       },
       "is_incremental": false,
@@ -3885,7 +3873,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasCooldowns.html",
-          "hash": "MBD5Vq3M9V6makmsORNV8Q=="
+          "hash": "WjGSY+wC/zXMwHmQwINs3A=="
         }
       },
       "is_incremental": false,
@@ -3897,7 +3885,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.html",
-          "hash": "8vzBl9/eAm9KKeNGi6LJWA=="
+          "hash": "P3D+1P/sfvwslXWxX9q/KA=="
         }
       },
       "is_incremental": false,
@@ -8688,7 +8676,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 716,
+          "total_file_count": 715,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
