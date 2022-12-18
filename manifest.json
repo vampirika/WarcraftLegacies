@@ -1133,11 +1133,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.ControlPointSystem.UnitExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.ControlPointSystem.UnitExtensions.html",
+          "hash": "EUsFHoW/an7uJhzPJgkteQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.ControlPointSystem.yml",
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ControlPointSystem.html",
-          "hash": "kc0GpScfh2vKZzST961U2A=="
+          "hash": "iIioBrmrRuaiCujT9s2HPg=="
         }
       },
       "is_incremental": false,
@@ -1149,7 +1161,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.CustomPlayerUnitEvents.html",
-          "hash": "lAnWD6X9rG33E5F9Cz0xmA=="
+          "hash": "Sf0R9MLbZi0Q7tDGcKHygg=="
         }
       },
       "is_incremental": false,
@@ -3849,7 +3861,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "5SR2i0B6O350I5zCD071eA=="
+          "hash": "gGq7ikDkdT8UJSLTFzDdog=="
         }
       },
       "is_incremental": false,
@@ -4733,6 +4745,30 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.html",
+          "hash": "X+Jo7xt44L5/wY+oi+mi1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Powers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Powers.html",
+          "hash": "IgUrNuiKkoYVYCOlIsSXgg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Program.yml",
       "output": {
         ".html": {
@@ -5105,6 +5141,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.html",
+          "hash": "PdoKD6WRwnveEaYo9mHQMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Druids.QuestTortolla.yml",
       "output": {
         ".html": {
@@ -5121,7 +5169,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Druids.html",
-          "hash": "bDvTpdzvnLwldaycUStvOw=="
+          "hash": "ah7koXR2j0F9zeC/ALd7nA=="
         }
       },
       "is_incremental": false,
@@ -7845,7 +7893,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html",
-          "hash": "1QeHAN7xYP97jUOt+E+iEA=="
+          "hash": "qUrBPA5/f7OP8toWL/s+Rg=="
         }
       },
       "is_incremental": false,
@@ -8601,7 +8649,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "rCm/MKx3leno1o72afjoDw=="
+          "hash": "EQsJNEOHtNwB2ZajSHtUKw=="
         }
       },
       "is_incremental": false,
@@ -8676,7 +8724,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 715,
+          "total_file_count": 719,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

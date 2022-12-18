@@ -4101,6 +4101,38 @@ references:
   isSpec: "True"
   fullName: MacroTools.ControlPointSystem.ControlPointOwnerChangeEventArgs.FormerOwner
   nameWithType: ControlPointOwnerChangeEventArgs.FormerOwner
+- uid: MacroTools.ControlPointSystem.UnitExtensions
+  name: UnitExtensions
+  href: api-macroTools/MacroTools.ControlPointSystem.UnitExtensions.html
+  commentId: T:MacroTools.ControlPointSystem.UnitExtensions
+  fullName: MacroTools.ControlPointSystem.UnitExtensions
+  nameWithType: UnitExtensions
+- uid: MacroTools.ControlPointSystem.UnitExtensions.AsControlPoint(unit)
+  name: AsControlPoint(unit)
+  href: api-macroTools/MacroTools.ControlPointSystem.UnitExtensions.html#MacroTools_ControlPointSystem_UnitExtensions_AsControlPoint_unit_
+  commentId: M:MacroTools.ControlPointSystem.UnitExtensions.AsControlPoint(unit)
+  fullName: MacroTools.ControlPointSystem.UnitExtensions.AsControlPoint(unit)
+  nameWithType: UnitExtensions.AsControlPoint(unit)
+- uid: MacroTools.ControlPointSystem.UnitExtensions.AsControlPoint*
+  name: AsControlPoint
+  href: api-macroTools/MacroTools.ControlPointSystem.UnitExtensions.html#MacroTools_ControlPointSystem_UnitExtensions_AsControlPoint_
+  commentId: Overload:MacroTools.ControlPointSystem.UnitExtensions.AsControlPoint
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.UnitExtensions.AsControlPoint
+  nameWithType: UnitExtensions.AsControlPoint
+- uid: MacroTools.ControlPointSystem.UnitExtensions.IsControlPoint(unit)
+  name: IsControlPoint(unit)
+  href: api-macroTools/MacroTools.ControlPointSystem.UnitExtensions.html#MacroTools_ControlPointSystem_UnitExtensions_IsControlPoint_unit_
+  commentId: M:MacroTools.ControlPointSystem.UnitExtensions.IsControlPoint(unit)
+  fullName: MacroTools.ControlPointSystem.UnitExtensions.IsControlPoint(unit)
+  nameWithType: UnitExtensions.IsControlPoint(unit)
+- uid: MacroTools.ControlPointSystem.UnitExtensions.IsControlPoint*
+  name: IsControlPoint
+  href: api-macroTools/MacroTools.ControlPointSystem.UnitExtensions.html#MacroTools_ControlPointSystem_UnitExtensions_IsControlPoint_
+  commentId: Overload:MacroTools.ControlPointSystem.UnitExtensions.IsControlPoint
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.UnitExtensions.IsControlPoint
+  nameWithType: UnitExtensions.IsControlPoint
 - uid: MacroTools.CustomPlayerUnitEvents
   name: CustomPlayerUnitEvents
   href: api-macroTools/MacroTools.CustomPlayerUnitEvents.html
@@ -4133,6 +4165,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.CustomPlayerUnitEvents.PlayerFinishesTraining
   nameWithType: CustomPlayerUnitEvents.PlayerFinishesTraining
+- uid: MacroTools.CustomPlayerUnitEvents.PlayerTakesDamage
+  name: PlayerTakesDamage
+  href: api-macroTools/MacroTools.CustomPlayerUnitEvents.html#MacroTools_CustomPlayerUnitEvents_PlayerTakesDamage
+  commentId: P:MacroTools.CustomPlayerUnitEvents.PlayerTakesDamage
+  fullName: MacroTools.CustomPlayerUnitEvents.PlayerTakesDamage
+  nameWithType: CustomPlayerUnitEvents.PlayerTakesDamage
+- uid: MacroTools.CustomPlayerUnitEvents.PlayerTakesDamage*
+  name: PlayerTakesDamage
+  href: api-macroTools/MacroTools.CustomPlayerUnitEvents.html#MacroTools_CustomPlayerUnitEvents_PlayerTakesDamage_
+  commentId: Overload:MacroTools.CustomPlayerUnitEvents.PlayerTakesDamage
+  isSpec: "True"
+  fullName: MacroTools.CustomPlayerUnitEvents.PlayerTakesDamage
+  nameWithType: CustomPlayerUnitEvents.PlayerTakesDamage
 - uid: MacroTools.CustomPlayerUnitEvents.PlayerUnitDies
   name: PlayerUnitDies
   href: api-macroTools/MacroTools.CustomPlayerUnitEvents.html#MacroTools_CustomPlayerUnitEvents_PlayerUnitDies
@@ -19301,6 +19346,57 @@ references:
   commentId: F:WarcraftLegacies.Source.PatronTier.Two
   fullName: WarcraftLegacies.Source.PatronTier.Two
   nameWithType: PatronTier.Two
+- uid: WarcraftLegacies.Source.Powers
+  name: WarcraftLegacies.Source.Powers
+  href: api-source/WarcraftLegacies.Source.Powers.html
+  commentId: N:WarcraftLegacies.Source.Powers
+  fullName: WarcraftLegacies.Source.Powers
+  nameWithType: WarcraftLegacies.Source.Powers
+- uid: WarcraftLegacies.Source.Powers.ShaladrassilsBlessing
+  name: ShaladrassilsBlessing
+  href: api-source/WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.html
+  commentId: T:WarcraftLegacies.Source.Powers.ShaladrassilsBlessing
+  fullName: WarcraftLegacies.Source.Powers.ShaladrassilsBlessing
+  nameWithType: ShaladrassilsBlessing
+- uid: WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.#ctor(unit,System.Int32,System.Single,System.Int32,System.Int32)
+  name: ShaladrassilsBlessing(unit, Int32, Single, Int32, Int32)
+  href: api-source/WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.html#WarcraftLegacies_Source_Powers_ShaladrassilsBlessing__ctor_unit_System_Int32_System_Single_System_Int32_System_Int32_
+  commentId: M:WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.#ctor(unit,System.Int32,System.Single,System.Int32,System.Int32)
+  fullName: WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.ShaladrassilsBlessing(unit, System.Int32, System.Single, System.Int32, System.Int32)
+  nameWithType: ShaladrassilsBlessing.ShaladrassilsBlessing(unit, Int32, Single, Int32, Int32)
+- uid: WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.#ctor*
+  name: ShaladrassilsBlessing
+  href: api-source/WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.html#WarcraftLegacies_Source_Powers_ShaladrassilsBlessing__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.ShaladrassilsBlessing
+  nameWithType: ShaladrassilsBlessing.ShaladrassilsBlessing
+- uid: WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.OnAdd(player)
+  name: OnAdd(player)
+  href: api-source/WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.html#WarcraftLegacies_Source_Powers_ShaladrassilsBlessing_OnAdd_player_
+  commentId: M:WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.OnAdd(player)
+  fullName: WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.OnAdd(player)
+  nameWithType: ShaladrassilsBlessing.OnAdd(player)
+- uid: WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.OnAdd*
+  name: OnAdd
+  href: api-source/WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.html#WarcraftLegacies_Source_Powers_ShaladrassilsBlessing_OnAdd_
+  commentId: Overload:WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.OnAdd
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.OnAdd
+  nameWithType: ShaladrassilsBlessing.OnAdd
+- uid: WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.OnRemove(player)
+  name: OnRemove(player)
+  href: api-source/WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.html#WarcraftLegacies_Source_Powers_ShaladrassilsBlessing_OnRemove_player_
+  commentId: M:WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.OnRemove(player)
+  fullName: WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.OnRemove(player)
+  nameWithType: ShaladrassilsBlessing.OnRemove(player)
+- uid: WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.OnRemove*
+  name: OnRemove
+  href: api-source/WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.html#WarcraftLegacies_Source_Powers_ShaladrassilsBlessing_OnRemove_
+  commentId: Overload:WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.OnRemove
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.OnRemove
+  nameWithType: ShaladrassilsBlessing.OnRemove
 - uid: WarcraftLegacies.Source.Program
   name: Program
   href: api-source/WarcraftLegacies.Source.Program.html
@@ -21062,6 +21158,64 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.RewardDescription
   nameWithType: QuestMalfurionAwakens.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil
+  name: QuestShaladrassil
+  href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.html
+  commentId: T:WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil
+  fullName: WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil
+  nameWithType: QuestShaladrassil
+- uid: WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.#ctor
+  name: QuestShaladrassil()
+  href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.html#WarcraftLegacies_Source_Quests_Druids_QuestShaladrassil__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.#ctor
+  fullName: WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.QuestShaladrassil()
+  nameWithType: QuestShaladrassil.QuestShaladrassil()
+- uid: WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.#ctor*
+  name: QuestShaladrassil
+  href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.html#WarcraftLegacies_Source_Quests_Druids_QuestShaladrassil__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.QuestShaladrassil
+  nameWithType: QuestShaladrassil.QuestShaladrassil
+- uid: WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.html#WarcraftLegacies_Source_Quests_Druids_QuestShaladrassil_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.CompletionPopup
+  nameWithType: QuestShaladrassil.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.html#WarcraftLegacies_Source_Quests_Druids_QuestShaladrassil_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.CompletionPopup
+  nameWithType: QuestShaladrassil.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.html#WarcraftLegacies_Source_Quests_Druids_QuestShaladrassil_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestShaladrassil.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.html#WarcraftLegacies_Source_Quests_Druids_QuestShaladrassil_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.OnComplete
+  nameWithType: QuestShaladrassil.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.html#WarcraftLegacies_Source_Quests_Druids_QuestShaladrassil_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.RewardDescription
+  nameWithType: QuestShaladrassil.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.html#WarcraftLegacies_Source_Quests_Druids_QuestShaladrassil_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.RewardDescription
+  nameWithType: QuestShaladrassil.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Druids.QuestTortolla
   name: QuestTortolla
   href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestTortolla.html
@@ -33848,6 +34002,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Setup
   nameWithType: LegendNeutral.Setup
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Shaladrassil
+  name: Shaladrassil
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_Shaladrassil
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Shaladrassil
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Shaladrassil
+  nameWithType: LegendNeutral.Shaladrassil
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Shaladrassil*
+  name: Shaladrassil
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_Shaladrassil_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Shaladrassil
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.Shaladrassil
+  nameWithType: LegendNeutral.Shaladrassil
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral.ShrineOfUlatek
   name: ShrineOfUlatek
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html#WarcraftLegacies_Source_Setup_Legends_LegendNeutral_ShrineOfUlatek
