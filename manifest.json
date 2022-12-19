@@ -4457,42 +4457,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolfStructurePackingInit.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolfStructurePackingInit.html",
-          "hash": "zFpu1D5Du/i5ijCO9hONVw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolftructurePackingConfig.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolftructurePackingConfig.html",
-          "hash": "y47k95v+S79XvxBOaHyL6A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.html",
-          "hash": "pkZBZYjEdxWnn5dH4oOzGw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.NuclearLaunch.yml",
       "output": {
         ".html": {
@@ -4997,23 +4961,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestWarnBase.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestWarnBase.html",
-          "hash": "d+py/YnV63nX1C/HWfkS7A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.html",
-          "hash": "nKYqvXiFd6dZY4XLdCCxfQ=="
+          "hash": "/bQxY71bcaybyLf7MkM9Gg=="
         }
       },
       "is_incremental": false,
@@ -5277,19 +5229,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.html",
-          "hash": "WOoV86SOLusXfR3w5KxxOQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestKillDraenei.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestKillDraenei.html",
-          "hash": "RiWPX57i9mjhSn7uAKxXeQ=="
+          "hash": "e2FCceUDoycemr5MPfAKPQ=="
         }
       },
       "is_incremental": false,
@@ -5301,7 +5241,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.html",
-          "hash": "89lgjX29ATpTuoixpkJa5Q=="
+          "hash": "Upxs/9X46zh8SQH3jXlXYQ=="
         }
       },
       "is_incremental": false,
@@ -5705,30 +5645,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestGrimBatolOffensive.html",
-          "hash": "4BtEJZciUKC/YU3qqazocg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestTheAccursedCoast.html",
-          "hash": "/RCiHfEGxFxde2R/g/pHcA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestThelsamar.yml",
       "output": {
         ".html": {
@@ -5757,7 +5673,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.html",
-          "hash": "LwRKg4At5mn/I3+HR5F1zA=="
+          "hash": "0PYzF5izLOcb/gB6TtOojA=="
         }
       },
       "is_incremental": false,
@@ -6101,18 +6017,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestAetheneumTomb.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestAetheneumTomb.html",
-          "hash": "vY19k5lCWt4Dqok6qEX2HQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.yml",
       "output": {
         ".html": {
@@ -6165,7 +6069,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.html",
-          "hash": "7HPX7ZjhSYyve3loWBUyNA=="
+          "hash": "RGF/JYe5bTW4ZHnwoJYVqQ=="
         }
       },
       "is_incremental": false,
@@ -6273,7 +6177,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html",
-          "hash": "7TBVnYjDRFG8Bk+SsjAgnw=="
+          "hash": "dhqAT3eA3vS3DR8iQ/KkkQ=="
         }
       },
       "is_incremental": false,
@@ -7509,7 +7413,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.FrostwolfSetup.html",
-          "hash": "drMnsuhqWSr7ArFMAhwcxA=="
+          "hash": "A/FEF71BPL+bQwHBaFRsbw=="
         }
       },
       "is_incremental": false,
@@ -8253,7 +8157,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.html",
-          "hash": "530/ExmjGPeZSuBcS1MyNw=="
+          "hash": "Sus9g8QuPNJe4c2BtLRPnQ=="
         }
       },
       "is_incremental": false,
@@ -8697,7 +8601,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "SUbxrX5BXUPM55lzuhXzwQ=="
+          "hash": "r4EvHEZB43grnsPLtx9rBA=="
         }
       },
       "is_incremental": false,
@@ -8772,7 +8676,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 723,
+          "total_file_count": 715,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
