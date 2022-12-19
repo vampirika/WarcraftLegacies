@@ -27948,6 +27948,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Sentinels.QuestVaultoftheWardens.OnComplete
   nameWithType: QuestVaultoftheWardens.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Sentinels.QuestVaultoftheWardens.OnFail(MacroTools.FactionSystem.Faction)
+  name: OnFail(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Sentinels.QuestVaultoftheWardens.html#WarcraftLegacies_Source_Quests_Sentinels_QuestVaultoftheWardens_OnFail_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Sentinels.QuestVaultoftheWardens.OnFail(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Sentinels.QuestVaultoftheWardens.OnFail(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestVaultoftheWardens.OnFail(Faction)
+- uid: WarcraftLegacies.Source.Quests.Sentinels.QuestVaultoftheWardens.OnFail*
+  name: OnFail
+  href: api-source/WarcraftLegacies.Source.Quests.Sentinels.QuestVaultoftheWardens.html#WarcraftLegacies_Source_Quests_Sentinels_QuestVaultoftheWardens_OnFail_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sentinels.QuestVaultoftheWardens.OnFail
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sentinels.QuestVaultoftheWardens.OnFail
+  nameWithType: QuestVaultoftheWardens.OnFail
 - uid: WarcraftLegacies.Source.Quests.Sentinels.QuestVaultoftheWardens.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Sentinels.QuestVaultoftheWardens.html#WarcraftLegacies_Source_Quests_Sentinels_QuestVaultoftheWardens_RewardDescription
