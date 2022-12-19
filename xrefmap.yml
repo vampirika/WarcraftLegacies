@@ -12293,6 +12293,25 @@ references:
   isSpec: "True"
   fullName: MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.CompletingUnitName
   nameWithType: IHasCompletingUnit.CompletingUnitName
+- uid: MacroTools.QuestSystem.UtilityStructs.NoOtherPlayerGetsCapital
+  name: NoOtherPlayerGetsCapital
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.NoOtherPlayerGetsCapital.html
+  commentId: T:MacroTools.QuestSystem.UtilityStructs.NoOtherPlayerGetsCapital
+  fullName: MacroTools.QuestSystem.UtilityStructs.NoOtherPlayerGetsCapital
+  nameWithType: NoOtherPlayerGetsCapital
+- uid: MacroTools.QuestSystem.UtilityStructs.NoOtherPlayerGetsCapital.#ctor(MacroTools.LegendSystem.Capital)
+  name: NoOtherPlayerGetsCapital(Capital)
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.NoOtherPlayerGetsCapital.html#MacroTools_QuestSystem_UtilityStructs_NoOtherPlayerGetsCapital__ctor_MacroTools_LegendSystem_Capital_
+  commentId: M:MacroTools.QuestSystem.UtilityStructs.NoOtherPlayerGetsCapital.#ctor(MacroTools.LegendSystem.Capital)
+  fullName: MacroTools.QuestSystem.UtilityStructs.NoOtherPlayerGetsCapital.NoOtherPlayerGetsCapital(MacroTools.LegendSystem.Capital)
+  nameWithType: NoOtherPlayerGetsCapital.NoOtherPlayerGetsCapital(Capital)
+- uid: MacroTools.QuestSystem.UtilityStructs.NoOtherPlayerGetsCapital.#ctor*
+  name: NoOtherPlayerGetsCapital
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.NoOtherPlayerGetsCapital.html#MacroTools_QuestSystem_UtilityStructs_NoOtherPlayerGetsCapital__ctor_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.NoOtherPlayerGetsCapital.#ctor
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.UtilityStructs.NoOtherPlayerGetsCapital.NoOtherPlayerGetsCapital
+  nameWithType: NoOtherPlayerGetsCapital.NoOtherPlayerGetsCapital
 - uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveAcquireArtifact
   name: ObjectiveAcquireArtifact
   href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveAcquireArtifact.html
@@ -12895,6 +12914,28 @@ references:
   isSpec: "True"
   fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.Position
   nameWithType: ObjectiveHeroWithLevelInRect.Position
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveKillAllInArea
+  name: ObjectiveKillAllInArea
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveKillAllInArea.html
+  commentId: T:MacroTools.QuestSystem.UtilityStructs.ObjectiveKillAllInArea
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveKillAllInArea
+  nameWithType: ObjectiveKillAllInArea
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveKillAllInArea.#ctor(IEnumerable{Rectangle},System.String)
+  name: ObjectiveKillAllInArea(IEnumerable<Rectangle>, String)
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveKillAllInArea.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveKillAllInArea__ctor_IEnumerable_Rectangle__System_String_
+  commentId: M:MacroTools.QuestSystem.UtilityStructs.ObjectiveKillAllInArea.#ctor(IEnumerable{Rectangle},System.String)
+  name.vb: ObjectiveKillAllInArea(IEnumerable(Of Rectangle), String)
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveKillAllInArea.ObjectiveKillAllInArea(IEnumerable<Rectangle>, System.String)
+  fullName.vb: MacroTools.QuestSystem.UtilityStructs.ObjectiveKillAllInArea.ObjectiveKillAllInArea(IEnumerable(Of Rectangle), System.String)
+  nameWithType: ObjectiveKillAllInArea.ObjectiveKillAllInArea(IEnumerable<Rectangle>, String)
+  nameWithType.vb: ObjectiveKillAllInArea.ObjectiveKillAllInArea(IEnumerable(Of Rectangle), String)
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveKillAllInArea.#ctor*
+  name: ObjectiveKillAllInArea
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveKillAllInArea.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveKillAllInArea__ctor_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveKillAllInArea.#ctor
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveKillAllInArea.ObjectiveKillAllInArea
+  nameWithType: ObjectiveKillAllInArea.ObjectiveKillAllInArea
 - uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveKillUnit
   name: ObjectiveKillUnit
   href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveKillUnit.html
@@ -26160,6 +26201,77 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.RewardDescription
   nameWithType: QuestTheBloodElves.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.QuestBlackrookHold
+  name: QuestBlackrookHold
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBlackrookHold.html
+  commentId: T:WarcraftLegacies.Source.Quests.QuestBlackrookHold
+  fullName: WarcraftLegacies.Source.Quests.QuestBlackrookHold
+  nameWithType: QuestBlackrookHold
+- uid: WarcraftLegacies.Source.Quests.QuestBlackrookHold.#ctor
+  name: QuestBlackrookHold()
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBlackrookHold.html#WarcraftLegacies_Source_Quests_QuestBlackrookHold__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.QuestBlackrookHold.#ctor
+  fullName: WarcraftLegacies.Source.Quests.QuestBlackrookHold.QuestBlackrookHold()
+  nameWithType: QuestBlackrookHold.QuestBlackrookHold()
+- uid: WarcraftLegacies.Source.Quests.QuestBlackrookHold.#ctor*
+  name: QuestBlackrookHold
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBlackrookHold.html#WarcraftLegacies_Source_Quests_QuestBlackrookHold__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestBlackrookHold.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestBlackrookHold.QuestBlackrookHold
+  nameWithType: QuestBlackrookHold.QuestBlackrookHold
+- uid: WarcraftLegacies.Source.Quests.QuestBlackrookHold.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBlackrookHold.html#WarcraftLegacies_Source_Quests_QuestBlackrookHold_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.QuestBlackrookHold.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.QuestBlackrookHold.CompletionPopup
+  nameWithType: QuestBlackrookHold.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.QuestBlackrookHold.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBlackrookHold.html#WarcraftLegacies_Source_Quests_QuestBlackrookHold_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestBlackrookHold.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestBlackrookHold.CompletionPopup
+  nameWithType: QuestBlackrookHold.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.QuestBlackrookHold.OnAdd(MacroTools.FactionSystem.Faction)
+  name: OnAdd(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBlackrookHold.html#WarcraftLegacies_Source_Quests_QuestBlackrookHold_OnAdd_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.QuestBlackrookHold.OnAdd(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.QuestBlackrookHold.OnAdd(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestBlackrookHold.OnAdd(Faction)
+- uid: WarcraftLegacies.Source.Quests.QuestBlackrookHold.OnAdd*
+  name: OnAdd
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBlackrookHold.html#WarcraftLegacies_Source_Quests_QuestBlackrookHold_OnAdd_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestBlackrookHold.OnAdd
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestBlackrookHold.OnAdd
+  nameWithType: QuestBlackrookHold.OnAdd
+- uid: WarcraftLegacies.Source.Quests.QuestBlackrookHold.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBlackrookHold.html#WarcraftLegacies_Source_Quests_QuestBlackrookHold_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.QuestBlackrookHold.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.QuestBlackrookHold.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestBlackrookHold.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.QuestBlackrookHold.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBlackrookHold.html#WarcraftLegacies_Source_Quests_QuestBlackrookHold_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestBlackrookHold.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestBlackrookHold.OnComplete
+  nameWithType: QuestBlackrookHold.OnComplete
+- uid: WarcraftLegacies.Source.Quests.QuestBlackrookHold.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBlackrookHold.html#WarcraftLegacies_Source_Quests_QuestBlackrookHold_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.QuestBlackrookHold.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.QuestBlackrookHold.RewardDescription
+  nameWithType: QuestBlackrookHold.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.QuestBlackrookHold.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBlackrookHold.html#WarcraftLegacies_Source_Quests_QuestBlackrookHold_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestBlackrookHold.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestBlackrookHold.RewardDescription
+  nameWithType: QuestBlackrookHold.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.QuestBookOfMedivh
   name: QuestBookOfMedivh
   href: api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html
@@ -34442,6 +34554,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Auberdine
   nameWithType: LegendSentinels.Auberdine
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.BlackrookHold
+  name: BlackrookHold
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_BlackrookHold
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.BlackrookHold
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.BlackrookHold
+  nameWithType: LegendSentinels.BlackrookHold
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.BlackrookHold*
+  name: BlackrookHold
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_BlackrookHold_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.BlackrookHold
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.BlackrookHold
+  nameWithType: LegendSentinels.BlackrookHold
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Feathermoon
   name: Feathermoon
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Feathermoon

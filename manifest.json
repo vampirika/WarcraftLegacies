@@ -2517,7 +2517,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.QuestSystem.Objective.html",
-          "hash": "Najl8j/ZpZW6vWJRRHhCkA=="
+          "hash": "Z500FIG945HqZU1Kl9EOSw=="
         }
       },
       "is_incremental": false,
@@ -2578,6 +2578,18 @@
         ".html": {
           "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.IHasCompletingUnit.html",
           "hash": "BQBT6CoI4U7MZSCvuSFLFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.NoOtherPlayerGetsCapital.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.NoOtherPlayerGetsCapital.html",
+          "hash": "ZJZtoUEnzR4uuJH1pF96BQ=="
         }
       },
       "is_incremental": false,
@@ -2794,6 +2806,18 @@
         ".html": {
           "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveHeroWithLevelInRect.html",
           "hash": "Up1dLk/xFWT/VbbQFHkfcA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveKillAllInArea.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveKillAllInArea.html",
+          "hash": "mjkUYZheb26iuxf90Ocv1g=="
         }
       },
       "is_incremental": false,
@@ -3033,7 +3057,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.html",
-          "hash": "E9jyZAuNJJBxkr+ICGOBvA=="
+          "hash": "7LAl8kddHcO//0l2RzqPzg=="
         }
       },
       "is_incremental": false,
@@ -3861,7 +3885,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "gGq7ikDkdT8UJSLTFzDdog=="
+          "hash": "eNbN5y2MCja+CF11EfxFdA=="
         }
       },
       "is_incremental": false,
@@ -6221,6 +6245,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestBlackrookHold.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestBlackrookHold.html",
+          "hash": "9xtxI4L2KfgUXsYdbQ/+LA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.yml",
       "output": {
         ".html": {
@@ -6945,7 +6981,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.html",
-          "hash": "qHlX9AoUHfzA566ygyCKqQ=="
+          "hash": "lglJfOOF3jIbTeNaAXkhiQ=="
         }
       },
       "is_incremental": false,
@@ -7941,7 +7977,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html",
-          "hash": "fYOVpWqNw9Wgc2tNqLenkw=="
+          "hash": "O/NQc0kKx8PzJVsUJnT/QQ=="
         }
       },
       "is_incremental": false,
@@ -8205,7 +8241,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.html",
-          "hash": "Aly1Kzn1MbkqXvk5PtX9ew=="
+          "hash": "530/ExmjGPeZSuBcS1MyNw=="
         }
       },
       "is_incremental": false,
@@ -8253,7 +8289,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.SentinelsQuestSetup.html",
-          "hash": "GaQeHAINLyeCUotVdmauEg=="
+          "hash": "7bw8vb/ISgHwUIyjxOicVg=="
         }
       },
       "is_incremental": false,
@@ -8649,7 +8685,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "EQsJNEOHtNwB2ZajSHtUKw=="
+          "hash": "SUbxrX5BXUPM55lzuhXzwQ=="
         }
       },
       "is_incremental": false,
@@ -8724,7 +8760,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 719,
+          "total_file_count": 722,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
