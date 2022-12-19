@@ -3940,6 +3940,38 @@ references:
   commentId: E:MacroTools.ControlPointSystem.ControlPoint.ChangedOwner
   fullName: MacroTools.ControlPointSystem.ControlPoint.ChangedOwner
   nameWithType: ControlPoint.ChangedOwner
+- uid: MacroTools.ControlPointSystem.ControlPoint.ControlLevel
+  name: ControlLevel
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPoint.html#MacroTools_ControlPointSystem_ControlPoint_ControlLevel
+  commentId: P:MacroTools.ControlPointSystem.ControlPoint.ControlLevel
+  fullName: MacroTools.ControlPointSystem.ControlPoint.ControlLevel
+  nameWithType: ControlPoint.ControlLevel
+- uid: MacroTools.ControlPointSystem.ControlPoint.ControlLevel*
+  name: ControlLevel
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPoint.html#MacroTools_ControlPointSystem_ControlPoint_ControlLevel_
+  commentId: Overload:MacroTools.ControlPointSystem.ControlPoint.ControlLevel
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.ControlPoint.ControlLevel
+  nameWithType: ControlPoint.ControlLevel
+- uid: MacroTools.ControlPointSystem.ControlPoint.ControlLevelChanged
+  name: ControlLevelChanged
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPoint.html#MacroTools_ControlPointSystem_ControlPoint_ControlLevelChanged
+  commentId: E:MacroTools.ControlPointSystem.ControlPoint.ControlLevelChanged
+  fullName: MacroTools.ControlPointSystem.ControlPoint.ControlLevelChanged
+  nameWithType: ControlPoint.ControlLevelChanged
+- uid: MacroTools.ControlPointSystem.ControlPoint.Defender
+  name: Defender
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPoint.html#MacroTools_ControlPointSystem_ControlPoint_Defender
+  commentId: P:MacroTools.ControlPointSystem.ControlPoint.Defender
+  fullName: MacroTools.ControlPointSystem.ControlPoint.Defender
+  nameWithType: ControlPoint.Defender
+- uid: MacroTools.ControlPointSystem.ControlPoint.Defender*
+  name: Defender
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPoint.html#MacroTools_ControlPointSystem_ControlPoint_Defender_
+  commentId: Overload:MacroTools.ControlPointSystem.ControlPoint.Defender
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.ControlPoint.Defender
+  nameWithType: ControlPoint.Defender
 - uid: MacroTools.ControlPointSystem.ControlPoint.Name
   name: Name
   href: api-macroTools/MacroTools.ControlPointSystem.ControlPoint.html#MacroTools_ControlPointSystem_ControlPoint_Name
@@ -3953,12 +3985,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.ControlPointSystem.ControlPoint.Name
   nameWithType: ControlPoint.Name
-- uid: MacroTools.ControlPointSystem.ControlPoint.OnControlPointOwnerChange
-  name: OnControlPointOwnerChange
-  href: api-macroTools/MacroTools.ControlPointSystem.ControlPoint.html#MacroTools_ControlPointSystem_ControlPoint_OnControlPointOwnerChange
-  commentId: E:MacroTools.ControlPointSystem.ControlPoint.OnControlPointOwnerChange
-  fullName: MacroTools.ControlPointSystem.ControlPoint.OnControlPointOwnerChange
-  nameWithType: ControlPoint.OnControlPointOwnerChange
 - uid: MacroTools.ControlPointSystem.ControlPoint.Owner
   name: Owner
   href: api-macroTools/MacroTools.ControlPointSystem.ControlPoint.html#MacroTools_ControlPointSystem_ControlPoint_Owner
@@ -3972,6 +3998,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.ControlPointSystem.ControlPoint.Owner
   nameWithType: ControlPoint.Owner
+- uid: MacroTools.ControlPointSystem.ControlPoint.SignalOwnershipChange(MacroTools.ControlPointSystem.ControlPointOwnerChangeEventArgs)
+  name: SignalOwnershipChange(ControlPointOwnerChangeEventArgs)
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPoint.html#MacroTools_ControlPointSystem_ControlPoint_SignalOwnershipChange_MacroTools_ControlPointSystem_ControlPointOwnerChangeEventArgs_
+  commentId: M:MacroTools.ControlPointSystem.ControlPoint.SignalOwnershipChange(MacroTools.ControlPointSystem.ControlPointOwnerChangeEventArgs)
+  fullName: MacroTools.ControlPointSystem.ControlPoint.SignalOwnershipChange(MacroTools.ControlPointSystem.ControlPointOwnerChangeEventArgs)
+  nameWithType: ControlPoint.SignalOwnershipChange(ControlPointOwnerChangeEventArgs)
+- uid: MacroTools.ControlPointSystem.ControlPoint.SignalOwnershipChange*
+  name: SignalOwnershipChange
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPoint.html#MacroTools_ControlPointSystem_ControlPoint_SignalOwnershipChange_
+  commentId: Overload:MacroTools.ControlPointSystem.ControlPoint.SignalOwnershipChange
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.ControlPoint.SignalOwnershipChange
+  nameWithType: ControlPoint.SignalOwnershipChange
 - uid: MacroTools.ControlPointSystem.ControlPoint.Unit
   name: Unit
   href: api-macroTools/MacroTools.ControlPointSystem.ControlPoint.html#MacroTools_ControlPointSystem_ControlPoint_Unit
@@ -4017,6 +4056,45 @@ references:
   commentId: T:MacroTools.ControlPointSystem.ControlPointManager
   fullName: MacroTools.ControlPointSystem.ControlPointManager
   nameWithType: ControlPointManager
+- uid: MacroTools.ControlPointSystem.ControlPointManager.CaptureThreshold
+  name: CaptureThreshold
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_CaptureThreshold
+  commentId: P:MacroTools.ControlPointSystem.ControlPointManager.CaptureThreshold
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.CaptureThreshold
+  nameWithType: ControlPointManager.CaptureThreshold
+- uid: MacroTools.ControlPointSystem.ControlPointManager.CaptureThreshold*
+  name: CaptureThreshold
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_CaptureThreshold_
+  commentId: Overload:MacroTools.ControlPointSystem.ControlPointManager.CaptureThreshold
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.CaptureThreshold
+  nameWithType: ControlPointManager.CaptureThreshold
+- uid: MacroTools.ControlPointSystem.ControlPointManager.ControlLevelMaximum
+  name: ControlLevelMaximum
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_ControlLevelMaximum
+  commentId: P:MacroTools.ControlPointSystem.ControlPointManager.ControlLevelMaximum
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.ControlLevelMaximum
+  nameWithType: ControlPointManager.ControlLevelMaximum
+- uid: MacroTools.ControlPointSystem.ControlPointManager.ControlLevelMaximum*
+  name: ControlLevelMaximum
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_ControlLevelMaximum_
+  commentId: Overload:MacroTools.ControlPointSystem.ControlPointManager.ControlLevelMaximum
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.ControlLevelMaximum
+  nameWithType: ControlPointManager.ControlLevelMaximum
+- uid: MacroTools.ControlPointSystem.ControlPointManager.DefenderSettings
+  name: DefenderSettings
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_DefenderSettings
+  commentId: P:MacroTools.ControlPointSystem.ControlPointManager.DefenderSettings
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.DefenderSettings
+  nameWithType: ControlPointManager.DefenderSettings
+- uid: MacroTools.ControlPointSystem.ControlPointManager.DefenderSettings*
+  name: DefenderSettings
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_DefenderSettings_
+  commentId: Overload:MacroTools.ControlPointSystem.ControlPointManager.DefenderSettings
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.DefenderSettings
+  nameWithType: ControlPointManager.DefenderSettings
 - uid: MacroTools.ControlPointSystem.ControlPointManager.GetFromUnitType(System.Int32)
   name: GetFromUnitType(Int32)
   href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_GetFromUnitType_System_Int32_
@@ -4030,6 +4108,58 @@ references:
   isSpec: "True"
   fullName: MacroTools.ControlPointSystem.ControlPointManager.GetFromUnitType
   nameWithType: ControlPointManager.GetFromUnitType
+- uid: MacroTools.ControlPointSystem.ControlPointManager.IncreaseControlLevelAbilityTypeId
+  name: IncreaseControlLevelAbilityTypeId
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_IncreaseControlLevelAbilityTypeId
+  commentId: P:MacroTools.ControlPointSystem.ControlPointManager.IncreaseControlLevelAbilityTypeId
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.IncreaseControlLevelAbilityTypeId
+  nameWithType: ControlPointManager.IncreaseControlLevelAbilityTypeId
+- uid: MacroTools.ControlPointSystem.ControlPointManager.IncreaseControlLevelAbilityTypeId*
+  name: IncreaseControlLevelAbilityTypeId
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_IncreaseControlLevelAbilityTypeId_
+  commentId: Overload:MacroTools.ControlPointSystem.ControlPointManager.IncreaseControlLevelAbilityTypeId
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.IncreaseControlLevelAbilityTypeId
+  nameWithType: ControlPointManager.IncreaseControlLevelAbilityTypeId
+- uid: MacroTools.ControlPointSystem.ControlPointManager.Instance
+  name: Instance
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_Instance
+  commentId: P:MacroTools.ControlPointSystem.ControlPointManager.Instance
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.Instance
+  nameWithType: ControlPointManager.Instance
+- uid: MacroTools.ControlPointSystem.ControlPointManager.Instance*
+  name: Instance
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_Instance_
+  commentId: Overload:MacroTools.ControlPointSystem.ControlPointManager.Instance
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.Instance
+  nameWithType: ControlPointManager.Instance
+- uid: MacroTools.ControlPointSystem.ControlPointManager.MaxHitpoints
+  name: MaxHitpoints
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_MaxHitpoints
+  commentId: P:MacroTools.ControlPointSystem.ControlPointManager.MaxHitpoints
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.MaxHitpoints
+  nameWithType: ControlPointManager.MaxHitpoints
+- uid: MacroTools.ControlPointSystem.ControlPointManager.MaxHitpoints*
+  name: MaxHitpoints
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_MaxHitpoints_
+  commentId: Overload:MacroTools.ControlPointSystem.ControlPointManager.MaxHitpoints
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.MaxHitpoints
+  nameWithType: ControlPointManager.MaxHitpoints
+- uid: MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility
+  name: RegenerationAbility
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_RegenerationAbility
+  commentId: P:MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility
+  nameWithType: ControlPointManager.RegenerationAbility
+- uid: MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility*
+  name: RegenerationAbility
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_RegenerationAbility_
+  commentId: Overload:MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility
+  nameWithType: ControlPointManager.RegenerationAbility
 - uid: MacroTools.ControlPointSystem.ControlPointManager.Register(MacroTools.ControlPointSystem.ControlPoint)
   name: Register(ControlPoint)
   href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_Register_MacroTools_ControlPointSystem_ControlPoint_
@@ -4101,6 +4231,51 @@ references:
   isSpec: "True"
   fullName: MacroTools.ControlPointSystem.ControlPointOwnerChangeEventArgs.FormerOwner
   nameWithType: ControlPointOwnerChangeEventArgs.FormerOwner
+- uid: MacroTools.ControlPointSystem.DefenderSettings
+  name: DefenderSettings
+  href: api-macroTools/MacroTools.ControlPointSystem.DefenderSettings.html
+  commentId: T:MacroTools.ControlPointSystem.DefenderSettings
+  fullName: MacroTools.ControlPointSystem.DefenderSettings
+  nameWithType: DefenderSettings
+- uid: MacroTools.ControlPointSystem.DefenderSettings.DamageBase
+  name: DamageBase
+  href: api-macroTools/MacroTools.ControlPointSystem.DefenderSettings.html#MacroTools_ControlPointSystem_DefenderSettings_DamageBase
+  commentId: P:MacroTools.ControlPointSystem.DefenderSettings.DamageBase
+  fullName: MacroTools.ControlPointSystem.DefenderSettings.DamageBase
+  nameWithType: DefenderSettings.DamageBase
+- uid: MacroTools.ControlPointSystem.DefenderSettings.DamageBase*
+  name: DamageBase
+  href: api-macroTools/MacroTools.ControlPointSystem.DefenderSettings.html#MacroTools_ControlPointSystem_DefenderSettings_DamageBase_
+  commentId: Overload:MacroTools.ControlPointSystem.DefenderSettings.DamageBase
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.DefenderSettings.DamageBase
+  nameWithType: DefenderSettings.DamageBase
+- uid: MacroTools.ControlPointSystem.DefenderSettings.DamagePerControlLevel
+  name: DamagePerControlLevel
+  href: api-macroTools/MacroTools.ControlPointSystem.DefenderSettings.html#MacroTools_ControlPointSystem_DefenderSettings_DamagePerControlLevel
+  commentId: P:MacroTools.ControlPointSystem.DefenderSettings.DamagePerControlLevel
+  fullName: MacroTools.ControlPointSystem.DefenderSettings.DamagePerControlLevel
+  nameWithType: DefenderSettings.DamagePerControlLevel
+- uid: MacroTools.ControlPointSystem.DefenderSettings.DamagePerControlLevel*
+  name: DamagePerControlLevel
+  href: api-macroTools/MacroTools.ControlPointSystem.DefenderSettings.html#MacroTools_ControlPointSystem_DefenderSettings_DamagePerControlLevel_
+  commentId: Overload:MacroTools.ControlPointSystem.DefenderSettings.DamagePerControlLevel
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.DefenderSettings.DamagePerControlLevel
+  nameWithType: DefenderSettings.DamagePerControlLevel
+- uid: MacroTools.ControlPointSystem.DefenderSettings.DefenderUnitTypeId
+  name: DefenderUnitTypeId
+  href: api-macroTools/MacroTools.ControlPointSystem.DefenderSettings.html#MacroTools_ControlPointSystem_DefenderSettings_DefenderUnitTypeId
+  commentId: P:MacroTools.ControlPointSystem.DefenderSettings.DefenderUnitTypeId
+  fullName: MacroTools.ControlPointSystem.DefenderSettings.DefenderUnitTypeId
+  nameWithType: DefenderSettings.DefenderUnitTypeId
+- uid: MacroTools.ControlPointSystem.DefenderSettings.DefenderUnitTypeId*
+  name: DefenderUnitTypeId
+  href: api-macroTools/MacroTools.ControlPointSystem.DefenderSettings.html#MacroTools_ControlPointSystem_DefenderSettings_DefenderUnitTypeId_
+  commentId: Overload:MacroTools.ControlPointSystem.DefenderSettings.DefenderUnitTypeId
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.DefenderSettings.DefenderUnitTypeId
+  nameWithType: DefenderSettings.DefenderUnitTypeId
 - uid: MacroTools.ControlPointSystem.UnitExtensions
   name: UnitExtensions
   href: api-macroTools/MacroTools.ControlPointSystem.UnitExtensions.html
@@ -5520,6 +5695,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.GetManaPercent
   nameWithType: UnitExtensions.GetManaPercent
+- uid: MacroTools.Extensions.UnitExtensions.GetMaximumHitPoints(unit)
+  name: GetMaximumHitPoints(unit)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetMaximumHitPoints_unit_
+  commentId: M:MacroTools.Extensions.UnitExtensions.GetMaximumHitPoints(unit)
+  fullName: MacroTools.Extensions.UnitExtensions.GetMaximumHitPoints(unit)
+  nameWithType: UnitExtensions.GetMaximumHitPoints(unit)
+- uid: MacroTools.Extensions.UnitExtensions.GetMaximumHitPoints*
+  name: GetMaximumHitPoints
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetMaximumHitPoints_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.GetMaximumHitPoints
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.GetMaximumHitPoints
+  nameWithType: UnitExtensions.GetMaximumHitPoints
 - uid: MacroTools.Extensions.UnitExtensions.GetName(unit)
   name: GetName(unit)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetName_unit_
@@ -5909,6 +6097,45 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.SetColor
   nameWithType: UnitExtensions.SetColor
+- uid: MacroTools.Extensions.UnitExtensions.SetDamageBase(unit,System.Int32,System.Int32)
+  name: SetDamageBase(unit, Int32, Int32)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetDamageBase_unit_System_Int32_System_Int32_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetDamageBase(unit,System.Int32,System.Int32)
+  fullName: MacroTools.Extensions.UnitExtensions.SetDamageBase(unit, System.Int32, System.Int32)
+  nameWithType: UnitExtensions.SetDamageBase(unit, Int32, Int32)
+- uid: MacroTools.Extensions.UnitExtensions.SetDamageBase*
+  name: SetDamageBase
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetDamageBase_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetDamageBase
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetDamageBase
+  nameWithType: UnitExtensions.SetDamageBase
+- uid: MacroTools.Extensions.UnitExtensions.SetDamageNumberOfDice(unit,System.Int32,System.Int32)
+  name: SetDamageNumberOfDice(unit, Int32, Int32)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetDamageNumberOfDice_unit_System_Int32_System_Int32_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetDamageNumberOfDice(unit,System.Int32,System.Int32)
+  fullName: MacroTools.Extensions.UnitExtensions.SetDamageNumberOfDice(unit, System.Int32, System.Int32)
+  nameWithType: UnitExtensions.SetDamageNumberOfDice(unit, Int32, Int32)
+- uid: MacroTools.Extensions.UnitExtensions.SetDamageNumberOfDice*
+  name: SetDamageNumberOfDice
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetDamageNumberOfDice_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetDamageNumberOfDice
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetDamageNumberOfDice
+  nameWithType: UnitExtensions.SetDamageNumberOfDice
+- uid: MacroTools.Extensions.UnitExtensions.SetDamageSidesPerDie(unit,System.Int32,System.Int32)
+  name: SetDamageSidesPerDie(unit, Int32, Int32)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetDamageSidesPerDie_unit_System_Int32_System_Int32_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetDamageSidesPerDie(unit,System.Int32,System.Int32)
+  fullName: MacroTools.Extensions.UnitExtensions.SetDamageSidesPerDie(unit, System.Int32, System.Int32)
+  nameWithType: UnitExtensions.SetDamageSidesPerDie(unit, Int32, Int32)
+- uid: MacroTools.Extensions.UnitExtensions.SetDamageSidesPerDie*
+  name: SetDamageSidesPerDie
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetDamageSidesPerDie_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetDamageSidesPerDie
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetDamageSidesPerDie
+  nameWithType: UnitExtensions.SetDamageSidesPerDie
 - uid: MacroTools.Extensions.UnitExtensions.SetExplodeOnDeath(unit,System.Boolean)
   name: SetExplodeOnDeath(unit, Boolean)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetExplodeOnDeath_unit_System_Boolean_
@@ -5987,6 +6214,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.SetManaPercent
   nameWithType: UnitExtensions.SetManaPercent
+- uid: MacroTools.Extensions.UnitExtensions.SetMaximumHitpoints(unit,System.Int32)
+  name: SetMaximumHitpoints(unit, Int32)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetMaximumHitpoints_unit_System_Int32_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetMaximumHitpoints(unit,System.Int32)
+  fullName: MacroTools.Extensions.UnitExtensions.SetMaximumHitpoints(unit, System.Int32)
+  nameWithType: UnitExtensions.SetMaximumHitpoints(unit, Int32)
+- uid: MacroTools.Extensions.UnitExtensions.SetMaximumHitpoints*
+  name: SetMaximumHitpoints
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetMaximumHitpoints_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetMaximumHitpoints
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetMaximumHitpoints
+  nameWithType: UnitExtensions.SetMaximumHitpoints
 - uid: MacroTools.Extensions.UnitExtensions.SetMaximumMana(unit,System.Int32)
   name: SetMaximumMana(unit, Int32)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetMaximumMana_unit_System_Int32_
@@ -6039,6 +6279,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.SetPosition
   nameWithType: UnitExtensions.SetPosition
+- uid: MacroTools.Extensions.UnitExtensions.SetScale(unit,System.Single)
+  name: SetScale(unit, Single)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetScale_unit_System_Single_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetScale(unit,System.Single)
+  fullName: MacroTools.Extensions.UnitExtensions.SetScale(unit, System.Single)
+  nameWithType: UnitExtensions.SetScale(unit, Single)
+- uid: MacroTools.Extensions.UnitExtensions.SetScale*
+  name: SetScale
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetScale_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetScale
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetScale
+  nameWithType: UnitExtensions.SetScale
 - uid: MacroTools.Extensions.UnitExtensions.SetSkin(unit,System.Int32)
   name: SetSkin(unit, Int32)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetSkin_unit_System_Int32_
@@ -6297,6 +6550,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Faction.ColoredName
   nameWithType: Faction.ColoredName
+- uid: MacroTools.FactionSystem.Faction.ControlPointDefenderTemplateUnitTypeId
+  name: ControlPointDefenderTemplateUnitTypeId
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_ControlPointDefenderTemplateUnitTypeId
+  commentId: P:MacroTools.FactionSystem.Faction.ControlPointDefenderTemplateUnitTypeId
+  fullName: MacroTools.FactionSystem.Faction.ControlPointDefenderTemplateUnitTypeId
+  nameWithType: Faction.ControlPointDefenderTemplateUnitTypeId
+- uid: MacroTools.FactionSystem.Faction.ControlPointDefenderTemplateUnitTypeId*
+  name: ControlPointDefenderTemplateUnitTypeId
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_ControlPointDefenderTemplateUnitTypeId_
+  commentId: Overload:MacroTools.FactionSystem.Faction.ControlPointDefenderTemplateUnitTypeId
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Faction.ControlPointDefenderTemplateUnitTypeId
+  nameWithType: Faction.ControlPointDefenderTemplateUnitTypeId
 - uid: MacroTools.FactionSystem.Faction.DefeatedResearch
   name: DefeatedResearch
   href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_DefeatedResearch

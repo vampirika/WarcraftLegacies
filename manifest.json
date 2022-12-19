@@ -1101,7 +1101,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ControlPointSystem.ControlPoint.html",
-          "hash": "oslLZ3ZyPpuS1uN3grBhmg=="
+          "hash": "hLWCIwdrdPaeqm9wuf21tQ=="
         }
       },
       "is_incremental": false,
@@ -1113,7 +1113,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html",
-          "hash": "ah6cjpznH6RVTZ1HCmF8EQ=="
+          "hash": "IZw/FjyKD+A3bi/rw/9E3Q=="
         }
       },
       "is_incremental": false,
@@ -1126,6 +1126,18 @@
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ControlPointSystem.ControlPointOwnerChangeEventArgs.html",
           "hash": "MTC2ULkP1DV/wCcVB0wv+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.ControlPointSystem.DefenderSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.ControlPointSystem.DefenderSettings.html",
+          "hash": "lhBaRQXljrvbAGI/6vKl4w=="
         }
       },
       "is_incremental": false,
@@ -1149,7 +1161,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ControlPointSystem.html",
-          "hash": "iIioBrmrRuaiCujT9s2HPg=="
+          "hash": "wCPHbnYMqgrI0RYegufjjw=="
         }
       },
       "is_incremental": false,
@@ -1353,7 +1365,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.UnitExtensions.html",
-          "hash": "IxGz3fyUTxvP2vasIKz+Cw=="
+          "hash": "sItVOpXPkNgT+oDW/wy25g=="
         }
       },
       "is_incremental": false,
@@ -1389,7 +1401,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Faction.html",
-          "hash": "LvK/+xQTfyKfXqjyp6bNSA=="
+          "hash": "TmKlPD0VDVC+/vbY91P2DA=="
         }
       },
       "is_incremental": false,
@@ -3885,7 +3897,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "eNbN5y2MCja+CF11EfxFdA=="
+          "hash": "TKTmE22zMqWX6klv/YfEyg=="
         }
       },
       "is_incremental": false,
@@ -7713,7 +7725,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.GameSetup.html",
-          "hash": "fDVZ8rnphp89wP7amo6Zrw=="
+          "hash": "gAg4B8fg1JDHZdRz6+DnYQ=="
         }
       },
       "is_incremental": false,
@@ -8760,7 +8772,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 722,
+          "total_file_count": 723,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

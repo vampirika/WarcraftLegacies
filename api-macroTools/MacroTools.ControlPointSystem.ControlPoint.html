@@ -96,7 +96,7 @@ When a <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html">Co
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ControlPointSystem_ControlPoint__ctor_unit_System_Single_.md&amp;value=---%0Auid%3A%20MacroTools.ControlPointSystem.ControlPoint.%23ctor(unit%2CSystem.Single)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L31">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L75">View Source</a>
   </span>
   <a id="MacroTools_ControlPointSystem_ControlPoint__ctor_" data-uid="MacroTools.ControlPointSystem.ControlPoint.#ctor*"></a>
   <h4 id="MacroTools_ControlPointSystem_ControlPoint__ctor_unit_System_Single_" data-uid="MacroTools.ControlPointSystem.ControlPoint.#ctor(unit,System.Single)">ControlPoint(unit, Single)</h4>
@@ -135,10 +135,73 @@ When a <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html">Co
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ControlPointSystem_ControlPoint_ControlLevel.md&amp;value=---%0Auid%3A%20MacroTools.ControlPointSystem.ControlPoint.ControlLevel%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L60">View Source</a>
+  </span>
+  <a id="MacroTools_ControlPointSystem_ControlPoint_ControlLevel_" data-uid="MacroTools.ControlPointSystem.ControlPoint.ControlLevel*"></a>
+  <h4 id="MacroTools_ControlPointSystem_ControlPoint_ControlLevel" data-uid="MacroTools.ControlPointSystem.ControlPoint.ControlLevel">ControlLevel</h4>
+  <div class="markdown level1 summary"><p>When <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html#MacroTools_ControlPointSystem_ControlPoint_ControlLevel">ControlLevel</a> is higher than 0, the <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html">ControlPoint</a> becomes a tower with
+attack damage and hit points based on its <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html#MacroTools_ControlPointSystem_ControlPoint_ControlLevel">ControlLevel</a>.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int ControlLevel { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ControlPointSystem_ControlPoint_Defender.md&amp;value=---%0Auid%3A%20MacroTools.ControlPointSystem.ControlPoint.Defender%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L29">View Source</a>
+  </span>
+  <a id="MacroTools_ControlPointSystem_ControlPoint_Defender_" data-uid="MacroTools.ControlPointSystem.ControlPoint.Defender*"></a>
+  <h4 id="MacroTools_ControlPointSystem_ControlPoint_Defender" data-uid="MacroTools.ControlPointSystem.ControlPoint.Defender">Defender</h4>
+  <div class="markdown level1 summary"><p>A tower that appears on the <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html">ControlPoint</a> when its <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html#MacroTools_ControlPointSystem_ControlPoint_ControlLevel">ControlLevel</a> exceeds 0.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public unit? Defender { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">unit</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ControlPointSystem_ControlPoint_Name.md&amp;value=---%0Auid%3A%20MacroTools.ControlPointSystem.ControlPoint.Name%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L61">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L49">View Source</a>
   </span>
   <a id="MacroTools_ControlPointSystem_ControlPoint_Name_" data-uid="MacroTools.ControlPointSystem.ControlPoint.Name*"></a>
   <h4 id="MacroTools_ControlPointSystem_ControlPoint_Name" data-uid="MacroTools.ControlPointSystem.ControlPoint.Name">Name</h4>
@@ -169,7 +232,7 @@ When a <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html">Co
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ControlPointSystem_ControlPoint_Owner.md&amp;value=---%0Auid%3A%20MacroTools.ControlPointSystem.ControlPoint.Owner%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L46">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L34">View Source</a>
   </span>
   <a id="MacroTools_ControlPointSystem_ControlPoint_Owner_" data-uid="MacroTools.ControlPointSystem.ControlPoint.Owner*"></a>
   <h4 id="MacroTools_ControlPointSystem_ControlPoint_Owner" data-uid="MacroTools.ControlPointSystem.ControlPoint.Owner">Owner</h4>
@@ -200,7 +263,7 @@ When a <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html">Co
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ControlPointSystem_ControlPoint_Unit.md&amp;value=---%0Auid%3A%20MacroTools.ControlPointSystem.ControlPoint.Unit%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L66">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L54">View Source</a>
   </span>
   <a id="MacroTools_ControlPointSystem_ControlPoint_Unit_" data-uid="MacroTools.ControlPointSystem.ControlPoint.Unit*"></a>
   <h4 id="MacroTools_ControlPointSystem_ControlPoint_Unit" data-uid="MacroTools.ControlPointSystem.ControlPoint.Unit">Unit</h4>
@@ -231,7 +294,7 @@ When a <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html">Co
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ControlPointSystem_ControlPoint_UnitType.md&amp;value=---%0Auid%3A%20MacroTools.ControlPointSystem.ControlPoint.UnitType%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L56">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L44">View Source</a>
   </span>
   <a id="MacroTools_ControlPointSystem_ControlPoint_UnitType_" data-uid="MacroTools.ControlPointSystem.ControlPoint.UnitType*"></a>
   <h4 id="MacroTools_ControlPointSystem_ControlPoint_UnitType" data-uid="MacroTools.ControlPointSystem.ControlPoint.UnitType">UnitType</h4>
@@ -262,7 +325,7 @@ When a <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html">Co
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ControlPointSystem_ControlPoint_Value.md&amp;value=---%0Auid%3A%20MacroTools.ControlPointSystem.ControlPoint.Value%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L51">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L39">View Source</a>
   </span>
   <a id="MacroTools_ControlPointSystem_ControlPoint_Value_" data-uid="MacroTools.ControlPointSystem.ControlPoint.Value*"></a>
   <h4 id="MacroTools_ControlPointSystem_ControlPoint_Value" data-uid="MacroTools.ControlPointSystem.ControlPoint.Value">Value</h4>
@@ -288,6 +351,41 @@ When a <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html">Co
       </tr>
     </tbody>
   </table>
+  <h3 id="methods">Methods
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ControlPointSystem_ControlPoint_SignalOwnershipChange_MacroTools_ControlPointSystem_ControlPointOwnerChangeEventArgs_.md&amp;value=---%0Auid%3A%20MacroTools.ControlPointSystem.ControlPoint.SignalOwnershipChange(MacroTools.ControlPointSystem.ControlPointOwnerChangeEventArgs)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L84">View Source</a>
+  </span>
+  <a id="MacroTools_ControlPointSystem_ControlPoint_SignalOwnershipChange_" data-uid="MacroTools.ControlPointSystem.ControlPoint.SignalOwnershipChange*"></a>
+  <h4 id="MacroTools_ControlPointSystem_ControlPoint_SignalOwnershipChange_MacroTools_ControlPointSystem_ControlPointOwnerChangeEventArgs_" data-uid="MacroTools.ControlPointSystem.ControlPoint.SignalOwnershipChange(MacroTools.ControlPointSystem.ControlPointOwnerChangeEventArgs)">SignalOwnershipChange(ControlPointOwnerChangeEventArgs)</h4>
+  <div class="markdown level1 summary"><p>Invokes the <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html#MacroTools_ControlPointSystem_ControlPoint_ChangedOwner">ChangedOwner</a> event with the provided arguments.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void SignalOwnershipChange(ControlPointOwnerChangeEventArgs args)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="MacroTools.ControlPointSystem.ControlPointOwnerChangeEventArgs.html">ControlPointOwnerChangeEventArgs</a></td>
+        <td><span class="parametername">args</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
   <h3 id="events">Events
   </h3>
   <span class="small pull-right mobile-hide">
@@ -295,10 +393,10 @@ When a <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html">Co
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ControlPointSystem_ControlPoint_ChangedOwner.md&amp;value=---%0Auid%3A%20MacroTools.ControlPointSystem.ControlPoint.ChangedOwner%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L71">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L19">View Source</a>
   </span>
   <h4 id="MacroTools_ControlPointSystem_ControlPoint_ChangedOwner" data-uid="MacroTools.ControlPointSystem.ControlPoint.ChangedOwner">ChangedOwner</h4>
-  <div class="markdown level1 summary"><p>Fires when the <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html">ControlPoint</a> changes its owner.</p>
+  <div class="markdown level1 summary"><p>Invoked when the <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html">ControlPoint</a> changes its owner.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
@@ -322,18 +420,18 @@ When a <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html">Co
   </table>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ControlPointSystem_ControlPoint_OnControlPointOwnerChange.md&amp;value=---%0Auid%3A%20MacroTools.ControlPointSystem.ControlPoint.OnControlPointOwnerChange%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ControlPointSystem_ControlPoint_ControlLevelChanged.md&amp;value=---%0Auid%3A%20MacroTools.ControlPointSystem.ControlPoint.ControlLevelChanged%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L76">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L24">View Source</a>
   </span>
-  <h4 id="MacroTools_ControlPointSystem_ControlPoint_OnControlPointOwnerChange" data-uid="MacroTools.ControlPointSystem.ControlPoint.OnControlPointOwnerChange">OnControlPointOwnerChange</h4>
-  <div class="markdown level1 summary"><p>Invoked when the <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html">ControlPoint</a> changes owner.</p>
+  <h4 id="MacroTools_ControlPointSystem_ControlPoint_ControlLevelChanged" data-uid="MacroTools.ControlPointSystem.ControlPoint.ControlLevelChanged">ControlLevelChanged</h4>
+  <div class="markdown level1 summary"><p>Fired when the <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html#MacroTools_ControlPointSystem_ControlPoint_ControlLevel">ControlLevel</a> of this <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html">ControlPoint</a> changes.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static event EventHandler&lt;ControlPointOwnerChangeEventArgs&gt;? OnControlPointOwnerChange</code></pre>
+    <pre><code class="lang-csharp hljs">public event EventHandler? ControlLevelChanged</code></pre>
   </div>
   <h5 class="eventType">Event Type</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -345,7 +443,7 @@ When a <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html">Co
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">EventHandler</span>&lt;<a class="xref" href="MacroTools.ControlPointSystem.ControlPointOwnerChangeEventArgs.html">ControlPointOwnerChangeEventArgs</a>&gt;&gt;</td>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">EventHandler</span>&gt;</td>
         <td></td>
       </tr>
     </tbody>
@@ -361,7 +459,7 @@ When a <a class="xref" href="MacroTools.ControlPointSystem.ControlPoint.html">Co
                     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ControlPointSystem_ControlPoint.md&amp;value=---%0Auid%3A%20MacroTools.ControlPointSystem.ControlPoint%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L15" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ControlPointSystem/ControlPoint.cs/#L12" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>
