@@ -25572,77 +25572,148 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Naga.QuestFrozenThrone.RewardDescription
   nameWithType: QuestFrozenThrone.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin
-  name: QuestIllidanKillGoblin
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.html
-  commentId: T:WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin
-  nameWithType: QuestIllidanKillGoblin
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.#ctor
-  name: QuestIllidanKillGoblin()
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.html#WarcraftLegacies_Source_Quests_Naga_QuestIllidanKillGoblin__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.QuestIllidanKillGoblin()
-  nameWithType: QuestIllidanKillGoblin.QuestIllidanKillGoblin()
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.#ctor*
-  name: QuestIllidanKillGoblin
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.html#WarcraftLegacies_Source_Quests_Naga_QuestIllidanKillGoblin__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.#ctor
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes
+  name: QuestLostOnes
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.html
+  commentId: T:WarcraftLegacies.Source.Quests.Naga.QuestLostOnes
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes
+  nameWithType: QuestLostOnes
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.#ctor(Rectangle)
+  name: QuestLostOnes(Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.html#WarcraftLegacies_Source_Quests_Naga_QuestLostOnes__ctor_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.#ctor(Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.QuestLostOnes(Rectangle)
+  nameWithType: QuestLostOnes.QuestLostOnes(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.#ctor*
+  name: QuestLostOnes
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.html#WarcraftLegacies_Source_Quests_Naga_QuestLostOnes__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.#ctor
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.QuestIllidanKillGoblin
-  nameWithType: QuestIllidanKillGoblin.QuestIllidanKillGoblin
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.QuestLostOnes
+  nameWithType: QuestLostOnes.QuestLostOnes
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.CompletionPopup
   name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.html#WarcraftLegacies_Source_Quests_Naga_QuestIllidanKillGoblin_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.CompletionPopup
-  nameWithType: QuestIllidanKillGoblin.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.CompletionPopup*
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.html#WarcraftLegacies_Source_Quests_Naga_QuestLostOnes_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.CompletionPopup
+  nameWithType: QuestLostOnes.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.CompletionPopup*
   name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.html#WarcraftLegacies_Source_Quests_Naga_QuestIllidanKillGoblin_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.html#WarcraftLegacies_Source_Quests_Naga_QuestLostOnes_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.CompletionPopup
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.CompletionPopup
-  nameWithType: QuestIllidanKillGoblin.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.OnAdd(MacroTools.FactionSystem.Faction)
-  name: OnAdd(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.html#WarcraftLegacies_Source_Quests_Naga_QuestIllidanKillGoblin_OnAdd_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.OnAdd(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.OnAdd(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestIllidanKillGoblin.OnAdd(Faction)
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.OnAdd*
-  name: OnAdd
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.html#WarcraftLegacies_Source_Quests_Naga_QuestIllidanKillGoblin_OnAdd_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.OnAdd
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.OnAdd
-  nameWithType: QuestIllidanKillGoblin.OnAdd
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.CompletionPopup
+  nameWithType: QuestLostOnes.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.html#WarcraftLegacies_Source_Quests_Naga_QuestIllidanKillGoblin_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestIllidanKillGoblin.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.OnComplete*
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.html#WarcraftLegacies_Source_Quests_Naga_QuestLostOnes_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestLostOnes.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.OnComplete*
   name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.html#WarcraftLegacies_Source_Quests_Naga_QuestIllidanKillGoblin_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.html#WarcraftLegacies_Source_Quests_Naga_QuestLostOnes_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.OnComplete
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.OnComplete
-  nameWithType: QuestIllidanKillGoblin.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.html#WarcraftLegacies_Source_Quests_Naga_QuestIllidanKillGoblin_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.RewardDescription
-  nameWithType: QuestIllidanKillGoblin.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.html#WarcraftLegacies_Source_Quests_Naga_QuestIllidanKillGoblin_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.OnComplete
+  nameWithType: QuestLostOnes.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.OnFail(MacroTools.FactionSystem.Faction)
+  name: OnFail(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.html#WarcraftLegacies_Source_Quests_Naga_QuestLostOnes_OnFail_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.OnFail(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.OnFail(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestLostOnes.OnFail(Faction)
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.OnFail*
+  name: OnFail
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.html#WarcraftLegacies_Source_Quests_Naga_QuestLostOnes_OnFail_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.OnFail
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.RewardDescription
-  nameWithType: QuestIllidanKillGoblin.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.OnFail
+  nameWithType: QuestLostOnes.OnFail
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.html#WarcraftLegacies_Source_Quests_Naga_QuestLostOnes_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.RewardDescription
+  nameWithType: QuestLostOnes.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.html#WarcraftLegacies_Source_Quests_Naga_QuestLostOnes_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.RewardDescription
+  nameWithType: QuestLostOnes.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur
+  name: QuestMurmur
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html
+  commentId: T:WarcraftLegacies.Source.Quests.Naga.QuestMurmur
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur
+  nameWithType: QuestMurmur
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.#ctor(MacroTools.PreplacedUnitSystem)
+  name: QuestMurmur(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur__ctor_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.#ctor(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.QuestMurmur(MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestMurmur.QuestMurmur(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.#ctor*
+  name: QuestMurmur
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.QuestMurmur
+  nameWithType: QuestMurmur.QuestMurmur
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.CompletionPopup
+  nameWithType: QuestMurmur.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.CompletionPopup
+  nameWithType: QuestMurmur.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnAdd(MacroTools.FactionSystem.Faction)
+  name: OnAdd(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur_OnAdd_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnAdd(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnAdd(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestMurmur.OnAdd(Faction)
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnAdd*
+  name: OnAdd
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur_OnAdd_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnAdd
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnAdd
+  nameWithType: QuestMurmur.OnAdd
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestMurmur.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnComplete
+  nameWithType: QuestMurmur.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.RewardDescription
+  nameWithType: QuestMurmur.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.RewardDescription
+  nameWithType: QuestMurmur.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Naga.QuestRegroupCastaway
   name: QuestRegroupCastaway
   href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestRegroupCastaway.html
@@ -35164,12 +35235,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup
   nameWithType: NagaQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
-  name: Setup(ArtifactSetup)
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_NagaQuestSetup_Setup_WarcraftLegacies_Source_Setup_ArtifactSetup_
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
-  nameWithType: NagaQuestSetup.Setup(ArtifactSetup)
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  name: Setup(PreplacedUnitSystem, ArtifactSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_NagaQuestSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_ArtifactSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.ArtifactSetup)
+  nameWithType: NagaQuestSetup.Setup(PreplacedUnitSystem, ArtifactSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_NagaQuestSetup_Setup_
@@ -35373,6 +35444,25 @@ references:
   commentId: N:WarcraftLegacies.Source.Setup.Spells
   fullName: WarcraftLegacies.Source.Setup.Spells
   nameWithType: WarcraftLegacies.Source.Setup.Spells
+- uid: WarcraftLegacies.Source.Setup.Spells.DraeneiSpellSetup
+  name: DraeneiSpellSetup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.DraeneiSpellSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.Spells.DraeneiSpellSetup
+  fullName: WarcraftLegacies.Source.Setup.Spells.DraeneiSpellSetup
+  nameWithType: DraeneiSpellSetup
+- uid: WarcraftLegacies.Source.Setup.Spells.DraeneiSpellSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.DraeneiSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_DraeneiSpellSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.Spells.DraeneiSpellSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.Spells.DraeneiSpellSetup.Setup()
+  nameWithType: DraeneiSpellSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.Spells.DraeneiSpellSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.DraeneiSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_DraeneiSpellSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Spells.DraeneiSpellSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Spells.DraeneiSpellSetup.Setup
+  nameWithType: DraeneiSpellSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.Spells.DragonmawSpellSetup
   name: DragonmawSpellSetup
   href: api-source/WarcraftLegacies.Source.Setup.Spells.DragonmawSpellSetup.html

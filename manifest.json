@@ -6041,11 +6041,23 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.yml",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.yml",
       "output": {
         ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestIllidanKillGoblin.html",
-          "hash": "ZFGL++F8m5BGSzsRt53m3Q=="
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.html",
+          "hash": "z45g+YiLY3FXYHH6/0Sjsw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html",
+          "hash": "Y7E840wgghLxppAsreQHXQ=="
         }
       },
       "is_incremental": false,
@@ -6069,7 +6081,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.html",
-          "hash": "RGF/JYe5bTW4ZHnwoJYVqQ=="
+          "hash": "aGzZaHDv1xKKmqDDAXzHCQ=="
         }
       },
       "is_incremental": false,
@@ -8157,7 +8169,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.NagaQuestSetup.html",
-          "hash": "Sus9g8QuPNJe4c2BtLRPnQ=="
+          "hash": "QBt+GnalklPXBxcLdD6J5Q=="
         }
       },
       "is_incremental": false,
@@ -8290,6 +8302,18 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.ShoreSetup.html",
           "hash": "4LuziLG4pfLD3mjlpiExkw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.DraeneiSpellSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.DraeneiSpellSetup.html",
+          "hash": "XeuNZGuSNXD3Kauik20EQA=="
         }
       },
       "is_incremental": false,
@@ -8469,7 +8493,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.html",
-          "hash": "qj9pLm0UJ5elbEJSyFbTdw=="
+          "hash": "A8KoKyNW6xixPsMDqtVO9g=="
         }
       },
       "is_incremental": false,
@@ -8601,7 +8625,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "r4EvHEZB43grnsPLtx9rBA=="
+          "hash": "uoM/z/XRrNoDdn/QBaBm4Q=="
         }
       },
       "is_incremental": false,
@@ -8676,7 +8700,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 715,
+          "total_file_count": 717,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
