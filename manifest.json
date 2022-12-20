@@ -1097,6 +1097,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.ControlPointSystem.ControlLevelSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.ControlPointSystem.ControlLevelSettings.html",
+          "hash": "xIsDWSuMY0E4X3QAW5TmOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.ControlPointSystem.ControlPoint.yml",
       "output": {
         ".html": {
@@ -1113,7 +1125,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html",
-          "hash": "IZw/FjyKD+A3bi/rw/9E3Q=="
+          "hash": "Ko3o32usynuhdrhwUSuBTw=="
         }
       },
       "is_incremental": false,
@@ -1126,18 +1138,6 @@
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ControlPointSystem.ControlPointOwnerChangeEventArgs.html",
           "hash": "MTC2ULkP1DV/wCcVB0wv+w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.ControlPointSystem.DefenderSettings.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.ControlPointSystem.DefenderSettings.html",
-          "hash": "kIS1lusMUJbVT21je5rn/Q=="
         }
       },
       "is_incremental": false,
@@ -1161,7 +1161,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ControlPointSystem.html",
-          "hash": "wCPHbnYMqgrI0RYegufjjw=="
+          "hash": "StnwYBptchk271Pd6m4h/A=="
         }
       },
       "is_incremental": false,
@@ -1365,7 +1365,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.UnitExtensions.html",
-          "hash": "DNGgwkx+xIe/TDvKVPMPOg=="
+          "hash": "sxyStEQODhjCVos4rZepdg=="
         }
       },
       "is_incremental": false,
@@ -1401,7 +1401,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Faction.html",
-          "hash": "TmKlPD0VDVC+/vbY91P2DA=="
+          "hash": "fuLmg0jWamqy4ZZOlFtzhw=="
         }
       },
       "is_incremental": false,
@@ -3897,7 +3897,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "TKTmE22zMqWX6klv/YfEyg=="
+          "hash": "PFFijzK+M99Z+ve/D5P/dQ=="
         }
       },
       "is_incremental": false,
