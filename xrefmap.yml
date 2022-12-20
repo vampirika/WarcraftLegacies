@@ -4237,6 +4237,19 @@ references:
   commentId: T:MacroTools.ControlPointSystem.DefenderSettings
   fullName: MacroTools.ControlPointSystem.DefenderSettings
   nameWithType: DefenderSettings
+- uid: MacroTools.ControlPointSystem.DefenderSettings.ArmorPerControlLevel
+  name: ArmorPerControlLevel
+  href: api-macroTools/MacroTools.ControlPointSystem.DefenderSettings.html#MacroTools_ControlPointSystem_DefenderSettings_ArmorPerControlLevel
+  commentId: P:MacroTools.ControlPointSystem.DefenderSettings.ArmorPerControlLevel
+  fullName: MacroTools.ControlPointSystem.DefenderSettings.ArmorPerControlLevel
+  nameWithType: DefenderSettings.ArmorPerControlLevel
+- uid: MacroTools.ControlPointSystem.DefenderSettings.ArmorPerControlLevel*
+  name: ArmorPerControlLevel
+  href: api-macroTools/MacroTools.ControlPointSystem.DefenderSettings.html#MacroTools_ControlPointSystem_DefenderSettings_ArmorPerControlLevel_
+  commentId: Overload:MacroTools.ControlPointSystem.DefenderSettings.ArmorPerControlLevel
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.DefenderSettings.ArmorPerControlLevel
+  nameWithType: DefenderSettings.ArmorPerControlLevel
 - uid: MacroTools.ControlPointSystem.DefenderSettings.DamageBase
   name: DamageBase
   href: api-macroTools/MacroTools.ControlPointSystem.DefenderSettings.html#MacroTools_ControlPointSystem_DefenderSettings_DamageBase
@@ -6058,6 +6071,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.SetAnimationSpeed
   nameWithType: UnitExtensions.SetAnimationSpeed
+- uid: MacroTools.Extensions.UnitExtensions.SetArmor(unit,System.Int32)
+  name: SetArmor(unit, Int32)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetArmor_unit_System_Int32_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetArmor(unit,System.Int32)
+  fullName: MacroTools.Extensions.UnitExtensions.SetArmor(unit, System.Int32)
+  nameWithType: UnitExtensions.SetArmor(unit, Int32)
+- uid: MacroTools.Extensions.UnitExtensions.SetArmor*
+  name: SetArmor
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetArmor_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetArmor
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetArmor
+  nameWithType: UnitExtensions.SetArmor
 - uid: MacroTools.Extensions.UnitExtensions.SetArmorType(unit,System.Int32)
   name: SetArmorType(unit, Int32)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetArmorType_unit_System_Int32_
