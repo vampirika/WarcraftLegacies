@@ -2529,7 +2529,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.QuestSystem.Objective.html",
-          "hash": "Z500FIG945HqZU1Kl9EOSw=="
+          "hash": "XLSoz9ewirbFVL2789G+9w=="
         }
       },
       "is_incremental": false,
@@ -2662,6 +2662,18 @@
         ".html": {
           "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveBuild.html",
           "hash": "sadtczhm2ofMy9sUNKzmrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveBuildInRect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveBuildInRect.html",
+          "hash": "k98R7d29JoLR/efQ7HDybA=="
         }
       },
       "is_incremental": false,
@@ -3041,6 +3053,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitReachesFullHealth.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveUnitReachesFullHealth.html",
+          "hash": "OTF6qO6RjpVQIkbXeO2pag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveUpgrade.yml",
       "output": {
         ".html": {
@@ -3069,7 +3093,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.QuestSystem.UtilityStructs.html",
-          "hash": "7LAl8kddHcO//0l2RzqPzg=="
+          "hash": "As6qeUm65HfinnI0Wu0m1Q=="
         }
       },
       "is_incremental": false,
@@ -3897,7 +3921,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "PFFijzK+M99Z+ve/D5P/dQ=="
+          "hash": "JueBI06+Bx3DlsMjY9F+KQ=="
         }
       },
       "is_incremental": false,
@@ -4925,6 +4949,30 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.html",
+          "hash": "VpLs4vbibva5UwFsltFM4g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.html",
+          "hash": "IWfq16yxG5Hz4siEZxz39w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestShipArgus.yml",
       "output": {
         ".html": {
@@ -4965,7 +5013,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.html",
-          "hash": "/bQxY71bcaybyLf7MkM9Gg=="
+          "hash": "AWD8Qk7fPF4L/MXct7Ozyg=="
         }
       },
       "is_incremental": false,
@@ -8025,7 +8073,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.DraeneiQuestSetup.html",
-          "hash": "y9EMiyQTKEMVluB6BO9klQ=="
+          "hash": "JJrUbrIJuNU4gkZb03zp/A=="
         }
       },
       "is_incremental": false,
@@ -8625,7 +8673,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "uoM/z/XRrNoDdn/QBaBm4Q=="
+          "hash": "Gp4bJcp6LGKNnCOyB0h2pQ=="
         }
       },
       "is_incremental": false,
@@ -8700,7 +8748,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 717,
+          "total_file_count": 721,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
