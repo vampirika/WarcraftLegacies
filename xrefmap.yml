@@ -36345,6 +36345,38 @@ references:
   commentId: N:WarcraftLegacies.Source.Spells
   fullName: WarcraftLegacies.Source.Spells
   nameWithType: WarcraftLegacies.Source.Spells
+- uid: WarcraftLegacies.Source.Spells.ExtractSunwellVial
+  name: ExtractSunwellVial
+  href: api-source/WarcraftLegacies.Source.Spells.ExtractSunwellVial.html
+  commentId: T:WarcraftLegacies.Source.Spells.ExtractSunwellVial
+  fullName: WarcraftLegacies.Source.Spells.ExtractSunwellVial
+  nameWithType: ExtractSunwellVial
+- uid: WarcraftLegacies.Source.Spells.ExtractSunwellVial.#ctor(System.Int32,System.Int32)
+  name: ExtractSunwellVial(Int32, Int32)
+  href: api-source/WarcraftLegacies.Source.Spells.ExtractSunwellVial.html#WarcraftLegacies_Source_Spells_ExtractSunwellVial__ctor_System_Int32_System_Int32_
+  commentId: M:WarcraftLegacies.Source.Spells.ExtractSunwellVial.#ctor(System.Int32,System.Int32)
+  fullName: WarcraftLegacies.Source.Spells.ExtractSunwellVial.ExtractSunwellVial(System.Int32, System.Int32)
+  nameWithType: ExtractSunwellVial.ExtractSunwellVial(Int32, Int32)
+- uid: WarcraftLegacies.Source.Spells.ExtractSunwellVial.#ctor*
+  name: ExtractSunwellVial
+  href: api-source/WarcraftLegacies.Source.Spells.ExtractSunwellVial.html#WarcraftLegacies_Source_Spells_ExtractSunwellVial__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Spells.ExtractSunwellVial.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Spells.ExtractSunwellVial.ExtractSunwellVial
+  nameWithType: ExtractSunwellVial.ExtractSunwellVial
+- uid: WarcraftLegacies.Source.Spells.ExtractSunwellVial.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-source/WarcraftLegacies.Source.Spells.ExtractSunwellVial.html#WarcraftLegacies_Source_Spells_ExtractSunwellVial_OnCast_unit_unit_Point_
+  commentId: M:WarcraftLegacies.Source.Spells.ExtractSunwellVial.OnCast(unit,unit,Point)
+  fullName: WarcraftLegacies.Source.Spells.ExtractSunwellVial.OnCast(unit, unit, Point)
+  nameWithType: ExtractSunwellVial.OnCast(unit, unit, Point)
+- uid: WarcraftLegacies.Source.Spells.ExtractSunwellVial.OnCast*
+  name: OnCast
+  href: api-source/WarcraftLegacies.Source.Spells.ExtractSunwellVial.html#WarcraftLegacies_Source_Spells_ExtractSunwellVial_OnCast_
+  commentId: Overload:WarcraftLegacies.Source.Spells.ExtractSunwellVial.OnCast
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Spells.ExtractSunwellVial.OnCast
+  nameWithType: ExtractSunwellVial.OnCast
 - uid: WarcraftLegacies.Source.Spells.PingOilDeposits
   name: PingOilDeposits
   href: api-source/WarcraftLegacies.Source.Spells.PingOilDeposits.html

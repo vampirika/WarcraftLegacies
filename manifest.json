@@ -8565,7 +8565,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.QuelthalasSpellSetup.html",
-          "hash": "KJ8TqR25fI4nsuzOTQkvLQ=="
+          "hash": "PC9MRjr5lmFVDNb0Z4YtKQ=="
         }
       },
       "is_incremental": false,
@@ -8657,6 +8657,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Spells.ExtractSunwellVial.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Spells.ExtractSunwellVial.html",
+          "hash": "bTkYBqn/Lmm+HQg6KyXmzQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Spells.PingOilDeposits.yml",
       "output": {
         ".html": {
@@ -8685,7 +8697,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Spells.html",
-          "hash": "8n0aI0RkzXazMBqMYMakSQ=="
+          "hash": "ipCiwQpugw1b863KB+wbdg=="
         }
       },
       "is_incremental": false,
@@ -8733,7 +8745,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "LDyPEOK9bs3ESkWc4bUw3w=="
+          "hash": "scpL1WrgyW4CAqTLka8YFg=="
         }
       },
       "is_incremental": false,
@@ -8808,7 +8820,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 726,
+          "total_file_count": 727,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
