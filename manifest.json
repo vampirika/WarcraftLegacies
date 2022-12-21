@@ -4769,6 +4769,30 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Objectives.ObjectivePowerSource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Objectives.ObjectivePowerSource.html",
+          "hash": "PWfSg4gAUeIvwD35vOnVRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Objectives.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Objectives.html",
+          "hash": "rbtInHgvhV6RWL2EXwuUXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.PatronSystem.yml",
       "output": {
         ".html": {
@@ -4973,11 +4997,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.html",
+          "hash": "e9TsRyqhcBea0o6e26xwNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.html",
-          "hash": "VpLs4vbibva5UwFsltFM4g=="
+          "hash": "6VC7R3sn10eQ2jYyHuRtWQ=="
         }
       },
       "is_incremental": false,
@@ -4989,7 +5025,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.html",
-          "hash": "IWfq16yxG5Hz4siEZxz39w=="
+          "hash": "P4uGvTW2Ps2aWYz5iLR4Vg=="
         }
       },
       "is_incremental": false,
@@ -5002,18 +5038,6 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestShipArgus.html",
           "hash": "wxl97U9JlCofs7g3BxyTUA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.html",
-          "hash": "y1Ebt3QBoaLKEqkTlKRL7A=="
         }
       },
       "is_incremental": false,
@@ -5037,7 +5061,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.html",
-          "hash": "AWD8Qk7fPF4L/MXct7Ozyg=="
+          "hash": "RoIf6a0mLWvrEcJj+gGcwQ=="
         }
       },
       "is_incremental": false,
@@ -8697,7 +8721,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "tpeGcWXFQzxSoZ/6XqQdDA=="
+          "hash": "LDyPEOK9bs3ESkWc4bUw3w=="
         }
       },
       "is_incremental": false,
@@ -8772,7 +8796,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 723,
+          "total_file_count": 725,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

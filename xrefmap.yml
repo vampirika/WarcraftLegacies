@@ -19715,6 +19715,47 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Mechanics.Scourge.SacrificeAcolyte.Setup
   nameWithType: SacrificeAcolyte.Setup
+- uid: WarcraftLegacies.Source.Objectives
+  name: WarcraftLegacies.Source.Objectives
+  href: api-source/WarcraftLegacies.Source.Objectives.html
+  commentId: N:WarcraftLegacies.Source.Objectives
+  fullName: WarcraftLegacies.Source.Objectives
+  nameWithType: WarcraftLegacies.Source.Objectives
+- uid: WarcraftLegacies.Source.Objectives.ObjectivePowerSource
+  name: ObjectivePowerSource
+  href: api-source/WarcraftLegacies.Source.Objectives.ObjectivePowerSource.html
+  commentId: T:WarcraftLegacies.Source.Objectives.ObjectivePowerSource
+  fullName: WarcraftLegacies.Source.Objectives.ObjectivePowerSource
+  nameWithType: ObjectivePowerSource
+- uid: WarcraftLegacies.Source.Objectives.ObjectivePowerSource.#ctor(unit,IEnumerable{item})
+  name: ObjectivePowerSource(unit, IEnumerable<item>)
+  href: api-source/WarcraftLegacies.Source.Objectives.ObjectivePowerSource.html#WarcraftLegacies_Source_Objectives_ObjectivePowerSource__ctor_unit_IEnumerable_item__
+  commentId: M:WarcraftLegacies.Source.Objectives.ObjectivePowerSource.#ctor(unit,IEnumerable{item})
+  name.vb: ObjectivePowerSource(unit, IEnumerable(Of item))
+  fullName: WarcraftLegacies.Source.Objectives.ObjectivePowerSource.ObjectivePowerSource(unit, IEnumerable<item>)
+  fullName.vb: WarcraftLegacies.Source.Objectives.ObjectivePowerSource.ObjectivePowerSource(unit, IEnumerable(Of item))
+  nameWithType: ObjectivePowerSource.ObjectivePowerSource(unit, IEnumerable<item>)
+  nameWithType.vb: ObjectivePowerSource.ObjectivePowerSource(unit, IEnumerable(Of item))
+- uid: WarcraftLegacies.Source.Objectives.ObjectivePowerSource.#ctor*
+  name: ObjectivePowerSource
+  href: api-source/WarcraftLegacies.Source.Objectives.ObjectivePowerSource.html#WarcraftLegacies_Source_Objectives_ObjectivePowerSource__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Objectives.ObjectivePowerSource.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Objectives.ObjectivePowerSource.ObjectivePowerSource
+  nameWithType: ObjectivePowerSource.ObjectivePowerSource
+- uid: WarcraftLegacies.Source.Objectives.ObjectivePowerSource.UsedPowerSource
+  name: UsedPowerSource
+  href: api-source/WarcraftLegacies.Source.Objectives.ObjectivePowerSource.html#WarcraftLegacies_Source_Objectives_ObjectivePowerSource_UsedPowerSource
+  commentId: P:WarcraftLegacies.Source.Objectives.ObjectivePowerSource.UsedPowerSource
+  fullName: WarcraftLegacies.Source.Objectives.ObjectivePowerSource.UsedPowerSource
+  nameWithType: ObjectivePowerSource.UsedPowerSource
+- uid: WarcraftLegacies.Source.Objectives.ObjectivePowerSource.UsedPowerSource*
+  name: UsedPowerSource
+  href: api-source/WarcraftLegacies.Source.Objectives.ObjectivePowerSource.html#WarcraftLegacies_Source_Objectives_ObjectivePowerSource_UsedPowerSource_
+  commentId: Overload:WarcraftLegacies.Source.Objectives.ObjectivePowerSource.UsedPowerSource
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Objectives.ObjectivePowerSource.UsedPowerSource
+  nameWithType: ObjectivePowerSource.UsedPowerSource
 - uid: WarcraftLegacies.Source.PatronSystem
   name: PatronSystem
   href: api-source/WarcraftLegacies.Source.PatronSystem.html
@@ -20520,6 +20561,64 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.RewardDescription
   nameWithType: QuestBrokenOne.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip
+  name: QuestDimensionalShip
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.html
+  commentId: T:WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip
+  nameWithType: QuestDimensionalShip
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.#ctor(Rectangle,MacroTools.PreplacedUnitSystem)
+  name: QuestDimensionalShip(Rectangle, PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.html#WarcraftLegacies_Source_Quests_Draenei_QuestDimensionalShip__ctor_Rectangle_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.#ctor(Rectangle,MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.QuestDimensionalShip(Rectangle, MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestDimensionalShip.QuestDimensionalShip(Rectangle, PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.#ctor*
+  name: QuestDimensionalShip
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.html#WarcraftLegacies_Source_Quests_Draenei_QuestDimensionalShip__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.QuestDimensionalShip
+  nameWithType: QuestDimensionalShip.QuestDimensionalShip
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.html#WarcraftLegacies_Source_Quests_Draenei_QuestDimensionalShip_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.CompletionPopup
+  nameWithType: QuestDimensionalShip.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.html#WarcraftLegacies_Source_Quests_Draenei_QuestDimensionalShip_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.CompletionPopup
+  nameWithType: QuestDimensionalShip.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.html#WarcraftLegacies_Source_Quests_Draenei_QuestDimensionalShip_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestDimensionalShip.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.html#WarcraftLegacies_Source_Quests_Draenei_QuestDimensionalShip_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.OnComplete
+  nameWithType: QuestDimensionalShip.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.html#WarcraftLegacies_Source_Quests_Draenei_QuestDimensionalShip_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.RewardDescription
+  nameWithType: QuestDimensionalShip.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.html#WarcraftLegacies_Source_Quests_Draenei_QuestDimensionalShip_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.RewardDescription
+  nameWithType: QuestDimensionalShip.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation
   name: QuestRebuildCivilisation
   href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.html
@@ -20552,19 +20651,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.CompletionPopup
   nameWithType: QuestRebuildCivilisation.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.OnAdd(MacroTools.FactionSystem.Faction)
-  name: OnAdd(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.html#WarcraftLegacies_Source_Quests_Draenei_QuestRebuildCivilisation_OnAdd_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.OnAdd(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.OnAdd(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestRebuildCivilisation.OnAdd(Faction)
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.OnAdd*
-  name: OnAdd
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.html#WarcraftLegacies_Source_Quests_Draenei_QuestRebuildCivilisation_OnAdd_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.OnAdd
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.OnAdd
-  nameWithType: QuestRebuildCivilisation.OnAdd
 - uid: WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
   href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.html#WarcraftLegacies_Source_Quests_Draenei_QuestRebuildCivilisation_OnComplete_MacroTools_FactionSystem_Faction_
@@ -20636,19 +20722,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.FailurePopup
   nameWithType: QuestRepairExodarHull.FailurePopup
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.OnAdd(MacroTools.FactionSystem.Faction)
-  name: OnAdd(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.html#WarcraftLegacies_Source_Quests_Draenei_QuestRepairExodarHull_OnAdd_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.OnAdd(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.OnAdd(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestRepairExodarHull.OnAdd(Faction)
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.OnAdd*
-  name: OnAdd
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.html#WarcraftLegacies_Source_Quests_Draenei_QuestRepairExodarHull_OnAdd_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.OnAdd
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.OnAdd
-  nameWithType: QuestRepairExodarHull.OnAdd
 - uid: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
   href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.html#WarcraftLegacies_Source_Quests_Draenei_QuestRepairExodarHull_OnComplete_MacroTools_FactionSystem_Faction_
@@ -20746,51 +20819,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Draenei.QuestShipArgus.RewardDescription
   nameWithType: QuestShipArgus.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah
-  name: QuestSurvivorsShattrah
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.html
-  commentId: T:WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah
-  nameWithType: QuestSurvivorsShattrah
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.#ctor
-  name: QuestSurvivorsShattrah()
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.html#WarcraftLegacies_Source_Quests_Draenei_QuestSurvivorsShattrah__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.QuestSurvivorsShattrah()
-  nameWithType: QuestSurvivorsShattrah.QuestSurvivorsShattrah()
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.#ctor*
-  name: QuestSurvivorsShattrah
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.html#WarcraftLegacies_Source_Quests_Draenei_QuestSurvivorsShattrah__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.QuestSurvivorsShattrah
-  nameWithType: QuestSurvivorsShattrah.QuestSurvivorsShattrah
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.CompletionPopup
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.html#WarcraftLegacies_Source_Quests_Draenei_QuestSurvivorsShattrah_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.CompletionPopup
-  nameWithType: QuestSurvivorsShattrah.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.CompletionPopup*
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.html#WarcraftLegacies_Source_Quests_Draenei_QuestSurvivorsShattrah_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.CompletionPopup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.CompletionPopup
-  nameWithType: QuestSurvivorsShattrah.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.html#WarcraftLegacies_Source_Quests_Draenei_QuestSurvivorsShattrah_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.RewardDescription
-  nameWithType: QuestSurvivorsShattrah.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.html#WarcraftLegacies_Source_Quests_Draenei_QuestSurvivorsShattrah_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestSurvivorsShattrah.RewardDescription
-  nameWithType: QuestSurvivorsShattrah.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Draenei.QuestTriumvirate
   name: QuestTriumvirate
   href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestTriumvirate.html
