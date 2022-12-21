@@ -9639,19 +9639,6 @@ references:
   commentId: T:MacroTools.Mechanics.PackableStructure
   fullName: MacroTools.Mechanics.PackableStructure
   nameWithType: PackableStructure
-- uid: MacroTools.Mechanics.PackableStructure.BuildAbility
-  name: BuildAbility
-  href: api-macroTools/MacroTools.Mechanics.PackableStructure.html#MacroTools_Mechanics_PackableStructure_BuildAbility
-  commentId: P:MacroTools.Mechanics.PackableStructure.BuildAbility
-  fullName: MacroTools.Mechanics.PackableStructure.BuildAbility
-  nameWithType: PackableStructure.BuildAbility
-- uid: MacroTools.Mechanics.PackableStructure.BuildAbility*
-  name: BuildAbility
-  href: api-macroTools/MacroTools.Mechanics.PackableStructure.html#MacroTools_Mechanics_PackableStructure_BuildAbility_
-  commentId: Overload:MacroTools.Mechanics.PackableStructure.BuildAbility
-  isSpec: "True"
-  fullName: MacroTools.Mechanics.PackableStructure.BuildAbility
-  nameWithType: PackableStructure.BuildAbility
 - uid: MacroTools.Mechanics.PackableStructure.PackUnitSetup(unit)
   name: PackUnitSetup(unit)
   href: api-macroTools/MacroTools.Mechanics.PackableStructure.html#MacroTools_Mechanics_PackableStructure_PackUnitSetup_unit_
@@ -9678,32 +9665,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Mechanics.PackableStructure.Register
   nameWithType: PackableStructure.Register
-- uid: MacroTools.Mechanics.PackableStructure.StructureId
-  name: StructureId
-  href: api-macroTools/MacroTools.Mechanics.PackableStructure.html#MacroTools_Mechanics_PackableStructure_StructureId
-  commentId: P:MacroTools.Mechanics.PackableStructure.StructureId
-  fullName: MacroTools.Mechanics.PackableStructure.StructureId
-  nameWithType: PackableStructure.StructureId
-- uid: MacroTools.Mechanics.PackableStructure.StructureId*
-  name: StructureId
-  href: api-macroTools/MacroTools.Mechanics.PackableStructure.html#MacroTools_Mechanics_PackableStructure_StructureId_
-  commentId: Overload:MacroTools.Mechanics.PackableStructure.StructureId
-  isSpec: "True"
-  fullName: MacroTools.Mechanics.PackableStructure.StructureId
-  nameWithType: PackableStructure.StructureId
-- uid: MacroTools.Mechanics.PackableStructure.StructureModel
-  name: StructureModel
-  href: api-macroTools/MacroTools.Mechanics.PackableStructure.html#MacroTools_Mechanics_PackableStructure_StructureModel
-  commentId: P:MacroTools.Mechanics.PackableStructure.StructureModel
-  fullName: MacroTools.Mechanics.PackableStructure.StructureModel
-  nameWithType: PackableStructure.StructureModel
-- uid: MacroTools.Mechanics.PackableStructure.StructureModel*
-  name: StructureModel
-  href: api-macroTools/MacroTools.Mechanics.PackableStructure.html#MacroTools_Mechanics_PackableStructure_StructureModel_
-  commentId: Overload:MacroTools.Mechanics.PackableStructure.StructureModel
-  isSpec: "True"
-  fullName: MacroTools.Mechanics.PackableStructure.StructureModel
-  nameWithType: PackableStructure.StructureModel
 - uid: MacroTools.Mechanics.Waygate
   name: Waygate
   href: api-macroTools/MacroTools.Mechanics.Waygate.html
