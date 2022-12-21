@@ -1949,23 +1949,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Mechanics.StructurePacking.PackableStructure.yml",
+      "source_relative_path": "api-macroTools/MacroTools.Mechanics.PackableStructure.yml",
       "output": {
         ".html": {
-          "relative_path": "api-macroTools/MacroTools.Mechanics.StructurePacking.PackableStructure.html",
-          "hash": "u/qkWrBZcfn/mUyWmJFyzw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Mechanics.StructurePacking.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Mechanics.StructurePacking.html",
-          "hash": "8AF2BniZMZoPbp9sXcXkQw=="
+          "relative_path": "api-macroTools/MacroTools.Mechanics.PackableStructure.html",
+          "hash": "DdJq3lISggPRYNal7jRfxQ=="
         }
       },
       "is_incremental": false,
@@ -2001,7 +1989,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Mechanics.html",
-          "hash": "ZDAEEsbcItYYAcux4eMdzQ=="
+          "hash": "KWTB+WXg9hJgWtg+v/duEA=="
         }
       },
       "is_incremental": false,
@@ -3921,7 +3909,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "JueBI06+Bx3DlsMjY9F+KQ=="
+          "hash": "tXXWxNtZyORRHqPgISH5vA=="
         }
       },
       "is_incremental": false,
@@ -4474,6 +4462,30 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Druids.html",
           "hash": "h5Kcg03iWsXTe5ByCJwcKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolfStructurePackingConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolfStructurePackingConfig.html",
+          "hash": "W/R8TiF28hz31VvKXmoRxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.html",
+          "hash": "KORvYosWFIKihjVUnniZ0w=="
         }
       },
       "is_incremental": false,
@@ -7473,7 +7485,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.FrostwolfSetup.html",
-          "hash": "A/FEF71BPL+bQwHBaFRsbw=="
+          "hash": "drMnsuhqWSr7ArFMAhwcxA=="
         }
       },
       "is_incremental": false,
@@ -8673,7 +8685,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "Gp4bJcp6LGKNnCOyB0h2pQ=="
+          "hash": "tpeGcWXFQzxSoZ/6XqQdDA=="
         }
       },
       "is_incremental": false,
@@ -8748,7 +8760,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 721,
+          "total_file_count": 722,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
