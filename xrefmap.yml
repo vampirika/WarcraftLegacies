@@ -27694,12 +27694,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Scourge.QuestPlague
   fullName: WarcraftLegacies.Source.Quests.Scourge.QuestPlague
   nameWithType: QuestPlague
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestPlague.#ctor(MacroTools.FactionSystem.Faction,unit,WarcraftLegacies.Source.Quests.Scourge.PlagueParameters)
-  name: QuestPlague(Faction, unit, PlagueParameters)
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestPlague.html#WarcraftLegacies_Source_Quests_Scourge_QuestPlague__ctor_MacroTools_FactionSystem_Faction_unit_WarcraftLegacies_Source_Quests_Scourge_PlagueParameters_
-  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestPlague.#ctor(MacroTools.FactionSystem.Faction,unit,WarcraftLegacies.Source.Quests.Scourge.PlagueParameters)
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestPlague.QuestPlague(MacroTools.FactionSystem.Faction, unit, WarcraftLegacies.Source.Quests.Scourge.PlagueParameters)
-  nameWithType: QuestPlague.QuestPlague(Faction, unit, PlagueParameters)
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestPlague.#ctor(WarcraftLegacies.Source.Quests.Scourge.PlagueParameters)
+  name: QuestPlague(PlagueParameters)
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestPlague.html#WarcraftLegacies_Source_Quests_Scourge_QuestPlague__ctor_WarcraftLegacies_Source_Quests_Scourge_PlagueParameters_
+  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestPlague.#ctor(WarcraftLegacies.Source.Quests.Scourge.PlagueParameters)
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestPlague.QuestPlague(WarcraftLegacies.Source.Quests.Scourge.PlagueParameters)
+  nameWithType: QuestPlague.QuestPlague(PlagueParameters)
 - uid: WarcraftLegacies.Source.Quests.Scourge.QuestPlague.#ctor*
   name: QuestPlague
   href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestPlague.html#WarcraftLegacies_Source_Quests_Scourge_QuestPlague__ctor_
