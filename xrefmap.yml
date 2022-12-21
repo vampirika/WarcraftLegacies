@@ -12997,6 +12997,38 @@ references:
   isSpec: "True"
   fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLegend.Position
   nameWithType: ObjectiveControlLegend.Position
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel
+  name: ObjectiveControlLevel
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel.html
+  commentId: T:MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel
+  nameWithType: ObjectiveControlLevel
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel.#ctor(MacroTools.ControlPointSystem.ControlPoint,System.Int32)
+  name: ObjectiveControlLevel(ControlPoint, Int32)
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveControlLevel__ctor_MacroTools_ControlPointSystem_ControlPoint_System_Int32_
+  commentId: M:MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel.#ctor(MacroTools.ControlPointSystem.ControlPoint,System.Int32)
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel.ObjectiveControlLevel(MacroTools.ControlPointSystem.ControlPoint, System.Int32)
+  nameWithType: ObjectiveControlLevel.ObjectiveControlLevel(ControlPoint, Int32)
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel.#ctor*
+  name: ObjectiveControlLevel
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveControlLevel__ctor_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel.#ctor
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel.ObjectiveControlLevel
+  nameWithType: ObjectiveControlLevel.ObjectiveControlLevel
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel.Position
+  name: Position
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveControlLevel_Position
+  commentId: P:MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel.Position
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel.Position
+  nameWithType: ObjectiveControlLevel.Position
+- uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel.Position*
+  name: Position
+  href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel.html#MacroTools_QuestSystem_UtilityStructs_ObjectiveControlLevel_Position_
+  commentId: Overload:MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel.Position
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.UtilityStructs.ObjectiveControlLevel.Position
+  nameWithType: ObjectiveControlLevel.Position
 - uid: MacroTools.QuestSystem.UtilityStructs.ObjectiveControlPoint
   name: ObjectiveControlPoint
   href: api-macroTools/MacroTools.QuestSystem.UtilityStructs.ObjectiveControlPoint.html
