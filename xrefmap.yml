@@ -4624,6 +4624,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.ItemExtensions.GetPosition
   nameWithType: ItemExtensions.GetPosition
+- uid: MacroTools.Extensions.ItemExtensions.SetDroppable(item,System.Boolean)
+  name: SetDroppable(item, Boolean)
+  href: api-macroTools/MacroTools.Extensions.ItemExtensions.html#MacroTools_Extensions_ItemExtensions_SetDroppable_item_System_Boolean_
+  commentId: M:MacroTools.Extensions.ItemExtensions.SetDroppable(item,System.Boolean)
+  fullName: MacroTools.Extensions.ItemExtensions.SetDroppable(item, System.Boolean)
+  nameWithType: ItemExtensions.SetDroppable(item, Boolean)
+- uid: MacroTools.Extensions.ItemExtensions.SetDroppable*
+  name: SetDroppable
+  href: api-macroTools/MacroTools.Extensions.ItemExtensions.html#MacroTools_Extensions_ItemExtensions_SetDroppable_
+  commentId: Overload:MacroTools.Extensions.ItemExtensions.SetDroppable
+  isSpec: "True"
+  fullName: MacroTools.Extensions.ItemExtensions.SetDroppable
+  nameWithType: ItemExtensions.SetDroppable
 - uid: MacroTools.Extensions.ItemExtensions.SetPosition(item,Point)
   name: SetPosition(item, Point)
   href: api-macroTools/MacroTools.Extensions.ItemExtensions.html#MacroTools_Extensions_ItemExtensions_SetPosition_item_Point_
@@ -19727,15 +19740,15 @@ references:
   commentId: T:WarcraftLegacies.Source.Objectives.ObjectivePowerSource
   fullName: WarcraftLegacies.Source.Objectives.ObjectivePowerSource
   nameWithType: ObjectivePowerSource
-- uid: WarcraftLegacies.Source.Objectives.ObjectivePowerSource.#ctor(unit,IEnumerable{item})
-  name: ObjectivePowerSource(unit, IEnumerable<item>)
-  href: api-source/WarcraftLegacies.Source.Objectives.ObjectivePowerSource.html#WarcraftLegacies_Source_Objectives_ObjectivePowerSource__ctor_unit_IEnumerable_item__
-  commentId: M:WarcraftLegacies.Source.Objectives.ObjectivePowerSource.#ctor(unit,IEnumerable{item})
-  name.vb: ObjectivePowerSource(unit, IEnumerable(Of item))
-  fullName: WarcraftLegacies.Source.Objectives.ObjectivePowerSource.ObjectivePowerSource(unit, IEnumerable<item>)
-  fullName.vb: WarcraftLegacies.Source.Objectives.ObjectivePowerSource.ObjectivePowerSource(unit, IEnumerable(Of item))
-  nameWithType: ObjectivePowerSource.ObjectivePowerSource(unit, IEnumerable<item>)
-  nameWithType.vb: ObjectivePowerSource.ObjectivePowerSource(unit, IEnumerable(Of item))
+- uid: WarcraftLegacies.Source.Objectives.ObjectivePowerSource.#ctor(unit,IEnumerable{System.Int32})
+  name: ObjectivePowerSource(unit, IEnumerable<Int32>)
+  href: api-source/WarcraftLegacies.Source.Objectives.ObjectivePowerSource.html#WarcraftLegacies_Source_Objectives_ObjectivePowerSource__ctor_unit_IEnumerable_System_Int32__
+  commentId: M:WarcraftLegacies.Source.Objectives.ObjectivePowerSource.#ctor(unit,IEnumerable{System.Int32})
+  name.vb: ObjectivePowerSource(unit, IEnumerable(Of Int32))
+  fullName: WarcraftLegacies.Source.Objectives.ObjectivePowerSource.ObjectivePowerSource(unit, IEnumerable<System.Int32>)
+  fullName.vb: WarcraftLegacies.Source.Objectives.ObjectivePowerSource.ObjectivePowerSource(unit, IEnumerable(Of System.Int32))
+  nameWithType: ObjectivePowerSource.ObjectivePowerSource(unit, IEnumerable<Int32>)
+  nameWithType.vb: ObjectivePowerSource.ObjectivePowerSource(unit, IEnumerable(Of Int32))
 - uid: WarcraftLegacies.Source.Objectives.ObjectivePowerSource.#ctor*
   name: ObjectivePowerSource
   href: api-source/WarcraftLegacies.Source.Objectives.ObjectivePowerSource.html#WarcraftLegacies_Source_Objectives_ObjectivePowerSource__ctor_
