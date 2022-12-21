@@ -24193,6 +24193,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestWildhammer.OnComplete
   nameWithType: QuestWildhammer.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestWildhammer.OnFail(MacroTools.FactionSystem.Faction)
+  name: OnFail(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestWildhammer.html#WarcraftLegacies_Source_Quests_Ironforge_QuestWildhammer_OnFail_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Ironforge.QuestWildhammer.OnFail(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestWildhammer.OnFail(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestWildhammer.OnFail(Faction)
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestWildhammer.OnFail*
+  name: OnFail
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestWildhammer.html#WarcraftLegacies_Source_Quests_Ironforge_QuestWildhammer_OnFail_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Ironforge.QuestWildhammer.OnFail
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestWildhammer.OnFail
+  nameWithType: QuestWildhammer.OnFail
 - uid: WarcraftLegacies.Source.Quests.Ironforge.QuestWildhammer.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestWildhammer.html#WarcraftLegacies_Source_Quests_Ironforge_QuestWildhammer_RewardDescription
