@@ -4864,6 +4864,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.PlayerExtensions.GetBonusIncome
   nameWithType: PlayerExtensions.GetBonusIncome
+- uid: MacroTools.Extensions.PlayerExtensions.GetControlLevelPerTurnBonus(player)
+  name: GetControlLevelPerTurnBonus(player)
+  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_GetControlLevelPerTurnBonus_player_
+  commentId: M:MacroTools.Extensions.PlayerExtensions.GetControlLevelPerTurnBonus(player)
+  fullName: MacroTools.Extensions.PlayerExtensions.GetControlLevelPerTurnBonus(player)
+  nameWithType: PlayerExtensions.GetControlLevelPerTurnBonus(player)
+- uid: MacroTools.Extensions.PlayerExtensions.GetControlLevelPerTurnBonus*
+  name: GetControlLevelPerTurnBonus
+  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_GetControlLevelPerTurnBonus_
+  commentId: Overload:MacroTools.Extensions.PlayerExtensions.GetControlLevelPerTurnBonus
+  isSpec: "True"
+  fullName: MacroTools.Extensions.PlayerExtensions.GetControlLevelPerTurnBonus
+  nameWithType: PlayerExtensions.GetControlLevelPerTurnBonus
 - uid: MacroTools.Extensions.PlayerExtensions.GetControlPointCount(player)
   name: GetControlPointCount(player)
   href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_GetControlPointCount_player_
@@ -5049,6 +5062,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.PlayerExtensions.SetCameraLimits
   nameWithType: PlayerExtensions.SetCameraLimits
+- uid: MacroTools.Extensions.PlayerExtensions.SetControlLevelPerTurnBonus(player,System.Int32)
+  name: SetControlLevelPerTurnBonus(player, Int32)
+  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_SetControlLevelPerTurnBonus_player_System_Int32_
+  commentId: M:MacroTools.Extensions.PlayerExtensions.SetControlLevelPerTurnBonus(player,System.Int32)
+  fullName: MacroTools.Extensions.PlayerExtensions.SetControlLevelPerTurnBonus(player, System.Int32)
+  nameWithType: PlayerExtensions.SetControlLevelPerTurnBonus(player, Int32)
+- uid: MacroTools.Extensions.PlayerExtensions.SetControlLevelPerTurnBonus*
+  name: SetControlLevelPerTurnBonus
+  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_SetControlLevelPerTurnBonus_
+  commentId: Overload:MacroTools.Extensions.PlayerExtensions.SetControlLevelPerTurnBonus
+  isSpec: "True"
+  fullName: MacroTools.Extensions.PlayerExtensions.SetControlLevelPerTurnBonus
+  nameWithType: PlayerExtensions.SetControlLevelPerTurnBonus
 - uid: MacroTools.Extensions.PlayerExtensions.SetFaction(player,MacroTools.FactionSystem.Faction)
   name: SetFaction(player, Faction)
   href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_SetFaction_player_MacroTools_FactionSystem_Faction_
@@ -12871,6 +12897,51 @@ references:
   isSpec: "True"
   fullName: MacroTools.Powers.CityOfHeroes.OnRemove
   nameWithType: CityOfHeroes.OnRemove
+- uid: MacroTools.Powers.ControlLevelPerTurnBonus
+  name: ControlLevelPerTurnBonus
+  href: api-macroTools/MacroTools.Powers.ControlLevelPerTurnBonus.html
+  commentId: T:MacroTools.Powers.ControlLevelPerTurnBonus
+  fullName: MacroTools.Powers.ControlLevelPerTurnBonus
+  nameWithType: ControlLevelPerTurnBonus
+- uid: MacroTools.Powers.ControlLevelPerTurnBonus.#ctor(System.Int32)
+  name: ControlLevelPerTurnBonus(Int32)
+  href: api-macroTools/MacroTools.Powers.ControlLevelPerTurnBonus.html#MacroTools_Powers_ControlLevelPerTurnBonus__ctor_System_Int32_
+  commentId: M:MacroTools.Powers.ControlLevelPerTurnBonus.#ctor(System.Int32)
+  fullName: MacroTools.Powers.ControlLevelPerTurnBonus.ControlLevelPerTurnBonus(System.Int32)
+  nameWithType: ControlLevelPerTurnBonus.ControlLevelPerTurnBonus(Int32)
+- uid: MacroTools.Powers.ControlLevelPerTurnBonus.#ctor*
+  name: ControlLevelPerTurnBonus
+  href: api-macroTools/MacroTools.Powers.ControlLevelPerTurnBonus.html#MacroTools_Powers_ControlLevelPerTurnBonus__ctor_
+  commentId: Overload:MacroTools.Powers.ControlLevelPerTurnBonus.#ctor
+  isSpec: "True"
+  fullName: MacroTools.Powers.ControlLevelPerTurnBonus.ControlLevelPerTurnBonus
+  nameWithType: ControlLevelPerTurnBonus.ControlLevelPerTurnBonus
+- uid: MacroTools.Powers.ControlLevelPerTurnBonus.OnAdd(player)
+  name: OnAdd(player)
+  href: api-macroTools/MacroTools.Powers.ControlLevelPerTurnBonus.html#MacroTools_Powers_ControlLevelPerTurnBonus_OnAdd_player_
+  commentId: M:MacroTools.Powers.ControlLevelPerTurnBonus.OnAdd(player)
+  fullName: MacroTools.Powers.ControlLevelPerTurnBonus.OnAdd(player)
+  nameWithType: ControlLevelPerTurnBonus.OnAdd(player)
+- uid: MacroTools.Powers.ControlLevelPerTurnBonus.OnAdd*
+  name: OnAdd
+  href: api-macroTools/MacroTools.Powers.ControlLevelPerTurnBonus.html#MacroTools_Powers_ControlLevelPerTurnBonus_OnAdd_
+  commentId: Overload:MacroTools.Powers.ControlLevelPerTurnBonus.OnAdd
+  isSpec: "True"
+  fullName: MacroTools.Powers.ControlLevelPerTurnBonus.OnAdd
+  nameWithType: ControlLevelPerTurnBonus.OnAdd
+- uid: MacroTools.Powers.ControlLevelPerTurnBonus.OnRemove(player)
+  name: OnRemove(player)
+  href: api-macroTools/MacroTools.Powers.ControlLevelPerTurnBonus.html#MacroTools_Powers_ControlLevelPerTurnBonus_OnRemove_player_
+  commentId: M:MacroTools.Powers.ControlLevelPerTurnBonus.OnRemove(player)
+  fullName: MacroTools.Powers.ControlLevelPerTurnBonus.OnRemove(player)
+  nameWithType: ControlLevelPerTurnBonus.OnRemove(player)
+- uid: MacroTools.Powers.ControlLevelPerTurnBonus.OnRemove*
+  name: OnRemove
+  href: api-macroTools/MacroTools.Powers.ControlLevelPerTurnBonus.html#MacroTools_Powers_ControlLevelPerTurnBonus_OnRemove_
+  commentId: Overload:MacroTools.Powers.ControlLevelPerTurnBonus.OnRemove
+  isSpec: "True"
+  fullName: MacroTools.Powers.ControlLevelPerTurnBonus.OnRemove
+  nameWithType: ControlLevelPerTurnBonus.OnRemove
 - uid: MacroTools.Powers.DummyPower
   name: DummyPower
   href: api-macroTools/MacroTools.Powers.DummyPower.html

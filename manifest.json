@@ -1269,7 +1269,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.PlayerExtensions.html",
-          "hash": "O59aP+W83HWCqKD20uESvA=="
+          "hash": "A15JPkglY1sYm+VzISb7Bw=="
         }
       },
       "is_incremental": false,
@@ -1401,7 +1401,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Faction.html",
-          "hash": "fuLmg0jWamqy4ZZOlFtzhw=="
+          "hash": "kEGe6vy9yYgJ9IQENOc/1Q=="
         }
       },
       "is_incremental": false,
@@ -1473,7 +1473,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Power.html",
-          "hash": "iPh285hTGUzFSArS7ta8Gg=="
+          "hash": "3ABLkqWo1LsPQvBP2xI3vg=="
         }
       },
       "is_incremental": false,
@@ -2921,6 +2921,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Powers.ControlLevelPerTurnBonus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Powers.ControlLevelPerTurnBonus.html",
+          "hash": "uLGT18RvogUZK1Q5MQeaqg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Powers.DummyPower.yml",
       "output": {
         ".html": {
@@ -3057,7 +3069,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Powers.html",
-          "hash": "X6BAsPUe/1vzenfomuV+Yw=="
+          "hash": "i3MVDa7nLWMmTQV3zpF+uQ=="
         }
       },
       "is_incremental": false,
@@ -3933,7 +3945,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "2PyT6Zr2cPDdRWLixD42zQ=="
+          "hash": "WcDTLT9Tik+GPBc10JlGlg=="
         }
       },
       "is_incremental": false,
@@ -7629,7 +7641,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.LordaeronSetup.html",
-          "hash": "TEiPh31CRbot1eLM6GQGDg=="
+          "hash": "29p0znyqUne/HvdSTPELdw=="
         }
       },
       "is_incremental": false,
@@ -8820,7 +8832,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 727,
+          "total_file_count": 728,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
