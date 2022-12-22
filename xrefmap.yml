@@ -28927,6 +28927,77 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKhadgar.RewardDescription
   nameWithType: QuestKhadgar.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind
+  name: QuestKingdomOfManStormwind
+  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html
+  commentId: T:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind
+  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind
+  nameWithType: QuestKingdomOfManStormwind
+- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.#ctor(MacroTools.ArtifactSystem.Artifact,MacroTools.ArtifactSystem.Artifact)
+  name: QuestKingdomOfManStormwind(Artifact, Artifact)
+  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html#WarcraftLegacies_Source_Quests_Stormwind_QuestKingdomOfManStormwind__ctor_MacroTools_ArtifactSystem_Artifact_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.#ctor(MacroTools.ArtifactSystem.Artifact,MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.QuestKingdomOfManStormwind(MacroTools.ArtifactSystem.Artifact, MacroTools.ArtifactSystem.Artifact)
+  nameWithType: QuestKingdomOfManStormwind.QuestKingdomOfManStormwind(Artifact, Artifact)
+- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.#ctor*
+  name: QuestKingdomOfManStormwind
+  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html#WarcraftLegacies_Source_Quests_Stormwind_QuestKingdomOfManStormwind__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.QuestKingdomOfManStormwind
+  nameWithType: QuestKingdomOfManStormwind.QuestKingdomOfManStormwind
+- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html#WarcraftLegacies_Source_Quests_Stormwind_QuestKingdomOfManStormwind_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.CompletionPopup
+  nameWithType: QuestKingdomOfManStormwind.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html#WarcraftLegacies_Source_Quests_Stormwind_QuestKingdomOfManStormwind_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.CompletionPopup
+  nameWithType: QuestKingdomOfManStormwind.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.OnAdd(MacroTools.FactionSystem.Faction)
+  name: OnAdd(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html#WarcraftLegacies_Source_Quests_Stormwind_QuestKingdomOfManStormwind_OnAdd_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.OnAdd(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.OnAdd(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestKingdomOfManStormwind.OnAdd(Faction)
+- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.OnAdd*
+  name: OnAdd
+  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html#WarcraftLegacies_Source_Quests_Stormwind_QuestKingdomOfManStormwind_OnAdd_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.OnAdd
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.OnAdd
+  nameWithType: QuestKingdomOfManStormwind.OnAdd
+- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html#WarcraftLegacies_Source_Quests_Stormwind_QuestKingdomOfManStormwind_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestKingdomOfManStormwind.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html#WarcraftLegacies_Source_Quests_Stormwind_QuestKingdomOfManStormwind_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.OnComplete
+  nameWithType: QuestKingdomOfManStormwind.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html#WarcraftLegacies_Source_Quests_Stormwind_QuestKingdomOfManStormwind_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.RewardDescription
+  nameWithType: QuestKingdomOfManStormwind.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html#WarcraftLegacies_Source_Quests_Stormwind_QuestKingdomOfManStormwind_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.RewardDescription
+  nameWithType: QuestKingdomOfManStormwind.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Stormwind.QuestLakeshire
   name: QuestLakeshire
   href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestLakeshire.html
@@ -35804,12 +35875,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup
   nameWithType: StormwindQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_StormwindQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: StormwindQuestSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  name: Setup(PreplacedUnitSystem, ArtifactSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_StormwindQuestSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_ArtifactSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.ArtifactSetup)
+  nameWithType: StormwindQuestSetup.Setup(PreplacedUnitSystem, ArtifactSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_StormwindQuestSetup_Setup_

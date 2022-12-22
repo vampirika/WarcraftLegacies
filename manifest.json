@@ -6045,7 +6045,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestKingdomOfManLordaeron.html",
-          "hash": "eTYyVYjT3VIlxkj7hozsyw=="
+          "hash": "nzgATn5OlDMk34WAYBATYA=="
         }
       },
       "is_incremental": false,
@@ -6117,7 +6117,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.html",
-          "hash": "67s7NT8vtsqoch13Hz/rUw=="
+          "hash": "J7JJbHcyumJUYAduXfqbfA=="
         }
       },
       "is_incremental": false,
@@ -6737,6 +6737,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestKingdomOfManStormwind.html",
+          "hash": "JVFfIHXyqGt+1hPCCsDJUg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestLakeshire.yml",
       "output": {
         ".html": {
@@ -6789,7 +6801,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Stormwind.html",
-          "hash": "hw3gO/nkzTwIIV52Pe4PcA=="
+          "hash": "bNeSlTC4P0Y+i0Ck2h6z5g=="
         }
       },
       "is_incremental": false,
@@ -8361,7 +8373,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.html",
-          "hash": "oxGu1OvRSDoP34LtgQGwZA=="
+          "hash": "6NoQHGHm7rjyF6FxfE3blA=="
         }
       },
       "is_incremental": false,
@@ -8757,7 +8769,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "scpL1WrgyW4CAqTLka8YFg=="
+          "hash": "n3vKxKKR2hGC57gZ4EfJTA=="
         }
       },
       "is_incremental": false,
@@ -8832,7 +8844,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 728,
+          "total_file_count": 729,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
