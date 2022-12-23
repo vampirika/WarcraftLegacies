@@ -5217,7 +5217,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Druids.QuestDruidsKillWarsong.html",
-          "hash": "rSGbZZQsB/3kAZxUu4ktPg=="
+          "hash": "oip7Uxs/86GRCvxBxQmc7A=="
         }
       },
       "is_incremental": false,
@@ -5637,7 +5637,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.html",
-          "hash": "YK4/z14HftbWirfqdKlbvw=="
+          "hash": "/3VN3TIvxiXeGTnuCOz/vQ=="
         }
       },
       "is_incremental": false,
@@ -5650,18 +5650,6 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Goblin.QuestExplosiveEngineering.html",
           "hash": "C8mn8/eUOIrDuR66mQ3E8A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Goblin.QuestGadgetzan.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Goblin.QuestGadgetzan.html",
-          "hash": "uAfWtPV8ALAN7mjBfQQtVQ=="
         }
       },
       "is_incremental": false,
@@ -5709,7 +5697,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Goblin.html",
-          "hash": "Tvu5BV1DzuT21XIqzUDjZA=="
+          "hash": "01hB5hxHum/ZmbsEDECS1A=="
         }
       },
       "is_incremental": false,
@@ -8769,7 +8757,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "n3vKxKKR2hGC57gZ4EfJTA=="
+          "hash": "9APAaK8NqYwaP3Zsm7JjYw=="
         }
       },
       "is_incremental": false,
@@ -8844,7 +8832,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 729,
+          "total_file_count": 728,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
