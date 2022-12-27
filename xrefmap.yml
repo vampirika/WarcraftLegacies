@@ -22680,6 +22680,77 @@ references:
   commentId: N:WarcraftLegacies.Source.Quests.Frostwolf
   fullName: WarcraftLegacies.Source.Quests.Frostwolf
   nameWithType: WarcraftLegacies.Source.Quests.Frostwolf
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear
+  name: QuestDarkspear
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.html
+  commentId: T:WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear
+  nameWithType: QuestDarkspear
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.#ctor
+  name: QuestDarkspear()
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestDarkspear__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.#ctor
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.QuestDarkspear()
+  nameWithType: QuestDarkspear.QuestDarkspear()
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.#ctor*
+  name: QuestDarkspear
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestDarkspear__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.QuestDarkspear
+  nameWithType: QuestDarkspear.QuestDarkspear
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestDarkspear_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.CompletionPopup
+  nameWithType: QuestDarkspear.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestDarkspear_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.CompletionPopup
+  nameWithType: QuestDarkspear.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestDarkspear_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestDarkspear.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestDarkspear_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.OnComplete
+  nameWithType: QuestDarkspear.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.OnFail(MacroTools.FactionSystem.Faction)
+  name: OnFail(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestDarkspear_OnFail_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.OnFail(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.OnFail(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestDarkspear.OnFail(Faction)
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.OnFail*
+  name: OnFail
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestDarkspear_OnFail_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.OnFail
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.OnFail
+  nameWithType: QuestDarkspear.OnFail
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestDarkspear_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.RewardDescription
+  nameWithType: QuestDarkspear.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestDarkspear_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.RewardDescription
+  nameWithType: QuestDarkspear.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestDrektharsSpellbook
   name: QuestDrektharsSpellbook
   href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestDrektharsSpellbook.html
@@ -22905,12 +22976,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff
   fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff
   nameWithType: QuestThunderBluff
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.#ctor(MacroTools.PreplacedUnitSystem,rect)
-  name: QuestThunderBluff(PreplacedUnitSystem, rect)
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestThunderBluff__ctor_MacroTools_PreplacedUnitSystem_rect_
-  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.#ctor(MacroTools.PreplacedUnitSystem,rect)
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.QuestThunderBluff(MacroTools.PreplacedUnitSystem, rect)
-  nameWithType: QuestThunderBluff.QuestThunderBluff(PreplacedUnitSystem, rect)
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.#ctor(MacroTools.PreplacedUnitSystem,Rectangle)
+  name: QuestThunderBluff(PreplacedUnitSystem, Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestThunderBluff__ctor_MacroTools_PreplacedUnitSystem_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.#ctor(MacroTools.PreplacedUnitSystem,Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.QuestThunderBluff(MacroTools.PreplacedUnitSystem, Rectangle)
+  nameWithType: QuestThunderBluff.QuestThunderBluff(PreplacedUnitSystem, Rectangle)
 - uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.#ctor*
   name: QuestThunderBluff
   href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestThunderBluff__ctor_
@@ -33653,6 +33724,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.LegendThunderbluff
   nameWithType: LegendFrostwolf.LegendThunderbluff
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.LegendVolJin
+  name: LegendVolJin
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.html#WarcraftLegacies_Source_Setup_Legends_LegendFrostwolf_LegendVolJin
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.LegendVolJin
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.LegendVolJin
+  nameWithType: LegendFrostwolf.LegendVolJin
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.LegendVolJin*
+  name: LegendVolJin
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.html#WarcraftLegacies_Source_Setup_Legends_LegendFrostwolf_LegendVolJin_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.LegendVolJin
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.LegendVolJin
+  nameWithType: LegendFrostwolf.LegendVolJin
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.Setup(MacroTools.PreplacedUnitSystem)
   name: Setup(PreplacedUnitSystem)
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.html#WarcraftLegacies_Source_Setup_Legends_LegendFrostwolf_Setup_MacroTools_PreplacedUnitSystem_
