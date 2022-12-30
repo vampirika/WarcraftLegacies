@@ -24967,12 +24967,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Legion.QuestEmbassy
   fullName: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy
   nameWithType: QuestEmbassy
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.#ctor
-  name: QuestEmbassy()
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.html#WarcraftLegacies_Source_Quests_Legion_QuestEmbassy__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.QuestEmbassy()
-  nameWithType: QuestEmbassy.QuestEmbassy()
+- uid: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.#ctor(Rectangle,Rectangle)
+  name: QuestEmbassy(Rectangle, Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.html#WarcraftLegacies_Source_Quests_Legion_QuestEmbassy__ctor_Rectangle_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.#ctor(Rectangle,Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.QuestEmbassy(Rectangle, Rectangle)
+  nameWithType: QuestEmbassy.QuestEmbassy(Rectangle, Rectangle)
 - uid: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.#ctor*
   name: QuestEmbassy
   href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.html#WarcraftLegacies_Source_Quests_Legion_QuestEmbassy__ctor_
@@ -26201,6 +26201,77 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Naga.QuestRegroupCastaway.RewardDescription
   nameWithType: QuestRegroupCastaway.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar
+  name: QuestSuramar
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html
+  commentId: T:WarcraftLegacies.Source.Quests.Naga.QuestSuramar
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar
+  nameWithType: QuestSuramar
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.#ctor(Rectangle)
+  name: QuestSuramar(Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar__ctor_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.#ctor(Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.QuestSuramar(Rectangle)
+  nameWithType: QuestSuramar.QuestSuramar(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.#ctor*
+  name: QuestSuramar
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.QuestSuramar
+  nameWithType: QuestSuramar.QuestSuramar
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.CompletionPopup
+  nameWithType: QuestSuramar.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.CompletionPopup
+  nameWithType: QuestSuramar.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestSuramar.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnComplete
+  nameWithType: QuestSuramar.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnFail(MacroTools.FactionSystem.Faction)
+  name: OnFail(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar_OnFail_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnFail(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnFail(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestSuramar.OnFail(Faction)
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnFail*
+  name: OnFail
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar_OnFail_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnFail
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnFail
+  nameWithType: QuestSuramar.OnFail
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.RewardDescription
+  nameWithType: QuestSuramar.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.RewardDescription
+  nameWithType: QuestSuramar.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Quelthalas
   name: WarcraftLegacies.Source.Quests.Quelthalas
   href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.html

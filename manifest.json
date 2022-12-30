@@ -5937,7 +5937,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.html",
-          "hash": "sRiJ3bdLQligeyWPUpfpWQ=="
+          "hash": "WceG1ZJWM7YEUzFToivIbg=="
         }
       },
       "is_incremental": false,
@@ -6197,11 +6197,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html",
+          "hash": "aeXcelErocPAZwOpszGk1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.html",
-          "hash": "wTV0dkGAtJuNigfX4pg7XQ=="
+          "hash": "CHNaprg1K3ntCDgXe3N51g=="
         }
       },
       "is_incremental": false,
@@ -6717,7 +6729,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestHonorHold.html",
-          "hash": "ATDekZ7iDLuX0GVJQgV98w=="
+          "hash": "Uc+2QEIeTprHEoNE1Fk+UA=="
         }
       },
       "is_incremental": false,
@@ -8769,7 +8781,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "rQDSKycuYdOVx/FNP9PYeA=="
+          "hash": "4zUNoOvGIIui1H8gtw7VBA=="
         }
       },
       "is_incremental": false,
@@ -8844,7 +8856,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 729,
+          "total_file_count": 730,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
