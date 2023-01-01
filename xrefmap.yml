@@ -6318,12 +6318,12 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.SetName
   nameWithType: UnitExtensions.SetName
-- uid: MacroTools.Extensions.UnitExtensions.SetOwner(unit,player)
-  name: SetOwner(unit, player)
-  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetOwner_unit_player_
-  commentId: M:MacroTools.Extensions.UnitExtensions.SetOwner(unit,player)
-  fullName: MacroTools.Extensions.UnitExtensions.SetOwner(unit, player)
-  nameWithType: UnitExtensions.SetOwner(unit, player)
+- uid: MacroTools.Extensions.UnitExtensions.SetOwner(unit,player,System.Boolean)
+  name: SetOwner(unit, player, Boolean)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetOwner_unit_player_System_Boolean_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetOwner(unit,player,System.Boolean)
+  fullName: MacroTools.Extensions.UnitExtensions.SetOwner(unit, player, System.Boolean)
+  nameWithType: UnitExtensions.SetOwner(unit, player, Boolean)
 - uid: MacroTools.Extensions.UnitExtensions.SetOwner*
   name: SetOwner
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetOwner_
@@ -33892,19 +33892,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Goldrinn
   nameWithType: LegendGilneas.Goldrinn
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LightDawn
-  name: LightDawn
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_LightDawn
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LightDawn
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LightDawn
-  nameWithType: LegendGilneas.LightDawn
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LightDawn*
-  name: LightDawn
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_LightDawn_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LightDawn
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.NorthshireAbbey
+  name: NorthshireAbbey
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_NorthshireAbbey
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.NorthshireAbbey
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.NorthshireAbbey
+  nameWithType: LegendGilneas.NorthshireAbbey
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.NorthshireAbbey*
+  name: NorthshireAbbey
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_NorthshireAbbey_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.NorthshireAbbey
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LightDawn
-  nameWithType: LegendGilneas.LightDawn
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.NorthshireAbbey
+  nameWithType: LegendGilneas.NorthshireAbbey
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Setup
   name: Setup()
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_Setup

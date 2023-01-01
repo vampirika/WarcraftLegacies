@@ -3157,19 +3157,19 @@ such that it changes ownership to the attacker when reduced below 0 hit points.<
   </table>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Extensions_UnitExtensions_SetOwner_unit_player_.md&amp;value=---%0Auid%3A%20MacroTools.Extensions.UnitExtensions.SetOwner(unit%2Cplayer)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Extensions_UnitExtensions_SetOwner_unit_player_System_Boolean_.md&amp;value=---%0Auid%3A%20MacroTools.Extensions.UnitExtensions.SetOwner(unit%2Cplayer%2CSystem.Boolean)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Extensions/UnitExtensions.cs/#L315">View Source</a>
   </span>
   <a id="MacroTools_Extensions_UnitExtensions_SetOwner_" data-uid="MacroTools.Extensions.UnitExtensions.SetOwner*"></a>
-  <h4 id="MacroTools_Extensions_UnitExtensions_SetOwner_unit_player_" data-uid="MacroTools.Extensions.UnitExtensions.SetOwner(unit,player)">SetOwner(unit, player)</h4>
+  <h4 id="MacroTools_Extensions_UnitExtensions_SetOwner_unit_player_System_Boolean_" data-uid="MacroTools.Extensions.UnitExtensions.SetOwner(unit,player,System.Boolean)">SetOwner(unit, player, Boolean)</h4>
   <div class="markdown level1 summary"><p>Changess the unit's owner to the specified player.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static unit SetOwner(this unit unit, player whichPlayer)</code></pre>
+    <pre><code class="lang-csharp hljs">public static unit SetOwner(this unit unit, player whichPlayer, bool changeColor = true)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -3189,6 +3189,11 @@ such that it changes ownership to the attacker when reduced below 0 hit points.<
       <tr>
         <td><span class="xref">player</span></td>
         <td><span class="parametername">whichPlayer</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><span class="parametername">changeColor</span></td>
         <td></td>
       </tr>
     </tbody>
