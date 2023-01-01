@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class WarningLogger
+    <title>Class Logger
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class WarningLogger
+    <meta name="title" content="Class Logger
    ">
     <meta name="generator" content="docfx 2.56.7.0">
     
@@ -68,42 +68,42 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="MacroTools.WarningLogger">
+            <article class="content wrap" id="_content" data-uid="MacroTools.Logger">
   
   
-  <h1 id="MacroTools_WarningLogger" data-uid="MacroTools.WarningLogger" class="text-break">Class WarningLogger
+  <h1 id="MacroTools_Logger" data-uid="MacroTools.Logger" class="text-break">Class Logger
   </h1>
-  <div class="markdown level0 summary"><p>Responsible for logging warnings.</p>
+  <div class="markdown level0 summary"><p>Responsible for logging formatted warnings and errors.</p>
 </div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><span class="xref">System.Object</span></div>
-    <div class="level1"><span class="xref">WarningLogger</span></div>
+    <div class="level1"><span class="xref">Logger</span></div>
   </div>
   <h6><strong>Namespace</strong>: <a class="xref" href="MacroTools.html">MacroTools</a></h6>
   <h6><strong>Assembly</strong>: MacroTools.dll</h6>
-  <h5 id="MacroTools_WarningLogger_syntax">Syntax</h5>
+  <h5 id="MacroTools_Logger_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static class WarningLogger : object</code></pre>
+    <pre><code class="lang-csharp hljs">public static class Logger : object</code></pre>
   </div>
   <h3 id="methods">Methods
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_WarningLogger_Log_System_String_.md&amp;value=---%0Auid%3A%20MacroTools.WarningLogger.Log(System.String)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Logger_LogError_System_String_.md&amp;value=---%0Auid%3A%20MacroTools.Logger.LogError(System.String)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/WarningLogger.cs/#L13">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Logger.cs/#L18">View Source</a>
   </span>
-  <a id="MacroTools_WarningLogger_Log_" data-uid="MacroTools.WarningLogger.Log*"></a>
-  <h4 id="MacroTools_WarningLogger_Log_System_String_" data-uid="MacroTools.WarningLogger.Log(System.String)">Log(String)</h4>
-  <div class="markdown level1 summary"><p>Logs a warning visible to all players.</p>
+  <a id="MacroTools_Logger_LogError_" data-uid="MacroTools.Logger.LogError*"></a>
+  <h4 id="MacroTools_Logger_LogError_System_String_" data-uid="MacroTools.Logger.LogError(System.String)">LogError(String)</h4>
+  <div class="markdown level1 summary"><p>Logs an error visible to all players.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static void Log(string warning)</code></pre>
+    <pre><code class="lang-csharp hljs">public static void LogError(string message)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -117,7 +117,40 @@
     <tbody>
       <tr>
         <td><span class="xref">System.String</span></td>
-        <td><span class="parametername">warning</span></td>
+        <td><span class="parametername">message</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Logger_LogWarning_System_String_.md&amp;value=---%0Auid%3A%20MacroTools.Logger.LogWarning(System.String)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Logger.cs/#L13">View Source</a>
+  </span>
+  <a id="MacroTools_Logger_LogWarning_" data-uid="MacroTools.Logger.LogWarning*"></a>
+  <h4 id="MacroTools_Logger_LogWarning_System_String_" data-uid="MacroTools.Logger.LogWarning(System.String)">LogWarning(String)</h4>
+  <div class="markdown level1 summary"><p>Logs a warning visible to all players.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void LogWarning(string message)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">message</span></td>
         <td></td>
       </tr>
     </tbody>
@@ -130,10 +163,10 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_WarningLogger.md&amp;value=---%0Auid%3A%20MacroTools.WarningLogger%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Logger.md&amp;value=---%0Auid%3A%20MacroTools.Logger%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/WarningLogger.cs/#L8" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Logger.cs/#L8" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>

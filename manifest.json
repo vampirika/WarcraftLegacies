@@ -1889,6 +1889,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Logger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Logger.html",
+          "hash": "2qg6gPsM62pp4UJDoxkHcA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Mechanics.DemonGates.DemonGateBuff.yml",
       "output": {
         ".html": {
@@ -3845,18 +3857,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.WarningLogger.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.WarningLogger.html",
-          "hash": "5NLUaRdZBEKIaXQRqxu/hQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Wrappers.EaxExtensions.yml",
       "output": {
         ".html": {
@@ -3933,7 +3933,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.html",
-          "hash": "0s5mKKkM1H/PzLz9gCB2tQ=="
+          "hash": "ctjR2tynq2jBYlC6NYVtew=="
         }
       },
       "is_incremental": false,
@@ -3945,7 +3945,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "WcDTLT9Tik+GPBc10JlGlg=="
+          "hash": "FXXw6r0Hyo40UW0CMiLbrw=="
         }
       },
       "is_incremental": false,
@@ -4869,7 +4869,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Program.html",
-          "hash": "jaSZSTrBDGeDzyVGrpmNkw=="
+          "hash": "7NMG3hdxmWC5ZV4AHr8EVQ=="
         }
       },
       "is_incremental": false,

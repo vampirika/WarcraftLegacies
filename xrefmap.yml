@@ -9415,6 +9415,38 @@ references:
   commentId: F:MacroTools.Libraries.MathEx.RadToDeg
   fullName: MacroTools.Libraries.MathEx.RadToDeg
   nameWithType: MathEx.RadToDeg
+- uid: MacroTools.Logger
+  name: Logger
+  href: api-macroTools/MacroTools.Logger.html
+  commentId: T:MacroTools.Logger
+  fullName: MacroTools.Logger
+  nameWithType: Logger
+- uid: MacroTools.Logger.LogError(System.String)
+  name: LogError(String)
+  href: api-macroTools/MacroTools.Logger.html#MacroTools_Logger_LogError_System_String_
+  commentId: M:MacroTools.Logger.LogError(System.String)
+  fullName: MacroTools.Logger.LogError(System.String)
+  nameWithType: Logger.LogError(String)
+- uid: MacroTools.Logger.LogError*
+  name: LogError
+  href: api-macroTools/MacroTools.Logger.html#MacroTools_Logger_LogError_
+  commentId: Overload:MacroTools.Logger.LogError
+  isSpec: "True"
+  fullName: MacroTools.Logger.LogError
+  nameWithType: Logger.LogError
+- uid: MacroTools.Logger.LogWarning(System.String)
+  name: LogWarning(String)
+  href: api-macroTools/MacroTools.Logger.html#MacroTools_Logger_LogWarning_System_String_
+  commentId: M:MacroTools.Logger.LogWarning(System.String)
+  fullName: MacroTools.Logger.LogWarning(System.String)
+  nameWithType: Logger.LogWarning(String)
+- uid: MacroTools.Logger.LogWarning*
+  name: LogWarning
+  href: api-macroTools/MacroTools.Logger.html#MacroTools_Logger_LogWarning_
+  commentId: Overload:MacroTools.Logger.LogWarning
+  isSpec: "True"
+  fullName: MacroTools.Logger.LogWarning
+  nameWithType: Logger.LogWarning
 - uid: MacroTools.Mechanics
   name: MacroTools.Mechanics
   href: api-macroTools/MacroTools.Mechanics.html
@@ -17849,25 +17881,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.UserInterface.FactionMultiboard.Setup
   nameWithType: FactionMultiboard.Setup
-- uid: MacroTools.WarningLogger
-  name: WarningLogger
-  href: api-macroTools/MacroTools.WarningLogger.html
-  commentId: T:MacroTools.WarningLogger
-  fullName: MacroTools.WarningLogger
-  nameWithType: WarningLogger
-- uid: MacroTools.WarningLogger.Log(System.String)
-  name: Log(String)
-  href: api-macroTools/MacroTools.WarningLogger.html#MacroTools_WarningLogger_Log_System_String_
-  commentId: M:MacroTools.WarningLogger.Log(System.String)
-  fullName: MacroTools.WarningLogger.Log(System.String)
-  nameWithType: WarningLogger.Log(String)
-- uid: MacroTools.WarningLogger.Log*
-  name: Log
-  href: api-macroTools/MacroTools.WarningLogger.html#MacroTools_WarningLogger_Log_
-  commentId: Overload:MacroTools.WarningLogger.Log
-  isSpec: "True"
-  fullName: MacroTools.WarningLogger.Log
-  nameWithType: WarningLogger.Log
 - uid: MacroTools.Wrappers
   name: MacroTools.Wrappers
   href: api-macroTools/MacroTools.Wrappers.html
