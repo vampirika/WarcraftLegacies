@@ -30615,6 +30615,31 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Researches.Lordaeron.VeteranFootmen.Setup
   nameWithType: VeteranFootmen.Setup
+- uid: WarcraftLegacies.Source.Researches.Scourge
+  name: WarcraftLegacies.Source.Researches.Scourge
+  href: api-source/WarcraftLegacies.Source.Researches.Scourge.html
+  commentId: N:WarcraftLegacies.Source.Researches.Scourge
+  fullName: WarcraftLegacies.Source.Researches.Scourge
+  nameWithType: WarcraftLegacies.Source.Researches.Scourge
+- uid: WarcraftLegacies.Source.Researches.Scourge.Revenants
+  name: Revenants
+  href: api-source/WarcraftLegacies.Source.Researches.Scourge.Revenants.html
+  commentId: T:WarcraftLegacies.Source.Researches.Scourge.Revenants
+  fullName: WarcraftLegacies.Source.Researches.Scourge.Revenants
+  nameWithType: Revenants
+- uid: WarcraftLegacies.Source.Researches.Scourge.Revenants.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Researches.Scourge.Revenants.html#WarcraftLegacies_Source_Researches_Scourge_Revenants_Setup
+  commentId: M:WarcraftLegacies.Source.Researches.Scourge.Revenants.Setup
+  fullName: WarcraftLegacies.Source.Researches.Scourge.Revenants.Setup()
+  nameWithType: Revenants.Setup()
+- uid: WarcraftLegacies.Source.Researches.Scourge.Revenants.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Researches.Scourge.Revenants.html#WarcraftLegacies_Source_Researches_Scourge_Revenants_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Researches.Scourge.Revenants.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Researches.Scourge.Revenants.Setup
+  nameWithType: Revenants.Setup
 - uid: WarcraftLegacies.Source.Researches.Stormwind
   name: WarcraftLegacies.Source.Researches.Stormwind
   href: api-source/WarcraftLegacies.Source.Researches.Stormwind.html
@@ -36143,25 +36168,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Spells.FelHordeSpellSetup.Setup
   nameWithType: FelHordeSpellSetup.Setup
-- uid: WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup
-  name: ForsakenSpellSetup
-  href: api-source/WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.html
-  commentId: T:WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup
-  fullName: WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup
-  nameWithType: ForsakenSpellSetup
-- uid: WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_ForsakenSpellSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.Setup()
-  nameWithType: ForsakenSpellSetup.Setup()
-- uid: WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_ForsakenSpellSetup_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.Setup
-  nameWithType: ForsakenSpellSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.Spells.FrostwolfSpellSetup
   name: FrostwolfSpellSetup
   href: api-source/WarcraftLegacies.Source.Setup.Spells.FrostwolfSpellSetup.html

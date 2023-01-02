@@ -7121,6 +7121,30 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Scourge.Revenants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Researches.Scourge.Revenants.html",
+          "hash": "6UzcXFmq5Kv69ExRWBKNrw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Scourge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Researches.Scourge.html",
+          "hash": "rWcQkNX41KTMRPnKxx+WWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierBattleTactics.yml",
       "output": {
         ".html": {
@@ -8433,7 +8457,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.ResearchSetup.html",
-          "hash": "ZVW3ORdBthjdMIhVBgEtDA=="
+          "hash": "F5WLxaxARNa2eSUhUuLavg=="
         }
       },
       "is_incremental": false,
@@ -8494,18 +8518,6 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.FelHordeSpellSetup.html",
           "hash": "g5yvynOtqpsNxiXMFuXESg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.ForsakenSpellSetup.html",
-          "hash": "DB6qyrut5cwecUYuocm+9w=="
         }
       },
       "is_incremental": false,
@@ -8613,7 +8625,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.ScourgeSpellSetup.html",
-          "hash": "HEs4g3IBN/tNuWpuZiIXVA=="
+          "hash": "12N0hhF009lmP51Pk7Yg8g=="
         }
       },
       "is_incremental": false,
@@ -8637,7 +8649,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.html",
-          "hash": "A8KoKyNW6xixPsMDqtVO9g=="
+          "hash": "WCKppLghPdjYF+dFwXfzxQ=="
         }
       },
       "is_incremental": false,
@@ -8781,7 +8793,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "4zUNoOvGIIui1H8gtw7VBA=="
+          "hash": "W6NUZoLxGDwaMx9bXyT+eQ=="
         }
       },
       "is_incremental": false,
@@ -8856,7 +8868,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 730,
+          "total_file_count": 731,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
