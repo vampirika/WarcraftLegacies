@@ -1125,7 +1125,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html",
-          "hash": "MwcD/XYI5dy9gvu/nxc68A=="
+          "hash": "RzTJ0qqxCKmY54f/77D6Eg=="
         }
       },
       "is_incremental": false,
@@ -1714,6 +1714,18 @@
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Instances.html",
           "hash": "plmmUtNae2dnTzIjLm6D2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.IntegrityChecker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.IntegrityChecker.html",
+          "hash": "BtwaAJDURgA9bFsWdbIhGQ=="
         }
       },
       "is_incremental": false,
@@ -3933,7 +3945,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.html",
-          "hash": "ctjR2tynq2jBYlC6NYVtew=="
+          "hash": "H35vU/CayygGQDyuG1ygvQ=="
         }
       },
       "is_incremental": false,
@@ -3945,7 +3957,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "FXXw6r0Hyo40UW0CMiLbrw=="
+          "hash": "WhTgIwtRMpW+Uv3Xm95Uow=="
         }
       },
       "is_incremental": false,
@@ -8868,7 +8880,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 731,
+          "total_file_count": 732,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

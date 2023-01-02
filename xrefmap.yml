@@ -4153,6 +4153,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.ControlPointSystem.ControlPointManager.ControlLevelSettings
   nameWithType: ControlPointManager.ControlLevelSettings
+- uid: MacroTools.ControlPointSystem.ControlPointManager.GetAllControlPoints
+  name: GetAllControlPoints()
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_GetAllControlPoints
+  commentId: M:MacroTools.ControlPointSystem.ControlPointManager.GetAllControlPoints
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.GetAllControlPoints()
+  nameWithType: ControlPointManager.GetAllControlPoints()
+- uid: MacroTools.ControlPointSystem.ControlPointManager.GetAllControlPoints*
+  name: GetAllControlPoints
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_GetAllControlPoints_
+  commentId: Overload:MacroTools.ControlPointSystem.ControlPointManager.GetAllControlPoints
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.GetAllControlPoints
+  nameWithType: ControlPointManager.GetAllControlPoints
 - uid: MacroTools.ControlPointSystem.ControlPointManager.GetFromUnitType(System.Int32)
   name: GetFromUnitType(Int32)
   href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_GetFromUnitType_System_Int32_
@@ -8525,6 +8538,25 @@ references:
   isSpec: "True"
   fullName: MacroTools.Instances.InstanceSystem.Register
   nameWithType: InstanceSystem.Register
+- uid: MacroTools.IntegrityChecker
+  name: IntegrityChecker
+  href: api-macroTools/MacroTools.IntegrityChecker.html
+  commentId: T:MacroTools.IntegrityChecker
+  fullName: MacroTools.IntegrityChecker
+  nameWithType: IntegrityChecker
+- uid: MacroTools.IntegrityChecker.Setup
+  name: Setup()
+  href: api-macroTools/MacroTools.IntegrityChecker.html#MacroTools_IntegrityChecker_Setup
+  commentId: M:MacroTools.IntegrityChecker.Setup
+  fullName: MacroTools.IntegrityChecker.Setup()
+  nameWithType: IntegrityChecker.Setup()
+- uid: MacroTools.IntegrityChecker.Setup*
+  name: Setup
+  href: api-macroTools/MacroTools.IntegrityChecker.html#MacroTools_IntegrityChecker_Setup_
+  commentId: Overload:MacroTools.IntegrityChecker.Setup
+  isSpec: "True"
+  fullName: MacroTools.IntegrityChecker.Setup
+  nameWithType: IntegrityChecker.Setup
 - uid: MacroTools.LegendSystem
   name: MacroTools.LegendSystem
   href: api-macroTools/MacroTools.LegendSystem.html
