@@ -8936,6 +8936,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.LegendSystem.LegendaryHero.PlayerColor
   nameWithType: LegendaryHero.PlayerColor
+- uid: MacroTools.LegendSystem.LegendaryHero.StartingArtifactItemTypeIds
+  name: StartingArtifactItemTypeIds
+  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_StartingArtifactItemTypeIds
+  commentId: P:MacroTools.LegendSystem.LegendaryHero.StartingArtifactItemTypeIds
+  fullName: MacroTools.LegendSystem.LegendaryHero.StartingArtifactItemTypeIds
+  nameWithType: LegendaryHero.StartingArtifactItemTypeIds
+- uid: MacroTools.LegendSystem.LegendaryHero.StartingArtifactItemTypeIds*
+  name: StartingArtifactItemTypeIds
+  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_StartingArtifactItemTypeIds_
+  commentId: Overload:MacroTools.LegendSystem.LegendaryHero.StartingArtifactItemTypeIds
+  isSpec: "True"
+  fullName: MacroTools.LegendSystem.LegendaryHero.StartingArtifactItemTypeIds
+  nameWithType: LegendaryHero.StartingArtifactItemTypeIds
 - uid: MacroTools.LegendSystem.LegendaryHero.StartingXp
   name: StartingXp
   href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_StartingXp
@@ -31162,19 +31175,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.EyeOfSargeras
   nameWithType: ArtifactSetup.EyeOfSargeras
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.Ghanir
-  name: Ghanir
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_Ghanir
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.Ghanir
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.Ghanir
-  nameWithType: ArtifactSetup.Ghanir
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.Ghanir*
-  name: Ghanir
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_Ghanir_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.Ghanir
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.Ghanir
-  nameWithType: ArtifactSetup.Ghanir
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.HelmOfDomination
   name: HelmOfDomination
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_HelmOfDomination
