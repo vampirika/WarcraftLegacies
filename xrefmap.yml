@@ -22313,6 +22313,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.CompletionPopup
   nameWithType: QuestHellfireCitadel.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.OnAdd(MacroTools.FactionSystem.Faction)
+  name: OnAdd(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestHellfireCitadel_OnAdd_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.OnAdd(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.OnAdd(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestHellfireCitadel.OnAdd(Faction)
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.OnAdd*
+  name: OnAdd
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestHellfireCitadel_OnAdd_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.OnAdd
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.OnAdd
+  nameWithType: QuestHellfireCitadel.OnAdd
 - uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
   href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestHellfireCitadel_OnComplete_MacroTools_FactionSystem_Faction_
