@@ -13990,12 +13990,12 @@ references:
   commentId: T:MacroTools.ResearchSystems.BasicResearch
   fullName: MacroTools.ResearchSystems.BasicResearch
   nameWithType: BasicResearch
-- uid: MacroTools.ResearchSystems.BasicResearch.#ctor(System.Int32)
-  name: BasicResearch(Int32)
-  href: api-macroTools/MacroTools.ResearchSystems.BasicResearch.html#MacroTools_ResearchSystems_BasicResearch__ctor_System_Int32_
-  commentId: M:MacroTools.ResearchSystems.BasicResearch.#ctor(System.Int32)
-  fullName: MacroTools.ResearchSystems.BasicResearch.BasicResearch(System.Int32)
-  nameWithType: BasicResearch.BasicResearch(Int32)
+- uid: MacroTools.ResearchSystems.BasicResearch.#ctor(System.Int32,System.Int32,System.Int32)
+  name: BasicResearch(Int32, Int32, Int32)
+  href: api-macroTools/MacroTools.ResearchSystems.BasicResearch.html#MacroTools_ResearchSystems_BasicResearch__ctor_System_Int32_System_Int32_System_Int32_
+  commentId: M:MacroTools.ResearchSystems.BasicResearch.#ctor(System.Int32,System.Int32,System.Int32)
+  fullName: MacroTools.ResearchSystems.BasicResearch.BasicResearch(System.Int32, System.Int32, System.Int32)
+  nameWithType: BasicResearch.BasicResearch(Int32, Int32, Int32)
 - uid: MacroTools.ResearchSystems.BasicResearch.#ctor*
   name: BasicResearch
   href: api-macroTools/MacroTools.ResearchSystems.BasicResearch.html#MacroTools_ResearchSystems_BasicResearch__ctor_
@@ -14085,12 +14085,12 @@ references:
   commentId: T:MacroTools.ResearchSystems.Research
   fullName: MacroTools.ResearchSystems.Research
   nameWithType: Research
-- uid: MacroTools.ResearchSystems.Research.#ctor(System.Int32)
-  name: Research(Int32)
-  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research__ctor_System_Int32_
-  commentId: M:MacroTools.ResearchSystems.Research.#ctor(System.Int32)
-  fullName: MacroTools.ResearchSystems.Research.Research(System.Int32)
-  nameWithType: Research.Research(Int32)
+- uid: MacroTools.ResearchSystems.Research.#ctor(System.Int32,System.Int32,System.Int32)
+  name: Research(Int32, Int32, Int32)
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research__ctor_System_Int32_System_Int32_System_Int32_
+  commentId: M:MacroTools.ResearchSystems.Research.#ctor(System.Int32,System.Int32,System.Int32)
+  fullName: MacroTools.ResearchSystems.Research.Research(System.Int32, System.Int32, System.Int32)
+  nameWithType: Research.Research(Int32, Int32, Int32)
 - uid: MacroTools.ResearchSystems.Research.#ctor*
   name: Research
   href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research__ctor_
@@ -14098,6 +14098,32 @@ references:
   isSpec: "True"
   fullName: MacroTools.ResearchSystems.Research.Research
   nameWithType: Research.Research
+- uid: MacroTools.ResearchSystems.Research.GoldCost
+  name: GoldCost
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_GoldCost
+  commentId: P:MacroTools.ResearchSystems.Research.GoldCost
+  fullName: MacroTools.ResearchSystems.Research.GoldCost
+  nameWithType: Research.GoldCost
+- uid: MacroTools.ResearchSystems.Research.GoldCost*
+  name: GoldCost
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_GoldCost_
+  commentId: Overload:MacroTools.ResearchSystems.Research.GoldCost
+  isSpec: "True"
+  fullName: MacroTools.ResearchSystems.Research.GoldCost
+  nameWithType: Research.GoldCost
+- uid: MacroTools.ResearchSystems.Research.LumberCost
+  name: LumberCost
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_LumberCost
+  commentId: P:MacroTools.ResearchSystems.Research.LumberCost
+  fullName: MacroTools.ResearchSystems.Research.LumberCost
+  nameWithType: Research.LumberCost
+- uid: MacroTools.ResearchSystems.Research.LumberCost*
+  name: LumberCost
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_LumberCost_
+  commentId: Overload:MacroTools.ResearchSystems.Research.LumberCost
+  isSpec: "True"
+  fullName: MacroTools.ResearchSystems.Research.LumberCost
+  nameWithType: Research.LumberCost
 - uid: MacroTools.ResearchSystems.Research.OnResearch(player)
   name: OnResearch(player)
   href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_OnResearch_player_
@@ -30791,12 +30817,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Researches.Revenants
   fullName: WarcraftLegacies.Source.Researches.Revenants
   nameWithType: Revenants
-- uid: WarcraftLegacies.Source.Researches.Revenants.#ctor(System.Int32)
-  name: Revenants(Int32)
-  href: api-source/WarcraftLegacies.Source.Researches.Revenants.html#WarcraftLegacies_Source_Researches_Revenants__ctor_System_Int32_
-  commentId: M:WarcraftLegacies.Source.Researches.Revenants.#ctor(System.Int32)
-  fullName: WarcraftLegacies.Source.Researches.Revenants.Revenants(System.Int32)
-  nameWithType: Revenants.Revenants(Int32)
+- uid: WarcraftLegacies.Source.Researches.Revenants.#ctor(System.Int32,System.Int32,System.Int32)
+  name: Revenants(Int32, Int32, Int32)
+  href: api-source/WarcraftLegacies.Source.Researches.Revenants.html#WarcraftLegacies_Source_Researches_Revenants__ctor_System_Int32_System_Int32_System_Int32_
+  commentId: M:WarcraftLegacies.Source.Researches.Revenants.#ctor(System.Int32,System.Int32,System.Int32)
+  fullName: WarcraftLegacies.Source.Researches.Revenants.Revenants(System.Int32, System.Int32, System.Int32)
+  nameWithType: Revenants.Revenants(Int32, Int32, Int32)
 - uid: WarcraftLegacies.Source.Researches.Revenants.#ctor*
   name: Revenants
   href: api-source/WarcraftLegacies.Source.Researches.Revenants.html#WarcraftLegacies_Source_Researches_Revenants__ctor_
@@ -31032,12 +31058,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Researches.VeteranFootmen
   fullName: WarcraftLegacies.Source.Researches.VeteranFootmen
   nameWithType: VeteranFootmen
-- uid: WarcraftLegacies.Source.Researches.VeteranFootmen.#ctor(System.Int32)
-  name: VeteranFootmen(Int32)
-  href: api-source/WarcraftLegacies.Source.Researches.VeteranFootmen.html#WarcraftLegacies_Source_Researches_VeteranFootmen__ctor_System_Int32_
-  commentId: M:WarcraftLegacies.Source.Researches.VeteranFootmen.#ctor(System.Int32)
-  fullName: WarcraftLegacies.Source.Researches.VeteranFootmen.VeteranFootmen(System.Int32)
-  nameWithType: VeteranFootmen.VeteranFootmen(Int32)
+- uid: WarcraftLegacies.Source.Researches.VeteranFootmen.#ctor(System.Int32,System.Int32,System.Int32)
+  name: VeteranFootmen(Int32, Int32, Int32)
+  href: api-source/WarcraftLegacies.Source.Researches.VeteranFootmen.html#WarcraftLegacies_Source_Researches_VeteranFootmen__ctor_System_Int32_System_Int32_System_Int32_
+  commentId: M:WarcraftLegacies.Source.Researches.VeteranFootmen.#ctor(System.Int32,System.Int32,System.Int32)
+  fullName: WarcraftLegacies.Source.Researches.VeteranFootmen.VeteranFootmen(System.Int32, System.Int32, System.Int32)
+  nameWithType: VeteranFootmen.VeteranFootmen(Int32, Int32, Int32)
 - uid: WarcraftLegacies.Source.Researches.VeteranFootmen.#ctor*
   name: VeteranFootmen
   href: api-source/WarcraftLegacies.Source.Researches.VeteranFootmen.html#WarcraftLegacies_Source_Researches_VeteranFootmen__ctor_
