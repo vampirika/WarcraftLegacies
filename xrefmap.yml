@@ -13984,12 +13984,66 @@ references:
   commentId: N:MacroTools.ResearchSystems
   fullName: MacroTools.ResearchSystems
   nameWithType: MacroTools.ResearchSystems
+- uid: MacroTools.ResearchSystems.BasicResearch
+  name: BasicResearch
+  href: api-macroTools/MacroTools.ResearchSystems.BasicResearch.html
+  commentId: T:MacroTools.ResearchSystems.BasicResearch
+  fullName: MacroTools.ResearchSystems.BasicResearch
+  nameWithType: BasicResearch
+- uid: MacroTools.ResearchSystems.BasicResearch.#ctor(System.Int32)
+  name: BasicResearch(Int32)
+  href: api-macroTools/MacroTools.ResearchSystems.BasicResearch.html#MacroTools_ResearchSystems_BasicResearch__ctor_System_Int32_
+  commentId: M:MacroTools.ResearchSystems.BasicResearch.#ctor(System.Int32)
+  fullName: MacroTools.ResearchSystems.BasicResearch.BasicResearch(System.Int32)
+  nameWithType: BasicResearch.BasicResearch(Int32)
+- uid: MacroTools.ResearchSystems.BasicResearch.#ctor*
+  name: BasicResearch
+  href: api-macroTools/MacroTools.ResearchSystems.BasicResearch.html#MacroTools_ResearchSystems_BasicResearch__ctor_
+  commentId: Overload:MacroTools.ResearchSystems.BasicResearch.#ctor
+  isSpec: "True"
+  fullName: MacroTools.ResearchSystems.BasicResearch.BasicResearch
+  nameWithType: BasicResearch.BasicResearch
+- uid: MacroTools.ResearchSystems.BasicResearch.OnResearch(player)
+  name: OnResearch(player)
+  href: api-macroTools/MacroTools.ResearchSystems.BasicResearch.html#MacroTools_ResearchSystems_BasicResearch_OnResearch_player_
+  commentId: M:MacroTools.ResearchSystems.BasicResearch.OnResearch(player)
+  fullName: MacroTools.ResearchSystems.BasicResearch.OnResearch(player)
+  nameWithType: BasicResearch.OnResearch(player)
+- uid: MacroTools.ResearchSystems.BasicResearch.OnResearch*
+  name: OnResearch
+  href: api-macroTools/MacroTools.ResearchSystems.BasicResearch.html#MacroTools_ResearchSystems_BasicResearch_OnResearch_
+  commentId: Overload:MacroTools.ResearchSystems.BasicResearch.OnResearch
+  isSpec: "True"
+  fullName: MacroTools.ResearchSystems.BasicResearch.OnResearch
+  nameWithType: BasicResearch.OnResearch
+- uid: MacroTools.ResearchSystems.BasicResearch.OnUnresearch(player)
+  name: OnUnresearch(player)
+  href: api-macroTools/MacroTools.ResearchSystems.BasicResearch.html#MacroTools_ResearchSystems_BasicResearch_OnUnresearch_player_
+  commentId: M:MacroTools.ResearchSystems.BasicResearch.OnUnresearch(player)
+  fullName: MacroTools.ResearchSystems.BasicResearch.OnUnresearch(player)
+  nameWithType: BasicResearch.OnUnresearch(player)
+- uid: MacroTools.ResearchSystems.BasicResearch.OnUnresearch*
+  name: OnUnresearch
+  href: api-macroTools/MacroTools.ResearchSystems.BasicResearch.html#MacroTools_ResearchSystems_BasicResearch_OnUnresearch_
+  commentId: Overload:MacroTools.ResearchSystems.BasicResearch.OnUnresearch
+  isSpec: "True"
+  fullName: MacroTools.ResearchSystems.BasicResearch.OnUnresearch
+  nameWithType: BasicResearch.OnUnresearch
 - uid: MacroTools.ResearchSystems.IncompatibleResearchSystem
   name: IncompatibleResearchSystem
   href: api-macroTools/MacroTools.ResearchSystems.IncompatibleResearchSystem.html
   commentId: T:MacroTools.ResearchSystems.IncompatibleResearchSystem
   fullName: MacroTools.ResearchSystems.IncompatibleResearchSystem
   nameWithType: IncompatibleResearchSystem
+- uid: MacroTools.ResearchSystems.IncompatibleResearchSystem.Register(MacroTools.ResearchSystems.Research[])
+  name: Register(Research[])
+  href: api-macroTools/MacroTools.ResearchSystems.IncompatibleResearchSystem.html#MacroTools_ResearchSystems_IncompatibleResearchSystem_Register_MacroTools_ResearchSystems_Research___
+  commentId: M:MacroTools.ResearchSystems.IncompatibleResearchSystem.Register(MacroTools.ResearchSystems.Research[])
+  name.vb: Register(Research())
+  fullName: MacroTools.ResearchSystems.IncompatibleResearchSystem.Register(MacroTools.ResearchSystems.Research[])
+  fullName.vb: MacroTools.ResearchSystems.IncompatibleResearchSystem.Register(MacroTools.ResearchSystems.Research())
+  nameWithType: IncompatibleResearchSystem.Register(Research[])
+  nameWithType.vb: IncompatibleResearchSystem.Register(Research())
 - uid: MacroTools.ResearchSystems.IncompatibleResearchSystem.Register(System.Int32[])
   name: Register(Int32[])
   href: api-macroTools/MacroTools.ResearchSystems.IncompatibleResearchSystem.html#MacroTools_ResearchSystems_IncompatibleResearchSystem_Register_System_Int32___
@@ -14025,6 +14079,83 @@ references:
   isSpec: "True"
   fullName: MacroTools.ResearchSystems.ParentChildResearchSystem.Register
   nameWithType: ParentChildResearchSystem.Register
+- uid: MacroTools.ResearchSystems.Research
+  name: Research
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html
+  commentId: T:MacroTools.ResearchSystems.Research
+  fullName: MacroTools.ResearchSystems.Research
+  nameWithType: Research
+- uid: MacroTools.ResearchSystems.Research.#ctor(System.Int32)
+  name: Research(Int32)
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research__ctor_System_Int32_
+  commentId: M:MacroTools.ResearchSystems.Research.#ctor(System.Int32)
+  fullName: MacroTools.ResearchSystems.Research.Research(System.Int32)
+  nameWithType: Research.Research(Int32)
+- uid: MacroTools.ResearchSystems.Research.#ctor*
+  name: Research
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research__ctor_
+  commentId: Overload:MacroTools.ResearchSystems.Research.#ctor
+  isSpec: "True"
+  fullName: MacroTools.ResearchSystems.Research.Research
+  nameWithType: Research.Research
+- uid: MacroTools.ResearchSystems.Research.OnResearch(player)
+  name: OnResearch(player)
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_OnResearch_player_
+  commentId: M:MacroTools.ResearchSystems.Research.OnResearch(player)
+  fullName: MacroTools.ResearchSystems.Research.OnResearch(player)
+  nameWithType: Research.OnResearch(player)
+- uid: MacroTools.ResearchSystems.Research.OnResearch*
+  name: OnResearch
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_OnResearch_
+  commentId: Overload:MacroTools.ResearchSystems.Research.OnResearch
+  isSpec: "True"
+  fullName: MacroTools.ResearchSystems.Research.OnResearch
+  nameWithType: Research.OnResearch
+- uid: MacroTools.ResearchSystems.Research.OnUnresearch(player)
+  name: OnUnresearch(player)
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_OnUnresearch_player_
+  commentId: M:MacroTools.ResearchSystems.Research.OnUnresearch(player)
+  fullName: MacroTools.ResearchSystems.Research.OnUnresearch(player)
+  nameWithType: Research.OnUnresearch(player)
+- uid: MacroTools.ResearchSystems.Research.OnUnresearch*
+  name: OnUnresearch
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_OnUnresearch_
+  commentId: Overload:MacroTools.ResearchSystems.Research.OnUnresearch
+  isSpec: "True"
+  fullName: MacroTools.ResearchSystems.Research.OnUnresearch
+  nameWithType: Research.OnUnresearch
+- uid: MacroTools.ResearchSystems.Research.ResearchTypeId
+  name: ResearchTypeId
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_ResearchTypeId
+  commentId: P:MacroTools.ResearchSystems.Research.ResearchTypeId
+  fullName: MacroTools.ResearchSystems.Research.ResearchTypeId
+  nameWithType: Research.ResearchTypeId
+- uid: MacroTools.ResearchSystems.Research.ResearchTypeId*
+  name: ResearchTypeId
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_ResearchTypeId_
+  commentId: Overload:MacroTools.ResearchSystems.Research.ResearchTypeId
+  isSpec: "True"
+  fullName: MacroTools.ResearchSystems.Research.ResearchTypeId
+  nameWithType: Research.ResearchTypeId
+- uid: MacroTools.ResearchSystems.ResearchManager
+  name: ResearchManager
+  href: api-macroTools/MacroTools.ResearchSystems.ResearchManager.html
+  commentId: T:MacroTools.ResearchSystems.ResearchManager
+  fullName: MacroTools.ResearchSystems.ResearchManager
+  nameWithType: ResearchManager
+- uid: MacroTools.ResearchSystems.ResearchManager.Register(MacroTools.ResearchSystems.Research)
+  name: Register(Research)
+  href: api-macroTools/MacroTools.ResearchSystems.ResearchManager.html#MacroTools_ResearchSystems_ResearchManager_Register_MacroTools_ResearchSystems_Research_
+  commentId: M:MacroTools.ResearchSystems.ResearchManager.Register(MacroTools.ResearchSystems.Research)
+  fullName: MacroTools.ResearchSystems.ResearchManager.Register(MacroTools.ResearchSystems.Research)
+  nameWithType: ResearchManager.Register(Research)
+- uid: MacroTools.ResearchSystems.ResearchManager.Register*
+  name: Register
+  href: api-macroTools/MacroTools.ResearchSystems.ResearchManager.html#MacroTools_ResearchSystems_ResearchManager_Register_
+  commentId: Overload:MacroTools.ResearchSystems.ResearchManager.Register
+  isSpec: "True"
+  fullName: MacroTools.ResearchSystems.ResearchManager.Register
+  nameWithType: ResearchManager.Register
 - uid: MacroTools.ShoreSystem
   name: MacroTools.ShoreSystem
   href: api-macroTools/MacroTools.ShoreSystem.html
@@ -30604,6 +30735,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestZulgurub.RewardDescription
   nameWithType: QuestZulgurub.RewardDescription
+- uid: WarcraftLegacies.Source.Researches
+  name: WarcraftLegacies.Source.Researches
+  href: api-source/WarcraftLegacies.Source.Researches.html
+  commentId: N:WarcraftLegacies.Source.Researches
+  fullName: WarcraftLegacies.Source.Researches
+  nameWithType: WarcraftLegacies.Source.Researches
 - uid: WarcraftLegacies.Source.Researches.Ironforge
   name: WarcraftLegacies.Source.Researches.Ironforge
   href: api-source/WarcraftLegacies.Source.Researches.Ironforge.html
@@ -30648,56 +30785,51 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Researches.Ironforge.TitanForgeArtifact.Setup
   nameWithType: TitanForgeArtifact.Setup
-- uid: WarcraftLegacies.Source.Researches.Lordaeron
-  name: WarcraftLegacies.Source.Researches.Lordaeron
-  href: api-source/WarcraftLegacies.Source.Researches.Lordaeron.html
-  commentId: N:WarcraftLegacies.Source.Researches.Lordaeron
-  fullName: WarcraftLegacies.Source.Researches.Lordaeron
-  nameWithType: WarcraftLegacies.Source.Researches.Lordaeron
-- uid: WarcraftLegacies.Source.Researches.Lordaeron.VeteranFootmen
-  name: VeteranFootmen
-  href: api-source/WarcraftLegacies.Source.Researches.Lordaeron.VeteranFootmen.html
-  commentId: T:WarcraftLegacies.Source.Researches.Lordaeron.VeteranFootmen
-  fullName: WarcraftLegacies.Source.Researches.Lordaeron.VeteranFootmen
-  nameWithType: VeteranFootmen
-- uid: WarcraftLegacies.Source.Researches.Lordaeron.VeteranFootmen.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Researches.Lordaeron.VeteranFootmen.html#WarcraftLegacies_Source_Researches_Lordaeron_VeteranFootmen_Setup
-  commentId: M:WarcraftLegacies.Source.Researches.Lordaeron.VeteranFootmen.Setup
-  fullName: WarcraftLegacies.Source.Researches.Lordaeron.VeteranFootmen.Setup()
-  nameWithType: VeteranFootmen.Setup()
-- uid: WarcraftLegacies.Source.Researches.Lordaeron.VeteranFootmen.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Researches.Lordaeron.VeteranFootmen.html#WarcraftLegacies_Source_Researches_Lordaeron_VeteranFootmen_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Researches.Lordaeron.VeteranFootmen.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Researches.Lordaeron.VeteranFootmen.Setup
-  nameWithType: VeteranFootmen.Setup
-- uid: WarcraftLegacies.Source.Researches.Scourge
-  name: WarcraftLegacies.Source.Researches.Scourge
-  href: api-source/WarcraftLegacies.Source.Researches.Scourge.html
-  commentId: N:WarcraftLegacies.Source.Researches.Scourge
-  fullName: WarcraftLegacies.Source.Researches.Scourge
-  nameWithType: WarcraftLegacies.Source.Researches.Scourge
-- uid: WarcraftLegacies.Source.Researches.Scourge.Revenants
+- uid: WarcraftLegacies.Source.Researches.Revenants
   name: Revenants
-  href: api-source/WarcraftLegacies.Source.Researches.Scourge.Revenants.html
-  commentId: T:WarcraftLegacies.Source.Researches.Scourge.Revenants
-  fullName: WarcraftLegacies.Source.Researches.Scourge.Revenants
+  href: api-source/WarcraftLegacies.Source.Researches.Revenants.html
+  commentId: T:WarcraftLegacies.Source.Researches.Revenants
+  fullName: WarcraftLegacies.Source.Researches.Revenants
   nameWithType: Revenants
-- uid: WarcraftLegacies.Source.Researches.Scourge.Revenants.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Researches.Scourge.Revenants.html#WarcraftLegacies_Source_Researches_Scourge_Revenants_Setup
-  commentId: M:WarcraftLegacies.Source.Researches.Scourge.Revenants.Setup
-  fullName: WarcraftLegacies.Source.Researches.Scourge.Revenants.Setup()
-  nameWithType: Revenants.Setup()
-- uid: WarcraftLegacies.Source.Researches.Scourge.Revenants.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Researches.Scourge.Revenants.html#WarcraftLegacies_Source_Researches_Scourge_Revenants_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Researches.Scourge.Revenants.Setup
+- uid: WarcraftLegacies.Source.Researches.Revenants.#ctor(System.Int32)
+  name: Revenants(Int32)
+  href: api-source/WarcraftLegacies.Source.Researches.Revenants.html#WarcraftLegacies_Source_Researches_Revenants__ctor_System_Int32_
+  commentId: M:WarcraftLegacies.Source.Researches.Revenants.#ctor(System.Int32)
+  fullName: WarcraftLegacies.Source.Researches.Revenants.Revenants(System.Int32)
+  nameWithType: Revenants.Revenants(Int32)
+- uid: WarcraftLegacies.Source.Researches.Revenants.#ctor*
+  name: Revenants
+  href: api-source/WarcraftLegacies.Source.Researches.Revenants.html#WarcraftLegacies_Source_Researches_Revenants__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Researches.Revenants.#ctor
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Researches.Scourge.Revenants.Setup
-  nameWithType: Revenants.Setup
+  fullName: WarcraftLegacies.Source.Researches.Revenants.Revenants
+  nameWithType: Revenants.Revenants
+- uid: WarcraftLegacies.Source.Researches.Revenants.OnResearch(player)
+  name: OnResearch(player)
+  href: api-source/WarcraftLegacies.Source.Researches.Revenants.html#WarcraftLegacies_Source_Researches_Revenants_OnResearch_player_
+  commentId: M:WarcraftLegacies.Source.Researches.Revenants.OnResearch(player)
+  fullName: WarcraftLegacies.Source.Researches.Revenants.OnResearch(player)
+  nameWithType: Revenants.OnResearch(player)
+- uid: WarcraftLegacies.Source.Researches.Revenants.OnResearch*
+  name: OnResearch
+  href: api-source/WarcraftLegacies.Source.Researches.Revenants.html#WarcraftLegacies_Source_Researches_Revenants_OnResearch_
+  commentId: Overload:WarcraftLegacies.Source.Researches.Revenants.OnResearch
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Researches.Revenants.OnResearch
+  nameWithType: Revenants.OnResearch
+- uid: WarcraftLegacies.Source.Researches.Revenants.OnUnresearch(player)
+  name: OnUnresearch(player)
+  href: api-source/WarcraftLegacies.Source.Researches.Revenants.html#WarcraftLegacies_Source_Researches_Revenants_OnUnresearch_player_
+  commentId: M:WarcraftLegacies.Source.Researches.Revenants.OnUnresearch(player)
+  fullName: WarcraftLegacies.Source.Researches.Revenants.OnUnresearch(player)
+  nameWithType: Revenants.OnUnresearch(player)
+- uid: WarcraftLegacies.Source.Researches.Revenants.OnUnresearch*
+  name: OnUnresearch
+  href: api-source/WarcraftLegacies.Source.Researches.Revenants.html#WarcraftLegacies_Source_Researches_Revenants_OnUnresearch_
+  commentId: Overload:WarcraftLegacies.Source.Researches.Revenants.OnUnresearch
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Researches.Revenants.OnUnresearch
+  nameWithType: Revenants.OnUnresearch
 - uid: WarcraftLegacies.Source.Researches.Stormwind
   name: WarcraftLegacies.Source.Researches.Stormwind
   href: api-source/WarcraftLegacies.Source.Researches.Stormwind.html
@@ -30894,6 +31026,51 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Researches.Stormwind.TierVeteranGuard.Setup
   nameWithType: TierVeteranGuard.Setup
+- uid: WarcraftLegacies.Source.Researches.VeteranFootmen
+  name: VeteranFootmen
+  href: api-source/WarcraftLegacies.Source.Researches.VeteranFootmen.html
+  commentId: T:WarcraftLegacies.Source.Researches.VeteranFootmen
+  fullName: WarcraftLegacies.Source.Researches.VeteranFootmen
+  nameWithType: VeteranFootmen
+- uid: WarcraftLegacies.Source.Researches.VeteranFootmen.#ctor(System.Int32)
+  name: VeteranFootmen(Int32)
+  href: api-source/WarcraftLegacies.Source.Researches.VeteranFootmen.html#WarcraftLegacies_Source_Researches_VeteranFootmen__ctor_System_Int32_
+  commentId: M:WarcraftLegacies.Source.Researches.VeteranFootmen.#ctor(System.Int32)
+  fullName: WarcraftLegacies.Source.Researches.VeteranFootmen.VeteranFootmen(System.Int32)
+  nameWithType: VeteranFootmen.VeteranFootmen(Int32)
+- uid: WarcraftLegacies.Source.Researches.VeteranFootmen.#ctor*
+  name: VeteranFootmen
+  href: api-source/WarcraftLegacies.Source.Researches.VeteranFootmen.html#WarcraftLegacies_Source_Researches_VeteranFootmen__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Researches.VeteranFootmen.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Researches.VeteranFootmen.VeteranFootmen
+  nameWithType: VeteranFootmen.VeteranFootmen
+- uid: WarcraftLegacies.Source.Researches.VeteranFootmen.OnResearch(player)
+  name: OnResearch(player)
+  href: api-source/WarcraftLegacies.Source.Researches.VeteranFootmen.html#WarcraftLegacies_Source_Researches_VeteranFootmen_OnResearch_player_
+  commentId: M:WarcraftLegacies.Source.Researches.VeteranFootmen.OnResearch(player)
+  fullName: WarcraftLegacies.Source.Researches.VeteranFootmen.OnResearch(player)
+  nameWithType: VeteranFootmen.OnResearch(player)
+- uid: WarcraftLegacies.Source.Researches.VeteranFootmen.OnResearch*
+  name: OnResearch
+  href: api-source/WarcraftLegacies.Source.Researches.VeteranFootmen.html#WarcraftLegacies_Source_Researches_VeteranFootmen_OnResearch_
+  commentId: Overload:WarcraftLegacies.Source.Researches.VeteranFootmen.OnResearch
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Researches.VeteranFootmen.OnResearch
+  nameWithType: VeteranFootmen.OnResearch
+- uid: WarcraftLegacies.Source.Researches.VeteranFootmen.OnUnresearch(player)
+  name: OnUnresearch(player)
+  href: api-source/WarcraftLegacies.Source.Researches.VeteranFootmen.html#WarcraftLegacies_Source_Researches_VeteranFootmen_OnUnresearch_player_
+  commentId: M:WarcraftLegacies.Source.Researches.VeteranFootmen.OnUnresearch(player)
+  fullName: WarcraftLegacies.Source.Researches.VeteranFootmen.OnUnresearch(player)
+  nameWithType: VeteranFootmen.OnUnresearch(player)
+- uid: WarcraftLegacies.Source.Researches.VeteranFootmen.OnUnresearch*
+  name: OnUnresearch
+  href: api-source/WarcraftLegacies.Source.Researches.VeteranFootmen.html#WarcraftLegacies_Source_Researches_VeteranFootmen_OnUnresearch_
+  commentId: Overload:WarcraftLegacies.Source.Researches.VeteranFootmen.OnUnresearch
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Researches.VeteranFootmen.OnUnresearch
+  nameWithType: VeteranFootmen.OnUnresearch
 - uid: WarcraftLegacies.Source.Rocks
   name: WarcraftLegacies.Source.Rocks
   href: api-source/WarcraftLegacies.Source.Rocks.html

@@ -3161,11 +3161,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.ResearchSystems.BasicResearch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.ResearchSystems.BasicResearch.html",
+          "hash": "R8M1NY7EkBd4z9h7e/SVSQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.ResearchSystems.IncompatibleResearchSystem.yml",
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ResearchSystems.IncompatibleResearchSystem.html",
-          "hash": "/KOvT5zPSuHHms5f1DtNQw=="
+          "hash": "2DSrNXGmXwibBjJLkHN7HA=="
         }
       },
       "is_incremental": false,
@@ -3185,11 +3197,35 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.ResearchSystems.Research.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.ResearchSystems.Research.html",
+          "hash": "MhI66f/2Ko4fPtb6xwDQTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.ResearchSystems.ResearchManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.ResearchSystems.ResearchManager.html",
+          "hash": "NnRE+YGYS24rzsnp146r8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.ResearchSystems.yml",
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ResearchSystems.html",
-          "hash": "NA3gly6Kol112qTxDi5iLg=="
+          "hash": "WCfxJiwDU8t92FFwhplfLg=="
         }
       },
       "is_incremental": false,
@@ -3957,7 +3993,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "WhTgIwtRMpW+Uv3Xm95Uow=="
+          "hash": "z/KqWyD7F39vQDqXvxUc1g=="
         }
       },
       "is_incremental": false,
@@ -7109,47 +7145,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Lordaeron.VeteranFootmen.yml",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Revenants.yml",
       "output": {
         ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Researches.Lordaeron.VeteranFootmen.html",
-          "hash": "LdMhbE89WET3rUTE4P0vfQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Lordaeron.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Researches.Lordaeron.html",
-          "hash": "yULYqzahnDbg+pmsYX2JqA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Scourge.Revenants.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Researches.Scourge.Revenants.html",
-          "hash": "6UzcXFmq5Kv69ExRWBKNrw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Scourge.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Researches.Scourge.html",
-          "hash": "rWcQkNX41KTMRPnKxx+WWQ=="
+          "relative_path": "api-source/WarcraftLegacies.Source.Researches.Revenants.html",
+          "hash": "+OKWjFOO0l6dr0USzNi0UA=="
         }
       },
       "is_incremental": false,
@@ -7282,6 +7282,30 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.html",
           "hash": "FRb66u+uf0VTXtdzwJCzCw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.VeteranFootmen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Researches.VeteranFootmen.html",
+          "hash": "Fhqy+iqdxRTxVzDdK4PyyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Researches.html",
+          "hash": "wJUUgW1lgmFvZ3Wzw1IsYA=="
         }
       },
       "is_incremental": false,
@@ -8469,7 +8493,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.ResearchSetup.html",
-          "hash": "F5WLxaxARNa2eSUhUuLavg=="
+          "hash": "ZVW3ORdBthjdMIhVBgEtDA=="
         }
       },
       "is_incremental": false,
@@ -8805,7 +8829,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "W6NUZoLxGDwaMx9bXyT+eQ=="
+          "hash": "O+UjWIXeSfrodTniS3VEHw=="
         }
       },
       "is_incremental": false,
@@ -8880,7 +8904,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 732,
+          "total_file_count": 734,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
