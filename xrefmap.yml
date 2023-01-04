@@ -20911,12 +20911,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip
   fullName: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip
   nameWithType: QuestDimensionalShip
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.#ctor(Rectangle,MacroTools.PreplacedUnitSystem)
-  name: QuestDimensionalShip(Rectangle, PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.html#WarcraftLegacies_Source_Quests_Draenei_QuestDimensionalShip__ctor_Rectangle_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.#ctor(Rectangle,MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.QuestDimensionalShip(Rectangle, MacroTools.PreplacedUnitSystem)
-  nameWithType: QuestDimensionalShip.QuestDimensionalShip(Rectangle, PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.#ctor(Rectangle,MacroTools.QuestSystem.QuestData,MacroTools.PreplacedUnitSystem)
+  name: QuestDimensionalShip(Rectangle, QuestData, PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.html#WarcraftLegacies_Source_Quests_Draenei_QuestDimensionalShip__ctor_Rectangle_MacroTools_QuestSystem_QuestData_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.#ctor(Rectangle,MacroTools.QuestSystem.QuestData,MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.QuestDimensionalShip(Rectangle, MacroTools.QuestSystem.QuestData, MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestDimensionalShip.QuestDimensionalShip(Rectangle, QuestData, PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.#ctor*
   name: QuestDimensionalShip
   href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.html#WarcraftLegacies_Source_Quests_Draenei_QuestDimensionalShip__ctor_
@@ -21027,12 +21027,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull
   fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull
   nameWithType: QuestRepairExodarHull
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.#ctor(Rectangle,MacroTools.QuestSystem.QuestData)
-  name: QuestRepairExodarHull(Rectangle, QuestData)
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.html#WarcraftLegacies_Source_Quests_Draenei_QuestRepairExodarHull__ctor_Rectangle_MacroTools_QuestSystem_QuestData_
-  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.#ctor(Rectangle,MacroTools.QuestSystem.QuestData)
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.QuestRepairExodarHull(Rectangle, MacroTools.QuestSystem.QuestData)
-  nameWithType: QuestRepairExodarHull.QuestRepairExodarHull(Rectangle, QuestData)
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.#ctor(Rectangle)
+  name: QuestRepairExodarHull(Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.html#WarcraftLegacies_Source_Quests_Draenei_QuestRepairExodarHull__ctor_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.#ctor(Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.QuestRepairExodarHull(Rectangle)
+  nameWithType: QuestRepairExodarHull.QuestRepairExodarHull(Rectangle)
 - uid: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.#ctor*
   name: QuestRepairExodarHull
   href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.html#WarcraftLegacies_Source_Quests_Draenei_QuestRepairExodarHull__ctor_
@@ -21079,19 +21079,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.OnComplete
   nameWithType: QuestRepairExodarHull.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.OnFail(MacroTools.FactionSystem.Faction)
-  name: OnFail(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.html#WarcraftLegacies_Source_Quests_Draenei_QuestRepairExodarHull_OnFail_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.OnFail(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.OnFail(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestRepairExodarHull.OnFail(Faction)
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.OnFail*
-  name: OnFail
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.html#WarcraftLegacies_Source_Quests_Draenei_QuestRepairExodarHull_OnFail_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.OnFail
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.OnFail
-  nameWithType: QuestRepairExodarHull.OnFail
 - uid: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.html#WarcraftLegacies_Source_Quests_Draenei_QuestRepairExodarHull_RewardDescription
