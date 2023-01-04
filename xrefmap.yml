@@ -22471,19 +22471,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.CompletionPopup
   nameWithType: QuestHellfireCitadel.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.OnAdd(MacroTools.FactionSystem.Faction)
-  name: OnAdd(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestHellfireCitadel_OnAdd_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.OnAdd(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.OnAdd(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestHellfireCitadel.OnAdd(Faction)
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.OnAdd*
-  name: OnAdd
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestHellfireCitadel_OnAdd_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.OnAdd
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.OnAdd
-  nameWithType: QuestHellfireCitadel.OnAdd
 - uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
   href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestHellfireCitadel_OnComplete_MacroTools_FactionSystem_Faction_
@@ -36432,6 +36419,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ResearchSetup.Setup
   nameWithType: ResearchSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.SharedFactionConfigSetup
+  name: SharedFactionConfigSetup
+  href: api-source/WarcraftLegacies.Source.Setup.SharedFactionConfigSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.SharedFactionConfigSetup
+  fullName: WarcraftLegacies.Source.Setup.SharedFactionConfigSetup
+  nameWithType: SharedFactionConfigSetup
+- uid: WarcraftLegacies.Source.Setup.SharedFactionConfigSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.SharedFactionConfigSetup.html#WarcraftLegacies_Source_Setup_SharedFactionConfigSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.SharedFactionConfigSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.SharedFactionConfigSetup.Setup()
+  nameWithType: SharedFactionConfigSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.SharedFactionConfigSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.SharedFactionConfigSetup.html#WarcraftLegacies_Source_Setup_SharedFactionConfigSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.SharedFactionConfigSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.SharedFactionConfigSetup.Setup
+  nameWithType: SharedFactionConfigSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.ShoreSetup
   name: ShoreSetup
   href: api-source/WarcraftLegacies.Source.Setup.ShoreSetup.html
