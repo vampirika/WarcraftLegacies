@@ -5212,12 +5212,6 @@ references:
   commentId: F:MacroTools.Extensions.RescuePreparationMode.Invulnerable
   fullName: MacroTools.Extensions.RescuePreparationMode.Invulnerable
   nameWithType: RescuePreparationMode.Invulnerable
-- uid: MacroTools.Extensions.RescuePreparationMode.None
-  name: None
-  href: api-macroTools/MacroTools.Extensions.RescuePreparationMode.html#MacroTools_Extensions_RescuePreparationMode_None
-  commentId: F:MacroTools.Extensions.RescuePreparationMode.None
-  fullName: MacroTools.Extensions.RescuePreparationMode.None
-  nameWithType: RescuePreparationMode.None
 - uid: MacroTools.Extensions.SoundExtensions
   name: SoundExtensions
   href: api-macroTools/MacroTools.Extensions.SoundExtensions.html
