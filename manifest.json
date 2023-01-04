@@ -5933,18 +5933,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestDemonGateMonastery.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestDemonGateMonastery.html",
-          "hash": "YIsG01QBXe9H8mfZIpoWHA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestDreadlordInsurgent.yml",
       "output": {
         ".html": {
@@ -6009,7 +5997,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.html",
-          "hash": "Hhxs+SpiyLNzZw37v3O5jA=="
+          "hash": "bnH7J2jdzFFzuP+B4QSdOA=="
         }
       },
       "is_incremental": false,
@@ -8841,7 +8829,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "NBSMCqfpYMovWohd182KJQ=="
+          "hash": "WnhB/LtEO+a+7BtH0aA73g=="
         }
       },
       "is_incremental": false,
@@ -8916,7 +8904,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 735,
+          "total_file_count": 734,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
