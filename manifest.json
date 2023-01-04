@@ -6077,6 +6077,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestHearthglen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestHearthglen.html",
+          "hash": "+1zDwgVrcTKi7hg/s79aWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestKingArthas.yml",
       "output": {
         ".html": {
@@ -6161,11 +6173,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.html",
+          "hash": "EHUhvm0poPFJxPdwUEpKig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.html",
-          "hash": "J7JJbHcyumJUYAduXfqbfA=="
+          "hash": "eO5qu9XWlyP4WHTfGUTxcg=="
         }
       },
       "is_incremental": false,
@@ -8841,7 +8865,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "OCHVPk+mu7Bhj/dp8u5svw=="
+          "hash": "/wr8lmXILQIS1fYbhCSWBg=="
         }
       },
       "is_incremental": false,
@@ -8916,7 +8940,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 735,
+          "total_file_count": 737,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
