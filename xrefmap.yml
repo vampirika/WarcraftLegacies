@@ -8420,19 +8420,22 @@ references:
   commentId: T:MacroTools.Instances.Gate
   fullName: MacroTools.Instances.Gate
   nameWithType: Gate
-- uid: MacroTools.Instances.Gate.Destroy
-  name: Destroy()
-  href: api-macroTools/MacroTools.Instances.Gate.html#MacroTools_Instances_Gate_Destroy
-  commentId: M:MacroTools.Instances.Gate.Destroy
-  fullName: MacroTools.Instances.Gate.Destroy()
-  nameWithType: Gate.Destroy()
-- uid: MacroTools.Instances.Gate.Destroy*
-  name: Destroy
-  href: api-macroTools/MacroTools.Instances.Gate.html#MacroTools_Instances_Gate_Destroy_
-  commentId: Overload:MacroTools.Instances.Gate.Destroy
+- uid: MacroTools.Instances.Gate.#ctor(Func{Point},Func{Point})
+  name: Gate(Func<Point>, Func<Point>)
+  href: api-macroTools/MacroTools.Instances.Gate.html#MacroTools_Instances_Gate__ctor_Func_Point__Func_Point__
+  commentId: M:MacroTools.Instances.Gate.#ctor(Func{Point},Func{Point})
+  name.vb: Gate(Func(Of Point), Func(Of Point))
+  fullName: MacroTools.Instances.Gate.Gate(Func<Point>, Func<Point>)
+  fullName.vb: MacroTools.Instances.Gate.Gate(Func(Of Point), Func(Of Point))
+  nameWithType: Gate.Gate(Func<Point>, Func<Point>)
+  nameWithType.vb: Gate.Gate(Func(Of Point), Func(Of Point))
+- uid: MacroTools.Instances.Gate.#ctor*
+  name: Gate
+  href: api-macroTools/MacroTools.Instances.Gate.html#MacroTools_Instances_Gate__ctor_
+  commentId: Overload:MacroTools.Instances.Gate.#ctor
   isSpec: "True"
-  fullName: MacroTools.Instances.Gate.Destroy
-  nameWithType: Gate.Destroy
+  fullName: MacroTools.Instances.Gate.Gate
+  nameWithType: Gate.Gate
 - uid: MacroTools.Instances.Gate.ExteriorPosition
   name: ExteriorPosition
   href: api-macroTools/MacroTools.Instances.Gate.html#MacroTools_Instances_Gate_ExteriorPosition
@@ -8487,6 +8490,32 @@ references:
   isSpec: "True"
   fullName: MacroTools.Instances.Instance.Instance
   nameWithType: Instance.Instance
+- uid: MacroTools.Instances.Instance.AddDependency(unit)
+  name: AddDependency(unit)
+  href: api-macroTools/MacroTools.Instances.Instance.html#MacroTools_Instances_Instance_AddDependency_unit_
+  commentId: M:MacroTools.Instances.Instance.AddDependency(unit)
+  fullName: MacroTools.Instances.Instance.AddDependency(unit)
+  nameWithType: Instance.AddDependency(unit)
+- uid: MacroTools.Instances.Instance.AddDependency*
+  name: AddDependency
+  href: api-macroTools/MacroTools.Instances.Instance.html#MacroTools_Instances_Instance_AddDependency_
+  commentId: Overload:MacroTools.Instances.Instance.AddDependency
+  isSpec: "True"
+  fullName: MacroTools.Instances.Instance.AddDependency
+  nameWithType: Instance.AddDependency
+- uid: MacroTools.Instances.Instance.AddGate(MacroTools.Instances.Gate)
+  name: AddGate(Gate)
+  href: api-macroTools/MacroTools.Instances.Instance.html#MacroTools_Instances_Instance_AddGate_MacroTools_Instances_Gate_
+  commentId: M:MacroTools.Instances.Instance.AddGate(MacroTools.Instances.Gate)
+  fullName: MacroTools.Instances.Instance.AddGate(MacroTools.Instances.Gate)
+  nameWithType: Instance.AddGate(Gate)
+- uid: MacroTools.Instances.Instance.AddGate*
+  name: AddGate
+  href: api-macroTools/MacroTools.Instances.Instance.html#MacroTools_Instances_Instance_AddGate_
+  commentId: Overload:MacroTools.Instances.Instance.AddGate
+  isSpec: "True"
+  fullName: MacroTools.Instances.Instance.AddGate
+  nameWithType: Instance.AddGate
 - uid: MacroTools.Instances.Instance.GateCount
   name: GateCount
   href: api-macroTools/MacroTools.Instances.Instance.html#MacroTools_Instances_Instance_GateCount
