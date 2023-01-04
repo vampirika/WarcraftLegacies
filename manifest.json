@@ -5333,18 +5333,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortalOpen.html",
-          "hash": "++YAiydR6SkVb2EnJS8hNw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestFelHordeKillIronforge.yml",
       "output": {
         ".html": {
@@ -5385,7 +5373,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.html",
-          "hash": "omHOqMKeHbpya+FwRZnXlw=="
+          "hash": "OCPK0ddYLJTfDiJqdikZng=="
         }
       },
       "is_incremental": false,
@@ -5397,7 +5385,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.html",
-          "hash": "Upxs/9X46zh8SQH3jXlXYQ=="
+          "hash": "Zh0FHviBX0ADDNxNlYVTsw=="
         }
       },
       "is_incremental": false,
@@ -8853,7 +8841,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "/wr8lmXILQIS1fYbhCSWBg=="
+          "hash": "NBSMCqfpYMovWohd182KJQ=="
         }
       },
       "is_incremental": false,
@@ -8928,7 +8916,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 736,
+          "total_file_count": 735,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
