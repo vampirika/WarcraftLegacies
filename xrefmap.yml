@@ -21733,6 +21733,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.CompletionPopup
   nameWithType: QuestAshenvale.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.OnAdd(MacroTools.FactionSystem.Faction)
+  name: OnAdd(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.html#WarcraftLegacies_Source_Quests_Druids_QuestAshenvale_OnAdd_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.OnAdd(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.OnAdd(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestAshenvale.OnAdd(Faction)
+- uid: WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.OnAdd*
+  name: OnAdd
+  href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.html#WarcraftLegacies_Source_Quests_Druids_QuestAshenvale_OnAdd_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.OnAdd
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.OnAdd
+  nameWithType: QuestAshenvale.OnAdd
 - uid: WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
   href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.html#WarcraftLegacies_Source_Quests_Druids_QuestAshenvale_OnComplete_MacroTools_FactionSystem_Faction_
