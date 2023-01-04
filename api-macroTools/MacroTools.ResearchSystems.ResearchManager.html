@@ -91,14 +91,62 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ResearchSystems_ResearchManager_GetFromTypeId_System_Int32_.md&amp;value=---%0Auid%3A%20MacroTools.ResearchSystems.ResearchManager.GetFromTypeId(System.Int32)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ResearchSystems/ResearchManager.cs/#L51">View Source</a>
+  </span>
+  <a id="MacroTools_ResearchSystems_ResearchManager_GetFromTypeId_" data-uid="MacroTools.ResearchSystems.ResearchManager.GetFromTypeId*"></a>
+  <h4 id="MacroTools_ResearchSystems_ResearchManager_GetFromTypeId_System_Int32_" data-uid="MacroTools.ResearchSystems.ResearchManager.GetFromTypeId(System.Int32)">GetFromTypeId(Int32)</h4>
+  <div class="markdown level1 summary"><p>Returns the <a class="xref" href="MacroTools.ResearchSystems.Research.html">Research</a> with the matching type ID.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static Research GetFromTypeId(int researchTypeId)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><span class="parametername">researchTypeId</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="MacroTools.ResearchSystems.Research.html">Research</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ResearchSystems_ResearchManager_Register_MacroTools_ResearchSystems_Research_.md&amp;value=---%0Auid%3A%20MacroTools.ResearchSystems.ResearchManager.Register(MacroTools.ResearchSystems.Research)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ResearchSystems/ResearchManager.cs/#L14">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ResearchSystems/ResearchManager.cs/#L18">View Source</a>
   </span>
   <a id="MacroTools_ResearchSystems_ResearchManager_Register_" data-uid="MacroTools.ResearchSystems.ResearchManager.Register*"></a>
   <h4 id="MacroTools_ResearchSystems_ResearchManager_Register_MacroTools_ResearchSystems_Research_" data-uid="MacroTools.ResearchSystems.ResearchManager.Register(MacroTools.ResearchSystems.Research)">Register(Research)</h4>
-  <div class="markdown level1 summary"><p>Registers a <a class="xref" href="MacroTools.ResearchSystems.Research.html">Research</a>, allowing its effects to take place when researched.</p>
+  <div class="markdown level1 summary"><p>Registers a <a class="xref" href="MacroTools.ResearchSystems.Research.html">Research</a>, causing its <a class="xref" href="MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_OnResearch_player_">OnResearch(player)</a> function to be executed when researched.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
@@ -122,6 +170,74 @@
       </tr>
     </tbody>
   </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ResearchSystems_ResearchManager_RegisterIncompatibleSet_MacroTools_ResearchSystems_Research___.md&amp;value=---%0Auid%3A%20MacroTools.ResearchSystems.ResearchManager.RegisterIncompatibleSet(MacroTools.ResearchSystems.Research%5B%5D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ResearchSystems/ResearchManager.cs/#L39">View Source</a>
+  </span>
+  <a id="MacroTools_ResearchSystems_ResearchManager_RegisterIncompatibleSet_" data-uid="MacroTools.ResearchSystems.ResearchManager.RegisterIncompatibleSet*"></a>
+  <h4 id="MacroTools_ResearchSystems_ResearchManager_RegisterIncompatibleSet_MacroTools_ResearchSystems_Research___" data-uid="MacroTools.ResearchSystems.ResearchManager.RegisterIncompatibleSet(MacroTools.ResearchSystems.Research[])">RegisterIncompatibleSet(Research[])</h4>
+  <div class="markdown level1 summary"><p>Registers a set of incompatible researches to the system, causing the reseaches contained within to be
+mutually exclusive.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void RegisterIncompatibleSet(params Research[] researches)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="MacroTools.ResearchSystems.Research.html">Research</a>[]</td>
+        <td><span class="parametername">researches</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ResearchSystems_ResearchManager_RegisterIncompatibleSet_System_Int32___.md&amp;value=---%0Auid%3A%20MacroTools.ResearchSystems.ResearchManager.RegisterIncompatibleSet(System.Int32%5B%5D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ResearchSystems/ResearchManager.cs/#L29">View Source</a>
+  </span>
+  <a id="MacroTools_ResearchSystems_ResearchManager_RegisterIncompatibleSet_" data-uid="MacroTools.ResearchSystems.ResearchManager.RegisterIncompatibleSet*"></a>
+  <h4 id="MacroTools_ResearchSystems_ResearchManager_RegisterIncompatibleSet_System_Int32___" data-uid="MacroTools.ResearchSystems.ResearchManager.RegisterIncompatibleSet(System.Int32[])">RegisterIncompatibleSet(Int32[])</h4>
+  <div class="markdown level1 summary"><p>Registers a set of incompatible researches to the system, causing the reseaches contained within to be
+mutually exclusive.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public static void RegisterIncompatibleSet(params int[] researchTypeIds)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span>[]</td>
+        <td><span class="parametername">researchTypeIds</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
 </article>
           </div>
           
@@ -133,7 +249,7 @@
                     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ResearchSystems_ResearchManager.md&amp;value=---%0Auid%3A%20MacroTools.ResearchSystems.ResearchManager%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ResearchSystems/ResearchManager.cs/#L9" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ResearchSystems/ResearchManager.cs/#L11" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>

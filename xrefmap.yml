@@ -4812,6 +4812,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.PlayerExtensions.DisplayPowerAcquired
   nameWithType: PlayerExtensions.DisplayPowerAcquired
+- uid: MacroTools.Extensions.PlayerExtensions.DisplayRefundedResearch(player,System.Int32)
+  name: DisplayRefundedResearch(player, Int32)
+  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_DisplayRefundedResearch_player_System_Int32_
+  commentId: M:MacroTools.Extensions.PlayerExtensions.DisplayRefundedResearch(player,System.Int32)
+  fullName: MacroTools.Extensions.PlayerExtensions.DisplayRefundedResearch(player, System.Int32)
+  nameWithType: PlayerExtensions.DisplayRefundedResearch(player, Int32)
+- uid: MacroTools.Extensions.PlayerExtensions.DisplayRefundedResearch*
+  name: DisplayRefundedResearch
+  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_DisplayRefundedResearch_
+  commentId: Overload:MacroTools.Extensions.PlayerExtensions.DisplayRefundedResearch
+  isSpec: "True"
+  fullName: MacroTools.Extensions.PlayerExtensions.DisplayRefundedResearch
+  nameWithType: PlayerExtensions.DisplayRefundedResearch
 - uid: MacroTools.Extensions.PlayerExtensions.DisplayResearchAcquired(player,System.Int32,System.Int32)
   name: DisplayResearchAcquired(player, Int32, Int32)
   href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_DisplayResearchAcquired_player_System_Int32_System_Int32_
@@ -4968,6 +4981,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.PlayerExtensions.GetLumberIncome
   nameWithType: PlayerExtensions.GetLumberIncome
+- uid: MacroTools.Extensions.PlayerExtensions.GetObjectLevel(player,System.Int32)
+  name: GetObjectLevel(player, Int32)
+  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_GetObjectLevel_player_System_Int32_
+  commentId: M:MacroTools.Extensions.PlayerExtensions.GetObjectLevel(player,System.Int32)
+  fullName: MacroTools.Extensions.PlayerExtensions.GetObjectLevel(player, System.Int32)
+  nameWithType: PlayerExtensions.GetObjectLevel(player, Int32)
+- uid: MacroTools.Extensions.PlayerExtensions.GetObjectLevel*
+  name: GetObjectLevel
+  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_GetObjectLevel_
+  commentId: Overload:MacroTools.Extensions.PlayerExtensions.GetObjectLevel
+  isSpec: "True"
+  fullName: MacroTools.Extensions.PlayerExtensions.GetObjectLevel
+  nameWithType: PlayerExtensions.GetObjectLevel
 - uid: MacroTools.Extensions.PlayerExtensions.GetObjectLimit(player,System.Int32)
   name: GetObjectLimit(player, Int32)
   href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_GetObjectLimit_player_System_Int32_
@@ -6863,12 +6889,12 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Faction.ModAbilityAvailability
   nameWithType: Faction.ModAbilityAvailability
-- uid: MacroTools.FactionSystem.Faction.ModObjectLimit(System.Int32,System.Int32)
-  name: ModObjectLimit(Int32, Int32)
-  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_ModObjectLimit_System_Int32_System_Int32_
-  commentId: M:MacroTools.FactionSystem.Faction.ModObjectLimit(System.Int32,System.Int32)
-  fullName: MacroTools.FactionSystem.Faction.ModObjectLimit(System.Int32, System.Int32)
-  nameWithType: Faction.ModObjectLimit(Int32, Int32)
+- uid: MacroTools.FactionSystem.Faction.ModObjectLimit(System.Int32,System.Int32,System.Boolean)
+  name: ModObjectLimit(Int32, Int32, Boolean)
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_ModObjectLimit_System_Int32_System_Int32_System_Boolean_
+  commentId: M:MacroTools.FactionSystem.Faction.ModObjectLimit(System.Int32,System.Int32,System.Boolean)
+  fullName: MacroTools.FactionSystem.Faction.ModObjectLimit(System.Int32, System.Int32, System.Boolean)
+  nameWithType: Faction.ModObjectLimit(Int32, Int32, Boolean)
 - uid: MacroTools.FactionSystem.Faction.ModObjectLimit*
   name: ModObjectLimit
   href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_ModObjectLimit_
@@ -7004,6 +7030,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Faction.SetObjectLevel
   nameWithType: Faction.SetObjectLevel
+- uid: MacroTools.FactionSystem.Faction.SetObjectLimit(System.Int32,System.Int32,System.Boolean)
+  name: SetObjectLimit(Int32, Int32, Boolean)
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_SetObjectLimit_System_Int32_System_Int32_System_Boolean_
+  commentId: M:MacroTools.FactionSystem.Faction.SetObjectLimit(System.Int32,System.Int32,System.Boolean)
+  fullName: MacroTools.FactionSystem.Faction.SetObjectLimit(System.Int32, System.Int32, System.Boolean)
+  nameWithType: Faction.SetObjectLimit(Int32, Int32, Boolean)
+- uid: MacroTools.FactionSystem.Faction.SetObjectLimit*
+  name: SetObjectLimit
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_SetObjectLimit_
+  commentId: Overload:MacroTools.FactionSystem.Faction.SetObjectLimit
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Faction.SetObjectLimit
+  nameWithType: Faction.SetObjectLimit
 - uid: MacroTools.FactionSystem.Faction.StartingGold
   name: StartingGold
   href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_StartingGold
@@ -14016,50 +14055,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.ResearchSystems.BasicResearch.OnResearch
   nameWithType: BasicResearch.OnResearch
-- uid: MacroTools.ResearchSystems.BasicResearch.OnUnresearch(player)
-  name: OnUnresearch(player)
-  href: api-macroTools/MacroTools.ResearchSystems.BasicResearch.html#MacroTools_ResearchSystems_BasicResearch_OnUnresearch_player_
-  commentId: M:MacroTools.ResearchSystems.BasicResearch.OnUnresearch(player)
-  fullName: MacroTools.ResearchSystems.BasicResearch.OnUnresearch(player)
-  nameWithType: BasicResearch.OnUnresearch(player)
-- uid: MacroTools.ResearchSystems.BasicResearch.OnUnresearch*
-  name: OnUnresearch
-  href: api-macroTools/MacroTools.ResearchSystems.BasicResearch.html#MacroTools_ResearchSystems_BasicResearch_OnUnresearch_
-  commentId: Overload:MacroTools.ResearchSystems.BasicResearch.OnUnresearch
-  isSpec: "True"
-  fullName: MacroTools.ResearchSystems.BasicResearch.OnUnresearch
-  nameWithType: BasicResearch.OnUnresearch
-- uid: MacroTools.ResearchSystems.IncompatibleResearchSystem
-  name: IncompatibleResearchSystem
-  href: api-macroTools/MacroTools.ResearchSystems.IncompatibleResearchSystem.html
-  commentId: T:MacroTools.ResearchSystems.IncompatibleResearchSystem
-  fullName: MacroTools.ResearchSystems.IncompatibleResearchSystem
-  nameWithType: IncompatibleResearchSystem
-- uid: MacroTools.ResearchSystems.IncompatibleResearchSystem.Register(MacroTools.ResearchSystems.Research[])
-  name: Register(Research[])
-  href: api-macroTools/MacroTools.ResearchSystems.IncompatibleResearchSystem.html#MacroTools_ResearchSystems_IncompatibleResearchSystem_Register_MacroTools_ResearchSystems_Research___
-  commentId: M:MacroTools.ResearchSystems.IncompatibleResearchSystem.Register(MacroTools.ResearchSystems.Research[])
-  name.vb: Register(Research())
-  fullName: MacroTools.ResearchSystems.IncompatibleResearchSystem.Register(MacroTools.ResearchSystems.Research[])
-  fullName.vb: MacroTools.ResearchSystems.IncompatibleResearchSystem.Register(MacroTools.ResearchSystems.Research())
-  nameWithType: IncompatibleResearchSystem.Register(Research[])
-  nameWithType.vb: IncompatibleResearchSystem.Register(Research())
-- uid: MacroTools.ResearchSystems.IncompatibleResearchSystem.Register(System.Int32[])
-  name: Register(Int32[])
-  href: api-macroTools/MacroTools.ResearchSystems.IncompatibleResearchSystem.html#MacroTools_ResearchSystems_IncompatibleResearchSystem_Register_System_Int32___
-  commentId: M:MacroTools.ResearchSystems.IncompatibleResearchSystem.Register(System.Int32[])
-  name.vb: Register(Int32())
-  fullName: MacroTools.ResearchSystems.IncompatibleResearchSystem.Register(System.Int32[])
-  fullName.vb: MacroTools.ResearchSystems.IncompatibleResearchSystem.Register(System.Int32())
-  nameWithType: IncompatibleResearchSystem.Register(Int32[])
-  nameWithType.vb: IncompatibleResearchSystem.Register(Int32())
-- uid: MacroTools.ResearchSystems.IncompatibleResearchSystem.Register*
-  name: Register
-  href: api-macroTools/MacroTools.ResearchSystems.IncompatibleResearchSystem.html#MacroTools_ResearchSystems_IncompatibleResearchSystem_Register_
-  commentId: Overload:MacroTools.ResearchSystems.IncompatibleResearchSystem.Register
-  isSpec: "True"
-  fullName: MacroTools.ResearchSystems.IncompatibleResearchSystem.Register
-  nameWithType: IncompatibleResearchSystem.Register
 - uid: MacroTools.ResearchSystems.ParentChildResearchSystem
   name: ParentChildResearchSystem
   href: api-macroTools/MacroTools.ResearchSystems.ParentChildResearchSystem.html
@@ -14111,6 +14106,12 @@ references:
   isSpec: "True"
   fullName: MacroTools.ResearchSystems.Research.GoldCost
   nameWithType: Research.GoldCost
+- uid: MacroTools.ResearchSystems.Research.IncompatibleWith
+  name: IncompatibleWith
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_IncompatibleWith
+  commentId: F:MacroTools.ResearchSystems.Research.IncompatibleWith
+  fullName: MacroTools.ResearchSystems.Research.IncompatibleWith
+  nameWithType: Research.IncompatibleWith
 - uid: MacroTools.ResearchSystems.Research.LumberCost
   name: LumberCost
   href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_LumberCost
@@ -14137,19 +14138,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.ResearchSystems.Research.OnResearch
   nameWithType: Research.OnResearch
-- uid: MacroTools.ResearchSystems.Research.OnUnresearch(player)
-  name: OnUnresearch(player)
-  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_OnUnresearch_player_
-  commentId: M:MacroTools.ResearchSystems.Research.OnUnresearch(player)
-  fullName: MacroTools.ResearchSystems.Research.OnUnresearch(player)
-  nameWithType: Research.OnUnresearch(player)
-- uid: MacroTools.ResearchSystems.Research.OnUnresearch*
-  name: OnUnresearch
-  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_OnUnresearch_
-  commentId: Overload:MacroTools.ResearchSystems.Research.OnUnresearch
+- uid: MacroTools.ResearchSystems.Research.Refund(player)
+  name: Refund(player)
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_Refund_player_
+  commentId: M:MacroTools.ResearchSystems.Research.Refund(player)
+  fullName: MacroTools.ResearchSystems.Research.Refund(player)
+  nameWithType: Research.Refund(player)
+- uid: MacroTools.ResearchSystems.Research.Refund*
+  name: Refund
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_Refund_
+  commentId: Overload:MacroTools.ResearchSystems.Research.Refund
   isSpec: "True"
-  fullName: MacroTools.ResearchSystems.Research.OnUnresearch
-  nameWithType: Research.OnUnresearch
+  fullName: MacroTools.ResearchSystems.Research.Refund
+  nameWithType: Research.Refund
 - uid: MacroTools.ResearchSystems.Research.ResearchTypeId
   name: ResearchTypeId
   href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_ResearchTypeId
@@ -14169,6 +14170,19 @@ references:
   commentId: T:MacroTools.ResearchSystems.ResearchManager
   fullName: MacroTools.ResearchSystems.ResearchManager
   nameWithType: ResearchManager
+- uid: MacroTools.ResearchSystems.ResearchManager.GetFromTypeId(System.Int32)
+  name: GetFromTypeId(Int32)
+  href: api-macroTools/MacroTools.ResearchSystems.ResearchManager.html#MacroTools_ResearchSystems_ResearchManager_GetFromTypeId_System_Int32_
+  commentId: M:MacroTools.ResearchSystems.ResearchManager.GetFromTypeId(System.Int32)
+  fullName: MacroTools.ResearchSystems.ResearchManager.GetFromTypeId(System.Int32)
+  nameWithType: ResearchManager.GetFromTypeId(Int32)
+- uid: MacroTools.ResearchSystems.ResearchManager.GetFromTypeId*
+  name: GetFromTypeId
+  href: api-macroTools/MacroTools.ResearchSystems.ResearchManager.html#MacroTools_ResearchSystems_ResearchManager_GetFromTypeId_
+  commentId: Overload:MacroTools.ResearchSystems.ResearchManager.GetFromTypeId
+  isSpec: "True"
+  fullName: MacroTools.ResearchSystems.ResearchManager.GetFromTypeId
+  nameWithType: ResearchManager.GetFromTypeId
 - uid: MacroTools.ResearchSystems.ResearchManager.Register(MacroTools.ResearchSystems.Research)
   name: Register(Research)
   href: api-macroTools/MacroTools.ResearchSystems.ResearchManager.html#MacroTools_ResearchSystems_ResearchManager_Register_MacroTools_ResearchSystems_Research_
@@ -14182,6 +14196,31 @@ references:
   isSpec: "True"
   fullName: MacroTools.ResearchSystems.ResearchManager.Register
   nameWithType: ResearchManager.Register
+- uid: MacroTools.ResearchSystems.ResearchManager.RegisterIncompatibleSet(MacroTools.ResearchSystems.Research[])
+  name: RegisterIncompatibleSet(Research[])
+  href: api-macroTools/MacroTools.ResearchSystems.ResearchManager.html#MacroTools_ResearchSystems_ResearchManager_RegisterIncompatibleSet_MacroTools_ResearchSystems_Research___
+  commentId: M:MacroTools.ResearchSystems.ResearchManager.RegisterIncompatibleSet(MacroTools.ResearchSystems.Research[])
+  name.vb: RegisterIncompatibleSet(Research())
+  fullName: MacroTools.ResearchSystems.ResearchManager.RegisterIncompatibleSet(MacroTools.ResearchSystems.Research[])
+  fullName.vb: MacroTools.ResearchSystems.ResearchManager.RegisterIncompatibleSet(MacroTools.ResearchSystems.Research())
+  nameWithType: ResearchManager.RegisterIncompatibleSet(Research[])
+  nameWithType.vb: ResearchManager.RegisterIncompatibleSet(Research())
+- uid: MacroTools.ResearchSystems.ResearchManager.RegisterIncompatibleSet(System.Int32[])
+  name: RegisterIncompatibleSet(Int32[])
+  href: api-macroTools/MacroTools.ResearchSystems.ResearchManager.html#MacroTools_ResearchSystems_ResearchManager_RegisterIncompatibleSet_System_Int32___
+  commentId: M:MacroTools.ResearchSystems.ResearchManager.RegisterIncompatibleSet(System.Int32[])
+  name.vb: RegisterIncompatibleSet(Int32())
+  fullName: MacroTools.ResearchSystems.ResearchManager.RegisterIncompatibleSet(System.Int32[])
+  fullName.vb: MacroTools.ResearchSystems.ResearchManager.RegisterIncompatibleSet(System.Int32())
+  nameWithType: ResearchManager.RegisterIncompatibleSet(Int32[])
+  nameWithType.vb: ResearchManager.RegisterIncompatibleSet(Int32())
+- uid: MacroTools.ResearchSystems.ResearchManager.RegisterIncompatibleSet*
+  name: RegisterIncompatibleSet
+  href: api-macroTools/MacroTools.ResearchSystems.ResearchManager.html#MacroTools_ResearchSystems_ResearchManager_RegisterIncompatibleSet_
+  commentId: Overload:MacroTools.ResearchSystems.ResearchManager.RegisterIncompatibleSet
+  isSpec: "True"
+  fullName: MacroTools.ResearchSystems.ResearchManager.RegisterIncompatibleSet
+  nameWithType: ResearchManager.RegisterIncompatibleSet
 - uid: MacroTools.ShoreSystem
   name: MacroTools.ShoreSystem
   href: api-macroTools/MacroTools.ShoreSystem.html
@@ -31056,19 +31095,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Researches.Revenants.OnResearch
   nameWithType: Revenants.OnResearch
-- uid: WarcraftLegacies.Source.Researches.Revenants.OnUnresearch(player)
-  name: OnUnresearch(player)
-  href: api-source/WarcraftLegacies.Source.Researches.Revenants.html#WarcraftLegacies_Source_Researches_Revenants_OnUnresearch_player_
-  commentId: M:WarcraftLegacies.Source.Researches.Revenants.OnUnresearch(player)
-  fullName: WarcraftLegacies.Source.Researches.Revenants.OnUnresearch(player)
-  nameWithType: Revenants.OnUnresearch(player)
-- uid: WarcraftLegacies.Source.Researches.Revenants.OnUnresearch*
-  name: OnUnresearch
-  href: api-source/WarcraftLegacies.Source.Researches.Revenants.html#WarcraftLegacies_Source_Researches_Revenants_OnUnresearch_
-  commentId: Overload:WarcraftLegacies.Source.Researches.Revenants.OnUnresearch
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Researches.Revenants.OnUnresearch
-  nameWithType: Revenants.OnUnresearch
 - uid: WarcraftLegacies.Source.Researches.Stormwind
   name: WarcraftLegacies.Source.Researches.Stormwind
   href: api-source/WarcraftLegacies.Source.Researches.Stormwind.html
@@ -31297,19 +31323,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Researches.VeteranFootmen.OnResearch
   nameWithType: VeteranFootmen.OnResearch
-- uid: WarcraftLegacies.Source.Researches.VeteranFootmen.OnUnresearch(player)
-  name: OnUnresearch(player)
-  href: api-source/WarcraftLegacies.Source.Researches.VeteranFootmen.html#WarcraftLegacies_Source_Researches_VeteranFootmen_OnUnresearch_player_
-  commentId: M:WarcraftLegacies.Source.Researches.VeteranFootmen.OnUnresearch(player)
-  fullName: WarcraftLegacies.Source.Researches.VeteranFootmen.OnUnresearch(player)
-  nameWithType: VeteranFootmen.OnUnresearch(player)
-- uid: WarcraftLegacies.Source.Researches.VeteranFootmen.OnUnresearch*
-  name: OnUnresearch
-  href: api-source/WarcraftLegacies.Source.Researches.VeteranFootmen.html#WarcraftLegacies_Source_Researches_VeteranFootmen_OnUnresearch_
-  commentId: Overload:WarcraftLegacies.Source.Researches.VeteranFootmen.OnUnresearch
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Researches.VeteranFootmen.OnUnresearch
-  nameWithType: VeteranFootmen.OnUnresearch
 - uid: WarcraftLegacies.Source.Rocks
   name: WarcraftLegacies.Source.Rocks
   href: api-source/WarcraftLegacies.Source.Rocks.html

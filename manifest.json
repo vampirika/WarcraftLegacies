@@ -1269,7 +1269,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.PlayerExtensions.html",
-          "hash": "A15JPkglY1sYm+VzISb7Bw=="
+          "hash": "7oyhfJGMMBpg0iCA2oOnGg=="
         }
       },
       "is_incremental": false,
@@ -1401,7 +1401,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Faction.html",
-          "hash": "kEGe6vy9yYgJ9IQENOc/1Q=="
+          "hash": "xYFPWK7zMhtPW9E4ETQXKg=="
         }
       },
       "is_incremental": false,
@@ -2469,7 +2469,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.ObjectiveResearch.html",
-          "hash": "VmuLntr3R5H4pOO0l9Pjtw=="
+          "hash": "+hwqT/xqGrgnNtXDxqcYHQ=="
         }
       },
       "is_incremental": false,
@@ -3165,19 +3165,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ResearchSystems.BasicResearch.html",
-          "hash": "Md4s9pYkHMLYqT+i1YXLag=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.ResearchSystems.IncompatibleResearchSystem.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.ResearchSystems.IncompatibleResearchSystem.html",
-          "hash": "2DSrNXGmXwibBjJLkHN7HA=="
+          "hash": "/Jgt7Zz7Q7hs1PYBsjT6vA=="
         }
       },
       "is_incremental": false,
@@ -3201,7 +3189,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ResearchSystems.Research.html",
-          "hash": "YwDKY/E1uox5arUG2Ec8GA=="
+          "hash": "9VMvOmUeAVysAxbI/vkEgQ=="
         }
       },
       "is_incremental": false,
@@ -3213,7 +3201,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ResearchSystems.ResearchManager.html",
-          "hash": "NnRE+YGYS24rzsnp146r8A=="
+          "hash": "GuXUJjYuYLbdPzYj0Oq5bg=="
         }
       },
       "is_incremental": false,
@@ -3225,7 +3213,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ResearchSystems.html",
-          "hash": "WCfxJiwDU8t92FFwhplfLg=="
+          "hash": "8oSB1TF8gHCITG5Lk0gD5w=="
         }
       },
       "is_incremental": false,
@@ -3993,7 +3981,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "z/KqWyD7F39vQDqXvxUc1g=="
+          "hash": "DclR1PQfwbwjQKgDeHOkLg=="
         }
       },
       "is_incremental": false,
@@ -7185,7 +7173,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Researches.Revenants.html",
-          "hash": "JfFLs6Fpsw6R2/eyUMhGMg=="
+          "hash": "gQPs89NhKctVfW9essbXvA=="
         }
       },
       "is_incremental": false,
@@ -7329,7 +7317,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Researches.VeteranFootmen.html",
-          "hash": "IpRi4T7zLpCMwY1wPZQTLQ=="
+          "hash": "pSHnZ8f0oKodZ/DYRahtow=="
         }
       },
       "is_incremental": false,
@@ -7905,7 +7893,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.IncompatibleResearchSetup.html",
-          "hash": "8NVm3n8Ojjdanz8e7jlK1Q=="
+          "hash": "dw8L3QR7EVRvWVJeYWczCA=="
         }
       },
       "is_incremental": false,
@@ -8769,7 +8757,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.html",
-          "hash": "pE5XXRt11sZnHG42KIuj8g=="
+          "hash": "QqUuhQ7WN/UsZ32aw87adQ=="
         }
       },
       "is_incremental": false,
@@ -8940,7 +8928,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 737,
+          "total_file_count": 736,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
