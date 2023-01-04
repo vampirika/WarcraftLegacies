@@ -27006,12 +27006,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves
   fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves
   nameWithType: QuestTheBloodElves
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.#ctor(Rectangle)
-  name: QuestTheBloodElves(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTheBloodElves__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.QuestTheBloodElves(Rectangle)
-  nameWithType: QuestTheBloodElves.QuestTheBloodElves(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.#ctor(Rectangle,MacroTools.PreplacedUnitSystem)
+  name: QuestTheBloodElves(Rectangle, PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTheBloodElves__ctor_Rectangle_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.#ctor(Rectangle,MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.QuestTheBloodElves(Rectangle, MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestTheBloodElves.QuestTheBloodElves(Rectangle, PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.#ctor*
   name: QuestTheBloodElves
   href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTheBloodElves__ctor_
