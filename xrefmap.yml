@@ -19299,6 +19299,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Mechanics.Frostwolf.FrostwolfStructurePackingConfig.Setup
   nameWithType: FrostwolfStructurePackingConfig.Setup
+- uid: WarcraftLegacies.Source.Mechanics.Frostwolf.PeonsStartHarvestingShips
+  name: PeonsStartHarvestingShips
+  href: api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.PeonsStartHarvestingShips.html
+  commentId: T:WarcraftLegacies.Source.Mechanics.Frostwolf.PeonsStartHarvestingShips
+  fullName: WarcraftLegacies.Source.Mechanics.Frostwolf.PeonsStartHarvestingShips
+  nameWithType: PeonsStartHarvestingShips
+- uid: WarcraftLegacies.Source.Mechanics.Frostwolf.PeonsStartHarvestingShips.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.PeonsStartHarvestingShips.html#WarcraftLegacies_Source_Mechanics_Frostwolf_PeonsStartHarvestingShips_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Mechanics.Frostwolf.PeonsStartHarvestingShips.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Mechanics.Frostwolf.PeonsStartHarvestingShips.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: PeonsStartHarvestingShips.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Mechanics.Frostwolf.PeonsStartHarvestingShips.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.PeonsStartHarvestingShips.html#WarcraftLegacies_Source_Mechanics_Frostwolf_PeonsStartHarvestingShips_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Mechanics.Frostwolf.PeonsStartHarvestingShips.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Mechanics.Frostwolf.PeonsStartHarvestingShips.Setup
+  nameWithType: PeonsStartHarvestingShips.Setup
 - uid: WarcraftLegacies.Source.Mechanics.Goblins
   name: WarcraftLegacies.Source.Mechanics.Goblins
   href: api-source/WarcraftLegacies.Source.Mechanics.Goblins.html

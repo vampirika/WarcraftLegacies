@@ -4505,11 +4505,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.PeonsStartHarvestingShips.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.PeonsStartHarvestingShips.html",
+          "hash": "HRlx7knbE3Sxdl//hrWITg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Frostwolf.html",
-          "hash": "KORvYosWFIKihjVUnniZ0w=="
+          "hash": "VFDgDG7Pl0U/GvGWJYmzxQ=="
         }
       },
       "is_incremental": false,
@@ -7773,7 +7785,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.GameSetup.html",
-          "hash": "gAg4B8fg1JDHZdRz6+DnYQ=="
+          "hash": "3F+4j617bZlAebU3G1kZKw=="
         }
       },
       "is_incremental": false,
@@ -8769,7 +8781,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "75CViz6oAmdYhXX3n5hv+g=="
+          "hash": "akZU7nQWtFP6l3tHvYSZlQ=="
         }
       },
       "is_incremental": false,
@@ -8844,7 +8856,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 729,
+          "total_file_count": 730,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
