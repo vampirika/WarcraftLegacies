@@ -6112,6 +6112,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.SetInvulnerable
   nameWithType: UnitExtensions.SetInvulnerable
+- uid: MacroTools.Extensions.UnitExtensions.SetLevel(unit,System.Int32,System.Boolean)
+  name: SetLevel(unit, Int32, Boolean)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetLevel_unit_System_Int32_System_Boolean_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetLevel(unit,System.Int32,System.Boolean)
+  fullName: MacroTools.Extensions.UnitExtensions.SetLevel(unit, System.Int32, System.Boolean)
+  nameWithType: UnitExtensions.SetLevel(unit, Int32, Boolean)
+- uid: MacroTools.Extensions.UnitExtensions.SetLevel*
+  name: SetLevel
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetLevel_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetLevel
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetLevel
+  nameWithType: UnitExtensions.SetLevel
 - uid: MacroTools.Extensions.UnitExtensions.SetLifePercent(unit,System.Single)
   name: SetLifePercent(unit, Single)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetLifePercent_unit_System_Single_
