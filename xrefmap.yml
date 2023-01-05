@@ -13389,19 +13389,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Powers.OilPower.Income
   nameWithType: OilPower.Income
-- uid: MacroTools.Powers.OilPower.OilPoolCount
-  name: OilPoolCount
-  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_OilPoolCount
-  commentId: P:MacroTools.Powers.OilPower.OilPoolCount
-  fullName: MacroTools.Powers.OilPower.OilPoolCount
-  nameWithType: OilPower.OilPoolCount
-- uid: MacroTools.Powers.OilPower.OilPoolCount*
-  name: OilPoolCount
-  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_OilPoolCount_
-  commentId: Overload:MacroTools.Powers.OilPower.OilPoolCount
+- uid: MacroTools.Powers.OilPower.MaximumOilPoolCount
+  name: MaximumOilPoolCount
+  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_MaximumOilPoolCount
+  commentId: P:MacroTools.Powers.OilPower.MaximumOilPoolCount
+  fullName: MacroTools.Powers.OilPower.MaximumOilPoolCount
+  nameWithType: OilPower.MaximumOilPoolCount
+- uid: MacroTools.Powers.OilPower.MaximumOilPoolCount*
+  name: MaximumOilPoolCount
+  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_MaximumOilPoolCount_
+  commentId: Overload:MacroTools.Powers.OilPower.MaximumOilPoolCount
   isSpec: "True"
-  fullName: MacroTools.Powers.OilPower.OilPoolCount
-  nameWithType: OilPower.OilPoolCount
+  fullName: MacroTools.Powers.OilPower.MaximumOilPoolCount
+  nameWithType: OilPower.MaximumOilPoolCount
 - uid: MacroTools.Powers.OilPower.OilPoolMaximumValue
   name: OilPoolMaximumValue
   href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_OilPoolMaximumValue
@@ -13454,6 +13454,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Powers.OilPower.OnRemove
   nameWithType: OilPower.OnRemove
+- uid: MacroTools.Powers.OilPower.StartingOilPoolCount
+  name: StartingOilPoolCount
+  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_StartingOilPoolCount
+  commentId: P:MacroTools.Powers.OilPower.StartingOilPoolCount
+  fullName: MacroTools.Powers.OilPower.StartingOilPoolCount
+  nameWithType: OilPower.StartingOilPoolCount
+- uid: MacroTools.Powers.OilPower.StartingOilPoolCount*
+  name: StartingOilPoolCount
+  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_StartingOilPoolCount_
+  commentId: Overload:MacroTools.Powers.OilPower.StartingOilPoolCount
+  isSpec: "True"
+  fullName: MacroTools.Powers.OilPower.StartingOilPoolCount
+  nameWithType: OilPower.StartingOilPoolCount
 - uid: MacroTools.Powers.RapidMobilization
   name: RapidMobilization
   href: api-macroTools/MacroTools.Powers.RapidMobilization.html
