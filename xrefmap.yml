@@ -27448,77 +27448,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestArathiVolunteers.RewardDescription
   nameWithType: QuestArathiVolunteers.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn
-  name: QuestArgentDawn
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.html
-  commentId: T:WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn
-  nameWithType: QuestArgentDawn
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.#ctor
-  name: QuestArgentDawn()
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.html#WarcraftLegacies_Source_Quests_Scarlet_QuestArgentDawn__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.QuestArgentDawn()
-  nameWithType: QuestArgentDawn.QuestArgentDawn()
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.#ctor*
-  name: QuestArgentDawn
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.html#WarcraftLegacies_Source_Quests_Scarlet_QuestArgentDawn__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.QuestArgentDawn
-  nameWithType: QuestArgentDawn.QuestArgentDawn
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.CompletionPopup
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.html#WarcraftLegacies_Source_Quests_Scarlet_QuestArgentDawn_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.CompletionPopup
-  nameWithType: QuestArgentDawn.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.CompletionPopup*
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.html#WarcraftLegacies_Source_Quests_Scarlet_QuestArgentDawn_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.CompletionPopup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.CompletionPopup
-  nameWithType: QuestArgentDawn.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.OnAdd(MacroTools.FactionSystem.Faction)
-  name: OnAdd(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.html#WarcraftLegacies_Source_Quests_Scarlet_QuestArgentDawn_OnAdd_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.OnAdd(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.OnAdd(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestArgentDawn.OnAdd(Faction)
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.OnAdd*
-  name: OnAdd
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.html#WarcraftLegacies_Source_Quests_Scarlet_QuestArgentDawn_OnAdd_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.OnAdd
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.OnAdd
-  nameWithType: QuestArgentDawn.OnAdd
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.html#WarcraftLegacies_Source_Quests_Scarlet_QuestArgentDawn_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestArgentDawn.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.html#WarcraftLegacies_Source_Quests_Scarlet_QuestArgentDawn_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.OnComplete
-  nameWithType: QuestArgentDawn.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.html#WarcraftLegacies_Source_Quests_Scarlet_QuestArgentDawn_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.RewardDescription
-  nameWithType: QuestArgentDawn.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.html#WarcraftLegacies_Source_Quests_Scarlet_QuestArgentDawn_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.RewardDescription
-  nameWithType: QuestArgentDawn.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Scarlet.QuestLiberateLordaeron
   name: QuestLiberateLordaeron
   href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestLiberateLordaeron.html
@@ -30979,25 +30908,6 @@ references:
   commentId: N:WarcraftLegacies.Source.Researches.Stormwind
   fullName: WarcraftLegacies.Source.Researches.Stormwind
   nameWithType: WarcraftLegacies.Source.Researches.Stormwind
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierBattleTactics
-  name: TierBattleTactics
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierBattleTactics.html
-  commentId: T:WarcraftLegacies.Source.Researches.Stormwind.TierBattleTactics
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierBattleTactics
-  nameWithType: TierBattleTactics
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierBattleTactics.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierBattleTactics.html#WarcraftLegacies_Source_Researches_Stormwind_TierBattleTactics_Setup
-  commentId: M:WarcraftLegacies.Source.Researches.Stormwind.TierBattleTactics.Setup
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierBattleTactics.Setup()
-  nameWithType: TierBattleTactics.Setup()
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierBattleTactics.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierBattleTactics.html#WarcraftLegacies_Source_Researches_Stormwind_TierBattleTactics_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Researches.Stormwind.TierBattleTactics.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierBattleTactics.Setup
-  nameWithType: TierBattleTactics.Setup
 - uid: WarcraftLegacies.Source.Researches.Stormwind.TierCodeOfChivalry
   name: TierCodeOfChivalry
   href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierCodeOfChivalry.html
@@ -31055,25 +30965,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Researches.Stormwind.TierExpeditionSurvivors.Setup
   nameWithType: TierExpeditionSurvivors.Setup
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierExploitWeakness
-  name: TierExploitWeakness
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierExploitWeakness.html
-  commentId: T:WarcraftLegacies.Source.Researches.Stormwind.TierExploitWeakness
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierExploitWeakness
-  nameWithType: TierExploitWeakness
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierExploitWeakness.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierExploitWeakness.html#WarcraftLegacies_Source_Researches_Stormwind_TierExploitWeakness_Setup
-  commentId: M:WarcraftLegacies.Source.Researches.Stormwind.TierExploitWeakness.Setup
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierExploitWeakness.Setup()
-  nameWithType: TierExploitWeakness.Setup()
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierExploitWeakness.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierExploitWeakness.html#WarcraftLegacies_Source_Researches_Stormwind_TierExploitWeakness_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Researches.Stormwind.TierExploitWeakness.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierExploitWeakness.Setup
-  nameWithType: TierExploitWeakness.Setup
 - uid: WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold
   name: TierKnowledgeOfHonorHold
   href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.html

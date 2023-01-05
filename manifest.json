@@ -6425,18 +6425,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestArgentDawn.html",
-          "hash": "jR7LbkqVuL3k+fvwI7p3Vw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestLiberateLordaeron.yml",
       "output": {
         ".html": {
@@ -6489,7 +6477,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scarlet.html",
-          "hash": "Ns0g+0E2eESg2sPuhvktWw=="
+          "hash": "ZsadjUGGoN6Hgl7+AVRRNg=="
         }
       },
       "is_incremental": false,
@@ -7157,18 +7145,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierBattleTactics.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierBattleTactics.html",
-          "hash": "9pxndlBUiF29ExJIgf2nng=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierCodeOfChivalry.yml",
       "output": {
         ".html": {
@@ -7205,18 +7181,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierExploitWeakness.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierExploitWeakness.html",
-          "hash": "P5olJoeqeTuU0uC2M7ZI9Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.yml",
       "output": {
         ".html": {
@@ -7245,7 +7209,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierReflectivePlating.html",
-          "hash": "ZW7q4YL1MSad9FjUjhM/gQ=="
+          "hash": "xrbHP5Ts191xElPUZfksOA=="
         }
       },
       "is_incremental": false,
@@ -7269,7 +7233,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierVeteranGuard.html",
-          "hash": "52PDKhTsT05Jq3W95yGXTg=="
+          "hash": "9bcizNHmhKpQbphSXNTZnw=="
         }
       },
       "is_incremental": false,
@@ -7281,7 +7245,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.html",
-          "hash": "FRb66u+uf0VTXtdzwJCzCw=="
+          "hash": "uRU7rz9S60Az3jp0jTErYA=="
         }
       },
       "is_incremental": false,
@@ -8841,7 +8805,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "5fOOXdJn9zh7xtYIELtpug=="
+          "hash": "lRbiAZo9ETO2ijil9sAXbA=="
         }
       },
       "is_incremental": false,
@@ -8916,7 +8880,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 735,
+          "total_file_count": 732,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
