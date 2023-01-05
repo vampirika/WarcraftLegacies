@@ -2049,7 +2049,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objective.html",
-          "hash": "L18JfApBxloCNkQZ1qRZkg=="
+          "hash": "g75P3e4Zu5E9chNGDfJAsw=="
         }
       },
       "is_incremental": false,
@@ -2158,6 +2158,18 @@
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpell.html",
           "hash": "GgnET3MMuUh27eqVLhDSLw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit.html",
+          "hash": "t4M3uoUCFDgBqGX1aYrM8g=="
         }
       },
       "is_incremental": false,
@@ -2565,7 +2577,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.html",
-          "hash": "v/S+FHdRIPj5YQKwTzIMCw=="
+          "hash": "j6R+B45dlyKcpm9jru2u8Q=="
         }
       },
       "is_incremental": false,
@@ -3933,7 +3945,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "1ex/K9lgT533QPBiC4bAUg=="
+          "hash": "kz+GqRMc5gcOwfm8fvpUYA=="
         }
       },
       "is_incremental": false,
@@ -6393,7 +6405,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestRagnaros.html",
-          "hash": "iAr+iOKXQz3DQwDUKA2czw=="
+          "hash": "zvrR7GCIAY+bdqDq4ALlnQ=="
         }
       },
       "is_incremental": false,
@@ -8856,7 +8868,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 730,
+          "total_file_count": 731,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

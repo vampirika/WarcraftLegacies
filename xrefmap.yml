@@ -10331,6 +10331,38 @@ references:
   isSpec: "True"
   fullName: MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpell.Caster
   nameWithType: ObjectiveCastSpell.Caster
+- uid: MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit
+  name: ObjectiveCastSpellFromUnit
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit.html
+  commentId: T:MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit
+  fullName: MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit
+  nameWithType: ObjectiveCastSpellFromUnit
+- uid: MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit.#ctor(System.Int32,unit)
+  name: ObjectiveCastSpellFromUnit(Int32, unit)
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit.html#MacroTools_ObjectiveSystem_Objectives_ObjectiveCastSpellFromUnit__ctor_System_Int32_unit_
+  commentId: M:MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit.#ctor(System.Int32,unit)
+  fullName: MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit.ObjectiveCastSpellFromUnit(System.Int32, unit)
+  nameWithType: ObjectiveCastSpellFromUnit.ObjectiveCastSpellFromUnit(Int32, unit)
+- uid: MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit.#ctor*
+  name: ObjectiveCastSpellFromUnit
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit.html#MacroTools_ObjectiveSystem_Objectives_ObjectiveCastSpellFromUnit__ctor_
+  commentId: Overload:MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit.#ctor
+  isSpec: "True"
+  fullName: MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit.ObjectiveCastSpellFromUnit
+  nameWithType: ObjectiveCastSpellFromUnit.ObjectiveCastSpellFromUnit
+- uid: MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit.Position
+  name: Position
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit.html#MacroTools_ObjectiveSystem_Objectives_ObjectiveCastSpellFromUnit_Position
+  commentId: P:MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit.Position
+  fullName: MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit.Position
+  nameWithType: ObjectiveCastSpellFromUnit.Position
+- uid: MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit.Position*
+  name: Position
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit.html#MacroTools_ObjectiveSystem_Objectives_ObjectiveCastSpellFromUnit_Position_
+  commentId: Overload:MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit.Position
+  isSpec: "True"
+  fullName: MacroTools.ObjectiveSystem.Objectives.ObjectiveCastSpellFromUnit.Position
+  nameWithType: ObjectiveCastSpellFromUnit.Position
 - uid: MacroTools.ObjectiveSystem.Objectives.ObjectiveChannelRect
   name: ObjectiveChannelRect
   href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.ObjectiveChannelRect.html
@@ -27229,19 +27261,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.QuestRagnaros.CompletionPopup
   nameWithType: QuestRagnaros.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.QuestRagnaros.FailurePopup
-  name: FailurePopup
-  href: api-source/WarcraftLegacies.Source.Quests.QuestRagnaros.html#WarcraftLegacies_Source_Quests_QuestRagnaros_FailurePopup
-  commentId: P:WarcraftLegacies.Source.Quests.QuestRagnaros.FailurePopup
-  fullName: WarcraftLegacies.Source.Quests.QuestRagnaros.FailurePopup
-  nameWithType: QuestRagnaros.FailurePopup
-- uid: WarcraftLegacies.Source.Quests.QuestRagnaros.FailurePopup*
-  name: FailurePopup
-  href: api-source/WarcraftLegacies.Source.Quests.QuestRagnaros.html#WarcraftLegacies_Source_Quests_QuestRagnaros_FailurePopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.QuestRagnaros.FailurePopup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.QuestRagnaros.FailurePopup
-  nameWithType: QuestRagnaros.FailurePopup
 - uid: WarcraftLegacies.Source.Quests.QuestRagnaros.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
   href: api-source/WarcraftLegacies.Source.Quests.QuestRagnaros.html#WarcraftLegacies_Source_Quests_QuestRagnaros_OnComplete_MacroTools_FactionSystem_Faction_
