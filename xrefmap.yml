@@ -4638,6 +4638,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.PlayerExtensions.DisplayHint
   nameWithType: PlayerExtensions.DisplayHint
+- uid: MacroTools.Extensions.PlayerExtensions.DisplayLegendaryHeroSummoned(player,MacroTools.LegendSystem.LegendaryHero,System.String)
+  name: DisplayLegendaryHeroSummoned(player, LegendaryHero, String)
+  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_DisplayLegendaryHeroSummoned_player_MacroTools_LegendSystem_LegendaryHero_System_String_
+  commentId: M:MacroTools.Extensions.PlayerExtensions.DisplayLegendaryHeroSummoned(player,MacroTools.LegendSystem.LegendaryHero,System.String)
+  fullName: MacroTools.Extensions.PlayerExtensions.DisplayLegendaryHeroSummoned(player, MacroTools.LegendSystem.LegendaryHero, System.String)
+  nameWithType: PlayerExtensions.DisplayLegendaryHeroSummoned(player, LegendaryHero, String)
+- uid: MacroTools.Extensions.PlayerExtensions.DisplayLegendaryHeroSummoned*
+  name: DisplayLegendaryHeroSummoned
+  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_DisplayLegendaryHeroSummoned_
+  commentId: Overload:MacroTools.Extensions.PlayerExtensions.DisplayLegendaryHeroSummoned
+  isSpec: "True"
+  fullName: MacroTools.Extensions.PlayerExtensions.DisplayLegendaryHeroSummoned
+  nameWithType: PlayerExtensions.DisplayLegendaryHeroSummoned
 - uid: MacroTools.Extensions.PlayerExtensions.DisplayPowerAcquired(player,MacroTools.FactionSystem.Power)
   name: DisplayPowerAcquired(player, Power)
   href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_DisplayPowerAcquired_player_MacroTools_FactionSystem_Power_
