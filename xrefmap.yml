@@ -16773,6 +16773,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Spells.SummonLegionSpell.OnCast
   nameWithType: SummonLegionSpell.OnCast
+- uid: MacroTools.Spells.SummonLegionSpell.OnStartCast(unit,unit,Point)
+  name: OnStartCast(unit, unit, Point)
+  href: api-macroTools/MacroTools.Spells.SummonLegionSpell.html#MacroTools_Spells_SummonLegionSpell_OnStartCast_unit_unit_Point_
+  commentId: M:MacroTools.Spells.SummonLegionSpell.OnStartCast(unit,unit,Point)
+  fullName: MacroTools.Spells.SummonLegionSpell.OnStartCast(unit, unit, Point)
+  nameWithType: SummonLegionSpell.OnStartCast(unit, unit, Point)
+- uid: MacroTools.Spells.SummonLegionSpell.OnStartCast*
+  name: OnStartCast
+  href: api-macroTools/MacroTools.Spells.SummonLegionSpell.html#MacroTools_Spells_SummonLegionSpell_OnStartCast_
+  commentId: Overload:MacroTools.Spells.SummonLegionSpell.OnStartCast
+  isSpec: "True"
+  fullName: MacroTools.Spells.SummonLegionSpell.OnStartCast
+  nameWithType: SummonLegionSpell.OnStartCast
 - uid: MacroTools.Spells.SummonUnits
   name: SummonUnits
   href: api-macroTools/MacroTools.Spells.SummonUnits.html
