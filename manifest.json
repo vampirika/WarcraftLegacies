@@ -6053,30 +6053,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestGarithosCrusade.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestGarithosCrusade.html",
-          "hash": "EnyAl6UJifdoFiGd/sdK+g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestGarithosMindControl.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestGarithosMindControl.html",
-          "hash": "Jstsk8IjUSWBLBR9tSdNYQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestHearthglen.yml",
       "output": {
         ".html": {
@@ -6189,7 +6165,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.html",
-          "hash": "eO5qu9XWlyP4WHTfGUTxcg=="
+          "hash": "T1IMN4zKugXF7LZ8TTgwjg=="
         }
       },
       "is_incremental": false,
@@ -8793,7 +8769,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "akZU7nQWtFP6l3tHvYSZlQ=="
+          "hash": "UmxhLEkz/R8LDuxFCgYwWg=="
         }
       },
       "is_incremental": false,
@@ -8868,7 +8844,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 731,
+          "total_file_count": 729,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
