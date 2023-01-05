@@ -7157,18 +7157,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierElectricStrikeRitual.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierElectricStrikeRitual.html",
-          "hash": "dwy/RIB/cqAN9963uFB1WQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierExpeditionSurvivors.yml",
       "output": {
         ".html": {
@@ -7181,47 +7169,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.html",
-          "hash": "gnUMf6QrlxpMRf5DLcc73g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.html",
-          "hash": "b021DQs8P5stUekTIxL3xw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierReflectivePlating.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierReflectivePlating.html",
           "hash": "xrbHP5Ts191xElPUZfksOA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierSolarFlareRitual.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.TierSolarFlareRitual.html",
-          "hash": "lNlZHfBrjmQwdbatyeQGig=="
         }
       },
       "is_incremental": false,
@@ -7245,7 +7197,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Researches.Stormwind.html",
-          "hash": "uRU7rz9S60Az3jp0jTErYA=="
+          "hash": "Q1Zf3K4MeylhdWvoAqKpPg=="
         }
       },
       "is_incremental": false,
@@ -8805,7 +8757,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "lRbiAZo9ETO2ijil9sAXbA=="
+          "hash": "DneTVcHzcGicDhUqIAukCg=="
         }
       },
       "is_incremental": false,
@@ -8880,7 +8832,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 732,
+          "total_file_count": 728,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

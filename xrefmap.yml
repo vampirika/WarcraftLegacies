@@ -30927,25 +30927,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Researches.Stormwind.TierCodeOfChivalry.Setup
   nameWithType: TierCodeOfChivalry.Setup
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierElectricStrikeRitual
-  name: TierElectricStrikeRitual
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierElectricStrikeRitual.html
-  commentId: T:WarcraftLegacies.Source.Researches.Stormwind.TierElectricStrikeRitual
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierElectricStrikeRitual
-  nameWithType: TierElectricStrikeRitual
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierElectricStrikeRitual.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierElectricStrikeRitual.html#WarcraftLegacies_Source_Researches_Stormwind_TierElectricStrikeRitual_Setup
-  commentId: M:WarcraftLegacies.Source.Researches.Stormwind.TierElectricStrikeRitual.Setup
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierElectricStrikeRitual.Setup()
-  nameWithType: TierElectricStrikeRitual.Setup()
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierElectricStrikeRitual.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierElectricStrikeRitual.html#WarcraftLegacies_Source_Researches_Stormwind_TierElectricStrikeRitual_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Researches.Stormwind.TierElectricStrikeRitual.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierElectricStrikeRitual.Setup
-  nameWithType: TierElectricStrikeRitual.Setup
 - uid: WarcraftLegacies.Source.Researches.Stormwind.TierExpeditionSurvivors
   name: TierExpeditionSurvivors
   href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierExpeditionSurvivors.html
@@ -30965,44 +30946,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Researches.Stormwind.TierExpeditionSurvivors.Setup
   nameWithType: TierExpeditionSurvivors.Setup
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold
-  name: TierKnowledgeOfHonorHold
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.html
-  commentId: T:WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold
-  nameWithType: TierKnowledgeOfHonorHold
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.html#WarcraftLegacies_Source_Researches_Stormwind_TierKnowledgeOfHonorHold_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: TierKnowledgeOfHonorHold.Setup(PreplacedUnitSystem)
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.html#WarcraftLegacies_Source_Researches_Stormwind_TierKnowledgeOfHonorHold_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierKnowledgeOfHonorHold.Setup
-  nameWithType: TierKnowledgeOfHonorHold.Setup
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde
-  name: TierMagesOfStromgarde
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.html
-  commentId: T:WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde
-  nameWithType: TierMagesOfStromgarde
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.html#WarcraftLegacies_Source_Researches_Stormwind_TierMagesOfStromgarde_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: TierMagesOfStromgarde.Setup(PreplacedUnitSystem)
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.html#WarcraftLegacies_Source_Researches_Stormwind_TierMagesOfStromgarde_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierMagesOfStromgarde.Setup
-  nameWithType: TierMagesOfStromgarde.Setup
 - uid: WarcraftLegacies.Source.Researches.Stormwind.TierReflectivePlating
   name: TierReflectivePlating
   href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierReflectivePlating.html
@@ -31022,25 +30965,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Researches.Stormwind.TierReflectivePlating.Setup
   nameWithType: TierReflectivePlating.Setup
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierSolarFlareRitual
-  name: TierSolarFlareRitual
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierSolarFlareRitual.html
-  commentId: T:WarcraftLegacies.Source.Researches.Stormwind.TierSolarFlareRitual
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierSolarFlareRitual
-  nameWithType: TierSolarFlareRitual
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierSolarFlareRitual.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierSolarFlareRitual.html#WarcraftLegacies_Source_Researches_Stormwind_TierSolarFlareRitual_Setup
-  commentId: M:WarcraftLegacies.Source.Researches.Stormwind.TierSolarFlareRitual.Setup
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierSolarFlareRitual.Setup()
-  nameWithType: TierSolarFlareRitual.Setup()
-- uid: WarcraftLegacies.Source.Researches.Stormwind.TierSolarFlareRitual.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierSolarFlareRitual.html#WarcraftLegacies_Source_Researches_Stormwind_TierSolarFlareRitual_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Researches.Stormwind.TierSolarFlareRitual.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Researches.Stormwind.TierSolarFlareRitual.Setup
-  nameWithType: TierSolarFlareRitual.Setup
 - uid: WarcraftLegacies.Source.Researches.Stormwind.TierVeteranGuard
   name: TierVeteranGuard
   href: api-source/WarcraftLegacies.Source.Researches.Stormwind.TierVeteranGuard.html
