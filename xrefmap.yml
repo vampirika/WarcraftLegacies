@@ -27164,12 +27164,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.QuestBookOfMedivh
   fullName: WarcraftLegacies.Source.Quests.QuestBookOfMedivh
   nameWithType: QuestBookOfMedivh
-- uid: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.#ctor(unit,System.Boolean,MacroTools.ArtifactSystem.Artifact)
-  name: QuestBookOfMedivh(unit, Boolean, Artifact)
-  href: api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html#WarcraftLegacies_Source_Quests_QuestBookOfMedivh__ctor_unit_System_Boolean_MacroTools_ArtifactSystem_Artifact_
-  commentId: M:WarcraftLegacies.Source.Quests.QuestBookOfMedivh.#ctor(unit,System.Boolean,MacroTools.ArtifactSystem.Artifact)
-  fullName: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.QuestBookOfMedivh(unit, System.Boolean, MacroTools.ArtifactSystem.Artifact)
-  nameWithType: QuestBookOfMedivh.QuestBookOfMedivh(unit, Boolean, Artifact)
+- uid: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.#ctor(unit,MacroTools.ArtifactSystem.Artifact,System.Boolean,System.Boolean)
+  name: QuestBookOfMedivh(unit, Artifact, Boolean, Boolean)
+  href: api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html#WarcraftLegacies_Source_Quests_QuestBookOfMedivh__ctor_unit_MacroTools_ArtifactSystem_Artifact_System_Boolean_System_Boolean_
+  commentId: M:WarcraftLegacies.Source.Quests.QuestBookOfMedivh.#ctor(unit,MacroTools.ArtifactSystem.Artifact,System.Boolean,System.Boolean)
+  fullName: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.QuestBookOfMedivh(unit, MacroTools.ArtifactSystem.Artifact, System.Boolean, System.Boolean)
+  nameWithType: QuestBookOfMedivh.QuestBookOfMedivh(unit, Artifact, Boolean, Boolean)
 - uid: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.#ctor*
   name: QuestBookOfMedivh
   href: api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html#WarcraftLegacies_Source_Quests_QuestBookOfMedivh__ctor_
