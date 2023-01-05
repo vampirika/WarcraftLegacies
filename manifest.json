@@ -425,42 +425,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Buffs.OilHarvesterBuff.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Buffs.OilHarvesterBuff.html",
-          "hash": "ZabBWF0mXBPfln2dVFmKiw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Buffs.OilProducerBuff.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Buffs.OilProducerBuff.html",
-          "hash": "s/lqRbtkc8P8kaxjL5/GcA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Buffs.OilUserBuff.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Buffs.OilUserBuff.html",
-          "hash": "q5w9gPF4mq/kx8tg0yRp3w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Buffs.ResurrectionAuraCaster.yml",
       "output": {
         ".html": {
@@ -549,7 +513,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Buffs.html",
-          "hash": "DMX924vIbhrMC5b5lYmPPA=="
+          "hash": "zbp13HtZ4Re/EYhOe8tLJQ=="
         }
       },
       "is_incremental": false,
@@ -2717,18 +2681,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.OilHarvester.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.PassiveAbilities.OilHarvester.html",
-          "hash": "XBWiulc20KFwwuw2f4ZyyQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.yml",
       "output": {
         ".html": {
@@ -2853,7 +2805,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.html",
-          "hash": "/rbbPdv6r2maKRhMbkdvHg=="
+          "hash": "PcbKp3KGKpNLV50/pcbNtA=="
         }
       },
       "is_incremental": false,
@@ -2889,7 +2841,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html",
-          "hash": "DRWB/HCs5/RCKhZT/eZguA=="
+          "hash": "kvernDAGBENwRQTRheDtAw=="
         }
       },
       "is_incremental": false,
@@ -3981,7 +3933,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "DclR1PQfwbwjQKgDeHOkLg=="
+          "hash": "1ex/K9lgT533QPBiC4bAUg=="
         }
       },
       "is_incremental": false,
@@ -4589,11 +4541,71 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilHarvester.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilHarvester.html",
+          "hash": "86ZTRtvgcEA9nyElpN8/SA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilHarvesterBuff.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilHarvesterBuff.html",
+          "hash": "4F9HfjZWnylMfM3p2KqmYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilProducer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilProducer.html",
+          "hash": "maRFxe9KqNMPrC1jpdt3ZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilProducerBuff.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilProducerBuff.html",
+          "hash": "+Z8ZX1wUV9UUdMBo3tQd0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilUser.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilUser.html",
           "hash": "6whk7vQdaJxJACBijDmKtQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilUserBuff.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.OilUserBuff.html",
+          "hash": "KXtfQHPxkKA+7UCfupmsWQ=="
         }
       },
       "is_incremental": false,
@@ -4617,7 +4629,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Goblins.html",
-          "hash": "ImPQDe9tsLva6FsbC5HQ+Q=="
+          "hash": "gAIyE3McW59Zqe8iNT+ENg=="
         }
       },
       "is_incremental": false,
@@ -8757,7 +8769,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "DneTVcHzcGicDhUqIAukCg=="
+          "hash": "75CViz6oAmdYhXX3n5hv+g=="
         }
       },
       "is_incremental": false,
@@ -8832,7 +8844,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 728,
+          "total_file_count": 729,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
