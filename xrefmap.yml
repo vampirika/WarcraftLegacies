@@ -32446,6 +32446,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ControlPointSetup.Setup
   nameWithType: ControlPointSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.DarkPortalControlNexusSetup
+  name: DarkPortalControlNexusSetup
+  href: api-source/WarcraftLegacies.Source.Setup.DarkPortalControlNexusSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.DarkPortalControlNexusSetup
+  fullName: WarcraftLegacies.Source.Setup.DarkPortalControlNexusSetup
+  nameWithType: DarkPortalControlNexusSetup
+- uid: WarcraftLegacies.Source.Setup.DarkPortalControlNexusSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.DarkPortalControlNexusSetup.html#WarcraftLegacies_Source_Setup_DarkPortalControlNexusSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.DarkPortalControlNexusSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.DarkPortalControlNexusSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: DarkPortalControlNexusSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.DarkPortalControlNexusSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.DarkPortalControlNexusSetup.html#WarcraftLegacies_Source_Setup_DarkPortalControlNexusSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.DarkPortalControlNexusSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.DarkPortalControlNexusSetup.Setup
+  nameWithType: DarkPortalControlNexusSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.DemonGateSetup
   name: DemonGateSetup
   href: api-source/WarcraftLegacies.Source.Setup.DemonGateSetup.html
@@ -35885,12 +35904,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup
   nameWithType: FelHordeQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_FelHordeQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: FelHordeQuestSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_FelHordeQuestSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup()
+  nameWithType: FelHordeQuestSetup.Setup()
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_FelHordeQuestSetup_Setup_

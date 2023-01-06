@@ -7445,6 +7445,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.DarkPortalControlNexusSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.DarkPortalControlNexusSetup.html",
+          "hash": "JcHGUG/dNsWp/6XxpPjmHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.DemonGateSetup.yml",
       "output": {
         ".html": {
@@ -8193,7 +8205,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.html",
-          "hash": "uG7kG9g1YpFdccSG1G48XQ=="
+          "hash": "rf4OZ+fZCxZ9mqdDS1DDMQ=="
         }
       },
       "is_incremental": false,
@@ -8673,7 +8685,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.html",
-          "hash": "BHfvWtfFhCqflsBsJr+nwA=="
+          "hash": "96NQgGCP1b4s+85lEZ6hKA=="
         }
       },
       "is_incremental": false,
@@ -8769,7 +8781,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "UmxhLEkz/R8LDuxFCgYwWg=="
+          "hash": "1S7vxz3wlBhjhIIxcErqFQ=="
         }
       },
       "is_incremental": false,
@@ -8844,7 +8856,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 729,
+          "total_file_count": 730,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
