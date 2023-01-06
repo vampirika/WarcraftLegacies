@@ -27667,77 +27667,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestTownWatch.RewardDescription
   nameWithType: QuestTownWatch.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr
-  name: QuestTyr
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.html
-  commentId: T:WarcraftLegacies.Source.Quests.Scarlet.QuestTyr
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr
-  nameWithType: QuestTyr
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.#ctor(Rectangle)
-  name: QuestTyr(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.html#WarcraftLegacies_Source_Quests_Scarlet_QuestTyr__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.QuestTyr(Rectangle)
-  nameWithType: QuestTyr.QuestTyr(Rectangle)
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.#ctor*
-  name: QuestTyr
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.html#WarcraftLegacies_Source_Quests_Scarlet_QuestTyr__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.QuestTyr
-  nameWithType: QuestTyr.QuestTyr
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.CompletionPopup
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.html#WarcraftLegacies_Source_Quests_Scarlet_QuestTyr_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.CompletionPopup
-  nameWithType: QuestTyr.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.CompletionPopup*
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.html#WarcraftLegacies_Source_Quests_Scarlet_QuestTyr_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.CompletionPopup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.CompletionPopup
-  nameWithType: QuestTyr.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.html#WarcraftLegacies_Source_Quests_Scarlet_QuestTyr_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestTyr.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.html#WarcraftLegacies_Source_Quests_Scarlet_QuestTyr_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.OnComplete
-  nameWithType: QuestTyr.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.OnFail(MacroTools.FactionSystem.Faction)
-  name: OnFail(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.html#WarcraftLegacies_Source_Quests_Scarlet_QuestTyr_OnFail_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.OnFail(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.OnFail(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestTyr.OnFail(Faction)
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.OnFail*
-  name: OnFail
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.html#WarcraftLegacies_Source_Quests_Scarlet_QuestTyr_OnFail_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.OnFail
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.OnFail
-  nameWithType: QuestTyr.OnFail
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.html#WarcraftLegacies_Source_Quests_Scarlet_QuestTyr_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.RewardDescription
-  nameWithType: QuestTyr.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.html#WarcraftLegacies_Source_Quests_Scarlet_QuestTyr_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.RewardDescription
-  nameWithType: QuestTyr.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Scourge
   name: WarcraftLegacies.Source.Quests.Scourge
   href: api-source/WarcraftLegacies.Source.Quests.Scourge.html
@@ -36139,12 +36068,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup
   nameWithType: ScarletQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ScarletQuestSetup_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: ScarletQuestSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ScarletQuestSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.Setup()
+  nameWithType: ScarletQuestSetup.Setup()
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ScarletQuestSetup_Setup_

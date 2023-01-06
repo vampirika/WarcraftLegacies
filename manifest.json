@@ -6473,23 +6473,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scarlet.QuestTyr.html",
-          "hash": "0OfVKZUYld51LdU1OJ0Oug=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Scarlet.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scarlet.html",
-          "hash": "ZsadjUGGoN6Hgl7+AVRRNg=="
+          "hash": "RceVZnHFkIPtbDmi9UzTZQ=="
         }
       },
       "is_incremental": false,
@@ -8337,7 +8325,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.ScarletQuestSetup.html",
-          "hash": "mfDzfFEvb8nn2YjWqE8xlA=="
+          "hash": "RBQlXGR2PVNgxZ8g4cUXNQ=="
         }
       },
       "is_incremental": false,
@@ -8781,7 +8769,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "1S7vxz3wlBhjhIIxcErqFQ=="
+          "hash": "DHK/Xef0aCia9GAuIU/YUg=="
         }
       },
       "is_incremental": false,
@@ -8856,7 +8844,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 730,
+          "total_file_count": 729,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
