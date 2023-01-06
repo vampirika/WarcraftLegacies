@@ -16012,6 +16012,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.OpeningDelay
   nameWithType: SlipstreamPortalChannel.OpeningDelay
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.PortalOffset
+  name: PortalOffset
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_PortalOffset
+  commentId: P:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.PortalOffset
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.PortalOffset
+  nameWithType: SlipstreamPortalChannel.PortalOffset
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.PortalOffset*
+  name: PortalOffset
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_PortalOffset_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.PortalOffset
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.PortalOffset
+  nameWithType: SlipstreamPortalChannel.PortalOffset
 - uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.PortalUnitTypeId
   name: PortalUnitTypeId
   href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_PortalUnitTypeId
@@ -16242,6 +16255,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Spells.Slipstream.SlipstreamSpellSpecificLocation.OpeningDelay
   nameWithType: SlipstreamSpellSpecificLocation.OpeningDelay
+- uid: MacroTools.Spells.Slipstream.SlipstreamSpellSpecificLocation.PortalOffset
+  name: PortalOffset
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpellSpecificLocation.html#MacroTools_Spells_Slipstream_SlipstreamSpellSpecificLocation_PortalOffset
+  commentId: P:MacroTools.Spells.Slipstream.SlipstreamSpellSpecificLocation.PortalOffset
+  fullName: MacroTools.Spells.Slipstream.SlipstreamSpellSpecificLocation.PortalOffset
+  nameWithType: SlipstreamSpellSpecificLocation.PortalOffset
+- uid: MacroTools.Spells.Slipstream.SlipstreamSpellSpecificLocation.PortalOffset*
+  name: PortalOffset
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpellSpecificLocation.html#MacroTools_Spells_Slipstream_SlipstreamSpellSpecificLocation_PortalOffset_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamSpellSpecificLocation.PortalOffset
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamSpellSpecificLocation.PortalOffset
+  nameWithType: SlipstreamSpellSpecificLocation.PortalOffset
 - uid: MacroTools.Spells.Slipstream.SlipstreamSpellSpecificLocation.PortalUnitTypeId
   name: PortalUnitTypeId
   href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamSpellSpecificLocation.html#MacroTools_Spells_Slipstream_SlipstreamSpellSpecificLocation_PortalUnitTypeId
