@@ -8471,12 +8471,12 @@ references:
   commentId: T:MacroTools.IntegrityChecker
   fullName: MacroTools.IntegrityChecker
   nameWithType: IntegrityChecker
-- uid: MacroTools.IntegrityChecker.Setup
-  name: Setup()
-  href: api-macroTools/MacroTools.IntegrityChecker.html#MacroTools_IntegrityChecker_Setup
-  commentId: M:MacroTools.IntegrityChecker.Setup
-  fullName: MacroTools.IntegrityChecker.Setup()
-  nameWithType: IntegrityChecker.Setup()
+- uid: MacroTools.IntegrityChecker.Setup(System.Boolean)
+  name: Setup(Boolean)
+  href: api-macroTools/MacroTools.IntegrityChecker.html#MacroTools_IntegrityChecker_Setup_System_Boolean_
+  commentId: M:MacroTools.IntegrityChecker.Setup(System.Boolean)
+  fullName: MacroTools.IntegrityChecker.Setup(System.Boolean)
+  nameWithType: IntegrityChecker.Setup(Boolean)
 - uid: MacroTools.IntegrityChecker.Setup*
   name: Setup
   href: api-macroTools/MacroTools.IntegrityChecker.html#MacroTools_IntegrityChecker_Setup_
