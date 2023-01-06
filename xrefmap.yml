@@ -22316,6 +22316,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.CompletionPopup
   nameWithType: QuestBlackrock.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.OnAdd(MacroTools.FactionSystem.Faction)
+  name: OnAdd(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestBlackrock_OnAdd_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.OnAdd(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.OnAdd(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestBlackrock.OnAdd(Faction)
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.OnAdd*
+  name: OnAdd
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestBlackrock_OnAdd_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.OnAdd
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.OnAdd
+  nameWithType: QuestBlackrock.OnAdd
 - uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
   href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestBlackrock_OnComplete_MacroTools_FactionSystem_Faction_
