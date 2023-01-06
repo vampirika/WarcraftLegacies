@@ -22587,6 +22587,64 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.RewardDescription
   nameWithType: QuestHellfireCitadel.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple
+  name: QuestRebuildBlackTemple
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html
+  commentId: T:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple
+  nameWithType: QuestRebuildBlackTemple
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.#ctor(Rectangle)
+  name: QuestRebuildBlackTemple(Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRebuildBlackTemple__ctor_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.#ctor(Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.QuestRebuildBlackTemple(Rectangle)
+  nameWithType: QuestRebuildBlackTemple.QuestRebuildBlackTemple(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.#ctor*
+  name: QuestRebuildBlackTemple
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRebuildBlackTemple__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.QuestRebuildBlackTemple
+  nameWithType: QuestRebuildBlackTemple.QuestRebuildBlackTemple
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRebuildBlackTemple_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.CompletionPopup
+  nameWithType: QuestRebuildBlackTemple.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRebuildBlackTemple_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.CompletionPopup
+  nameWithType: QuestRebuildBlackTemple.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRebuildBlackTemple_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestRebuildBlackTemple.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRebuildBlackTemple_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.OnComplete
+  nameWithType: QuestRebuildBlackTemple.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRebuildBlackTemple_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.RewardDescription
+  nameWithType: QuestRebuildBlackTemple.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRebuildBlackTemple_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.RewardDescription
+  nameWithType: QuestRebuildBlackTemple.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Forsaken
   name: WarcraftLegacies.Source.Quests.Forsaken
   href: api-source/WarcraftLegacies.Source.Quests.Forsaken.html
@@ -26159,6 +26217,77 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Naga.QuestADestinyofFlameandSorrow.RewardDescription
   nameWithType: QuestADestinyofFlameandSorrow.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple
+  name: QuestBlackTemple
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.html
+  commentId: T:WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple
+  nameWithType: QuestBlackTemple
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.#ctor(Rectangle)
+  name: QuestBlackTemple(Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.html#WarcraftLegacies_Source_Quests_Naga_QuestBlackTemple__ctor_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.#ctor(Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.QuestBlackTemple(Rectangle)
+  nameWithType: QuestBlackTemple.QuestBlackTemple(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.#ctor*
+  name: QuestBlackTemple
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.html#WarcraftLegacies_Source_Quests_Naga_QuestBlackTemple__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.QuestBlackTemple
+  nameWithType: QuestBlackTemple.QuestBlackTemple
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.html#WarcraftLegacies_Source_Quests_Naga_QuestBlackTemple_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.CompletionPopup
+  nameWithType: QuestBlackTemple.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.html#WarcraftLegacies_Source_Quests_Naga_QuestBlackTemple_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.CompletionPopup
+  nameWithType: QuestBlackTemple.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.html#WarcraftLegacies_Source_Quests_Naga_QuestBlackTemple_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestBlackTemple.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.html#WarcraftLegacies_Source_Quests_Naga_QuestBlackTemple_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.OnComplete
+  nameWithType: QuestBlackTemple.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.OnFail(MacroTools.FactionSystem.Faction)
+  name: OnFail(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.html#WarcraftLegacies_Source_Quests_Naga_QuestBlackTemple_OnFail_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.OnFail(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.OnFail(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestBlackTemple.OnFail(Faction)
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.OnFail*
+  name: OnFail
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.html#WarcraftLegacies_Source_Quests_Naga_QuestBlackTemple_OnFail_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.OnFail
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.OnFail
+  nameWithType: QuestBlackTemple.OnFail
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.html#WarcraftLegacies_Source_Quests_Naga_QuestBlackTemple_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.RewardDescription
+  nameWithType: QuestBlackTemple.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.html#WarcraftLegacies_Source_Quests_Naga_QuestBlackTemple_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.RewardDescription
+  nameWithType: QuestBlackTemple.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras
   name: QuestEyeofSargeras
   href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.html
@@ -26333,77 +26462,77 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.RewardDescription
   nameWithType: QuestLostOnes.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur
-  name: QuestMurmur
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html
-  commentId: T:WarcraftLegacies.Source.Quests.Naga.QuestMurmur
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur
-  nameWithType: QuestMurmur
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.#ctor(MacroTools.PreplacedUnitSystem)
-  name: QuestMurmur(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur__ctor_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.#ctor(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.QuestMurmur(MacroTools.PreplacedUnitSystem)
-  nameWithType: QuestMurmur.QuestMurmur(PreplacedUnitSystem)
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.#ctor*
-  name: QuestMurmur
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.#ctor
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestNajentus
+  name: QuestNajentus
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestNajentus.html
+  commentId: T:WarcraftLegacies.Source.Quests.Naga.QuestNajentus
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestNajentus
+  nameWithType: QuestNajentus
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.#ctor
+  name: QuestNajentus()
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestNajentus.html#WarcraftLegacies_Source_Quests_Naga_QuestNajentus__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestNajentus.#ctor
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.QuestNajentus()
+  nameWithType: QuestNajentus.QuestNajentus()
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.#ctor*
+  name: QuestNajentus
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestNajentus.html#WarcraftLegacies_Source_Quests_Naga_QuestNajentus__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestNajentus.#ctor
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.QuestMurmur
-  nameWithType: QuestMurmur.QuestMurmur
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.QuestNajentus
+  nameWithType: QuestNajentus.QuestNajentus
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.CompletionPopup
   name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.CompletionPopup
-  nameWithType: QuestMurmur.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.CompletionPopup*
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestNajentus.html#WarcraftLegacies_Source_Quests_Naga_QuestNajentus_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestNajentus.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.CompletionPopup
+  nameWithType: QuestNajentus.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.CompletionPopup*
   name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestNajentus.html#WarcraftLegacies_Source_Quests_Naga_QuestNajentus_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestNajentus.CompletionPopup
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.CompletionPopup
-  nameWithType: QuestMurmur.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnAdd(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.CompletionPopup
+  nameWithType: QuestNajentus.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.OnAdd(MacroTools.FactionSystem.Faction)
   name: OnAdd(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur_OnAdd_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnAdd(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnAdd(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestMurmur.OnAdd(Faction)
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnAdd*
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestNajentus.html#WarcraftLegacies_Source_Quests_Naga_QuestNajentus_OnAdd_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestNajentus.OnAdd(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.OnAdd(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestNajentus.OnAdd(Faction)
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.OnAdd*
   name: OnAdd
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur_OnAdd_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnAdd
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestNajentus.html#WarcraftLegacies_Source_Quests_Naga_QuestNajentus_OnAdd_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestNajentus.OnAdd
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnAdd
-  nameWithType: QuestMurmur.OnAdd
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.OnAdd
+  nameWithType: QuestNajentus.OnAdd
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestMurmur.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnComplete*
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestNajentus.html#WarcraftLegacies_Source_Quests_Naga_QuestNajentus_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestNajentus.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestNajentus.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.OnComplete*
   name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestNajentus.html#WarcraftLegacies_Source_Quests_Naga_QuestNajentus_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestNajentus.OnComplete
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.OnComplete
-  nameWithType: QuestMurmur.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.OnComplete
+  nameWithType: QuestNajentus.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.RewardDescription
   name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.RewardDescription
-  nameWithType: QuestMurmur.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.RewardDescription*
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestNajentus.html#WarcraftLegacies_Source_Quests_Naga_QuestNajentus_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestNajentus.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.RewardDescription
+  nameWithType: QuestNajentus.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.RewardDescription*
   name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html#WarcraftLegacies_Source_Quests_Naga_QuestMurmur_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestMurmur.RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestNajentus.html#WarcraftLegacies_Source_Quests_Naga_QuestNajentus_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestNajentus.RewardDescription
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestMurmur.RewardDescription
-  nameWithType: QuestMurmur.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestNajentus.RewardDescription
+  nameWithType: QuestNajentus.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Naga.QuestRegroupCastaway
   name: QuestRegroupCastaway
   href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestRegroupCastaway.html
@@ -26449,77 +26578,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Naga.QuestRegroupCastaway.RewardDescription
   nameWithType: QuestRegroupCastaway.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar
-  name: QuestSuramar
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html
-  commentId: T:WarcraftLegacies.Source.Quests.Naga.QuestSuramar
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar
-  nameWithType: QuestSuramar
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.#ctor(Rectangle)
-  name: QuestSuramar(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.QuestSuramar(Rectangle)
-  nameWithType: QuestSuramar.QuestSuramar(Rectangle)
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.#ctor*
-  name: QuestSuramar
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.QuestSuramar
-  nameWithType: QuestSuramar.QuestSuramar
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.CompletionPopup
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.CompletionPopup
-  nameWithType: QuestSuramar.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.CompletionPopup*
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.CompletionPopup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.CompletionPopup
-  nameWithType: QuestSuramar.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestSuramar.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnComplete
-  nameWithType: QuestSuramar.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnFail(MacroTools.FactionSystem.Faction)
-  name: OnFail(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar_OnFail_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnFail(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnFail(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestSuramar.OnFail(Faction)
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnFail*
-  name: OnFail
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar_OnFail_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnFail
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.OnFail
-  nameWithType: QuestSuramar.OnFail
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.RewardDescription
-  nameWithType: QuestSuramar.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html#WarcraftLegacies_Source_Quests_Naga_QuestSuramar_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestSuramar.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSuramar.RewardDescription
-  nameWithType: QuestSuramar.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Quelthalas
   name: WarcraftLegacies.Source.Quests.Quelthalas
   href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.html

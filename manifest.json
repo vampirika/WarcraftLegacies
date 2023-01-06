@@ -5417,11 +5417,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html",
+          "hash": "spyaxvkK4FBwyxPqMjrn4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.html",
-          "hash": "H9o1VTYI8sfjiKPyX8bgVg=="
+          "hash": "PbBBcRw2t81dEvQrFLOL5w=="
         }
       },
       "is_incremental": false,
@@ -6185,6 +6197,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.html",
+          "hash": "IyLRvYuvWTdzWM9rpy/cdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.yml",
       "output": {
         ".html": {
@@ -6221,11 +6245,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.yml",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestNajentus.yml",
       "output": {
         ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestMurmur.html",
-          "hash": "uJdX3xG4t52XujR6hU0WOQ=="
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestNajentus.html",
+          "hash": "LJ8i1w8lOQbItSv2BfVNXw=="
         }
       },
       "is_incremental": false,
@@ -6245,23 +6269,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestSuramar.html",
-          "hash": "zjFIYm+tHO/Un1325qOYjA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.html",
-          "hash": "CHNaprg1K3ntCDgXe3N51g=="
+          "hash": "ToBQW1lAgyILoy3hdzImWA=="
         }
       },
       "is_incremental": false,
@@ -8541,7 +8553,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.IllidariSpellSetup.html",
-          "hash": "XzoxIj4mUKltZsdMeeGC1Q=="
+          "hash": "4luDFvxGBO100WrMxn2+jg=="
         }
       },
       "is_incremental": false,
@@ -8769,7 +8781,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "DHK/Xef0aCia9GAuIU/YUg=="
+          "hash": "5zDcw9yRvYSB756E3AzzLw=="
         }
       },
       "is_incremental": false,
@@ -8844,7 +8856,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 729,
+          "total_file_count": 730,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
