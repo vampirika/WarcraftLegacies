@@ -6578,6 +6578,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Faction.GetAllPowers
   nameWithType: Faction.GetAllPowers
+- uid: MacroTools.FactionSystem.Faction.GetAllQuests
+  name: GetAllQuests()
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_GetAllQuests
+  commentId: M:MacroTools.FactionSystem.Faction.GetAllQuests
+  fullName: MacroTools.FactionSystem.Faction.GetAllQuests()
+  nameWithType: Faction.GetAllQuests()
+- uid: MacroTools.FactionSystem.Faction.GetAllQuests*
+  name: GetAllQuests
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_GetAllQuests_
+  commentId: Overload:MacroTools.FactionSystem.Faction.GetAllQuests
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Faction.GetAllQuests
+  nameWithType: Faction.GetAllQuests
 - uid: MacroTools.FactionSystem.Faction.GetLimitedObjects
   name: GetLimitedObjects()
   href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_GetLimitedObjects
@@ -13648,19 +13661,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.QuestSystem.QuestData.QuestData
   nameWithType: QuestData.QuestData
-- uid: MacroTools.QuestSystem.QuestData.AddObjective(MacroTools.ObjectiveSystem.Objective)
-  name: AddObjective(Objective)
-  href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_AddObjective_MacroTools_ObjectiveSystem_Objective_
-  commentId: M:MacroTools.QuestSystem.QuestData.AddObjective(MacroTools.ObjectiveSystem.Objective)
-  fullName: MacroTools.QuestSystem.QuestData.AddObjective(MacroTools.ObjectiveSystem.Objective)
-  nameWithType: QuestData.AddObjective(Objective)
-- uid: MacroTools.QuestSystem.QuestData.AddObjective*
-  name: AddObjective
-  href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_AddObjective_
-  commentId: Overload:MacroTools.QuestSystem.QuestData.AddObjective
-  isSpec: "True"
-  fullName: MacroTools.QuestSystem.QuestData.AddObjective
-  nameWithType: QuestData.AddObjective
 - uid: MacroTools.QuestSystem.QuestData.CompletionPopup
   name: CompletionPopup
   href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_CompletionPopup
@@ -13674,19 +13674,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.QuestSystem.QuestData.CompletionPopup
   nameWithType: QuestData.CompletionPopup
-- uid: MacroTools.QuestSystem.QuestData.DisplayDiscovered(MacroTools.FactionSystem.Faction)
-  name: DisplayDiscovered(Faction)
-  href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_DisplayDiscovered_MacroTools_FactionSystem_Faction_
-  commentId: M:MacroTools.QuestSystem.QuestData.DisplayDiscovered(MacroTools.FactionSystem.Faction)
-  fullName: MacroTools.QuestSystem.QuestData.DisplayDiscovered(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestData.DisplayDiscovered(Faction)
-- uid: MacroTools.QuestSystem.QuestData.DisplayDiscovered*
-  name: DisplayDiscovered
-  href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_DisplayDiscovered_
-  commentId: Overload:MacroTools.QuestSystem.QuestData.DisplayDiscovered
-  isSpec: "True"
-  fullName: MacroTools.QuestSystem.QuestData.DisplayDiscovered
-  nameWithType: QuestData.DisplayDiscovered
 - uid: MacroTools.QuestSystem.QuestData.FailurePopup
   name: FailurePopup
   href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_FailurePopup
@@ -13713,45 +13700,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.QuestSystem.QuestData.Global
   nameWithType: QuestData.Global
-- uid: MacroTools.QuestSystem.QuestData.OnAdd(MacroTools.FactionSystem.Faction)
-  name: OnAdd(Faction)
-  href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_OnAdd_MacroTools_FactionSystem_Faction_
-  commentId: M:MacroTools.QuestSystem.QuestData.OnAdd(MacroTools.FactionSystem.Faction)
-  fullName: MacroTools.QuestSystem.QuestData.OnAdd(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestData.OnAdd(Faction)
-- uid: MacroTools.QuestSystem.QuestData.OnAdd*
-  name: OnAdd
-  href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_OnAdd_
-  commentId: Overload:MacroTools.QuestSystem.QuestData.OnAdd
-  isSpec: "True"
-  fullName: MacroTools.QuestSystem.QuestData.OnAdd
-  nameWithType: QuestData.OnAdd
-- uid: MacroTools.QuestSystem.QuestData.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:MacroTools.QuestSystem.QuestData.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: MacroTools.QuestSystem.QuestData.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestData.OnComplete(Faction)
-- uid: MacroTools.QuestSystem.QuestData.OnComplete*
-  name: OnComplete
-  href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_OnComplete_
-  commentId: Overload:MacroTools.QuestSystem.QuestData.OnComplete
-  isSpec: "True"
-  fullName: MacroTools.QuestSystem.QuestData.OnComplete
-  nameWithType: QuestData.OnComplete
-- uid: MacroTools.QuestSystem.QuestData.OnFail(MacroTools.FactionSystem.Faction)
-  name: OnFail(Faction)
-  href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_OnFail_MacroTools_FactionSystem_Faction_
-  commentId: M:MacroTools.QuestSystem.QuestData.OnFail(MacroTools.FactionSystem.Faction)
-  fullName: MacroTools.QuestSystem.QuestData.OnFail(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestData.OnFail(Faction)
-- uid: MacroTools.QuestSystem.QuestData.OnFail*
-  name: OnFail
-  href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_OnFail_
-  commentId: Overload:MacroTools.QuestSystem.QuestData.OnFail
-  isSpec: "True"
-  fullName: MacroTools.QuestSystem.QuestData.OnFail
-  nameWithType: QuestData.OnFail
 - uid: MacroTools.QuestSystem.QuestData.PenaltyDescription
   name: PenaltyDescription
   href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_PenaltyDescription
@@ -13765,38 +13713,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.QuestSystem.QuestData.PenaltyDescription
   nameWithType: QuestData.PenaltyDescription
-- uid: MacroTools.QuestSystem.QuestData.Progress
-  name: Progress
-  href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_Progress
-  commentId: P:MacroTools.QuestSystem.QuestData.Progress
-  fullName: MacroTools.QuestSystem.QuestData.Progress
-  nameWithType: QuestData.Progress
-- uid: MacroTools.QuestSystem.QuestData.Progress*
-  name: Progress
-  href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_Progress_
-  commentId: Overload:MacroTools.QuestSystem.QuestData.Progress
-  isSpec: "True"
-  fullName: MacroTools.QuestSystem.QuestData.Progress
-  nameWithType: QuestData.Progress
-- uid: MacroTools.QuestSystem.QuestData.ProgressChanged
-  name: ProgressChanged
-  href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_ProgressChanged
-  commentId: E:MacroTools.QuestSystem.QuestData.ProgressChanged
-  fullName: MacroTools.QuestSystem.QuestData.ProgressChanged
-  nameWithType: QuestData.ProgressChanged
-- uid: MacroTools.QuestSystem.QuestData.ProgressLocked
-  name: ProgressLocked
-  href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_ProgressLocked
-  commentId: P:MacroTools.QuestSystem.QuestData.ProgressLocked
-  fullName: MacroTools.QuestSystem.QuestData.ProgressLocked
-  nameWithType: QuestData.ProgressLocked
-- uid: MacroTools.QuestSystem.QuestData.ProgressLocked*
-  name: ProgressLocked
-  href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_ProgressLocked_
-  commentId: Overload:MacroTools.QuestSystem.QuestData.ProgressLocked
-  isSpec: "True"
-  fullName: MacroTools.QuestSystem.QuestData.ProgressLocked
-  nameWithType: QuestData.ProgressLocked
 - uid: MacroTools.QuestSystem.QuestData.Required
   name: Required
   href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_Required
