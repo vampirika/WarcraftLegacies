@@ -25086,12 +25086,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Legion.QuestArgusControl
   fullName: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl
   nameWithType: QuestArgusControl
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.#ctor(MacroTools.PreplacedUnitSystem)
-  name: QuestArgusControl(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.html#WarcraftLegacies_Source_Quests_Legion_QuestArgusControl__ctor_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.#ctor(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.QuestArgusControl(MacroTools.PreplacedUnitSystem)
-  nameWithType: QuestArgusControl.QuestArgusControl(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.#ctor
+  name: QuestArgusControl()
+  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.html#WarcraftLegacies_Source_Quests_Legion_QuestArgusControl__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.#ctor
+  fullName: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.QuestArgusControl()
+  nameWithType: QuestArgusControl.QuestArgusControl()
 - uid: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.#ctor*
   name: QuestArgusControl
   href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.html#WarcraftLegacies_Source_Quests_Legion_QuestArgusControl__ctor_
@@ -34465,32 +34465,32 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LEGEND_TICHONDRIUS
   nameWithType: LegendLegion.LEGEND_TICHONDRIUS
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LEGION_NEXUS_NORTHREND
-  name: LEGION_NEXUS_NORTHREND
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLegion.html#WarcraftLegacies_Source_Setup_Legends_LegendLegion_LEGION_NEXUS_NORTHREND
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendLegion.LEGION_NEXUS_NORTHREND
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LEGION_NEXUS_NORTHREND
-  nameWithType: LegendLegion.LEGION_NEXUS_NORTHREND
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LEGION_NEXUS_NORTHREND*
-  name: LEGION_NEXUS_NORTHREND
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLegion.html#WarcraftLegacies_Source_Setup_Legends_LegendLegion_LEGION_NEXUS_NORTHREND_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendLegion.LEGION_NEXUS_NORTHREND
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LegionNexusAlterac
+  name: LegionNexusAlterac
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLegion.html#WarcraftLegacies_Source_Setup_Legends_LegendLegion_LegionNexusAlterac
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendLegion.LegionNexusAlterac
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LegionNexusAlterac
+  nameWithType: LegendLegion.LegionNexusAlterac
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LegionNexusAlterac*
+  name: LegionNexusAlterac
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLegion.html#WarcraftLegacies_Source_Setup_Legends_LegendLegion_LegionNexusAlterac_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendLegion.LegionNexusAlterac
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LEGION_NEXUS_NORTHREND
-  nameWithType: LegendLegion.LEGION_NEXUS_NORTHREND
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LEGION_NEXUS_OUTLAND
-  name: LEGION_NEXUS_OUTLAND
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLegion.html#WarcraftLegacies_Source_Setup_Legends_LegendLegion_LEGION_NEXUS_OUTLAND
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendLegion.LEGION_NEXUS_OUTLAND
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LEGION_NEXUS_OUTLAND
-  nameWithType: LegendLegion.LEGION_NEXUS_OUTLAND
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LEGION_NEXUS_OUTLAND*
-  name: LEGION_NEXUS_OUTLAND
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLegion.html#WarcraftLegacies_Source_Setup_Legends_LegendLegion_LEGION_NEXUS_OUTLAND_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendLegion.LEGION_NEXUS_OUTLAND
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LegionNexusAlterac
+  nameWithType: LegendLegion.LegionNexusAlterac
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LegionNexusNorthrend
+  name: LegionNexusNorthrend
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLegion.html#WarcraftLegacies_Source_Setup_Legends_LegendLegion_LegionNexusNorthrend
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendLegion.LegionNexusNorthrend
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LegionNexusNorthrend
+  nameWithType: LegendLegion.LegionNexusNorthrend
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LegionNexusNorthrend*
+  name: LegionNexusNorthrend
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLegion.html#WarcraftLegacies_Source_Setup_Legends_LegendLegion_LegionNexusNorthrend_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendLegion.LegionNexusNorthrend
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LEGION_NEXUS_OUTLAND
-  nameWithType: LegendLegion.LEGION_NEXUS_OUTLAND
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LegionNexusNorthrend
+  nameWithType: LegendLegion.LegionNexusNorthrend
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendLegion.Setup(MacroTools.PreplacedUnitSystem)
   name: Setup(PreplacedUnitSystem)
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLegion.html#WarcraftLegacies_Source_Setup_Legends_LegendLegion_Setup_MacroTools_PreplacedUnitSystem_
