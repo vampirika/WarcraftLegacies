@@ -4057,19 +4057,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.ControlPointSystem.ControlPointManager.MaxHitpoints
   nameWithType: ControlPointManager.MaxHitpoints
-- uid: MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility
-  name: RegenerationAbility
-  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_RegenerationAbility
-  commentId: P:MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility
-  fullName: MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility
-  nameWithType: ControlPointManager.RegenerationAbility
-- uid: MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility*
-  name: RegenerationAbility
-  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_RegenerationAbility_
-  commentId: Overload:MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility
-  isSpec: "True"
-  fullName: MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility
-  nameWithType: ControlPointManager.RegenerationAbility
 - uid: MacroTools.ControlPointSystem.ControlPointManager.Register(MacroTools.ControlPointSystem.ControlPoint)
   name: Register(ControlPoint)
   href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_Register_MacroTools_ControlPointSystem_ControlPoint_
