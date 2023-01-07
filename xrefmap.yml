@@ -32966,6 +32966,19 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.Legends.LegendFelHorde
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendFelHorde
   nameWithType: LegendFelHorde
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.Gruul
+  name: Gruul
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.html#WarcraftLegacies_Source_Setup_Legends_LegendFelHorde_Gruul
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.Gruul
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.Gruul
+  nameWithType: LegendFelHorde.Gruul
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.Gruul*
+  name: Gruul
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.html#WarcraftLegacies_Source_Setup_Legends_LegendFelHorde_Gruul_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.Gruul
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.Gruul
+  nameWithType: LegendFelHorde.Gruul
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.LegendBlackrockspire
   name: LegendBlackrockspire
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.html#WarcraftLegacies_Source_Setup_Legends_LegendFelHorde_LegendBlackrockspire
@@ -33199,19 +33212,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.LegendDarkspearhold
   nameWithType: LegendFrostwolf.LegendDarkspearhold
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.LegendOrgrimmar
-  name: LegendOrgrimmar
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.html#WarcraftLegacies_Source_Setup_Legends_LegendFrostwolf_LegendOrgrimmar
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.LegendOrgrimmar
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.LegendOrgrimmar
-  nameWithType: LegendFrostwolf.LegendOrgrimmar
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.LegendOrgrimmar*
-  name: LegendOrgrimmar
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.html#WarcraftLegacies_Source_Setup_Legends_LegendFrostwolf_LegendOrgrimmar_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.LegendOrgrimmar
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.LegendOrgrimmar
-  nameWithType: LegendFrostwolf.LegendOrgrimmar
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.LegendRexxar
   name: LegendRexxar
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.html#WarcraftLegacies_Source_Setup_Legends_LegendFrostwolf_LegendRexxar
@@ -34914,6 +34914,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.GromHellscream
   nameWithType: LegendWarsong.GromHellscream
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Orgrimmar
+  name: Orgrimmar
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html#WarcraftLegacies_Source_Setup_Legends_LegendWarsong_Orgrimmar
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Orgrimmar
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Orgrimmar
+  nameWithType: LegendWarsong.Orgrimmar
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Orgrimmar*
+  name: Orgrimmar
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html#WarcraftLegacies_Source_Setup_Legends_LegendWarsong_Orgrimmar_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Orgrimmar
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Orgrimmar
+  nameWithType: LegendWarsong.Orgrimmar
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Saurfang
   name: Saurfang
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html#WarcraftLegacies_Source_Setup_Legends_LegendWarsong_Saurfang
@@ -34953,19 +34966,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.StonemaulKeep
   nameWithType: LegendWarsong.StonemaulKeep
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.WarsongEncampment
-  name: WarsongEncampment
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html#WarcraftLegacies_Source_Setup_Legends_LegendWarsong_WarsongEncampment
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendWarsong.WarsongEncampment
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.WarsongEncampment
-  nameWithType: LegendWarsong.WarsongEncampment
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.WarsongEncampment*
-  name: WarsongEncampment
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html#WarcraftLegacies_Source_Setup_Legends_LegendWarsong_WarsongEncampment_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendWarsong.WarsongEncampment
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.WarsongEncampment
-  nameWithType: LegendWarsong.WarsongEncampment
 - uid: WarcraftLegacies.Source.Setup.NeutralHostileSetup
   name: NeutralHostileSetup
   href: api-source/WarcraftLegacies.Source.Setup.NeutralHostileSetup.html
