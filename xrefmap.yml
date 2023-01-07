@@ -25181,19 +25181,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.CompletionPopup
   nameWithType: QuestArgusControl.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.html#WarcraftLegacies_Source_Quests_Legion_QuestArgusControl_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestArgusControl.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.html#WarcraftLegacies_Source_Quests_Legion_QuestArgusControl_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.OnComplete
-  nameWithType: QuestArgusControl.OnComplete
 - uid: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.html#WarcraftLegacies_Source_Quests_Legion_QuestArgusControl_RewardDescription
