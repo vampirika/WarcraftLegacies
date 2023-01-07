@@ -8760,6 +8760,12 @@ references:
   isSpec: "True"
   fullName: MacroTools.LegendSystem.LegendaryHero.ClearUnitDependencies
   nameWithType: LegendaryHero.ClearUnitDependencies
+- uid: MacroTools.LegendSystem.LegendaryHero.DealtDamage
+  name: DealtDamage
+  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_DealtDamage
+  commentId: E:MacroTools.LegendSystem.LegendaryHero.DealtDamage
+  fullName: MacroTools.LegendSystem.LegendaryHero.DealtDamage
+  nameWithType: LegendaryHero.DealtDamage
 - uid: MacroTools.LegendSystem.LegendaryHero.DeathSfx
   name: DeathSfx
   href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_DeathSfx
@@ -10600,6 +10606,25 @@ references:
   isSpec: "True"
   fullName: MacroTools.ObjectiveSystem.Objectives.ObjectiveControlUnit.Position
   nameWithType: ObjectiveControlUnit.Position
+- uid: MacroTools.ObjectiveSystem.Objectives.ObjectiveDamagePlayer
+  name: ObjectiveDamagePlayer
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.ObjectiveDamagePlayer.html
+  commentId: T:MacroTools.ObjectiveSystem.Objectives.ObjectiveDamagePlayer
+  fullName: MacroTools.ObjectiveSystem.Objectives.ObjectiveDamagePlayer
+  nameWithType: ObjectiveDamagePlayer
+- uid: MacroTools.ObjectiveSystem.Objectives.ObjectiveDamagePlayer.#ctor(player)
+  name: ObjectiveDamagePlayer(player)
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.ObjectiveDamagePlayer.html#MacroTools_ObjectiveSystem_Objectives_ObjectiveDamagePlayer__ctor_player_
+  commentId: M:MacroTools.ObjectiveSystem.Objectives.ObjectiveDamagePlayer.#ctor(player)
+  fullName: MacroTools.ObjectiveSystem.Objectives.ObjectiveDamagePlayer.ObjectiveDamagePlayer(player)
+  nameWithType: ObjectiveDamagePlayer.ObjectiveDamagePlayer(player)
+- uid: MacroTools.ObjectiveSystem.Objectives.ObjectiveDamagePlayer.#ctor*
+  name: ObjectiveDamagePlayer
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.ObjectiveDamagePlayer.html#MacroTools_ObjectiveSystem_Objectives_ObjectiveDamagePlayer__ctor_
+  commentId: Overload:MacroTools.ObjectiveSystem.Objectives.ObjectiveDamagePlayer.#ctor
+  isSpec: "True"
+  fullName: MacroTools.ObjectiveSystem.Objectives.ObjectiveDamagePlayer.ObjectiveDamagePlayer
+  nameWithType: ObjectiveDamagePlayer.ObjectiveDamagePlayer
 - uid: MacroTools.ObjectiveSystem.Objectives.ObjectiveDontCompleteQuest
   name: ObjectiveDontCompleteQuest
   href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.ObjectiveDontCompleteQuest.html
@@ -10961,6 +10986,25 @@ references:
   isSpec: "True"
   fullName: MacroTools.ObjectiveSystem.Objectives.ObjectiveLegendLevel.ObjectiveLegendLevel
   nameWithType: ObjectiveLegendLevel.ObjectiveLegendLevel
+- uid: MacroTools.ObjectiveSystem.Objectives.ObjectiveLegendMeetsLegend
+  name: ObjectiveLegendMeetsLegend
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.ObjectiveLegendMeetsLegend.html
+  commentId: T:MacroTools.ObjectiveSystem.Objectives.ObjectiveLegendMeetsLegend
+  fullName: MacroTools.ObjectiveSystem.Objectives.ObjectiveLegendMeetsLegend
+  nameWithType: ObjectiveLegendMeetsLegend
+- uid: MacroTools.ObjectiveSystem.Objectives.ObjectiveLegendMeetsLegend.#ctor(MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero)
+  name: ObjectiveLegendMeetsLegend(LegendaryHero, LegendaryHero)
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.ObjectiveLegendMeetsLegend.html#MacroTools_ObjectiveSystem_Objectives_ObjectiveLegendMeetsLegend__ctor_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:MacroTools.ObjectiveSystem.Objectives.ObjectiveLegendMeetsLegend.#ctor(MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero)
+  fullName: MacroTools.ObjectiveSystem.Objectives.ObjectiveLegendMeetsLegend.ObjectiveLegendMeetsLegend(MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: ObjectiveLegendMeetsLegend.ObjectiveLegendMeetsLegend(LegendaryHero, LegendaryHero)
+- uid: MacroTools.ObjectiveSystem.Objectives.ObjectiveLegendMeetsLegend.#ctor*
+  name: ObjectiveLegendMeetsLegend
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.ObjectiveLegendMeetsLegend.html#MacroTools_ObjectiveSystem_Objectives_ObjectiveLegendMeetsLegend__ctor_
+  commentId: Overload:MacroTools.ObjectiveSystem.Objectives.ObjectiveLegendMeetsLegend.#ctor
+  isSpec: "True"
+  fullName: MacroTools.ObjectiveSystem.Objectives.ObjectiveLegendMeetsLegend.ObjectiveLegendMeetsLegend
+  nameWithType: ObjectiveLegendMeetsLegend.ObjectiveLegendMeetsLegend
 - uid: MacroTools.ObjectiveSystem.Objectives.ObjectiveLegendNotPermanentlyDead
   name: ObjectiveLegendNotPermanentlyDead
   href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.ObjectiveLegendNotPermanentlyDead.html
@@ -18721,6 +18765,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup.Setup
   nameWithType: DruidsDialogueSetup.Setup
+- uid: WarcraftLegacies.Source.Dialogue.IllidariDialogueSetup
+  name: IllidariDialogueSetup
+  href: api-source/WarcraftLegacies.Source.Dialogue.IllidariDialogueSetup.html
+  commentId: T:WarcraftLegacies.Source.Dialogue.IllidariDialogueSetup
+  fullName: WarcraftLegacies.Source.Dialogue.IllidariDialogueSetup
+  nameWithType: IllidariDialogueSetup
+- uid: WarcraftLegacies.Source.Dialogue.IllidariDialogueSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Dialogue.IllidariDialogueSetup.html#WarcraftLegacies_Source_Dialogue_IllidariDialogueSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Dialogue.IllidariDialogueSetup.Setup
+  fullName: WarcraftLegacies.Source.Dialogue.IllidariDialogueSetup.Setup()
+  nameWithType: IllidariDialogueSetup.Setup()
+- uid: WarcraftLegacies.Source.Dialogue.IllidariDialogueSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Dialogue.IllidariDialogueSetup.html#WarcraftLegacies_Source_Dialogue_IllidariDialogueSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Dialogue.IllidariDialogueSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Dialogue.IllidariDialogueSetup.Setup
+  nameWithType: IllidariDialogueSetup.Setup
 - uid: WarcraftLegacies.Source.Dialogue.LordaeronDialogueSetup
   name: LordaeronDialogueSetup
   href: api-source/WarcraftLegacies.Source.Dialogue.LordaeronDialogueSetup.html
@@ -18759,6 +18822,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Dialogue.ScourgeDialogueSetup.Setup
   nameWithType: ScourgeDialogueSetup.Setup
+- uid: WarcraftLegacies.Source.Dialogue.SentinelsDialogueSetup
+  name: SentinelsDialogueSetup
+  href: api-source/WarcraftLegacies.Source.Dialogue.SentinelsDialogueSetup.html
+  commentId: T:WarcraftLegacies.Source.Dialogue.SentinelsDialogueSetup
+  fullName: WarcraftLegacies.Source.Dialogue.SentinelsDialogueSetup
+  nameWithType: SentinelsDialogueSetup
+- uid: WarcraftLegacies.Source.Dialogue.SentinelsDialogueSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Dialogue.SentinelsDialogueSetup.html#WarcraftLegacies_Source_Dialogue_SentinelsDialogueSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Dialogue.SentinelsDialogueSetup.Setup
+  fullName: WarcraftLegacies.Source.Dialogue.SentinelsDialogueSetup.Setup()
+  nameWithType: SentinelsDialogueSetup.Setup()
+- uid: WarcraftLegacies.Source.Dialogue.SentinelsDialogueSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Dialogue.SentinelsDialogueSetup.html#WarcraftLegacies_Source_Dialogue_SentinelsDialogueSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Dialogue.SentinelsDialogueSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Dialogue.SentinelsDialogueSetup.Setup
+  nameWithType: SentinelsDialogueSetup.Setup
 - uid: WarcraftLegacies.Source.Dialogue.WarsongDialogueSetup
   name: WarsongDialogueSetup
   href: api-source/WarcraftLegacies.Source.Dialogue.WarsongDialogueSetup.html
