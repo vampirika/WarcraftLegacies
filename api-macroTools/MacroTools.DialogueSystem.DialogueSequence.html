@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class Dialogue
+    <title>Class DialogueSequence
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class Dialogue
+    <meta name="title" content="Class DialogueSequence
    ">
     <meta name="generator" content="docfx 2.56.7.0">
     
@@ -68,18 +68,18 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="MacroTools.DialogueSystem.Dialogue">
+            <article class="content wrap" id="_content" data-uid="MacroTools.DialogueSystem.DialogueSequence">
   
   
-  <h1 id="MacroTools_DialogueSystem_Dialogue" data-uid="MacroTools.DialogueSystem.Dialogue" class="text-break">Class Dialogue
+  <h1 id="MacroTools_DialogueSystem_DialogueSequence" data-uid="MacroTools.DialogueSystem.DialogueSequence" class="text-break">Class DialogueSequence
   </h1>
-  <div class="markdown level0 summary"><p>Can play a piece of dialogue from the Warcraft 3 campaign.</p>
+  <div class="markdown level0 summary"><p>A sequence of <a class="xref" href="MacroTools.DialogueSystem.Dialogue.html">Dialogue</a>s that can be made to play in order.</p>
 </div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><span class="xref">System.Object</span></div>
-    <div class="level1"><span class="xref">Dialogue</span></div>
+    <div class="level1"><span class="xref">DialogueSequence</span></div>
   </div>
   <div classs="implements">
     <h5>Implements</h5>
@@ -87,27 +87,27 @@
   </div>
   <h6><strong>Namespace</strong>: <a class="xref" href="MacroTools.DialogueSystem.html">MacroTools.DialogueSystem</a></h6>
   <h6><strong>Assembly</strong>: MacroTools.dll</h6>
-  <h5 id="MacroTools_DialogueSystem_Dialogue_syntax">Syntax</h5>
+  <h5 id="MacroTools_DialogueSystem_DialogueSequence_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public sealed class Dialogue : object, IHasPlayableDialogue</code></pre>
+    <pre><code class="lang-csharp hljs">public sealed class DialogueSequence : object, IHasPlayableDialogue</code></pre>
   </div>
   <h3 id="constructors">Constructors
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_DialogueSystem_Dialogue__ctor_System_String_System_String_System_String_.md&amp;value=---%0Auid%3A%20MacroTools.DialogueSystem.Dialogue.%23ctor(System.String%2CSystem.String%2CSystem.String)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_DialogueSystem_DialogueSequence__ctor_MacroTools_DialogueSystem_Dialogue___.md&amp;value=---%0Auid%3A%20MacroTools.DialogueSystem.DialogueSequence.%23ctor(MacroTools.DialogueSystem.Dialogue%5B%5D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/DialogueSystem/Dialogue.cs/#L26">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/DialogueSystem/DialogueSequence.cs/#L17">View Source</a>
   </span>
-  <a id="MacroTools_DialogueSystem_Dialogue__ctor_" data-uid="MacroTools.DialogueSystem.Dialogue.#ctor*"></a>
-  <h4 id="MacroTools_DialogueSystem_Dialogue__ctor_System_String_System_String_System_String_" data-uid="MacroTools.DialogueSystem.Dialogue.#ctor(System.String,System.String,System.String)">Dialogue(String, String, String)</h4>
-  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="MacroTools.DialogueSystem.Dialogue.html">Dialogue</a> class.</p>
+  <a id="MacroTools_DialogueSystem_DialogueSequence__ctor_" data-uid="MacroTools.DialogueSystem.DialogueSequence.#ctor*"></a>
+  <h4 id="MacroTools_DialogueSystem_DialogueSequence__ctor_MacroTools_DialogueSystem_Dialogue___" data-uid="MacroTools.DialogueSystem.DialogueSequence.#ctor(MacroTools.DialogueSystem.Dialogue[])">DialogueSequence(Dialogue[])</h4>
+  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="MacroTools.DialogueSystem.DialogueSequence.html">DialogueSequence</a> class.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public Dialogue(string soundFile, string caption, string speaker)</code></pre>
+    <pre><code class="lang-csharp hljs">public DialogueSequence(params Dialogue[] dialogues)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -120,54 +120,8 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.String</span></td>
-        <td><span class="parametername">soundFile</span></td>
-        <td><p>A path to the sound file which the dialogue will play.</p>
-</td>
-      </tr>
-      <tr>
-        <td><span class="xref">System.String</span></td>
-        <td><span class="parametername">caption</span></td>
-        <td><p>Gets displayed to the user when the dialogue is played.</p>
-</td>
-      </tr>
-      <tr>
-        <td><span class="xref">System.String</span></td>
-        <td><span class="parametername">speaker</span></td>
-        <td><p>The character that is saying the dialogue.</p>
-</td>
-      </tr>
-    </tbody>
-  </table>
-  <h3 id="properties">Properties
-  </h3>
-  <span class="small pull-right mobile-hide">
-    <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_DialogueSystem_Dialogue_Sound.md&amp;value=---%0Auid%3A%20MacroTools.DialogueSystem.Dialogue.Sound%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
-  </span>
-  <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/DialogueSystem/Dialogue.cs/#L18">View Source</a>
-  </span>
-  <a id="MacroTools_DialogueSystem_Dialogue_Sound_" data-uid="MacroTools.DialogueSystem.Dialogue.Sound*"></a>
-  <h4 id="MacroTools_DialogueSystem_Dialogue_Sound" data-uid="MacroTools.DialogueSystem.Dialogue.Sound">Sound</h4>
-  <div class="markdown level1 summary"><p>The <a class="xref" href="MacroTools.Wrappers.SoundWrapper.html">SoundWrapper</a> played by this <a class="xref" href="MacroTools.DialogueSystem.Dialogue.html">Dialogue</a>.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public SoundWrapper Sound { get; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a class="xref" href="MacroTools.Wrappers.SoundWrapper.html">SoundWrapper</a></td>
+        <td><a class="xref" href="MacroTools.DialogueSystem.Dialogue.html">Dialogue</a>[]</td>
+        <td><span class="parametername">dialogues</span></td>
         <td></td>
       </tr>
     </tbody>
@@ -176,14 +130,14 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_DialogueSystem_Dialogue_Play_System_Nullable_List_player___.md&amp;value=---%0Auid%3A%20MacroTools.DialogueSystem.Dialogue.Play(System.Nullable%7BList%7Bplayer%7D%7D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_DialogueSystem_DialogueSequence_Play_System_Nullable_List_player___.md&amp;value=---%0Auid%3A%20MacroTools.DialogueSystem.DialogueSequence.Play(System.Nullable%7BList%7Bplayer%7D%7D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/DialogueSystem/Dialogue.cs/#L36">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/DialogueSystem/DialogueSequence.cs/#L25">View Source</a>
   </span>
-  <a id="MacroTools_DialogueSystem_Dialogue_Play_" data-uid="MacroTools.DialogueSystem.Dialogue.Play*"></a>
-  <h4 id="MacroTools_DialogueSystem_Dialogue_Play_System_Nullable_List_player___" data-uid="MacroTools.DialogueSystem.Dialogue.Play(System.Nullable{List{player}})">Play(Nullable&lt;List&lt;player&gt;&gt;)</h4>
-  <div class="markdown level1 summary"><p>Plays the <a class="xref" href="MacroTools.DialogueSystem.Dialogue.html">Dialogue</a> to eligible audience members.</p>
+  <a id="MacroTools_DialogueSystem_DialogueSequence_Play_" data-uid="MacroTools.DialogueSystem.DialogueSequence.Play*"></a>
+  <h4 id="MacroTools_DialogueSystem_DialogueSequence_Play_System_Nullable_List_player___" data-uid="MacroTools.DialogueSystem.DialogueSequence.Play(System.Nullable{List{player}})">Play(Nullable&lt;List&lt;player&gt;&gt;)</h4>
+  <div class="markdown level1 summary"><p>Plays the entire <a class="xref" href="MacroTools.DialogueSystem.Dialogue.html">Dialogue</a> sequence in order.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
@@ -219,10 +173,10 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_DialogueSystem_Dialogue.md&amp;value=---%0Auid%3A%20MacroTools.DialogueSystem.Dialogue%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_DialogueSystem_DialogueSequence.md&amp;value=---%0Auid%3A%20MacroTools.DialogueSystem.DialogueSequence%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/DialogueSystem/Dialogue.cs/#L10" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/DialogueSystem/DialogueSequence.cs/#L10" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>

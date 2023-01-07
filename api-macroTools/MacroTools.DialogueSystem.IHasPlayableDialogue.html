@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class DruidsDialogueSetup
+    <title>Interface IHasPlayableDialogue
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class DruidsDialogueSetup
+    <meta name="title" content="Interface IHasPlayableDialogue
    ">
     <meta name="generator" content="docfx 2.56.7.0">
     
@@ -68,43 +68,55 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup">
+            <article class="content wrap" id="_content" data-uid="MacroTools.DialogueSystem.IHasPlayableDialogue">
   
   
-  <h1 id="WarcraftLegacies_Source_Dialogue_DruidsDialogueSetup" data-uid="WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup" class="text-break">Class DruidsDialogueSetup
+  <h1 id="MacroTools_DialogueSystem_IHasPlayableDialogue" data-uid="MacroTools.DialogueSystem.IHasPlayableDialogue" class="text-break">Interface IHasPlayableDialogue
   </h1>
-  <div class="markdown level0 summary"><p>Responsible for setting up all dialogue related to the Druids.</p>
+  <div class="markdown level0 summary"><p>Provides method/s to play one or more pieces of dialogue.</p>
 </div>
   <div class="markdown level0 conceptual"></div>
-  <div class="inheritance">
-    <h5>Inheritance</h5>
-    <div class="level0"><span class="xref">System.Object</span></div>
-    <div class="level1"><span class="xref">DruidsDialogueSetup</span></div>
-  </div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="WarcraftLegacies.Source.Dialogue.html">WarcraftLegacies.Source.Dialogue</a></h6>
-  <h6><strong>Assembly</strong>: WarcraftLegacies.Source.dll</h6>
-  <h5 id="WarcraftLegacies_Source_Dialogue_DruidsDialogueSetup_syntax">Syntax</h5>
+  <h6><strong>Namespace</strong>: <a class="xref" href="MacroTools.DialogueSystem.html">MacroTools.DialogueSystem</a></h6>
+  <h6><strong>Assembly</strong>: MacroTools.dll</h6>
+  <h5 id="MacroTools_DialogueSystem_IHasPlayableDialogue_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static class DruidsDialogueSetup : object</code></pre>
+    <pre><code class="lang-csharp hljs">public interface IHasPlayableDialogue</code></pre>
   </div>
   <h3 id="methods">Methods
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Dialogue_DruidsDialogueSetup_Setup.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup.Setup%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_DialogueSystem_IHasPlayableDialogue_Play_System_Nullable_List_player___.md&amp;value=---%0Auid%3A%20MacroTools.DialogueSystem.IHasPlayableDialogue.Play(System.Nullable%7BList%7Bplayer%7D%7D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Dialogue/DruidsDialogueSetup.cs/#L18">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/DialogueSystem/IHasPlayableDialogue.cs/#L14">View Source</a>
   </span>
-  <a id="WarcraftLegacies_Source_Dialogue_DruidsDialogueSetup_Setup_" data-uid="WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup.Setup*"></a>
-  <h4 id="WarcraftLegacies_Source_Dialogue_DruidsDialogueSetup_Setup" data-uid="WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup.Setup">Setup()</h4>
-  <div class="markdown level1 summary"><p>Sets up all dialogue related to the Druids.</p>
+  <a id="MacroTools_DialogueSystem_IHasPlayableDialogue_Play_" data-uid="MacroTools.DialogueSystem.IHasPlayableDialogue.Play*"></a>
+  <h4 id="MacroTools_DialogueSystem_IHasPlayableDialogue_Play_System_Nullable_List_player___" data-uid="MacroTools.DialogueSystem.IHasPlayableDialogue.Play(System.Nullable{List{player}})">Play(Nullable&lt;List&lt;player&gt;&gt;)</h4>
+  <div class="markdown level1 summary"><p>Plays one or more pieces of dialogue to the specified players.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static void Setup()</code></pre>
+    <pre><code class="lang-csharp hljs">void Play(List&lt;player&gt;? players)</code></pre>
   </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">List</span>&lt;<span class="xref">player</span>&gt;&gt;</td>
+        <td><span class="parametername">players</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
 </article>
           </div>
           
@@ -113,10 +125,10 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Dialogue_DruidsDialogueSetup.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_DialogueSystem_IHasPlayableDialogue.md&amp;value=---%0Auid%3A%20MacroTools.DialogueSystem.IHasPlayableDialogue%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Dialogue/DruidsDialogueSetup.cs/#L13" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/DialogueSystem/IHasPlayableDialogue.cs/#L9" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>
