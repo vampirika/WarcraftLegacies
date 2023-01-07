@@ -94,11 +94,12 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_DialogueSystem_Dialogue__ctor_IEnumerable_MacroTools_ObjectiveSystem_Objective__System_String_System_String_System_String_System_Nullable_IEnumerable_MacroTools_FactionSystem_Faction___.md&amp;value=---%0Auid%3A%20MacroTools.DialogueSystem.Dialogue.%23ctor(IEnumerable%7BMacroTools.ObjectiveSystem.Objective%7D%2CSystem.String%2CSystem.String%2CSystem.String%2CSystem.Nullable%7BIEnumerable%7BMacroTools.FactionSystem.Faction%7D%7D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/DialogueSystem/Dialogue.cs/#L24">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/DialogueSystem/Dialogue.cs/#L75">View Source</a>
   </span>
   <a id="MacroTools_DialogueSystem_Dialogue__ctor_" data-uid="MacroTools.DialogueSystem.Dialogue.#ctor*"></a>
   <h4 id="MacroTools_DialogueSystem_Dialogue__ctor_IEnumerable_MacroTools_ObjectiveSystem_Objective__System_String_System_String_System_String_System_Nullable_IEnumerable_MacroTools_FactionSystem_Faction___" data-uid="MacroTools.DialogueSystem.Dialogue.#ctor(IEnumerable{MacroTools.ObjectiveSystem.Objective},System.String,System.String,System.String,System.Nullable{IEnumerable{MacroTools.FactionSystem.Faction}})">Dialogue(IEnumerable&lt;Objective&gt;, String, String, String, Nullable&lt;IEnumerable&lt;Faction&gt;&gt;)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="MacroTools.DialogueSystem.Dialogue.html">Dialogue</a> class.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -117,27 +118,32 @@
       <tr>
         <td><span class="xref">IEnumerable</span>&lt;<a class="xref" href="MacroTools.ObjectiveSystem.Objective.html">Objective</a>&gt;</td>
         <td><span class="parametername">objectives</span></td>
-        <td></td>
+        <td><p>When these are completed, the dialogue plays.</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">System.String</span></td>
         <td><span class="parametername">soundFile</span></td>
-        <td></td>
+        <td><p>A path to the sound file which the dialogue will play.</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">System.String</span></td>
         <td><span class="parametername">caption</span></td>
-        <td></td>
+        <td><p>Gets displayed to the user when the dialogue is played.</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">System.String</span></td>
         <td><span class="parametername">speaker</span></td>
-        <td></td>
+        <td><p>The character that is saying the dialogue.</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">System.Nullable</span>&lt;<span class="xref">IEnumerable</span>&lt;<a class="xref" href="MacroTools.FactionSystem.Faction.html">Faction</a>&gt;&gt;</td>
         <td><span class="parametername">audience</span></td>
-        <td></td>
+        <td><p>A list of factions that can hear the dialogue being played.</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -148,7 +154,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_DialogueSystem_Dialogue_Completed.md&amp;value=---%0Auid%3A%20MacroTools.DialogueSystem.Dialogue.Completed%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/DialogueSystem/Dialogue.cs/#L77">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/DialogueSystem/Dialogue.cs/#L21">View Source</a>
   </span>
   <h4 id="MacroTools_DialogueSystem_Dialogue_Completed" data-uid="MacroTools.DialogueSystem.Dialogue.Completed">Completed</h4>
   <div class="markdown level1 summary"><p>Fired when the <a class="xref" href="MacroTools.DialogueSystem.Dialogue.html">Dialogue</a> plays.</p>
