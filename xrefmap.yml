@@ -19007,12 +19007,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Dialogue.LordaeronDialogueSetup
   fullName: WarcraftLegacies.Source.Dialogue.LordaeronDialogueSetup
   nameWithType: LordaeronDialogueSetup
-- uid: WarcraftLegacies.Source.Dialogue.LordaeronDialogueSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Dialogue.LordaeronDialogueSetup.html#WarcraftLegacies_Source_Dialogue_LordaeronDialogueSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Dialogue.LordaeronDialogueSetup.Setup
-  fullName: WarcraftLegacies.Source.Dialogue.LordaeronDialogueSetup.Setup()
-  nameWithType: LordaeronDialogueSetup.Setup()
+- uid: WarcraftLegacies.Source.Dialogue.LordaeronDialogueSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Dialogue.LordaeronDialogueSetup.html#WarcraftLegacies_Source_Dialogue_LordaeronDialogueSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Dialogue.LordaeronDialogueSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Dialogue.LordaeronDialogueSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: LordaeronDialogueSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Dialogue.LordaeronDialogueSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Dialogue.LordaeronDialogueSetup.html#WarcraftLegacies_Source_Dialogue_LordaeronDialogueSetup_Setup_
