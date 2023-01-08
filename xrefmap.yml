@@ -14839,6 +14839,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Spells.ExactJustice.ExactJusticeBuff.OnDispose
   nameWithType: ExactJusticeBuff.OnDispose
+- uid: MacroTools.Spells.ExactJustice.ExactJusticeBuff.OnStack(Buff)
+  name: OnStack(Buff)
+  href: api-macroTools/MacroTools.Spells.ExactJustice.ExactJusticeBuff.html#MacroTools_Spells_ExactJustice_ExactJusticeBuff_OnStack_Buff_
+  commentId: M:MacroTools.Spells.ExactJustice.ExactJusticeBuff.OnStack(Buff)
+  fullName: MacroTools.Spells.ExactJustice.ExactJusticeBuff.OnStack(Buff)
+  nameWithType: ExactJusticeBuff.OnStack(Buff)
+- uid: MacroTools.Spells.ExactJustice.ExactJusticeBuff.OnStack*
+  name: OnStack
+  href: api-macroTools/MacroTools.Spells.ExactJustice.ExactJusticeBuff.html#MacroTools_Spells_ExactJustice_ExactJusticeBuff_OnStack_
+  commentId: Overload:MacroTools.Spells.ExactJustice.ExactJusticeBuff.OnStack
+  isSpec: "True"
+  fullName: MacroTools.Spells.ExactJustice.ExactJusticeBuff.OnStack
+  nameWithType: ExactJusticeBuff.OnStack
 - uid: MacroTools.Spells.ExactJustice.ExactJusticeChannel
   name: ExactJusticeChannel
   href: api-macroTools/MacroTools.Spells.ExactJustice.ExactJusticeChannel.html
