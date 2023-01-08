@@ -18912,12 +18912,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup
   fullName: WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup
   nameWithType: DruidsDialogueSetup
-- uid: WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup.html#WarcraftLegacies_Source_Dialogue_DruidsDialogueSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup.Setup
-  fullName: WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup.Setup()
-  nameWithType: DruidsDialogueSetup.Setup()
+- uid: WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup.html#WarcraftLegacies_Source_Dialogue_DruidsDialogueSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: DruidsDialogueSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup.html#WarcraftLegacies_Source_Dialogue_DruidsDialogueSetup_Setup_
@@ -31722,12 +31722,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.DialogueSetup
   fullName: WarcraftLegacies.Source.Setup.DialogueSetup
   nameWithType: DialogueSetup
-- uid: WarcraftLegacies.Source.Setup.DialogueSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.DialogueSetup.html#WarcraftLegacies_Source_Setup_DialogueSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.DialogueSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.DialogueSetup.Setup()
-  nameWithType: DialogueSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.DialogueSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.DialogueSetup.html#WarcraftLegacies_Source_Setup_DialogueSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.DialogueSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.DialogueSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: DialogueSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.DialogueSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.DialogueSetup.html#WarcraftLegacies_Source_Setup_DialogueSetup_Setup_
