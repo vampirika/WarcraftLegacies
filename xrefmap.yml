@@ -6780,6 +6780,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Faction.GetQuestByTitle
   nameWithType: Faction.GetQuestByTitle
+- uid: MacroTools.FactionSystem.Faction.GetQuestByType(Type)
+  name: GetQuestByType(Type)
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_GetQuestByType_Type_
+  commentId: M:MacroTools.FactionSystem.Faction.GetQuestByType(Type)
+  fullName: MacroTools.FactionSystem.Faction.GetQuestByType(Type)
+  nameWithType: Faction.GetQuestByType(Type)
+- uid: MacroTools.FactionSystem.Faction.GetQuestByType*
+  name: GetQuestByType
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_GetQuestByType_
+  commentId: Overload:MacroTools.FactionSystem.Faction.GetQuestByType
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Faction.GetQuestByType
+  nameWithType: Faction.GetQuestByType
 - uid: MacroTools.FactionSystem.Faction.Gold
   name: Gold
   href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_Gold
@@ -18912,6 +18925,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup.Setup
   nameWithType: DruidsDialogueSetup.Setup
+- uid: WarcraftLegacies.Source.Dialogue.FrostwolfDialogueSetup
+  name: FrostwolfDialogueSetup
+  href: api-source/WarcraftLegacies.Source.Dialogue.FrostwolfDialogueSetup.html
+  commentId: T:WarcraftLegacies.Source.Dialogue.FrostwolfDialogueSetup
+  fullName: WarcraftLegacies.Source.Dialogue.FrostwolfDialogueSetup
+  nameWithType: FrostwolfDialogueSetup
+- uid: WarcraftLegacies.Source.Dialogue.FrostwolfDialogueSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Dialogue.FrostwolfDialogueSetup.html#WarcraftLegacies_Source_Dialogue_FrostwolfDialogueSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Dialogue.FrostwolfDialogueSetup.Setup
+  fullName: WarcraftLegacies.Source.Dialogue.FrostwolfDialogueSetup.Setup()
+  nameWithType: FrostwolfDialogueSetup.Setup()
+- uid: WarcraftLegacies.Source.Dialogue.FrostwolfDialogueSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Dialogue.FrostwolfDialogueSetup.html#WarcraftLegacies_Source_Dialogue_FrostwolfDialogueSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Dialogue.FrostwolfDialogueSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Dialogue.FrostwolfDialogueSetup.Setup
+  nameWithType: FrostwolfDialogueSetup.Setup
 - uid: WarcraftLegacies.Source.Dialogue.IllidariDialogueSetup
   name: IllidariDialogueSetup
   href: api-source/WarcraftLegacies.Source.Dialogue.IllidariDialogueSetup.html

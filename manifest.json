@@ -1401,7 +1401,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Faction.html",
-          "hash": "jmqYDmm4AAajp4W+kdXLdw=="
+          "hash": "s2/eu5O8NBJyrLCoPJCT5Q=="
         }
       },
       "is_incremental": false,
@@ -4229,6 +4229,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Dialogue.FrostwolfDialogueSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Dialogue.FrostwolfDialogueSetup.html",
+          "hash": "fiZBWkSWuyhQ+zEVUUBrlA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Dialogue.IllidariDialogueSetup.yml",
       "output": {
         ".html": {
@@ -4293,7 +4305,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Dialogue.html",
-          "hash": "7vINiR2ZVcfdJL7HepIhhA=="
+          "hash": "0ZAEhje13a9gkXPtu94qKw=="
         }
       },
       "is_incremental": false,
@@ -8841,7 +8853,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "6AlBemLoXBWLQFNq70lxNQ=="
+          "hash": "chXWsl3r59KqUCuy55xI/Q=="
         }
       },
       "is_incremental": false,
@@ -8916,7 +8928,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 735,
+          "total_file_count": 736,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
