@@ -4253,6 +4253,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Dialogue.LegionDialogueSeup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Dialogue.LegionDialogueSeup.html",
+          "hash": "T9l0d33CybpbqUqMmyH0PA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Dialogue.LordaeronDialogueSetup.yml",
       "output": {
         ".html": {
@@ -4305,7 +4317,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Dialogue.html",
-          "hash": "0ZAEhje13a9gkXPtu94qKw=="
+          "hash": "Sl8sUPGm1cYJVzeDGzxNmw=="
         }
       },
       "is_incremental": false,
@@ -8853,7 +8865,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "chXWsl3r59KqUCuy55xI/Q=="
+          "hash": "QExLhdBcbRC/+dnelluzRg=="
         }
       },
       "is_incremental": false,
@@ -8928,7 +8940,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 736,
+          "total_file_count": 737,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
