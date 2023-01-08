@@ -4217,6 +4217,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Dialogue.DalaranDialogueSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Dialogue.DalaranDialogueSetup.html",
+          "hash": "JbGC0VeSZAqJYhnZU5Y0Tw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Dialogue.DruidsDialogueSetup.yml",
       "output": {
         ".html": {
@@ -4317,7 +4329,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Dialogue.html",
-          "hash": "Sl8sUPGm1cYJVzeDGzxNmw=="
+          "hash": "WUaoOpB8nAMWsI/yTwx5Hg=="
         }
       },
       "is_incremental": false,
@@ -8865,7 +8877,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "QExLhdBcbRC/+dnelluzRg=="
+          "hash": "X9x9abFWCxFRcSJwuS4/+g=="
         }
       },
       "is_incremental": false,
@@ -8940,7 +8952,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 737,
+          "total_file_count": 738,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
