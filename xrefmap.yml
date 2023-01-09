@@ -27965,19 +27965,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.CompletionPopup
   nameWithType: QuestCorruptArthas.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.OnAdd(MacroTools.FactionSystem.Faction)
-  name: OnAdd(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.html#WarcraftLegacies_Source_Quests_Scourge_QuestCorruptArthas_OnAdd_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.OnAdd(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.OnAdd(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestCorruptArthas.OnAdd(Faction)
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.OnAdd*
-  name: OnAdd
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.html#WarcraftLegacies_Source_Quests_Scourge_QuestCorruptArthas_OnAdd_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.OnAdd
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.OnAdd
-  nameWithType: QuestCorruptArthas.OnAdd
 - uid: WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
   href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.html#WarcraftLegacies_Source_Quests_Scourge_QuestCorruptArthas_OnComplete_MacroTools_FactionSystem_Faction_
@@ -34428,6 +34415,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Anubarak
   nameWithType: LegendScourge.Anubarak
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Arthas
+  name: Arthas
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_Arthas
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendScourge.Arthas
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Arthas
+  nameWithType: LegendScourge.Arthas
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Arthas*
+  name: Arthas
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_Arthas_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendScourge.Arthas
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Arthas
+  nameWithType: LegendScourge.Arthas
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Kelthuzad
   name: Kelthuzad
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_Kelthuzad
