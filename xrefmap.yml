@@ -34415,32 +34415,32 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.Legends.LegendScourge
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge
   nameWithType: LegendScourge
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendAnubarak
-  name: LegendAnubarak
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_LegendAnubarak
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendAnubarak
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendAnubarak
-  nameWithType: LegendScourge.LegendAnubarak
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendAnubarak*
-  name: LegendAnubarak
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_LegendAnubarak_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendAnubarak
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Anubarak
+  name: Anubarak
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_Anubarak
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendScourge.Anubarak
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Anubarak
+  nameWithType: LegendScourge.Anubarak
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Anubarak*
+  name: Anubarak
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_Anubarak_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendScourge.Anubarak
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendAnubarak
-  nameWithType: LegendScourge.LegendAnubarak
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendKelthuzad
-  name: LegendKelthuzad
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_LegendKelthuzad
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendKelthuzad
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendKelthuzad
-  nameWithType: LegendScourge.LegendKelthuzad
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendKelthuzad*
-  name: LegendKelthuzad
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_LegendKelthuzad_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendKelthuzad
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Anubarak
+  nameWithType: LegendScourge.Anubarak
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Kelthuzad
+  name: Kelthuzad
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_Kelthuzad
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendScourge.Kelthuzad
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Kelthuzad
+  nameWithType: LegendScourge.Kelthuzad
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Kelthuzad*
+  name: Kelthuzad
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_Kelthuzad_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendScourge.Kelthuzad
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendKelthuzad
-  nameWithType: LegendScourge.LegendKelthuzad
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Kelthuzad
+  nameWithType: LegendScourge.Kelthuzad
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendLichking
   name: LegendLichking
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_LegendLichking
@@ -34454,19 +34454,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendLichking
   nameWithType: LegendScourge.LegendLichking
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendRivendare
-  name: LegendRivendare
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_LegendRivendare
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendRivendare
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendRivendare
-  nameWithType: LegendScourge.LegendRivendare
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendRivendare*
-  name: LegendRivendare
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_LegendRivendare_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendRivendare
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendRivendare
-  nameWithType: LegendScourge.LegendRivendare
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendUtgarde
   name: LegendUtgarde
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_LegendUtgarde
@@ -34493,6 +34480,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Naxxramas
   nameWithType: LegendScourge.Naxxramas
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Rivendare
+  name: Rivendare
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_Rivendare
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendScourge.Rivendare
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Rivendare
+  nameWithType: LegendScourge.Rivendare
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Rivendare*
+  name: Rivendare
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_Rivendare_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendScourge.Rivendare
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Rivendare
+  nameWithType: LegendScourge.Rivendare
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Setup(MacroTools.PreplacedUnitSystem)
   name: Setup(PreplacedUnitSystem)
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_Setup_MacroTools_PreplacedUnitSystem_
@@ -34506,45 +34506,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Setup
   nameWithType: LegendScourge.Setup
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.UnittypeKelthuzadGhost
-  name: UnittypeKelthuzadGhost
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_UnittypeKelthuzadGhost
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendScourge.UnittypeKelthuzadGhost
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.UnittypeKelthuzadGhost
-  nameWithType: LegendScourge.UnittypeKelthuzadGhost
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.UnittypeKelthuzadGhost*
-  name: UnittypeKelthuzadGhost
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_UnittypeKelthuzadGhost_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendScourge.UnittypeKelthuzadGhost
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.UnittypeKelthuzadGhost
-  nameWithType: LegendScourge.UnittypeKelthuzadGhost
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.UnittypeKelthuzadLich
-  name: UnittypeKelthuzadLich
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_UnittypeKelthuzadLich
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendScourge.UnittypeKelthuzadLich
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.UnittypeKelthuzadLich
-  nameWithType: LegendScourge.UnittypeKelthuzadLich
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.UnittypeKelthuzadLich*
-  name: UnittypeKelthuzadLich
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_UnittypeKelthuzadLich_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendScourge.UnittypeKelthuzadLich
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.UnittypeKelthuzadLich
-  nameWithType: LegendScourge.UnittypeKelthuzadLich
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.UnittypeKelthuzadNecromancer
-  name: UnittypeKelthuzadNecromancer
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_UnittypeKelthuzadNecromancer
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendScourge.UnittypeKelthuzadNecromancer
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.UnittypeKelthuzadNecromancer
-  nameWithType: LegendScourge.UnittypeKelthuzadNecromancer
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.UnittypeKelthuzadNecromancer*
-  name: UnittypeKelthuzadNecromancer
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_UnittypeKelthuzadNecromancer_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendScourge.UnittypeKelthuzadNecromancer
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.UnittypeKelthuzadNecromancer
-  nameWithType: LegendScourge.UnittypeKelthuzadNecromancer
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels
   name: LegendSentinels
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html
