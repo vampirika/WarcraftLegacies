@@ -4317,7 +4317,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Dialogue.DalaranDialogueSetup.html",
-          "hash": "JbGC0VeSZAqJYhnZU5Y0Tw=="
+          "hash": "MNcZyODgJ9QXjFe4RssGrg=="
         }
       },
       "is_incremental": false,
@@ -4377,7 +4377,19 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Dialogue.LordaeronDialogueSetup.html",
-          "hash": "Zm/ZsCs20n1QTAvLsfD3Bg=="
+          "hash": "gDIs4LLrZ9R593GFm9AdLA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Dialogue.QuelthalasDialogueSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Dialogue.QuelthalasDialogueSetup.html",
+          "hash": "uSvfHfaxJaYKjQNS24dzlQ=="
         }
       },
       "is_incremental": false,
@@ -4389,7 +4401,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Dialogue.ScourgeDialogueSetup.html",
-          "hash": "NIaUEXt5gzv07+6iKAuIMg=="
+          "hash": "7oDWmB4VTrCqxdzgjcA94g=="
         }
       },
       "is_incremental": false,
@@ -4425,7 +4437,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Dialogue.html",
-          "hash": "WUaoOpB8nAMWsI/yTwx5Hg=="
+          "hash": "AWnfQ53AbMGxjvXgmjHzzQ=="
         }
       },
       "is_incremental": false,
@@ -8961,7 +8973,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "Wh73u8Vmap6ytURMrNv95A=="
+          "hash": "838xquTBFTomZ4oKRIOQqw=="
         }
       },
       "is_incremental": false,
@@ -9036,7 +9048,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 745,
+          "total_file_count": 746,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
