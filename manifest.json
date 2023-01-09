@@ -5277,7 +5277,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestTheNexus.html",
-          "hash": "3B+g7zsDMsbB2eCo492ZQg=="
+          "hash": "X+urW8ugVBHrAiWQ3KL11A=="
         }
       },
       "is_incremental": false,
@@ -5937,7 +5937,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.html",
-          "hash": "vmYAftVqQVB1MRxP8dLVMg=="
+          "hash": "3d+buBPbKFinfGQb1dlqcw=="
         }
       },
       "is_incremental": false,
@@ -6113,18 +6113,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.html",
-          "hash": "oh6i/cDfQBpBrjCR01fNjg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestSafeSea.yml",
       "output": {
         ".html": {
@@ -6165,7 +6153,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.html",
-          "hash": "4wjoTLPH3fDcCNwsse2E8w=="
+          "hash": "Qc8gxWKFEBz2NZ2ywTyluw=="
         }
       },
       "is_incremental": false,
@@ -6369,7 +6357,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.html",
-          "hash": "eH6K8VI076ScQQqpDRQ/ww=="
+          "hash": "6ADaqca187tMvFXyobR5AQ=="
         }
       },
       "is_incremental": false,
@@ -6485,11 +6473,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.yml",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.yml",
       "output": {
         ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.html",
-          "hash": "UeKucNk1iRrBhKQPPo8f0A=="
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.html",
+          "hash": "+hnmaam42CXq8qFdIqDN+Q=="
         }
       },
       "is_incremental": false,
@@ -6521,30 +6509,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.html",
-          "hash": "jVR5tfRD/iVLnTvDUKD1RA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.html",
-          "hash": "8AqAVI9DEd6k7z5eDRo7Dw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.yml",
       "output": {
         ".html": {
@@ -6561,7 +6525,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.html",
-          "hash": "i5JtJ+vmwQbWZeLW9hEtjA=="
+          "hash": "QhboQq42iVwlwq2kZkZ4aw=="
         }
       },
       "is_incremental": false,
@@ -8973,7 +8937,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "838xquTBFTomZ4oKRIOQqw=="
+          "hash": "1TVB0HsuhhblsgVJxQ+lnw=="
         }
       },
       "is_incremental": false,
@@ -9048,7 +9012,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 746,
+          "total_file_count": 743,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

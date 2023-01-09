@@ -25124,64 +25124,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestBoralus.RewardDescription
   nameWithType: QuestBoralus.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade
-  name: QuestJoinCrusade
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.html
-  commentId: T:WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade
-  nameWithType: QuestJoinCrusade
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.#ctor
-  name: QuestJoinCrusade()
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.html#WarcraftLegacies_Source_Quests_KulTiras_QuestJoinCrusade__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.#ctor
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.QuestJoinCrusade()
-  nameWithType: QuestJoinCrusade.QuestJoinCrusade()
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.#ctor*
-  name: QuestJoinCrusade
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.html#WarcraftLegacies_Source_Quests_KulTiras_QuestJoinCrusade__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.QuestJoinCrusade
-  nameWithType: QuestJoinCrusade.QuestJoinCrusade
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.CompletionPopup
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.html#WarcraftLegacies_Source_Quests_KulTiras_QuestJoinCrusade_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.CompletionPopup
-  nameWithType: QuestJoinCrusade.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.CompletionPopup*
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.html#WarcraftLegacies_Source_Quests_KulTiras_QuestJoinCrusade_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.CompletionPopup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.CompletionPopup
-  nameWithType: QuestJoinCrusade.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.html#WarcraftLegacies_Source_Quests_KulTiras_QuestJoinCrusade_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestJoinCrusade.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.html#WarcraftLegacies_Source_Quests_KulTiras_QuestJoinCrusade_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.OnComplete
-  nameWithType: QuestJoinCrusade.OnComplete
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.html#WarcraftLegacies_Source_Quests_KulTiras_QuestJoinCrusade_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.RewardDescription
-  nameWithType: QuestJoinCrusade.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.html#WarcraftLegacies_Source_Quests_KulTiras_QuestJoinCrusade_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestJoinCrusade.RewardDescription
-  nameWithType: QuestJoinCrusade.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.KulTiras.QuestSafeSea
   name: QuestSafeSea
   href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestSafeSea.html
@@ -26860,64 +26802,51 @@ references:
   commentId: N:WarcraftLegacies.Source.Quests.Quelthalas
   fullName: WarcraftLegacies.Source.Quests.Quelthalas
   nameWithType: WarcraftLegacies.Source.Quests.Quelthalas
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery
-  name: QuestGreatTreachery
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.html
-  commentId: T:WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery
-  nameWithType: QuestGreatTreachery
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.#ctor(System.Int32,System.Int32)
-  name: QuestGreatTreachery(Int32, Int32)
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestGreatTreachery__ctor_System_Int32_System_Int32_
-  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.#ctor(System.Int32,System.Int32)
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.QuestGreatTreachery(System.Int32, System.Int32)
-  nameWithType: QuestGreatTreachery.QuestGreatTreachery(Int32, Int32)
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.#ctor*
-  name: QuestGreatTreachery
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestGreatTreachery__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.#ctor
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge
+  name: QuestForgottenKnowledge
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.html
+  commentId: T:WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge
+  nameWithType: QuestForgottenKnowledge
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.#ctor
+  name: QuestForgottenKnowledge()
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestForgottenKnowledge__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.#ctor
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.QuestForgottenKnowledge()
+  nameWithType: QuestForgottenKnowledge.QuestForgottenKnowledge()
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.#ctor*
+  name: QuestForgottenKnowledge
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestForgottenKnowledge__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.#ctor
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.QuestGreatTreachery
-  nameWithType: QuestGreatTreachery.QuestGreatTreachery
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.QuestForgottenKnowledge
+  nameWithType: QuestForgottenKnowledge.QuestForgottenKnowledge
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.CompletionPopup
   name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestGreatTreachery_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.CompletionPopup
-  nameWithType: QuestGreatTreachery.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.CompletionPopup*
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestForgottenKnowledge_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.CompletionPopup
+  nameWithType: QuestForgottenKnowledge.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.CompletionPopup*
   name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestGreatTreachery_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestForgottenKnowledge_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.CompletionPopup
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.CompletionPopup
-  nameWithType: QuestGreatTreachery.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestGreatTreachery_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestGreatTreachery.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestGreatTreachery_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.OnComplete
-  nameWithType: QuestGreatTreachery.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.CompletionPopup
+  nameWithType: QuestForgottenKnowledge.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.RewardDescription
   name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestGreatTreachery_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.RewardDescription
-  nameWithType: QuestGreatTreachery.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.RewardDescription*
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestForgottenKnowledge_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.RewardDescription
+  nameWithType: QuestForgottenKnowledge.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.RewardDescription*
   name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestGreatTreachery_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestForgottenKnowledge_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.RewardDescription
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestGreatTreachery.RewardDescription
-  nameWithType: QuestGreatTreachery.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.RewardDescription
+  nameWithType: QuestForgottenKnowledge.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil
   name: QuestQueldanil
   href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html
@@ -27047,122 +26976,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestSilvermoon.RewardDescription
   nameWithType: QuestSilvermoon.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil
-  name: QuestSummonKil
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.html
-  commentId: T:WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil
-  nameWithType: QuestSummonKil
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.#ctor
-  name: QuestSummonKil()
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestSummonKil__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.QuestSummonKil()
-  nameWithType: QuestSummonKil.QuestSummonKil()
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.#ctor*
-  name: QuestSummonKil
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestSummonKil__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.QuestSummonKil
-  nameWithType: QuestSummonKil.QuestSummonKil
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.CompletionPopup
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestSummonKil_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.CompletionPopup
-  nameWithType: QuestSummonKil.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.CompletionPopup*
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestSummonKil_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.CompletionPopup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.CompletionPopup
-  nameWithType: QuestSummonKil.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestSummonKil_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestSummonKil.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestSummonKil_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.OnComplete
-  nameWithType: QuestSummonKil.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestSummonKil_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.RewardDescription
-  nameWithType: QuestSummonKil.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestSummonKil_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestSummonKil.RewardDescription
-  nameWithType: QuestSummonKil.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep
-  name: QuestTempestKeep
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.html
-  commentId: T:WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep
-  nameWithType: QuestTempestKeep
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.#ctor(Rectangle,MacroTools.QuestSystem.QuestData)
-  name: QuestTempestKeep(Rectangle, QuestData)
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTempestKeep__ctor_Rectangle_MacroTools_QuestSystem_QuestData_
-  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.#ctor(Rectangle,MacroTools.QuestSystem.QuestData)
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.QuestTempestKeep(Rectangle, MacroTools.QuestSystem.QuestData)
-  nameWithType: QuestTempestKeep.QuestTempestKeep(Rectangle, QuestData)
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.#ctor*
-  name: QuestTempestKeep
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTempestKeep__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.QuestTempestKeep
-  nameWithType: QuestTempestKeep.QuestTempestKeep
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.CompletionPopup
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTempestKeep_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.CompletionPopup
-  nameWithType: QuestTempestKeep.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.CompletionPopup*
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTempestKeep_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.CompletionPopup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.CompletionPopup
-  nameWithType: QuestTempestKeep.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTempestKeep_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestTempestKeep.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTempestKeep_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.OnComplete
-  nameWithType: QuestTempestKeep.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTempestKeep_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.RewardDescription
-  nameWithType: QuestTempestKeep.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTempestKeep_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTempestKeep.RewardDescription
-  nameWithType: QuestTempestKeep.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves
   name: QuestTheBloodElves
   href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html
