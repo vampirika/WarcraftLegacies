@@ -10558,6 +10558,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveLegendDead.ObjectiveLegendDead
   nameWithType: ObjectiveLegendDead.ObjectiveLegendDead
+- uid: MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveLegendDead.DeathFilter
+  name: DeathFilter
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveLegendDead.html#MacroTools_ObjectiveSystem_Objectives_LegendBased_ObjectiveLegendDead_DeathFilter
+  commentId: P:MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveLegendDead.DeathFilter
+  fullName: MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveLegendDead.DeathFilter
+  nameWithType: ObjectiveLegendDead.DeathFilter
+- uid: MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveLegendDead.DeathFilter*
+  name: DeathFilter
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveLegendDead.html#MacroTools_ObjectiveSystem_Objectives_LegendBased_ObjectiveLegendDead_DeathFilter_
+  commentId: Overload:MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveLegendDead.DeathFilter
+  isSpec: "True"
+  fullName: MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveLegendDead.DeathFilter
+  nameWithType: ObjectiveLegendDead.DeathFilter
 - uid: MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveLegendDead.Position
   name: Position
   href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveLegendDead.html#MacroTools_ObjectiveSystem_Objectives_LegendBased_ObjectiveLegendDead_Position
