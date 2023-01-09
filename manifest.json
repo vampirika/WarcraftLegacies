@@ -6617,18 +6617,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestCivilWar.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestCivilWar.html",
-          "hash": "R7+Ax1F9MsvibtJz0CkJzg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.yml",
       "output": {
         ".html": {
@@ -6669,7 +6657,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestLichKingArthas.html",
-          "hash": "pdmpgVSMZ2QLtG6FJkg/jw=="
+          "hash": "JRuqEUcthyRITUJL+JJcag=="
         }
       },
       "is_incremental": false,
@@ -6729,7 +6717,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.html",
-          "hash": "8xuiWLknZCKUmB4L8eSm1w=="
+          "hash": "LbCMLBvpZqT35ucyPpfOug=="
         }
       },
       "is_incremental": false,
@@ -8877,7 +8865,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "X9x9abFWCxFRcSJwuS4/+g=="
+          "hash": "ZYURVL+68T9AjDRBOrjFAA=="
         }
       },
       "is_incremental": false,
@@ -8952,7 +8940,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 738,
+          "total_file_count": 737,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
