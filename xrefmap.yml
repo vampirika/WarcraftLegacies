@@ -20237,38 +20237,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Mechanics.Scourge.Blight.BlightSystem.Setup
   nameWithType: BlightSystem.Setup
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath
-  name: EventKelthuzadDeath
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.html
-  commentId: T:WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath
-  nameWithType: EventKelthuzadDeath
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.KelthuzadExp
-  name: KelthuzadExp
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.html#WarcraftLegacies_Source_Mechanics_Scourge_EventKelthuzadDeath_KelthuzadExp
-  commentId: P:WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.KelthuzadExp
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.KelthuzadExp
-  nameWithType: EventKelthuzadDeath.KelthuzadExp
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.KelthuzadExp*
-  name: KelthuzadExp
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.html#WarcraftLegacies_Source_Mechanics_Scourge_EventKelthuzadDeath_KelthuzadExp_
-  commentId: Overload:WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.KelthuzadExp
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.KelthuzadExp
-  nameWithType: EventKelthuzadDeath.KelthuzadExp
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.html#WarcraftLegacies_Source_Mechanics_Scourge_EventKelthuzadDeath_Setup
-  commentId: M:WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.Setup
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.Setup()
-  nameWithType: EventKelthuzadDeath.Setup()
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.html#WarcraftLegacies_Source_Mechanics_Scourge_EventKelthuzadDeath_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.Setup
-  nameWithType: EventKelthuzadDeath.Setup
 - uid: WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves
   name: HelmOfDominationDropsWhenScourgeLeaves
   href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.html
@@ -28123,64 +28091,122 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Scourge.QuestDrakUnlock.RewardDescription
   nameWithType: QuestDrakUnlock.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad
-  name: QuestKelthuzad
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.html
-  commentId: T:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad
-  nameWithType: QuestKelthuzad
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.#ctor
-  name: QuestKelthuzad()
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzad__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.QuestKelthuzad()
-  nameWithType: QuestKelthuzad.QuestKelthuzad()
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.#ctor*
-  name: QuestKelthuzad
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzad__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.#ctor
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies
+  name: QuestKelthuzadDies
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.html
+  commentId: T:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies
+  nameWithType: QuestKelthuzadDies
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.#ctor(MacroTools.QuestSystem.QuestData)
+  name: QuestKelthuzadDies(QuestData)
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzadDies__ctor_MacroTools_QuestSystem_QuestData_
+  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.#ctor(MacroTools.QuestSystem.QuestData)
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.QuestKelthuzadDies(MacroTools.QuestSystem.QuestData)
+  nameWithType: QuestKelthuzadDies.QuestKelthuzadDies(QuestData)
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.#ctor*
+  name: QuestKelthuzadDies
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzadDies__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.#ctor
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.QuestKelthuzad
-  nameWithType: QuestKelthuzad.QuestKelthuzad
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.QuestKelthuzadDies
+  nameWithType: QuestKelthuzadDies.QuestKelthuzadDies
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.CompletionPopup
   name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzad_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.CompletionPopup
-  nameWithType: QuestKelthuzad.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.CompletionPopup*
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzadDies_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.CompletionPopup
+  nameWithType: QuestKelthuzadDies.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.CompletionPopup*
   name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzad_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzadDies_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.CompletionPopup
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.CompletionPopup
-  nameWithType: QuestKelthuzad.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.CompletionPopup
+  nameWithType: QuestKelthuzadDies.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzad_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestKelthuzad.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.OnComplete*
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzadDies_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestKelthuzadDies.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.OnComplete*
   name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzad_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzadDies_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.OnComplete
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.OnComplete
-  nameWithType: QuestKelthuzad.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.OnComplete
+  nameWithType: QuestKelthuzadDies.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.RewardDescription
   name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzad_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.RewardDescription
-  nameWithType: QuestKelthuzad.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.RewardDescription*
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzadDies_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.RewardDescription
+  nameWithType: QuestKelthuzadDies.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.RewardDescription*
   name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzad_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzadDies_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.RewardDescription
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.RewardDescription
-  nameWithType: QuestKelthuzad.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.RewardDescription
+  nameWithType: QuestKelthuzadDies.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich
+  name: QuestKelthuzadLich
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.html
+  commentId: T:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich
+  nameWithType: QuestKelthuzadLich
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.#ctor
+  name: QuestKelthuzadLich()
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzadLich__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.#ctor
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.QuestKelthuzadLich()
+  nameWithType: QuestKelthuzadLich.QuestKelthuzadLich()
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.#ctor*
+  name: QuestKelthuzadLich
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzadLich__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.QuestKelthuzadLich
+  nameWithType: QuestKelthuzadLich.QuestKelthuzadLich
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzadLich_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.CompletionPopup
+  nameWithType: QuestKelthuzadLich.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzadLich_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.CompletionPopup
+  nameWithType: QuestKelthuzadLich.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzadLich_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestKelthuzadLich.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzadLich_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.OnComplete
+  nameWithType: QuestKelthuzadLich.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzadLich_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.RewardDescription
+  nameWithType: QuestKelthuzadLich.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.html#WarcraftLegacies_Source_Quests_Scourge_QuestKelthuzadLich_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.RewardDescription
+  nameWithType: QuestKelthuzadLich.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Scourge.QuestLichKingArthas
   name: QuestLichKingArthas
   href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestLichKingArthas.html

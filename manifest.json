@@ -4973,18 +4973,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Scourge.EventKelthuzadDeath.html",
-          "hash": "HBr7dkM7XJUKwifwxlShWA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Scourge.HelmOfDominationDropsWhenScourgeLeaves.yml",
       "output": {
         ".html": {
@@ -5073,7 +5061,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Scourge.html",
-          "hash": "nslUriemTLFDBTnVD7etuA=="
+          "hash": "nzN7/wTZc5RRjIaZ5Tc0yg=="
         }
       },
       "is_incremental": false,
@@ -6737,11 +6725,23 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.yml",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.yml",
       "output": {
         ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzad.html",
-          "hash": "UrixxNGaJp7KzAeup+wbwA=="
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadDies.html",
+          "hash": "2+kTzyezjfB/6z7vGwhUzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestKelthuzadLich.html",
+          "hash": "Nf512d0Tluj1vWOJtnLSYA=="
         }
       },
       "is_incremental": false,
@@ -6813,7 +6813,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.html",
-          "hash": "hLckwVfrrFnMvF7hm2Qkqw=="
+          "hash": "AQ3/sx9xbFDvGL749gzAug=="
         }
       },
       "is_incremental": false,
@@ -8529,7 +8529,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.ScourgeQuestSetup.html",
-          "hash": "Gi6T/lXpSRqN+FeulqT5yA=="
+          "hash": "9Oe9zZtwrJnMxBDkD/jiMw=="
         }
       },
       "is_incremental": false,
@@ -8961,7 +8961,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "ZYURVL+68T9AjDRBOrjFAA=="
+          "hash": "Wh73u8Vmap6ytURMrNv95A=="
         }
       },
       "is_incremental": false,
