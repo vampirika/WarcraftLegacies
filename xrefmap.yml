@@ -11827,6 +11827,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilities.Gate.Gate
   nameWithType: Gate.Gate
+- uid: MacroTools.PassiveAbilities.Gate.OnCancelUpgrade
+  name: OnCancelUpgrade()
+  href: api-macroTools/MacroTools.PassiveAbilities.Gate.html#MacroTools_PassiveAbilities_Gate_OnCancelUpgrade
+  commentId: M:MacroTools.PassiveAbilities.Gate.OnCancelUpgrade
+  fullName: MacroTools.PassiveAbilities.Gate.OnCancelUpgrade()
+  nameWithType: Gate.OnCancelUpgrade()
+- uid: MacroTools.PassiveAbilities.Gate.OnCancelUpgrade*
+  name: OnCancelUpgrade
+  href: api-macroTools/MacroTools.PassiveAbilities.Gate.html#MacroTools_PassiveAbilities_Gate_OnCancelUpgrade_
+  commentId: Overload:MacroTools.PassiveAbilities.Gate.OnCancelUpgrade
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.Gate.OnCancelUpgrade
+  nameWithType: Gate.OnCancelUpgrade
 - uid: MacroTools.PassiveAbilities.Gate.OnCreated(unit)
   name: OnCreated(unit)
   href: api-macroTools/MacroTools.PassiveAbilities.Gate.html#MacroTools_PassiveAbilities_Gate_OnCreated_unit_
@@ -12811,6 +12824,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilitySystem.PassiveAbility.PassiveAbility
   nameWithType: PassiveAbility.PassiveAbility
+- uid: MacroTools.PassiveAbilitySystem.PassiveAbility.OnCancelUpgrade
+  name: OnCancelUpgrade()
+  href: api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html#MacroTools_PassiveAbilitySystem_PassiveAbility_OnCancelUpgrade
+  commentId: M:MacroTools.PassiveAbilitySystem.PassiveAbility.OnCancelUpgrade
+  fullName: MacroTools.PassiveAbilitySystem.PassiveAbility.OnCancelUpgrade()
+  nameWithType: PassiveAbility.OnCancelUpgrade()
+- uid: MacroTools.PassiveAbilitySystem.PassiveAbility.OnCancelUpgrade*
+  name: OnCancelUpgrade
+  href: api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html#MacroTools_PassiveAbilitySystem_PassiveAbility_OnCancelUpgrade_
+  commentId: Overload:MacroTools.PassiveAbilitySystem.PassiveAbility.OnCancelUpgrade
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilitySystem.PassiveAbility.OnCancelUpgrade
+  nameWithType: PassiveAbility.OnCancelUpgrade
 - uid: MacroTools.PassiveAbilitySystem.PassiveAbility.OnConstruction
   name: OnConstruction()
   href: api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html#MacroTools_PassiveAbilitySystem_PassiveAbility_OnConstruction
