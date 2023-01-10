@@ -20389,12 +20389,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter
   fullName: WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter
   nameWithType: PlagueCauldronSummonParameter
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.#ctor(System.Int32,System.Int32,MacroTools.FactionSystem.Faction)
-  name: PlagueCauldronSummonParameter(Int32, Int32, Faction)
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.html#WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlagueCauldronSummonParameter__ctor_System_Int32_System_Int32_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.#ctor(System.Int32,System.Int32,MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.PlagueCauldronSummonParameter(System.Int32, System.Int32, MacroTools.FactionSystem.Faction)
-  nameWithType: PlagueCauldronSummonParameter.PlagueCauldronSummonParameter(Int32, Int32, Faction)
+- uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.#ctor(System.Int32,System.Int32)
+  name: PlagueCauldronSummonParameter(Int32, Int32)
+  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.html#WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlagueCauldronSummonParameter__ctor_System_Int32_System_Int32_
+  commentId: M:WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.#ctor(System.Int32,System.Int32)
+  fullName: WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.PlagueCauldronSummonParameter(System.Int32, System.Int32)
+  nameWithType: PlagueCauldronSummonParameter.PlagueCauldronSummonParameter(Int32, Int32)
 - uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.#ctor*
   name: PlagueCauldronSummonParameter
   href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.html#WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlagueCauldronSummonParameter__ctor_
@@ -20402,19 +20402,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.PlagueCauldronSummonParameter
   nameWithType: PlagueCauldronSummonParameter.PlagueCauldronSummonParameter
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.FactionOverride
-  name: FactionOverride
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.html#WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlagueCauldronSummonParameter_FactionOverride
-  commentId: P:WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.FactionOverride
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.FactionOverride
-  nameWithType: PlagueCauldronSummonParameter.FactionOverride
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.FactionOverride*
-  name: FactionOverride
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.html#WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlagueCauldronSummonParameter_FactionOverride_
-  commentId: Overload:WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.FactionOverride
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.FactionOverride
-  nameWithType: PlagueCauldronSummonParameter.FactionOverride
 - uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.SummonCount
   name: SummonCount
   href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronSummonParameter.html#WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlagueCauldronSummonParameter_SummonCount
