@@ -4385,6 +4385,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Dialogue.KultirasDialogueSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Dialogue.KultirasDialogueSetup.html",
+          "hash": "EiRK3hgqqr5z3SRy44j/8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Dialogue.LegionDialogueSeup.yml",
       "output": {
         ".html": {
@@ -4461,7 +4473,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Dialogue.html",
-          "hash": "NZV3QFmuSpedsT6eYyX4LQ=="
+          "hash": "FxtEVAlJy/nOcquUqam8gw=="
         }
       },
       "is_incremental": false,
@@ -8997,7 +9009,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "32baU/uS3fiC+WwgdNE7Dg=="
+          "hash": "HQJaZBuMJLyngvdBkF/e2w=="
         }
       },
       "is_incremental": false,
@@ -9072,7 +9084,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 748,
+          "total_file_count": 749,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
