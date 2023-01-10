@@ -4353,7 +4353,19 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Dialogue.FrostwolfDialogueSetup.html",
-          "hash": "fiZBWkSWuyhQ+zEVUUBrlA=="
+          "hash": "T22v0K9Q5iGoJRPqAcfRmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Dialogue.GoblinDialogueSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Dialogue.GoblinDialogueSetup.html",
+          "hash": "Q+GG5/1uDnDRpt+8R8DBBg=="
         }
       },
       "is_incremental": false,
@@ -4449,7 +4461,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Dialogue.html",
-          "hash": "AWnfQ53AbMGxjvXgmjHzzQ=="
+          "hash": "NZV3QFmuSpedsT6eYyX4LQ=="
         }
       },
       "is_incremental": false,
@@ -8985,7 +8997,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "oYLsT138V3D378u1gAN4vg=="
+          "hash": "32baU/uS3fiC+WwgdNE7Dg=="
         }
       },
       "is_incremental": false,
@@ -9060,7 +9072,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 747,
+          "total_file_count": 748,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
