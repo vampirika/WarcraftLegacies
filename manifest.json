@@ -5777,11 +5777,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.yml",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder.yml",
       "output": {
         ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.html",
-          "hash": "9qb+FBS/umdwuPzU9ur40A=="
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder.html",
+          "hash": "xpZqbLfS65q6d0coYafCUw=="
         }
       },
       "is_incremental": false,
@@ -5789,11 +5789,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder.yml",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.yml",
       "output": {
         ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder.html",
-          "hash": "xpZqbLfS65q6d0coYafCUw=="
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.html",
+          "hash": "u7AVAP5NJEDrwUziUw7+ZA=="
         }
       },
       "is_incremental": false,
@@ -5829,7 +5829,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.html",
-          "hash": "jLCDtqJCzkksS9PbUrGpZg=="
+          "hash": "F/D2TOtCQY7L3ztmP4BtYw=="
         }
       },
       "is_incremental": false,
@@ -6485,6 +6485,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.html",
+          "hash": "tchY4ri+eDB2zqxOY3ZrTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.yml",
       "output": {
         ".html": {
@@ -6525,7 +6537,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.html",
-          "hash": "QhboQq42iVwlwq2kZkZ4aw=="
+          "hash": "ksXBtIY6IDpNz9uKnNedpQ=="
         }
       },
       "is_incremental": false,
@@ -8937,7 +8949,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "1TVB0HsuhhblsgVJxQ+lnw=="
+          "hash": "C8SsdinrAljSwx+KJu25Ig=="
         }
       },
       "is_incremental": false,
@@ -9012,7 +9024,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 743,
+          "total_file_count": 744,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

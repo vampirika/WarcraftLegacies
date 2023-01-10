@@ -23552,51 +23552,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestFreeNerzhul.RewardDescription
   nameWithType: QuestFreeNerzhul.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar
-  name: QuestRexxar
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.html
-  commentId: T:WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar
-  nameWithType: QuestRexxar
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.#ctor(MacroTools.PreplacedUnitSystem)
-  name: QuestRexxar(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestRexxar__ctor_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.#ctor(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.QuestRexxar(MacroTools.PreplacedUnitSystem)
-  nameWithType: QuestRexxar.QuestRexxar(PreplacedUnitSystem)
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.#ctor*
-  name: QuestRexxar
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestRexxar__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.QuestRexxar
-  nameWithType: QuestRexxar.QuestRexxar
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.CompletionPopup
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestRexxar_CompletionPopup
-  commentId: P:WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.CompletionPopup
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.CompletionPopup
-  nameWithType: QuestRexxar.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.CompletionPopup*
-  name: CompletionPopup
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestRexxar_CompletionPopup_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.CompletionPopup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.CompletionPopup
-  nameWithType: QuestRexxar.CompletionPopup
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestRexxar_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.RewardDescription
-  nameWithType: QuestRexxar.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestRexxar_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestRexxar.RewardDescription
-  nameWithType: QuestRexxar.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder
   name: QuestRoyalPlunder
   href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder.html
@@ -23655,6 +23610,77 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestRoyalPlunder.RewardDescription
   nameWithType: QuestRoyalPlunder.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul
+  name: QuestStonemaul
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.html
+  commentId: T:WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul
+  nameWithType: QuestStonemaul
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.#ctor(MacroTools.PreplacedUnitSystem,Rectangle)
+  name: QuestStonemaul(PreplacedUnitSystem, Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestStonemaul__ctor_MacroTools_PreplacedUnitSystem_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.#ctor(MacroTools.PreplacedUnitSystem,Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.QuestStonemaul(MacroTools.PreplacedUnitSystem, Rectangle)
+  nameWithType: QuestStonemaul.QuestStonemaul(PreplacedUnitSystem, Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.#ctor*
+  name: QuestStonemaul
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestStonemaul__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.QuestStonemaul
+  nameWithType: QuestStonemaul.QuestStonemaul
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestStonemaul_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.CompletionPopup
+  nameWithType: QuestStonemaul.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestStonemaul_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.CompletionPopup
+  nameWithType: QuestStonemaul.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestStonemaul_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestStonemaul.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestStonemaul_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.OnComplete
+  nameWithType: QuestStonemaul.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.OnFail(MacroTools.FactionSystem.Faction)
+  name: OnFail(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestStonemaul_OnFail_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.OnFail(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.OnFail(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestStonemaul.OnFail(Faction)
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.OnFail*
+  name: OnFail
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestStonemaul_OnFail_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.OnFail
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.OnFail
+  nameWithType: QuestStonemaul.OnFail
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestStonemaul_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.RewardDescription
+  nameWithType: QuestStonemaul.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestStonemaul_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.RewardDescription
+  nameWithType: QuestStonemaul.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff
   name: QuestThunderBluff
   href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestThunderBluff.html
@@ -26847,6 +26873,51 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.RewardDescription
   nameWithType: QuestForgottenKnowledge.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive
+  name: QuestQueensArchive
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.html
+  commentId: T:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive
+  nameWithType: QuestQueensArchive
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.#ctor
+  name: QuestQueensArchive()
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueensArchive__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.#ctor
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.QuestQueensArchive()
+  nameWithType: QuestQueensArchive.QuestQueensArchive()
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.#ctor*
+  name: QuestQueensArchive
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueensArchive__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.QuestQueensArchive
+  nameWithType: QuestQueensArchive.QuestQueensArchive
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueensArchive_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.CompletionPopup
+  nameWithType: QuestQueensArchive.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueensArchive_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.CompletionPopup
+  nameWithType: QuestQueensArchive.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueensArchive_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.RewardDescription
+  nameWithType: QuestQueensArchive.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueensArchive_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.RewardDescription
+  nameWithType: QuestQueensArchive.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil
   name: QuestQueldanil
   href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html
