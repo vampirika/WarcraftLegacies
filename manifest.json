@@ -3417,7 +3417,19 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.SpellSystem.DummyCast.html",
-          "hash": "q+DAnjmeyS/Q19yj2t20yg=="
+          "hash": "I+gMhLnFvaTHY4ifvWMHfw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.SpellSystem.DummyCastOriginType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.SpellSystem.DummyCastOriginType.html",
+          "hash": "XZlXba3bvEbYzNPkZxjdpg=="
         }
       },
       "is_incremental": false,
@@ -3501,7 +3513,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.SpellSystem.html",
-          "hash": "yoL7i7iqcElqPMAHR8EhRQ=="
+          "hash": "ZAxNdZewOBfOTYUHBrCB0g=="
         }
       },
       "is_incremental": false,
@@ -3681,7 +3693,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Spells.MassAnySpell.html",
-          "hash": "NIwFEz6DX9630DcvKLDobA=="
+          "hash": "iAJsgXhA0RtD5ADhBugfyA=="
         }
       },
       "is_incremental": false,
@@ -4101,7 +4113,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "cQw08OvZJsQkt3adaSzU2g=="
+          "hash": "ayGDuXu1AmYLHXu2qyJnWQ=="
         }
       },
       "is_incremental": false,
@@ -9048,7 +9060,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 746,
+          "total_file_count": 747,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

@@ -15508,6 +15508,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Spells.MassAnySpell.DummyAbilityOrderString
   nameWithType: MassAnySpell.DummyAbilityOrderString
+- uid: MacroTools.Spells.MassAnySpell.DummyCastOriginType
+  name: DummyCastOriginType
+  href: api-macroTools/MacroTools.Spells.MassAnySpell.html#MacroTools_Spells_MassAnySpell_DummyCastOriginType
+  commentId: P:MacroTools.Spells.MassAnySpell.DummyCastOriginType
+  fullName: MacroTools.Spells.MassAnySpell.DummyCastOriginType
+  nameWithType: MassAnySpell.DummyCastOriginType
+- uid: MacroTools.Spells.MassAnySpell.DummyCastOriginType*
+  name: DummyCastOriginType
+  href: api-macroTools/MacroTools.Spells.MassAnySpell.html#MacroTools_Spells_MassAnySpell_DummyCastOriginType_
+  commentId: Overload:MacroTools.Spells.MassAnySpell.DummyCastOriginType
+  isSpec: "True"
+  fullName: MacroTools.Spells.MassAnySpell.DummyCastOriginType
+  nameWithType: MassAnySpell.DummyCastOriginType
 - uid: MacroTools.Spells.MassAnySpell.OnCast(unit,unit,Point)
   name: OnCast(unit, unit, Point)
   href: api-macroTools/MacroTools.Spells.MassAnySpell.html#MacroTools_Spells_MassAnySpell_OnCast_unit_unit_Point_
@@ -17470,12 +17483,12 @@ references:
   isSpec: "True"
   fullName: MacroTools.SpellSystem.DummyCast.DummyCastInstant
   nameWithType: DummyCast.DummyCastInstant
-- uid: MacroTools.SpellSystem.DummyCast.DummyCastOnUnitsInCircle(unit,System.Int32,System.String,System.Int32,Point,System.Single,MacroTools.SpellSystem.DummyCast.CastFilter)
-  name: DummyCastOnUnitsInCircle(unit, Int32, String, Int32, Point, Single, DummyCast.CastFilter)
-  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastOnUnitsInCircle_unit_System_Int32_System_String_System_Int32_Point_System_Single_MacroTools_SpellSystem_DummyCast_CastFilter_
-  commentId: M:MacroTools.SpellSystem.DummyCast.DummyCastOnUnitsInCircle(unit,System.Int32,System.String,System.Int32,Point,System.Single,MacroTools.SpellSystem.DummyCast.CastFilter)
-  fullName: MacroTools.SpellSystem.DummyCast.DummyCastOnUnitsInCircle(unit, System.Int32, System.String, System.Int32, Point, System.Single, MacroTools.SpellSystem.DummyCast.CastFilter)
-  nameWithType: DummyCast.DummyCastOnUnitsInCircle(unit, Int32, String, Int32, Point, Single, DummyCast.CastFilter)
+- uid: MacroTools.SpellSystem.DummyCast.DummyCastOnUnitsInCircle(unit,System.Int32,System.String,System.Int32,Point,System.Single,MacroTools.SpellSystem.DummyCast.CastFilter,MacroTools.SpellSystem.DummyCastOriginType)
+  name: DummyCastOnUnitsInCircle(unit, Int32, String, Int32, Point, Single, DummyCast.CastFilter, DummyCastOriginType)
+  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastOnUnitsInCircle_unit_System_Int32_System_String_System_Int32_Point_System_Single_MacroTools_SpellSystem_DummyCast_CastFilter_MacroTools_SpellSystem_DummyCastOriginType_
+  commentId: M:MacroTools.SpellSystem.DummyCast.DummyCastOnUnitsInCircle(unit,System.Int32,System.String,System.Int32,Point,System.Single,MacroTools.SpellSystem.DummyCast.CastFilter,MacroTools.SpellSystem.DummyCastOriginType)
+  fullName: MacroTools.SpellSystem.DummyCast.DummyCastOnUnitsInCircle(unit, System.Int32, System.String, System.Int32, Point, System.Single, MacroTools.SpellSystem.DummyCast.CastFilter, MacroTools.SpellSystem.DummyCastOriginType)
+  nameWithType: DummyCast.DummyCastOnUnitsInCircle(unit, Int32, String, Int32, Point, Single, DummyCast.CastFilter, DummyCastOriginType)
 - uid: MacroTools.SpellSystem.DummyCast.DummyCastOnUnitsInCircle*
   name: DummyCastOnUnitsInCircle
   href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastOnUnitsInCircle_
@@ -17496,12 +17509,12 @@ references:
   isSpec: "True"
   fullName: MacroTools.SpellSystem.DummyCast.DummyCastPoint
   nameWithType: DummyCast.DummyCastPoint
-- uid: MacroTools.SpellSystem.DummyCast.DummyCastUnit(unit,System.Int32,System.String,System.Int32,unit)
-  name: DummyCastUnit(unit, Int32, String, Int32, unit)
-  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastUnit_unit_System_Int32_System_String_System_Int32_unit_
-  commentId: M:MacroTools.SpellSystem.DummyCast.DummyCastUnit(unit,System.Int32,System.String,System.Int32,unit)
-  fullName: MacroTools.SpellSystem.DummyCast.DummyCastUnit(unit, System.Int32, System.String, System.Int32, unit)
-  nameWithType: DummyCast.DummyCastUnit(unit, Int32, String, Int32, unit)
+- uid: MacroTools.SpellSystem.DummyCast.DummyCastUnit(unit,System.Int32,System.String,System.Int32,unit,MacroTools.SpellSystem.DummyCastOriginType)
+  name: DummyCastUnit(unit, Int32, String, Int32, unit, DummyCastOriginType)
+  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastUnit_unit_System_Int32_System_String_System_Int32_unit_MacroTools_SpellSystem_DummyCastOriginType_
+  commentId: M:MacroTools.SpellSystem.DummyCast.DummyCastUnit(unit,System.Int32,System.String,System.Int32,unit,MacroTools.SpellSystem.DummyCastOriginType)
+  fullName: MacroTools.SpellSystem.DummyCast.DummyCastUnit(unit, System.Int32, System.String, System.Int32, unit, MacroTools.SpellSystem.DummyCastOriginType)
+  nameWithType: DummyCast.DummyCastUnit(unit, Int32, String, Int32, unit, DummyCastOriginType)
 - uid: MacroTools.SpellSystem.DummyCast.DummyCastUnit*
   name: DummyCastUnit
   href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastUnit_
@@ -17580,6 +17593,24 @@ references:
   isSpec: "True"
   fullName: MacroTools.SpellSystem.DummyCaster.UnitTypeId
   nameWithType: DummyCaster.UnitTypeId
+- uid: MacroTools.SpellSystem.DummyCastOriginType
+  name: DummyCastOriginType
+  href: api-macroTools/MacroTools.SpellSystem.DummyCastOriginType.html
+  commentId: T:MacroTools.SpellSystem.DummyCastOriginType
+  fullName: MacroTools.SpellSystem.DummyCastOriginType
+  nameWithType: DummyCastOriginType
+- uid: MacroTools.SpellSystem.DummyCastOriginType.Caster
+  name: Caster
+  href: api-macroTools/MacroTools.SpellSystem.DummyCastOriginType.html#MacroTools_SpellSystem_DummyCastOriginType_Caster
+  commentId: F:MacroTools.SpellSystem.DummyCastOriginType.Caster
+  fullName: MacroTools.SpellSystem.DummyCastOriginType.Caster
+  nameWithType: DummyCastOriginType.Caster
+- uid: MacroTools.SpellSystem.DummyCastOriginType.Target
+  name: Target
+  href: api-macroTools/MacroTools.SpellSystem.DummyCastOriginType.html#MacroTools_SpellSystem_DummyCastOriginType_Target
+  commentId: F:MacroTools.SpellSystem.DummyCastOriginType.Target
+  fullName: MacroTools.SpellSystem.DummyCastOriginType.Target
+  nameWithType: DummyCastOriginType.Target
 - uid: MacroTools.SpellSystem.Hazard
   name: Hazard
   href: api-macroTools/MacroTools.SpellSystem.Hazard.html
