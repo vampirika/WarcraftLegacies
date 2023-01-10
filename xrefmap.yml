@@ -35091,12 +35091,15 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.ObserverSetup
   fullName: WarcraftLegacies.Source.Setup.ObserverSetup
   nameWithType: ObserverSetup
-- uid: WarcraftLegacies.Source.Setup.ObserverSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.ObserverSetup.html#WarcraftLegacies_Source_Setup_ObserverSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.ObserverSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.ObserverSetup.Setup()
-  nameWithType: ObserverSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.ObserverSetup.Setup(IEnumerable{player})
+  name: Setup(IEnumerable<player>)
+  href: api-source/WarcraftLegacies.Source.Setup.ObserverSetup.html#WarcraftLegacies_Source_Setup_ObserverSetup_Setup_IEnumerable_player__
+  commentId: M:WarcraftLegacies.Source.Setup.ObserverSetup.Setup(IEnumerable{player})
+  name.vb: Setup(IEnumerable(Of player))
+  fullName: WarcraftLegacies.Source.Setup.ObserverSetup.Setup(IEnumerable<player>)
+  fullName.vb: WarcraftLegacies.Source.Setup.ObserverSetup.Setup(IEnumerable(Of player))
+  nameWithType: ObserverSetup.Setup(IEnumerable<player>)
+  nameWithType.vb: ObserverSetup.Setup(IEnumerable(Of player))
 - uid: WarcraftLegacies.Source.Setup.ObserverSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.ObserverSetup.html#WarcraftLegacies_Source_Setup_ObserverSetup_Setup_
