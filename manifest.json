@@ -5477,18 +5477,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestStonemaul.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestStonemaul.html",
-          "hash": "ut/8pduIidID9cJGwxAEzQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.QuestWetlandOffensive.yml",
       "output": {
         ".html": {
@@ -5505,7 +5493,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dragonmaw.html",
-          "hash": "7KVvKWMnSydZOudbQkBuKw=="
+          "hash": "bZQ7LOWlIYyCRGqPms8+ig=="
         }
       },
       "is_incremental": false,
@@ -9009,7 +8997,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "HQJaZBuMJLyngvdBkF/e2w=="
+          "hash": "MUf5Y/ELeH3TGnVPEqxfKw=="
         }
       },
       "is_incremental": false,
@@ -9084,7 +9072,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 749,
+          "total_file_count": 748,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
