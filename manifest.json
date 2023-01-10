@@ -7397,6 +7397,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.SunfuryWarrior.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Researches.SunfuryWarrior.html",
+          "hash": "dK8iV9i6yfVZnwtn22oqMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.VeteranFootmen.yml",
       "output": {
         ".html": {
@@ -7413,7 +7425,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Researches.html",
-          "hash": "wJUUgW1lgmFvZ3Wzw1IsYA=="
+          "hash": "3U3hItYg32+tY6UeETPPKQ=="
         }
       },
       "is_incremental": false,
@@ -8949,7 +8961,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "C8SsdinrAljSwx+KJu25Ig=="
+          "hash": "0eYORy0iVOKkjs7+QqFTQw=="
         }
       },
       "is_incremental": false,
@@ -9024,7 +9036,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 744,
+          "total_file_count": 745,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

@@ -31066,6 +31066,38 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Researches.Stormwind.TierVeteranGuard.Setup
   nameWithType: TierVeteranGuard.Setup
+- uid: WarcraftLegacies.Source.Researches.SunfuryWarrior
+  name: SunfuryWarrior
+  href: api-source/WarcraftLegacies.Source.Researches.SunfuryWarrior.html
+  commentId: T:WarcraftLegacies.Source.Researches.SunfuryWarrior
+  fullName: WarcraftLegacies.Source.Researches.SunfuryWarrior
+  nameWithType: SunfuryWarrior
+- uid: WarcraftLegacies.Source.Researches.SunfuryWarrior.#ctor(System.Int32,System.Int32,System.Int32)
+  name: SunfuryWarrior(Int32, Int32, Int32)
+  href: api-source/WarcraftLegacies.Source.Researches.SunfuryWarrior.html#WarcraftLegacies_Source_Researches_SunfuryWarrior__ctor_System_Int32_System_Int32_System_Int32_
+  commentId: M:WarcraftLegacies.Source.Researches.SunfuryWarrior.#ctor(System.Int32,System.Int32,System.Int32)
+  fullName: WarcraftLegacies.Source.Researches.SunfuryWarrior.SunfuryWarrior(System.Int32, System.Int32, System.Int32)
+  nameWithType: SunfuryWarrior.SunfuryWarrior(Int32, Int32, Int32)
+- uid: WarcraftLegacies.Source.Researches.SunfuryWarrior.#ctor*
+  name: SunfuryWarrior
+  href: api-source/WarcraftLegacies.Source.Researches.SunfuryWarrior.html#WarcraftLegacies_Source_Researches_SunfuryWarrior__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Researches.SunfuryWarrior.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Researches.SunfuryWarrior.SunfuryWarrior
+  nameWithType: SunfuryWarrior.SunfuryWarrior
+- uid: WarcraftLegacies.Source.Researches.SunfuryWarrior.OnResearch(player)
+  name: OnResearch(player)
+  href: api-source/WarcraftLegacies.Source.Researches.SunfuryWarrior.html#WarcraftLegacies_Source_Researches_SunfuryWarrior_OnResearch_player_
+  commentId: M:WarcraftLegacies.Source.Researches.SunfuryWarrior.OnResearch(player)
+  fullName: WarcraftLegacies.Source.Researches.SunfuryWarrior.OnResearch(player)
+  nameWithType: SunfuryWarrior.OnResearch(player)
+- uid: WarcraftLegacies.Source.Researches.SunfuryWarrior.OnResearch*
+  name: OnResearch
+  href: api-source/WarcraftLegacies.Source.Researches.SunfuryWarrior.html#WarcraftLegacies_Source_Researches_SunfuryWarrior_OnResearch_
+  commentId: Overload:WarcraftLegacies.Source.Researches.SunfuryWarrior.OnResearch
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Researches.SunfuryWarrior.OnResearch
+  nameWithType: SunfuryWarrior.OnResearch
 - uid: WarcraftLegacies.Source.Researches.VeteranFootmen
   name: VeteranFootmen
   href: api-source/WarcraftLegacies.Source.Researches.VeteranFootmen.html
