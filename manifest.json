@@ -7289,23 +7289,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Ironforge.TitanForgeArtifact.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Researches.Ironforge.TitanForgeArtifact.html",
-          "hash": "QpmNF+oFqHF01vFUmxOdbQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Ironforge.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Researches.Ironforge.html",
-          "hash": "Ea8tt8oWmqpH/tjVaDF2aA=="
+          "hash": "iM0Y/iZC7t71sq5O7TUj8A=="
         }
       },
       "is_incremental": false,
@@ -8625,7 +8613,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.ResearchSetup.html",
-          "hash": "ZVW3ORdBthjdMIhVBgEtDA=="
+          "hash": "F5WLxaxARNa2eSUhUuLavg=="
         }
       },
       "is_incremental": false,
@@ -8753,6 +8741,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.IronforgeSpellSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.IronforgeSpellSetup.html",
+          "hash": "s4nNIS44QLBjemiPCvc+oQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup.yml",
       "output": {
         ".html": {
@@ -8841,7 +8841,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.html",
-          "hash": "aMP1ejHbvltFy/Rz0Qa7Yw=="
+          "hash": "gBgC1OagP8fNE3ym3gyiMQ=="
         }
       },
       "is_incremental": false,
@@ -8921,6 +8921,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Spells.TitanForgeArtifact.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Spells.TitanForgeArtifact.html",
+          "hash": "egotg6iyD+pLWx69mrnkyg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Spells.WeaponEmpowerment.yml",
       "output": {
         ".html": {
@@ -8937,7 +8949,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Spells.html",
-          "hash": "ipCiwQpugw1b863KB+wbdg=="
+          "hash": "Be/H1ud2nuvF6g0TQ3G9mg=="
         }
       },
       "is_incremental": false,
@@ -8985,7 +8997,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "HuzxxHVc7L6GsYMe9QTwBw=="
+          "hash": "5XJJD5eTxnrwn5VzmTcZ/w=="
         }
       },
       "is_incremental": false,
@@ -9060,7 +9072,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 747,
+          "total_file_count": 748,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

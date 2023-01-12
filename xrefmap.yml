@@ -30949,25 +30949,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.Setup
   nameWithType: DeeprunTram.Setup
-- uid: WarcraftLegacies.Source.Researches.Ironforge.TitanForgeArtifact
-  name: TitanForgeArtifact
-  href: api-source/WarcraftLegacies.Source.Researches.Ironforge.TitanForgeArtifact.html
-  commentId: T:WarcraftLegacies.Source.Researches.Ironforge.TitanForgeArtifact
-  fullName: WarcraftLegacies.Source.Researches.Ironforge.TitanForgeArtifact
-  nameWithType: TitanForgeArtifact
-- uid: WarcraftLegacies.Source.Researches.Ironforge.TitanForgeArtifact.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Researches.Ironforge.TitanForgeArtifact.html#WarcraftLegacies_Source_Researches_Ironforge_TitanForgeArtifact_Setup
-  commentId: M:WarcraftLegacies.Source.Researches.Ironforge.TitanForgeArtifact.Setup
-  fullName: WarcraftLegacies.Source.Researches.Ironforge.TitanForgeArtifact.Setup()
-  nameWithType: TitanForgeArtifact.Setup()
-- uid: WarcraftLegacies.Source.Researches.Ironforge.TitanForgeArtifact.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Researches.Ironforge.TitanForgeArtifact.html#WarcraftLegacies_Source_Researches_Ironforge_TitanForgeArtifact_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Researches.Ironforge.TitanForgeArtifact.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Researches.Ironforge.TitanForgeArtifact.Setup
-  nameWithType: TitanForgeArtifact.Setup
 - uid: WarcraftLegacies.Source.Researches.Revenants
   name: Revenants
   href: api-source/WarcraftLegacies.Source.Researches.Revenants.html
@@ -35701,6 +35682,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Spells.IllidariSpellSetup.Setup
   nameWithType: IllidariSpellSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.Spells.IronforgeSpellSetup
+  name: IronforgeSpellSetup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.IronforgeSpellSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.Spells.IronforgeSpellSetup
+  fullName: WarcraftLegacies.Source.Setup.Spells.IronforgeSpellSetup
+  nameWithType: IronforgeSpellSetup
+- uid: WarcraftLegacies.Source.Setup.Spells.IronforgeSpellSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.IronforgeSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_IronforgeSpellSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.Spells.IronforgeSpellSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.Spells.IronforgeSpellSetup.Setup()
+  nameWithType: IronforgeSpellSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.Spells.IronforgeSpellSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.IronforgeSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_IronforgeSpellSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Spells.IronforgeSpellSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Spells.IronforgeSpellSetup.Setup
+  nameWithType: IronforgeSpellSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup
   name: KulTirasSpellSetup
   href: api-source/WarcraftLegacies.Source.Setup.Spells.KulTirasSpellSetup.html
@@ -36143,6 +36143,38 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Spells.PingOilDeposits.OnCast
   nameWithType: PingOilDeposits.OnCast
+- uid: WarcraftLegacies.Source.Spells.TitanForgeArtifact
+  name: TitanForgeArtifact
+  href: api-source/WarcraftLegacies.Source.Spells.TitanForgeArtifact.html
+  commentId: T:WarcraftLegacies.Source.Spells.TitanForgeArtifact
+  fullName: WarcraftLegacies.Source.Spells.TitanForgeArtifact
+  nameWithType: TitanForgeArtifact
+- uid: WarcraftLegacies.Source.Spells.TitanForgeArtifact.#ctor(System.Int32,System.Int32,System.Int32)
+  name: TitanForgeArtifact(Int32, Int32, Int32)
+  href: api-source/WarcraftLegacies.Source.Spells.TitanForgeArtifact.html#WarcraftLegacies_Source_Spells_TitanForgeArtifact__ctor_System_Int32_System_Int32_System_Int32_
+  commentId: M:WarcraftLegacies.Source.Spells.TitanForgeArtifact.#ctor(System.Int32,System.Int32,System.Int32)
+  fullName: WarcraftLegacies.Source.Spells.TitanForgeArtifact.TitanForgeArtifact(System.Int32, System.Int32, System.Int32)
+  nameWithType: TitanForgeArtifact.TitanForgeArtifact(Int32, Int32, Int32)
+- uid: WarcraftLegacies.Source.Spells.TitanForgeArtifact.#ctor*
+  name: TitanForgeArtifact
+  href: api-source/WarcraftLegacies.Source.Spells.TitanForgeArtifact.html#WarcraftLegacies_Source_Spells_TitanForgeArtifact__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Spells.TitanForgeArtifact.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Spells.TitanForgeArtifact.TitanForgeArtifact
+  nameWithType: TitanForgeArtifact.TitanForgeArtifact
+- uid: WarcraftLegacies.Source.Spells.TitanForgeArtifact.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-source/WarcraftLegacies.Source.Spells.TitanForgeArtifact.html#WarcraftLegacies_Source_Spells_TitanForgeArtifact_OnCast_unit_unit_Point_
+  commentId: M:WarcraftLegacies.Source.Spells.TitanForgeArtifact.OnCast(unit,unit,Point)
+  fullName: WarcraftLegacies.Source.Spells.TitanForgeArtifact.OnCast(unit, unit, Point)
+  nameWithType: TitanForgeArtifact.OnCast(unit, unit, Point)
+- uid: WarcraftLegacies.Source.Spells.TitanForgeArtifact.OnCast*
+  name: OnCast
+  href: api-source/WarcraftLegacies.Source.Spells.TitanForgeArtifact.html#WarcraftLegacies_Source_Spells_TitanForgeArtifact_OnCast_
+  commentId: Overload:WarcraftLegacies.Source.Spells.TitanForgeArtifact.OnCast
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Spells.TitanForgeArtifact.OnCast
+  nameWithType: TitanForgeArtifact.OnCast
 - uid: WarcraftLegacies.Source.Spells.WeaponEmpowerment
   name: WeaponEmpowerment
   href: api-source/WarcraftLegacies.Source.Spells.WeaponEmpowerment.html
