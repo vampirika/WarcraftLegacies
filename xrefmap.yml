@@ -5048,12 +5048,12 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.PlayerExtensions.SetCameraLimits
   nameWithType: PlayerExtensions.SetCameraLimits
-- uid: MacroTools.Extensions.PlayerExtensions.SetControlLevelPerTurnBonus(player,System.Int32)
-  name: SetControlLevelPerTurnBonus(player, Int32)
-  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_SetControlLevelPerTurnBonus_player_System_Int32_
-  commentId: M:MacroTools.Extensions.PlayerExtensions.SetControlLevelPerTurnBonus(player,System.Int32)
-  fullName: MacroTools.Extensions.PlayerExtensions.SetControlLevelPerTurnBonus(player, System.Int32)
-  nameWithType: PlayerExtensions.SetControlLevelPerTurnBonus(player, Int32)
+- uid: MacroTools.Extensions.PlayerExtensions.SetControlLevelPerTurnBonus(player,System.Single)
+  name: SetControlLevelPerTurnBonus(player, Single)
+  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_SetControlLevelPerTurnBonus_player_System_Single_
+  commentId: M:MacroTools.Extensions.PlayerExtensions.SetControlLevelPerTurnBonus(player,System.Single)
+  fullName: MacroTools.Extensions.PlayerExtensions.SetControlLevelPerTurnBonus(player, System.Single)
+  nameWithType: PlayerExtensions.SetControlLevelPerTurnBonus(player, Single)
 - uid: MacroTools.Extensions.PlayerExtensions.SetControlLevelPerTurnBonus*
   name: SetControlLevelPerTurnBonus
   href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_SetControlLevelPerTurnBonus_
@@ -13146,12 +13146,12 @@ references:
   commentId: T:MacroTools.Powers.ControlLevelPerTurnBonus
   fullName: MacroTools.Powers.ControlLevelPerTurnBonus
   nameWithType: ControlLevelPerTurnBonus
-- uid: MacroTools.Powers.ControlLevelPerTurnBonus.#ctor(System.Int32)
-  name: ControlLevelPerTurnBonus(Int32)
-  href: api-macroTools/MacroTools.Powers.ControlLevelPerTurnBonus.html#MacroTools_Powers_ControlLevelPerTurnBonus__ctor_System_Int32_
-  commentId: M:MacroTools.Powers.ControlLevelPerTurnBonus.#ctor(System.Int32)
-  fullName: MacroTools.Powers.ControlLevelPerTurnBonus.ControlLevelPerTurnBonus(System.Int32)
-  nameWithType: ControlLevelPerTurnBonus.ControlLevelPerTurnBonus(Int32)
+- uid: MacroTools.Powers.ControlLevelPerTurnBonus.#ctor(System.Single)
+  name: ControlLevelPerTurnBonus(Single)
+  href: api-macroTools/MacroTools.Powers.ControlLevelPerTurnBonus.html#MacroTools_Powers_ControlLevelPerTurnBonus__ctor_System_Single_
+  commentId: M:MacroTools.Powers.ControlLevelPerTurnBonus.#ctor(System.Single)
+  fullName: MacroTools.Powers.ControlLevelPerTurnBonus.ControlLevelPerTurnBonus(System.Single)
+  nameWithType: ControlLevelPerTurnBonus.ControlLevelPerTurnBonus(Single)
 - uid: MacroTools.Powers.ControlLevelPerTurnBonus.#ctor*
   name: ControlLevelPerTurnBonus
   href: api-macroTools/MacroTools.Powers.ControlLevelPerTurnBonus.html#MacroTools_Powers_ControlLevelPerTurnBonus__ctor_
