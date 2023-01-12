@@ -20255,12 +20255,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronBuff
   fullName: WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronBuff
   nameWithType: PlagueCauldronBuff
-- uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronBuff.#ctor(unit,unit)
-  name: PlagueCauldronBuff(unit, unit)
-  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronBuff.html#WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlagueCauldronBuff__ctor_unit_unit_
-  commentId: M:WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronBuff.#ctor(unit,unit)
-  fullName: WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronBuff.PlagueCauldronBuff(unit, unit)
-  nameWithType: PlagueCauldronBuff.PlagueCauldronBuff(unit, unit)
+- uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronBuff.#ctor(unit,unit,Point)
+  name: PlagueCauldronBuff(unit, unit, Point)
+  href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronBuff.html#WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlagueCauldronBuff__ctor_unit_unit_Point_
+  commentId: M:WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronBuff.#ctor(unit,unit,Point)
+  fullName: WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronBuff.PlagueCauldronBuff(unit, unit, Point)
+  nameWithType: PlagueCauldronBuff.PlagueCauldronBuff(unit, unit, Point)
 - uid: WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronBuff.#ctor*
   name: PlagueCauldronBuff
   href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlagueCauldronBuff.html#WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlagueCauldronBuff__ctor_
@@ -27829,6 +27829,19 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Scourge.PlagueParameters
   fullName: WarcraftLegacies.Source.Quests.Scourge.PlagueParameters
   nameWithType: PlagueParameters
+- uid: WarcraftLegacies.Source.Quests.Scourge.PlagueParameters.AttackTargets
+  name: AttackTargets
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.PlagueParameters.html#WarcraftLegacies_Source_Quests_Scourge_PlagueParameters_AttackTargets
+  commentId: P:WarcraftLegacies.Source.Quests.Scourge.PlagueParameters.AttackTargets
+  fullName: WarcraftLegacies.Source.Quests.Scourge.PlagueParameters.AttackTargets
+  nameWithType: PlagueParameters.AttackTargets
+- uid: WarcraftLegacies.Source.Quests.Scourge.PlagueParameters.AttackTargets*
+  name: AttackTargets
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.PlagueParameters.html#WarcraftLegacies_Source_Quests_Scourge_PlagueParameters_AttackTargets_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.PlagueParameters.AttackTargets
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Scourge.PlagueParameters.AttackTargets
+  nameWithType: PlagueParameters.AttackTargets
 - uid: WarcraftLegacies.Source.Quests.Scourge.PlagueParameters.Duration
   name: Duration
   href: api-source/WarcraftLegacies.Source.Quests.Scourge.PlagueParameters.html#WarcraftLegacies_Source_Quests_Scourge_PlagueParameters_Duration
