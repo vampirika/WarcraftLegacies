@@ -24874,6 +24874,64 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestDunMorogh.RewardDescription
   nameWithType: QuestDunMorogh.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition
+  name: QuestExpedition
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.html
+  commentId: T:WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition
+  nameWithType: QuestExpedition
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.#ctor(System.Int32)
+  name: QuestExpedition(Int32)
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.html#WarcraftLegacies_Source_Quests_Ironforge_QuestExpedition__ctor_System_Int32_
+  commentId: M:WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.#ctor(System.Int32)
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.QuestExpedition(System.Int32)
+  nameWithType: QuestExpedition.QuestExpedition(Int32)
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.#ctor*
+  name: QuestExpedition
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.html#WarcraftLegacies_Source_Quests_Ironforge_QuestExpedition__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.QuestExpedition
+  nameWithType: QuestExpedition.QuestExpedition
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.CompletionPopup
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.html#WarcraftLegacies_Source_Quests_Ironforge_QuestExpedition_CompletionPopup
+  commentId: P:WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.CompletionPopup
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.CompletionPopup
+  nameWithType: QuestExpedition.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.CompletionPopup*
+  name: CompletionPopup
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.html#WarcraftLegacies_Source_Quests_Ironforge_QuestExpedition_CompletionPopup_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.CompletionPopup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.CompletionPopup
+  nameWithType: QuestExpedition.CompletionPopup
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.html#WarcraftLegacies_Source_Quests_Ironforge_QuestExpedition_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestExpedition.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.html#WarcraftLegacies_Source_Quests_Ironforge_QuestExpedition_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.OnComplete
+  nameWithType: QuestExpedition.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.html#WarcraftLegacies_Source_Quests_Ironforge_QuestExpedition_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.RewardDescription
+  nameWithType: QuestExpedition.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.html#WarcraftLegacies_Source_Quests_Ironforge_QuestExpedition_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.RewardDescription
+  nameWithType: QuestExpedition.RewardDescription
 - uid: WarcraftLegacies.Source.Quests.Ironforge.QuestGnomeregan
   name: QuestGnomeregan
   href: api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestGnomeregan.html

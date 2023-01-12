@@ -6077,6 +6077,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestExpedition.html",
+          "hash": "6hyaUxtCP69U9v4BZCIftw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.QuestGnomeregan.yml",
       "output": {
         ".html": {
@@ -6117,7 +6129,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Ironforge.html",
-          "hash": "0uM906Ohj5CJxULXVffBpg=="
+          "hash": "O6sQO/L6k2BBjvYptsXCuQ=="
         }
       },
       "is_incremental": false,
@@ -8493,7 +8505,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.IronforgeQuestSetup.html",
-          "hash": "fz2Wri0A3ofoHhMs+dLW4w=="
+          "hash": "ETibpamLkucjLB7vY6hCKA=="
         }
       },
       "is_incremental": false,
@@ -9009,7 +9021,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "0eqMmIb1/1sWV0/jIxNI1A=="
+          "hash": "KDuk/8LgixxDMi1bMKywqg=="
         }
       },
       "is_incremental": false,
@@ -9084,7 +9096,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 749,
+          "total_file_count": 750,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
