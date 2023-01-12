@@ -8825,11 +8825,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.WarsongSpellSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.WarsongSpellSetup.html",
+          "hash": "zsOw1nMYnrkHAThchXeytw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.html",
-          "hash": "WCKppLghPdjYF+dFwXfzxQ=="
+          "hash": "aMP1ejHbvltFy/Rz0Qa7Yw=="
         }
       },
       "is_incremental": false,
@@ -8973,7 +8985,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "4xk6mkCkhXSovQfrSWrZpw=="
+          "hash": "HuzxxHVc7L6GsYMe9QTwBw=="
         }
       },
       "is_incremental": false,
@@ -9048,7 +9060,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 746,
+          "total_file_count": 747,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

@@ -35815,6 +35815,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.Setup
   nameWithType: StormwindSpellSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.Spells.WarsongSpellSetup
+  name: WarsongSpellSetup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.WarsongSpellSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.Spells.WarsongSpellSetup
+  fullName: WarcraftLegacies.Source.Setup.Spells.WarsongSpellSetup
+  nameWithType: WarsongSpellSetup
+- uid: WarcraftLegacies.Source.Setup.Spells.WarsongSpellSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.WarsongSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_WarsongSpellSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.Spells.WarsongSpellSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.Spells.WarsongSpellSetup.Setup()
+  nameWithType: WarsongSpellSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.Spells.WarsongSpellSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.WarsongSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_WarsongSpellSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Spells.WarsongSpellSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Spells.WarsongSpellSetup.Setup
+  nameWithType: WarsongSpellSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.SpellsSetup
   name: SpellsSetup
   href: api-source/WarcraftLegacies.Source.Setup.SpellsSetup.html
