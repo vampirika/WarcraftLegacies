@@ -28317,12 +28317,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Scourge.QuestPlague
   fullName: WarcraftLegacies.Source.Quests.Scourge.QuestPlague
   nameWithType: QuestPlague
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestPlague.#ctor(WarcraftLegacies.Source.Quests.Scourge.PlagueParameters)
-  name: QuestPlague(PlagueParameters)
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestPlague.html#WarcraftLegacies_Source_Quests_Scourge_QuestPlague__ctor_WarcraftLegacies_Source_Quests_Scourge_PlagueParameters_
-  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestPlague.#ctor(WarcraftLegacies.Source.Quests.Scourge.PlagueParameters)
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestPlague.QuestPlague(WarcraftLegacies.Source.Quests.Scourge.PlagueParameters)
-  nameWithType: QuestPlague.QuestPlague(PlagueParameters)
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestPlague.#ctor(WarcraftLegacies.Source.Quests.Scourge.PlagueParameters,MacroTools.PreplacedUnitSystem)
+  name: QuestPlague(PlagueParameters, PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestPlague.html#WarcraftLegacies_Source_Quests_Scourge_QuestPlague__ctor_WarcraftLegacies_Source_Quests_Scourge_PlagueParameters_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestPlague.#ctor(WarcraftLegacies.Source.Quests.Scourge.PlagueParameters,MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestPlague.QuestPlague(WarcraftLegacies.Source.Quests.Scourge.PlagueParameters, MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestPlague.QuestPlague(PlagueParameters, PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Quests.Scourge.QuestPlague.#ctor*
   name: QuestPlague
   href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestPlague.html#WarcraftLegacies_Source_Quests_Scourge_QuestPlague__ctor_
@@ -31619,6 +31619,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.AugmentSetup.Setup
   nameWithType: AugmentSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.BlackPortalControlNexusSetup
+  name: BlackPortalControlNexusSetup
+  href: api-source/WarcraftLegacies.Source.Setup.BlackPortalControlNexusSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.BlackPortalControlNexusSetup
+  fullName: WarcraftLegacies.Source.Setup.BlackPortalControlNexusSetup
+  nameWithType: BlackPortalControlNexusSetup
+- uid: WarcraftLegacies.Source.Setup.BlackPortalControlNexusSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.BlackPortalControlNexusSetup.html#WarcraftLegacies_Source_Setup_BlackPortalControlNexusSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.BlackPortalControlNexusSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.BlackPortalControlNexusSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: BlackPortalControlNexusSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.BlackPortalControlNexusSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.BlackPortalControlNexusSetup.html#WarcraftLegacies_Source_Setup_BlackPortalControlNexusSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.BlackPortalControlNexusSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.BlackPortalControlNexusSetup.Setup
+  nameWithType: BlackPortalControlNexusSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.BlockerSetup
   name: BlockerSetup
   href: api-source/WarcraftLegacies.Source.Setup.BlockerSetup.html

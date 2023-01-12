@@ -6801,7 +6801,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestPlague.html",
-          "hash": "BTX9ru/X5iSNrLVsT+LRIg=="
+          "hash": "fbqHwhkqxN4NxyhFYiLGYA=="
         }
       },
       "is_incremental": false,
@@ -7582,6 +7582,18 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.AugmentSetup.html",
           "hash": "l9OUqCgzogDYcOUG1fRcyw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.BlackPortalControlNexusSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.BlackPortalControlNexusSetup.html",
+          "hash": "lh1/TW77xgomg+5xsndt1w=="
         }
       },
       "is_incremental": false,
@@ -8901,7 +8913,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.html",
-          "hash": "MMzvCmDgs01wnbcKbZD7UQ=="
+          "hash": "stI9EnYwGO7vmbBg5NsD7A=="
         }
       },
       "is_incremental": false,
@@ -8997,7 +9009,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "MUf5Y/ELeH3TGnVPEqxfKw=="
+          "hash": "0eqMmIb1/1sWV0/jIxNI1A=="
         }
       },
       "is_incremental": false,
@@ -9072,7 +9084,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 748,
+          "total_file_count": 749,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
