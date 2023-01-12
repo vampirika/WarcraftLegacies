@@ -4229,18 +4229,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Commands.AllianceActive.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Commands.AllianceActive.html",
-          "hash": "Qreol8ZKhVO1IUhMCH1WZQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Commands.InviteCommand.yml",
       "output": {
         ".html": {
@@ -4317,7 +4305,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Commands.html",
-          "hash": "Q55ZE9aGAZwWTmQXvd0YFg=="
+          "hash": "OUYglfcQLRMoZ6OVUFezDg=="
         }
       },
       "is_incremental": false,
@@ -4533,7 +4521,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.html",
-          "hash": "vBoC13ABBjlEM1TltFAeHQ=="
+          "hash": "h5R5z12kfjAl/JtomtBrUw=="
         }
       },
       "is_incremental": false,
@@ -4553,23 +4541,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.GameEnd.VictoryDefeat.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.GameEnd.VictoryDefeat.html",
-          "hash": "BmenNtSCj1tE/ptQn4Dbbw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.GameEnd.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.GameEnd.html",
-          "hash": "FAEfOPWd97taF9eZLJ3M3w=="
+          "hash": "Jqbc8E7sMpaSSuxhI8x7tA=="
         }
       },
       "is_incremental": false,
@@ -4702,42 +4678,6 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.html",
           "hash": "rjdWxs0N23SsJVlfe1UrDg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Hints.HintConfig.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Hints.HintConfig.html",
-          "hash": "fwy4ZXtelhDVTYnUJjSNkA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Hints.HintVictory.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Hints.HintVictory.html",
-          "hash": "sDWl1GrkItXOIrRRvMvjBg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Hints.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Hints.html",
-          "hash": "HzQR2O0Vrc9+x8T7pgm4qg=="
         }
       },
       "is_incremental": false,
@@ -8025,7 +7965,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.GameSetup.html",
-          "hash": "rcknALfu+fgEcbUoxUDaPw=="
+          "hash": "3F+4j617bZlAebU3G1kZKw=="
         }
       },
       "is_incremental": false,
@@ -8038,6 +7978,18 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.GateSetup.html",
           "hash": "XUxb2PGnXE/bZ/LDWiARGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.HintConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.HintConfig.html",
+          "hash": "qsRwb3hkt+LnRQ6unPYEpg=="
         }
       },
       "is_incremental": false,
@@ -8925,7 +8877,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.html",
-          "hash": "stI9EnYwGO7vmbBg5NsD7A=="
+          "hash": "BugsVhOf+uECq8QR90mNtQ=="
         }
       },
       "is_incremental": false,
@@ -9021,7 +8973,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "KDuk/8LgixxDMi1bMKywqg=="
+          "hash": "4xk6mkCkhXSovQfrSWrZpw=="
         }
       },
       "is_incremental": false,
@@ -9096,7 +9048,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 750,
+          "total_file_count": 746,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

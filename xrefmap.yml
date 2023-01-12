@@ -18879,31 +18879,6 @@ references:
   commentId: N:WarcraftLegacies.Source.Commands
   fullName: WarcraftLegacies.Source.Commands
   nameWithType: WarcraftLegacies.Source.Commands
-- uid: WarcraftLegacies.Source.Commands.AllianceActive
-  name: AllianceActive
-  href: api-source/WarcraftLegacies.Source.Commands.AllianceActive.html
-  commentId: T:WarcraftLegacies.Source.Commands.AllianceActive
-  fullName: WarcraftLegacies.Source.Commands.AllianceActive
-  nameWithType: AllianceActive
-- uid: WarcraftLegacies.Source.Commands.AllianceActive.ARE_ALLIANCE_ACTIVE
-  name: ARE_ALLIANCE_ACTIVE
-  href: api-source/WarcraftLegacies.Source.Commands.AllianceActive.html#WarcraftLegacies_Source_Commands_AllianceActive_ARE_ALLIANCE_ACTIVE
-  commentId: F:WarcraftLegacies.Source.Commands.AllianceActive.ARE_ALLIANCE_ACTIVE
-  fullName: WarcraftLegacies.Source.Commands.AllianceActive.ARE_ALLIANCE_ACTIVE
-  nameWithType: AllianceActive.ARE_ALLIANCE_ACTIVE
-- uid: WarcraftLegacies.Source.Commands.AllianceActive.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Commands.AllianceActive.html#WarcraftLegacies_Source_Commands_AllianceActive_Setup
-  commentId: M:WarcraftLegacies.Source.Commands.AllianceActive.Setup
-  fullName: WarcraftLegacies.Source.Commands.AllianceActive.Setup()
-  nameWithType: AllianceActive.Setup()
-- uid: WarcraftLegacies.Source.Commands.AllianceActive.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Commands.AllianceActive.html#WarcraftLegacies_Source_Commands_AllianceActive_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Commands.AllianceActive.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Commands.AllianceActive.Setup
-  nameWithType: AllianceActive.Setup
 - uid: WarcraftLegacies.Source.Commands.InviteCommand
   name: InviteCommand
   href: api-source/WarcraftLegacies.Source.Commands.InviteCommand.html
@@ -19364,45 +19339,12 @@ references:
   commentId: T:WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory
   fullName: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory
   nameWithType: ControlPointVictory
-- uid: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredVictory
-  name: GetControlPointsRequiredVictory()
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.html#WarcraftLegacies_Source_GameLogic_GameEnd_ControlPointVictory_GetControlPointsRequiredVictory
-  commentId: M:WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredVictory
-  fullName: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredVictory()
-  nameWithType: ControlPointVictory.GetControlPointsRequiredVictory()
-- uid: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredVictory*
-  name: GetControlPointsRequiredVictory
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.html#WarcraftLegacies_Source_GameLogic_GameEnd_ControlPointVictory_GetControlPointsRequiredVictory_
-  commentId: Overload:WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredVictory
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredVictory
-  nameWithType: ControlPointVictory.GetControlPointsRequiredVictory
-- uid: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredWarning
-  name: GetControlPointsRequiredWarning()
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.html#WarcraftLegacies_Source_GameLogic_GameEnd_ControlPointVictory_GetControlPointsRequiredWarning
-  commentId: M:WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredWarning
-  fullName: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredWarning()
-  nameWithType: ControlPointVictory.GetControlPointsRequiredWarning()
-- uid: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredWarning*
-  name: GetControlPointsRequiredWarning
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.html#WarcraftLegacies_Source_GameLogic_GameEnd_ControlPointVictory_GetControlPointsRequiredWarning_
-  commentId: Overload:WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredWarning
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.GetControlPointsRequiredWarning
-  nameWithType: ControlPointVictory.GetControlPointsRequiredWarning
-- uid: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.SetCpsVictory(System.Int32)
-  name: SetCpsVictory(Int32)
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.html#WarcraftLegacies_Source_GameLogic_GameEnd_ControlPointVictory_SetCpsVictory_System_Int32_
-  commentId: M:WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.SetCpsVictory(System.Int32)
-  fullName: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.SetCpsVictory(System.Int32)
-  nameWithType: ControlPointVictory.SetCpsVictory(Int32)
-- uid: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.SetCpsVictory*
-  name: SetCpsVictory
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.html#WarcraftLegacies_Source_GameLogic_GameEnd_ControlPointVictory_SetCpsVictory_
-  commentId: Overload:WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.SetCpsVictory
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.SetCpsVictory
-  nameWithType: ControlPointVictory.SetCpsVictory
+- uid: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.CpsVictory
+  name: CpsVictory
+  href: api-source/WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.html#WarcraftLegacies_Source_GameLogic_GameEnd_ControlPointVictory_CpsVictory
+  commentId: F:WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.CpsVictory
+  fullName: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.CpsVictory
+  nameWithType: ControlPointVictory.CpsVictory
 - uid: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.Setup
   name: Setup()
   href: api-source/WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.html#WarcraftLegacies_Source_GameLogic_GameEnd_ControlPointVictory_Setup
@@ -19435,31 +19377,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.GameEnd.PlayerLeaves.Setup
   nameWithType: PlayerLeaves.Setup
-- uid: WarcraftLegacies.Source.GameLogic.GameEnd.VictoryDefeat
-  name: VictoryDefeat
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameEnd.VictoryDefeat.html
-  commentId: T:WarcraftLegacies.Source.GameLogic.GameEnd.VictoryDefeat
-  fullName: WarcraftLegacies.Source.GameLogic.GameEnd.VictoryDefeat
-  nameWithType: VictoryDefeat
-- uid: WarcraftLegacies.Source.GameLogic.GameEnd.VictoryDefeat.GameWon
-  name: GameWon
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameEnd.VictoryDefeat.html#WarcraftLegacies_Source_GameLogic_GameEnd_VictoryDefeat_GameWon
-  commentId: F:WarcraftLegacies.Source.GameLogic.GameEnd.VictoryDefeat.GameWon
-  fullName: WarcraftLegacies.Source.GameLogic.GameEnd.VictoryDefeat.GameWon
-  nameWithType: VictoryDefeat.GameWon
-- uid: WarcraftLegacies.Source.GameLogic.GameEnd.VictoryDefeat.TeamVictory(MacroTools.FactionSystem.Team)
-  name: TeamVictory(Team)
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameEnd.VictoryDefeat.html#WarcraftLegacies_Source_GameLogic_GameEnd_VictoryDefeat_TeamVictory_MacroTools_FactionSystem_Team_
-  commentId: M:WarcraftLegacies.Source.GameLogic.GameEnd.VictoryDefeat.TeamVictory(MacroTools.FactionSystem.Team)
-  fullName: WarcraftLegacies.Source.GameLogic.GameEnd.VictoryDefeat.TeamVictory(MacroTools.FactionSystem.Team)
-  nameWithType: VictoryDefeat.TeamVictory(Team)
-- uid: WarcraftLegacies.Source.GameLogic.GameEnd.VictoryDefeat.TeamVictory*
-  name: TeamVictory
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameEnd.VictoryDefeat.html#WarcraftLegacies_Source_GameLogic_GameEnd_VictoryDefeat_TeamVictory_
-  commentId: Overload:WarcraftLegacies.Source.GameLogic.GameEnd.VictoryDefeat.TeamVictory
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.GameLogic.GameEnd.VictoryDefeat.TeamVictory
-  nameWithType: VictoryDefeat.TeamVictory
 - uid: WarcraftLegacies.Source.GameLogic.GameSettings
   name: GameSettings
   href: api-source/WarcraftLegacies.Source.GameLogic.GameSettings.html
@@ -19666,50 +19583,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.SummonRallyPoints.Setup
   nameWithType: SummonRallyPoints.Setup
-- uid: WarcraftLegacies.Source.Hints
-  name: WarcraftLegacies.Source.Hints
-  href: api-source/WarcraftLegacies.Source.Hints.html
-  commentId: N:WarcraftLegacies.Source.Hints
-  fullName: WarcraftLegacies.Source.Hints
-  nameWithType: WarcraftLegacies.Source.Hints
-- uid: WarcraftLegacies.Source.Hints.HintConfig
-  name: HintConfig
-  href: api-source/WarcraftLegacies.Source.Hints.HintConfig.html
-  commentId: T:WarcraftLegacies.Source.Hints.HintConfig
-  fullName: WarcraftLegacies.Source.Hints.HintConfig
-  nameWithType: HintConfig
-- uid: WarcraftLegacies.Source.Hints.HintConfig.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Hints.HintConfig.html#WarcraftLegacies_Source_Hints_HintConfig_Setup
-  commentId: M:WarcraftLegacies.Source.Hints.HintConfig.Setup
-  fullName: WarcraftLegacies.Source.Hints.HintConfig.Setup()
-  nameWithType: HintConfig.Setup()
-- uid: WarcraftLegacies.Source.Hints.HintConfig.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Hints.HintConfig.html#WarcraftLegacies_Source_Hints_HintConfig_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Hints.HintConfig.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Hints.HintConfig.Setup
-  nameWithType: HintConfig.Setup
-- uid: WarcraftLegacies.Source.Hints.HintVictory
-  name: HintVictory
-  href: api-source/WarcraftLegacies.Source.Hints.HintVictory.html
-  commentId: T:WarcraftLegacies.Source.Hints.HintVictory
-  fullName: WarcraftLegacies.Source.Hints.HintVictory
-  nameWithType: HintVictory
-- uid: WarcraftLegacies.Source.Hints.HintVictory.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Hints.HintVictory.html#WarcraftLegacies_Source_Hints_HintVictory_Setup
-  commentId: M:WarcraftLegacies.Source.Hints.HintVictory.Setup
-  fullName: WarcraftLegacies.Source.Hints.HintVictory.Setup()
-  nameWithType: HintVictory.Setup()
-- uid: WarcraftLegacies.Source.Hints.HintVictory.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Hints.HintVictory.html#WarcraftLegacies_Source_Hints_HintVictory_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Hints.HintVictory.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Hints.HintVictory.Setup
-  nameWithType: HintVictory.Setup
 - uid: WarcraftLegacies.Source.Mechanics.Druids
   name: WarcraftLegacies.Source.Mechanics.Druids
   href: api-source/WarcraftLegacies.Source.Mechanics.Druids.html
@@ -32653,6 +32526,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.GateSetup.Setup
   nameWithType: GateSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.HintConfig
+  name: HintConfig
+  href: api-source/WarcraftLegacies.Source.Setup.HintConfig.html
+  commentId: T:WarcraftLegacies.Source.Setup.HintConfig
+  fullName: WarcraftLegacies.Source.Setup.HintConfig
+  nameWithType: HintConfig
+- uid: WarcraftLegacies.Source.Setup.HintConfig.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.HintConfig.html#WarcraftLegacies_Source_Setup_HintConfig_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.HintConfig.Setup
+  fullName: WarcraftLegacies.Source.Setup.HintConfig.Setup()
+  nameWithType: HintConfig.Setup()
+- uid: WarcraftLegacies.Source.Setup.HintConfig.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.HintConfig.html#WarcraftLegacies_Source_Setup_HintConfig_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.HintConfig.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.HintConfig.Setup
+  nameWithType: HintConfig.Setup
 - uid: WarcraftLegacies.Source.Setup.IncompatibleResearchSetup
   name: IncompatibleResearchSetup
   href: api-source/WarcraftLegacies.Source.Setup.IncompatibleResearchSetup.html
