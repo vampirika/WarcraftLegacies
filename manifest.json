@@ -8853,7 +8853,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.SpellsSetup.html",
-          "hash": "XPbjIRUy22eMvJInqj1Vxg=="
+          "hash": "UdF/9CWZuBXa+URHKdcPQg=="
         }
       },
       "is_incremental": false,
@@ -8909,6 +8909,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Spells.MakeCasterVulnerable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Spells.MakeCasterVulnerable.html",
+          "hash": "TkXwYUhSlP11prl4mYA/wg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Spells.PingOilDeposits.yml",
       "output": {
         ".html": {
@@ -8949,7 +8961,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Spells.html",
-          "hash": "Be/H1ud2nuvF6g0TQ3G9mg=="
+          "hash": "GwwyRm+JqtDRvMYQZM3HmQ=="
         }
       },
       "is_incremental": false,
@@ -8997,7 +9009,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "5XJJD5eTxnrwn5VzmTcZ/w=="
+          "hash": "DdALzb3wCp7j99E2oPwmFw=="
         }
       },
       "is_incremental": false,
@@ -9072,7 +9084,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 748,
+          "total_file_count": 749,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

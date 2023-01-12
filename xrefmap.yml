@@ -36098,6 +36098,38 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Spells.ExtractSunwellVial.OnCast
   nameWithType: ExtractSunwellVial.OnCast
+- uid: WarcraftLegacies.Source.Spells.MakeCasterVulnerable
+  name: MakeCasterVulnerable
+  href: api-source/WarcraftLegacies.Source.Spells.MakeCasterVulnerable.html
+  commentId: T:WarcraftLegacies.Source.Spells.MakeCasterVulnerable
+  fullName: WarcraftLegacies.Source.Spells.MakeCasterVulnerable
+  nameWithType: MakeCasterVulnerable
+- uid: WarcraftLegacies.Source.Spells.MakeCasterVulnerable.#ctor(System.Int32)
+  name: MakeCasterVulnerable(Int32)
+  href: api-source/WarcraftLegacies.Source.Spells.MakeCasterVulnerable.html#WarcraftLegacies_Source_Spells_MakeCasterVulnerable__ctor_System_Int32_
+  commentId: M:WarcraftLegacies.Source.Spells.MakeCasterVulnerable.#ctor(System.Int32)
+  fullName: WarcraftLegacies.Source.Spells.MakeCasterVulnerable.MakeCasterVulnerable(System.Int32)
+  nameWithType: MakeCasterVulnerable.MakeCasterVulnerable(Int32)
+- uid: WarcraftLegacies.Source.Spells.MakeCasterVulnerable.#ctor*
+  name: MakeCasterVulnerable
+  href: api-source/WarcraftLegacies.Source.Spells.MakeCasterVulnerable.html#WarcraftLegacies_Source_Spells_MakeCasterVulnerable__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Spells.MakeCasterVulnerable.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Spells.MakeCasterVulnerable.MakeCasterVulnerable
+  nameWithType: MakeCasterVulnerable.MakeCasterVulnerable
+- uid: WarcraftLegacies.Source.Spells.MakeCasterVulnerable.OnStartCast(Common.unit,Common.unit,Point)
+  name: OnStartCast(Common.unit, Common.unit, Point)
+  href: api-source/WarcraftLegacies.Source.Spells.MakeCasterVulnerable.html#WarcraftLegacies_Source_Spells_MakeCasterVulnerable_OnStartCast_Common_unit_Common_unit_Point_
+  commentId: M:WarcraftLegacies.Source.Spells.MakeCasterVulnerable.OnStartCast(Common.unit,Common.unit,Point)
+  fullName: WarcraftLegacies.Source.Spells.MakeCasterVulnerable.OnStartCast(Common.unit, Common.unit, Point)
+  nameWithType: MakeCasterVulnerable.OnStartCast(Common.unit, Common.unit, Point)
+- uid: WarcraftLegacies.Source.Spells.MakeCasterVulnerable.OnStartCast*
+  name: OnStartCast
+  href: api-source/WarcraftLegacies.Source.Spells.MakeCasterVulnerable.html#WarcraftLegacies_Source_Spells_MakeCasterVulnerable_OnStartCast_
+  commentId: Overload:WarcraftLegacies.Source.Spells.MakeCasterVulnerable.OnStartCast
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Spells.MakeCasterVulnerable.OnStartCast
+  nameWithType: MakeCasterVulnerable.OnStartCast
 - uid: WarcraftLegacies.Source.Spells.PingOilDeposits
   name: PingOilDeposits
   href: api-source/WarcraftLegacies.Source.Spells.PingOilDeposits.html
