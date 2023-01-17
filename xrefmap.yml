@@ -4993,15 +4993,15 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.PlayerExtensions.PingLocation
   nameWithType: PlayerExtensions.PingLocation
-- uid: MacroTools.Extensions.PlayerExtensions.RescueGroup(player,List{unit})
-  name: RescueGroup(player, List<unit>)
-  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_RescueGroup_player_List_unit__
-  commentId: M:MacroTools.Extensions.PlayerExtensions.RescueGroup(player,List{unit})
-  name.vb: RescueGroup(player, List(Of unit))
-  fullName: MacroTools.Extensions.PlayerExtensions.RescueGroup(player, List<unit>)
-  fullName.vb: MacroTools.Extensions.PlayerExtensions.RescueGroup(player, List(Of unit))
-  nameWithType: PlayerExtensions.RescueGroup(player, List<unit>)
-  nameWithType.vb: PlayerExtensions.RescueGroup(player, List(Of unit))
+- uid: MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable{player},List{unit})
+  name: RescueGroup(Nullable<player>, List<unit>)
+  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_RescueGroup_System_Nullable_player__List_unit__
+  commentId: M:MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable{player},List{unit})
+  name.vb: RescueGroup(Nullable(Of player), List(Of unit))
+  fullName: MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable<player>, List<unit>)
+  fullName.vb: MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable(Of player), List(Of unit))
+  nameWithType: PlayerExtensions.RescueGroup(Nullable<player>, List<unit>)
+  nameWithType.vb: PlayerExtensions.RescueGroup(Nullable(Of player), List(Of unit))
 - uid: MacroTools.Extensions.PlayerExtensions.RescueGroup*
   name: RescueGroup
   href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_RescueGroup_
@@ -25398,18 +25398,76 @@ references:
   commentId: N:WarcraftLegacies.Source.Quests.Legion
   fullName: WarcraftLegacies.Source.Quests.Legion
   nameWithType: WarcraftLegacies.Source.Quests.Legion
+- uid: WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase
+  name: QuestAlteracBase
+  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.html
+  commentId: T:WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase
+  fullName: WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase
+  nameWithType: QuestAlteracBase
+- uid: WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.#ctor(Rectangle,MacroTools.PreplacedUnitSystem)
+  name: QuestAlteracBase(Rectangle, PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.html#WarcraftLegacies_Source_Quests_Legion_QuestAlteracBase__ctor_Rectangle_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.#ctor(Rectangle,MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.QuestAlteracBase(Rectangle, MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestAlteracBase.QuestAlteracBase(Rectangle, PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.#ctor*
+  name: QuestAlteracBase
+  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.html#WarcraftLegacies_Source_Quests_Legion_QuestAlteracBase__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.QuestAlteracBase
+  nameWithType: QuestAlteracBase.QuestAlteracBase
+- uid: WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.html#WarcraftLegacies_Source_Quests_Legion_QuestAlteracBase_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestAlteracBase.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.html#WarcraftLegacies_Source_Quests_Legion_QuestAlteracBase_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.OnComplete
+  nameWithType: QuestAlteracBase.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.html#WarcraftLegacies_Source_Quests_Legion_QuestAlteracBase_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.RewardDescription
+  nameWithType: QuestAlteracBase.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.html#WarcraftLegacies_Source_Quests_Legion_QuestAlteracBase_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.RewardDescription
+  nameWithType: QuestAlteracBase.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.html#WarcraftLegacies_Source_Quests_Legion_QuestAlteracBase_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.RewardFlavour
+  nameWithType: QuestAlteracBase.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.html#WarcraftLegacies_Source_Quests_Legion_QuestAlteracBase_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.RewardFlavour
+  nameWithType: QuestAlteracBase.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl
   name: QuestArgusControl
   href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.html
   commentId: T:WarcraftLegacies.Source.Quests.Legion.QuestArgusControl
   fullName: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl
   nameWithType: QuestArgusControl
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.#ctor
-  name: QuestArgusControl()
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.html#WarcraftLegacies_Source_Quests_Legion_QuestArgusControl__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.QuestArgusControl()
-  nameWithType: QuestArgusControl.QuestArgusControl()
+- uid: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.#ctor(MacroTools.PreplacedUnitSystem)
+  name: QuestArgusControl(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.html#WarcraftLegacies_Source_Quests_Legion_QuestArgusControl__ctor_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.#ctor(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.QuestArgusControl(MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestArgusControl.QuestArgusControl(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.#ctor*
   name: QuestArgusControl
   href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.html#WarcraftLegacies_Source_Quests_Legion_QuestArgusControl__ctor_
@@ -25417,6 +25475,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.QuestArgusControl
   nameWithType: QuestArgusControl.QuestArgusControl
+- uid: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.html#WarcraftLegacies_Source_Quests_Legion_QuestArgusControl_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestArgusControl.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.html#WarcraftLegacies_Source_Quests_Legion_QuestArgusControl_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.OnComplete
+  nameWithType: QuestArgusControl.OnComplete
 - uid: WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.html#WarcraftLegacies_Source_Quests_Legion_QuestArgusControl_RewardDescription
@@ -28197,64 +28268,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Scourge.QuestLichKingArthas.RewardFlavour
   nameWithType: QuestLichKingArthas.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas
-  name: QuestNaxxramas
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.html
-  commentId: T:WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas
-  nameWithType: QuestNaxxramas
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.#ctor(Rectangle,unit)
-  name: QuestNaxxramas(Rectangle, unit)
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.html#WarcraftLegacies_Source_Quests_Scourge_QuestNaxxramas__ctor_Rectangle_unit_
-  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.#ctor(Rectangle,unit)
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.QuestNaxxramas(Rectangle, unit)
-  nameWithType: QuestNaxxramas.QuestNaxxramas(Rectangle, unit)
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.#ctor*
-  name: QuestNaxxramas
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.html#WarcraftLegacies_Source_Quests_Scourge_QuestNaxxramas__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.QuestNaxxramas
-  nameWithType: QuestNaxxramas.QuestNaxxramas
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.html#WarcraftLegacies_Source_Quests_Scourge_QuestNaxxramas_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestNaxxramas.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.html#WarcraftLegacies_Source_Quests_Scourge_QuestNaxxramas_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.OnComplete
-  nameWithType: QuestNaxxramas.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.html#WarcraftLegacies_Source_Quests_Scourge_QuestNaxxramas_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.RewardDescription
-  nameWithType: QuestNaxxramas.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.html#WarcraftLegacies_Source_Quests_Scourge_QuestNaxxramas_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.RewardDescription
-  nameWithType: QuestNaxxramas.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.RewardFlavour
-  name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.html#WarcraftLegacies_Source_Quests_Scourge_QuestNaxxramas_RewardFlavour
-  commentId: P:WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.RewardFlavour
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.RewardFlavour
-  nameWithType: QuestNaxxramas.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.RewardFlavour*
-  name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.html#WarcraftLegacies_Source_Quests_Scourge_QuestNaxxramas_RewardFlavour_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.RewardFlavour
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.RewardFlavour
-  nameWithType: QuestNaxxramas.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Scourge.QuestPlague
   name: QuestPlague
   href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestPlague.html

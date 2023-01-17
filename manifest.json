@@ -1269,7 +1269,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.PlayerExtensions.html",
-          "hash": "CYaqU0kXyjEukIginLEezw=="
+          "hash": "d9k2LEae9zrQkzAer6nyAg=="
         }
       },
       "is_incremental": false,
@@ -6149,11 +6149,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestAlteracBase.html",
+          "hash": "+ZUFM3oKo0VAeMgpYgeHxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestArgusControl.html",
-          "hash": "X2fDY2nYGc//fiedg3ACCQ=="
+          "hash": "FHnt4X5qeoYkWEYnp5tSjQ=="
         }
       },
       "is_incremental": false,
@@ -6177,7 +6189,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.html",
-          "hash": "RVRFpGkGAAgWgNEH8oNKhw=="
+          "hash": "ot8n6Ldolcu0zkRa1o5cpw=="
         }
       },
       "is_incremental": false,
@@ -6225,7 +6237,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.html",
-          "hash": "nzLUD/cqoPe/IPRa55qFKg=="
+          "hash": "ZBquzWABqKa1qkGHhJMKEA=="
         }
       },
       "is_incremental": false,
@@ -6501,7 +6513,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestSilvermoon.html",
-          "hash": "+O8PpV+BxQQVEQwPsNkjpA=="
+          "hash": "USLsf26jKF0iXzuI/Q2yxw=="
         }
       },
       "is_incremental": false,
@@ -6525,7 +6537,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.html",
-          "hash": "ksXBtIY6IDpNz9uKnNedpQ=="
+          "hash": "kY4+sx6h9ggLRboFgM+Uwg=="
         }
       },
       "is_incremental": false,
@@ -6737,18 +6749,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestNaxxramas.html",
-          "hash": "MWT5P8VQr79a99apyaCEOQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestPlague.yml",
       "output": {
         ".html": {
@@ -6789,7 +6789,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.html",
-          "hash": "AQ3/sx9xbFDvGL749gzAug=="
+          "hash": "GRsq3MsIuqLb/CvkUSiM3w=="
         }
       },
       "is_incremental": false,
@@ -9009,7 +9009,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "DdALzb3wCp7j99E2oPwmFw=="
+          "hash": "ybmCkXt40ZIptcBx9XWwEw=="
         }
       },
       "is_incremental": false,
