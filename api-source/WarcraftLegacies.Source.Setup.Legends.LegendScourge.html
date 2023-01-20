@@ -81,12 +81,52 @@
     <div class="level0"><span class="xref">System.Object</span></div>
     <div class="level1"><span class="xref">LegendScourge</span></div>
   </div>
+  <div classs="implements">
+    <h5>Implements</h5>
+    <div><a class="xref" href="WarcraftLegacies.Source.Setup.Legends.IRegistersLegends.html">IRegistersLegends</a></div>
+  </div>
   <h6><strong>Namespace</strong>: <a class="xref" href="WarcraftLegacies.Source.Setup.Legends.html">WarcraftLegacies.Source.Setup.Legends</a></h6>
   <h6><strong>Assembly</strong>: WarcraftLegacies.Source.dll</h6>
   <h5 id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static class LegendScourge : object</code></pre>
+    <pre><code class="lang-csharp hljs">public sealed class LegendScourge : object, IRegistersLegends</code></pre>
   </div>
+  <h3 id="constructors">Constructors
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Setup_Legends_LegendScourge__ctor_MacroTools_PreplacedUnitSystem_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Setup.Legends.LegendScourge.%23ctor(MacroTools.PreplacedUnitSystem)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Setup/Legends/LegendScourge.cs/#L28">View Source</a>
+  </span>
+  <a id="WarcraftLegacies_Source_Setup_Legends_LegendScourge__ctor_" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.#ctor*"></a>
+  <h4 id="WarcraftLegacies_Source_Setup_Legends_LegendScourge__ctor_MacroTools_PreplacedUnitSystem_" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.#ctor(MacroTools.PreplacedUnitSystem)">LegendScourge(PreplacedUnitSystem)</h4>
+  <div class="markdown level1 summary"><p>Sets up <a class="xref" href="WarcraftLegacies.Source.Setup.Legends.LegendScourge.html">LegendScourge</a>.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public LegendScourge(PreplacedUnitSystem preplacedUnitSystem)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="../api-macroTools/MacroTools.PreplacedUnitSystem.html">PreplacedUnitSystem</a></td>
+        <td><span class="parametername">preplacedUnitSystem</span></td>
+        <td><p>A system for finding preplaced units on the map.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
   <h3 id="properties">Properties
   </h3>
   <span class="small pull-right mobile-hide">
@@ -94,16 +134,15 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Setup_Legends_LegendScourge_Anubarak.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Setup.Legends.LegendScourge.Anubarak%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Setup/Legends/LegendScourge.cs/#L24">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Setup/Legends/LegendScourge.cs/#L18">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_Anubarak_" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.Anubarak*"></a>
   <h4 id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_Anubarak" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.Anubarak">Anubarak</h4>
-  <div class="markdown level1 summary"><p>Fallen king of the Nerubians.</p>
-</div>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static LegendaryHero Anubarak { get; }</code></pre>
+    <pre><code class="lang-csharp hljs">public LegendaryHero Anubarak { get; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -125,16 +164,15 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Setup_Legends_LegendScourge_Arthas.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Setup.Legends.LegendScourge.Arthas%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Setup/Legends/LegendScourge.cs/#L34">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Setup/Legends/LegendScourge.cs/#L20">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_Arthas_" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.Arthas*"></a>
   <h4 id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_Arthas" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.Arthas">Arthas</h4>
-  <div class="markdown level1 summary"><p>The first human Death Knight, and Ner'zhul's champion.</p>
-</div>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static LegendaryHero Arthas { get; }</code></pre>
+    <pre><code class="lang-csharp hljs">public LegendaryHero Arthas { get; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -156,16 +194,15 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Setup_Legends_LegendScourge_Kelthuzad.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Setup.Legends.LegendScourge.Kelthuzad%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Setup/Legends/LegendScourge.cs/#L19">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Setup/Legends/LegendScourge.cs/#L17">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_Kelthuzad_" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.Kelthuzad*"></a>
   <h4 id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_Kelthuzad" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.Kelthuzad">Kelthuzad</h4>
-  <div class="markdown level1 summary"><p>Leader of the Cult of the Damned.</p>
-</div>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static LegendaryHero Kelthuzad { get; }</code></pre>
+    <pre><code class="lang-csharp hljs">public LegendaryHero Kelthuzad { get; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -178,99 +215,6 @@
     <tbody>
       <tr>
         <td><a class="xref" href="../api-macroTools/MacroTools.LegendSystem.LegendaryHero.html">LegendaryHero</a></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  <span class="small pull-right mobile-hide">
-    <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Setup_Legends_LegendScourge_LegendLichking.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendLichking%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
-  </span>
-  <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Setup/Legends/LegendScourge.cs/#L39">View Source</a>
-  </span>
-  <a id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_LegendLichking_" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendLichking*"></a>
-  <h4 id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_LegendLichking" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendLichking">LegendLichking</h4>
-  <div class="markdown level1 summary"><p>Psychic ruler of the Scourge.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static Capital LegendLichking { get; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a class="xref" href="../api-macroTools/MacroTools.LegendSystem.Capital.html">Capital</a></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  <span class="small pull-right mobile-hide">
-    <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Setup_Legends_LegendScourge_LegendUtgarde.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendUtgarde%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
-  </span>
-  <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Setup/Legends/LegendScourge.cs/#L44">View Source</a>
-  </span>
-  <a id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_LegendUtgarde_" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendUtgarde*"></a>
-  <h4 id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_LegendUtgarde" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.LegendUtgarde">LegendUtgarde</h4>
-  <div class="markdown level1 summary"><p>A Vrykul stronghold.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static Capital LegendUtgarde { get; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a class="xref" href="../api-macroTools/MacroTools.LegendSystem.Capital.html">Capital</a></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-  <span class="small pull-right mobile-hide">
-    <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Setup_Legends_LegendScourge_Naxxramas.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Setup.Legends.LegendScourge.Naxxramas%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
-  </span>
-  <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Setup/Legends/LegendScourge.cs/#L49">View Source</a>
-  </span>
-  <a id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_Naxxramas_" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.Naxxramas*"></a>
-  <h4 id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_Naxxramas" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.Naxxramas">Naxxramas</h4>
-  <div class="markdown level1 summary"><p>Mobile Scourge Necropolis.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static Capital Naxxramas { get; }</code></pre>
-  </div>
-  <h5 class="propertyValue">Property Value</h5>
-  <table class="table table-bordered table-striped table-condensed">
-    <thead>
-      <tr>
-        <th>Type</th>
-        <th>Description</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a class="xref" href="../api-macroTools/MacroTools.LegendSystem.Capital.html">Capital</a></td>
         <td></td>
       </tr>
     </tbody>
@@ -280,16 +224,15 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Setup_Legends_LegendScourge_Rivendare.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Setup.Legends.LegendScourge.Rivendare%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Setup/Legends/LegendScourge.cs/#L29">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Setup/Legends/LegendScourge.cs/#L19">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_Rivendare_" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.Rivendare*"></a>
   <h4 id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_Rivendare" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.Rivendare">Rivendare</h4>
-  <div class="markdown level1 summary"><p>Ruler of Stratholme after it's taken over by the Scourge.</p>
-</div>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static LegendaryHero Rivendare { get; }</code></pre>
+    <pre><code class="lang-csharp hljs">public LegendaryHero Rivendare { get; }</code></pre>
   </div>
   <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -306,42 +249,88 @@
       </tr>
     </tbody>
   </table>
-  <h3 id="methods">Methods
-  </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Setup_Legends_LegendScourge_Setup_MacroTools_PreplacedUnitSystem_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Setup.Legends.LegendScourge.Setup(MacroTools.PreplacedUnitSystem)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Setup_Legends_LegendScourge_TheFrozenThrone.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Setup.Legends.LegendScourge.TheFrozenThrone%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Setup/Legends/LegendScourge.cs/#L55">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Setup/Legends/LegendScourge.cs/#L21">View Source</a>
   </span>
-  <a id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_Setup_" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.Setup*"></a>
-  <h4 id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_Setup_MacroTools_PreplacedUnitSystem_" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.Setup(MacroTools.PreplacedUnitSystem)">Setup(PreplacedUnitSystem)</h4>
-  <div class="markdown level1 summary"><p>Sets up <a class="xref" href="WarcraftLegacies.Source.Setup.Legends.LegendScourge.html">LegendScourge</a>.</p>
-</div>
+  <a id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_TheFrozenThrone_" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.TheFrozenThrone*"></a>
+  <h4 id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_TheFrozenThrone" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.TheFrozenThrone">TheFrozenThrone</h4>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static void Setup(PreplacedUnitSystem preplacedUnitSystem)</code></pre>
+    <pre><code class="lang-csharp hljs">public Capital TheFrozenThrone { get; }</code></pre>
   </div>
-  <h5 class="parameters">Parameters</h5>
+  <h5 class="propertyValue">Property Value</h5>
   <table class="table table-bordered table-striped table-condensed">
     <thead>
       <tr>
         <th>Type</th>
-        <th>Name</th>
         <th>Description</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="../api-macroTools/MacroTools.PreplacedUnitSystem.html">PreplacedUnitSystem</a></td>
-        <td><span class="parametername">preplacedUnitSystem</span></td>
-        <td><p>A system for finding preplaced units on the map.</p>
-</td>
+        <td><a class="xref" href="../api-macroTools/MacroTools.LegendSystem.Capital.html">Capital</a></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Setup_Legends_LegendScourge_Utgarde.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Setup.Legends.LegendScourge.Utgarde%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Setup/Legends/LegendScourge.cs/#L22">View Source</a>
+  </span>
+  <a id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_Utgarde_" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.Utgarde*"></a>
+  <h4 id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_Utgarde" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.Utgarde">Utgarde</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Capital Utgarde { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="../api-macroTools/MacroTools.LegendSystem.Capital.html">Capital</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Setup_Legends_LegendScourge_RegisterLegends.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Setup.Legends.LegendScourge.RegisterLegends%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Setup/Legends/LegendScourge.cs/#L82">View Source</a>
+  </span>
+  <a id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_RegisterLegends_" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.RegisterLegends*"></a>
+  <h4 id="WarcraftLegacies_Source_Setup_Legends_LegendScourge_RegisterLegends" data-uid="WarcraftLegacies.Source.Setup.Legends.LegendScourge.RegisterLegends">RegisterLegends()</h4>
+  <div class="markdown level1 summary"><p>Registers many <a class="xref" href="../api-macroTools/MacroTools.LegendSystem.Legend.html">Legend</a>s.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void RegisterLegends()</code></pre>
+  </div>
+  <h3 id="implements">Implements</h3>
+  <div>
+      <a class="xref" href="WarcraftLegacies.Source.Setup.Legends.IRegistersLegends.html">IRegistersLegends</a>
+  </div>
 </article>
           </div>
           
@@ -353,7 +342,7 @@
                     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Setup_Legends_LegendScourge.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Setup.Legends.LegendScourge%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Setup/Legends/LegendScourge.cs/#L14" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Setup/Legends/LegendScourge.cs/#L15" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>
