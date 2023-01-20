@@ -4468,6 +4468,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.GroupExtensions.Add
   nameWithType: GroupExtensions.Add
+- uid: MacroTools.Extensions.GroupExtensions.Copy(group)
+  name: Copy(group)
+  href: api-macroTools/MacroTools.Extensions.GroupExtensions.html#MacroTools_Extensions_GroupExtensions_Copy_group_
+  commentId: M:MacroTools.Extensions.GroupExtensions.Copy(group)
+  fullName: MacroTools.Extensions.GroupExtensions.Copy(group)
+  nameWithType: GroupExtensions.Copy(group)
+- uid: MacroTools.Extensions.GroupExtensions.Copy*
+  name: Copy
+  href: api-macroTools/MacroTools.Extensions.GroupExtensions.html#MacroTools_Extensions_GroupExtensions_Copy_
+  commentId: Overload:MacroTools.Extensions.GroupExtensions.Copy
+  isSpec: "True"
+  fullName: MacroTools.Extensions.GroupExtensions.Copy
+  nameWithType: GroupExtensions.Copy
 - uid: MacroTools.Extensions.GroupExtensions.EmptyToList(group)
   name: EmptyToList(group)
   href: api-macroTools/MacroTools.Extensions.GroupExtensions.html#MacroTools_Extensions_GroupExtensions_EmptyToList_group_
@@ -8855,77 +8868,6 @@ references:
   commentId: T:MacroTools.LegendSystem.LegendaryHero
   fullName: MacroTools.LegendSystem.LegendaryHero
   nameWithType: LegendaryHero
-- uid: MacroTools.LegendSystem.LegendaryHero.#ctor(System.String)
-  name: LegendaryHero(String)
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero__ctor_System_String_
-  commentId: M:MacroTools.LegendSystem.LegendaryHero.#ctor(System.String)
-  fullName: MacroTools.LegendSystem.LegendaryHero.LegendaryHero(System.String)
-  nameWithType: LegendaryHero.LegendaryHero(String)
-- uid: MacroTools.LegendSystem.LegendaryHero.#ctor*
-  name: LegendaryHero
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero__ctor_
-  commentId: Overload:MacroTools.LegendSystem.LegendaryHero.#ctor
-  isSpec: "True"
-  fullName: MacroTools.LegendSystem.LegendaryHero.LegendaryHero
-  nameWithType: LegendaryHero.LegendaryHero
-- uid: MacroTools.LegendSystem.LegendaryHero.AddUnitDependency(unit)
-  name: AddUnitDependency(unit)
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_AddUnitDependency_unit_
-  commentId: M:MacroTools.LegendSystem.LegendaryHero.AddUnitDependency(unit)
-  fullName: MacroTools.LegendSystem.LegendaryHero.AddUnitDependency(unit)
-  nameWithType: LegendaryHero.AddUnitDependency(unit)
-- uid: MacroTools.LegendSystem.LegendaryHero.AddUnitDependency*
-  name: AddUnitDependency
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_AddUnitDependency_
-  commentId: Overload:MacroTools.LegendSystem.LegendaryHero.AddUnitDependency
-  isSpec: "True"
-  fullName: MacroTools.LegendSystem.LegendaryHero.AddUnitDependency
-  nameWithType: LegendaryHero.AddUnitDependency
-- uid: MacroTools.LegendSystem.LegendaryHero.ClearUnitDependencies
-  name: ClearUnitDependencies()
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_ClearUnitDependencies
-  commentId: M:MacroTools.LegendSystem.LegendaryHero.ClearUnitDependencies
-  fullName: MacroTools.LegendSystem.LegendaryHero.ClearUnitDependencies()
-  nameWithType: LegendaryHero.ClearUnitDependencies()
-- uid: MacroTools.LegendSystem.LegendaryHero.ClearUnitDependencies*
-  name: ClearUnitDependencies
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_ClearUnitDependencies_
-  commentId: Overload:MacroTools.LegendSystem.LegendaryHero.ClearUnitDependencies
-  isSpec: "True"
-  fullName: MacroTools.LegendSystem.LegendaryHero.ClearUnitDependencies
-  nameWithType: LegendaryHero.ClearUnitDependencies
-- uid: MacroTools.LegendSystem.LegendaryHero.DealtDamage
-  name: DealtDamage
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_DealtDamage
-  commentId: E:MacroTools.LegendSystem.LegendaryHero.DealtDamage
-  fullName: MacroTools.LegendSystem.LegendaryHero.DealtDamage
-  nameWithType: LegendaryHero.DealtDamage
-- uid: MacroTools.LegendSystem.LegendaryHero.DeathSfx
-  name: DeathSfx
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_DeathSfx
-  commentId: P:MacroTools.LegendSystem.LegendaryHero.DeathSfx
-  fullName: MacroTools.LegendSystem.LegendaryHero.DeathSfx
-  nameWithType: LegendaryHero.DeathSfx
-- uid: MacroTools.LegendSystem.LegendaryHero.DeathSfx*
-  name: DeathSfx
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_DeathSfx_
-  commentId: Overload:MacroTools.LegendSystem.LegendaryHero.DeathSfx
-  isSpec: "True"
-  fullName: MacroTools.LegendSystem.LegendaryHero.DeathSfx
-  nameWithType: LegendaryHero.DeathSfx
-- uid: MacroTools.LegendSystem.LegendaryHero.ForceCreate(player,Point,System.Single)
-  name: ForceCreate(player, Point, Single)
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_ForceCreate_player_Point_System_Single_
-  commentId: M:MacroTools.LegendSystem.LegendaryHero.ForceCreate(player,Point,System.Single)
-  fullName: MacroTools.LegendSystem.LegendaryHero.ForceCreate(player, Point, System.Single)
-  nameWithType: LegendaryHero.ForceCreate(player, Point, Single)
-- uid: MacroTools.LegendSystem.LegendaryHero.ForceCreate*
-  name: ForceCreate
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_ForceCreate_
-  commentId: Overload:MacroTools.LegendSystem.LegendaryHero.ForceCreate
-  isSpec: "True"
-  fullName: MacroTools.LegendSystem.LegendaryHero.ForceCreate
-  nameWithType: LegendaryHero.ForceCreate
 - uid: MacroTools.LegendSystem.LegendaryHero.HasCustomColor
   name: HasCustomColor
   href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_HasCustomColor
@@ -8939,90 +8881,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.LegendSystem.LegendaryHero.HasCustomColor
   nameWithType: LegendaryHero.HasCustomColor
-- uid: MacroTools.LegendSystem.LegendaryHero.Name
-  name: Name
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_Name
-  commentId: P:MacroTools.LegendSystem.LegendaryHero.Name
-  fullName: MacroTools.LegendSystem.LegendaryHero.Name
-  nameWithType: LegendaryHero.Name
-- uid: MacroTools.LegendSystem.LegendaryHero.Name*
-  name: Name
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_Name_
-  commentId: Overload:MacroTools.LegendSystem.LegendaryHero.Name
-  isSpec: "True"
-  fullName: MacroTools.LegendSystem.LegendaryHero.Name
-  nameWithType: LegendaryHero.Name
-- uid: MacroTools.LegendSystem.LegendaryHero.OnChangeUnit
-  name: OnChangeUnit()
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_OnChangeUnit
-  commentId: M:MacroTools.LegendSystem.LegendaryHero.OnChangeUnit
-  fullName: MacroTools.LegendSystem.LegendaryHero.OnChangeUnit()
-  nameWithType: LegendaryHero.OnChangeUnit()
-- uid: MacroTools.LegendSystem.LegendaryHero.OnChangeUnit*
-  name: OnChangeUnit
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_OnChangeUnit_
-  commentId: Overload:MacroTools.LegendSystem.LegendaryHero.OnChangeUnit
-  isSpec: "True"
-  fullName: MacroTools.LegendSystem.LegendaryHero.OnChangeUnit
-  nameWithType: LegendaryHero.OnChangeUnit
-- uid: MacroTools.LegendSystem.LegendaryHero.PermaDies
-  name: PermaDies
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_PermaDies
-  commentId: P:MacroTools.LegendSystem.LegendaryHero.PermaDies
-  fullName: MacroTools.LegendSystem.LegendaryHero.PermaDies
-  nameWithType: LegendaryHero.PermaDies
-- uid: MacroTools.LegendSystem.LegendaryHero.PermaDies*
-  name: PermaDies
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_PermaDies_
-  commentId: Overload:MacroTools.LegendSystem.LegendaryHero.PermaDies
-  isSpec: "True"
-  fullName: MacroTools.LegendSystem.LegendaryHero.PermaDies
-  nameWithType: LegendaryHero.PermaDies
-- uid: MacroTools.LegendSystem.LegendaryHero.PermanentlyDied
-  name: PermanentlyDied
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_PermanentlyDied
-  commentId: E:MacroTools.LegendSystem.LegendaryHero.PermanentlyDied
-  fullName: MacroTools.LegendSystem.LegendaryHero.PermanentlyDied
-  nameWithType: LegendaryHero.PermanentlyDied
-- uid: MacroTools.LegendSystem.LegendaryHero.PlayerColor
-  name: PlayerColor
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_PlayerColor
-  commentId: P:MacroTools.LegendSystem.LegendaryHero.PlayerColor
-  fullName: MacroTools.LegendSystem.LegendaryHero.PlayerColor
-  nameWithType: LegendaryHero.PlayerColor
-- uid: MacroTools.LegendSystem.LegendaryHero.PlayerColor*
-  name: PlayerColor
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_PlayerColor_
-  commentId: Overload:MacroTools.LegendSystem.LegendaryHero.PlayerColor
-  isSpec: "True"
-  fullName: MacroTools.LegendSystem.LegendaryHero.PlayerColor
-  nameWithType: LegendaryHero.PlayerColor
-- uid: MacroTools.LegendSystem.LegendaryHero.StartingArtifactItemTypeIds
-  name: StartingArtifactItemTypeIds
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_StartingArtifactItemTypeIds
-  commentId: P:MacroTools.LegendSystem.LegendaryHero.StartingArtifactItemTypeIds
-  fullName: MacroTools.LegendSystem.LegendaryHero.StartingArtifactItemTypeIds
-  nameWithType: LegendaryHero.StartingArtifactItemTypeIds
-- uid: MacroTools.LegendSystem.LegendaryHero.StartingArtifactItemTypeIds*
-  name: StartingArtifactItemTypeIds
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_StartingArtifactItemTypeIds_
-  commentId: Overload:MacroTools.LegendSystem.LegendaryHero.StartingArtifactItemTypeIds
-  isSpec: "True"
-  fullName: MacroTools.LegendSystem.LegendaryHero.StartingArtifactItemTypeIds
-  nameWithType: LegendaryHero.StartingArtifactItemTypeIds
-- uid: MacroTools.LegendSystem.LegendaryHero.StartingXp
-  name: StartingXp
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_StartingXp
-  commentId: P:MacroTools.LegendSystem.LegendaryHero.StartingXp
-  fullName: MacroTools.LegendSystem.LegendaryHero.StartingXp
-  nameWithType: LegendaryHero.StartingXp
-- uid: MacroTools.LegendSystem.LegendaryHero.StartingXp*
-  name: StartingXp
-  href: api-macroTools/MacroTools.LegendSystem.LegendaryHero.html#MacroTools_LegendSystem_LegendaryHero_StartingXp_
-  commentId: Overload:MacroTools.LegendSystem.LegendaryHero.StartingXp
-  isSpec: "True"
-  fullName: MacroTools.LegendSystem.LegendaryHero.StartingXp
-  nameWithType: LegendaryHero.StartingXp
 - uid: MacroTools.LegendSystem.LegendaryHeroManager
   name: LegendaryHeroManager
   href: api-macroTools/MacroTools.LegendSystem.LegendaryHeroManager.html
