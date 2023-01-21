@@ -9846,12 +9846,15 @@ references:
   commentId: T:MacroTools.ObjectiveSystem.Channel
   fullName: MacroTools.ObjectiveSystem.Channel
   nameWithType: Channel
-- uid: MacroTools.ObjectiveSystem.Channel.#ctor(unit,System.Int32,System.Single,Point,System.Boolean,System.String)
-  name: Channel(unit, Int32, Single, Point, Boolean, String)
-  href: api-macroTools/MacroTools.ObjectiveSystem.Channel.html#MacroTools_ObjectiveSystem_Channel__ctor_unit_System_Int32_System_Single_Point_System_Boolean_System_String_
-  commentId: M:MacroTools.ObjectiveSystem.Channel.#ctor(unit,System.Int32,System.Single,Point,System.Boolean,System.String)
-  fullName: MacroTools.ObjectiveSystem.Channel.Channel(unit, System.Int32, System.Single, Point, System.Boolean, System.String)
-  nameWithType: Channel.Channel(unit, Int32, Single, Point, Boolean, String)
+- uid: MacroTools.ObjectiveSystem.Channel.#ctor(unit,System.Int32,System.Single,Point,System.Nullable{System.String})
+  name: Channel(unit, Int32, Single, Point, Nullable<String>)
+  href: api-macroTools/MacroTools.ObjectiveSystem.Channel.html#MacroTools_ObjectiveSystem_Channel__ctor_unit_System_Int32_System_Single_Point_System_Nullable_System_String__
+  commentId: M:MacroTools.ObjectiveSystem.Channel.#ctor(unit,System.Int32,System.Single,Point,System.Nullable{System.String})
+  name.vb: Channel(unit, Int32, Single, Point, Nullable(Of String))
+  fullName: MacroTools.ObjectiveSystem.Channel.Channel(unit, System.Int32, System.Single, Point, System.Nullable<System.String>)
+  fullName.vb: MacroTools.ObjectiveSystem.Channel.Channel(unit, System.Int32, System.Single, Point, System.Nullable(Of System.String))
+  nameWithType: Channel.Channel(unit, Int32, Single, Point, Nullable<String>)
+  nameWithType.vb: Channel.Channel(unit, Int32, Single, Point, Nullable(Of String))
 - uid: MacroTools.ObjectiveSystem.Channel.#ctor*
   name: Channel
   href: api-macroTools/MacroTools.ObjectiveSystem.Channel.html#MacroTools_ObjectiveSystem_Channel__ctor_
@@ -10301,12 +10304,15 @@ references:
   commentId: T:MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveChannelRect
   fullName: MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveChannelRect
   nameWithType: ObjectiveChannelRect
-- uid: MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveChannelRect.#ctor(Rectangle,System.String,MacroTools.LegendSystem.LegendaryHero,System.Int32,System.Single)
-  name: ObjectiveChannelRect(Rectangle, String, LegendaryHero, Int32, Single)
-  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveChannelRect.html#MacroTools_ObjectiveSystem_Objectives_LegendBased_ObjectiveChannelRect__ctor_Rectangle_System_String_MacroTools_LegendSystem_LegendaryHero_System_Int32_System_Single_
-  commentId: M:MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveChannelRect.#ctor(Rectangle,System.String,MacroTools.LegendSystem.LegendaryHero,System.Int32,System.Single)
-  fullName: MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveChannelRect.ObjectiveChannelRect(Rectangle, System.String, MacroTools.LegendSystem.LegendaryHero, System.Int32, System.Single)
-  nameWithType: ObjectiveChannelRect.ObjectiveChannelRect(Rectangle, String, LegendaryHero, Int32, Single)
+- uid: MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveChannelRect.#ctor(Rectangle,System.String,MacroTools.LegendSystem.LegendaryHero,System.Int32,System.Single,System.Nullable{System.String})
+  name: ObjectiveChannelRect(Rectangle, String, LegendaryHero, Int32, Single, Nullable<String>)
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveChannelRect.html#MacroTools_ObjectiveSystem_Objectives_LegendBased_ObjectiveChannelRect__ctor_Rectangle_System_String_MacroTools_LegendSystem_LegendaryHero_System_Int32_System_Single_System_Nullable_System_String__
+  commentId: M:MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveChannelRect.#ctor(Rectangle,System.String,MacroTools.LegendSystem.LegendaryHero,System.Int32,System.Single,System.Nullable{System.String})
+  name.vb: ObjectiveChannelRect(Rectangle, String, LegendaryHero, Int32, Single, Nullable(Of String))
+  fullName: MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveChannelRect.ObjectiveChannelRect(Rectangle, System.String, MacroTools.LegendSystem.LegendaryHero, System.Int32, System.Single, System.Nullable<System.String>)
+  fullName.vb: MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveChannelRect.ObjectiveChannelRect(Rectangle, System.String, MacroTools.LegendSystem.LegendaryHero, System.Int32, System.Single, System.Nullable(Of System.String))
+  nameWithType: ObjectiveChannelRect.ObjectiveChannelRect(Rectangle, String, LegendaryHero, Int32, Single, Nullable<String>)
+  nameWithType.vb: ObjectiveChannelRect.ObjectiveChannelRect(Rectangle, String, LegendaryHero, Int32, Single, Nullable(Of String))
 - uid: MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveChannelRect.#ctor*
   name: ObjectiveChannelRect
   href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveChannelRect.html#MacroTools_ObjectiveSystem_Objectives_LegendBased_ObjectiveChannelRect__ctor_
