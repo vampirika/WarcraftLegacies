@@ -4093,24 +4093,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.TestMode.Setup
   nameWithType: TestMode.Setup
-- uid: MacroTools.Cheats.Toggle
-  name: Toggle
-  href: api-macroTools/MacroTools.Cheats.Toggle.html
-  commentId: T:MacroTools.Cheats.Toggle
-  fullName: MacroTools.Cheats.Toggle
-  nameWithType: Toggle
-- uid: MacroTools.Cheats.Toggle.Off
-  name: Off
-  href: api-macroTools/MacroTools.Cheats.Toggle.html#MacroTools_Cheats_Toggle_Off
-  commentId: F:MacroTools.Cheats.Toggle.Off
-  fullName: MacroTools.Cheats.Toggle.Off
-  nameWithType: Toggle.Off
-- uid: MacroTools.Cheats.Toggle.On
-  name: On
-  href: api-macroTools/MacroTools.Cheats.Toggle.html#MacroTools_Cheats_Toggle_On
-  commentId: F:MacroTools.Cheats.Toggle.On
-  fullName: MacroTools.Cheats.Toggle.On
-  nameWithType: Toggle.On
 - uid: MacroTools.Color
   name: Color
   href: api-macroTools/MacroTools.Color.html

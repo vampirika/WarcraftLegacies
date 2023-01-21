@@ -597,7 +597,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatAddRandomAugment.html",
-          "hash": "qTEslQMFvaHhx8KOqcZi5w=="
+          "hash": "X6wx3Zh0FOS5Tm+A08ifZQ=="
         }
       },
       "is_incremental": false,
@@ -633,7 +633,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatCompleteQuest.html",
-          "hash": "5XPhGnYkDZ9ulxjAcwdNbQ=="
+          "hash": "DNm0r/XvYa59GhwT0B0/SQ=="
         }
       },
       "is_incremental": false,
@@ -669,7 +669,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatFood.html",
-          "hash": "GbUEMgSnF4RaHTx2OPoj4g=="
+          "hash": "8tQyxmRdDpQtupSyiJJvBg=="
         }
       },
       "is_incremental": false,
@@ -765,7 +765,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatMana.html",
-          "hash": "6O/Zg+9zJHRBeahDJw0xkg=="
+          "hash": "iPzcpA5tqcetoM2r2XzsAQ=="
         }
       },
       "is_incremental": false,
@@ -789,7 +789,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatNocd.html",
-          "hash": "SLX+4olJyV5D5lF1ULa77g=="
+          "hash": "3zTv5uWnPHyEOU4ffchyPg=="
         }
       },
       "is_incremental": false,
@@ -837,7 +837,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatTele.html",
-          "hash": "7KRahivSJvReK4Suim5/gw=="
+          "hash": "yLSfXMJhAckrt5wwt0MGlA=="
         }
       },
       "is_incremental": false,
@@ -873,7 +873,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatVision.html",
-          "hash": "VOAkKez4Qwhg3WC1JDjxXg=="
+          "hash": "MXMFzmuFeL5W6A6D10HnYA=="
         }
       },
       "is_incremental": false,
@@ -941,23 +941,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Cheats.Toggle.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Cheats.Toggle.html",
-          "hash": "V04QiFVJOE6/4hZ2XLemAA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Cheats.yml",
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.html",
-          "hash": "i0+prgJPcKT+s6VFzJa4FQ=="
+          "hash": "W1tBetXxIJjMvbgnjMs45w=="
         }
       },
       "is_incremental": false,
@@ -4125,7 +4113,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "n00/wUB/mcZCfoEFDHBf0A=="
+          "hash": "ayGDuXu1AmYLHXu2qyJnWQ=="
         }
       },
       "is_incremental": false,
@@ -8556,7 +8544,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 705,
+          "total_file_count": 704,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
