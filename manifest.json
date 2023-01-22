@@ -381,7 +381,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Buffs.AscendancyBuff.html",
-          "hash": "oKaCXZi+nh5dDHgsNRpRhQ=="
+          "hash": "PItjgoLZWJrfbQaM+Vi8SA=="
         }
       },
       "is_incremental": false,
@@ -453,7 +453,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Buffs.SimulacrumBuff.html",
-          "hash": "Wqz4fFUkKROLU1ZZL7wtew=="
+          "hash": "QvA1k7GIVeRnj6M8erB6Ig=="
         }
       },
       "is_incremental": false,
@@ -1461,7 +1461,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.PlayerFactionChangeEventArgs.html",
-          "hash": "8ANs7hRz6We8ASOwYLt3Jg=="
+          "hash": "ATZR7+nwFXLMYTljU/t6Nw=="
         }
       },
       "is_incremental": false,
@@ -1569,7 +1569,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Frames.TextFrame.html",
-          "hash": "XtiT8PIOZbTnhd7EGP6qMw=="
+          "hash": "2VCv35uI4SaHNpcbAfE/Rg=="
         }
       },
       "is_incremental": false,
@@ -1773,7 +1773,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.LegendSystem.LegendChangeOwnerEventArgs.html",
-          "hash": "bVdHBCXbhOG1siZeU4KGcg=="
+          "hash": "gRBK0afyWAyEkXxxJ+cPrA=="
         }
       },
       "is_incremental": false,
@@ -2181,7 +2181,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionDefeated.html",
-          "hash": "y8QAWKpmFdl46t+IJXJErg=="
+          "hash": "tdZJ5U14DXw1EpY30IVE4w=="
         }
       },
       "is_incremental": false,
@@ -2349,7 +2349,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveLegendReachRect.html",
-          "hash": "rQnjlZtoq1qbm20ROq3zzA=="
+          "hash": "5dQ5cmm4a70bCBi1zCWflA=="
         }
       },
       "is_incremental": false,
@@ -2373,7 +2373,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.MetaBased.ObjectiveEitherOf.html",
-          "hash": "Z8KrQbDce0KC++RZPswz+w=="
+          "hash": "DT/0AP7HEH0nruASTACaAw=="
         }
       },
       "is_incremental": false,
@@ -2445,7 +2445,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.TimeBased.ObjectiveExpire.html",
-          "hash": "fvuPrHeYLa+0IflsrgYu2w=="
+          "hash": "I7VlXC087lXZ4jQnFZ4FUQ=="
         }
       },
       "is_incremental": false,
@@ -2457,7 +2457,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.TimeBased.ObjectiveTime.html",
-          "hash": "6EpifsqQjZpFF49nWPIfRw=="
+          "hash": "WrGPfVuRfpBILupHf5Dfcg=="
         }
       },
       "is_incremental": false,
@@ -2529,7 +2529,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveBuildInRect.html",
-          "hash": "rOnEgtFkdJW6dVtZ/iMqYA=="
+          "hash": "5nDUt4zgtaUM+/V7oXsqVw=="
         }
       },
       "is_incremental": false,
@@ -2625,7 +2625,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveKillXUnit.html",
-          "hash": "oAaGT7A7y+NUhAWdzcrJaA=="
+          "hash": "3PVv09AEI6KwHei5qkndJA=="
         }
       },
       "is_incremental": false,
@@ -2637,7 +2637,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch.html",
-          "hash": "cmaT3SM7pcnNxq18oabmfA=="
+          "hash": "H/gY/+vAEhHn2iEKBP3xNA=="
         }
       },
       "is_incremental": false,
@@ -2697,7 +2697,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveUnitReachesFullHealth.html",
-          "hash": "z1tEAQPstXgM4SMVqEDgmw=="
+          "hash": "VoAaZDs/CTOlji/QQBTsNQ=="
         }
       },
       "is_incremental": false,
@@ -3081,7 +3081,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Powers.DummyPower.html",
-          "hash": "eg5OpOlD3Qqrt5oqwpEiBA=="
+          "hash": "/Y+mLQ3iqfOL9qQPGL/TDg=="
         }
       },
       "is_incremental": false,
@@ -3537,7 +3537,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Spells.ChannelAnySpell.html",
-          "hash": "jruIj8fylaar8eMVaOyqjg=="
+          "hash": "BmkHCTu5qaOjOtH6F3EHBg=="
         }
       },
       "is_incremental": false,
@@ -3681,7 +3681,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Spells.InspireMadness.html",
-          "hash": "7lKO5C3KrOUzS36StABSEw=="
+          "hash": "f07UzB3rMCmYkZDfwIkiUg=="
         }
       },
       "is_incremental": false,
@@ -3693,7 +3693,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Spells.MassAnySpell.html",
-          "hash": "iAJsgXhA0RtD5ADhBugfyA=="
+          "hash": "fmNPOleWz5U6qiIP4pZpWA=="
         }
       },
       "is_incremental": false,
@@ -3705,7 +3705,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Spells.MassSimulacrum.html",
-          "hash": "uMxEmIVcvX6iLjQl2f8n5Q=="
+          "hash": "dBvDEeP/b6MZTsgy3fnDTg=="
         }
       },
       "is_incremental": false,
@@ -3885,7 +3885,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Spells.SummonUnits.html",
-          "hash": "N8pQcCsPDNqYfxu1skN/6g=="
+          "hash": "4GAkVyw7iHjP6fKjpQQMmA=="
         }
       },
       "is_incremental": false,
