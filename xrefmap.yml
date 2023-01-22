@@ -2758,80 +2758,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatBuild.Type
   nameWithType: CheatBuild.Type
-- uid: MacroTools.Cheats.CheatCompleteQuest
-  name: CheatCompleteQuest
-  href: api-macroTools/MacroTools.Cheats.CheatCompleteQuest.html
-  commentId: T:MacroTools.Cheats.CheatCompleteQuest
-  fullName: MacroTools.Cheats.CheatCompleteQuest
-  nameWithType: CheatCompleteQuest
-- uid: MacroTools.Cheats.CheatCompleteQuest.CommandText
-  name: CommandText
-  href: api-macroTools/MacroTools.Cheats.CheatCompleteQuest.html#MacroTools_Cheats_CheatCompleteQuest_CommandText
-  commentId: P:MacroTools.Cheats.CheatCompleteQuest.CommandText
-  fullName: MacroTools.Cheats.CheatCompleteQuest.CommandText
-  nameWithType: CheatCompleteQuest.CommandText
-- uid: MacroTools.Cheats.CheatCompleteQuest.CommandText*
-  name: CommandText
-  href: api-macroTools/MacroTools.Cheats.CheatCompleteQuest.html#MacroTools_Cheats_CheatCompleteQuest_CommandText_
-  commentId: Overload:MacroTools.Cheats.CheatCompleteQuest.CommandText
-  isSpec: "True"
-  fullName: MacroTools.Cheats.CheatCompleteQuest.CommandText
-  nameWithType: CheatCompleteQuest.CommandText
-- uid: MacroTools.Cheats.CheatCompleteQuest.Description
-  name: Description
-  href: api-macroTools/MacroTools.Cheats.CheatCompleteQuest.html#MacroTools_Cheats_CheatCompleteQuest_Description
-  commentId: P:MacroTools.Cheats.CheatCompleteQuest.Description
-  fullName: MacroTools.Cheats.CheatCompleteQuest.Description
-  nameWithType: CheatCompleteQuest.Description
-- uid: MacroTools.Cheats.CheatCompleteQuest.Description*
-  name: Description
-  href: api-macroTools/MacroTools.Cheats.CheatCompleteQuest.html#MacroTools_Cheats_CheatCompleteQuest_Description_
-  commentId: Overload:MacroTools.Cheats.CheatCompleteQuest.Description
-  isSpec: "True"
-  fullName: MacroTools.Cheats.CheatCompleteQuest.Description
-  nameWithType: CheatCompleteQuest.Description
-- uid: MacroTools.Cheats.CheatCompleteQuest.Execute(player,System.String[])
-  name: Execute(player, String[])
-  href: api-macroTools/MacroTools.Cheats.CheatCompleteQuest.html#MacroTools_Cheats_CheatCompleteQuest_Execute_player_System_String___
-  commentId: M:MacroTools.Cheats.CheatCompleteQuest.Execute(player,System.String[])
-  name.vb: Execute(player, String())
-  fullName: MacroTools.Cheats.CheatCompleteQuest.Execute(player, System.String[])
-  fullName.vb: MacroTools.Cheats.CheatCompleteQuest.Execute(player, System.String())
-  nameWithType: CheatCompleteQuest.Execute(player, String[])
-  nameWithType.vb: CheatCompleteQuest.Execute(player, String())
-- uid: MacroTools.Cheats.CheatCompleteQuest.Execute*
-  name: Execute
-  href: api-macroTools/MacroTools.Cheats.CheatCompleteQuest.html#MacroTools_Cheats_CheatCompleteQuest_Execute_
-  commentId: Overload:MacroTools.Cheats.CheatCompleteQuest.Execute
-  isSpec: "True"
-  fullName: MacroTools.Cheats.CheatCompleteQuest.Execute
-  nameWithType: CheatCompleteQuest.Execute
-- uid: MacroTools.Cheats.CheatCompleteQuest.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatCompleteQuest.html#MacroTools_Cheats_CheatCompleteQuest_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatCompleteQuest.ParameterCount
-  fullName: MacroTools.Cheats.CheatCompleteQuest.ParameterCount
-  nameWithType: CheatCompleteQuest.ParameterCount
-- uid: MacroTools.Cheats.CheatCompleteQuest.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatCompleteQuest.html#MacroTools_Cheats_CheatCompleteQuest_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatCompleteQuest.ParameterCount
-  isSpec: "True"
-  fullName: MacroTools.Cheats.CheatCompleteQuest.ParameterCount
-  nameWithType: CheatCompleteQuest.ParameterCount
-- uid: MacroTools.Cheats.CheatCompleteQuest.Type
-  name: Type
-  href: api-macroTools/MacroTools.Cheats.CheatCompleteQuest.html#MacroTools_Cheats_CheatCompleteQuest_Type
-  commentId: P:MacroTools.Cheats.CheatCompleteQuest.Type
-  fullName: MacroTools.Cheats.CheatCompleteQuest.Type
-  nameWithType: CheatCompleteQuest.Type
-- uid: MacroTools.Cheats.CheatCompleteQuest.Type*
-  name: Type
-  href: api-macroTools/MacroTools.Cheats.CheatCompleteQuest.html#MacroTools_Cheats_CheatCompleteQuest_Type_
-  commentId: Overload:MacroTools.Cheats.CheatCompleteQuest.Type
-  isSpec: "True"
-  fullName: MacroTools.Cheats.CheatCompleteQuest.Type
-  nameWithType: CheatCompleteQuest.Type
 - uid: MacroTools.Cheats.CheatControl
   name: CheatControl
   href: api-macroTools/MacroTools.Cheats.CheatControl.html
@@ -3820,6 +3746,93 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatOwner.Type
   nameWithType: CheatOwner.Type
+- uid: MacroTools.Cheats.CheatQuestProgress
+  name: CheatQuestProgress
+  href: api-macroTools/MacroTools.Cheats.CheatQuestProgress.html
+  commentId: T:MacroTools.Cheats.CheatQuestProgress
+  fullName: MacroTools.Cheats.CheatQuestProgress
+  nameWithType: CheatQuestProgress
+- uid: MacroTools.Cheats.CheatQuestProgress.#ctor(System.String,MacroTools.QuestSystem.QuestProgress)
+  name: CheatQuestProgress(String, QuestProgress)
+  href: api-macroTools/MacroTools.Cheats.CheatQuestProgress.html#MacroTools_Cheats_CheatQuestProgress__ctor_System_String_MacroTools_QuestSystem_QuestProgress_
+  commentId: M:MacroTools.Cheats.CheatQuestProgress.#ctor(System.String,MacroTools.QuestSystem.QuestProgress)
+  fullName: MacroTools.Cheats.CheatQuestProgress.CheatQuestProgress(System.String, MacroTools.QuestSystem.QuestProgress)
+  nameWithType: CheatQuestProgress.CheatQuestProgress(String, QuestProgress)
+- uid: MacroTools.Cheats.CheatQuestProgress.#ctor*
+  name: CheatQuestProgress
+  href: api-macroTools/MacroTools.Cheats.CheatQuestProgress.html#MacroTools_Cheats_CheatQuestProgress__ctor_
+  commentId: Overload:MacroTools.Cheats.CheatQuestProgress.#ctor
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatQuestProgress.CheatQuestProgress
+  nameWithType: CheatQuestProgress.CheatQuestProgress
+- uid: MacroTools.Cheats.CheatQuestProgress.CommandText
+  name: CommandText
+  href: api-macroTools/MacroTools.Cheats.CheatQuestProgress.html#MacroTools_Cheats_CheatQuestProgress_CommandText
+  commentId: P:MacroTools.Cheats.CheatQuestProgress.CommandText
+  fullName: MacroTools.Cheats.CheatQuestProgress.CommandText
+  nameWithType: CheatQuestProgress.CommandText
+- uid: MacroTools.Cheats.CheatQuestProgress.CommandText*
+  name: CommandText
+  href: api-macroTools/MacroTools.Cheats.CheatQuestProgress.html#MacroTools_Cheats_CheatQuestProgress_CommandText_
+  commentId: Overload:MacroTools.Cheats.CheatQuestProgress.CommandText
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatQuestProgress.CommandText
+  nameWithType: CheatQuestProgress.CommandText
+- uid: MacroTools.Cheats.CheatQuestProgress.Description
+  name: Description
+  href: api-macroTools/MacroTools.Cheats.CheatQuestProgress.html#MacroTools_Cheats_CheatQuestProgress_Description
+  commentId: P:MacroTools.Cheats.CheatQuestProgress.Description
+  fullName: MacroTools.Cheats.CheatQuestProgress.Description
+  nameWithType: CheatQuestProgress.Description
+- uid: MacroTools.Cheats.CheatQuestProgress.Description*
+  name: Description
+  href: api-macroTools/MacroTools.Cheats.CheatQuestProgress.html#MacroTools_Cheats_CheatQuestProgress_Description_
+  commentId: Overload:MacroTools.Cheats.CheatQuestProgress.Description
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatQuestProgress.Description
+  nameWithType: CheatQuestProgress.Description
+- uid: MacroTools.Cheats.CheatQuestProgress.Execute(player,System.String[])
+  name: Execute(player, String[])
+  href: api-macroTools/MacroTools.Cheats.CheatQuestProgress.html#MacroTools_Cheats_CheatQuestProgress_Execute_player_System_String___
+  commentId: M:MacroTools.Cheats.CheatQuestProgress.Execute(player,System.String[])
+  name.vb: Execute(player, String())
+  fullName: MacroTools.Cheats.CheatQuestProgress.Execute(player, System.String[])
+  fullName.vb: MacroTools.Cheats.CheatQuestProgress.Execute(player, System.String())
+  nameWithType: CheatQuestProgress.Execute(player, String[])
+  nameWithType.vb: CheatQuestProgress.Execute(player, String())
+- uid: MacroTools.Cheats.CheatQuestProgress.Execute*
+  name: Execute
+  href: api-macroTools/MacroTools.Cheats.CheatQuestProgress.html#MacroTools_Cheats_CheatQuestProgress_Execute_
+  commentId: Overload:MacroTools.Cheats.CheatQuestProgress.Execute
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatQuestProgress.Execute
+  nameWithType: CheatQuestProgress.Execute
+- uid: MacroTools.Cheats.CheatQuestProgress.ParameterCount
+  name: ParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatQuestProgress.html#MacroTools_Cheats_CheatQuestProgress_ParameterCount
+  commentId: P:MacroTools.Cheats.CheatQuestProgress.ParameterCount
+  fullName: MacroTools.Cheats.CheatQuestProgress.ParameterCount
+  nameWithType: CheatQuestProgress.ParameterCount
+- uid: MacroTools.Cheats.CheatQuestProgress.ParameterCount*
+  name: ParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatQuestProgress.html#MacroTools_Cheats_CheatQuestProgress_ParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatQuestProgress.ParameterCount
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatQuestProgress.ParameterCount
+  nameWithType: CheatQuestProgress.ParameterCount
+- uid: MacroTools.Cheats.CheatQuestProgress.Type
+  name: Type
+  href: api-macroTools/MacroTools.Cheats.CheatQuestProgress.html#MacroTools_Cheats_CheatQuestProgress_Type
+  commentId: P:MacroTools.Cheats.CheatQuestProgress.Type
+  fullName: MacroTools.Cheats.CheatQuestProgress.Type
+  nameWithType: CheatQuestProgress.Type
+- uid: MacroTools.Cheats.CheatQuestProgress.Type*
+  name: Type
+  href: api-macroTools/MacroTools.Cheats.CheatQuestProgress.html#MacroTools_Cheats_CheatQuestProgress_Type_
+  commentId: Overload:MacroTools.Cheats.CheatQuestProgress.Type
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatQuestProgress.Type
+  nameWithType: CheatQuestProgress.Type
 - uid: MacroTools.Cheats.CheatRemove
   name: CheatRemove
   href: api-macroTools/MacroTools.Cheats.CheatRemove.html

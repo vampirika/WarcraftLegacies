@@ -617,18 +617,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Cheats.CheatCompleteQuest.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Cheats.CheatCompleteQuest.html",
-          "hash": "OgIqrL4DUVxoMpm6J5W3yg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Cheats.CheatControl.yml",
       "output": {
         ".html": {
@@ -785,6 +773,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Cheats.CheatQuestProgress.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Cheats.CheatQuestProgress.html",
+          "hash": "qBm1QPaH335bumvq+8criw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Cheats.CheatRemove.yml",
       "output": {
         ".html": {
@@ -933,7 +933,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.html",
-          "hash": "LjtITfcmsVl/d35hmeNhNg=="
+          "hash": "r2eq4tXBYTnSs+2wbrFsbg=="
         }
       },
       "is_incremental": false,
@@ -957,7 +957,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.CommandSystem.Command.html",
-          "hash": "m7bnsFYhOvzhw7OEGDxilg=="
+          "hash": "8R+jx9liL2jxqgvR7/hL7A=="
         }
       },
       "is_incremental": false,
@@ -4101,7 +4101,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "wqUv5DTjfxbsl0sFy0HeGg=="
+          "hash": "Q8TpyKcmMcxe6peGtGgjaw=="
         }
       },
       "is_incremental": false,
@@ -7125,7 +7125,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.CheatSetup.html",
-          "hash": "HEDP+AK8N9WpXqMBN4pDkA=="
+          "hash": "Z0slZCEb7zjuOwsmUpqiWg=="
         }
       },
       "is_incremental": false,

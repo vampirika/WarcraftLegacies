@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class CheatCompleteQuest
+    <title>Class CheatQuestProgress
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class CheatCompleteQuest
+    <meta name="title" content="Class CheatQuestProgress
    ">
     <meta name="generator" content="docfx 2.56.7.0">
     
@@ -68,19 +68,19 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="MacroTools.Cheats.CheatCompleteQuest">
+            <article class="content wrap" id="_content" data-uid="MacroTools.Cheats.CheatQuestProgress">
   
   
-  <h1 id="MacroTools_Cheats_CheatCompleteQuest" data-uid="MacroTools.Cheats.CheatCompleteQuest" class="text-break">Class CheatCompleteQuest
+  <h1 id="MacroTools_Cheats_CheatQuestProgress" data-uid="MacroTools.Cheats.CheatQuestProgress" class="text-break">Class CheatQuestProgress
   </h1>
-  <div class="markdown level0 summary"><p>A command that completes a specified <a class="xref" href="MacroTools.QuestSystem.QuestData.html">QuestData</a>.</p>
+  <div class="markdown level0 summary"><p>A command that sets a specified <a class="xref" href="MacroTools.QuestSystem.QuestData.html">QuestData</a>'s progress to the specified level.</p>
 </div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><span class="xref">System.Object</span></div>
     <div class="level1"><a class="xref" href="MacroTools.CommandSystem.Command.html">Command</a></div>
-    <div class="level2"><span class="xref">CheatCompleteQuest</span></div>
+    <div class="level2"><span class="xref">CheatQuestProgress</span></div>
   </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
@@ -90,21 +90,61 @@
   </div>
   <h6><strong>Namespace</strong>: <a class="xref" href="MacroTools.Cheats.html">MacroTools.Cheats</a></h6>
   <h6><strong>Assembly</strong>: MacroTools.dll</h6>
-  <h5 id="MacroTools_Cheats_CheatCompleteQuest_syntax">Syntax</h5>
+  <h5 id="MacroTools_Cheats_CheatQuestProgress_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public sealed class CheatCompleteQuest : Command</code></pre>
+    <pre><code class="lang-csharp hljs">public sealed class CheatQuestProgress : Command</code></pre>
   </div>
+  <h3 id="constructors">Constructors
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Cheats_CheatQuestProgress__ctor_System_String_MacroTools_QuestSystem_QuestProgress_.md&amp;value=---%0Auid%3A%20MacroTools.Cheats.CheatQuestProgress.%23ctor(System.String%2CMacroTools.QuestSystem.QuestProgress)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Cheats/CheatQuestProgress.cs/#L31">View Source</a>
+  </span>
+  <a id="MacroTools_Cheats_CheatQuestProgress__ctor_" data-uid="MacroTools.Cheats.CheatQuestProgress.#ctor*"></a>
+  <h4 id="MacroTools_Cheats_CheatQuestProgress__ctor_System_String_MacroTools_QuestSystem_QuestProgress_" data-uid="MacroTools.Cheats.CheatQuestProgress.#ctor(System.String,MacroTools.QuestSystem.QuestProgress)">CheatQuestProgress(String, QuestProgress)</h4>
+  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="MacroTools.Cheats.CheatQuestProgress.html">CheatQuestProgress</a> class.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public CheatQuestProgress(string commandText, QuestProgress progress)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">commandText</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><a class="xref" href="MacroTools.QuestSystem.QuestProgress.html">QuestProgress</a></td>
+        <td><span class="parametername">progress</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
   <h3 id="properties">Properties
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Cheats_CheatCompleteQuest_CommandText.md&amp;value=---%0Auid%3A%20MacroTools.Cheats.CheatCompleteQuest.CommandText%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Cheats_CheatQuestProgress_CommandText.md&amp;value=---%0Auid%3A%20MacroTools.Cheats.CheatQuestProgress.CommandText%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Cheats/CheatCompleteQuest.cs/#L14">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Cheats/CheatQuestProgress.cs/#L17">View Source</a>
   </span>
-  <a id="MacroTools_Cheats_CheatCompleteQuest_CommandText_" data-uid="MacroTools.Cheats.CheatCompleteQuest.CommandText*"></a>
-  <h4 id="MacroTools_Cheats_CheatCompleteQuest_CommandText" data-uid="MacroTools.Cheats.CheatCompleteQuest.CommandText">CommandText</h4>
+  <a id="MacroTools_Cheats_CheatQuestProgress_CommandText_" data-uid="MacroTools.Cheats.CheatQuestProgress.CommandText*"></a>
+  <h4 id="MacroTools_Cheats_CheatQuestProgress_CommandText" data-uid="MacroTools.Cheats.CheatQuestProgress.CommandText">CommandText</h4>
   <div class="markdown level1 summary"><p>The command that a player can execute to run the <a class="xref" href="MacroTools.CommandSystem.Command.html">Command</a>.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
@@ -131,13 +171,13 @@
   <div><a class="xref" href="MacroTools.CommandSystem.Command.html#MacroTools_CommandSystem_Command_CommandText">Command.CommandText</a></div>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Cheats_CheatCompleteQuest_Description.md&amp;value=---%0Auid%3A%20MacroTools.Cheats.CheatCompleteQuest.Description%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Cheats_CheatQuestProgress_Description.md&amp;value=---%0Auid%3A%20MacroTools.Cheats.CheatQuestProgress.Description%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Cheats/CheatCompleteQuest.cs/#L23">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Cheats/CheatQuestProgress.cs/#L26">View Source</a>
   </span>
-  <a id="MacroTools_Cheats_CheatCompleteQuest_Description_" data-uid="MacroTools.Cheats.CheatCompleteQuest.Description*"></a>
-  <h4 id="MacroTools_Cheats_CheatCompleteQuest_Description" data-uid="MacroTools.Cheats.CheatCompleteQuest.Description">Description</h4>
+  <a id="MacroTools_Cheats_CheatQuestProgress_Description_" data-uid="MacroTools.Cheats.CheatQuestProgress.Description*"></a>
+  <h4 id="MacroTools_Cheats_CheatQuestProgress_Description" data-uid="MacroTools.Cheats.CheatQuestProgress.Description">Description</h4>
   <div class="markdown level1 summary"><p>Describes to the player what the commmand will do.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
@@ -164,13 +204,13 @@
   <div><a class="xref" href="MacroTools.CommandSystem.Command.html#MacroTools_CommandSystem_Command_Description">Command.Description</a></div>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Cheats_CheatCompleteQuest_ParameterCount.md&amp;value=---%0Auid%3A%20MacroTools.Cheats.CheatCompleteQuest.ParameterCount%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Cheats_CheatQuestProgress_ParameterCount.md&amp;value=---%0Auid%3A%20MacroTools.Cheats.CheatQuestProgress.ParameterCount%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Cheats/CheatCompleteQuest.cs/#L17">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Cheats/CheatQuestProgress.cs/#L20">View Source</a>
   </span>
-  <a id="MacroTools_Cheats_CheatCompleteQuest_ParameterCount_" data-uid="MacroTools.Cheats.CheatCompleteQuest.ParameterCount*"></a>
-  <h4 id="MacroTools_Cheats_CheatCompleteQuest_ParameterCount" data-uid="MacroTools.Cheats.CheatCompleteQuest.ParameterCount">ParameterCount</h4>
+  <a id="MacroTools_Cheats_CheatQuestProgress_ParameterCount_" data-uid="MacroTools.Cheats.CheatQuestProgress.ParameterCount*"></a>
+  <h4 id="MacroTools_Cheats_CheatQuestProgress_ParameterCount" data-uid="MacroTools.Cheats.CheatQuestProgress.ParameterCount">ParameterCount</h4>
   <div class="markdown level1 summary"><p>How many parameters should be supplied to this <a class="xref" href="MacroTools.CommandSystem.Command.html">Command</a> command.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
@@ -197,13 +237,13 @@
   <div><a class="xref" href="MacroTools.CommandSystem.Command.html#MacroTools_CommandSystem_Command_ParameterCount">Command.ParameterCount</a></div>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Cheats_CheatCompleteQuest_Type.md&amp;value=---%0Auid%3A%20MacroTools.Cheats.CheatCompleteQuest.Type%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Cheats_CheatQuestProgress_Type.md&amp;value=---%0Auid%3A%20MacroTools.Cheats.CheatQuestProgress.Type%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Cheats/CheatCompleteQuest.cs/#L20">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Cheats/CheatQuestProgress.cs/#L23">View Source</a>
   </span>
-  <a id="MacroTools_Cheats_CheatCompleteQuest_Type_" data-uid="MacroTools.Cheats.CheatCompleteQuest.Type*"></a>
-  <h4 id="MacroTools_Cheats_CheatCompleteQuest_Type" data-uid="MacroTools.Cheats.CheatCompleteQuest.Type">Type</h4>
+  <a id="MacroTools_Cheats_CheatQuestProgress_Type_" data-uid="MacroTools.Cheats.CheatQuestProgress.Type*"></a>
+  <h4 id="MacroTools_Cheats_CheatQuestProgress_Type" data-uid="MacroTools.Cheats.CheatQuestProgress.Type">Type</h4>
   <div class="markdown level1 summary"><p>Determines the purpose of the command and when it can be used.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
@@ -232,13 +272,13 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Cheats_CheatCompleteQuest_Execute_player_System_String___.md&amp;value=---%0Auid%3A%20MacroTools.Cheats.CheatCompleteQuest.Execute(player%2CSystem.String%5B%5D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Cheats_CheatQuestProgress_Execute_player_System_String___.md&amp;value=---%0Auid%3A%20MacroTools.Cheats.CheatQuestProgress.Execute(player%2CSystem.String%5B%5D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Cheats/CheatCompleteQuest.cs/#L26">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Cheats/CheatQuestProgress.cs/#L38">View Source</a>
   </span>
-  <a id="MacroTools_Cheats_CheatCompleteQuest_Execute_" data-uid="MacroTools.Cheats.CheatCompleteQuest.Execute*"></a>
-  <h4 id="MacroTools_Cheats_CheatCompleteQuest_Execute_player_System_String___" data-uid="MacroTools.Cheats.CheatCompleteQuest.Execute(player,System.String[])">Execute(player, String[])</h4>
+  <a id="MacroTools_Cheats_CheatQuestProgress_Execute_" data-uid="MacroTools.Cheats.CheatQuestProgress.Execute*"></a>
+  <h4 id="MacroTools_Cheats_CheatQuestProgress_Execute_player_System_String___" data-uid="MacroTools.Cheats.CheatQuestProgress.Execute(player,System.String[])">Execute(player, String[])</h4>
   <div class="markdown level1 summary"><p>What happens when the <a class="xref" href="MacroTools.CommandSystem.Command.html">Command</a> gets executed by a player.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
@@ -296,10 +336,10 @@
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Cheats_CheatCompleteQuest.md&amp;value=---%0Auid%3A%20MacroTools.Cheats.CheatCompleteQuest%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_Cheats_CheatQuestProgress.md&amp;value=---%0Auid%3A%20MacroTools.Cheats.CheatQuestProgress%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Cheats/CheatCompleteQuest.cs/#L11" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/Cheats/CheatQuestProgress.cs/#L11" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>
