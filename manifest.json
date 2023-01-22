@@ -6989,18 +6989,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Rocks.RockSetup.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Rocks.RockSetup.html",
-          "hash": "75Ag0WuBjdfcW+ugqSd93w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Rocks.RockSystem.yml",
       "output": {
         ".html": {
@@ -7017,7 +7005,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Rocks.html",
-          "hash": "gWCqn0eSjdclQMxK8c+Cow=="
+          "hash": "RRe+e7he0HPrkPFDRr3+Vg=="
         }
       },
       "is_incremental": false,
@@ -8081,6 +8069,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.RockSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.RockSetup.html",
+          "hash": "nARY1kAgF7sAtbE9RhNt9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.SharedFactionConfigSetup.yml",
       "output": {
         ".html": {
@@ -8349,7 +8349,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.html",
-          "hash": "oAfHBr4hjbeO/SBnVQYjQw=="
+          "hash": "rkGS5uq81uNLeQ6oI8+n3w=="
         }
       },
       "is_incremental": false,
@@ -8469,7 +8469,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "BM2jnFiy4luMJuDtjqyO6w=="
+          "hash": "6iN3bMzlKheKEGOd1yB9Ig=="
         }
       },
       "is_incremental": false,

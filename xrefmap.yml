@@ -29796,25 +29796,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Rocks.RockGroup.Expiry
   nameWithType: RockGroup.Expiry
-- uid: WarcraftLegacies.Source.Rocks.RockSetup
-  name: RockSetup
-  href: api-source/WarcraftLegacies.Source.Rocks.RockSetup.html
-  commentId: T:WarcraftLegacies.Source.Rocks.RockSetup
-  fullName: WarcraftLegacies.Source.Rocks.RockSetup
-  nameWithType: RockSetup
-- uid: WarcraftLegacies.Source.Rocks.RockSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Rocks.RockSetup.html#WarcraftLegacies_Source_Rocks_RockSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Rocks.RockSetup.Setup
-  fullName: WarcraftLegacies.Source.Rocks.RockSetup.Setup()
-  nameWithType: RockSetup.Setup()
-- uid: WarcraftLegacies.Source.Rocks.RockSetup.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Rocks.RockSetup.html#WarcraftLegacies_Source_Rocks_RockSetup_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Rocks.RockSetup.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Rocks.RockSetup.Setup
-  nameWithType: RockSetup.Setup
 - uid: WarcraftLegacies.Source.Rocks.RockSystem
   name: RockSystem
   href: api-source/WarcraftLegacies.Source.Rocks.RockSystem.html
@@ -34102,6 +34083,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ResearchSetup.Setup
   nameWithType: ResearchSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.RockSetup
+  name: RockSetup
+  href: api-source/WarcraftLegacies.Source.Setup.RockSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.RockSetup
+  fullName: WarcraftLegacies.Source.Setup.RockSetup
+  nameWithType: RockSetup
+- uid: WarcraftLegacies.Source.Setup.RockSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.RockSetup.html#WarcraftLegacies_Source_Setup_RockSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.RockSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.RockSetup.Setup()
+  nameWithType: RockSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.RockSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.RockSetup.html#WarcraftLegacies_Source_Setup_RockSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.RockSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.RockSetup.Setup
+  nameWithType: RockSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.SharedFactionConfigSetup
   name: SharedFactionConfigSetup
   href: api-source/WarcraftLegacies.Source.Setup.SharedFactionConfigSetup.html
