@@ -31058,12 +31058,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.CheatSetup
   fullName: WarcraftLegacies.Source.Setup.CheatSetup
   nameWithType: CheatSetup
-- uid: WarcraftLegacies.Source.Setup.CheatSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.CheatSetup.html#WarcraftLegacies_Source_Setup_CheatSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.CheatSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.CheatSetup.Setup()
-  nameWithType: CheatSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.CheatSetup.Setup(MacroTools.CommandSystem.CommandManager)
+  name: Setup(CommandManager)
+  href: api-source/WarcraftLegacies.Source.Setup.CheatSetup.html#WarcraftLegacies_Source_Setup_CheatSetup_Setup_MacroTools_CommandSystem_CommandManager_
+  commentId: M:WarcraftLegacies.Source.Setup.CheatSetup.Setup(MacroTools.CommandSystem.CommandManager)
+  fullName: WarcraftLegacies.Source.Setup.CheatSetup.Setup(MacroTools.CommandSystem.CommandManager)
+  nameWithType: CheatSetup.Setup(CommandManager)
 - uid: WarcraftLegacies.Source.Setup.CheatSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.CheatSetup.html#WarcraftLegacies_Source_Setup_CheatSetup_Setup_
@@ -31077,12 +31077,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.CommandSetup
   fullName: WarcraftLegacies.Source.Setup.CommandSetup
   nameWithType: CommandSetup
-- uid: WarcraftLegacies.Source.Setup.CommandSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.CommandSetup.html#WarcraftLegacies_Source_Setup_CommandSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.CommandSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.CommandSetup.Setup()
-  nameWithType: CommandSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.CommandSetup.Setup(MacroTools.CommandSystem.CommandManager)
+  name: Setup(CommandManager)
+  href: api-source/WarcraftLegacies.Source.Setup.CommandSetup.html#WarcraftLegacies_Source_Setup_CommandSetup_Setup_MacroTools_CommandSystem_CommandManager_
+  commentId: M:WarcraftLegacies.Source.Setup.CommandSetup.Setup(MacroTools.CommandSystem.CommandManager)
+  fullName: WarcraftLegacies.Source.Setup.CommandSetup.Setup(MacroTools.CommandSystem.CommandManager)
+  nameWithType: CommandSetup.Setup(CommandManager)
 - uid: WarcraftLegacies.Source.Setup.CommandSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.CommandSetup.html#WarcraftLegacies_Source_Setup_CommandSetup_Setup_
