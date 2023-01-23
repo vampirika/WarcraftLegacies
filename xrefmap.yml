@@ -4692,12 +4692,12 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.TestMode.CheatCondition
   nameWithType: TestMode.CheatCondition
-- uid: MacroTools.Cheats.TestMode.Setup
-  name: Setup()
-  href: api-macroTools/MacroTools.Cheats.TestMode.html#MacroTools_Cheats_TestMode_Setup
-  commentId: M:MacroTools.Cheats.TestMode.Setup
-  fullName: MacroTools.Cheats.TestMode.Setup()
-  nameWithType: TestMode.Setup()
+- uid: MacroTools.Cheats.TestMode.Setup(MacroTools.CommandSystem.CommandManager)
+  name: Setup(CommandManager)
+  href: api-macroTools/MacroTools.Cheats.TestMode.html#MacroTools_Cheats_TestMode_Setup_MacroTools_CommandSystem_CommandManager_
+  commentId: M:MacroTools.Cheats.TestMode.Setup(MacroTools.CommandSystem.CommandManager)
+  fullName: MacroTools.Cheats.TestMode.Setup(MacroTools.CommandSystem.CommandManager)
+  nameWithType: TestMode.Setup(CommandManager)
 - uid: MacroTools.Cheats.TestMode.Setup*
   name: Setup
   href: api-macroTools/MacroTools.Cheats.TestMode.html#MacroTools_Cheats_TestMode_Setup_
@@ -5103,6 +5103,19 @@ references:
   commentId: T:MacroTools.CommandSystem.CommandManager
   fullName: MacroTools.CommandSystem.CommandManager
   nameWithType: CommandManager
+- uid: MacroTools.CommandSystem.CommandManager.GetAllCommands
+  name: GetAllCommands()
+  href: api-macroTools/MacroTools.CommandSystem.CommandManager.html#MacroTools_CommandSystem_CommandManager_GetAllCommands
+  commentId: M:MacroTools.CommandSystem.CommandManager.GetAllCommands
+  fullName: MacroTools.CommandSystem.CommandManager.GetAllCommands()
+  nameWithType: CommandManager.GetAllCommands()
+- uid: MacroTools.CommandSystem.CommandManager.GetAllCommands*
+  name: GetAllCommands
+  href: api-macroTools/MacroTools.CommandSystem.CommandManager.html#MacroTools_CommandSystem_CommandManager_GetAllCommands_
+  commentId: Overload:MacroTools.CommandSystem.CommandManager.GetAllCommands
+  isSpec: "True"
+  fullName: MacroTools.CommandSystem.CommandManager.GetAllCommands
+  nameWithType: CommandManager.GetAllCommands
 - uid: MacroTools.CommandSystem.CommandManager.Register(MacroTools.CommandSystem.Command)
   name: Register(Command)
   href: api-macroTools/MacroTools.CommandSystem.CommandManager.html#MacroTools_CommandSystem_CommandManager_Register_MacroTools_CommandSystem_Command_
