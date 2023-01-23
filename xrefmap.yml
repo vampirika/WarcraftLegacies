@@ -7749,12 +7749,12 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.SetOwner
   nameWithType: UnitExtensions.SetOwner
-- uid: MacroTools.Extensions.UnitExtensions.SetPosition(unit,Point)
-  name: SetPosition(unit, Point)
-  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetPosition_unit_Point_
-  commentId: M:MacroTools.Extensions.UnitExtensions.SetPosition(unit,Point)
-  fullName: MacroTools.Extensions.UnitExtensions.SetPosition(unit, Point)
-  nameWithType: UnitExtensions.SetPosition(unit, Point)
+- uid: MacroTools.Extensions.UnitExtensions.SetPosition(unit,Point,System.Boolean)
+  name: SetPosition(unit, Point, Boolean)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetPosition_unit_Point_System_Boolean_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetPosition(unit,Point,System.Boolean)
+  fullName: MacroTools.Extensions.UnitExtensions.SetPosition(unit, Point, System.Boolean)
+  nameWithType: UnitExtensions.SetPosition(unit, Point, Boolean)
 - uid: MacroTools.Extensions.UnitExtensions.SetPosition*
   name: SetPosition
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetPosition_
