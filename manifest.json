@@ -6113,6 +6113,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestBlackrookHold.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestBlackrookHold.html",
+          "hash": "7/nBu5Msdq6SYL8iSzLyUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.yml",
       "output": {
         ".html": {
@@ -6189,7 +6201,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.html",
-          "hash": "fR9zuCYjAAI5EJ/G2eQoVw=="
+          "hash": "KuP1TmO1PdlrqBHRIH4q3g=="
         }
       },
       "is_incremental": false,
@@ -6262,18 +6274,6 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.html",
           "hash": "kY4+sx6h9ggLRboFgM+Uwg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestBlackrookHold.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestBlackrookHold.html",
-          "hash": "8ThmEEsP7mm0xBqhQJ684Q=="
         }
       },
       "is_incremental": false,
@@ -6825,7 +6825,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.html",
-          "hash": "v1sifbmoMG3/ra6S20+9DQ=="
+          "hash": "RvzQqe88iGAKT+d5oS9I4A=="
         }
       },
       "is_incremental": false,
@@ -8457,7 +8457,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "6iN3bMzlKheKEGOd1yB9Ig=="
+          "hash": "gMmmDpmcEGiaSEjWUEUE3Q=="
         }
       },
       "is_incremental": false,
