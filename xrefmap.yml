@@ -20022,6 +20022,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.EyeOfSargerasMissile
   nameWithType: EyeOfSargerasMissile.EyeOfSargerasMissile
+- uid: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.OnDispose
+  name: OnDispose()
+  href: api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.html#WarcraftLegacies_Source_ArtifactBehaviour_EyeOfSargerasMissile_OnDispose
+  commentId: M:WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.OnDispose
+  fullName: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.OnDispose()
+  nameWithType: EyeOfSargerasMissile.OnDispose()
+- uid: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.OnDispose*
+  name: OnDispose
+  href: api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.html#WarcraftLegacies_Source_ArtifactBehaviour_EyeOfSargerasMissile_OnDispose_
+  commentId: Overload:WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.OnDispose
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.OnDispose
+  nameWithType: EyeOfSargerasMissile.OnDispose
 - uid: WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.OnImpact
   name: OnImpact()
   href: api-source/WarcraftLegacies.Source.ArtifactBehaviour.EyeOfSargerasMissile.html#WarcraftLegacies_Source_ArtifactBehaviour_EyeOfSargerasMissile_OnImpact
