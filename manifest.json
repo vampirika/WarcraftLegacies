@@ -6105,7 +6105,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestBlackTemple.html",
-          "hash": "KYrb2JKVsI82ycDPCk4vsA=="
+          "hash": "yGJLZb9j03Kq61KhMIA/4A=="
         }
       },
       "is_incremental": false,
@@ -6201,7 +6201,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.html",
-          "hash": "KuP1TmO1PdlrqBHRIH4q3g=="
+          "hash": "6fXUa4UNjkxjBFPG+jAr/g=="
         }
       },
       "is_incremental": false,
@@ -7017,7 +7017,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html",
-          "hash": "9Y353lFu7mx3QwYd0QIBCQ=="
+          "hash": "+wkIO8/UA2jUVsWOUyEcDQ=="
         }
       },
       "is_incremental": false,
@@ -7625,6 +7625,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendIllidan.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendIllidan.html",
+          "hash": "DpIksNmddu8tlWtlgP/tNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendIronforge.yml",
       "output": {
         ".html": {
@@ -7666,18 +7678,6 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.html",
           "hash": "dzvAmNpPClf1zbZ7RKJ+Ww=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendNaga.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendNaga.html",
-          "hash": "oAazal+n4VLYex9f7jhtPQ=="
         }
       },
       "is_incremental": false,
@@ -7761,7 +7761,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.html",
-          "hash": "1i01hRBzN+wSV5LeBGHAlw=="
+          "hash": "lDVP3X/IpiWJ5neMFXloww=="
         }
       },
       "is_incremental": false,
@@ -8445,7 +8445,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "26c7Pl3bMvR3ujwozMi3yQ=="
+          "hash": "SI5YIM7DSrmX4qJpGowOmQ=="
         }
       },
       "is_incremental": false,
