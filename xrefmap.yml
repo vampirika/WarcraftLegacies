@@ -7048,6 +7048,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.DropItem
   nameWithType: UnitExtensions.DropItem
+- uid: MacroTools.Extensions.UnitExtensions.FacePosition(unit,Point)
+  name: FacePosition(unit, Point)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_FacePosition_unit_Point_
+  commentId: M:MacroTools.Extensions.UnitExtensions.FacePosition(unit,Point)
+  fullName: MacroTools.Extensions.UnitExtensions.FacePosition(unit, Point)
+  nameWithType: UnitExtensions.FacePosition(unit, Point)
+- uid: MacroTools.Extensions.UnitExtensions.FacePosition*
+  name: FacePosition
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_FacePosition_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.FacePosition
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.FacePosition
+  nameWithType: UnitExtensions.FacePosition
 - uid: MacroTools.Extensions.UnitExtensions.GetAverageDamage(unit,System.Int32)
   name: GetAverageDamage(unit, Int32)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetAverageDamage_unit_System_Int32_
