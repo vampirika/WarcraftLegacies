@@ -2645,19 +2645,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatAddSpell.Execute
   nameWithType: CheatAddSpell.Execute
-- uid: MacroTools.Cheats.CheatAddSpell.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatAddSpell.html#MacroTools_Cheats_CheatAddSpell_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatAddSpell.ParameterCount
-  fullName: MacroTools.Cheats.CheatAddSpell.ParameterCount
-  nameWithType: CheatAddSpell.ParameterCount
-- uid: MacroTools.Cheats.CheatAddSpell.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatAddSpell.html#MacroTools_Cheats_CheatAddSpell_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatAddSpell.ParameterCount
+- uid: MacroTools.Cheats.CheatAddSpell.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatAddSpell.html#MacroTools_Cheats_CheatAddSpell_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatAddSpell.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatAddSpell.MinimumParameterCount
+  nameWithType: CheatAddSpell.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatAddSpell.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatAddSpell.html#MacroTools_Cheats_CheatAddSpell_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatAddSpell.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatAddSpell.ParameterCount
-  nameWithType: CheatAddSpell.ParameterCount
+  fullName: MacroTools.Cheats.CheatAddSpell.MinimumParameterCount
+  nameWithType: CheatAddSpell.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatAddSpell.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatAddSpell.html#MacroTools_Cheats_CheatAddSpell_Type
@@ -2719,6 +2719,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatBuild.Execute
   nameWithType: CheatBuild.Execute
+- uid: MacroTools.Cheats.CheatBuild.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatBuild.html#MacroTools_Cheats_CheatBuild_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatBuild.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatBuild.MinimumParameterCount
+  nameWithType: CheatBuild.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatBuild.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatBuild.html#MacroTools_Cheats_CheatBuild_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatBuild.MinimumParameterCount
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatBuild.MinimumParameterCount
+  nameWithType: CheatBuild.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatBuild.OnRegister
   name: OnRegister()
   href: api-macroTools/MacroTools.Cheats.CheatBuild.html#MacroTools_Cheats_CheatBuild_OnRegister
@@ -2732,19 +2745,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatBuild.OnRegister
   nameWithType: CheatBuild.OnRegister
-- uid: MacroTools.Cheats.CheatBuild.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatBuild.html#MacroTools_Cheats_CheatBuild_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatBuild.ParameterCount
-  fullName: MacroTools.Cheats.CheatBuild.ParameterCount
-  nameWithType: CheatBuild.ParameterCount
-- uid: MacroTools.Cheats.CheatBuild.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatBuild.html#MacroTools_Cheats_CheatBuild_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatBuild.ParameterCount
-  isSpec: "True"
-  fullName: MacroTools.Cheats.CheatBuild.ParameterCount
-  nameWithType: CheatBuild.ParameterCount
 - uid: MacroTools.Cheats.CheatBuild.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatBuild.html#MacroTools_Cheats_CheatBuild_Type
@@ -2806,19 +2806,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatControl.Execute
   nameWithType: CheatControl.Execute
-- uid: MacroTools.Cheats.CheatControl.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatControl.html#MacroTools_Cheats_CheatControl_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatControl.ParameterCount
-  fullName: MacroTools.Cheats.CheatControl.ParameterCount
-  nameWithType: CheatControl.ParameterCount
-- uid: MacroTools.Cheats.CheatControl.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatControl.html#MacroTools_Cheats_CheatControl_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatControl.ParameterCount
+- uid: MacroTools.Cheats.CheatControl.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatControl.html#MacroTools_Cheats_CheatControl_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatControl.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatControl.MinimumParameterCount
+  nameWithType: CheatControl.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatControl.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatControl.html#MacroTools_Cheats_CheatControl_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatControl.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatControl.ParameterCount
-  nameWithType: CheatControl.ParameterCount
+  fullName: MacroTools.Cheats.CheatControl.MinimumParameterCount
+  nameWithType: CheatControl.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatControl.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatControl.html#MacroTools_Cheats_CheatControl_Type
@@ -2880,19 +2880,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatFaction.Execute
   nameWithType: CheatFaction.Execute
-- uid: MacroTools.Cheats.CheatFaction.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatFaction.html#MacroTools_Cheats_CheatFaction_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatFaction.ParameterCount
-  fullName: MacroTools.Cheats.CheatFaction.ParameterCount
-  nameWithType: CheatFaction.ParameterCount
-- uid: MacroTools.Cheats.CheatFaction.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatFaction.html#MacroTools_Cheats_CheatFaction_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatFaction.ParameterCount
+- uid: MacroTools.Cheats.CheatFaction.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatFaction.html#MacroTools_Cheats_CheatFaction_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatFaction.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatFaction.MinimumParameterCount
+  nameWithType: CheatFaction.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatFaction.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatFaction.html#MacroTools_Cheats_CheatFaction_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatFaction.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatFaction.ParameterCount
-  nameWithType: CheatFaction.ParameterCount
+  fullName: MacroTools.Cheats.CheatFaction.MinimumParameterCount
+  nameWithType: CheatFaction.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatFaction.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatFaction.html#MacroTools_Cheats_CheatFaction_Type
@@ -2954,19 +2954,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatFood.Execute
   nameWithType: CheatFood.Execute
-- uid: MacroTools.Cheats.CheatFood.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatFood.html#MacroTools_Cheats_CheatFood_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatFood.ParameterCount
-  fullName: MacroTools.Cheats.CheatFood.ParameterCount
-  nameWithType: CheatFood.ParameterCount
-- uid: MacroTools.Cheats.CheatFood.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatFood.html#MacroTools_Cheats_CheatFood_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatFood.ParameterCount
+- uid: MacroTools.Cheats.CheatFood.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatFood.html#MacroTools_Cheats_CheatFood_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatFood.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatFood.MinimumParameterCount
+  nameWithType: CheatFood.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatFood.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatFood.html#MacroTools_Cheats_CheatFood_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatFood.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatFood.ParameterCount
-  nameWithType: CheatFood.ParameterCount
+  fullName: MacroTools.Cheats.CheatFood.MinimumParameterCount
+  nameWithType: CheatFood.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatFood.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatFood.html#MacroTools_Cheats_CheatFood_Type
@@ -3028,19 +3028,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatGod.Execute
   nameWithType: CheatGod.Execute
-- uid: MacroTools.Cheats.CheatGod.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatGod.html#MacroTools_Cheats_CheatGod_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatGod.ParameterCount
-  fullName: MacroTools.Cheats.CheatGod.ParameterCount
-  nameWithType: CheatGod.ParameterCount
-- uid: MacroTools.Cheats.CheatGod.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatGod.html#MacroTools_Cheats_CheatGod_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatGod.ParameterCount
+- uid: MacroTools.Cheats.CheatGod.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatGod.html#MacroTools_Cheats_CheatGod_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatGod.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatGod.MinimumParameterCount
+  nameWithType: CheatGod.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatGod.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatGod.html#MacroTools_Cheats_CheatGod_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatGod.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatGod.ParameterCount
-  nameWithType: CheatGod.ParameterCount
+  fullName: MacroTools.Cheats.CheatGod.MinimumParameterCount
+  nameWithType: CheatGod.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatGod.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatGod.html#MacroTools_Cheats_CheatGod_Type
@@ -3102,19 +3102,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatGold.Execute
   nameWithType: CheatGold.Execute
-- uid: MacroTools.Cheats.CheatGold.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatGold.html#MacroTools_Cheats_CheatGold_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatGold.ParameterCount
-  fullName: MacroTools.Cheats.CheatGold.ParameterCount
-  nameWithType: CheatGold.ParameterCount
-- uid: MacroTools.Cheats.CheatGold.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatGold.html#MacroTools_Cheats_CheatGold_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatGold.ParameterCount
+- uid: MacroTools.Cheats.CheatGold.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatGold.html#MacroTools_Cheats_CheatGold_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatGold.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatGold.MinimumParameterCount
+  nameWithType: CheatGold.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatGold.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatGold.html#MacroTools_Cheats_CheatGold_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatGold.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatGold.ParameterCount
-  nameWithType: CheatGold.ParameterCount
+  fullName: MacroTools.Cheats.CheatGold.MinimumParameterCount
+  nameWithType: CheatGold.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatGold.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatGold.html#MacroTools_Cheats_CheatGold_Type
@@ -3176,19 +3176,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatHp.Execute
   nameWithType: CheatHp.Execute
-- uid: MacroTools.Cheats.CheatHp.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatHp.html#MacroTools_Cheats_CheatHp_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatHp.ParameterCount
-  fullName: MacroTools.Cheats.CheatHp.ParameterCount
-  nameWithType: CheatHp.ParameterCount
-- uid: MacroTools.Cheats.CheatHp.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatHp.html#MacroTools_Cheats_CheatHp_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatHp.ParameterCount
+- uid: MacroTools.Cheats.CheatHp.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatHp.html#MacroTools_Cheats_CheatHp_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatHp.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatHp.MinimumParameterCount
+  nameWithType: CheatHp.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatHp.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatHp.html#MacroTools_Cheats_CheatHp_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatHp.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatHp.ParameterCount
-  nameWithType: CheatHp.ParameterCount
+  fullName: MacroTools.Cheats.CheatHp.MinimumParameterCount
+  nameWithType: CheatHp.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatHp.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatHp.html#MacroTools_Cheats_CheatHp_Type
@@ -3250,19 +3250,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatKick.Execute
   nameWithType: CheatKick.Execute
-- uid: MacroTools.Cheats.CheatKick.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatKick.html#MacroTools_Cheats_CheatKick_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatKick.ParameterCount
-  fullName: MacroTools.Cheats.CheatKick.ParameterCount
-  nameWithType: CheatKick.ParameterCount
-- uid: MacroTools.Cheats.CheatKick.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatKick.html#MacroTools_Cheats_CheatKick_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatKick.ParameterCount
+- uid: MacroTools.Cheats.CheatKick.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatKick.html#MacroTools_Cheats_CheatKick_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatKick.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatKick.MinimumParameterCount
+  nameWithType: CheatKick.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatKick.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatKick.html#MacroTools_Cheats_CheatKick_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatKick.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatKick.ParameterCount
-  nameWithType: CheatKick.ParameterCount
+  fullName: MacroTools.Cheats.CheatKick.MinimumParameterCount
+  nameWithType: CheatKick.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatKick.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatKick.html#MacroTools_Cheats_CheatKick_Type
@@ -3324,19 +3324,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatLevel.Execute
   nameWithType: CheatLevel.Execute
-- uid: MacroTools.Cheats.CheatLevel.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatLevel.html#MacroTools_Cheats_CheatLevel_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatLevel.ParameterCount
-  fullName: MacroTools.Cheats.CheatLevel.ParameterCount
-  nameWithType: CheatLevel.ParameterCount
-- uid: MacroTools.Cheats.CheatLevel.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatLevel.html#MacroTools_Cheats_CheatLevel_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatLevel.ParameterCount
+- uid: MacroTools.Cheats.CheatLevel.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatLevel.html#MacroTools_Cheats_CheatLevel_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatLevel.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatLevel.MinimumParameterCount
+  nameWithType: CheatLevel.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatLevel.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatLevel.html#MacroTools_Cheats_CheatLevel_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatLevel.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatLevel.ParameterCount
-  nameWithType: CheatLevel.ParameterCount
+  fullName: MacroTools.Cheats.CheatLevel.MinimumParameterCount
+  nameWithType: CheatLevel.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatLevel.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatLevel.html#MacroTools_Cheats_CheatLevel_Type
@@ -3398,19 +3398,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatLumber.Execute
   nameWithType: CheatLumber.Execute
-- uid: MacroTools.Cheats.CheatLumber.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatLumber.html#MacroTools_Cheats_CheatLumber_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatLumber.ParameterCount
-  fullName: MacroTools.Cheats.CheatLumber.ParameterCount
-  nameWithType: CheatLumber.ParameterCount
-- uid: MacroTools.Cheats.CheatLumber.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatLumber.html#MacroTools_Cheats_CheatLumber_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatLumber.ParameterCount
+- uid: MacroTools.Cheats.CheatLumber.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatLumber.html#MacroTools_Cheats_CheatLumber_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatLumber.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatLumber.MinimumParameterCount
+  nameWithType: CheatLumber.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatLumber.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatLumber.html#MacroTools_Cheats_CheatLumber_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatLumber.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatLumber.ParameterCount
-  nameWithType: CheatLumber.ParameterCount
+  fullName: MacroTools.Cheats.CheatLumber.MinimumParameterCount
+  nameWithType: CheatLumber.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatLumber.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatLumber.html#MacroTools_Cheats_CheatLumber_Type
@@ -3472,6 +3472,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatMana.Execute
   nameWithType: CheatMana.Execute
+- uid: MacroTools.Cheats.CheatMana.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatMana.html#MacroTools_Cheats_CheatMana_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatMana.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatMana.MinimumParameterCount
+  nameWithType: CheatMana.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatMana.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatMana.html#MacroTools_Cheats_CheatMana_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatMana.MinimumParameterCount
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatMana.MinimumParameterCount
+  nameWithType: CheatMana.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatMana.OnRegister
   name: OnRegister()
   href: api-macroTools/MacroTools.Cheats.CheatMana.html#MacroTools_Cheats_CheatMana_OnRegister
@@ -3485,19 +3498,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatMana.OnRegister
   nameWithType: CheatMana.OnRegister
-- uid: MacroTools.Cheats.CheatMana.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatMana.html#MacroTools_Cheats_CheatMana_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatMana.ParameterCount
-  fullName: MacroTools.Cheats.CheatMana.ParameterCount
-  nameWithType: CheatMana.ParameterCount
-- uid: MacroTools.Cheats.CheatMana.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatMana.html#MacroTools_Cheats_CheatMana_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatMana.ParameterCount
-  isSpec: "True"
-  fullName: MacroTools.Cheats.CheatMana.ParameterCount
-  nameWithType: CheatMana.ParameterCount
 - uid: MacroTools.Cheats.CheatMana.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatMana.html#MacroTools_Cheats_CheatMana_Type
@@ -3559,19 +3559,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatMp.Execute
   nameWithType: CheatMp.Execute
-- uid: MacroTools.Cheats.CheatMp.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatMp.html#MacroTools_Cheats_CheatMp_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatMp.ParameterCount
-  fullName: MacroTools.Cheats.CheatMp.ParameterCount
-  nameWithType: CheatMp.ParameterCount
-- uid: MacroTools.Cheats.CheatMp.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatMp.html#MacroTools_Cheats_CheatMp_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatMp.ParameterCount
+- uid: MacroTools.Cheats.CheatMp.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatMp.html#MacroTools_Cheats_CheatMp_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatMp.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatMp.MinimumParameterCount
+  nameWithType: CheatMp.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatMp.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatMp.html#MacroTools_Cheats_CheatMp_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatMp.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatMp.ParameterCount
-  nameWithType: CheatMp.ParameterCount
+  fullName: MacroTools.Cheats.CheatMp.MinimumParameterCount
+  nameWithType: CheatMp.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatMp.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatMp.html#MacroTools_Cheats_CheatMp_Type
@@ -3633,6 +3633,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatNocd.Execute
   nameWithType: CheatNocd.Execute
+- uid: MacroTools.Cheats.CheatNocd.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatNocd.html#MacroTools_Cheats_CheatNocd_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatNocd.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatNocd.MinimumParameterCount
+  nameWithType: CheatNocd.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatNocd.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatNocd.html#MacroTools_Cheats_CheatNocd_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatNocd.MinimumParameterCount
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatNocd.MinimumParameterCount
+  nameWithType: CheatNocd.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatNocd.OnRegister
   name: OnRegister()
   href: api-macroTools/MacroTools.Cheats.CheatNocd.html#MacroTools_Cheats_CheatNocd_OnRegister
@@ -3646,19 +3659,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatNocd.OnRegister
   nameWithType: CheatNocd.OnRegister
-- uid: MacroTools.Cheats.CheatNocd.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatNocd.html#MacroTools_Cheats_CheatNocd_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatNocd.ParameterCount
-  fullName: MacroTools.Cheats.CheatNocd.ParameterCount
-  nameWithType: CheatNocd.ParameterCount
-- uid: MacroTools.Cheats.CheatNocd.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatNocd.html#MacroTools_Cheats_CheatNocd_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatNocd.ParameterCount
-  isSpec: "True"
-  fullName: MacroTools.Cheats.CheatNocd.ParameterCount
-  nameWithType: CheatNocd.ParameterCount
 - uid: MacroTools.Cheats.CheatNocd.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatNocd.html#MacroTools_Cheats_CheatNocd_Type
@@ -3720,19 +3720,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatOwner.Execute
   nameWithType: CheatOwner.Execute
-- uid: MacroTools.Cheats.CheatOwner.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatOwner.html#MacroTools_Cheats_CheatOwner_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatOwner.ParameterCount
-  fullName: MacroTools.Cheats.CheatOwner.ParameterCount
-  nameWithType: CheatOwner.ParameterCount
-- uid: MacroTools.Cheats.CheatOwner.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatOwner.html#MacroTools_Cheats_CheatOwner_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatOwner.ParameterCount
+- uid: MacroTools.Cheats.CheatOwner.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatOwner.html#MacroTools_Cheats_CheatOwner_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatOwner.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatOwner.MinimumParameterCount
+  nameWithType: CheatOwner.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatOwner.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatOwner.html#MacroTools_Cheats_CheatOwner_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatOwner.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatOwner.ParameterCount
-  nameWithType: CheatOwner.ParameterCount
+  fullName: MacroTools.Cheats.CheatOwner.MinimumParameterCount
+  nameWithType: CheatOwner.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatOwner.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatOwner.html#MacroTools_Cheats_CheatOwner_Type
@@ -3807,19 +3807,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatQuestProgress.Execute
   nameWithType: CheatQuestProgress.Execute
-- uid: MacroTools.Cheats.CheatQuestProgress.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatQuestProgress.html#MacroTools_Cheats_CheatQuestProgress_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatQuestProgress.ParameterCount
-  fullName: MacroTools.Cheats.CheatQuestProgress.ParameterCount
-  nameWithType: CheatQuestProgress.ParameterCount
-- uid: MacroTools.Cheats.CheatQuestProgress.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatQuestProgress.html#MacroTools_Cheats_CheatQuestProgress_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatQuestProgress.ParameterCount
+- uid: MacroTools.Cheats.CheatQuestProgress.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatQuestProgress.html#MacroTools_Cheats_CheatQuestProgress_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatQuestProgress.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatQuestProgress.MinimumParameterCount
+  nameWithType: CheatQuestProgress.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatQuestProgress.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatQuestProgress.html#MacroTools_Cheats_CheatQuestProgress_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatQuestProgress.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatQuestProgress.ParameterCount
-  nameWithType: CheatQuestProgress.ParameterCount
+  fullName: MacroTools.Cheats.CheatQuestProgress.MinimumParameterCount
+  nameWithType: CheatQuestProgress.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatQuestProgress.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatQuestProgress.html#MacroTools_Cheats_CheatQuestProgress_Type
@@ -3881,19 +3881,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatRemove.Execute
   nameWithType: CheatRemove.Execute
-- uid: MacroTools.Cheats.CheatRemove.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatRemove.html#MacroTools_Cheats_CheatRemove_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatRemove.ParameterCount
-  fullName: MacroTools.Cheats.CheatRemove.ParameterCount
-  nameWithType: CheatRemove.ParameterCount
-- uid: MacroTools.Cheats.CheatRemove.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatRemove.html#MacroTools_Cheats_CheatRemove_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatRemove.ParameterCount
+- uid: MacroTools.Cheats.CheatRemove.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatRemove.html#MacroTools_Cheats_CheatRemove_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatRemove.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatRemove.MinimumParameterCount
+  nameWithType: CheatRemove.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatRemove.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatRemove.html#MacroTools_Cheats_CheatRemove_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatRemove.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatRemove.ParameterCount
-  nameWithType: CheatRemove.ParameterCount
+  fullName: MacroTools.Cheats.CheatRemove.MinimumParameterCount
+  nameWithType: CheatRemove.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatRemove.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatRemove.html#MacroTools_Cheats_CheatRemove_Type
@@ -3955,19 +3955,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatResearchLevel.Execute
   nameWithType: CheatResearchLevel.Execute
-- uid: MacroTools.Cheats.CheatResearchLevel.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatResearchLevel.html#MacroTools_Cheats_CheatResearchLevel_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatResearchLevel.ParameterCount
-  fullName: MacroTools.Cheats.CheatResearchLevel.ParameterCount
-  nameWithType: CheatResearchLevel.ParameterCount
-- uid: MacroTools.Cheats.CheatResearchLevel.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatResearchLevel.html#MacroTools_Cheats_CheatResearchLevel_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatResearchLevel.ParameterCount
+- uid: MacroTools.Cheats.CheatResearchLevel.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatResearchLevel.html#MacroTools_Cheats_CheatResearchLevel_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatResearchLevel.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatResearchLevel.MinimumParameterCount
+  nameWithType: CheatResearchLevel.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatResearchLevel.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatResearchLevel.html#MacroTools_Cheats_CheatResearchLevel_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatResearchLevel.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatResearchLevel.ParameterCount
-  nameWithType: CheatResearchLevel.ParameterCount
+  fullName: MacroTools.Cheats.CheatResearchLevel.MinimumParameterCount
+  nameWithType: CheatResearchLevel.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatResearchLevel.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatResearchLevel.html#MacroTools_Cheats_CheatResearchLevel_Type
@@ -4029,19 +4029,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatShowQuestNames.Execute
   nameWithType: CheatShowQuestNames.Execute
-- uid: MacroTools.Cheats.CheatShowQuestNames.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatShowQuestNames.html#MacroTools_Cheats_CheatShowQuestNames_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatShowQuestNames.ParameterCount
-  fullName: MacroTools.Cheats.CheatShowQuestNames.ParameterCount
-  nameWithType: CheatShowQuestNames.ParameterCount
-- uid: MacroTools.Cheats.CheatShowQuestNames.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatShowQuestNames.html#MacroTools_Cheats_CheatShowQuestNames_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatShowQuestNames.ParameterCount
+- uid: MacroTools.Cheats.CheatShowQuestNames.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatShowQuestNames.html#MacroTools_Cheats_CheatShowQuestNames_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatShowQuestNames.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatShowQuestNames.MinimumParameterCount
+  nameWithType: CheatShowQuestNames.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatShowQuestNames.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatShowQuestNames.html#MacroTools_Cheats_CheatShowQuestNames_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatShowQuestNames.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatShowQuestNames.ParameterCount
-  nameWithType: CheatShowQuestNames.ParameterCount
+  fullName: MacroTools.Cheats.CheatShowQuestNames.MinimumParameterCount
+  nameWithType: CheatShowQuestNames.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatShowQuestNames.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatShowQuestNames.html#MacroTools_Cheats_CheatShowQuestNames_Type
@@ -4103,19 +4103,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatSpawn.Execute
   nameWithType: CheatSpawn.Execute
-- uid: MacroTools.Cheats.CheatSpawn.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatSpawn.html#MacroTools_Cheats_CheatSpawn_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatSpawn.ParameterCount
-  fullName: MacroTools.Cheats.CheatSpawn.ParameterCount
-  nameWithType: CheatSpawn.ParameterCount
-- uid: MacroTools.Cheats.CheatSpawn.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatSpawn.html#MacroTools_Cheats_CheatSpawn_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatSpawn.ParameterCount
+- uid: MacroTools.Cheats.CheatSpawn.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatSpawn.html#MacroTools_Cheats_CheatSpawn_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatSpawn.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatSpawn.MinimumParameterCount
+  nameWithType: CheatSpawn.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatSpawn.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatSpawn.html#MacroTools_Cheats_CheatSpawn_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatSpawn.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatSpawn.ParameterCount
-  nameWithType: CheatSpawn.ParameterCount
+  fullName: MacroTools.Cheats.CheatSpawn.MinimumParameterCount
+  nameWithType: CheatSpawn.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatSpawn.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatSpawn.html#MacroTools_Cheats_CheatSpawn_Type
@@ -4177,6 +4177,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatTele.Execute
   nameWithType: CheatTele.Execute
+- uid: MacroTools.Cheats.CheatTele.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatTele.html#MacroTools_Cheats_CheatTele_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatTele.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatTele.MinimumParameterCount
+  nameWithType: CheatTele.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatTele.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatTele.html#MacroTools_Cheats_CheatTele_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatTele.MinimumParameterCount
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatTele.MinimumParameterCount
+  nameWithType: CheatTele.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatTele.OnRegister
   name: OnRegister()
   href: api-macroTools/MacroTools.Cheats.CheatTele.html#MacroTools_Cheats_CheatTele_OnRegister
@@ -4190,19 +4203,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatTele.OnRegister
   nameWithType: CheatTele.OnRegister
-- uid: MacroTools.Cheats.CheatTele.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatTele.html#MacroTools_Cheats_CheatTele_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatTele.ParameterCount
-  fullName: MacroTools.Cheats.CheatTele.ParameterCount
-  nameWithType: CheatTele.ParameterCount
-- uid: MacroTools.Cheats.CheatTele.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatTele.html#MacroTools_Cheats_CheatTele_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatTele.ParameterCount
-  isSpec: "True"
-  fullName: MacroTools.Cheats.CheatTele.ParameterCount
-  nameWithType: CheatTele.ParameterCount
 - uid: MacroTools.Cheats.CheatTele.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatTele.html#MacroTools_Cheats_CheatTele_Type
@@ -4264,19 +4264,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatTime.Execute
   nameWithType: CheatTime.Execute
-- uid: MacroTools.Cheats.CheatTime.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatTime.html#MacroTools_Cheats_CheatTime_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatTime.ParameterCount
-  fullName: MacroTools.Cheats.CheatTime.ParameterCount
-  nameWithType: CheatTime.ParameterCount
-- uid: MacroTools.Cheats.CheatTime.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatTime.html#MacroTools_Cheats_CheatTime_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatTime.ParameterCount
+- uid: MacroTools.Cheats.CheatTime.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatTime.html#MacroTools_Cheats_CheatTime_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatTime.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatTime.MinimumParameterCount
+  nameWithType: CheatTime.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatTime.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatTime.html#MacroTools_Cheats_CheatTime_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatTime.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatTime.ParameterCount
-  nameWithType: CheatTime.ParameterCount
+  fullName: MacroTools.Cheats.CheatTime.MinimumParameterCount
+  nameWithType: CheatTime.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatTime.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatTime.html#MacroTools_Cheats_CheatTime_Type
@@ -4338,19 +4338,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatUncontrol.Execute
   nameWithType: CheatUncontrol.Execute
-- uid: MacroTools.Cheats.CheatUncontrol.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatUncontrol.html#MacroTools_Cheats_CheatUncontrol_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatUncontrol.ParameterCount
-  fullName: MacroTools.Cheats.CheatUncontrol.ParameterCount
-  nameWithType: CheatUncontrol.ParameterCount
-- uid: MacroTools.Cheats.CheatUncontrol.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatUncontrol.html#MacroTools_Cheats_CheatUncontrol_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatUncontrol.ParameterCount
+- uid: MacroTools.Cheats.CheatUncontrol.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatUncontrol.html#MacroTools_Cheats_CheatUncontrol_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatUncontrol.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatUncontrol.MinimumParameterCount
+  nameWithType: CheatUncontrol.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatUncontrol.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatUncontrol.html#MacroTools_Cheats_CheatUncontrol_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatUncontrol.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatUncontrol.ParameterCount
-  nameWithType: CheatUncontrol.ParameterCount
+  fullName: MacroTools.Cheats.CheatUncontrol.MinimumParameterCount
+  nameWithType: CheatUncontrol.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatUncontrol.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatUncontrol.html#MacroTools_Cheats_CheatUncontrol_Type
@@ -4412,19 +4412,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatVision.Execute
   nameWithType: CheatVision.Execute
-- uid: MacroTools.Cheats.CheatVision.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatVision.html#MacroTools_Cheats_CheatVision_ParameterCount
-  commentId: P:MacroTools.Cheats.CheatVision.ParameterCount
-  fullName: MacroTools.Cheats.CheatVision.ParameterCount
-  nameWithType: CheatVision.ParameterCount
-- uid: MacroTools.Cheats.CheatVision.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CheatVision.html#MacroTools_Cheats_CheatVision_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CheatVision.ParameterCount
+- uid: MacroTools.Cheats.CheatVision.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatVision.html#MacroTools_Cheats_CheatVision_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatVision.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatVision.MinimumParameterCount
+  nameWithType: CheatVision.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatVision.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatVision.html#MacroTools_Cheats_CheatVision_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatVision.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CheatVision.ParameterCount
-  nameWithType: CheatVision.ParameterCount
+  fullName: MacroTools.Cheats.CheatVision.MinimumParameterCount
+  nameWithType: CheatVision.MinimumParameterCount
 - uid: MacroTools.Cheats.CheatVision.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CheatVision.html#MacroTools_Cheats_CheatVision_Type
@@ -4486,19 +4486,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CommandDestroy.Execute
   nameWithType: CommandDestroy.Execute
-- uid: MacroTools.Cheats.CommandDestroy.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CommandDestroy.html#MacroTools_Cheats_CommandDestroy_ParameterCount
-  commentId: P:MacroTools.Cheats.CommandDestroy.ParameterCount
-  fullName: MacroTools.Cheats.CommandDestroy.ParameterCount
-  nameWithType: CommandDestroy.ParameterCount
-- uid: MacroTools.Cheats.CommandDestroy.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CommandDestroy.html#MacroTools_Cheats_CommandDestroy_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CommandDestroy.ParameterCount
+- uid: MacroTools.Cheats.CommandDestroy.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CommandDestroy.html#MacroTools_Cheats_CommandDestroy_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CommandDestroy.MinimumParameterCount
+  fullName: MacroTools.Cheats.CommandDestroy.MinimumParameterCount
+  nameWithType: CommandDestroy.MinimumParameterCount
+- uid: MacroTools.Cheats.CommandDestroy.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CommandDestroy.html#MacroTools_Cheats_CommandDestroy_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CommandDestroy.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CommandDestroy.ParameterCount
-  nameWithType: CommandDestroy.ParameterCount
+  fullName: MacroTools.Cheats.CommandDestroy.MinimumParameterCount
+  nameWithType: CommandDestroy.MinimumParameterCount
 - uid: MacroTools.Cheats.CommandDestroy.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CommandDestroy.html#MacroTools_Cheats_CommandDestroy_Type
@@ -4560,19 +4560,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CommandSetResearchLevel.Execute
   nameWithType: CommandSetResearchLevel.Execute
-- uid: MacroTools.Cheats.CommandSetResearchLevel.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CommandSetResearchLevel.html#MacroTools_Cheats_CommandSetResearchLevel_ParameterCount
-  commentId: P:MacroTools.Cheats.CommandSetResearchLevel.ParameterCount
-  fullName: MacroTools.Cheats.CommandSetResearchLevel.ParameterCount
-  nameWithType: CommandSetResearchLevel.ParameterCount
-- uid: MacroTools.Cheats.CommandSetResearchLevel.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CommandSetResearchLevel.html#MacroTools_Cheats_CommandSetResearchLevel_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CommandSetResearchLevel.ParameterCount
+- uid: MacroTools.Cheats.CommandSetResearchLevel.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CommandSetResearchLevel.html#MacroTools_Cheats_CommandSetResearchLevel_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CommandSetResearchLevel.MinimumParameterCount
+  fullName: MacroTools.Cheats.CommandSetResearchLevel.MinimumParameterCount
+  nameWithType: CommandSetResearchLevel.MinimumParameterCount
+- uid: MacroTools.Cheats.CommandSetResearchLevel.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CommandSetResearchLevel.html#MacroTools_Cheats_CommandSetResearchLevel_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CommandSetResearchLevel.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CommandSetResearchLevel.ParameterCount
-  nameWithType: CommandSetResearchLevel.ParameterCount
+  fullName: MacroTools.Cheats.CommandSetResearchLevel.MinimumParameterCount
+  nameWithType: CommandSetResearchLevel.MinimumParameterCount
 - uid: MacroTools.Cheats.CommandSetResearchLevel.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CommandSetResearchLevel.html#MacroTools_Cheats_CommandSetResearchLevel_Type
@@ -4634,19 +4634,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CommandTeam.Execute
   nameWithType: CommandTeam.Execute
-- uid: MacroTools.Cheats.CommandTeam.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CommandTeam.html#MacroTools_Cheats_CommandTeam_ParameterCount
-  commentId: P:MacroTools.Cheats.CommandTeam.ParameterCount
-  fullName: MacroTools.Cheats.CommandTeam.ParameterCount
-  nameWithType: CommandTeam.ParameterCount
-- uid: MacroTools.Cheats.CommandTeam.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Cheats.CommandTeam.html#MacroTools_Cheats_CommandTeam_ParameterCount_
-  commentId: Overload:MacroTools.Cheats.CommandTeam.ParameterCount
+- uid: MacroTools.Cheats.CommandTeam.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CommandTeam.html#MacroTools_Cheats_CommandTeam_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CommandTeam.MinimumParameterCount
+  fullName: MacroTools.Cheats.CommandTeam.MinimumParameterCount
+  nameWithType: CommandTeam.MinimumParameterCount
+- uid: MacroTools.Cheats.CommandTeam.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CommandTeam.html#MacroTools_Cheats_CommandTeam_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CommandTeam.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Cheats.CommandTeam.ParameterCount
-  nameWithType: CommandTeam.ParameterCount
+  fullName: MacroTools.Cheats.CommandTeam.MinimumParameterCount
+  nameWithType: CommandTeam.MinimumParameterCount
 - uid: MacroTools.Cheats.CommandTeam.Type
   name: Type
   href: api-macroTools/MacroTools.Cheats.CommandTeam.html#MacroTools_Cheats_CommandTeam_Type
@@ -4830,19 +4830,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Commands.Cam.Execute
   nameWithType: Cam.Execute
-- uid: MacroTools.Commands.Cam.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Commands.Cam.html#MacroTools_Commands_Cam_ParameterCount
-  commentId: P:MacroTools.Commands.Cam.ParameterCount
-  fullName: MacroTools.Commands.Cam.ParameterCount
-  nameWithType: Cam.ParameterCount
-- uid: MacroTools.Commands.Cam.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Commands.Cam.html#MacroTools_Commands_Cam_ParameterCount_
-  commentId: Overload:MacroTools.Commands.Cam.ParameterCount
+- uid: MacroTools.Commands.Cam.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Commands.Cam.html#MacroTools_Commands_Cam_MinimumParameterCount
+  commentId: P:MacroTools.Commands.Cam.MinimumParameterCount
+  fullName: MacroTools.Commands.Cam.MinimumParameterCount
+  nameWithType: Cam.MinimumParameterCount
+- uid: MacroTools.Commands.Cam.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Commands.Cam.html#MacroTools_Commands_Cam_MinimumParameterCount_
+  commentId: Overload:MacroTools.Commands.Cam.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Commands.Cam.ParameterCount
-  nameWithType: Cam.ParameterCount
+  fullName: MacroTools.Commands.Cam.MinimumParameterCount
+  nameWithType: Cam.MinimumParameterCount
 - uid: MacroTools.Commands.Cam.Type
   name: Type
   href: api-macroTools/MacroTools.Commands.Cam.html#MacroTools_Commands_Cam_Type
@@ -4904,19 +4904,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Commands.Clear.Execute
   nameWithType: Clear.Execute
-- uid: MacroTools.Commands.Clear.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Commands.Clear.html#MacroTools_Commands_Clear_ParameterCount
-  commentId: P:MacroTools.Commands.Clear.ParameterCount
-  fullName: MacroTools.Commands.Clear.ParameterCount
-  nameWithType: Clear.ParameterCount
-- uid: MacroTools.Commands.Clear.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Commands.Clear.html#MacroTools_Commands_Clear_ParameterCount_
-  commentId: Overload:MacroTools.Commands.Clear.ParameterCount
+- uid: MacroTools.Commands.Clear.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Commands.Clear.html#MacroTools_Commands_Clear_MinimumParameterCount
+  commentId: P:MacroTools.Commands.Clear.MinimumParameterCount
+  fullName: MacroTools.Commands.Clear.MinimumParameterCount
+  nameWithType: Clear.MinimumParameterCount
+- uid: MacroTools.Commands.Clear.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Commands.Clear.html#MacroTools_Commands_Clear_MinimumParameterCount_
+  commentId: Overload:MacroTools.Commands.Clear.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Commands.Clear.ParameterCount
-  nameWithType: Clear.ParameterCount
+  fullName: MacroTools.Commands.Clear.MinimumParameterCount
+  nameWithType: Clear.MinimumParameterCount
 - uid: MacroTools.Commands.Clear.Type
   name: Type
   href: api-macroTools/MacroTools.Commands.Clear.html#MacroTools_Commands_Clear_Type
@@ -4978,19 +4978,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Commands.Limited.Execute
   nameWithType: Limited.Execute
-- uid: MacroTools.Commands.Limited.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Commands.Limited.html#MacroTools_Commands_Limited_ParameterCount
-  commentId: P:MacroTools.Commands.Limited.ParameterCount
-  fullName: MacroTools.Commands.Limited.ParameterCount
-  nameWithType: Limited.ParameterCount
-- uid: MacroTools.Commands.Limited.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.Commands.Limited.html#MacroTools_Commands_Limited_ParameterCount_
-  commentId: Overload:MacroTools.Commands.Limited.ParameterCount
+- uid: MacroTools.Commands.Limited.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Commands.Limited.html#MacroTools_Commands_Limited_MinimumParameterCount
+  commentId: P:MacroTools.Commands.Limited.MinimumParameterCount
+  fullName: MacroTools.Commands.Limited.MinimumParameterCount
+  nameWithType: Limited.MinimumParameterCount
+- uid: MacroTools.Commands.Limited.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Commands.Limited.html#MacroTools_Commands_Limited_MinimumParameterCount_
+  commentId: Overload:MacroTools.Commands.Limited.MinimumParameterCount
   isSpec: "True"
-  fullName: MacroTools.Commands.Limited.ParameterCount
-  nameWithType: Limited.ParameterCount
+  fullName: MacroTools.Commands.Limited.MinimumParameterCount
+  nameWithType: Limited.MinimumParameterCount
 - uid: MacroTools.Commands.Limited.Type
   name: Type
   href: api-macroTools/MacroTools.Commands.Limited.html#MacroTools_Commands_Limited_Type
@@ -5058,6 +5058,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.CommandSystem.Command.Execute
   nameWithType: Command.Execute
+- uid: MacroTools.CommandSystem.Command.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.CommandSystem.Command.html#MacroTools_CommandSystem_Command_MinimumParameterCount
+  commentId: P:MacroTools.CommandSystem.Command.MinimumParameterCount
+  fullName: MacroTools.CommandSystem.Command.MinimumParameterCount
+  nameWithType: Command.MinimumParameterCount
+- uid: MacroTools.CommandSystem.Command.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.CommandSystem.Command.html#MacroTools_CommandSystem_Command_MinimumParameterCount_
+  commentId: Overload:MacroTools.CommandSystem.Command.MinimumParameterCount
+  isSpec: "True"
+  fullName: MacroTools.CommandSystem.Command.MinimumParameterCount
+  nameWithType: Command.MinimumParameterCount
 - uid: MacroTools.CommandSystem.Command.OnRegister
   name: OnRegister()
   href: api-macroTools/MacroTools.CommandSystem.Command.html#MacroTools_CommandSystem_Command_OnRegister
@@ -5071,19 +5084,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.CommandSystem.Command.OnRegister
   nameWithType: Command.OnRegister
-- uid: MacroTools.CommandSystem.Command.ParameterCount
-  name: ParameterCount
-  href: api-macroTools/MacroTools.CommandSystem.Command.html#MacroTools_CommandSystem_Command_ParameterCount
-  commentId: P:MacroTools.CommandSystem.Command.ParameterCount
-  fullName: MacroTools.CommandSystem.Command.ParameterCount
-  nameWithType: Command.ParameterCount
-- uid: MacroTools.CommandSystem.Command.ParameterCount*
-  name: ParameterCount
-  href: api-macroTools/MacroTools.CommandSystem.Command.html#MacroTools_CommandSystem_Command_ParameterCount_
-  commentId: Overload:MacroTools.CommandSystem.Command.ParameterCount
-  isSpec: "True"
-  fullName: MacroTools.CommandSystem.Command.ParameterCount
-  nameWithType: Command.ParameterCount
 - uid: MacroTools.CommandSystem.Command.Type
   name: Type
   href: api-macroTools/MacroTools.CommandSystem.Command.html#MacroTools_CommandSystem_Command_Type
