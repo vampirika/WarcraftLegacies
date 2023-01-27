@@ -9561,6 +9561,12 @@ references:
   isSpec: "True"
   fullName: MacroTools.Hazards.OilPool.Active
   nameWithType: OilPool.Active
+- uid: MacroTools.Hazards.OilPool.Disposed
+  name: Disposed
+  href: api-macroTools/MacroTools.Hazards.OilPool.html#MacroTools_Hazards_OilPool_Disposed
+  commentId: E:MacroTools.Hazards.OilPool.Disposed
+  fullName: MacroTools.Hazards.OilPool.Disposed
+  nameWithType: OilPool.Disposed
 - uid: MacroTools.Hazards.OilPool.OilAmount
   name: OilAmount
   href: api-macroTools/MacroTools.Hazards.OilPool.html#MacroTools_Hazards_OilPool_OilAmount
