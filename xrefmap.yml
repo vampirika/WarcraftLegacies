@@ -18740,32 +18740,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.SpellSystem.DummyCast.ChannelOnPoint
   nameWithType: DummyCast.ChannelOnPoint
-- uid: MacroTools.SpellSystem.DummyCast.DummyCastFromPointOnUnitsInCircle(unit,System.Int32,System.String,System.Int32,System.Single,System.Single,System.Single,System.Single,System.Single,MacroTools.SpellSystem.DummyCast.CastFilter)
-  name: DummyCastFromPointOnUnitsInCircle(unit, Int32, String, Int32, Single, Single, Single, Single, Single, DummyCast.CastFilter)
-  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastFromPointOnUnitsInCircle_unit_System_Int32_System_String_System_Int32_System_Single_System_Single_System_Single_System_Single_System_Single_MacroTools_SpellSystem_DummyCast_CastFilter_
-  commentId: M:MacroTools.SpellSystem.DummyCast.DummyCastFromPointOnUnitsInCircle(unit,System.Int32,System.String,System.Int32,System.Single,System.Single,System.Single,System.Single,System.Single,MacroTools.SpellSystem.DummyCast.CastFilter)
-  fullName: MacroTools.SpellSystem.DummyCast.DummyCastFromPointOnUnitsInCircle(unit, System.Int32, System.String, System.Int32, System.Single, System.Single, System.Single, System.Single, System.Single, MacroTools.SpellSystem.DummyCast.CastFilter)
-  nameWithType: DummyCast.DummyCastFromPointOnUnitsInCircle(unit, Int32, String, Int32, Single, Single, Single, Single, Single, DummyCast.CastFilter)
-- uid: MacroTools.SpellSystem.DummyCast.DummyCastFromPointOnUnitsInCircle*
-  name: DummyCastFromPointOnUnitsInCircle
-  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastFromPointOnUnitsInCircle_
-  commentId: Overload:MacroTools.SpellSystem.DummyCast.DummyCastFromPointOnUnitsInCircle
-  isSpec: "True"
-  fullName: MacroTools.SpellSystem.DummyCast.DummyCastFromPointOnUnitsInCircle
-  nameWithType: DummyCast.DummyCastFromPointOnUnitsInCircle
-- uid: MacroTools.SpellSystem.DummyCast.DummyCastInstant(player,System.Int32,System.String,System.Int32,System.Single,System.Single)
-  name: DummyCastInstant(player, Int32, String, Int32, Single, Single)
-  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastInstant_player_System_Int32_System_String_System_Int32_System_Single_System_Single_
-  commentId: M:MacroTools.SpellSystem.DummyCast.DummyCastInstant(player,System.Int32,System.String,System.Int32,System.Single,System.Single)
-  fullName: MacroTools.SpellSystem.DummyCast.DummyCastInstant(player, System.Int32, System.String, System.Int32, System.Single, System.Single)
-  nameWithType: DummyCast.DummyCastInstant(player, Int32, String, Int32, Single, Single)
-- uid: MacroTools.SpellSystem.DummyCast.DummyCastInstant*
-  name: DummyCastInstant
-  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastInstant_
-  commentId: Overload:MacroTools.SpellSystem.DummyCast.DummyCastInstant
-  isSpec: "True"
-  fullName: MacroTools.SpellSystem.DummyCast.DummyCastInstant
-  nameWithType: DummyCast.DummyCastInstant
 - uid: MacroTools.SpellSystem.DummyCast.DummyCastOnUnitsInCircle(unit,System.Int32,System.String,System.Int32,Point,System.Single,MacroTools.SpellSystem.DummyCast.CastFilter,MacroTools.SpellSystem.DummyCastOriginType)
   name: DummyCastOnUnitsInCircle(unit, Int32, String, Int32, Point, Single, DummyCast.CastFilter, DummyCastOriginType)
   href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastOnUnitsInCircle_unit_System_Int32_System_String_System_Int32_Point_System_Single_MacroTools_SpellSystem_DummyCast_CastFilter_MacroTools_SpellSystem_DummyCastOriginType_
@@ -18779,12 +18753,12 @@ references:
   isSpec: "True"
   fullName: MacroTools.SpellSystem.DummyCast.DummyCastOnUnitsInCircle
   nameWithType: DummyCast.DummyCastOnUnitsInCircle
-- uid: MacroTools.SpellSystem.DummyCast.DummyCastPoint(player,System.Int32,System.String,System.Int32,System.Single,System.Single)
-  name: DummyCastPoint(player, Int32, String, Int32, Single, Single)
-  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastPoint_player_System_Int32_System_String_System_Int32_System_Single_System_Single_
-  commentId: M:MacroTools.SpellSystem.DummyCast.DummyCastPoint(player,System.Int32,System.String,System.Int32,System.Single,System.Single)
-  fullName: MacroTools.SpellSystem.DummyCast.DummyCastPoint(player, System.Int32, System.String, System.Int32, System.Single, System.Single)
-  nameWithType: DummyCast.DummyCastPoint(player, Int32, String, Int32, Single, Single)
+- uid: MacroTools.SpellSystem.DummyCast.DummyCastPoint(player,System.Int32,System.String,System.Int32,Point)
+  name: DummyCastPoint(player, Int32, String, Int32, Point)
+  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastPoint_player_System_Int32_System_String_System_Int32_Point_
+  commentId: M:MacroTools.SpellSystem.DummyCast.DummyCastPoint(player,System.Int32,System.String,System.Int32,Point)
+  fullName: MacroTools.SpellSystem.DummyCast.DummyCastPoint(player, System.Int32, System.String, System.Int32, Point)
+  nameWithType: DummyCast.DummyCastPoint(player, Int32, String, Int32, Point)
 - uid: MacroTools.SpellSystem.DummyCast.DummyCastPoint*
   name: DummyCastPoint
   href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastPoint_
@@ -18805,45 +18779,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.SpellSystem.DummyCast.DummyCastUnit
   nameWithType: DummyCast.DummyCastUnit
-- uid: MacroTools.SpellSystem.DummyCast.DummyCastUnitFromPoint(player,System.Int32,System.String,System.Int32,unit,System.Single,System.Single)
-  name: DummyCastUnitFromPoint(player, Int32, String, Int32, unit, Single, Single)
-  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastUnitFromPoint_player_System_Int32_System_String_System_Int32_unit_System_Single_System_Single_
-  commentId: M:MacroTools.SpellSystem.DummyCast.DummyCastUnitFromPoint(player,System.Int32,System.String,System.Int32,unit,System.Single,System.Single)
-  fullName: MacroTools.SpellSystem.DummyCast.DummyCastUnitFromPoint(player, System.Int32, System.String, System.Int32, unit, System.Single, System.Single)
-  nameWithType: DummyCast.DummyCastUnitFromPoint(player, Int32, String, Int32, unit, Single, Single)
-- uid: MacroTools.SpellSystem.DummyCast.DummyCastUnitFromPoint*
-  name: DummyCastUnitFromPoint
-  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastUnitFromPoint_
-  commentId: Overload:MacroTools.SpellSystem.DummyCast.DummyCastUnitFromPoint
-  isSpec: "True"
-  fullName: MacroTools.SpellSystem.DummyCast.DummyCastUnitFromPoint
-  nameWithType: DummyCast.DummyCastUnitFromPoint
-- uid: MacroTools.SpellSystem.DummyCast.DummyCastUnitId(player,System.Int32,System.Int32,System.Int32,unit)
-  name: DummyCastUnitId(player, Int32, Int32, Int32, unit)
-  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastUnitId_player_System_Int32_System_Int32_System_Int32_unit_
-  commentId: M:MacroTools.SpellSystem.DummyCast.DummyCastUnitId(player,System.Int32,System.Int32,System.Int32,unit)
-  fullName: MacroTools.SpellSystem.DummyCast.DummyCastUnitId(player, System.Int32, System.Int32, System.Int32, unit)
-  nameWithType: DummyCast.DummyCastUnitId(player, Int32, Int32, Int32, unit)
-- uid: MacroTools.SpellSystem.DummyCast.DummyCastUnitId*
-  name: DummyCastUnitId
-  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastUnitId_
-  commentId: Overload:MacroTools.SpellSystem.DummyCast.DummyCastUnitId
-  isSpec: "True"
-  fullName: MacroTools.SpellSystem.DummyCast.DummyCastUnitId
-  nameWithType: DummyCast.DummyCastUnitId
-- uid: MacroTools.SpellSystem.DummyCast.DummyChannelInstantFromPoint(player,System.Int32,System.String,System.Int32,System.Single,System.Single,System.Single)
-  name: DummyChannelInstantFromPoint(player, Int32, String, Int32, Single, Single, Single)
-  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyChannelInstantFromPoint_player_System_Int32_System_String_System_Int32_System_Single_System_Single_System_Single_
-  commentId: M:MacroTools.SpellSystem.DummyCast.DummyChannelInstantFromPoint(player,System.Int32,System.String,System.Int32,System.Single,System.Single,System.Single)
-  fullName: MacroTools.SpellSystem.DummyCast.DummyChannelInstantFromPoint(player, System.Int32, System.String, System.Int32, System.Single, System.Single, System.Single)
-  nameWithType: DummyCast.DummyChannelInstantFromPoint(player, Int32, String, Int32, Single, Single, Single)
-- uid: MacroTools.SpellSystem.DummyCast.DummyChannelInstantFromPoint*
-  name: DummyChannelInstantFromPoint
-  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyChannelInstantFromPoint_
-  commentId: Overload:MacroTools.SpellSystem.DummyCast.DummyChannelInstantFromPoint
-  isSpec: "True"
-  fullName: MacroTools.SpellSystem.DummyCast.DummyChannelInstantFromPoint
-  nameWithType: DummyCast.DummyChannelInstantFromPoint
 - uid: MacroTools.SpellSystem.DummyCaster
   name: DummyCaster
   href: api-macroTools/MacroTools.SpellSystem.DummyCaster.html
