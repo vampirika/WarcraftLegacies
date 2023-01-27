@@ -30666,12 +30666,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.Quelthalas
   nameWithType: AllLegendSetup.Quelthalas
-- uid: WarcraftLegacies.Source.Setup.AllLegendSetup.RegisterLegends
-  name: RegisterLegends()
-  href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_RegisterLegends
-  commentId: M:WarcraftLegacies.Source.Setup.AllLegendSetup.RegisterLegends
-  fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.RegisterLegends()
-  nameWithType: AllLegendSetup.RegisterLegends()
+- uid: WarcraftLegacies.Source.Setup.AllLegendSetup.RegisterLegends(MacroTools.PreplacedUnitSystem)
+  name: RegisterLegends(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_RegisterLegends_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.AllLegendSetup.RegisterLegends(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.RegisterLegends(MacroTools.PreplacedUnitSystem)
+  nameWithType: AllLegendSetup.RegisterLegends(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.AllLegendSetup.RegisterLegends*
   name: RegisterLegends
   href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_RegisterLegends_
@@ -32041,25 +32041,6 @@ references:
   commentId: N:WarcraftLegacies.Source.Setup.Legends
   fullName: WarcraftLegacies.Source.Setup.Legends
   nameWithType: WarcraftLegacies.Source.Setup.Legends
-- uid: WarcraftLegacies.Source.Setup.Legends.IRegistersLegends
-  name: IRegistersLegends
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.IRegistersLegends.html
-  commentId: T:WarcraftLegacies.Source.Setup.Legends.IRegistersLegends
-  fullName: WarcraftLegacies.Source.Setup.Legends.IRegistersLegends
-  nameWithType: IRegistersLegends
-- uid: WarcraftLegacies.Source.Setup.Legends.IRegistersLegends.RegisterLegends
-  name: RegisterLegends()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.IRegistersLegends.html#WarcraftLegacies_Source_Setup_Legends_IRegistersLegends_RegisterLegends
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.IRegistersLegends.RegisterLegends
-  fullName: WarcraftLegacies.Source.Setup.Legends.IRegistersLegends.RegisterLegends()
-  nameWithType: IRegistersLegends.RegisterLegends()
-- uid: WarcraftLegacies.Source.Setup.Legends.IRegistersLegends.RegisterLegends*
-  name: RegisterLegends
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.IRegistersLegends.html#WarcraftLegacies_Source_Setup_Legends_IRegistersLegends_RegisterLegends_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.IRegistersLegends.RegisterLegends
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.IRegistersLegends.RegisterLegends
-  nameWithType: IRegistersLegends.RegisterLegends
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDalaran
   name: LegendDalaran
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDalaran.html
@@ -33873,12 +33854,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.Kelthuzad
   nameWithType: LegendScourge.Kelthuzad
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.RegisterLegends
-  name: RegisterLegends()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_RegisterLegends
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendScourge.RegisterLegends
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.RegisterLegends()
-  nameWithType: LegendScourge.RegisterLegends()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.RegisterLegends(MacroTools.PreplacedUnitSystem)
+  name: RegisterLegends(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_RegisterLegends_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendScourge.RegisterLegends(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendScourge.RegisterLegends(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendScourge.RegisterLegends(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendScourge.RegisterLegends*
   name: RegisterLegends
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html#WarcraftLegacies_Source_Setup_Legends_LegendScourge_RegisterLegends_

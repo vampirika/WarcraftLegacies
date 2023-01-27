@@ -7017,7 +7017,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html",
-          "hash": "rNxObEVmJHmkmxi1izcGbQ=="
+          "hash": "9Y353lFu7mx3QwYd0QIBCQ=="
         }
       },
       "is_incremental": false,
@@ -7553,23 +7553,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.IRegistersLegends.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.IRegistersLegends.html",
-          "hash": "AVDHatHzdhftFfJz08Gvrw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDalaran.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDalaran.html",
-          "hash": "0b7crnYaPykqGEVjxj4pnw=="
+          "hash": "7WJv4j/xlSXKkZXxvyGNMA=="
         }
       },
       "is_incremental": false,
@@ -7581,7 +7569,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDraenei.html",
-          "hash": "uB/bwc7CogXYEYSki1146w=="
+          "hash": "W254lBYJ7VBX/kuG7Fo/dQ=="
         }
       },
       "is_incremental": false,
@@ -7593,7 +7581,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDruids.html",
-          "hash": "lhacPFv07fB1AgpTMFanwQ=="
+          "hash": "dwl7sZfXYUXEjbHA2JGOwA=="
         }
       },
       "is_incremental": false,
@@ -7605,7 +7593,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.html",
-          "hash": "dgBL8dPo1bbMRE8tRKK57w=="
+          "hash": "hXuuTeqSyOOaphS9gjKcrA=="
         }
       },
       "is_incremental": false,
@@ -7617,7 +7605,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.html",
-          "hash": "zEknGDcDxt7+LqkyInMyrg=="
+          "hash": "fCf+4ZFGyiJQkV+4l9brXA=="
         }
       },
       "is_incremental": false,
@@ -7629,7 +7617,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendGoblin.html",
-          "hash": "f4HZ7K6Zy46VjD7kqI7wyg=="
+          "hash": "AjEVgY55RxlEPVFJv/4JnA=="
         }
       },
       "is_incremental": false,
@@ -7641,7 +7629,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendIronforge.html",
-          "hash": "8InmFEUcB7tZ2GvLt4l8Xg=="
+          "hash": "4nGJ2RwwjxqHaLBZi/M4qg=="
         }
       },
       "is_incremental": false,
@@ -7653,7 +7641,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendKultiras.html",
-          "hash": "21eY+FKq+qUWT2B2YKapnw=="
+          "hash": "xPJ0fwQDy42tvrWLqMLbgQ=="
         }
       },
       "is_incremental": false,
@@ -7665,7 +7653,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendLegion.html",
-          "hash": "488w2H36ucBYkUKSQYwk0w=="
+          "hash": "wcPadZ5EKQvI8BMEOmL9vg=="
         }
       },
       "is_incremental": false,
@@ -7677,7 +7665,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.html",
-          "hash": "RjI7AbEgHiIrwetVAowTLg=="
+          "hash": "dzvAmNpPClf1zbZ7RKJ+Ww=="
         }
       },
       "is_incremental": false,
@@ -7689,7 +7677,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendNaga.html",
-          "hash": "V/sSp8maJm88XCk4wRmdzA=="
+          "hash": "oAazal+n4VLYex9f7jhtPQ=="
         }
       },
       "is_incremental": false,
@@ -7701,7 +7689,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html",
-          "hash": "WxVn5PEboRusmxdly2TikA=="
+          "hash": "Lxs4k1BBy83Sb0wY25RAVQ=="
         }
       },
       "is_incremental": false,
@@ -7713,7 +7701,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.html",
-          "hash": "hRUWQjKNSMyr6kPp0GdjQQ=="
+          "hash": "nJPwH8XDRNGK3l8zEBU/SA=="
         }
       },
       "is_incremental": false,
@@ -7725,7 +7713,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html",
-          "hash": "/l3orm7Apjpw/sucwsnX8A=="
+          "hash": "tbz+D9rqUnJQis7Qeef/vA=="
         }
       },
       "is_incremental": false,
@@ -7737,7 +7725,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html",
-          "hash": "mqWKtYd2genOdaodcY0Sdw=="
+          "hash": "lJhchV4IIhAnBuilPwETCA=="
         }
       },
       "is_incremental": false,
@@ -7749,7 +7737,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendStormwind.html",
-          "hash": "uIlLiKs+yXuuHgLhNgUJjg=="
+          "hash": "rE1AasETR4ZRTju3fzrbrA=="
         }
       },
       "is_incremental": false,
@@ -7761,7 +7749,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html",
-          "hash": "Usy0GTE/ls8h9roofr+oVw=="
+          "hash": "7CgGldSHGpKExFFek663mA=="
         }
       },
       "is_incremental": false,
@@ -7773,7 +7761,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.html",
-          "hash": "jDbKYLkhDuRjHQstDCrAwQ=="
+          "hash": "1i01hRBzN+wSV5LeBGHAlw=="
         }
       },
       "is_incremental": false,
@@ -8457,7 +8445,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "gMmmDpmcEGiaSEjWUEUE3Q=="
+          "hash": "26c7Pl3bMvR3ujwozMi3yQ=="
         }
       },
       "is_incremental": false,
@@ -8532,7 +8520,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 703,
+          "total_file_count": 702,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
