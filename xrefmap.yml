@@ -21935,6 +21935,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestCrystalGolem.QuestCrystalGolem
   nameWithType: QuestCrystalGolem.QuestCrystalGolem
+- uid: WarcraftLegacies.Source.Quests.Dalaran.QuestCrystalGolem.OnAdd(MacroTools.FactionSystem.Faction)
+  name: OnAdd(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestCrystalGolem.html#WarcraftLegacies_Source_Quests_Dalaran_QuestCrystalGolem_OnAdd_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Dalaran.QuestCrystalGolem.OnAdd(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestCrystalGolem.OnAdd(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestCrystalGolem.OnAdd(Faction)
+- uid: WarcraftLegacies.Source.Quests.Dalaran.QuestCrystalGolem.OnAdd*
+  name: OnAdd
+  href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestCrystalGolem.html#WarcraftLegacies_Source_Quests_Dalaran_QuestCrystalGolem_OnAdd_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dalaran.QuestCrystalGolem.OnAdd
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestCrystalGolem.OnAdd
+  nameWithType: QuestCrystalGolem.OnAdd
 - uid: WarcraftLegacies.Source.Quests.Dalaran.QuestCrystalGolem.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
   href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestCrystalGolem.html#WarcraftLegacies_Source_Quests_Dalaran_QuestCrystalGolem_OnComplete_MacroTools_FactionSystem_Faction_
@@ -25723,6 +25736,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Legion.QuestLegionCaptureSunwell.OnAdd
   nameWithType: QuestLegionCaptureSunwell.OnAdd
+- uid: WarcraftLegacies.Source.Quests.Legion.QuestLegionCaptureSunwell.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestLegionCaptureSunwell.html#WarcraftLegacies_Source_Quests_Legion_QuestLegionCaptureSunwell_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Legion.QuestLegionCaptureSunwell.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Legion.QuestLegionCaptureSunwell.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestLegionCaptureSunwell.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Legion.QuestLegionCaptureSunwell.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestLegionCaptureSunwell.html#WarcraftLegacies_Source_Quests_Legion_QuestLegionCaptureSunwell_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Legion.QuestLegionCaptureSunwell.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Legion.QuestLegionCaptureSunwell.OnComplete
+  nameWithType: QuestLegionCaptureSunwell.OnComplete
 - uid: WarcraftLegacies.Source.Quests.Legion.QuestLegionCaptureSunwell.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestLegionCaptureSunwell.html#WarcraftLegacies_Source_Quests_Legion_QuestLegionCaptureSunwell_RewardDescription
