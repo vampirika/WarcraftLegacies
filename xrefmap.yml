@@ -30230,6 +30230,38 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.Setup
   nameWithType: DeeprunTram.Setup
+- uid: WarcraftLegacies.Source.Researches.PowerResearch
+  name: PowerResearch
+  href: api-source/WarcraftLegacies.Source.Researches.PowerResearch.html
+  commentId: T:WarcraftLegacies.Source.Researches.PowerResearch
+  fullName: WarcraftLegacies.Source.Researches.PowerResearch
+  nameWithType: PowerResearch
+- uid: WarcraftLegacies.Source.Researches.PowerResearch.#ctor(System.Int32,System.Int32,System.Int32,MacroTools.FactionSystem.Power)
+  name: PowerResearch(Int32, Int32, Int32, Power)
+  href: api-source/WarcraftLegacies.Source.Researches.PowerResearch.html#WarcraftLegacies_Source_Researches_PowerResearch__ctor_System_Int32_System_Int32_System_Int32_MacroTools_FactionSystem_Power_
+  commentId: M:WarcraftLegacies.Source.Researches.PowerResearch.#ctor(System.Int32,System.Int32,System.Int32,MacroTools.FactionSystem.Power)
+  fullName: WarcraftLegacies.Source.Researches.PowerResearch.PowerResearch(System.Int32, System.Int32, System.Int32, MacroTools.FactionSystem.Power)
+  nameWithType: PowerResearch.PowerResearch(Int32, Int32, Int32, Power)
+- uid: WarcraftLegacies.Source.Researches.PowerResearch.#ctor*
+  name: PowerResearch
+  href: api-source/WarcraftLegacies.Source.Researches.PowerResearch.html#WarcraftLegacies_Source_Researches_PowerResearch__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Researches.PowerResearch.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Researches.PowerResearch.PowerResearch
+  nameWithType: PowerResearch.PowerResearch
+- uid: WarcraftLegacies.Source.Researches.PowerResearch.OnResearch(player)
+  name: OnResearch(player)
+  href: api-source/WarcraftLegacies.Source.Researches.PowerResearch.html#WarcraftLegacies_Source_Researches_PowerResearch_OnResearch_player_
+  commentId: M:WarcraftLegacies.Source.Researches.PowerResearch.OnResearch(player)
+  fullName: WarcraftLegacies.Source.Researches.PowerResearch.OnResearch(player)
+  nameWithType: PowerResearch.OnResearch(player)
+- uid: WarcraftLegacies.Source.Researches.PowerResearch.OnResearch*
+  name: OnResearch
+  href: api-source/WarcraftLegacies.Source.Researches.PowerResearch.html#WarcraftLegacies_Source_Researches_PowerResearch_OnResearch_
+  commentId: Overload:WarcraftLegacies.Source.Researches.PowerResearch.OnResearch
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Researches.PowerResearch.OnResearch
+  nameWithType: PowerResearch.OnResearch
 - uid: WarcraftLegacies.Source.Researches.Revenants
   name: Revenants
   href: api-source/WarcraftLegacies.Source.Researches.Revenants.html

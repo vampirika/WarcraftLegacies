@@ -6869,6 +6869,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.PowerResearch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Researches.PowerResearch.html",
+          "hash": "xRDA9GczTgXK8ydybVjvrw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Revenants.yml",
       "output": {
         ".html": {
@@ -6969,7 +6981,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Researches.html",
-          "hash": "3U3hItYg32+tY6UeETPPKQ=="
+          "hash": "0qRZ0nPF1kma4viNARJEMA=="
         }
       },
       "is_incremental": false,
@@ -8457,7 +8469,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "hRptvc+uKCAdGEeg9WgUjA=="
+          "hash": "TnFBjFZreAIuvgq5ayiLDA=="
         }
       },
       "is_incremental": false,
@@ -8532,7 +8544,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 703,
+          "total_file_count": 704,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
