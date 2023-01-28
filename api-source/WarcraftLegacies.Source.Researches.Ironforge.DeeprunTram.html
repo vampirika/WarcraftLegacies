@@ -80,31 +80,49 @@ and connected to eachother.</p>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><span class="xref">System.Object</span></div>
-    <div class="level1"><span class="xref">DeeprunTram</span></div>
+    <div class="level1"><a class="xref" href="../api-macroTools/MacroTools.ResearchSystems.Research.html">Research</a></div>
+    <div class="level2"><span class="xref">DeeprunTram</span></div>
+  </div>
+  <div class="inheritedMembers">
+    <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="../api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_IncompatibleWith">Research.IncompatibleWith</a>
+    </div>
+    <div>
+      <a class="xref" href="../api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_GoldCost">Research.GoldCost</a>
+    </div>
+    <div>
+      <a class="xref" href="../api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_LumberCost">Research.LumberCost</a>
+    </div>
+    <div>
+      <a class="xref" href="../api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_ResearchTypeId">Research.ResearchTypeId</a>
+    </div>
+    <div>
+      <a class="xref" href="../api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_Refund_player_System_Boolean_">Research.Refund(player, Boolean)</a>
+    </div>
   </div>
   <h6><strong>Namespace</strong>: <a class="xref" href="WarcraftLegacies.Source.Researches.Ironforge.html">WarcraftLegacies.Source.Researches.Ironforge</a></h6>
   <h6><strong>Assembly</strong>: WarcraftLegacies.Source.dll</h6>
   <h5 id="WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static class DeeprunTram : object</code></pre>
+    <pre><code class="lang-csharp hljs">public sealed class DeeprunTram : Research</code></pre>
   </div>
-  <h3 id="methods">Methods
+  <h3 id="constructors">Constructors
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram_Setup_MacroTools_PreplacedUnitSystem_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.Setup(MacroTools.PreplacedUnitSystem)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram__ctor_System_Int32_System_Int32_System_Int32_MacroTools_PreplacedUnitSystem_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.%23ctor(System.Int32%2CSystem.Int32%2CSystem.Int32%2CMacroTools.PreplacedUnitSystem)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Researches/Ironforge/DeeprunTram.cs/#L73">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Researches/Ironforge/DeeprunTram.cs/#L23">View Source</a>
   </span>
-  <a id="WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram_Setup_" data-uid="WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.Setup*"></a>
-  <h4 id="WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram_Setup_MacroTools_PreplacedUnitSystem_" data-uid="WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.Setup(MacroTools.PreplacedUnitSystem)">Setup(PreplacedUnitSystem)</h4>
-  <div class="markdown level1 summary"><p>Registers the event that allows the Deeprun Tram research to take effect.</p>
-</div>
+  <a id="WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram__ctor_" data-uid="WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.#ctor*"></a>
+  <h4 id="WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram__ctor_System_Int32_System_Int32_System_Int32_MacroTools_PreplacedUnitSystem_" data-uid="WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.#ctor(System.Int32,System.Int32,System.Int32,MacroTools.PreplacedUnitSystem)">DeeprunTram(Int32, Int32, Int32, PreplacedUnitSystem)</h4>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static void Setup(PreplacedUnitSystem preplacedUnitSystem)</code></pre>
+    <pre><code class="lang-csharp hljs">public DeeprunTram(int researchTypeId, int goldCost, int lumberCost, PreplacedUnitSystem preplacedUnitSystem)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -117,8 +135,74 @@ and connected to eachother.</p>
     </thead>
     <tbody>
       <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><span class="parametername">researchTypeId</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><span class="parametername">goldCost</span></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><span class="parametername">lumberCost</span></td>
+        <td></td>
+      </tr>
+      <tr>
         <td><a class="xref" href="../api-macroTools/MacroTools.PreplacedUnitSystem.html">PreplacedUnitSystem</a></td>
         <td><span class="parametername">preplacedUnitSystem</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram_OnRegister.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.OnRegister%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Researches/Ironforge/DeeprunTram.cs/#L64">View Source</a>
+  </span>
+  <a id="WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram_OnRegister_" data-uid="WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.OnRegister*"></a>
+  <h4 id="WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram_OnRegister" data-uid="WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.OnRegister">OnRegister()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override void OnRegister()</code></pre>
+  </div>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="../api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_OnRegister">Research.OnRegister()</a></div>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram_OnResearch_player_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.OnResearch(player)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Researches/Ironforge/DeeprunTram.cs/#L32">View Source</a>
+  </span>
+  <a id="WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram_OnResearch_" data-uid="WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.OnResearch*"></a>
+  <h4 id="WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram_OnResearch_player_" data-uid="WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.OnResearch(player)">OnResearch(player)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override void OnResearch(player researchingPlayer)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">player</span></td>
+        <td><span class="parametername">researchingPlayer</span></td>
         <td></td>
       </tr>
     </tbody>

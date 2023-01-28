@@ -15444,6 +15444,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.ResearchSystems.Research.LumberCost
   nameWithType: Research.LumberCost
+- uid: MacroTools.ResearchSystems.Research.OnRegister
+  name: OnRegister()
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_OnRegister
+  commentId: M:MacroTools.ResearchSystems.Research.OnRegister
+  fullName: MacroTools.ResearchSystems.Research.OnRegister()
+  nameWithType: Research.OnRegister()
+- uid: MacroTools.ResearchSystems.Research.OnRegister*
+  name: OnRegister
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_OnRegister_
+  commentId: Overload:MacroTools.ResearchSystems.Research.OnRegister
+  isSpec: "True"
+  fullName: MacroTools.ResearchSystems.Research.OnRegister
+  nameWithType: Research.OnRegister
 - uid: MacroTools.ResearchSystems.Research.OnResearch(player)
   name: OnResearch(player)
   href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_OnResearch_player_
@@ -15457,12 +15470,12 @@ references:
   isSpec: "True"
   fullName: MacroTools.ResearchSystems.Research.OnResearch
   nameWithType: Research.OnResearch
-- uid: MacroTools.ResearchSystems.Research.Refund(player)
-  name: Refund(player)
-  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_Refund_player_
-  commentId: M:MacroTools.ResearchSystems.Research.Refund(player)
-  fullName: MacroTools.ResearchSystems.Research.Refund(player)
-  nameWithType: Research.Refund(player)
+- uid: MacroTools.ResearchSystems.Research.Refund(player,System.Boolean)
+  name: Refund(player, Boolean)
+  href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_Refund_player_System_Boolean_
+  commentId: M:MacroTools.ResearchSystems.Research.Refund(player,System.Boolean)
+  fullName: MacroTools.ResearchSystems.Research.Refund(player, System.Boolean)
+  nameWithType: Research.Refund(player, Boolean)
 - uid: MacroTools.ResearchSystems.Research.Refund*
   name: Refund
   href: api-macroTools/MacroTools.ResearchSystems.Research.html#MacroTools_ResearchSystems_Research_Refund_
@@ -30217,19 +30230,45 @@ references:
   commentId: T:WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram
   fullName: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram
   nameWithType: DeeprunTram
-- uid: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.html#WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: DeeprunTram.Setup(PreplacedUnitSystem)
-- uid: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.html#WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.Setup
+- uid: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.#ctor(System.Int32,System.Int32,System.Int32,MacroTools.PreplacedUnitSystem)
+  name: DeeprunTram(Int32, Int32, Int32, PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.html#WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram__ctor_System_Int32_System_Int32_System_Int32_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.#ctor(System.Int32,System.Int32,System.Int32,MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.DeeprunTram(System.Int32, System.Int32, System.Int32, MacroTools.PreplacedUnitSystem)
+  nameWithType: DeeprunTram.DeeprunTram(Int32, Int32, Int32, PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.#ctor*
+  name: DeeprunTram
+  href: api-source/WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.html#WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.#ctor
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.Setup
-  nameWithType: DeeprunTram.Setup
+  fullName: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.DeeprunTram
+  nameWithType: DeeprunTram.DeeprunTram
+- uid: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.OnRegister
+  name: OnRegister()
+  href: api-source/WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.html#WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram_OnRegister
+  commentId: M:WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.OnRegister
+  fullName: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.OnRegister()
+  nameWithType: DeeprunTram.OnRegister()
+- uid: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.OnRegister*
+  name: OnRegister
+  href: api-source/WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.html#WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram_OnRegister_
+  commentId: Overload:WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.OnRegister
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.OnRegister
+  nameWithType: DeeprunTram.OnRegister
+- uid: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.OnResearch(player)
+  name: OnResearch(player)
+  href: api-source/WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.html#WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram_OnResearch_player_
+  commentId: M:WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.OnResearch(player)
+  fullName: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.OnResearch(player)
+  nameWithType: DeeprunTram.OnResearch(player)
+- uid: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.OnResearch*
+  name: OnResearch
+  href: api-source/WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.html#WarcraftLegacies_Source_Researches_Ironforge_DeeprunTram_OnResearch_
+  commentId: Overload:WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.OnResearch
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.OnResearch
+  nameWithType: DeeprunTram.OnResearch
 - uid: WarcraftLegacies.Source.Researches.PowerResearch
   name: PowerResearch
   href: api-source/WarcraftLegacies.Source.Researches.PowerResearch.html

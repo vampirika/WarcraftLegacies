@@ -264,6 +264,22 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ResearchSystems_Research_OnRegister.md&amp;value=---%0Auid%3A%20MacroTools.ResearchSystems.Research.OnRegister%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ResearchSystems/Research.cs/#L51">View Source</a>
+  </span>
+  <a id="MacroTools_ResearchSystems_Research_OnRegister_" data-uid="MacroTools.ResearchSystems.Research.OnRegister*"></a>
+  <h4 id="MacroTools_ResearchSystems_Research_OnRegister" data-uid="MacroTools.ResearchSystems.Research.OnRegister">OnRegister()</h4>
+  <div class="markdown level1 summary"><p>Invoked when the <a class="xref" href="MacroTools.ResearchSystems.Research.html">Research</a> is registered.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public virtual void OnRegister()</code></pre>
+  </div>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ResearchSystems_Research_OnResearch_player_.md&amp;value=---%0Auid%3A%20MacroTools.ResearchSystems.Research.OnResearch(player)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
@@ -297,19 +313,19 @@
   </table>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ResearchSystems_Research_Refund_player_.md&amp;value=---%0Auid%3A%20MacroTools.ResearchSystems.Research.Refund(player)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ResearchSystems_Research_Refund_player_System_Boolean_.md&amp;value=---%0Auid%3A%20MacroTools.ResearchSystems.Research.Refund(player%2CSystem.Boolean)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ResearchSystems/Research.cs/#L52">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ResearchSystems/Research.cs/#L60">View Source</a>
   </span>
   <a id="MacroTools_ResearchSystems_Research_Refund_" data-uid="MacroTools.ResearchSystems.Research.Refund*"></a>
-  <h4 id="MacroTools_ResearchSystems_Research_Refund_player_" data-uid="MacroTools.ResearchSystems.Research.Refund(player)">Refund(player)</h4>
+  <h4 id="MacroTools_ResearchSystems_Research_Refund_player_System_Boolean_" data-uid="MacroTools.ResearchSystems.Research.Refund(player,System.Boolean)">Refund(player, Boolean)</h4>
   <div class="markdown level1 summary"><p>Unresearches the research and returns all gold and lumber spent on it.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void Refund(player researchingPlayer)</code></pre>
+    <pre><code class="lang-csharp hljs">public void Refund(player researchingPlayer, bool unresearch = true)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -325,6 +341,12 @@
         <td><span class="xref">player</span></td>
         <td><span class="parametername">researchingPlayer</span></td>
         <td></td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><span class="parametername">unresearch</span></td>
+        <td><p>If true, the research will be unresearched for the player as well.</p>
+</td>
       </tr>
     </tbody>
   </table>
