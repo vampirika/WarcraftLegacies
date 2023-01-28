@@ -23491,6 +23491,77 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.RewardFlavour
   nameWithType: QuestBlackrock.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal
+  name: QuestDarkPortal
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.html
+  commentId: T:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal
+  nameWithType: QuestDarkPortal
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.#ctor(unit,unit,unit,unit,unit,unit)
+  name: QuestDarkPortal(unit, unit, unit, unit, unit, unit)
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortal__ctor_unit_unit_unit_unit_unit_unit_
+  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.#ctor(unit,unit,unit,unit,unit,unit)
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.QuestDarkPortal(unit, unit, unit, unit, unit, unit)
+  nameWithType: QuestDarkPortal.QuestDarkPortal(unit, unit, unit, unit, unit, unit)
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.#ctor*
+  name: QuestDarkPortal
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortal__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.QuestDarkPortal
+  nameWithType: QuestDarkPortal.QuestDarkPortal
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortal_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestDarkPortal.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortal_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnComplete
+  nameWithType: QuestDarkPortal.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnFail(MacroTools.FactionSystem.Faction)
+  name: OnFail(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortal_OnFail_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnFail(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnFail(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestDarkPortal.OnFail(Faction)
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnFail*
+  name: OnFail
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortal_OnFail_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnFail
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnFail
+  nameWithType: QuestDarkPortal.OnFail
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortal_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.RewardDescription
+  nameWithType: QuestDarkPortal.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortal_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.RewardDescription
+  nameWithType: QuestDarkPortal.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortal_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.RewardFlavour
+  nameWithType: QuestDarkPortal.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortal_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.RewardFlavour
+  nameWithType: QuestDarkPortal.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestFelHordeKillIronforge
   name: QuestFelHordeKillIronforge
   href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestFelHordeKillIronforge.html
@@ -34377,12 +34448,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup
   nameWithType: FelHordeQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup(WarcraftLegacies.Source.Setup.AllLegendSetup)
-  name: Setup(AllLegendSetup)
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_FelHordeQuestSetup_Setup_WarcraftLegacies_Source_Setup_AllLegendSetup_
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup(WarcraftLegacies.Source.Setup.AllLegendSetup)
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup(WarcraftLegacies.Source.Setup.AllLegendSetup)
-  nameWithType: FelHordeQuestSetup.Setup(AllLegendSetup)
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
+  name: Setup(PreplacedUnitSystem, AllLegendSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_FelHordeQuestSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_AllLegendSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.AllLegendSetup)
+  nameWithType: FelHordeQuestSetup.Setup(PreplacedUnitSystem, AllLegendSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_FelHordeQuestSetup_Setup_

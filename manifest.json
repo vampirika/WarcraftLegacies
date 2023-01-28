@@ -5457,7 +5457,19 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.html",
-          "hash": "FVUNlSBSHR3ksW97OG5JdQ=="
+          "hash": "vE7D81jjhwceC4AXASGkoA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.html",
+          "hash": "tUBfDBe9+1hvtnpFolICFA=="
         }
       },
       "is_incremental": false,
@@ -5529,7 +5541,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.html",
-          "hash": "epyEcMwS2yKM6mU1EDaNYg=="
+          "hash": "56E5FUhRC/tMdUrdo9w9pQ=="
         }
       },
       "is_incremental": false,
@@ -7857,7 +7869,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.html",
-          "hash": "ofxtWH7IdRE4/LU2F39Rug=="
+          "hash": "8+MufgUHfoKB6OQX7f6mSw=="
         }
       },
       "is_incremental": false,
@@ -8445,7 +8457,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "SI5YIM7DSrmX4qJpGowOmQ=="
+          "hash": "hRptvc+uKCAdGEeg9WgUjA=="
         }
       },
       "is_incremental": false,
@@ -8520,7 +8532,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 702,
+          "total_file_count": 703,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
