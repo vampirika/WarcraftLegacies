@@ -10552,19 +10552,6 @@ references:
   commentId: T:MacroTools.Libraries.GeneralHelpers
   fullName: MacroTools.Libraries.GeneralHelpers
   nameWithType: GeneralHelpers
-- uid: MacroTools.Libraries.GeneralHelpers.CameraSetEarthquakeNoise(System.Single)
-  name: CameraSetEarthquakeNoise(Single)
-  href: api-macroTools/MacroTools.Libraries.GeneralHelpers.html#MacroTools_Libraries_GeneralHelpers_CameraSetEarthquakeNoise_System_Single_
-  commentId: M:MacroTools.Libraries.GeneralHelpers.CameraSetEarthquakeNoise(System.Single)
-  fullName: MacroTools.Libraries.GeneralHelpers.CameraSetEarthquakeNoise(System.Single)
-  nameWithType: GeneralHelpers.CameraSetEarthquakeNoise(Single)
-- uid: MacroTools.Libraries.GeneralHelpers.CameraSetEarthquakeNoise*
-  name: CameraSetEarthquakeNoise
-  href: api-macroTools/MacroTools.Libraries.GeneralHelpers.html#MacroTools_Libraries_GeneralHelpers_CameraSetEarthquakeNoise_
-  commentId: Overload:MacroTools.Libraries.GeneralHelpers.CameraSetEarthquakeNoise
-  isSpec: "True"
-  fullName: MacroTools.Libraries.GeneralHelpers.CameraSetEarthquakeNoise
-  nameWithType: GeneralHelpers.CameraSetEarthquakeNoise
 - uid: MacroTools.Libraries.GeneralHelpers.CreateStructureForced(player,System.Int32,System.Single,System.Single,System.Single,System.Single)
   name: CreateStructureForced(player, Int32, Single, Single, Single, Single)
   href: api-macroTools/MacroTools.Libraries.GeneralHelpers.html#MacroTools_Libraries_GeneralHelpers_CreateStructureForced_player_System_Int32_System_Single_System_Single_System_Single_System_Single_
@@ -10617,19 +10604,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Libraries.GeneralHelpers.EnumDestructablesInCircle
   nameWithType: GeneralHelpers.EnumDestructablesInCircle
-- uid: MacroTools.Libraries.GeneralHelpers.GetPositionZ(System.Single,System.Single)
-  name: GetPositionZ(Single, Single)
-  href: api-macroTools/MacroTools.Libraries.GeneralHelpers.html#MacroTools_Libraries_GeneralHelpers_GetPositionZ_System_Single_System_Single_
-  commentId: M:MacroTools.Libraries.GeneralHelpers.GetPositionZ(System.Single,System.Single)
-  fullName: MacroTools.Libraries.GeneralHelpers.GetPositionZ(System.Single, System.Single)
-  nameWithType: GeneralHelpers.GetPositionZ(Single, Single)
-- uid: MacroTools.Libraries.GeneralHelpers.GetPositionZ*
-  name: GetPositionZ
-  href: api-macroTools/MacroTools.Libraries.GeneralHelpers.html#MacroTools_Libraries_GeneralHelpers_GetPositionZ_
-  commentId: Overload:MacroTools.Libraries.GeneralHelpers.GetPositionZ
-  isSpec: "True"
-  fullName: MacroTools.Libraries.GeneralHelpers.GetPositionZ
-  nameWithType: GeneralHelpers.GetPositionZ
 - uid: MacroTools.Libraries.GeneralHelpers.GetRectFromCircle(Point,System.Single)
   name: GetRectFromCircle(Point, Single)
   href: api-macroTools/MacroTools.Libraries.GeneralHelpers.html#MacroTools_Libraries_GeneralHelpers_GetRectFromCircle_Point_System_Single_
@@ -10656,19 +10630,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Libraries.GeneralHelpers.KillNeutralHostileUnitsInRadius
   nameWithType: GeneralHelpers.KillNeutralHostileUnitsInRadius
-- uid: MacroTools.Libraries.GeneralHelpers.PlayDialogue(player,sound,System.String,System.String)
-  name: PlayDialogue(player, sound, String, String)
-  href: api-macroTools/MacroTools.Libraries.GeneralHelpers.html#MacroTools_Libraries_GeneralHelpers_PlayDialogue_player_sound_System_String_System_String_
-  commentId: M:MacroTools.Libraries.GeneralHelpers.PlayDialogue(player,sound,System.String,System.String)
-  fullName: MacroTools.Libraries.GeneralHelpers.PlayDialogue(player, sound, System.String, System.String)
-  nameWithType: GeneralHelpers.PlayDialogue(player, sound, String, String)
-- uid: MacroTools.Libraries.GeneralHelpers.PlayDialogue*
-  name: PlayDialogue
-  href: api-macroTools/MacroTools.Libraries.GeneralHelpers.html#MacroTools_Libraries_GeneralHelpers_PlayDialogue_
-  commentId: Overload:MacroTools.Libraries.GeneralHelpers.PlayDialogue
-  isSpec: "True"
-  fullName: MacroTools.Libraries.GeneralHelpers.PlayDialogue
-  nameWithType: GeneralHelpers.PlayDialogue
 - uid: MacroTools.Libraries.GeneralHelpers.RectToRegion(rect)
   name: RectToRegion(rect)
   href: api-macroTools/MacroTools.Libraries.GeneralHelpers.html#MacroTools_Libraries_GeneralHelpers_RectToRegion_rect_
