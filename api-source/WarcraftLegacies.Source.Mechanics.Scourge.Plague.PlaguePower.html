@@ -110,20 +110,38 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlaguePower__ctor.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlaguePower.%23ctor%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlaguePower__ctor_MacroTools_FactionSystem_Faction_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlaguePower.%23ctor(MacroTools.FactionSystem.Faction)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Mechanics/Scourge/Plague/PlaguePower.cs/#L58">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Mechanics/Scourge/Plague/PlaguePower.cs/#L61">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlaguePower__ctor_" data-uid="WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlaguePower.#ctor*"></a>
-  <h4 id="WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlaguePower__ctor" data-uid="WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlaguePower.#ctor">PlaguePower()</h4>
+  <h4 id="WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlaguePower__ctor_MacroTools_FactionSystem_Faction_" data-uid="WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlaguePower.#ctor(MacroTools.FactionSystem.Faction)">PlaguePower(Faction)</h4>
   <div class="markdown level1 summary"><p>Causes <a class="xref" href="../api-macroTools/MacroTools.FactionSystem.Power.html">Power</a> holder to periodically convert villagers on the map into Zombies.</p>
+<param name="victim">Only this faction will spawn villagers from their buildings when they die.
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public PlaguePower()</code></pre>
+    <pre><code class="lang-csharp hljs">public PlaguePower(Faction victim)</code></pre>
   </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="../api-macroTools/MacroTools.FactionSystem.Faction.html">Faction</a></td>
+        <td><span class="parametername">victim</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
   <h3 id="methods">Methods
   </h3>
   <span class="small pull-right mobile-hide">
@@ -131,7 +149,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlaguePower_OnAdd_player_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlaguePower.OnAdd(player)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Mechanics/Scourge/Plague/PlaguePower.cs/#L66">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Mechanics/Scourge/Plague/PlaguePower.cs/#L70">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlaguePower_OnAdd_" data-uid="WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlaguePower.OnAdd*"></a>
   <h4 id="WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlaguePower_OnAdd_player_" data-uid="WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlaguePower.OnAdd(player)">OnAdd(player)</h4>
@@ -163,7 +181,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlaguePower_OnRemove_player_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlaguePower.OnRemove(player)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Mechanics/Scourge/Plague/PlaguePower.cs/#L106">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Mechanics/Scourge/Plague/PlaguePower.cs/#L110">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlaguePower_OnRemove_" data-uid="WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlaguePower.OnRemove*"></a>
   <h4 id="WarcraftLegacies_Source_Mechanics_Scourge_Plague_PlaguePower_OnRemove_player_" data-uid="WarcraftLegacies.Source.Mechanics.Scourge.Plague.PlaguePower.OnRemove(player)">OnRemove(player)</h4>
