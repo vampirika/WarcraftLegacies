@@ -34235,19 +34235,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendStormwind.RegisterLegends
   nameWithType: LegendStormwind.RegisterLegends
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendStormwind.Stormwindkeep
-  name: Stormwindkeep
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendStormwind.html#WarcraftLegacies_Source_Setup_Legends_LegendStormwind_Stormwindkeep
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendStormwind.Stormwindkeep
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendStormwind.Stormwindkeep
-  nameWithType: LegendStormwind.Stormwindkeep
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendStormwind.Stormwindkeep*
-  name: Stormwindkeep
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendStormwind.html#WarcraftLegacies_Source_Setup_Legends_LegendStormwind_Stormwindkeep_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendStormwind.Stormwindkeep
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendStormwind.StormwindKeep
+  name: StormwindKeep
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendStormwind.html#WarcraftLegacies_Source_Setup_Legends_LegendStormwind_StormwindKeep
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendStormwind.StormwindKeep
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendStormwind.StormwindKeep
+  nameWithType: LegendStormwind.StormwindKeep
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendStormwind.StormwindKeep*
+  name: StormwindKeep
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendStormwind.html#WarcraftLegacies_Source_Setup_Legends_LegendStormwind_StormwindKeep_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendStormwind.StormwindKeep
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendStormwind.Stormwindkeep
-  nameWithType: LegendStormwind.Stormwindkeep
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendStormwind.StormwindKeep
+  nameWithType: LegendStormwind.StormwindKeep
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendStormwind.Varian
   name: Varian
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendStormwind.html#WarcraftLegacies_Source_Setup_Legends_LegendStormwind_Varian
