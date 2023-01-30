@@ -23510,19 +23510,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnComplete
   nameWithType: QuestDarkPortal.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnFail(MacroTools.FactionSystem.Faction)
-  name: OnFail(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortal_OnFail_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnFail(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnFail(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestDarkPortal.OnFail(Faction)
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnFail*
-  name: OnFail
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortal_OnFail_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnFail
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnFail
-  nameWithType: QuestDarkPortal.OnFail
 - uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortal_RewardDescription
