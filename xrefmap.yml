@@ -15526,18 +15526,12 @@ references:
   commentId: T:MacroTools.ShoreSystem.Shore
   fullName: MacroTools.ShoreSystem.Shore
   nameWithType: Shore
-- uid: MacroTools.ShoreSystem.Shore.#ctor(Point)
-  name: Shore(Point)
-  href: api-macroTools/MacroTools.ShoreSystem.Shore.html#MacroTools_ShoreSystem_Shore__ctor_Point_
-  commentId: M:MacroTools.ShoreSystem.Shore.#ctor(Point)
-  fullName: MacroTools.ShoreSystem.Shore.Shore(Point)
-  nameWithType: Shore.Shore(Point)
-- uid: MacroTools.ShoreSystem.Shore.#ctor(System.Single,System.Single)
-  name: Shore(Single, Single)
-  href: api-macroTools/MacroTools.ShoreSystem.Shore.html#MacroTools_ShoreSystem_Shore__ctor_System_Single_System_Single_
-  commentId: M:MacroTools.ShoreSystem.Shore.#ctor(System.Single,System.Single)
-  fullName: MacroTools.ShoreSystem.Shore.Shore(System.Single, System.Single)
-  nameWithType: Shore.Shore(Single, Single)
+- uid: MacroTools.ShoreSystem.Shore.#ctor(Point,System.String)
+  name: Shore(Point, String)
+  href: api-macroTools/MacroTools.ShoreSystem.Shore.html#MacroTools_ShoreSystem_Shore__ctor_Point_System_String_
+  commentId: M:MacroTools.ShoreSystem.Shore.#ctor(Point,System.String)
+  fullName: MacroTools.ShoreSystem.Shore.Shore(Point, System.String)
+  nameWithType: Shore.Shore(Point, String)
 - uid: MacroTools.ShoreSystem.Shore.#ctor*
   name: Shore
   href: api-macroTools/MacroTools.ShoreSystem.Shore.html#MacroTools_ShoreSystem_Shore__ctor_
@@ -15545,6 +15539,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.ShoreSystem.Shore.Shore
   nameWithType: Shore.Shore
+- uid: MacroTools.ShoreSystem.Shore.Name
+  name: Name
+  href: api-macroTools/MacroTools.ShoreSystem.Shore.html#MacroTools_ShoreSystem_Shore_Name
+  commentId: P:MacroTools.ShoreSystem.Shore.Name
+  fullName: MacroTools.ShoreSystem.Shore.Name
+  nameWithType: Shore.Name
+- uid: MacroTools.ShoreSystem.Shore.Name*
+  name: Name
+  href: api-macroTools/MacroTools.ShoreSystem.Shore.html#MacroTools_ShoreSystem_Shore_Name_
+  commentId: Overload:MacroTools.ShoreSystem.Shore.Name
+  isSpec: "True"
+  fullName: MacroTools.ShoreSystem.Shore.Name
+  nameWithType: Shore.Name
 - uid: MacroTools.ShoreSystem.Shore.Position
   name: Position
   href: api-macroTools/MacroTools.ShoreSystem.Shore.html#MacroTools_ShoreSystem_Shore_Position
