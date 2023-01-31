@@ -3981,6 +3981,80 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.CheatResearchLevel.Type
   nameWithType: CheatResearchLevel.Type
+- uid: MacroTools.Cheats.CheatShore
+  name: CheatShore
+  href: api-macroTools/MacroTools.Cheats.CheatShore.html
+  commentId: T:MacroTools.Cheats.CheatShore
+  fullName: MacroTools.Cheats.CheatShore
+  nameWithType: CheatShore
+- uid: MacroTools.Cheats.CheatShore.CommandText
+  name: CommandText
+  href: api-macroTools/MacroTools.Cheats.CheatShore.html#MacroTools_Cheats_CheatShore_CommandText
+  commentId: P:MacroTools.Cheats.CheatShore.CommandText
+  fullName: MacroTools.Cheats.CheatShore.CommandText
+  nameWithType: CheatShore.CommandText
+- uid: MacroTools.Cheats.CheatShore.CommandText*
+  name: CommandText
+  href: api-macroTools/MacroTools.Cheats.CheatShore.html#MacroTools_Cheats_CheatShore_CommandText_
+  commentId: Overload:MacroTools.Cheats.CheatShore.CommandText
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatShore.CommandText
+  nameWithType: CheatShore.CommandText
+- uid: MacroTools.Cheats.CheatShore.Description
+  name: Description
+  href: api-macroTools/MacroTools.Cheats.CheatShore.html#MacroTools_Cheats_CheatShore_Description
+  commentId: P:MacroTools.Cheats.CheatShore.Description
+  fullName: MacroTools.Cheats.CheatShore.Description
+  nameWithType: CheatShore.Description
+- uid: MacroTools.Cheats.CheatShore.Description*
+  name: Description
+  href: api-macroTools/MacroTools.Cheats.CheatShore.html#MacroTools_Cheats_CheatShore_Description_
+  commentId: Overload:MacroTools.Cheats.CheatShore.Description
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatShore.Description
+  nameWithType: CheatShore.Description
+- uid: MacroTools.Cheats.CheatShore.Execute(player,System.String[])
+  name: Execute(player, String[])
+  href: api-macroTools/MacroTools.Cheats.CheatShore.html#MacroTools_Cheats_CheatShore_Execute_player_System_String___
+  commentId: M:MacroTools.Cheats.CheatShore.Execute(player,System.String[])
+  name.vb: Execute(player, String())
+  fullName: MacroTools.Cheats.CheatShore.Execute(player, System.String[])
+  fullName.vb: MacroTools.Cheats.CheatShore.Execute(player, System.String())
+  nameWithType: CheatShore.Execute(player, String[])
+  nameWithType.vb: CheatShore.Execute(player, String())
+- uid: MacroTools.Cheats.CheatShore.Execute*
+  name: Execute
+  href: api-macroTools/MacroTools.Cheats.CheatShore.html#MacroTools_Cheats_CheatShore_Execute_
+  commentId: Overload:MacroTools.Cheats.CheatShore.Execute
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatShore.Execute
+  nameWithType: CheatShore.Execute
+- uid: MacroTools.Cheats.CheatShore.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatShore.html#MacroTools_Cheats_CheatShore_MinimumParameterCount
+  commentId: P:MacroTools.Cheats.CheatShore.MinimumParameterCount
+  fullName: MacroTools.Cheats.CheatShore.MinimumParameterCount
+  nameWithType: CheatShore.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatShore.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Cheats.CheatShore.html#MacroTools_Cheats_CheatShore_MinimumParameterCount_
+  commentId: Overload:MacroTools.Cheats.CheatShore.MinimumParameterCount
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatShore.MinimumParameterCount
+  nameWithType: CheatShore.MinimumParameterCount
+- uid: MacroTools.Cheats.CheatShore.Type
+  name: Type
+  href: api-macroTools/MacroTools.Cheats.CheatShore.html#MacroTools_Cheats_CheatShore_Type
+  commentId: P:MacroTools.Cheats.CheatShore.Type
+  fullName: MacroTools.Cheats.CheatShore.Type
+  nameWithType: CheatShore.Type
+- uid: MacroTools.Cheats.CheatShore.Type*
+  name: Type
+  href: api-macroTools/MacroTools.Cheats.CheatShore.html#MacroTools_Cheats_CheatShore_Type_
+  commentId: Overload:MacroTools.Cheats.CheatShore.Type
+  isSpec: "True"
+  fullName: MacroTools.Cheats.CheatShore.Type
+  nameWithType: CheatShore.Type
 - uid: MacroTools.Cheats.CheatShowQuestNames
   name: CheatShowQuestNames
   href: api-macroTools/MacroTools.Cheats.CheatShowQuestNames.html
@@ -15571,6 +15645,19 @@ references:
   commentId: T:MacroTools.ShoreSystem.ShoreManager
   fullName: MacroTools.ShoreSystem.ShoreManager
   nameWithType: ShoreManager
+- uid: MacroTools.ShoreSystem.ShoreManager.GetAllShores
+  name: GetAllShores()
+  href: api-macroTools/MacroTools.ShoreSystem.ShoreManager.html#MacroTools_ShoreSystem_ShoreManager_GetAllShores
+  commentId: M:MacroTools.ShoreSystem.ShoreManager.GetAllShores
+  fullName: MacroTools.ShoreSystem.ShoreManager.GetAllShores()
+  nameWithType: ShoreManager.GetAllShores()
+- uid: MacroTools.ShoreSystem.ShoreManager.GetAllShores*
+  name: GetAllShores
+  href: api-macroTools/MacroTools.ShoreSystem.ShoreManager.html#MacroTools_ShoreSystem_ShoreManager_GetAllShores_
+  commentId: Overload:MacroTools.ShoreSystem.ShoreManager.GetAllShores
+  isSpec: "True"
+  fullName: MacroTools.ShoreSystem.ShoreManager.GetAllShores
+  nameWithType: ShoreManager.GetAllShores
 - uid: MacroTools.ShoreSystem.ShoreManager.GetNearestShore(Point)
   name: GetNearestShore(Point)
   href: api-macroTools/MacroTools.ShoreSystem.ShoreManager.html#MacroTools_ShoreSystem_ShoreManager_GetNearestShore_Point_

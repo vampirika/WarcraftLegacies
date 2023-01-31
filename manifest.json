@@ -809,6 +809,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Cheats.CheatShore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Cheats.CheatShore.html",
+          "hash": "PFZ0YiK0lLSSLDMCzXwmjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Cheats.CheatShowQuestNames.yml",
       "output": {
         ".html": {
@@ -933,7 +945,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.html",
-          "hash": "smeLfEqfV3NdbRxHCFwOYw=="
+          "hash": "aRilbSzfidynUIXolpV7VQ=="
         }
       },
       "is_incremental": false,
@@ -957,7 +969,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.CommandSystem.Command.html",
-          "hash": "OxA7xBPGUW1ERIzt/PanQw=="
+          "hash": "wmUQjGwfRRkAxQYa6vgR5Q=="
         }
       },
       "is_incremental": false,
@@ -3345,7 +3357,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ShoreSystem.ShoreManager.html",
-          "hash": "S19QzusOGyppvmCWY+XT9w=="
+          "hash": "SA2TWaYlcGbFcbY1Bz5uPg=="
         }
       },
       "is_incremental": false,
@@ -4101,7 +4113,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "Q8TpyKcmMcxe6peGtGgjaw=="
+          "hash": "jcDaiCOFbaVLfMzgNwyctA=="
         }
       },
       "is_incremental": false,
@@ -8544,7 +8556,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 704,
+          "total_file_count": 705,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
