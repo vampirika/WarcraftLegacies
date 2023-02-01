@@ -25495,19 +25495,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestUnlockShip.OnFail
   nameWithType: QuestUnlockShip.OnFail
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestUnlockShip.PenaltyDescription
-  name: PenaltyDescription
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestUnlockShip.html#WarcraftLegacies_Source_Quests_KulTiras_QuestUnlockShip_PenaltyDescription
-  commentId: P:WarcraftLegacies.Source.Quests.KulTiras.QuestUnlockShip.PenaltyDescription
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestUnlockShip.PenaltyDescription
-  nameWithType: QuestUnlockShip.PenaltyDescription
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestUnlockShip.PenaltyDescription*
-  name: PenaltyDescription
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestUnlockShip.html#WarcraftLegacies_Source_Quests_KulTiras_QuestUnlockShip_PenaltyDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestUnlockShip.PenaltyDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestUnlockShip.PenaltyDescription
-  nameWithType: QuestUnlockShip.PenaltyDescription
 - uid: WarcraftLegacies.Source.Quests.KulTiras.QuestUnlockShip.PenaltyFlavour
   name: PenaltyFlavour
   href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestUnlockShip.html#WarcraftLegacies_Source_Quests_KulTiras_QuestUnlockShip_PenaltyFlavour
