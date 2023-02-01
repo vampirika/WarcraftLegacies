@@ -4673,11 +4673,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.TagSummonedUnits.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.TagSummonedUnits.html",
+          "hash": "yfO3jh5MXLQs/wntPB7jdQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.html",
-          "hash": "rjdWxs0N23SsJVlfe1UrDg=="
+          "hash": "F5RJKbsC6y2LLfkO7TJn0w=="
         }
       },
       "is_incremental": false,
@@ -8481,7 +8493,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "TnFBjFZreAIuvgq5ayiLDA=="
+          "hash": "7mPAnyl9oRaIKRdEG3fOmw=="
         }
       },
       "is_incremental": false,
@@ -8556,7 +8568,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 705,
+          "total_file_count": 706,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

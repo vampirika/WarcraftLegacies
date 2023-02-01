@@ -20914,6 +20914,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.SummonRallyPoints.Setup
   nameWithType: SummonRallyPoints.Setup
+- uid: WarcraftLegacies.Source.GameLogic.TagSummonedUnits
+  name: TagSummonedUnits
+  href: api-source/WarcraftLegacies.Source.GameLogic.TagSummonedUnits.html
+  commentId: T:WarcraftLegacies.Source.GameLogic.TagSummonedUnits
+  fullName: WarcraftLegacies.Source.GameLogic.TagSummonedUnits
+  nameWithType: TagSummonedUnits
+- uid: WarcraftLegacies.Source.GameLogic.TagSummonedUnits.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.GameLogic.TagSummonedUnits.html#WarcraftLegacies_Source_GameLogic_TagSummonedUnits_Setup
+  commentId: M:WarcraftLegacies.Source.GameLogic.TagSummonedUnits.Setup
+  fullName: WarcraftLegacies.Source.GameLogic.TagSummonedUnits.Setup()
+  nameWithType: TagSummonedUnits.Setup()
+- uid: WarcraftLegacies.Source.GameLogic.TagSummonedUnits.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.GameLogic.TagSummonedUnits.html#WarcraftLegacies_Source_GameLogic_TagSummonedUnits_Setup_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.TagSummonedUnits.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.TagSummonedUnits.Setup
+  nameWithType: TagSummonedUnits.Setup
 - uid: WarcraftLegacies.Source.Mechanics.Druids
   name: WarcraftLegacies.Source.Mechanics.Druids
   href: api-source/WarcraftLegacies.Source.Mechanics.Druids.html
