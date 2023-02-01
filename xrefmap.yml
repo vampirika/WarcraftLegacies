@@ -7511,6 +7511,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.Pause
   nameWithType: UnitExtensions.Pause
+- uid: MacroTools.Extensions.UnitExtensions.PauseEx(unit,System.Boolean)
+  name: PauseEx(unit, Boolean)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_PauseEx_unit_System_Boolean_
+  commentId: M:MacroTools.Extensions.UnitExtensions.PauseEx(unit,System.Boolean)
+  fullName: MacroTools.Extensions.UnitExtensions.PauseEx(unit, System.Boolean)
+  nameWithType: UnitExtensions.PauseEx(unit, Boolean)
+- uid: MacroTools.Extensions.UnitExtensions.PauseEx*
+  name: PauseEx
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_PauseEx_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.PauseEx
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.PauseEx
+  nameWithType: UnitExtensions.PauseEx
 - uid: MacroTools.Extensions.UnitExtensions.Ping(unit,System.Single)
   name: Ping(unit, Single)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_Ping_unit_System_Single_
