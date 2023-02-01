@@ -7174,6 +7174,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.GetFacing
   nameWithType: UnitExtensions.GetFacing
+- uid: MacroTools.Extensions.UnitExtensions.GetHitPoints(unit)
+  name: GetHitPoints(unit)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetHitPoints_unit_
+  commentId: M:MacroTools.Extensions.UnitExtensions.GetHitPoints(unit)
+  fullName: MacroTools.Extensions.UnitExtensions.GetHitPoints(unit)
+  nameWithType: UnitExtensions.GetHitPoints(unit)
+- uid: MacroTools.Extensions.UnitExtensions.GetHitPoints*
+  name: GetHitPoints
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetHitPoints_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.GetHitPoints
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.GetHitPoints
+  nameWithType: UnitExtensions.GetHitPoints
 - uid: MacroTools.Extensions.UnitExtensions.GetInventoryIndexOfItemType(unit,System.Int32)
   name: GetInventoryIndexOfItemType(unit, Int32)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetInventoryIndexOfItemType_unit_System_Int32_
@@ -7356,6 +7369,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.IsIllusion
   nameWithType: UnitExtensions.IsIllusion
+- uid: MacroTools.Extensions.UnitExtensions.IsResistant(unit)
+  name: IsResistant(unit)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_IsResistant_unit_
+  commentId: M:MacroTools.Extensions.UnitExtensions.IsResistant(unit)
+  fullName: MacroTools.Extensions.UnitExtensions.IsResistant(unit)
+  nameWithType: UnitExtensions.IsResistant(unit)
+- uid: MacroTools.Extensions.UnitExtensions.IsResistant*
+  name: IsResistant
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_IsResistant_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.IsResistant
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.IsResistant
+  nameWithType: UnitExtensions.IsResistant
 - uid: MacroTools.Extensions.UnitExtensions.IssueOrder(unit,System.String)
   name: IssueOrder(unit, String)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_IssueOrder_unit_System_String_
@@ -16051,6 +16077,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Spells.Devour.Devour
   nameWithType: Devour.Devour
+- uid: MacroTools.Spells.Devour.Damage
+  name: Damage
+  href: api-macroTools/MacroTools.Spells.Devour.html#MacroTools_Spells_Devour_Damage
+  commentId: P:MacroTools.Spells.Devour.Damage
+  fullName: MacroTools.Spells.Devour.Damage
+  nameWithType: Devour.Damage
+- uid: MacroTools.Spells.Devour.Damage*
+  name: Damage
+  href: api-macroTools/MacroTools.Spells.Devour.html#MacroTools_Spells_Devour_Damage_
+  commentId: Overload:MacroTools.Spells.Devour.Damage
+  isSpec: "True"
+  fullName: MacroTools.Spells.Devour.Damage
+  nameWithType: Devour.Damage
 - uid: MacroTools.Spells.Devour.OnCast(unit,unit,Point)
   name: OnCast(unit, unit, Point)
   href: api-macroTools/MacroTools.Spells.Devour.html#MacroTools_Spells_Devour_OnCast_unit_unit_Point_
