@@ -73,7 +73,8 @@
   
   <h1 id="MacroTools_PassiveAbilities_Execute" data-uid="MacroTools.PassiveAbilities.Execute" class="text-break">Class Execute
   </h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>Causes the unit to instantly kill enemies who drop below a certain threshold.</p>
+</div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
@@ -134,11 +135,12 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_Execute__ctor_System_Int32_.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.Execute.%23ctor(System.Int32)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/Execute.cs/#L12">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/Execute.cs/#L28">View Source</a>
   </span>
   <a id="MacroTools_PassiveAbilities_Execute__ctor_" data-uid="MacroTools.PassiveAbilities.Execute.#ctor*"></a>
   <h4 id="MacroTools_PassiveAbilities_Execute__ctor_System_Int32_" data-uid="MacroTools.PassiveAbilities.Execute.#ctor(System.Int32)">Execute(Int32)</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="MacroTools.PassiveAbilities.Execute.html">Execute</a> class.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -157,6 +159,71 @@
       <tr>
         <td><span class="xref">System.Int32</span></td>
         <td><span class="parametername">unitTypeId</span></td>
+        <td><p><inheritdoc></inheritdoc></p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="properties">Properties
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_Execute_DamageMultNonResistant.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.Execute.DamageMultNonResistant%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/Execute.cs/#L17">View Source</a>
+  </span>
+  <a id="MacroTools_PassiveAbilities_Execute_DamageMultNonResistant_" data-uid="MacroTools.PassiveAbilities.Execute.DamageMultNonResistant*"></a>
+  <h4 id="MacroTools_PassiveAbilities_Execute_DamageMultNonResistant" data-uid="MacroTools.PassiveAbilities.Execute.DamageMultNonResistant">DamageMultNonResistant</h4>
+  <div class="markdown level1 summary"><p>Non-resistant enemies are instantly killed when their hit points drop below the caster's attack damage multiplied by this value.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public float DamageMultNonResistant { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_Execute_DamageMultResistant.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.Execute.DamageMultResistant%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/Execute.cs/#L22">View Source</a>
+  </span>
+  <a id="MacroTools_PassiveAbilities_Execute_DamageMultResistant_" data-uid="MacroTools.PassiveAbilities.Execute.DamageMultResistant*"></a>
+  <h4 id="MacroTools_PassiveAbilities_Execute_DamageMultResistant" data-uid="MacroTools.PassiveAbilities.Execute.DamageMultResistant">DamageMultResistant</h4>
+  <div class="markdown level1 summary"><p>Resistant enemies are instantly killed when their hit points drop below the caster's attack damage multiplied by this value.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public float DamageMultResistant { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
         <td></td>
       </tr>
     </tbody>
@@ -168,11 +235,12 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_Execute_OnDealsDamage.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.Execute.OnDealsDamage%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/Execute.cs/#L16">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/Execute.cs/#L33">View Source</a>
   </span>
   <a id="MacroTools_PassiveAbilities_Execute_OnDealsDamage_" data-uid="MacroTools.PassiveAbilities.Execute.OnDealsDamage*"></a>
   <h4 id="MacroTools_PassiveAbilities_Execute_OnDealsDamage" data-uid="MacroTools.PassiveAbilities.Execute.OnDealsDamage">OnDealsDamage()</h4>
-  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 summary"><p>A response to a unit dealing damage.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
@@ -193,7 +261,7 @@
                     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_Execute.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.Execute%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/Execute.cs/#L7" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/Execute.cs/#L10" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>

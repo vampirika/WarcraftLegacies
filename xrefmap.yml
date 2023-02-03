@@ -13145,6 +13145,32 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilities.Execute.Execute
   nameWithType: Execute.Execute
+- uid: MacroTools.PassiveAbilities.Execute.DamageMultNonResistant
+  name: DamageMultNonResistant
+  href: api-macroTools/MacroTools.PassiveAbilities.Execute.html#MacroTools_PassiveAbilities_Execute_DamageMultNonResistant
+  commentId: P:MacroTools.PassiveAbilities.Execute.DamageMultNonResistant
+  fullName: MacroTools.PassiveAbilities.Execute.DamageMultNonResistant
+  nameWithType: Execute.DamageMultNonResistant
+- uid: MacroTools.PassiveAbilities.Execute.DamageMultNonResistant*
+  name: DamageMultNonResistant
+  href: api-macroTools/MacroTools.PassiveAbilities.Execute.html#MacroTools_PassiveAbilities_Execute_DamageMultNonResistant_
+  commentId: Overload:MacroTools.PassiveAbilities.Execute.DamageMultNonResistant
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.Execute.DamageMultNonResistant
+  nameWithType: Execute.DamageMultNonResistant
+- uid: MacroTools.PassiveAbilities.Execute.DamageMultResistant
+  name: DamageMultResistant
+  href: api-macroTools/MacroTools.PassiveAbilities.Execute.html#MacroTools_PassiveAbilities_Execute_DamageMultResistant
+  commentId: P:MacroTools.PassiveAbilities.Execute.DamageMultResistant
+  fullName: MacroTools.PassiveAbilities.Execute.DamageMultResistant
+  nameWithType: Execute.DamageMultResistant
+- uid: MacroTools.PassiveAbilities.Execute.DamageMultResistant*
+  name: DamageMultResistant
+  href: api-macroTools/MacroTools.PassiveAbilities.Execute.html#MacroTools_PassiveAbilities_Execute_DamageMultResistant_
+  commentId: Overload:MacroTools.PassiveAbilities.Execute.DamageMultResistant
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.Execute.DamageMultResistant
+  nameWithType: Execute.DamageMultResistant
 - uid: MacroTools.PassiveAbilities.Execute.OnDealsDamage
   name: OnDealsDamage()
   href: api-macroTools/MacroTools.PassiveAbilities.Execute.html#MacroTools_PassiveAbilities_Execute_OnDealsDamage
