@@ -14888,6 +14888,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Powers.OilPower.GetAllOilPools
   nameWithType: OilPower.GetAllOilPools
+- uid: MacroTools.Powers.OilPower.GetOilPoolsInRadius(Point,System.Single)
+  name: GetOilPoolsInRadius(Point, Single)
+  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_GetOilPoolsInRadius_Point_System_Single_
+  commentId: M:MacroTools.Powers.OilPower.GetOilPoolsInRadius(Point,System.Single)
+  fullName: MacroTools.Powers.OilPower.GetOilPoolsInRadius(Point, System.Single)
+  nameWithType: OilPower.GetOilPoolsInRadius(Point, Single)
+- uid: MacroTools.Powers.OilPower.GetOilPoolsInRadius*
+  name: GetOilPoolsInRadius
+  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_GetOilPoolsInRadius_
+  commentId: Overload:MacroTools.Powers.OilPower.GetOilPoolsInRadius
+  isSpec: "True"
+  fullName: MacroTools.Powers.OilPower.GetOilPoolsInRadius
+  nameWithType: OilPower.GetOilPoolsInRadius
 - uid: MacroTools.Powers.OilPower.Income
   name: Income
   href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_Income
@@ -14914,6 +14927,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Powers.OilPower.MaximumOilPoolCount
   nameWithType: OilPower.MaximumOilPoolCount
+- uid: MacroTools.Powers.OilPower.OilPoolBorderDistance
+  name: OilPoolBorderDistance
+  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_OilPoolBorderDistance
+  commentId: P:MacroTools.Powers.OilPower.OilPoolBorderDistance
+  fullName: MacroTools.Powers.OilPower.OilPoolBorderDistance
+  nameWithType: OilPower.OilPoolBorderDistance
+- uid: MacroTools.Powers.OilPower.OilPoolBorderDistance*
+  name: OilPoolBorderDistance
+  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_OilPoolBorderDistance_
+  commentId: Overload:MacroTools.Powers.OilPower.OilPoolBorderDistance
+  isSpec: "True"
+  fullName: MacroTools.Powers.OilPower.OilPoolBorderDistance
+  nameWithType: OilPower.OilPoolBorderDistance
 - uid: MacroTools.Powers.OilPower.OilPoolMaximumValue
   name: OilPoolMaximumValue
   href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_OilPoolMaximumValue
