@@ -1277,6 +1277,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Extensions.PointExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Extensions.PointExtensions.html",
+          "hash": "xCpMfZ3LyoB8uPvehmQ6rA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Extensions.RectangleExtensions.yml",
       "output": {
         ".html": {
@@ -1377,7 +1389,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.html",
-          "hash": "hj4hv67L37jwk4DDEA6QXQ=="
+          "hash": "cfXumu2VYqghFD6Q2Ovtgg=="
         }
       },
       "is_incremental": false,
@@ -4113,7 +4125,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "jcDaiCOFbaVLfMzgNwyctA=="
+          "hash": "3LaAk5Ba0kVoZWPvbPzUVw=="
         }
       },
       "is_incremental": false,
@@ -8568,7 +8580,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 706,
+          "total_file_count": 707,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

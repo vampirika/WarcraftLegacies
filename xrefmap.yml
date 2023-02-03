@@ -6586,6 +6586,38 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.PlayerExtensions.SetupCamera
   nameWithType: PlayerExtensions.SetupCamera
+- uid: MacroTools.Extensions.PointExtensions
+  name: PointExtensions
+  href: api-macroTools/MacroTools.Extensions.PointExtensions.html
+  commentId: T:MacroTools.Extensions.PointExtensions
+  fullName: MacroTools.Extensions.PointExtensions
+  nameWithType: PointExtensions
+- uid: MacroTools.Extensions.PointExtensions.IsPathable(Point,pathingtype)
+  name: IsPathable(Point, pathingtype)
+  href: api-macroTools/MacroTools.Extensions.PointExtensions.html#MacroTools_Extensions_PointExtensions_IsPathable_Point_pathingtype_
+  commentId: M:MacroTools.Extensions.PointExtensions.IsPathable(Point,pathingtype)
+  fullName: MacroTools.Extensions.PointExtensions.IsPathable(Point, pathingtype)
+  nameWithType: PointExtensions.IsPathable(Point, pathingtype)
+- uid: MacroTools.Extensions.PointExtensions.IsPathable*
+  name: IsPathable
+  href: api-macroTools/MacroTools.Extensions.PointExtensions.html#MacroTools_Extensions_PointExtensions_IsPathable_
+  commentId: Overload:MacroTools.Extensions.PointExtensions.IsPathable
+  isSpec: "True"
+  fullName: MacroTools.Extensions.PointExtensions.IsPathable
+  nameWithType: PointExtensions.IsPathable
+- uid: MacroTools.Extensions.PointExtensions.TerrainType(Point)
+  name: TerrainType(Point)
+  href: api-macroTools/MacroTools.Extensions.PointExtensions.html#MacroTools_Extensions_PointExtensions_TerrainType_Point_
+  commentId: M:MacroTools.Extensions.PointExtensions.TerrainType(Point)
+  fullName: MacroTools.Extensions.PointExtensions.TerrainType(Point)
+  nameWithType: PointExtensions.TerrainType(Point)
+- uid: MacroTools.Extensions.PointExtensions.TerrainType*
+  name: TerrainType
+  href: api-macroTools/MacroTools.Extensions.PointExtensions.html#MacroTools_Extensions_PointExtensions_TerrainType_
+  commentId: Overload:MacroTools.Extensions.PointExtensions.TerrainType
+  isSpec: "True"
+  fullName: MacroTools.Extensions.PointExtensions.TerrainType
+  nameWithType: PointExtensions.TerrainType
 - uid: MacroTools.Extensions.RectangleExtensions
   name: RectangleExtensions
   href: api-macroTools/MacroTools.Extensions.RectangleExtensions.html
