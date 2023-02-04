@@ -17589,6 +17589,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.OnApply
   nameWithType: SlipstreamPortalBuff.OnApply
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.OnDispose
+  name: OnDispose()
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalBuff.html#MacroTools_Spells_Slipstream_SlipstreamPortalBuff_OnDispose
+  commentId: M:MacroTools.Spells.Slipstream.SlipstreamPortalBuff.OnDispose
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.OnDispose()
+  nameWithType: SlipstreamPortalBuff.OnDispose()
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.OnDispose*
+  name: OnDispose
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalBuff.html#MacroTools_Spells_Slipstream_SlipstreamPortalBuff_OnDispose_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamPortalBuff.OnDispose
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.OnDispose
+  nameWithType: SlipstreamPortalBuff.OnDispose
 - uid: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.Open(System.Single)
   name: Open(Single)
   href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalBuff.html#MacroTools_Spells_Slipstream_SlipstreamPortalBuff_Open_System_Single_
@@ -17602,6 +17615,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.Open
   nameWithType: SlipstreamPortalBuff.Open
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.RefundFunc
+  name: RefundFunc
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalBuff.html#MacroTools_Spells_Slipstream_SlipstreamPortalBuff_RefundFunc
+  commentId: P:MacroTools.Spells.Slipstream.SlipstreamPortalBuff.RefundFunc
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.RefundFunc
+  nameWithType: SlipstreamPortalBuff.RefundFunc
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.RefundFunc*
+  name: RefundFunc
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalBuff.html#MacroTools_Spells_Slipstream_SlipstreamPortalBuff_RefundFunc_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamPortalBuff.RefundFunc
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalBuff.RefundFunc
+  nameWithType: SlipstreamPortalBuff.RefundFunc
 - uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel
   name: SlipstreamPortalChannel
   href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html
@@ -17712,6 +17738,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.PortalUnitTypeId
   nameWithType: SlipstreamPortalChannel.PortalUnitTypeId
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.RefundFunc
+  name: RefundFunc
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_RefundFunc
+  commentId: P:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.RefundFunc
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.RefundFunc
+  nameWithType: SlipstreamPortalChannel.RefundFunc
+- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.RefundFunc*
+  name: RefundFunc
+  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_RefundFunc_
+  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.RefundFunc
+  isSpec: "True"
+  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.RefundFunc
+  nameWithType: SlipstreamPortalChannel.RefundFunc
 - uid: MacroTools.Spells.Slipstream.SlipstreamPortalState
   name: SlipstreamPortalState
   href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalState.html
