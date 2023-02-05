@@ -6197,6 +6197,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.html",
+          "hash": "EDr3XDEWGRmu2QMp6aPgZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.yml",
       "output": {
         ".html": {
@@ -6233,18 +6245,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html",
-          "hash": "tK8YAb8xwtTDWeroAUc+sA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestStranglethornOutpost.yml",
       "output": {
         ".html": {
@@ -6273,7 +6273,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.html",
-          "hash": "ULvGIJz+FTBXeZwWtYq7CA=="
+          "hash": "3E9uqCyNbyOLG1lVScbHMA=="
         }
       },
       "is_incremental": false,
@@ -8529,7 +8529,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "JuAJtSwaPnj1exYGAUx2Lw=="
+          "hash": "/dsN1i7J4Fy1HkqYyjlgqg=="
         }
       },
       "is_incremental": false,

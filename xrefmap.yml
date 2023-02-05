@@ -27087,6 +27087,51 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Naga.QuestEyeofSargeras.RewardFlavour
   nameWithType: QuestEyeofSargeras.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow
+  name: QuestFlameAndSorrow
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.html
+  commentId: T:WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow
+  nameWithType: QuestFlameAndSorrow
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.#ctor(MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestFlameAndSorrow(Artifact, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestFlameAndSorrow__ctor_MacroTools_ArtifactSystem_Artifact_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.#ctor(MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.QuestFlameAndSorrow(MacroTools.ArtifactSystem.Artifact, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestFlameAndSorrow.QuestFlameAndSorrow(Artifact, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.#ctor*
+  name: QuestFlameAndSorrow
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestFlameAndSorrow__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.QuestFlameAndSorrow
+  nameWithType: QuestFlameAndSorrow.QuestFlameAndSorrow
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestFlameAndSorrow_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.RewardDescription
+  nameWithType: QuestFlameAndSorrow.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestFlameAndSorrow_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.RewardDescription
+  nameWithType: QuestFlameAndSorrow.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestFlameAndSorrow_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.RewardFlavour
+  nameWithType: QuestFlameAndSorrow.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestFlameAndSorrow_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.RewardFlavour
+  nameWithType: QuestFlameAndSorrow.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Naga.QuestLostOnes
   name: QuestLostOnes
   href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestLostOnes.html
@@ -27277,51 +27322,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Naga.QuestRegroupCastaway.RewardFlavour
   nameWithType: QuestRegroupCastaway.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan
-  name: QuestSkullOfGuldan
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html
-  commentId: T:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan
-  nameWithType: QuestSkullOfGuldan
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.#ctor(MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.LegendaryHero)
-  name: QuestSkullOfGuldan(Artifact, LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Naga_QuestSkullOfGuldan__ctor_MacroTools_ArtifactSystem_Artifact_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.#ctor(MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.QuestSkullOfGuldan(MacroTools.ArtifactSystem.Artifact, MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestSkullOfGuldan.QuestSkullOfGuldan(Artifact, LegendaryHero)
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.#ctor*
-  name: QuestSkullOfGuldan
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Naga_QuestSkullOfGuldan__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.QuestSkullOfGuldan
-  nameWithType: QuestSkullOfGuldan.QuestSkullOfGuldan
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Naga_QuestSkullOfGuldan_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardDescription
-  nameWithType: QuestSkullOfGuldan.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Naga_QuestSkullOfGuldan_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardDescription
-  nameWithType: QuestSkullOfGuldan.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardFlavour
-  name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Naga_QuestSkullOfGuldan_RewardFlavour
-  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardFlavour
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardFlavour
-  nameWithType: QuestSkullOfGuldan.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardFlavour*
-  name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Naga_QuestSkullOfGuldan_RewardFlavour_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardFlavour
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardFlavour
-  nameWithType: QuestSkullOfGuldan.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Naga.QuestStranglethornOutpost
   name: QuestStranglethornOutpost
   href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestStranglethornOutpost.html
