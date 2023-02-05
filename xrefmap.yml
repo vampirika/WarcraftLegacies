@@ -25463,12 +25463,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy
   fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy
   nameWithType: QuestEliminatePiracy
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.#ctor(Rectangle)
-  name: QuestEliminatePiracy(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.html#WarcraftLegacies_Source_Quests_KulTiras_QuestEliminatePiracy__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.QuestEliminatePiracy(Rectangle)
-  nameWithType: QuestEliminatePiracy.QuestEliminatePiracy(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.#ctor(Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestEliminatePiracy(Rectangle, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.html#WarcraftLegacies_Source_Quests_KulTiras_QuestEliminatePiracy__ctor_Rectangle_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.#ctor(Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.QuestEliminatePiracy(Rectangle, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestEliminatePiracy.QuestEliminatePiracy(Rectangle, LegendaryHero)
 - uid: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.#ctor*
   name: QuestEliminatePiracy
   href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.html#WarcraftLegacies_Source_Quests_KulTiras_QuestEliminatePiracy__ctor_
@@ -25515,6 +25515,64 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.RewardFlavour
   nameWithType: QuestEliminatePiracy.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield
+  name: QuestOldBattlefield
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html
+  commentId: T:WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield
+  nameWithType: QuestOldBattlefield
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.#ctor(MacroTools.LegendSystem.LegendaryHero)
+  name: QuestOldBattlefield(LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldBattlefield__ctor_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.#ctor(MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.QuestOldBattlefield(MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestOldBattlefield.QuestOldBattlefield(LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.#ctor*
+  name: QuestOldBattlefield
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldBattlefield__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.QuestOldBattlefield
+  nameWithType: QuestOldBattlefield.QuestOldBattlefield
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldBattlefield_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestOldBattlefield.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldBattlefield_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.OnComplete
+  nameWithType: QuestOldBattlefield.OnComplete
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldBattlefield_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardDescription
+  nameWithType: QuestOldBattlefield.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldBattlefield_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardDescription
+  nameWithType: QuestOldBattlefield.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldBattlefield_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardFlavour
+  nameWithType: QuestOldBattlefield.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldBattlefield_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardFlavour
+  nameWithType: QuestOldBattlefield.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.KulTiras.QuestTheramore
   name: QuestTheramore
   href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestTheramore.html
@@ -27219,6 +27277,51 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Naga.QuestRegroupCastaway.RewardFlavour
   nameWithType: QuestRegroupCastaway.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan
+  name: QuestSkullOfGuldan
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html
+  commentId: T:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan
+  nameWithType: QuestSkullOfGuldan
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.#ctor(MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestSkullOfGuldan(Artifact, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Naga_QuestSkullOfGuldan__ctor_MacroTools_ArtifactSystem_Artifact_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.#ctor(MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.QuestSkullOfGuldan(MacroTools.ArtifactSystem.Artifact, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestSkullOfGuldan.QuestSkullOfGuldan(Artifact, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.#ctor*
+  name: QuestSkullOfGuldan
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Naga_QuestSkullOfGuldan__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.QuestSkullOfGuldan
+  nameWithType: QuestSkullOfGuldan.QuestSkullOfGuldan
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Naga_QuestSkullOfGuldan_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardDescription
+  nameWithType: QuestSkullOfGuldan.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Naga_QuestSkullOfGuldan_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardDescription
+  nameWithType: QuestSkullOfGuldan.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Naga_QuestSkullOfGuldan_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardFlavour
+  nameWithType: QuestSkullOfGuldan.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_Naga_QuestSkullOfGuldan_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.RewardFlavour
+  nameWithType: QuestSkullOfGuldan.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Naga.QuestStranglethornOutpost
   name: QuestStranglethornOutpost
   href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestStranglethornOutpost.html

@@ -5277,7 +5277,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestTheNexus.html",
-          "hash": "CU7J3yftMFTTOER4L2t/3Q=="
+          "hash": "ykqFCdUS+HZmqcsJ0pvEKw=="
         }
       },
       "is_incremental": false,
@@ -5865,7 +5865,19 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.html",
-          "hash": "OKqGk/9cwta0aJvEBRPRfg=="
+          "hash": "lDO7Jyr46cr6DeW1MM8jng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html",
+          "hash": "7nhC1FiUzBA2rT+ltODbYg=="
         }
       },
       "is_incremental": false,
@@ -5913,7 +5925,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.html",
-          "hash": "iNRYCm3qOdeLxfFZa5kjTw=="
+          "hash": "KaKCEmIhLMsrhqANhhLsaA=="
         }
       },
       "is_incremental": false,
@@ -6221,6 +6233,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestSkullOfGuldan.html",
+          "hash": "tK8YAb8xwtTDWeroAUc+sA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestStranglethornOutpost.yml",
       "output": {
         ".html": {
@@ -6249,7 +6273,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.html",
-          "hash": "6fXUa4UNjkxjBFPG+jAr/g=="
+          "hash": "ULvGIJz+FTBXeZwWtYq7CA=="
         }
       },
       "is_incremental": false,
@@ -8505,7 +8529,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "7mPAnyl9oRaIKRdEG3fOmw=="
+          "hash": "JuAJtSwaPnj1exYGAUx2Lw=="
         }
       },
       "is_incremental": false,
@@ -8580,7 +8604,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 707,
+          "total_file_count": 709,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
