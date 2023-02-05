@@ -5491,6 +5491,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.ControlPointSystem.ControlPointManager.GetFromUnitType
   nameWithType: ControlPointManager.GetFromUnitType
+- uid: MacroTools.ControlPointSystem.ControlPointManager.HostileStartingCurrentHitPoints
+  name: HostileStartingCurrentHitPoints
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_HostileStartingCurrentHitPoints
+  commentId: P:MacroTools.ControlPointSystem.ControlPointManager.HostileStartingCurrentHitPoints
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.HostileStartingCurrentHitPoints
+  nameWithType: ControlPointManager.HostileStartingCurrentHitPoints
+- uid: MacroTools.ControlPointSystem.ControlPointManager.HostileStartingCurrentHitPoints*
+  name: HostileStartingCurrentHitPoints
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_HostileStartingCurrentHitPoints_
+  commentId: Overload:MacroTools.ControlPointSystem.ControlPointManager.HostileStartingCurrentHitPoints
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.HostileStartingCurrentHitPoints
+  nameWithType: ControlPointManager.HostileStartingCurrentHitPoints
 - uid: MacroTools.ControlPointSystem.ControlPointManager.IncreaseControlLevelAbilityTypeId
   name: IncreaseControlLevelAbilityTypeId
   href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_IncreaseControlLevelAbilityTypeId
@@ -5517,19 +5530,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.ControlPointSystem.ControlPointManager.Instance
   nameWithType: ControlPointManager.Instance
-- uid: MacroTools.ControlPointSystem.ControlPointManager.MaxHitpoints
-  name: MaxHitpoints
-  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_MaxHitpoints
-  commentId: P:MacroTools.ControlPointSystem.ControlPointManager.MaxHitpoints
-  fullName: MacroTools.ControlPointSystem.ControlPointManager.MaxHitpoints
-  nameWithType: ControlPointManager.MaxHitpoints
-- uid: MacroTools.ControlPointSystem.ControlPointManager.MaxHitpoints*
-  name: MaxHitpoints
-  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_MaxHitpoints_
-  commentId: Overload:MacroTools.ControlPointSystem.ControlPointManager.MaxHitpoints
-  isSpec: "True"
-  fullName: MacroTools.ControlPointSystem.ControlPointManager.MaxHitpoints
-  nameWithType: ControlPointManager.MaxHitpoints
 - uid: MacroTools.ControlPointSystem.ControlPointManager.Register(MacroTools.ControlPointSystem.ControlPoint)
   name: Register(ControlPoint)
   href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_Register_MacroTools_ControlPointSystem_ControlPoint_
@@ -5543,6 +5543,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.ControlPointSystem.ControlPointManager.Register
   nameWithType: ControlPointManager.Register
+- uid: MacroTools.ControlPointSystem.ControlPointManager.StartingMaxHitPoints
+  name: StartingMaxHitPoints
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_StartingMaxHitPoints
+  commentId: P:MacroTools.ControlPointSystem.ControlPointManager.StartingMaxHitPoints
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.StartingMaxHitPoints
+  nameWithType: ControlPointManager.StartingMaxHitPoints
+- uid: MacroTools.ControlPointSystem.ControlPointManager.StartingMaxHitPoints*
+  name: StartingMaxHitPoints
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_StartingMaxHitPoints_
+  commentId: Overload:MacroTools.ControlPointSystem.ControlPointManager.StartingMaxHitPoints
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.StartingMaxHitPoints
+  nameWithType: ControlPointManager.StartingMaxHitPoints
 - uid: MacroTools.ControlPointSystem.ControlPointManager.UnitIsControlPoint(unit)
   name: UnitIsControlPoint(unit)
   href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_UnitIsControlPoint_unit_
@@ -7725,6 +7738,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.SetColor
   nameWithType: UnitExtensions.SetColor
+- uid: MacroTools.Extensions.UnitExtensions.SetCurrentHitpoints(unit,System.Int32)
+  name: SetCurrentHitpoints(unit, Int32)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetCurrentHitpoints_unit_System_Int32_
+  commentId: M:MacroTools.Extensions.UnitExtensions.SetCurrentHitpoints(unit,System.Int32)
+  fullName: MacroTools.Extensions.UnitExtensions.SetCurrentHitpoints(unit, System.Int32)
+  nameWithType: UnitExtensions.SetCurrentHitpoints(unit, Int32)
+- uid: MacroTools.Extensions.UnitExtensions.SetCurrentHitpoints*
+  name: SetCurrentHitpoints
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetCurrentHitpoints_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.SetCurrentHitpoints
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.SetCurrentHitpoints
+  nameWithType: UnitExtensions.SetCurrentHitpoints
 - uid: MacroTools.Extensions.UnitExtensions.SetDamageBase(unit,System.Int32,System.Int32)
   name: SetDamageBase(unit, Int32, Int32)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_SetDamageBase_unit_System_Int32_System_Int32_
