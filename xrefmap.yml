@@ -25457,122 +25457,122 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestBoralus.RewardFlavour
   nameWithType: QuestBoralus.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy
-  name: QuestEliminatePiracy
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.html
-  commentId: T:WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy
-  nameWithType: QuestEliminatePiracy
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.#ctor(Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  name: QuestEliminatePiracy(Rectangle, LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.html#WarcraftLegacies_Source_Quests_KulTiras_QuestEliminatePiracy__ctor_Rectangle_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.#ctor(Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.QuestEliminatePiracy(Rectangle, MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestEliminatePiracy.QuestEliminatePiracy(Rectangle, LegendaryHero)
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.#ctor*
-  name: QuestEliminatePiracy
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.html#WarcraftLegacies_Source_Quests_KulTiras_QuestEliminatePiracy__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.#ctor
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank
+  name: QuestHighBank
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.html
+  commentId: T:WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank
+  nameWithType: QuestHighBank
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.#ctor(Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestHighBank(Rectangle, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.html#WarcraftLegacies_Source_Quests_KulTiras_QuestHighBank__ctor_Rectangle_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.#ctor(Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.QuestHighBank(Rectangle, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestHighBank.QuestHighBank(Rectangle, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.#ctor*
+  name: QuestHighBank
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.html#WarcraftLegacies_Source_Quests_KulTiras_QuestHighBank__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.#ctor
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.QuestEliminatePiracy
-  nameWithType: QuestEliminatePiracy.QuestEliminatePiracy
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.QuestHighBank
+  nameWithType: QuestHighBank.QuestHighBank
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.html#WarcraftLegacies_Source_Quests_KulTiras_QuestEliminatePiracy_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestEliminatePiracy.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.OnComplete*
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.html#WarcraftLegacies_Source_Quests_KulTiras_QuestHighBank_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestHighBank.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.OnComplete*
   name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.html#WarcraftLegacies_Source_Quests_KulTiras_QuestEliminatePiracy_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.html#WarcraftLegacies_Source_Quests_KulTiras_QuestHighBank_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.OnComplete
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.OnComplete
-  nameWithType: QuestEliminatePiracy.OnComplete
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.OnComplete
+  nameWithType: QuestHighBank.OnComplete
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.RewardDescription
   name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.html#WarcraftLegacies_Source_Quests_KulTiras_QuestEliminatePiracy_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.RewardDescription
-  nameWithType: QuestEliminatePiracy.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.RewardDescription*
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.html#WarcraftLegacies_Source_Quests_KulTiras_QuestHighBank_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.RewardDescription
+  nameWithType: QuestHighBank.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.RewardDescription*
   name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.html#WarcraftLegacies_Source_Quests_KulTiras_QuestEliminatePiracy_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.html#WarcraftLegacies_Source_Quests_KulTiras_QuestHighBank_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.RewardDescription
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.RewardDescription
-  nameWithType: QuestEliminatePiracy.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.RewardDescription
+  nameWithType: QuestHighBank.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.RewardFlavour
   name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.html#WarcraftLegacies_Source_Quests_KulTiras_QuestEliminatePiracy_RewardFlavour
-  commentId: P:WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.RewardFlavour
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.RewardFlavour
-  nameWithType: QuestEliminatePiracy.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.RewardFlavour*
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.html#WarcraftLegacies_Source_Quests_KulTiras_QuestHighBank_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.RewardFlavour
+  nameWithType: QuestHighBank.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.RewardFlavour*
   name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.html#WarcraftLegacies_Source_Quests_KulTiras_QuestEliminatePiracy_RewardFlavour_
-  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.html#WarcraftLegacies_Source_Quests_KulTiras_QuestHighBank_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.RewardFlavour
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.RewardFlavour
-  nameWithType: QuestEliminatePiracy.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield
-  name: QuestOldBattlefield
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html
-  commentId: T:WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield
-  nameWithType: QuestOldBattlefield
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.#ctor(MacroTools.LegendSystem.LegendaryHero)
-  name: QuestOldBattlefield(LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldBattlefield__ctor_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.#ctor(MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.QuestOldBattlefield(MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestOldBattlefield.QuestOldBattlefield(LegendaryHero)
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.#ctor*
-  name: QuestOldBattlefield
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldBattlefield__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.#ctor
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.RewardFlavour
+  nameWithType: QuestHighBank.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds
+  name: QuestOldHatreds
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.html
+  commentId: T:WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds
+  nameWithType: QuestOldHatreds
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.#ctor(MacroTools.LegendSystem.LegendaryHero)
+  name: QuestOldHatreds(LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldHatreds__ctor_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.#ctor(MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.QuestOldHatreds(MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestOldHatreds.QuestOldHatreds(LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.#ctor*
+  name: QuestOldHatreds
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldHatreds__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.#ctor
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.QuestOldBattlefield
-  nameWithType: QuestOldBattlefield.QuestOldBattlefield
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.QuestOldHatreds
+  nameWithType: QuestOldHatreds.QuestOldHatreds
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldBattlefield_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestOldBattlefield.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.OnComplete*
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldHatreds_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestOldHatreds.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.OnComplete*
   name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldBattlefield_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldHatreds_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.OnComplete
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.OnComplete
-  nameWithType: QuestOldBattlefield.OnComplete
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.OnComplete
+  nameWithType: QuestOldHatreds.OnComplete
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.RewardDescription
   name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldBattlefield_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardDescription
-  nameWithType: QuestOldBattlefield.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardDescription*
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldHatreds_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.RewardDescription
+  nameWithType: QuestOldHatreds.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.RewardDescription*
   name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldBattlefield_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldHatreds_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.RewardDescription
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardDescription
-  nameWithType: QuestOldBattlefield.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.RewardDescription
+  nameWithType: QuestOldHatreds.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.RewardFlavour
   name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldBattlefield_RewardFlavour
-  commentId: P:WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardFlavour
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardFlavour
-  nameWithType: QuestOldBattlefield.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardFlavour*
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldHatreds_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.RewardFlavour
+  nameWithType: QuestOldHatreds.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.RewardFlavour*
   name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldBattlefield_RewardFlavour_
-  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.html#WarcraftLegacies_Source_Quests_KulTiras_QuestOldHatreds_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.RewardFlavour
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.RewardFlavour
-  nameWithType: QuestOldBattlefield.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.RewardFlavour
+  nameWithType: QuestOldHatreds.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.KulTiras.QuestTheramore
   name: QuestTheramore
   href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestTheramore.html
@@ -27106,6 +27106,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.QuestFlameAndSorrow
   nameWithType: QuestFlameAndSorrow.QuestFlameAndSorrow
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestFlameAndSorrow_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestFlameAndSorrow.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestFlameAndSorrow_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.OnComplete
+  nameWithType: QuestFlameAndSorrow.OnComplete
 - uid: WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.html#WarcraftLegacies_Source_Quests_Naga_QuestFlameAndSorrow_RewardDescription

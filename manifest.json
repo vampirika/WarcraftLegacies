@@ -3261,7 +3261,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.QuestSystem.QuestData.html",
-          "hash": "HrFIV9uIjBLGgOsz2jSk/w=="
+          "hash": "kMxF8MRg3maoa2RKDFEKHw=="
         }
       },
       "is_incremental": false,
@@ -3285,7 +3285,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.QuestSystem.html",
-          "hash": "NVVM3kwZd9DP0g1t9t0zhA=="
+          "hash": "uKvZqoSbFGCLxhHL78ob1g=="
         }
       },
       "is_incremental": false,
@@ -5861,11 +5861,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.yml",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.yml",
       "output": {
         ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestEliminatePiracy.html",
-          "hash": "vh8x5nA7aDSHzEDmVImwdA=="
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.html",
+          "hash": "nelmsF3lvwEdgTr6lgxb+w=="
         }
       },
       "is_incremental": false,
@@ -5873,11 +5873,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.yml",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.yml",
       "output": {
         ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldBattlefield.html",
-          "hash": "rTvTfUYew55VBxx5dIfatw=="
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestOldHatreds.html",
+          "hash": "S/40pqDKO1z5GbbQPgNwdw=="
         }
       },
       "is_incremental": false,
@@ -5925,7 +5925,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.html",
-          "hash": "+YXGGUW8UqgqR+j4ffIA1Q=="
+          "hash": "oPhPdKWwTA49SbGG5jCTJA=="
         }
       },
       "is_incremental": false,
@@ -6201,7 +6201,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.html",
-          "hash": "EDr3XDEWGRmu2QMp6aPgZA=="
+          "hash": "3g/uhwWMmoCVzygXShHrmg=="
         }
       },
       "is_incremental": false,
@@ -6273,7 +6273,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.html",
-          "hash": "3E9uqCyNbyOLG1lVScbHMA=="
+          "hash": "gOkeoW/i0vndCZhUcSr7Sw=="
         }
       },
       "is_incremental": false,
@@ -8529,7 +8529,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "/dsN1i7J4Fy1HkqYyjlgqg=="
+          "hash": "mQ/N26U17w/1N4SZ+f6lLg=="
         }
       },
       "is_incremental": false,
