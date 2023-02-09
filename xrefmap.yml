@@ -32599,19 +32599,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Kalecgos
   nameWithType: LegendDalaran.Kalecgos
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Malygos
-  name: Malygos
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDalaran.html#WarcraftLegacies_Source_Setup_Legends_LegendDalaran_Malygos
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Malygos
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Malygos
-  nameWithType: LegendDalaran.Malygos
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Malygos*
-  name: Malygos
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDalaran.html#WarcraftLegacies_Source_Setup_Legends_LegendDalaran_Malygos_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Malygos
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Malygos
-  nameWithType: LegendDalaran.Malygos
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Medivh
   name: Medivh
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDalaran.html#WarcraftLegacies_Source_Setup_Legends_LegendDalaran_Medivh
@@ -33583,6 +33570,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendKultiras.LegendLucille
   nameWithType: LegendKultiras.LegendLucille
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendKultiras.LegendMeredith
+  name: LegendMeredith
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendKultiras.html#WarcraftLegacies_Source_Setup_Legends_LegendKultiras_LegendMeredith
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendKultiras.LegendMeredith
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendKultiras.LegendMeredith
+  nameWithType: LegendKultiras.LegendMeredith
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendKultiras.LegendMeredith*
+  name: LegendMeredith
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendKultiras.html#WarcraftLegacies_Source_Setup_Legends_LegendKultiras_LegendMeredith_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendKultiras.LegendMeredith
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendKultiras.LegendMeredith
+  nameWithType: LegendKultiras.LegendMeredith
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendKultiras.RegisterLegends
   name: RegisterLegends()
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendKultiras.html#WarcraftLegacies_Source_Setup_Legends_LegendKultiras_RegisterLegends
