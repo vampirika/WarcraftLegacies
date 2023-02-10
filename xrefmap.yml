@@ -22867,19 +22867,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.OnComplete
   nameWithType: QuestDimensionalShip.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.OnFail(MacroTools.FactionSystem.Faction)
-  name: OnFail(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.html#WarcraftLegacies_Source_Quests_Draenei_QuestDimensionalShip_OnFail_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.OnFail(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.OnFail(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestDimensionalShip.OnFail(Faction)
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.OnFail*
-  name: OnFail
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.html#WarcraftLegacies_Source_Quests_Draenei_QuestDimensionalShip_OnFail_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.OnFail
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.OnFail
-  nameWithType: QuestDimensionalShip.OnFail
 - uid: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.html#WarcraftLegacies_Source_Quests_Draenei_QuestDimensionalShip_RewardDescription
@@ -23041,12 +23028,15 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Draenei.QuestRepairGenerator
   fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRepairGenerator
   nameWithType: QuestRepairGenerator
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestRepairGenerator.#ctor(MacroTools.LegendSystem.Capital)
-  name: QuestRepairGenerator(Capital)
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRepairGenerator.html#WarcraftLegacies_Source_Quests_Draenei_QuestRepairGenerator__ctor_MacroTools_LegendSystem_Capital_
-  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestRepairGenerator.#ctor(MacroTools.LegendSystem.Capital)
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRepairGenerator.QuestRepairGenerator(MacroTools.LegendSystem.Capital)
-  nameWithType: QuestRepairGenerator.QuestRepairGenerator(Capital)
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestRepairGenerator.#ctor(MacroTools.LegendSystem.Capital,List{unit})
+  name: QuestRepairGenerator(Capital, List<unit>)
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRepairGenerator.html#WarcraftLegacies_Source_Quests_Draenei_QuestRepairGenerator__ctor_MacroTools_LegendSystem_Capital_List_unit__
+  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestRepairGenerator.#ctor(MacroTools.LegendSystem.Capital,List{unit})
+  name.vb: QuestRepairGenerator(Capital, List(Of unit))
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRepairGenerator.QuestRepairGenerator(MacroTools.LegendSystem.Capital, List<unit>)
+  fullName.vb: WarcraftLegacies.Source.Quests.Draenei.QuestRepairGenerator.QuestRepairGenerator(MacroTools.LegendSystem.Capital, List(Of unit))
+  nameWithType: QuestRepairGenerator.QuestRepairGenerator(Capital, List<unit>)
+  nameWithType.vb: QuestRepairGenerator.QuestRepairGenerator(Capital, List(Of unit))
 - uid: WarcraftLegacies.Source.Quests.Draenei.QuestRepairGenerator.#ctor*
   name: QuestRepairGenerator
   href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRepairGenerator.html#WarcraftLegacies_Source_Quests_Draenei_QuestRepairGenerator__ctor_
