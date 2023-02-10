@@ -7180,6 +7180,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.FacePosition
   nameWithType: UnitExtensions.FacePosition
+- uid: MacroTools.Extensions.UnitExtensions.GetAttackType(unit)
+  name: GetAttackType(unit)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetAttackType_unit_
+  commentId: M:MacroTools.Extensions.UnitExtensions.GetAttackType(unit)
+  fullName: MacroTools.Extensions.UnitExtensions.GetAttackType(unit)
+  nameWithType: UnitExtensions.GetAttackType(unit)
+- uid: MacroTools.Extensions.UnitExtensions.GetAttackType*
+  name: GetAttackType
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetAttackType_
+  commentId: Overload:MacroTools.Extensions.UnitExtensions.GetAttackType
+  isSpec: "True"
+  fullName: MacroTools.Extensions.UnitExtensions.GetAttackType
+  nameWithType: UnitExtensions.GetAttackType
 - uid: MacroTools.Extensions.UnitExtensions.GetAverageDamage(unit,System.Int32)
   name: GetAverageDamage(unit, Int32)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_GetAverageDamage_unit_System_Int32_
