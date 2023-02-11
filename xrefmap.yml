@@ -12975,6 +12975,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveUnitIsDead.ObjectiveUnitIsDead
   nameWithType: ObjectiveUnitIsDead.ObjectiveUnitIsDead
+- uid: MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveUnitIsDead.KillingUnit
+  name: KillingUnit
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveUnitIsDead.html#MacroTools_ObjectiveSystem_Objectives_UnitBased_ObjectiveUnitIsDead_KillingUnit
+  commentId: P:MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveUnitIsDead.KillingUnit
+  fullName: MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveUnitIsDead.KillingUnit
+  nameWithType: ObjectiveUnitIsDead.KillingUnit
+- uid: MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveUnitIsDead.KillingUnit*
+  name: KillingUnit
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveUnitIsDead.html#MacroTools_ObjectiveSystem_Objectives_UnitBased_ObjectiveUnitIsDead_KillingUnit_
+  commentId: Overload:MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveUnitIsDead.KillingUnit
+  isSpec: "True"
+  fullName: MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveUnitIsDead.KillingUnit
+  nameWithType: ObjectiveUnitIsDead.KillingUnit
 - uid: MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveUnitIsDead.Position
   name: Position
   href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveUnitIsDead.html#MacroTools_ObjectiveSystem_Objectives_UnitBased_ObjectiveUnitIsDead_Position
