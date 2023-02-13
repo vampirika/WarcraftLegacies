@@ -23914,6 +23914,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.QuestDarkPortal
   nameWithType: QuestDarkPortal.QuestDarkPortal
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnAdd(MacroTools.FactionSystem.Faction)
+  name: OnAdd(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortal_OnAdd_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnAdd(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnAdd(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestDarkPortal.OnAdd(Faction)
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnAdd*
+  name: OnAdd
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortal_OnAdd_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnAdd
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnAdd
+  nameWithType: QuestDarkPortal.OnAdd
 - uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
   href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestDarkPortal_OnComplete_MacroTools_FactionSystem_Faction_
