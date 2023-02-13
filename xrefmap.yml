@@ -5010,6 +5010,19 @@ references:
   commentId: T:MacroTools.Commands.Clear
   fullName: MacroTools.Commands.Clear
   nameWithType: Clear
+- uid: MacroTools.Commands.Clear.#ctor(System.String)
+  name: Clear(String)
+  href: api-macroTools/MacroTools.Commands.Clear.html#MacroTools_Commands_Clear__ctor_System_String_
+  commentId: M:MacroTools.Commands.Clear.#ctor(System.String)
+  fullName: MacroTools.Commands.Clear.Clear(System.String)
+  nameWithType: Clear.Clear(String)
+- uid: MacroTools.Commands.Clear.#ctor*
+  name: Clear
+  href: api-macroTools/MacroTools.Commands.Clear.html#MacroTools_Commands_Clear__ctor_
+  commentId: Overload:MacroTools.Commands.Clear.#ctor
+  isSpec: "True"
+  fullName: MacroTools.Commands.Clear.Clear
+  nameWithType: Clear.Clear
 - uid: MacroTools.Commands.Clear.CommandText
   name: CommandText
   href: api-macroTools/MacroTools.Commands.Clear.html#MacroTools_Commands_Clear_CommandText
