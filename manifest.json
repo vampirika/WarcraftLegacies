@@ -5517,7 +5517,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestDarkPortal.html",
-          "hash": "WGRXIAvvKbfnW6++h4UL0w=="
+          "hash": "kaHlndqrP7oL8lkwteUmEA=="
         }
       },
       "is_incremental": false,
@@ -5573,11 +5573,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.yml",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.yml",
       "output": {
         ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html",
-          "hash": "tk7yFh6a2G9LyxVMiYoirQ=="
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.html",
+          "hash": "S4j9vpxHqLBhXXumEhfABg=="
         }
       },
       "is_incremental": false,
@@ -5589,7 +5589,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Fel_Horde.html",
-          "hash": "56E5FUhRC/tMdUrdo9w9pQ=="
+          "hash": "LBWfvUiqL9mwXkhCPnT41w=="
         }
       },
       "is_incremental": false,
@@ -8541,7 +8541,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "mQ/N26U17w/1N4SZ+f6lLg=="
+          "hash": "osUiIuz4jkkOHY52R9rHGg=="
         }
       },
       "is_incremental": false,

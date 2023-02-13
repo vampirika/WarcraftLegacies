@@ -24172,64 +24172,64 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestHellfireCitadel.RewardFlavour
   nameWithType: QuestHellfireCitadel.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple
-  name: QuestRebuildBlackTemple
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html
-  commentId: T:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple
-  nameWithType: QuestRebuildBlackTemple
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.#ctor(Rectangle)
-  name: QuestRebuildBlackTemple(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRebuildBlackTemple__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.QuestRebuildBlackTemple(Rectangle)
-  nameWithType: QuestRebuildBlackTemple.QuestRebuildBlackTemple(Rectangle)
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.#ctor*
-  name: QuestRebuildBlackTemple
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRebuildBlackTemple__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.#ctor
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon
+  name: QuestRuinsofShadowmoon
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.html
+  commentId: T:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon
+  nameWithType: QuestRuinsofShadowmoon
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.#ctor(Rectangle)
+  name: QuestRuinsofShadowmoon(Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRuinsofShadowmoon__ctor_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.#ctor(Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.QuestRuinsofShadowmoon(Rectangle)
+  nameWithType: QuestRuinsofShadowmoon.QuestRuinsofShadowmoon(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.#ctor*
+  name: QuestRuinsofShadowmoon
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRuinsofShadowmoon__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.#ctor
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.QuestRebuildBlackTemple
-  nameWithType: QuestRebuildBlackTemple.QuestRebuildBlackTemple
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.QuestRuinsofShadowmoon
+  nameWithType: QuestRuinsofShadowmoon.QuestRuinsofShadowmoon
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRebuildBlackTemple_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestRebuildBlackTemple.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.OnComplete*
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRuinsofShadowmoon_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestRuinsofShadowmoon.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.OnComplete*
   name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRebuildBlackTemple_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRuinsofShadowmoon_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.OnComplete
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.OnComplete
-  nameWithType: QuestRebuildBlackTemple.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.OnComplete
+  nameWithType: QuestRuinsofShadowmoon.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.RewardDescription
   name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRebuildBlackTemple_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.RewardDescription
-  nameWithType: QuestRebuildBlackTemple.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.RewardDescription*
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRuinsofShadowmoon_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.RewardDescription
+  nameWithType: QuestRuinsofShadowmoon.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.RewardDescription*
   name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRebuildBlackTemple_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRuinsofShadowmoon_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.RewardDescription
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.RewardDescription
-  nameWithType: QuestRebuildBlackTemple.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.RewardDescription
+  nameWithType: QuestRuinsofShadowmoon.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.RewardFlavour
   name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRebuildBlackTemple_RewardFlavour
-  commentId: P:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.RewardFlavour
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.RewardFlavour
-  nameWithType: QuestRebuildBlackTemple.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.RewardFlavour*
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRuinsofShadowmoon_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.RewardFlavour
+  nameWithType: QuestRuinsofShadowmoon.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.RewardFlavour*
   name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRebuildBlackTemple_RewardFlavour_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestRuinsofShadowmoon_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.RewardFlavour
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRebuildBlackTemple.RewardFlavour
-  nameWithType: QuestRebuildBlackTemple.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestRuinsofShadowmoon.RewardFlavour
+  nameWithType: QuestRuinsofShadowmoon.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Frostwolf
   name: WarcraftLegacies.Source.Quests.Frostwolf
   href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.html
