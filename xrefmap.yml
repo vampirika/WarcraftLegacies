@@ -11847,6 +11847,28 @@ references:
   isSpec: "True"
   fullName: MacroTools.ObjectiveSystem.Objectives.ControlPointBased.ObjectiveControlPoint.Position
   nameWithType: ObjectiveControlPoint.Position
+- uid: MacroTools.ObjectiveSystem.Objectives.ControlPointBased.ObjectiveControlPoints
+  name: ObjectiveControlPoints
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.ControlPointBased.ObjectiveControlPoints.html
+  commentId: T:MacroTools.ObjectiveSystem.Objectives.ControlPointBased.ObjectiveControlPoints
+  fullName: MacroTools.ObjectiveSystem.Objectives.ControlPointBased.ObjectiveControlPoints
+  nameWithType: ObjectiveControlPoints
+- uid: MacroTools.ObjectiveSystem.Objectives.ControlPointBased.ObjectiveControlPoints.#ctor(List{MacroTools.ControlPointSystem.ControlPoint},System.String)
+  name: ObjectiveControlPoints(List<ControlPoint>, String)
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.ControlPointBased.ObjectiveControlPoints.html#MacroTools_ObjectiveSystem_Objectives_ControlPointBased_ObjectiveControlPoints__ctor_List_MacroTools_ControlPointSystem_ControlPoint__System_String_
+  commentId: M:MacroTools.ObjectiveSystem.Objectives.ControlPointBased.ObjectiveControlPoints.#ctor(List{MacroTools.ControlPointSystem.ControlPoint},System.String)
+  name.vb: ObjectiveControlPoints(List(Of ControlPoint), String)
+  fullName: MacroTools.ObjectiveSystem.Objectives.ControlPointBased.ObjectiveControlPoints.ObjectiveControlPoints(List<MacroTools.ControlPointSystem.ControlPoint>, System.String)
+  fullName.vb: MacroTools.ObjectiveSystem.Objectives.ControlPointBased.ObjectiveControlPoints.ObjectiveControlPoints(List(Of MacroTools.ControlPointSystem.ControlPoint), System.String)
+  nameWithType: ObjectiveControlPoints.ObjectiveControlPoints(List<ControlPoint>, String)
+  nameWithType.vb: ObjectiveControlPoints.ObjectiveControlPoints(List(Of ControlPoint), String)
+- uid: MacroTools.ObjectiveSystem.Objectives.ControlPointBased.ObjectiveControlPoints.#ctor*
+  name: ObjectiveControlPoints
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.ControlPointBased.ObjectiveControlPoints.html#MacroTools_ObjectiveSystem_Objectives_ControlPointBased_ObjectiveControlPoints__ctor_
+  commentId: Overload:MacroTools.ObjectiveSystem.Objectives.ControlPointBased.ObjectiveControlPoints.#ctor
+  isSpec: "True"
+  fullName: MacroTools.ObjectiveSystem.Objectives.ControlPointBased.ObjectiveControlPoints.ObjectiveControlPoints
+  nameWithType: ObjectiveControlPoints.ObjectiveControlPoints
 - uid: MacroTools.ObjectiveSystem.Objectives.FactionBased
   name: MacroTools.ObjectiveSystem.Objectives.FactionBased
   href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.FactionBased.html
@@ -13606,12 +13628,12 @@ references:
   commentId: T:MacroTools.PassiveAbilities.PersistentSoul
   fullName: MacroTools.PassiveAbilities.PersistentSoul
   nameWithType: PersistentSoul
-- uid: MacroTools.PassiveAbilities.PersistentSoul.#ctor(System.Int32,System.Int32)
-  name: PersistentSoul(Int32, Int32)
-  href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html#MacroTools_PassiveAbilities_PersistentSoul__ctor_System_Int32_System_Int32_
-  commentId: M:MacroTools.PassiveAbilities.PersistentSoul.#ctor(System.Int32,System.Int32)
-  fullName: MacroTools.PassiveAbilities.PersistentSoul.PersistentSoul(System.Int32, System.Int32)
-  nameWithType: PersistentSoul.PersistentSoul(Int32, Int32)
+- uid: MacroTools.PassiveAbilities.PersistentSoul.#ctor(System.Int32,System.Int32,System.Int32)
+  name: PersistentSoul(Int32, Int32, Int32)
+  href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html#MacroTools_PassiveAbilities_PersistentSoul__ctor_System_Int32_System_Int32_System_Int32_
+  commentId: M:MacroTools.PassiveAbilities.PersistentSoul.#ctor(System.Int32,System.Int32,System.Int32)
+  fullName: MacroTools.PassiveAbilities.PersistentSoul.PersistentSoul(System.Int32, System.Int32, System.Int32)
+  nameWithType: PersistentSoul.PersistentSoul(Int32, Int32, Int32)
 - uid: MacroTools.PassiveAbilities.PersistentSoul.#ctor*
   name: PersistentSoul
   href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html#MacroTools_PassiveAbilities_PersistentSoul__ctor_

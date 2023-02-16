@@ -2109,7 +2109,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objective.html",
-          "hash": "FG6wnta5ilCrNU1LNeneyA=="
+          "hash": "16QYCMat8lDrMf7/M/Nh9Q=="
         }
       },
       "is_incremental": false,
@@ -2189,11 +2189,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.ControlPointBased.ObjectiveControlPoints.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.ControlPointBased.ObjectiveControlPoints.html",
+          "hash": "YH9TbvzeaR8HNhHiINTCPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.ControlPointBased.yml",
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.ControlPointBased.html",
-          "hash": "4V1CELfUoUn2EZrI+RvdTg=="
+          "hash": "nXep4NuAXxcmUq89FIkvqw=="
         }
       },
       "is_incremental": false,
@@ -2877,7 +2889,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html",
-          "hash": "eLvqaPqX6rniTRm7oeKJzQ=="
+          "hash": "Z/pDPTrSnrFT5+JVqdpNYw=="
         }
       },
       "is_incremental": false,
@@ -4137,7 +4149,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "4kpThrp+rkTVPtpW3eys1A=="
+          "hash": "CFUgegggYfTg/We9gAceTA=="
         }
       },
       "is_incremental": false,
@@ -5661,7 +5673,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestWorldShaman.html",
-          "hash": "OoQvl9Tv+hBeSLMlXlE4gA=="
+          "hash": "5AP037CABbfmZFTMaZJTCw=="
         }
       },
       "is_incremental": false,
@@ -8337,7 +8349,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.ScourgeSpellSetup.html",
-          "hash": "87IRv5krs38HiAJSV1UBBQ=="
+          "hash": "12N0hhF009lmP51Pk7Yg8g=="
         }
       },
       "is_incremental": false,
@@ -8616,7 +8628,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 710,
+          "total_file_count": 711,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
