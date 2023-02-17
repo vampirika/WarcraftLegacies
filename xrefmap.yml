@@ -5617,6 +5617,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.ControlPointSystem.ControlPointManager.Instance
   nameWithType: ControlPointManager.Instance
+- uid: MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility
+  name: RegenerationAbility
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_RegenerationAbility
+  commentId: P:MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility
+  nameWithType: ControlPointManager.RegenerationAbility
+- uid: MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility*
+  name: RegenerationAbility
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_RegenerationAbility_
+  commentId: Overload:MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility
+  nameWithType: ControlPointManager.RegenerationAbility
 - uid: MacroTools.ControlPointSystem.ControlPointManager.Register(MacroTools.ControlPointSystem.ControlPoint)
   name: Register(ControlPoint)
   href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_Register_MacroTools_ControlPointSystem_ControlPoint_
@@ -36080,38 +36093,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Spells.TitanForgeArtifact.OnCast
   nameWithType: TitanForgeArtifact.OnCast
-- uid: WarcraftLegacies.Source.Spells.WeaponEmpowerment
-  name: WeaponEmpowerment
-  href: api-source/WarcraftLegacies.Source.Spells.WeaponEmpowerment.html
-  commentId: T:WarcraftLegacies.Source.Spells.WeaponEmpowerment
-  fullName: WarcraftLegacies.Source.Spells.WeaponEmpowerment
-  nameWithType: WeaponEmpowerment
-- uid: WarcraftLegacies.Source.Spells.WeaponEmpowerment.#ctor(System.Int32)
-  name: WeaponEmpowerment(Int32)
-  href: api-source/WarcraftLegacies.Source.Spells.WeaponEmpowerment.html#WarcraftLegacies_Source_Spells_WeaponEmpowerment__ctor_System_Int32_
-  commentId: M:WarcraftLegacies.Source.Spells.WeaponEmpowerment.#ctor(System.Int32)
-  fullName: WarcraftLegacies.Source.Spells.WeaponEmpowerment.WeaponEmpowerment(System.Int32)
-  nameWithType: WeaponEmpowerment.WeaponEmpowerment(Int32)
-- uid: WarcraftLegacies.Source.Spells.WeaponEmpowerment.#ctor*
-  name: WeaponEmpowerment
-  href: api-source/WarcraftLegacies.Source.Spells.WeaponEmpowerment.html#WarcraftLegacies_Source_Spells_WeaponEmpowerment__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Spells.WeaponEmpowerment.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Spells.WeaponEmpowerment.WeaponEmpowerment
-  nameWithType: WeaponEmpowerment.WeaponEmpowerment
-- uid: WarcraftLegacies.Source.Spells.WeaponEmpowerment.OnLearn(unit)
-  name: OnLearn(unit)
-  href: api-source/WarcraftLegacies.Source.Spells.WeaponEmpowerment.html#WarcraftLegacies_Source_Spells_WeaponEmpowerment_OnLearn_unit_
-  commentId: M:WarcraftLegacies.Source.Spells.WeaponEmpowerment.OnLearn(unit)
-  fullName: WarcraftLegacies.Source.Spells.WeaponEmpowerment.OnLearn(unit)
-  nameWithType: WeaponEmpowerment.OnLearn(unit)
-- uid: WarcraftLegacies.Source.Spells.WeaponEmpowerment.OnLearn*
-  name: OnLearn
-  href: api-source/WarcraftLegacies.Source.Spells.WeaponEmpowerment.html#WarcraftLegacies_Source_Spells_WeaponEmpowerment_OnLearn_
-  commentId: Overload:WarcraftLegacies.Source.Spells.WeaponEmpowerment.OnLearn
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Spells.WeaponEmpowerment.OnLearn
-  nameWithType: WeaponEmpowerment.OnLearn
 - uid: WarcraftLegacies.Source.UnitTypes
   name: WarcraftLegacies.Source.UnitTypes
   href: api-source/WarcraftLegacies.Source.UnitTypes.html

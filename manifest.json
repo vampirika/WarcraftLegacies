@@ -1101,7 +1101,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html",
-          "hash": "PsrljfoixgUgV7gN3QcVgQ=="
+          "hash": "J0TgPQ8ToAL/8aex3Ou4/g=="
         }
       },
       "is_incremental": false,
@@ -8489,23 +8489,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Spells.WeaponEmpowerment.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Spells.WeaponEmpowerment.html",
-          "hash": "haQH6BJ6I8izllmus3KcDQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Spells.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Spells.html",
-          "hash": "GwwyRm+JqtDRvMYQZM3HmQ=="
+          "hash": "49bZh0N8koNtJ5qQrWXHYQ=="
         }
       },
       "is_incremental": false,
@@ -8553,7 +8541,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "osUiIuz4jkkOHY52R9rHGg=="
+          "hash": "/rNGHgG6kKK8BzuN3kTzag=="
         }
       },
       "is_incremental": false,
@@ -8628,7 +8616,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 711,
+          "total_file_count": 710,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
