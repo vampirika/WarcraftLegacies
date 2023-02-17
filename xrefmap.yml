@@ -21726,31 +21726,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Mechanics.Goblins.Trader.OnTrained
   nameWithType: Trader.OnTrained
-- uid: WarcraftLegacies.Source.Mechanics.Neutral
-  name: WarcraftLegacies.Source.Mechanics.Neutral
-  href: api-source/WarcraftLegacies.Source.Mechanics.Neutral.html
-  commentId: N:WarcraftLegacies.Source.Mechanics.Neutral
-  fullName: WarcraftLegacies.Source.Mechanics.Neutral
-  nameWithType: WarcraftLegacies.Source.Mechanics.Neutral
-- uid: WarcraftLegacies.Source.Mechanics.Neutral.GilneasGateTowers
-  name: GilneasGateTowers
-  href: api-source/WarcraftLegacies.Source.Mechanics.Neutral.GilneasGateTowers.html
-  commentId: T:WarcraftLegacies.Source.Mechanics.Neutral.GilneasGateTowers
-  fullName: WarcraftLegacies.Source.Mechanics.Neutral.GilneasGateTowers
-  nameWithType: GilneasGateTowers
-- uid: WarcraftLegacies.Source.Mechanics.Neutral.GilneasGateTowers.Setup(MacroTools.PreplacedUnitSystem)
-  name: Setup(PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Mechanics.Neutral.GilneasGateTowers.html#WarcraftLegacies_Source_Mechanics_Neutral_GilneasGateTowers_Setup_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Mechanics.Neutral.GilneasGateTowers.Setup(MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Mechanics.Neutral.GilneasGateTowers.Setup(MacroTools.PreplacedUnitSystem)
-  nameWithType: GilneasGateTowers.Setup(PreplacedUnitSystem)
-- uid: WarcraftLegacies.Source.Mechanics.Neutral.GilneasGateTowers.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Mechanics.Neutral.GilneasGateTowers.html#WarcraftLegacies_Source_Mechanics_Neutral_GilneasGateTowers_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Mechanics.Neutral.GilneasGateTowers.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Mechanics.Neutral.GilneasGateTowers.Setup
-  nameWithType: GilneasGateTowers.Setup
 - uid: WarcraftLegacies.Source.Mechanics.Quelthalas
   name: WarcraftLegacies.Source.Mechanics.Quelthalas
   href: api-source/WarcraftLegacies.Source.Mechanics.Quelthalas.html
