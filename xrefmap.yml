@@ -8559,6 +8559,19 @@ references:
   commentId: E:MacroTools.FactionSystem.Faction.JoinedTeam
   fullName: MacroTools.FactionSystem.Faction.JoinedTeam
   nameWithType: Faction.JoinedTeam
+- uid: MacroTools.FactionSystem.Faction.Leave
+  name: Leave()
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_Leave
+  commentId: M:MacroTools.FactionSystem.Faction.Leave
+  fullName: MacroTools.FactionSystem.Faction.Leave()
+  nameWithType: Faction.Leave()
+- uid: MacroTools.FactionSystem.Faction.Leave*
+  name: Leave
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_Leave_
+  commentId: Overload:MacroTools.FactionSystem.Faction.Leave
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Faction.Leave
+  nameWithType: Faction.Leave
 - uid: MacroTools.FactionSystem.Faction.LeftGame
   name: LeftGame
   href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_LeftGame
