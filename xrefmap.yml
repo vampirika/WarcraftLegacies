@@ -12445,12 +12445,12 @@ references:
   commentId: T:MacroTools.ObjectiveSystem.Objectives.TimeBased.ObjectiveExpire
   fullName: MacroTools.ObjectiveSystem.Objectives.TimeBased.ObjectiveExpire
   nameWithType: ObjectiveExpire
-- uid: MacroTools.ObjectiveSystem.Objectives.TimeBased.ObjectiveExpire.#ctor(System.Int32)
-  name: ObjectiveExpire(Int32)
-  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TimeBased.ObjectiveExpire.html#MacroTools_ObjectiveSystem_Objectives_TimeBased_ObjectiveExpire__ctor_System_Int32_
-  commentId: M:MacroTools.ObjectiveSystem.Objectives.TimeBased.ObjectiveExpire.#ctor(System.Int32)
-  fullName: MacroTools.ObjectiveSystem.Objectives.TimeBased.ObjectiveExpire.ObjectiveExpire(System.Int32)
-  nameWithType: ObjectiveExpire.ObjectiveExpire(Int32)
+- uid: MacroTools.ObjectiveSystem.Objectives.TimeBased.ObjectiveExpire.#ctor(System.Int32,System.String)
+  name: ObjectiveExpire(Int32, String)
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TimeBased.ObjectiveExpire.html#MacroTools_ObjectiveSystem_Objectives_TimeBased_ObjectiveExpire__ctor_System_Int32_System_String_
+  commentId: M:MacroTools.ObjectiveSystem.Objectives.TimeBased.ObjectiveExpire.#ctor(System.Int32,System.String)
+  fullName: MacroTools.ObjectiveSystem.Objectives.TimeBased.ObjectiveExpire.ObjectiveExpire(System.Int32, System.String)
+  nameWithType: ObjectiveExpire.ObjectiveExpire(Int32, String)
 - uid: MacroTools.ObjectiveSystem.Objectives.TimeBased.ObjectiveExpire.#ctor*
   name: ObjectiveExpire
   href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TimeBased.ObjectiveExpire.html#MacroTools_ObjectiveSystem_Objectives_TimeBased_ObjectiveExpire__ctor_
