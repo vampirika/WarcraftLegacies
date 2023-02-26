@@ -13654,12 +13654,15 @@ references:
   commentId: T:MacroTools.PassiveAbilities.PersistentSoul
   fullName: MacroTools.PassiveAbilities.PersistentSoul
   nameWithType: PersistentSoul
-- uid: MacroTools.PassiveAbilities.PersistentSoul.#ctor(System.Int32,System.Int32,System.Int32)
-  name: PersistentSoul(Int32, Int32, Int32)
-  href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html#MacroTools_PassiveAbilities_PersistentSoul__ctor_System_Int32_System_Int32_System_Int32_
-  commentId: M:MacroTools.PassiveAbilities.PersistentSoul.#ctor(System.Int32,System.Int32,System.Int32)
-  fullName: MacroTools.PassiveAbilities.PersistentSoul.PersistentSoul(System.Int32, System.Int32, System.Int32)
-  nameWithType: PersistentSoul.PersistentSoul(Int32, Int32, Int32)
+- uid: MacroTools.PassiveAbilities.PersistentSoul.#ctor(System.Int32,System.Int32,List{System.Int32})
+  name: PersistentSoul(Int32, Int32, List<Int32>)
+  href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html#MacroTools_PassiveAbilities_PersistentSoul__ctor_System_Int32_System_Int32_List_System_Int32__
+  commentId: M:MacroTools.PassiveAbilities.PersistentSoul.#ctor(System.Int32,System.Int32,List{System.Int32})
+  name.vb: PersistentSoul(Int32, Int32, List(Of Int32))
+  fullName: MacroTools.PassiveAbilities.PersistentSoul.PersistentSoul(System.Int32, System.Int32, List<System.Int32>)
+  fullName.vb: MacroTools.PassiveAbilities.PersistentSoul.PersistentSoul(System.Int32, System.Int32, List(Of System.Int32))
+  nameWithType: PersistentSoul.PersistentSoul(Int32, Int32, List<Int32>)
+  nameWithType.vb: PersistentSoul.PersistentSoul(Int32, Int32, List(Of Int32))
 - uid: MacroTools.PassiveAbilities.PersistentSoul.#ctor*
   name: PersistentSoul
   href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html#MacroTools_PassiveAbilities_PersistentSoul__ctor_

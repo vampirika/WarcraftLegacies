@@ -125,19 +125,19 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_PersistentSoul__ctor_System_Int32_System_Int32_System_Int32_.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.PersistentSoul.%23ctor(System.Int32%2CSystem.Int32%2CSystem.Int32)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_PassiveAbilities_PersistentSoul__ctor_System_Int32_System_Int32_List_System_Int32__.md&amp;value=---%0Auid%3A%20MacroTools.PassiveAbilities.PersistentSoul.%23ctor(System.Int32%2CSystem.Int32%2CList%7BSystem.Int32%7D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/PassiveAbilities/PersistentSoul.cs/#L24">View Source</a>
   </span>
   <a id="MacroTools_PassiveAbilities_PersistentSoul__ctor_" data-uid="MacroTools.PassiveAbilities.PersistentSoul.#ctor*"></a>
-  <h4 id="MacroTools_PassiveAbilities_PersistentSoul__ctor_System_Int32_System_Int32_System_Int32_" data-uid="MacroTools.PassiveAbilities.PersistentSoul.#ctor(System.Int32,System.Int32,System.Int32)">PersistentSoul(Int32, Int32, Int32)</h4>
+  <h4 id="MacroTools_PassiveAbilities_PersistentSoul__ctor_System_Int32_System_Int32_List_System_Int32__" data-uid="MacroTools.PassiveAbilities.PersistentSoul.#ctor(System.Int32,System.Int32,List{System.Int32})">PersistentSoul(Int32, Int32, List&lt;Int32&gt;)</h4>
   <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="MacroTools.PassiveAbilities.PersistentSoul.html">PersistentSoul</a> class.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public PersistentSoul(int unitTypeId, int abilityTypeId, int ignoredAbilityId = 0)</code></pre>
+    <pre><code class="lang-csharp hljs">public PersistentSoul(int unitTypeId, int abilityTypeId, List&lt;int&gt; ignoredAbilityId)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -162,9 +162,9 @@
 </td>
       </tr>
       <tr>
-        <td><span class="xref">System.Int32</span></td>
+        <td><span class="xref">List</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
         <td><span class="parametername">ignoredAbilityId</span></td>
-        <td><p>Units with this ability are not affected by <a class="xref" href="MacroTools.PassiveAbilities.PersistentSoul.html">PersistentSoul</a></p>
+        <td><p>Units with these abilities are not affected by <a class="xref" href="MacroTools.PassiveAbilities.PersistentSoul.html">PersistentSoul</a></p>
 </td>
       </tr>
     </tbody>
