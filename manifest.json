@@ -5585,6 +5585,90 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestReanimateSylvanas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestReanimateSylvanas.html",
+          "hash": "+TdJAgdzpkkju8XLA7Z1sg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestRetakeSunwell.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestRetakeSunwell.html",
+          "hash": "7iThzt5AS4heHUqanICDlA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.html",
+          "hash": "o24M2gebLYBodEmwQSpeFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestTakeRevenge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestTakeRevenge.html",
+          "hash": "RfEOTI0GfF4/YOQ3I11EWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestTheNine.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestTheNine.html",
+          "hash": "P8XjOVKs96Esbt9hokPmAg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestThePlaguelands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestThePlaguelands.html",
+          "hash": "ECxCBpBBXTkAkkt7yH+2Tw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.html",
+          "hash": "WYjMSS6tdaAAGsS/D6CMHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.yml",
       "output": {
         ".html": {
@@ -5662,6 +5746,90 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.html",
           "hash": "IhLUTzNM+ZN+H/NtieWRDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestDuskhaven.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestDuskhaven.html",
+          "hash": "wEWVzLzAdVXC0XrCch5dZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGilneasCity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGilneasCity.html",
+          "hash": "OHGzSq3d4KLddfqOVdqcaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.html",
+          "hash": "dQmfNIfegco0oxUFJh5DRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestKeelHarbor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestKeelHarbor.html",
+          "hash": "imDQ6Wkd/wjWfzAYoEa2HA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestStormglen.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestStormglen.html",
+          "hash": "HB5BeCo5E8cCCO9S+Mo65w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestTempestReach.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestTempestReach.html",
+          "hash": "8fdi+JtrFtdFqAfp1ZAkUg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.html",
+          "hash": "iQPUTdqMK/xVLnZQCmGa/A=="
         }
       },
       "is_incremental": false,
@@ -5865,7 +6033,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.html",
-          "hash": "jD/7ABQq1cJ0yAU/50Qp4Q=="
+          "hash": "iNFd7p4c25IWuFc+3ciETw=="
         }
       },
       "is_incremental": false,
@@ -6893,6 +7061,114 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.html",
+          "hash": "eE7Lr/CsC4q+mUEWOwaLQA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.html",
+          "hash": "10FrFH3nETfGwM/6N0IxfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestGundrak.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestGundrak.html",
+          "hash": "9mcEr64xmOs/s1ekUPo9+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestHakkar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestHakkar.html",
+          "hash": "N8+BwR3mnSt4JOdFOhmVQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestJinthaAlor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestJinthaAlor.html",
+          "hash": "81Ggk+rmRMn3IqZ+6LVWYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.html",
+          "hash": "6hF5PhQT3fu76hvgTlgmTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.html",
+          "hash": "96dW7RCeSDR5abDMG8xVlw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZulgurub.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZulgurub.html",
+          "hash": "CyDud6YaJXm3Rix7pGjR5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.html",
+          "hash": "nKcRHa7oePYJbk/65QMfCQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.yml",
       "output": {
         ".html": {
@@ -7437,7 +7713,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.KultirasSetup.html",
-          "hash": "Hg/Ur/yyXXLdqwP0cWhIFA=="
+          "hash": "dH3OFEKoXSHnUw4/Ld4cEQ=="
         }
       },
       "is_incremental": false,
@@ -7461,7 +7737,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.LordaeronSetup.html",
-          "hash": "29p0znyqUne/HvdSTPELdw=="
+          "hash": "TEiPh31CRbot1eLM6GQGDg=="
         }
       },
       "is_incremental": false,
@@ -7521,7 +7797,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.StormwindSetup.html",
-          "hash": "eTxuE89WpFofRZQrGcFH1g=="
+          "hash": "s2nTIO5S8CPz7fhmERkUJg=="
         }
       },
       "is_incremental": false,
@@ -7661,6 +7937,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDragonmaw.html",
+          "hash": "dgcfLd4RC4MFW7oEzs7+pw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDruids.yml",
       "output": {
         ".html": {
@@ -7685,11 +7973,35 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendForsaken.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendForsaken.html",
+          "hash": "u+mlPEEU0NwAieKGIMb7ZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.html",
           "hash": "fCf+4ZFGyiJQkV+4l9brXA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html",
+          "hash": "1ZJsCxuch/KHgv5cUZ4I2w=="
         }
       },
       "is_incremental": false,
@@ -7829,6 +8141,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html",
+          "hash": "sv/uEPxPSMwOFlfPzuB5Hw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.yml",
       "output": {
         ".html": {
@@ -7845,7 +8169,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.html",
-          "hash": "lDVP3X/IpiWJ5neMFXloww=="
+          "hash": "QaOzk81BCWp5XMKFpJRBHA=="
         }
       },
       "is_incremental": false,
@@ -7949,11 +8273,35 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.html",
+          "hash": "+/oYzNCE5KTyenVQdEg+1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.html",
           "hash": "bRo8+2YzunKWJ+rYYMkMTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.html",
+          "hash": "wYAvVYHgokPw/0NB2X8Few=="
         }
       },
       "is_incremental": false,
@@ -8105,11 +8453,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.ZandalarQuestSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.ZandalarQuestSetup.html",
+          "hash": "bgX0AhQnzM1ELh2D088FuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.html",
-          "hash": "i+28Kw4hUZ5mt8pPkA4DzQ=="
+          "hash": "XLr1xrPJ1CnLFbxOwQHMcA=="
         }
       },
       "is_incremental": false,
@@ -8301,7 +8661,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.LordaeronSpellSetup.html",
-          "hash": "KOA9ip65dntQ9KQn4N2wrg=="
+          "hash": "MtGEN5SOw/t0tblIYBPtYA=="
         }
       },
       "is_incremental": false,
@@ -8517,7 +8877,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "ormI/I0nXAnlpyJrcjA0Ew=="
+          "hash": "NFHUMlX9CluWRbTdZQDf1g=="
         }
       },
       "is_incremental": false,
@@ -8592,7 +8952,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 708,
+          "total_file_count": 738,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
