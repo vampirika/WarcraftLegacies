@@ -13364,6 +13364,32 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilities.Execute.Execute
   nameWithType: Execute.Execute
+- uid: MacroTools.PassiveAbilities.Execute.DamageMultCapital
+  name: DamageMultCapital
+  href: api-macroTools/MacroTools.PassiveAbilities.Execute.html#MacroTools_PassiveAbilities_Execute_DamageMultCapital
+  commentId: P:MacroTools.PassiveAbilities.Execute.DamageMultCapital
+  fullName: MacroTools.PassiveAbilities.Execute.DamageMultCapital
+  nameWithType: Execute.DamageMultCapital
+- uid: MacroTools.PassiveAbilities.Execute.DamageMultCapital*
+  name: DamageMultCapital
+  href: api-macroTools/MacroTools.PassiveAbilities.Execute.html#MacroTools_PassiveAbilities_Execute_DamageMultCapital_
+  commentId: Overload:MacroTools.PassiveAbilities.Execute.DamageMultCapital
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.Execute.DamageMultCapital
+  nameWithType: Execute.DamageMultCapital
+- uid: MacroTools.PassiveAbilities.Execute.DamageMultControlPoint
+  name: DamageMultControlPoint
+  href: api-macroTools/MacroTools.PassiveAbilities.Execute.html#MacroTools_PassiveAbilities_Execute_DamageMultControlPoint
+  commentId: P:MacroTools.PassiveAbilities.Execute.DamageMultControlPoint
+  fullName: MacroTools.PassiveAbilities.Execute.DamageMultControlPoint
+  nameWithType: Execute.DamageMultControlPoint
+- uid: MacroTools.PassiveAbilities.Execute.DamageMultControlPoint*
+  name: DamageMultControlPoint
+  href: api-macroTools/MacroTools.PassiveAbilities.Execute.html#MacroTools_PassiveAbilities_Execute_DamageMultControlPoint_
+  commentId: Overload:MacroTools.PassiveAbilities.Execute.DamageMultControlPoint
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.Execute.DamageMultControlPoint
+  nameWithType: Execute.DamageMultControlPoint
 - uid: MacroTools.PassiveAbilities.Execute.DamageMultNonResistant
   name: DamageMultNonResistant
   href: api-macroTools/MacroTools.PassiveAbilities.Execute.html#MacroTools_PassiveAbilities_Execute_DamageMultNonResistant
