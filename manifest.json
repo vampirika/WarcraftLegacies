@@ -6533,6 +6533,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.html",
+          "hash": "izZZdhkcLxKKzNFuq+0FMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestRagnaros.yml",
       "output": {
         ".html": {
@@ -7173,7 +7185,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.html",
-          "hash": "RvzQqe88iGAKT+d5oS9I4A=="
+          "hash": "diiqEZP8MtOKWkpbc0RKYQ=="
         }
       },
       "is_incremental": false,
@@ -8421,7 +8433,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.SharedQuestSetup.html",
-          "hash": "/kFbnPe/3fce5hWjWKhbmg=="
+          "hash": "VzfrZE+REdmMeednHpdetQ=="
         }
       },
       "is_incremental": false,
@@ -8877,7 +8889,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "NFHUMlX9CluWRbTdZQDf1g=="
+          "hash": "KftjGYjbiek5mWBnC/YfOw=="
         }
       },
       "is_incremental": false,
@@ -8952,7 +8964,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 738,
+          "total_file_count": 739,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

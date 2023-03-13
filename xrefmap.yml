@@ -28824,6 +28824,64 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.QuestBookOfMedivh.RewardFlavour
   nameWithType: QuestBookOfMedivh.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare
+  name: QuestDragonsOfNightmare
+  href: api-source/WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.html
+  commentId: T:WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare
+  fullName: WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare
+  nameWithType: QuestDragonsOfNightmare
+- uid: WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.#ctor(unit,unit,System.String,System.String,unit,unit,Rectangle,Rectangle,System.String)
+  name: QuestDragonsOfNightmare(unit, unit, String, String, unit, unit, Rectangle, Rectangle, String)
+  href: api-source/WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.html#WarcraftLegacies_Source_Quests_QuestDragonsOfNightmare__ctor_unit_unit_System_String_System_String_unit_unit_Rectangle_Rectangle_System_String_
+  commentId: M:WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.#ctor(unit,unit,System.String,System.String,unit,unit,Rectangle,Rectangle,System.String)
+  fullName: WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.QuestDragonsOfNightmare(unit, unit, System.String, System.String, unit, unit, Rectangle, Rectangle, System.String)
+  nameWithType: QuestDragonsOfNightmare.QuestDragonsOfNightmare(unit, unit, String, String, unit, unit, Rectangle, Rectangle, String)
+- uid: WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.#ctor*
+  name: QuestDragonsOfNightmare
+  href: api-source/WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.html#WarcraftLegacies_Source_Quests_QuestDragonsOfNightmare__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.QuestDragonsOfNightmare
+  nameWithType: QuestDragonsOfNightmare.QuestDragonsOfNightmare
+- uid: WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.html#WarcraftLegacies_Source_Quests_QuestDragonsOfNightmare_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestDragonsOfNightmare.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.html#WarcraftLegacies_Source_Quests_QuestDragonsOfNightmare_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.OnComplete
+  nameWithType: QuestDragonsOfNightmare.OnComplete
+- uid: WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.html#WarcraftLegacies_Source_Quests_QuestDragonsOfNightmare_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.RewardDescription
+  nameWithType: QuestDragonsOfNightmare.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.html#WarcraftLegacies_Source_Quests_QuestDragonsOfNightmare_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.RewardDescription
+  nameWithType: QuestDragonsOfNightmare.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.html#WarcraftLegacies_Source_Quests_QuestDragonsOfNightmare_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.RewardFlavour
+  nameWithType: QuestDragonsOfNightmare.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.html#WarcraftLegacies_Source_Quests_QuestDragonsOfNightmare_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.RewardFlavour
+  nameWithType: QuestDragonsOfNightmare.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.QuestRagnaros
   name: QuestRagnaros
   href: api-source/WarcraftLegacies.Source.Quests.QuestRagnaros.html
