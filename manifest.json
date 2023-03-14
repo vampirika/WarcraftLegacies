@@ -7001,6 +7001,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.html",
+          "hash": "lZ1eSINJ9PsPvOkv4ZDeqg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.QuestMoreWyverns.yml",
       "output": {
         ".html": {
@@ -7065,7 +7077,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.html",
-          "hash": "v0K9vxGP1AyMEqAj3ztjAg=="
+          "hash": "6hjXussKJRohA9yquplD9Q=="
         }
       },
       "is_incremental": false,
@@ -8889,7 +8901,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "KftjGYjbiek5mWBnC/YfOw=="
+          "hash": "pjBMefwdoj5g58EAVAxKIQ=="
         }
       },
       "is_incremental": false,
@@ -8964,7 +8976,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 739,
+          "total_file_count": 740,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

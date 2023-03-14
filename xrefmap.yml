@@ -31273,6 +31273,77 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.RewardFlavour
   nameWithType: QuestJergosh.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp
+  name: QuestLumberCamp
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.html
+  commentId: T:WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp
+  nameWithType: QuestLumberCamp
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.#ctor(Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestLumberCamp(Rectangle, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.html#WarcraftLegacies_Source_Quests_Warsong_QuestLumberCamp__ctor_Rectangle_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.#ctor(Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.QuestLumberCamp(Rectangle, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestLumberCamp.QuestLumberCamp(Rectangle, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.#ctor*
+  name: QuestLumberCamp
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.html#WarcraftLegacies_Source_Quests_Warsong_QuestLumberCamp__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.QuestLumberCamp
+  nameWithType: QuestLumberCamp.QuestLumberCamp
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.html#WarcraftLegacies_Source_Quests_Warsong_QuestLumberCamp_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestLumberCamp.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.html#WarcraftLegacies_Source_Quests_Warsong_QuestLumberCamp_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.OnComplete
+  nameWithType: QuestLumberCamp.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.OnFail(MacroTools.FactionSystem.Faction)
+  name: OnFail(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.html#WarcraftLegacies_Source_Quests_Warsong_QuestLumberCamp_OnFail_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.OnFail(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.OnFail(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestLumberCamp.OnFail(Faction)
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.OnFail*
+  name: OnFail
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.html#WarcraftLegacies_Source_Quests_Warsong_QuestLumberCamp_OnFail_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.OnFail
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.OnFail
+  nameWithType: QuestLumberCamp.OnFail
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.html#WarcraftLegacies_Source_Quests_Warsong_QuestLumberCamp_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.RewardDescription
+  nameWithType: QuestLumberCamp.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.html#WarcraftLegacies_Source_Quests_Warsong_QuestLumberCamp_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.RewardDescription
+  nameWithType: QuestLumberCamp.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.html#WarcraftLegacies_Source_Quests_Warsong_QuestLumberCamp_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.RewardFlavour
+  nameWithType: QuestLumberCamp.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.html#WarcraftLegacies_Source_Quests_Warsong_QuestLumberCamp_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.RewardFlavour
+  nameWithType: QuestLumberCamp.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Warsong.QuestMoreWyverns
   name: QuestMoreWyverns
   href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestMoreWyverns.html
