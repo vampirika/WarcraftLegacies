@@ -5453,11 +5453,35 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Druids.QuestRiseBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Druids.QuestRiseBase.html",
+          "hash": "VZMOSva54ImF1FOYoiUKtw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Druids.QuestShaladrassil.html",
           "hash": "LHwfUMDf+hMMsyKp6QtyLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Druids.QuestShrineBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Druids.QuestShrineBase.html",
+          "hash": "PKNNA8/b6uJazrsSbHupBw=="
         }
       },
       "is_incremental": false,
@@ -5481,7 +5505,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Druids.html",
-          "hash": "0xLPba4ZQ3pUZ67T1WTBxA=="
+          "hash": "TfNtVQPZY4mClSDK3PTtQA=="
         }
       },
       "is_incremental": false,
@@ -8901,7 +8925,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "pjBMefwdoj5g58EAVAxKIQ=="
+          "hash": "fIxkNchpcr9bsZ5bLC/qog=="
         }
       },
       "is_incremental": false,
@@ -8976,7 +9000,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 740,
+          "total_file_count": 742,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
