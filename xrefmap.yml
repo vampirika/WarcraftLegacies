@@ -23634,12 +23634,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens
   fullName: WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens
   nameWithType: QuestMalfurionAwakens
-- uid: WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.#ctor(Rectangle,unit,MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.LegendaryHero)
-  name: QuestMalfurionAwakens(Rectangle, unit, Artifact, LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.html#WarcraftLegacies_Source_Quests_Druids_QuestMalfurionAwakens__ctor_Rectangle_unit_MacroTools_ArtifactSystem_Artifact_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.#ctor(Rectangle,unit,MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.QuestMalfurionAwakens(Rectangle, unit, MacroTools.ArtifactSystem.Artifact, MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestMalfurionAwakens.QuestMalfurionAwakens(Rectangle, unit, Artifact, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.#ctor(Rectangle,Rectangle,unit,MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestMalfurionAwakens(Rectangle, Rectangle, unit, Artifact, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.html#WarcraftLegacies_Source_Quests_Druids_QuestMalfurionAwakens__ctor_Rectangle_Rectangle_unit_MacroTools_ArtifactSystem_Artifact_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.#ctor(Rectangle,Rectangle,unit,MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.QuestMalfurionAwakens(Rectangle, Rectangle, unit, MacroTools.ArtifactSystem.Artifact, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestMalfurionAwakens.QuestMalfurionAwakens(Rectangle, Rectangle, unit, Artifact, LegendaryHero)
 - uid: WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.#ctor*
   name: QuestMalfurionAwakens
   href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.html#WarcraftLegacies_Source_Quests_Druids_QuestMalfurionAwakens__ctor_
@@ -24997,6 +24997,64 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestFreeNerzhul.RewardFlavour
   nameWithType: QuestFreeNerzhul.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong
+  name: QuestScepterOfTheQueenWarsong
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.html
+  commentId: T:WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong
+  nameWithType: QuestScepterOfTheQueenWarsong
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.#ctor(Rectangle,MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.Capital)
+  name: QuestScepterOfTheQueenWarsong(Rectangle, Artifact, Capital)
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestScepterOfTheQueenWarsong__ctor_Rectangle_MacroTools_ArtifactSystem_Artifact_MacroTools_LegendSystem_Capital_
+  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.#ctor(Rectangle,MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.Capital)
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.QuestScepterOfTheQueenWarsong(Rectangle, MacroTools.ArtifactSystem.Artifact, MacroTools.LegendSystem.Capital)
+  nameWithType: QuestScepterOfTheQueenWarsong.QuestScepterOfTheQueenWarsong(Rectangle, Artifact, Capital)
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.#ctor*
+  name: QuestScepterOfTheQueenWarsong
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestScepterOfTheQueenWarsong__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.QuestScepterOfTheQueenWarsong
+  nameWithType: QuestScepterOfTheQueenWarsong.QuestScepterOfTheQueenWarsong
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestScepterOfTheQueenWarsong_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestScepterOfTheQueenWarsong.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestScepterOfTheQueenWarsong_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.OnComplete
+  nameWithType: QuestScepterOfTheQueenWarsong.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestScepterOfTheQueenWarsong_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.RewardDescription
+  nameWithType: QuestScepterOfTheQueenWarsong.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestScepterOfTheQueenWarsong_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.RewardDescription
+  nameWithType: QuestScepterOfTheQueenWarsong.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestScepterOfTheQueenWarsong_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.RewardFlavour
+  nameWithType: QuestScepterOfTheQueenWarsong.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.html#WarcraftLegacies_Source_Quests_Frostwolf_QuestScepterOfTheQueenWarsong_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.RewardFlavour
+  nameWithType: QuestScepterOfTheQueenWarsong.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul
   name: QuestStonemaul
   href: api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.html
@@ -27912,12 +27970,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand
   fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand
   nameWithType: QuestTyrHand
-- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.#ctor(Rectangle)
-  name: QuestTyrHand(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestTyrHand__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.QuestTyrHand(Rectangle)
-  nameWithType: QuestTyrHand.QuestTyrHand(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.#ctor(MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,Rectangle)
+  name: QuestTyrHand(Capital, Capital, Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestTyrHand__ctor_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_Capital_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.#ctor(MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.QuestTyrHand(MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.Capital, Rectangle)
+  nameWithType: QuestTyrHand.QuestTyrHand(Capital, Capital, Rectangle)
 - uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.#ctor*
   name: QuestTyrHand
   href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestTyrHand__ctor_
@@ -31628,64 +31686,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Warsong.QuestOrgrimmar.RewardFlavour
   nameWithType: QuestOrgrimmar.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong
-  name: QuestScepterOfTheQueenWarsong
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.html
-  commentId: T:WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong
-  nameWithType: QuestScepterOfTheQueenWarsong
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.#ctor(Rectangle,MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.Capital)
-  name: QuestScepterOfTheQueenWarsong(Rectangle, Artifact, Capital)
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.html#WarcraftLegacies_Source_Quests_Warsong_QuestScepterOfTheQueenWarsong__ctor_Rectangle_MacroTools_ArtifactSystem_Artifact_MacroTools_LegendSystem_Capital_
-  commentId: M:WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.#ctor(Rectangle,MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.Capital)
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.QuestScepterOfTheQueenWarsong(Rectangle, MacroTools.ArtifactSystem.Artifact, MacroTools.LegendSystem.Capital)
-  nameWithType: QuestScepterOfTheQueenWarsong.QuestScepterOfTheQueenWarsong(Rectangle, Artifact, Capital)
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.#ctor*
-  name: QuestScepterOfTheQueenWarsong
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.html#WarcraftLegacies_Source_Quests_Warsong_QuestScepterOfTheQueenWarsong__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.QuestScepterOfTheQueenWarsong
-  nameWithType: QuestScepterOfTheQueenWarsong.QuestScepterOfTheQueenWarsong
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.html#WarcraftLegacies_Source_Quests_Warsong_QuestScepterOfTheQueenWarsong_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestScepterOfTheQueenWarsong.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.html#WarcraftLegacies_Source_Quests_Warsong_QuestScepterOfTheQueenWarsong_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.OnComplete
-  nameWithType: QuestScepterOfTheQueenWarsong.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.html#WarcraftLegacies_Source_Quests_Warsong_QuestScepterOfTheQueenWarsong_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.RewardDescription
-  nameWithType: QuestScepterOfTheQueenWarsong.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.html#WarcraftLegacies_Source_Quests_Warsong_QuestScepterOfTheQueenWarsong_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.RewardDescription
-  nameWithType: QuestScepterOfTheQueenWarsong.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.RewardFlavour
-  name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.html#WarcraftLegacies_Source_Quests_Warsong_QuestScepterOfTheQueenWarsong_RewardFlavour
-  commentId: P:WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.RewardFlavour
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.RewardFlavour
-  nameWithType: QuestScepterOfTheQueenWarsong.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.RewardFlavour*
-  name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.html#WarcraftLegacies_Source_Quests_Warsong_QuestScepterOfTheQueenWarsong_RewardFlavour_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.RewardFlavour
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.RewardFlavour
-  nameWithType: QuestScepterOfTheQueenWarsong.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Warsong.QuestWarsongHold
   name: QuestWarsongHold
   href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestWarsongHold.html
@@ -37018,12 +37018,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup
   nameWithType: FrostwolfQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
-  name: Setup(PreplacedUnitSystem, AllLegendSetup)
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_FrostwolfQuestSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_AllLegendSetup_
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.AllLegendSetup)
-  nameWithType: FrostwolfQuestSetup.Setup(PreplacedUnitSystem, AllLegendSetup)
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup,WarcraftLegacies.Source.Setup.AllLegendSetup)
+  name: Setup(PreplacedUnitSystem, ArtifactSetup, AllLegendSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_FrostwolfQuestSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_ArtifactSetup_WarcraftLegacies_Source_Setup_AllLegendSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup,WarcraftLegacies.Source.Setup.AllLegendSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.ArtifactSetup, WarcraftLegacies.Source.Setup.AllLegendSetup)
+  nameWithType: FrostwolfQuestSetup.Setup(PreplacedUnitSystem, ArtifactSetup, AllLegendSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_FrostwolfQuestSetup_Setup_
@@ -37265,12 +37265,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup
   nameWithType: WarsongQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup,WarcraftLegacies.Source.Setup.AllLegendSetup)
-  name: Setup(PreplacedUnitSystem, ArtifactSetup, AllLegendSetup)
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_WarsongQuestSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_ArtifactSetup_WarcraftLegacies_Source_Setup_AllLegendSetup_
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.ArtifactSetup,WarcraftLegacies.Source.Setup.AllLegendSetup)
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.ArtifactSetup, WarcraftLegacies.Source.Setup.AllLegendSetup)
-  nameWithType: WarsongQuestSetup.Setup(PreplacedUnitSystem, ArtifactSetup, AllLegendSetup)
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
+  name: Setup(PreplacedUnitSystem, AllLegendSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_WarsongQuestSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_AllLegendSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.AllLegendSetup)
+  nameWithType: WarsongQuestSetup.Setup(PreplacedUnitSystem, AllLegendSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_WarsongQuestSetup_Setup_

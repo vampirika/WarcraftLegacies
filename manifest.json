@@ -5445,7 +5445,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.html",
-          "hash": "lEXG1GXCoSxQl2wEKOA6WQ=="
+          "hash": "Y8veu55SEY5vJStoCySt8A=="
         }
       },
       "is_incremental": false,
@@ -5729,6 +5729,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestScepterOfTheQueenWarsong.html",
+          "hash": "wDPvDAfNL2492mMK4Axs3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestStonemaul.yml",
       "output": {
         ".html": {
@@ -5769,7 +5781,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.html",
-          "hash": "IhLUTzNM+ZN+H/NtieWRDw=="
+          "hash": "eUJC0Wc7LFdB5cFsPixa6Q=="
         }
       },
       "is_incremental": false,
@@ -6333,7 +6345,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.html",
-          "hash": "YeF/1o3aDkOVraO4aXpzcg=="
+          "hash": "bAqth0MZhlpkwhjgdC2+1g=="
         }
       },
       "is_incremental": false,
@@ -6741,7 +6753,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Sentinels.QuestAstranaar.html",
-          "hash": "+t859CfnqUUtQ58zYf4+xg=="
+          "hash": "klpPqqXJYb5raBwT/6bbOw=="
         }
       },
       "is_incremental": false,
@@ -6993,7 +7005,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.QuestCrossroads.html",
-          "hash": "mh+c+d6m7do/rGHmMRy9uQ=="
+          "hash": "tEqcggolZH1Tookcz48YVA=="
         }
       },
       "is_incremental": false,
@@ -7061,18 +7073,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.QuestScepterOfTheQueenWarsong.html",
-          "hash": "/cvfb79XhmxeCmv9MquwVg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.QuestWarsongHold.yml",
       "output": {
         ".html": {
@@ -7101,7 +7101,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.html",
-          "hash": "6hjXussKJRohA9yquplD9Q=="
+          "hash": "qAATUF/ktGMh0YOFD3jhEg=="
         }
       },
       "is_incremental": false,
@@ -8337,7 +8337,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.FrostwolfQuestSetup.html",
-          "hash": "bRo8+2YzunKWJ+rYYMkMTw=="
+          "hash": "EKSLZya7sRxsB0jsxBkUiA=="
         }
       },
       "is_incremental": false,
@@ -8493,7 +8493,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.html",
-          "hash": "EBqC88FXsWHea3UZ209gSA=="
+          "hash": "PQ0YyrA931wJ4dhStjxLqQ=="
         }
       },
       "is_incremental": false,
@@ -8925,7 +8925,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "fIxkNchpcr9bsZ5bLC/qog=="
+          "hash": "A4oE4Vmf2x9ZyMXHJhnWSA=="
         }
       },
       "is_incremental": false,
