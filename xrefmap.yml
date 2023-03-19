@@ -23032,6 +23032,51 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.RewardFlavour
   nameWithType: QuestDimensionalShip.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal
+  name: QuestInterdimensionalPortal
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.html
+  commentId: T:WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal
+  nameWithType: QuestInterdimensionalPortal
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.#ctor(Rectangle)
+  name: QuestInterdimensionalPortal(Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.html#WarcraftLegacies_Source_Quests_Draenei_QuestInterdimensionalPortal__ctor_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.#ctor(Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.QuestInterdimensionalPortal(Rectangle)
+  nameWithType: QuestInterdimensionalPortal.QuestInterdimensionalPortal(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.#ctor*
+  name: QuestInterdimensionalPortal
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.html#WarcraftLegacies_Source_Quests_Draenei_QuestInterdimensionalPortal__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.QuestInterdimensionalPortal
+  nameWithType: QuestInterdimensionalPortal.QuestInterdimensionalPortal
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.html#WarcraftLegacies_Source_Quests_Draenei_QuestInterdimensionalPortal_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardDescription
+  nameWithType: QuestInterdimensionalPortal.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.html#WarcraftLegacies_Source_Quests_Draenei_QuestInterdimensionalPortal_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardDescription
+  nameWithType: QuestInterdimensionalPortal.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.html#WarcraftLegacies_Source_Quests_Draenei_QuestInterdimensionalPortal_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardFlavour
+  nameWithType: QuestInterdimensionalPortal.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.html#WarcraftLegacies_Source_Quests_Draenei_QuestInterdimensionalPortal_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardFlavour
+  nameWithType: QuestInterdimensionalPortal.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation
   name: QuestRebuildCivilisation
   href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.html

@@ -5321,6 +5321,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.html",
+          "hash": "pUs8D7M9IboJILWteZ1ikQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.yml",
       "output": {
         ".html": {
@@ -5385,7 +5397,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.html",
-          "hash": "SOowkUkhBQagOlkxRnIM4w=="
+          "hash": "RdOu0GXOBvm2Je/OwV2imA=="
         }
       },
       "is_incremental": false,
@@ -8925,7 +8937,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "A4oE4Vmf2x9ZyMXHJhnWSA=="
+          "hash": "G5r5K47w17ZGsbV8m0EqXQ=="
         }
       },
       "is_incremental": false,
@@ -9000,7 +9012,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 742,
+          "total_file_count": 743,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
