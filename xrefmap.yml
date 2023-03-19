@@ -6462,6 +6462,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.PlayerExtensions.GetControlPointCount
   nameWithType: PlayerExtensions.GetControlPointCount
+- uid: MacroTools.Extensions.PlayerExtensions.GetControlPoints(player)
+  name: GetControlPoints(player)
+  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_GetControlPoints_player_
+  commentId: M:MacroTools.Extensions.PlayerExtensions.GetControlPoints(player)
+  fullName: MacroTools.Extensions.PlayerExtensions.GetControlPoints(player)
+  nameWithType: PlayerExtensions.GetControlPoints(player)
+- uid: MacroTools.Extensions.PlayerExtensions.GetControlPoints*
+  name: GetControlPoints
+  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_GetControlPoints_
+  commentId: Overload:MacroTools.Extensions.PlayerExtensions.GetControlPoints
+  isSpec: "True"
+  fullName: MacroTools.Extensions.PlayerExtensions.GetControlPoints
+  nameWithType: PlayerExtensions.GetControlPoints
 - uid: MacroTools.Extensions.PlayerExtensions.GetFaction(player)
   name: GetFaction(player)
   href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_GetFaction_player_
@@ -6621,19 +6634,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.PlayerExtensions.SetAllianceState
   nameWithType: PlayerExtensions.SetAllianceState
-- uid: MacroTools.Extensions.PlayerExtensions.SetBaseIncome(player,System.Single)
-  name: SetBaseIncome(player, Single)
-  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_SetBaseIncome_player_System_Single_
-  commentId: M:MacroTools.Extensions.PlayerExtensions.SetBaseIncome(player,System.Single)
-  fullName: MacroTools.Extensions.PlayerExtensions.SetBaseIncome(player, System.Single)
-  nameWithType: PlayerExtensions.SetBaseIncome(player, Single)
-- uid: MacroTools.Extensions.PlayerExtensions.SetBaseIncome*
-  name: SetBaseIncome
-  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_SetBaseIncome_
-  commentId: Overload:MacroTools.Extensions.PlayerExtensions.SetBaseIncome
-  isSpec: "True"
-  fullName: MacroTools.Extensions.PlayerExtensions.SetBaseIncome
-  nameWithType: PlayerExtensions.SetBaseIncome
 - uid: MacroTools.Extensions.PlayerExtensions.SetCameraLimits(player,rect)
   name: SetCameraLimits(player, rect)
   href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_SetCameraLimits_player_rect_
