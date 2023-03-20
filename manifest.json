@@ -5297,18 +5297,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.html",
-          "hash": "iKeIK3DaXyI8G8FO10W2fg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.yml",
       "output": {
         ".html": {
@@ -5397,7 +5385,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.html",
-          "hash": "RdOu0GXOBvm2Je/OwV2imA=="
+          "hash": "f9AZDgvL/adAWevJUP/N9A=="
         }
       },
       "is_incremental": false,
@@ -8001,7 +7989,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDraenei.html",
-          "hash": "N/GlFja8YT11soyAIFPRGQ=="
+          "hash": "MMBGhXrRlGRjw0haNDPliA=="
         }
       },
       "is_incremental": false,
@@ -8193,7 +8181,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html",
-          "hash": "UBjRTwvN3qp3NqWySdWc5g=="
+          "hash": "5vo50SSWJAOZ5hBmXNb7TA=="
         }
       },
       "is_incremental": false,
@@ -8553,7 +8541,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.ResearchSetup.html",
-          "hash": "9gxGFFFwdza3PYCz1szkrw=="
+          "hash": "WdIFZAVaHcEhz2O8lKCh8g=="
         }
       },
       "is_incremental": false,
@@ -8765,6 +8753,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.SentinelSpellSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.SentinelSpellSetup.html",
+          "hash": "owWxTB6Bw8bS3PGV9ZbFAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.yml",
       "output": {
         ".html": {
@@ -8793,7 +8793,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.html",
-          "hash": "gBgC1OagP8fNE3ym3gyiMQ=="
+          "hash": "iwYVio1uKRhn1zrhZrDAJg=="
         }
       },
       "is_incremental": false,
@@ -8949,7 +8949,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "XY5DS7Hx2fJSzygeoQ0HBg=="
+          "hash": "M5LA8RtGOfnVHcTkp5katA=="
         }
       },
       "is_incremental": false,

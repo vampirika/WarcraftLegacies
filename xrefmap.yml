@@ -22926,51 +22926,6 @@ references:
   commentId: N:WarcraftLegacies.Source.Quests.Draenei
   fullName: WarcraftLegacies.Source.Quests.Draenei
   nameWithType: WarcraftLegacies.Source.Quests.Draenei
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne
-  name: QuestBrokenOne
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.html
-  commentId: T:WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne
-  nameWithType: QuestBrokenOne
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.#ctor(MacroTools.LegendSystem.LegendaryHero)
-  name: QuestBrokenOne(LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.html#WarcraftLegacies_Source_Quests_Draenei_QuestBrokenOne__ctor_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.#ctor(MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.QuestBrokenOne(MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestBrokenOne.QuestBrokenOne(LegendaryHero)
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.#ctor*
-  name: QuestBrokenOne
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.html#WarcraftLegacies_Source_Quests_Draenei_QuestBrokenOne__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.QuestBrokenOne
-  nameWithType: QuestBrokenOne.QuestBrokenOne
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.html#WarcraftLegacies_Source_Quests_Draenei_QuestBrokenOne_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.RewardDescription
-  nameWithType: QuestBrokenOne.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.html#WarcraftLegacies_Source_Quests_Draenei_QuestBrokenOne_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.RewardDescription
-  nameWithType: QuestBrokenOne.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.RewardFlavour
-  name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.html#WarcraftLegacies_Source_Quests_Draenei_QuestBrokenOne_RewardFlavour
-  commentId: P:WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.RewardFlavour
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.RewardFlavour
-  nameWithType: QuestBrokenOne.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.RewardFlavour*
-  name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.html#WarcraftLegacies_Source_Quests_Draenei_QuestBrokenOne_RewardFlavour_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.RewardFlavour
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestBrokenOne.RewardFlavour
-  nameWithType: QuestBrokenOne.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip
   name: QuestDimensionalShip
   href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.html
@@ -36774,19 +36729,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Feathermoon
   nameWithType: LegendSentinels.Feathermoon
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Jarod
-  name: Jarod
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Jarod
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Jarod
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Jarod
-  nameWithType: LegendSentinels.Jarod
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Jarod*
-  name: Jarod
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Jarod_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Jarod
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Jarod
-  nameWithType: LegendSentinels.Jarod
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Maiev
   name: Maiev
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Maiev
@@ -36800,6 +36742,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Maiev
   nameWithType: LegendSentinels.Maiev
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Naisha
+  name: Naisha
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Naisha
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Naisha
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Naisha
+  nameWithType: LegendSentinels.Naisha
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Naisha*
+  name: Naisha
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_Naisha_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Naisha
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.Naisha
+  nameWithType: LegendSentinels.Naisha
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendSentinels.RegisterLegends
   name: RegisterLegends()
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html#WarcraftLegacies_Source_Setup_Legends_LegendSentinels_RegisterLegends
@@ -37969,6 +37924,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Spells.ScourgeSpellSetup.Setup
   nameWithType: ScourgeSpellSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.Spells.SentinelSpellSetup
+  name: SentinelSpellSetup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.SentinelSpellSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.Spells.SentinelSpellSetup
+  fullName: WarcraftLegacies.Source.Setup.Spells.SentinelSpellSetup
+  nameWithType: SentinelSpellSetup
+- uid: WarcraftLegacies.Source.Setup.Spells.SentinelSpellSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.SentinelSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_SentinelSpellSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.Spells.SentinelSpellSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.Spells.SentinelSpellSetup.Setup()
+  nameWithType: SentinelSpellSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.Spells.SentinelSpellSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.SentinelSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_SentinelSpellSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Spells.SentinelSpellSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Spells.SentinelSpellSetup.Setup
+  nameWithType: SentinelSpellSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup
   name: StormwindSpellSetup
   href: api-source/WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.html
