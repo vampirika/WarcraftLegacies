@@ -37046,6 +37046,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.ChenStormstout
   nameWithType: LegendWarsong.ChenStormstout
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Garrosh
+  name: Garrosh
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html#WarcraftLegacies_Source_Setup_Legends_LegendWarsong_Garrosh
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Garrosh
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Garrosh
+  nameWithType: LegendWarsong.Garrosh
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Garrosh*
+  name: Garrosh
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html#WarcraftLegacies_Source_Setup_Legends_LegendWarsong_Garrosh_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Garrosh
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Garrosh
+  nameWithType: LegendWarsong.Garrosh
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.GromHellscream
   name: GromHellscream
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html#WarcraftLegacies_Source_Setup_Legends_LegendWarsong_GromHellscream
@@ -37059,19 +37072,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.GromHellscream
   nameWithType: LegendWarsong.GromHellscream
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Jergosh
-  name: Jergosh
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html#WarcraftLegacies_Source_Setup_Legends_LegendWarsong_Jergosh
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Jergosh
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Jergosh
-  nameWithType: LegendWarsong.Jergosh
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Jergosh*
-  name: Jergosh
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html#WarcraftLegacies_Source_Setup_Legends_LegendWarsong_Jergosh_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Jergosh
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Jergosh
-  nameWithType: LegendWarsong.Jergosh
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Orgrimmar
   name: Orgrimmar
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html#WarcraftLegacies_Source_Setup_Legends_LegendWarsong_Orgrimmar
