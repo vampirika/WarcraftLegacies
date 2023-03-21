@@ -31415,51 +31415,51 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Warsong.QuestFountainOfBlood.RewardFlavour
   nameWithType: QuestFountainOfBlood.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestJergosh
-  name: QuestJergosh
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.html
-  commentId: T:WarcraftLegacies.Source.Quests.Warsong.QuestJergosh
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestJergosh
-  nameWithType: QuestJergosh
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.#ctor(MacroTools.LegendSystem.LegendaryHero)
-  name: QuestJergosh(LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.html#WarcraftLegacies_Source_Quests_Warsong_QuestJergosh__ctor_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.#ctor(MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.QuestJergosh(MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestJergosh.QuestJergosh(LegendaryHero)
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.#ctor*
-  name: QuestJergosh
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.html#WarcraftLegacies_Source_Quests_Warsong_QuestJergosh__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.#ctor
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh
+  name: QuestGarrosh
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.html
+  commentId: T:WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh
+  nameWithType: QuestGarrosh
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.#ctor(MacroTools.LegendSystem.Capital)
+  name: QuestGarrosh(Capital)
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.html#WarcraftLegacies_Source_Quests_Warsong_QuestGarrosh__ctor_MacroTools_LegendSystem_Capital_
+  commentId: M:WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.#ctor(MacroTools.LegendSystem.Capital)
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.QuestGarrosh(MacroTools.LegendSystem.Capital)
+  nameWithType: QuestGarrosh.QuestGarrosh(Capital)
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.#ctor*
+  name: QuestGarrosh
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.html#WarcraftLegacies_Source_Quests_Warsong_QuestGarrosh__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.#ctor
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.QuestJergosh
-  nameWithType: QuestJergosh.QuestJergosh
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.QuestGarrosh
+  nameWithType: QuestGarrosh.QuestGarrosh
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.RewardDescription
   name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.html#WarcraftLegacies_Source_Quests_Warsong_QuestJergosh_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.RewardDescription
-  nameWithType: QuestJergosh.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.RewardDescription*
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.html#WarcraftLegacies_Source_Quests_Warsong_QuestGarrosh_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.RewardDescription
+  nameWithType: QuestGarrosh.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.RewardDescription*
   name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.html#WarcraftLegacies_Source_Quests_Warsong_QuestJergosh_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.html#WarcraftLegacies_Source_Quests_Warsong_QuestGarrosh_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.RewardDescription
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.RewardDescription
-  nameWithType: QuestJergosh.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.RewardDescription
+  nameWithType: QuestGarrosh.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.RewardFlavour
   name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.html#WarcraftLegacies_Source_Quests_Warsong_QuestJergosh_RewardFlavour
-  commentId: P:WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.RewardFlavour
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.RewardFlavour
-  nameWithType: QuestJergosh.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.RewardFlavour*
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.html#WarcraftLegacies_Source_Quests_Warsong_QuestGarrosh_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.RewardFlavour
+  nameWithType: QuestGarrosh.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.RewardFlavour*
   name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.html#WarcraftLegacies_Source_Quests_Warsong_QuestJergosh_RewardFlavour_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.html#WarcraftLegacies_Source_Quests_Warsong_QuestGarrosh_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.RewardFlavour
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.RewardFlavour
-  nameWithType: QuestJergosh.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.RewardFlavour
+  nameWithType: QuestGarrosh.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp
   name: QuestLumberCamp
   href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestLumberCamp.html
@@ -34916,6 +34916,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendDruids.Cenarius
   nameWithType: LegendDruids.Cenarius
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDruids.Darnassus
+  name: Darnassus
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDruids.html#WarcraftLegacies_Source_Setup_Legends_LegendDruids_Darnassus
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendDruids.Darnassus
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDruids.Darnassus
+  nameWithType: LegendDruids.Darnassus
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDruids.Darnassus*
+  name: Darnassus
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDruids.html#WarcraftLegacies_Source_Setup_Legends_LegendDruids_Darnassus_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendDruids.Darnassus
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDruids.Darnassus
+  nameWithType: LegendDruids.Darnassus
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDruids.Fandral
   name: Fandral
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDruids.html#WarcraftLegacies_Source_Setup_Legends_LegendDruids_Fandral

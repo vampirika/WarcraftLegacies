@@ -7025,11 +7025,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.yml",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.yml",
       "output": {
         ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.QuestJergosh.html",
-          "hash": "qPHzbNs0W8GNCS44It3VeA=="
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.QuestGarrosh.html",
+          "hash": "OaCHLXD9E128b4OWgIIjFQ=="
         }
       },
       "is_incremental": false,
@@ -7101,7 +7101,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.html",
-          "hash": "qAATUF/ktGMh0YOFD3jhEg=="
+          "hash": "hhrZEIo9zrc22ed9079wWA=="
         }
       },
       "is_incremental": false,
@@ -8013,7 +8013,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDruids.html",
-          "hash": "dwl7sZfXYUXEjbHA2JGOwA=="
+          "hash": "88cNbJRVFd9POgf+tDc+aw=="
         }
       },
       "is_incremental": false,
@@ -8781,7 +8781,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.WarsongSpellSetup.html",
-          "hash": "zsOw1nMYnrkHAThchXeytw=="
+          "hash": "kg4ZiGA2T9Tmisq//DJD6A=="
         }
       },
       "is_incremental": false,
@@ -8949,7 +8949,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "M5LA8RtGOfnVHcTkp5katA=="
+          "hash": "bb1CJLKYnKvMFT7i7yTZrA=="
         }
       },
       "is_incremental": false,
