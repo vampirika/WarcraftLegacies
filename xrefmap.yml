@@ -34599,6 +34599,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.LegendDalaran
   nameWithType: LegendDalaran.LegendDalaran
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Aegwynn
+  name: Aegwynn
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDalaran.html#WarcraftLegacies_Source_Setup_Legends_LegendDalaran_Aegwynn
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Aegwynn
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Aegwynn
+  nameWithType: LegendDalaran.Aegwynn
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Aegwynn*
+  name: Aegwynn
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDalaran.html#WarcraftLegacies_Source_Setup_Legends_LegendDalaran_Aegwynn_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Aegwynn
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Aegwynn
+  nameWithType: LegendDalaran.Aegwynn
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Antonidas
   name: Antonidas
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDalaran.html#WarcraftLegacies_Source_Setup_Legends_LegendDalaran_Antonidas
@@ -37671,6 +37684,25 @@ references:
   commentId: N:WarcraftLegacies.Source.Setup.Spells
   fullName: WarcraftLegacies.Source.Setup.Spells
   nameWithType: WarcraftLegacies.Source.Setup.Spells
+- uid: WarcraftLegacies.Source.Setup.Spells.DalaranSpellSetup
+  name: DalaranSpellSetup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.DalaranSpellSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.Spells.DalaranSpellSetup
+  fullName: WarcraftLegacies.Source.Setup.Spells.DalaranSpellSetup
+  nameWithType: DalaranSpellSetup
+- uid: WarcraftLegacies.Source.Setup.Spells.DalaranSpellSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.DalaranSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_DalaranSpellSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.Spells.DalaranSpellSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.Spells.DalaranSpellSetup.Setup()
+  nameWithType: DalaranSpellSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.Spells.DalaranSpellSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.DalaranSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_DalaranSpellSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Spells.DalaranSpellSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Spells.DalaranSpellSetup.Setup
+  nameWithType: DalaranSpellSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.Spells.DraeneiSpellSetup
   name: DraeneiSpellSetup
   href: api-source/WarcraftLegacies.Source.Setup.Spells.DraeneiSpellSetup.html

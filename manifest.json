@@ -5241,7 +5241,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.html",
-          "hash": "0iaZUZ/GF5zMnwKE8tbkhw=="
+          "hash": "YLKCWKEgbLsHT8sZkXxxgw=="
         }
       },
       "is_incremental": false,
@@ -7977,7 +7977,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDalaran.html",
-          "hash": "qAOPzhjaZAGI+ydMJv6KuQ=="
+          "hash": "JJ+ymFUJSWZebsWLTLjVJw=="
         }
       },
       "is_incremental": false,
@@ -8585,6 +8585,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.DalaranSpellSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.DalaranSpellSetup.html",
+          "hash": "acMBBGxUia+tGkF78AafhA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.DraeneiSpellSetup.yml",
       "output": {
         ".html": {
@@ -8793,7 +8805,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.html",
-          "hash": "iwYVio1uKRhn1zrhZrDAJg=="
+          "hash": "60OiQ7e9votzZmj4ibeOyA=="
         }
       },
       "is_incremental": false,
@@ -8949,7 +8961,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "bb1CJLKYnKvMFT7i7yTZrA=="
+          "hash": "82jlt7FvK/tRRJ/Asp17IA=="
         }
       },
       "is_incremental": false,
@@ -9024,7 +9036,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 744,
+          "total_file_count": 745,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
