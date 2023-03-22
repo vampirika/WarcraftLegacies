@@ -28041,12 +28041,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand
   fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand
   nameWithType: QuestTyrHand
-- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.#ctor(MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,Rectangle)
-  name: QuestTyrHand(Capital, Capital, Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestTyrHand__ctor_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_Capital_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.#ctor(MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.QuestTyrHand(MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.Capital, Rectangle)
-  nameWithType: QuestTyrHand.QuestTyrHand(Capital, Capital, Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.#ctor(MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,Rectangle,MacroTools.LegendSystem.Capital)
+  name: QuestTyrHand(Capital, Capital, Rectangle, Capital)
+  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestTyrHand__ctor_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_Capital_Rectangle_MacroTools_LegendSystem_Capital_
+  commentId: M:WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.#ctor(MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,Rectangle,MacroTools.LegendSystem.Capital)
+  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.QuestTyrHand(MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.Capital, Rectangle, MacroTools.LegendSystem.Capital)
+  nameWithType: QuestTyrHand.QuestTyrHand(Capital, Capital, Rectangle, Capital)
 - uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.#ctor*
   name: QuestTyrHand
   href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestTyrHand.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestTyrHand__ctor_
