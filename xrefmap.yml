@@ -30193,6 +30193,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Sentinels.QuestMaievOutland.OnComplete
   nameWithType: QuestMaievOutland.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Sentinels.QuestMaievOutland.OnFail(MacroTools.FactionSystem.Faction)
+  name: OnFail(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Sentinels.QuestMaievOutland.html#WarcraftLegacies_Source_Quests_Sentinels_QuestMaievOutland_OnFail_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Sentinels.QuestMaievOutland.OnFail(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Sentinels.QuestMaievOutland.OnFail(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestMaievOutland.OnFail(Faction)
+- uid: WarcraftLegacies.Source.Quests.Sentinels.QuestMaievOutland.OnFail*
+  name: OnFail
+  href: api-source/WarcraftLegacies.Source.Quests.Sentinels.QuestMaievOutland.html#WarcraftLegacies_Source_Quests_Sentinels_QuestMaievOutland_OnFail_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sentinels.QuestMaievOutland.OnFail
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sentinels.QuestMaievOutland.OnFail
+  nameWithType: QuestMaievOutland.OnFail
 - uid: WarcraftLegacies.Source.Quests.Sentinels.QuestMaievOutland.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Sentinels.QuestMaievOutland.html#WarcraftLegacies_Source_Quests_Sentinels_QuestMaievOutland_RewardDescription
