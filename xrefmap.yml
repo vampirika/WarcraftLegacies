@@ -16294,6 +16294,77 @@ references:
   isSpec: "True"
   fullName: MacroTools.Spells.ChannelAnySpell.OnCast
   nameWithType: ChannelAnySpell.OnCast
+- uid: MacroTools.Spells.ChannelAnySpellCaster
+  name: ChannelAnySpellCaster
+  href: api-macroTools/MacroTools.Spells.ChannelAnySpellCaster.html
+  commentId: T:MacroTools.Spells.ChannelAnySpellCaster
+  fullName: MacroTools.Spells.ChannelAnySpellCaster
+  nameWithType: ChannelAnySpellCaster
+- uid: MacroTools.Spells.ChannelAnySpellCaster.#ctor(System.Int32)
+  name: ChannelAnySpellCaster(Int32)
+  href: api-macroTools/MacroTools.Spells.ChannelAnySpellCaster.html#MacroTools_Spells_ChannelAnySpellCaster__ctor_System_Int32_
+  commentId: M:MacroTools.Spells.ChannelAnySpellCaster.#ctor(System.Int32)
+  fullName: MacroTools.Spells.ChannelAnySpellCaster.ChannelAnySpellCaster(System.Int32)
+  nameWithType: ChannelAnySpellCaster.ChannelAnySpellCaster(Int32)
+- uid: MacroTools.Spells.ChannelAnySpellCaster.#ctor*
+  name: ChannelAnySpellCaster
+  href: api-macroTools/MacroTools.Spells.ChannelAnySpellCaster.html#MacroTools_Spells_ChannelAnySpellCaster__ctor_
+  commentId: Overload:MacroTools.Spells.ChannelAnySpellCaster.#ctor
+  isSpec: "True"
+  fullName: MacroTools.Spells.ChannelAnySpellCaster.ChannelAnySpellCaster
+  nameWithType: ChannelAnySpellCaster.ChannelAnySpellCaster
+- uid: MacroTools.Spells.ChannelAnySpellCaster.DummyAbilityId
+  name: DummyAbilityId
+  href: api-macroTools/MacroTools.Spells.ChannelAnySpellCaster.html#MacroTools_Spells_ChannelAnySpellCaster_DummyAbilityId
+  commentId: P:MacroTools.Spells.ChannelAnySpellCaster.DummyAbilityId
+  fullName: MacroTools.Spells.ChannelAnySpellCaster.DummyAbilityId
+  nameWithType: ChannelAnySpellCaster.DummyAbilityId
+- uid: MacroTools.Spells.ChannelAnySpellCaster.DummyAbilityId*
+  name: DummyAbilityId
+  href: api-macroTools/MacroTools.Spells.ChannelAnySpellCaster.html#MacroTools_Spells_ChannelAnySpellCaster_DummyAbilityId_
+  commentId: Overload:MacroTools.Spells.ChannelAnySpellCaster.DummyAbilityId
+  isSpec: "True"
+  fullName: MacroTools.Spells.ChannelAnySpellCaster.DummyAbilityId
+  nameWithType: ChannelAnySpellCaster.DummyAbilityId
+- uid: MacroTools.Spells.ChannelAnySpellCaster.DummyAbilityOrderString
+  name: DummyAbilityOrderString
+  href: api-macroTools/MacroTools.Spells.ChannelAnySpellCaster.html#MacroTools_Spells_ChannelAnySpellCaster_DummyAbilityOrderString
+  commentId: P:MacroTools.Spells.ChannelAnySpellCaster.DummyAbilityOrderString
+  fullName: MacroTools.Spells.ChannelAnySpellCaster.DummyAbilityOrderString
+  nameWithType: ChannelAnySpellCaster.DummyAbilityOrderString
+- uid: MacroTools.Spells.ChannelAnySpellCaster.DummyAbilityOrderString*
+  name: DummyAbilityOrderString
+  href: api-macroTools/MacroTools.Spells.ChannelAnySpellCaster.html#MacroTools_Spells_ChannelAnySpellCaster_DummyAbilityOrderString_
+  commentId: Overload:MacroTools.Spells.ChannelAnySpellCaster.DummyAbilityOrderString
+  isSpec: "True"
+  fullName: MacroTools.Spells.ChannelAnySpellCaster.DummyAbilityOrderString
+  nameWithType: ChannelAnySpellCaster.DummyAbilityOrderString
+- uid: MacroTools.Spells.ChannelAnySpellCaster.Duration
+  name: Duration
+  href: api-macroTools/MacroTools.Spells.ChannelAnySpellCaster.html#MacroTools_Spells_ChannelAnySpellCaster_Duration
+  commentId: P:MacroTools.Spells.ChannelAnySpellCaster.Duration
+  fullName: MacroTools.Spells.ChannelAnySpellCaster.Duration
+  nameWithType: ChannelAnySpellCaster.Duration
+- uid: MacroTools.Spells.ChannelAnySpellCaster.Duration*
+  name: Duration
+  href: api-macroTools/MacroTools.Spells.ChannelAnySpellCaster.html#MacroTools_Spells_ChannelAnySpellCaster_Duration_
+  commentId: Overload:MacroTools.Spells.ChannelAnySpellCaster.Duration
+  isSpec: "True"
+  fullName: MacroTools.Spells.ChannelAnySpellCaster.Duration
+  nameWithType: ChannelAnySpellCaster.Duration
+- uid: MacroTools.Spells.ChannelAnySpellCaster.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/MacroTools.Spells.ChannelAnySpellCaster.html#MacroTools_Spells_ChannelAnySpellCaster_OnCast_unit_unit_Point_
+  commentId: M:MacroTools.Spells.ChannelAnySpellCaster.OnCast(unit,unit,Point)
+  fullName: MacroTools.Spells.ChannelAnySpellCaster.OnCast(unit, unit, Point)
+  nameWithType: ChannelAnySpellCaster.OnCast(unit, unit, Point)
+- uid: MacroTools.Spells.ChannelAnySpellCaster.OnCast*
+  name: OnCast
+  href: api-macroTools/MacroTools.Spells.ChannelAnySpellCaster.html#MacroTools_Spells_ChannelAnySpellCaster_OnCast_
+  commentId: Overload:MacroTools.Spells.ChannelAnySpellCaster.OnCast
+  isSpec: "True"
+  fullName: MacroTools.Spells.ChannelAnySpellCaster.OnCast
+  nameWithType: ChannelAnySpellCaster.OnCast
 - uid: MacroTools.Spells.CooldownReset
   name: CooldownReset
   href: api-macroTools/MacroTools.Spells.CooldownReset.html
@@ -19192,6 +19263,19 @@ references:
   commentId: T:MacroTools.SpellSystem.DummyCast.CastFilter
   fullName: MacroTools.SpellSystem.DummyCast.CastFilter
   nameWithType: DummyCast.CastFilter
+- uid: MacroTools.SpellSystem.DummyCast.ChannelAtCaster(unit,System.Int32,System.String,System.Int32,System.Single)
+  name: ChannelAtCaster(unit, Int32, String, Int32, Single)
+  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_ChannelAtCaster_unit_System_Int32_System_String_System_Int32_System_Single_
+  commentId: M:MacroTools.SpellSystem.DummyCast.ChannelAtCaster(unit,System.Int32,System.String,System.Int32,System.Single)
+  fullName: MacroTools.SpellSystem.DummyCast.ChannelAtCaster(unit, System.Int32, System.String, System.Int32, System.Single)
+  nameWithType: DummyCast.ChannelAtCaster(unit, Int32, String, Int32, Single)
+- uid: MacroTools.SpellSystem.DummyCast.ChannelAtCaster*
+  name: ChannelAtCaster
+  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_ChannelAtCaster_
+  commentId: Overload:MacroTools.SpellSystem.DummyCast.ChannelAtCaster
+  isSpec: "True"
+  fullName: MacroTools.SpellSystem.DummyCast.ChannelAtCaster
+  nameWithType: DummyCast.ChannelAtCaster
 - uid: MacroTools.SpellSystem.DummyCast.ChannelOnPoint(unit,System.Int32,System.String,System.Int32,Point,System.Single)
   name: ChannelOnPoint(unit, Int32, String, Int32, Point, Single)
   href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_ChannelOnPoint_unit_System_Int32_System_String_System_Int32_Point_System_Single_
