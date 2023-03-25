@@ -22785,12 +22785,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian
   fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian
   nameWithType: QuestNewGuardian
-- uid: WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.#ctor(MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.LegendaryHero)
-  name: QuestNewGuardian(Artifact, LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.html#WarcraftLegacies_Source_Quests_Dalaran_QuestNewGuardian__ctor_MacroTools_ArtifactSystem_Artifact_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.#ctor(MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.QuestNewGuardian(MacroTools.ArtifactSystem.Artifact, MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestNewGuardian.QuestNewGuardian(Artifact, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.#ctor(MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.Capital)
+  name: QuestNewGuardian(Artifact, LegendaryHero, Capital)
+  href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.html#WarcraftLegacies_Source_Quests_Dalaran_QuestNewGuardian__ctor_MacroTools_ArtifactSystem_Artifact_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_Capital_
+  commentId: M:WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.#ctor(MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.Capital)
+  fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.QuestNewGuardian(MacroTools.ArtifactSystem.Artifact, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.Capital)
+  nameWithType: QuestNewGuardian.QuestNewGuardian(Artifact, LegendaryHero, Capital)
 - uid: WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.#ctor*
   name: QuestNewGuardian
   href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.html#WarcraftLegacies_Source_Quests_Dalaran_QuestNewGuardian__ctor_
@@ -23104,51 +23104,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Draenei.QuestDimensionalShip.RewardFlavour
   nameWithType: QuestDimensionalShip.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal
-  name: QuestInterdimensionalPortal
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.html
-  commentId: T:WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal
-  nameWithType: QuestInterdimensionalPortal
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.#ctor(Rectangle)
-  name: QuestInterdimensionalPortal(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.html#WarcraftLegacies_Source_Quests_Draenei_QuestInterdimensionalPortal__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.QuestInterdimensionalPortal(Rectangle)
-  nameWithType: QuestInterdimensionalPortal.QuestInterdimensionalPortal(Rectangle)
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.#ctor*
-  name: QuestInterdimensionalPortal
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.html#WarcraftLegacies_Source_Quests_Draenei_QuestInterdimensionalPortal__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.QuestInterdimensionalPortal
-  nameWithType: QuestInterdimensionalPortal.QuestInterdimensionalPortal
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.html#WarcraftLegacies_Source_Quests_Draenei_QuestInterdimensionalPortal_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardDescription
-  nameWithType: QuestInterdimensionalPortal.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.html#WarcraftLegacies_Source_Quests_Draenei_QuestInterdimensionalPortal_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardDescription
-  nameWithType: QuestInterdimensionalPortal.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardFlavour
-  name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.html#WarcraftLegacies_Source_Quests_Draenei_QuestInterdimensionalPortal_RewardFlavour
-  commentId: P:WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardFlavour
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardFlavour
-  nameWithType: QuestInterdimensionalPortal.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardFlavour*
-  name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.html#WarcraftLegacies_Source_Quests_Draenei_QuestInterdimensionalPortal_RewardFlavour_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardFlavour
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.RewardFlavour
-  nameWithType: QuestInterdimensionalPortal.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation
   name: QuestRebuildCivilisation
   href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.html
@@ -23213,12 +23168,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull
   fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull
   nameWithType: QuestRepairExodarHull
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.#ctor(Rectangle,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital)
-  name: QuestRepairExodarHull(Rectangle, Capital, Capital)
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.html#WarcraftLegacies_Source_Quests_Draenei_QuestRepairExodarHull__ctor_Rectangle_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_Capital_
-  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.#ctor(Rectangle,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital)
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.QuestRepairExodarHull(Rectangle, MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.Capital)
-  nameWithType: QuestRepairExodarHull.QuestRepairExodarHull(Rectangle, Capital, Capital)
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.#ctor(Rectangle,MacroTools.LegendSystem.Capital)
+  name: QuestRepairExodarHull(Rectangle, Capital)
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.html#WarcraftLegacies_Source_Quests_Draenei_QuestRepairExodarHull__ctor_Rectangle_MacroTools_LegendSystem_Capital_
+  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.#ctor(Rectangle,MacroTools.LegendSystem.Capital)
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.QuestRepairExodarHull(Rectangle, MacroTools.LegendSystem.Capital)
+  nameWithType: QuestRepairExodarHull.QuestRepairExodarHull(Rectangle, Capital)
 - uid: WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.#ctor*
   name: QuestRepairExodarHull
   href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.html#WarcraftLegacies_Source_Quests_Draenei_QuestRepairExodarHull__ctor_
@@ -34897,6 +34852,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendDraenei.LegendDraenei
   nameWithType: LegendDraenei.LegendDraenei
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Adal
+  name: Adal
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDraenei.html#WarcraftLegacies_Source_Setup_Legends_LegendDraenei_Adal
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Adal
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Adal
+  nameWithType: LegendDraenei.Adal
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Adal*
+  name: Adal
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDraenei.html#WarcraftLegacies_Source_Setup_Legends_LegendDraenei_Adal_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Adal
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Adal
+  nameWithType: LegendDraenei.Adal
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Farahlon
   name: Farahlon
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDraenei.html#WarcraftLegacies_Source_Setup_Legends_LegendDraenei_Farahlon

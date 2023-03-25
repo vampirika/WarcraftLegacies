@@ -5241,7 +5241,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestNewGuardian.html",
-          "hash": "YLKCWKEgbLsHT8sZkXxxgw=="
+          "hash": "j1wmoPGJeeSbQAYE8X+IBg=="
         }
       },
       "is_incremental": false,
@@ -5309,18 +5309,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestInterdimensionalPortal.html",
-          "hash": "pUs8D7M9IboJILWteZ1ikQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.yml",
       "output": {
         ".html": {
@@ -5337,7 +5325,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRepairExodarHull.html",
-          "hash": "vQj9Sfa9iz4QcjS8ErPjXw=="
+          "hash": "TraVNCS5++ZiIT65SwPEOA=="
         }
       },
       "is_incremental": false,
@@ -5385,7 +5373,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.html",
-          "hash": "f9AZDgvL/adAWevJUP/N9A=="
+          "hash": "vTawU0uZPB/SH10sFbzL0A=="
         }
       },
       "is_incremental": false,
@@ -8001,7 +7989,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDraenei.html",
-          "hash": "MMBGhXrRlGRjw0haNDPliA=="
+          "hash": "hp3vjgcdFgjLbCDGSBwxFg=="
         }
       },
       "is_incremental": false,
@@ -8973,7 +8961,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "TtVcYaS4lw/caojYr6m0zg=="
+          "hash": "nkQ/3lRR0rK9jwH3slx0UQ=="
         }
       },
       "is_incremental": false,
@@ -9048,7 +9036,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 746,
+          "total_file_count": 745,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
