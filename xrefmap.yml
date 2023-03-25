@@ -8713,6 +8713,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Faction.RemovePower
   nameWithType: Faction.RemovePower
+- uid: MacroTools.FactionSystem.Faction.RemovePowerByName(System.String)
+  name: RemovePowerByName(String)
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_RemovePowerByName_System_String_
+  commentId: M:MacroTools.FactionSystem.Faction.RemovePowerByName(System.String)
+  fullName: MacroTools.FactionSystem.Faction.RemovePowerByName(System.String)
+  nameWithType: Faction.RemovePowerByName(String)
+- uid: MacroTools.FactionSystem.Faction.RemovePowerByName*
+  name: RemovePowerByName
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_RemovePowerByName_
+  commentId: Overload:MacroTools.FactionSystem.Faction.RemovePowerByName
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Faction.RemovePowerByName
+  nameWithType: Faction.RemovePowerByName
 - uid: MacroTools.FactionSystem.Faction.ScoreStatus
   name: ScoreStatus
   href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_ScoreStatus
@@ -22280,6 +22293,51 @@ references:
   commentId: N:WarcraftLegacies.Source.Powers
   fullName: WarcraftLegacies.Source.Powers
   nameWithType: WarcraftLegacies.Source.Powers
+- uid: WarcraftLegacies.Source.Powers.PingPower
+  name: PingPower
+  href: api-source/WarcraftLegacies.Source.Powers.PingPower.html
+  commentId: T:WarcraftLegacies.Source.Powers.PingPower
+  fullName: WarcraftLegacies.Source.Powers.PingPower
+  nameWithType: PingPower
+- uid: WarcraftLegacies.Source.Powers.PingPower.#ctor(MacroTools.LegendSystem.LegendaryHero,System.String,System.Int32,System.Int32,System.Boolean)
+  name: PingPower(LegendaryHero, String, Int32, Int32, Boolean)
+  href: api-source/WarcraftLegacies.Source.Powers.PingPower.html#WarcraftLegacies_Source_Powers_PingPower__ctor_MacroTools_LegendSystem_LegendaryHero_System_String_System_Int32_System_Int32_System_Boolean_
+  commentId: M:WarcraftLegacies.Source.Powers.PingPower.#ctor(MacroTools.LegendSystem.LegendaryHero,System.String,System.Int32,System.Int32,System.Boolean)
+  fullName: WarcraftLegacies.Source.Powers.PingPower.PingPower(MacroTools.LegendSystem.LegendaryHero, System.String, System.Int32, System.Int32, System.Boolean)
+  nameWithType: PingPower.PingPower(LegendaryHero, String, Int32, Int32, Boolean)
+- uid: WarcraftLegacies.Source.Powers.PingPower.#ctor*
+  name: PingPower
+  href: api-source/WarcraftLegacies.Source.Powers.PingPower.html#WarcraftLegacies_Source_Powers_PingPower__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Powers.PingPower.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Powers.PingPower.PingPower
+  nameWithType: PingPower.PingPower
+- uid: WarcraftLegacies.Source.Powers.PingPower.OnAdd(player)
+  name: OnAdd(player)
+  href: api-source/WarcraftLegacies.Source.Powers.PingPower.html#WarcraftLegacies_Source_Powers_PingPower_OnAdd_player_
+  commentId: M:WarcraftLegacies.Source.Powers.PingPower.OnAdd(player)
+  fullName: WarcraftLegacies.Source.Powers.PingPower.OnAdd(player)
+  nameWithType: PingPower.OnAdd(player)
+- uid: WarcraftLegacies.Source.Powers.PingPower.OnAdd*
+  name: OnAdd
+  href: api-source/WarcraftLegacies.Source.Powers.PingPower.html#WarcraftLegacies_Source_Powers_PingPower_OnAdd_
+  commentId: Overload:WarcraftLegacies.Source.Powers.PingPower.OnAdd
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Powers.PingPower.OnAdd
+  nameWithType: PingPower.OnAdd
+- uid: WarcraftLegacies.Source.Powers.PingPower.OnRemove(player)
+  name: OnRemove(player)
+  href: api-source/WarcraftLegacies.Source.Powers.PingPower.html#WarcraftLegacies_Source_Powers_PingPower_OnRemove_player_
+  commentId: M:WarcraftLegacies.Source.Powers.PingPower.OnRemove(player)
+  fullName: WarcraftLegacies.Source.Powers.PingPower.OnRemove(player)
+  nameWithType: PingPower.OnRemove(player)
+- uid: WarcraftLegacies.Source.Powers.PingPower.OnRemove*
+  name: OnRemove
+  href: api-source/WarcraftLegacies.Source.Powers.PingPower.html#WarcraftLegacies_Source_Powers_PingPower_OnRemove_
+  commentId: Overload:WarcraftLegacies.Source.Powers.PingPower.OnRemove
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Powers.PingPower.OnRemove
+  nameWithType: PingPower.OnRemove
 - uid: WarcraftLegacies.Source.Powers.ShaladrassilsBlessing
   name: ShaladrassilsBlessing
   href: api-source/WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.html
@@ -29500,12 +29558,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas
   fullName: WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas
   nameWithType: QuestCorruptArthas
-- uid: WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.#ctor(MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.LegendaryHero)
-  name: QuestCorruptArthas(Capital, LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.html#WarcraftLegacies_Source_Quests_Scourge_QuestCorruptArthas__ctor_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.#ctor(MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.QuestCorruptArthas(MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestCorruptArthas.QuestCorruptArthas(Capital, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.#ctor(MacroTools.QuestSystem.QuestData,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestCorruptArthas(QuestData, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.html#WarcraftLegacies_Source_Quests_Scourge_QuestCorruptArthas__ctor_MacroTools_QuestSystem_QuestData_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.#ctor(MacroTools.QuestSystem.QuestData,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.QuestCorruptArthas(MacroTools.QuestSystem.QuestData, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestCorruptArthas.QuestCorruptArthas(QuestData, LegendaryHero)
 - uid: WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.#ctor*
   name: QuestCorruptArthas
   href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.html#WarcraftLegacies_Source_Quests_Scourge_QuestCorruptArthas__ctor_
@@ -29552,6 +29610,64 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.RewardFlavour
   nameWithType: QuestCorruptArthas.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme
+  name: QuestDestroyStratholme
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.html
+  commentId: T:WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme
+  nameWithType: QuestDestroyStratholme
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.#ctor(MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestDestroyStratholme(Capital, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.html#WarcraftLegacies_Source_Quests_Scourge_QuestDestroyStratholme__ctor_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.#ctor(MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.QuestDestroyStratholme(MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestDestroyStratholme.QuestDestroyStratholme(Capital, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.#ctor*
+  name: QuestDestroyStratholme
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.html#WarcraftLegacies_Source_Quests_Scourge_QuestDestroyStratholme__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.QuestDestroyStratholme
+  nameWithType: QuestDestroyStratholme.QuestDestroyStratholme
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.html#WarcraftLegacies_Source_Quests_Scourge_QuestDestroyStratholme_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestDestroyStratholme.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.html#WarcraftLegacies_Source_Quests_Scourge_QuestDestroyStratholme_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.OnComplete
+  nameWithType: QuestDestroyStratholme.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.html#WarcraftLegacies_Source_Quests_Scourge_QuestDestroyStratholme_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.RewardDescription
+  nameWithType: QuestDestroyStratholme.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.html#WarcraftLegacies_Source_Quests_Scourge_QuestDestroyStratholme_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.RewardDescription
+  nameWithType: QuestDestroyStratholme.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.html#WarcraftLegacies_Source_Quests_Scourge_QuestDestroyStratholme_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.RewardFlavour
+  nameWithType: QuestDestroyStratholme.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.html#WarcraftLegacies_Source_Quests_Scourge_QuestDestroyStratholme_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.RewardFlavour
+  nameWithType: QuestDestroyStratholme.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Scourge.QuestDrakUnlock
   name: QuestDrakUnlock
   href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestDrakUnlock.html

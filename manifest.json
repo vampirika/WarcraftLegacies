@@ -1425,7 +1425,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Faction.html",
-          "hash": "kpu016JQ6+e8B/kzwl1Zqg=="
+          "hash": "60hh5spKltYlINs7081vHQ=="
         }
       },
       "is_incremental": false,
@@ -5141,6 +5141,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Powers.PingPower.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Powers.PingPower.html",
+          "hash": "0npEpf/F5etodQon1QMWTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.yml",
       "output": {
         ".html": {
@@ -5157,7 +5169,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Powers.html",
-          "hash": "IgUrNuiKkoYVYCOlIsSXgg=="
+          "hash": "+rmj8DAqbQEMNOXibSgLmg=="
         }
       },
       "is_incremental": false,
@@ -6657,7 +6669,19 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestCorruptArthas.html",
-          "hash": "49eUkFqaVLhHqh3K2aTBjQ=="
+          "hash": "ERj81pEi3jUro5KoKZf5Cw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestDestroyStratholme.html",
+          "hash": "DPytN8hMnam8p6p4DUNfNQ=="
         }
       },
       "is_incremental": false,
@@ -6753,7 +6777,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.html",
-          "hash": "GRsq3MsIuqLb/CvkUSiM3w=="
+          "hash": "GylZ6GLXfjCFQOtcnRrXMg=="
         }
       },
       "is_incremental": false,
@@ -8973,7 +8997,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "82jlt7FvK/tRRJ/Asp17IA=="
+          "hash": "TWwhNV83oBH7Gh6zvF3UGA=="
         }
       },
       "is_incremental": false,
@@ -9048,7 +9072,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 746,
+          "total_file_count": 748,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
