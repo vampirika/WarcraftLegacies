@@ -21839,31 +21839,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Mechanics.Goblins.Trader.OnTrained
   nameWithType: Trader.OnTrained
-- uid: WarcraftLegacies.Source.Mechanics.Quelthalas
-  name: WarcraftLegacies.Source.Mechanics.Quelthalas
-  href: api-source/WarcraftLegacies.Source.Mechanics.Quelthalas.html
-  commentId: N:WarcraftLegacies.Source.Mechanics.Quelthalas
-  fullName: WarcraftLegacies.Source.Mechanics.Quelthalas
-  nameWithType: WarcraftLegacies.Source.Mechanics.Quelthalas
-- uid: WarcraftLegacies.Source.Mechanics.Quelthalas.SilvermoonDies
-  name: SilvermoonDies
-  href: api-source/WarcraftLegacies.Source.Mechanics.Quelthalas.SilvermoonDies.html
-  commentId: T:WarcraftLegacies.Source.Mechanics.Quelthalas.SilvermoonDies
-  fullName: WarcraftLegacies.Source.Mechanics.Quelthalas.SilvermoonDies
-  nameWithType: SilvermoonDies
-- uid: WarcraftLegacies.Source.Mechanics.Quelthalas.SilvermoonDies.Setup(MacroTools.LegendSystem.Capital)
-  name: Setup(Capital)
-  href: api-source/WarcraftLegacies.Source.Mechanics.Quelthalas.SilvermoonDies.html#WarcraftLegacies_Source_Mechanics_Quelthalas_SilvermoonDies_Setup_MacroTools_LegendSystem_Capital_
-  commentId: M:WarcraftLegacies.Source.Mechanics.Quelthalas.SilvermoonDies.Setup(MacroTools.LegendSystem.Capital)
-  fullName: WarcraftLegacies.Source.Mechanics.Quelthalas.SilvermoonDies.Setup(MacroTools.LegendSystem.Capital)
-  nameWithType: SilvermoonDies.Setup(Capital)
-- uid: WarcraftLegacies.Source.Mechanics.Quelthalas.SilvermoonDies.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Mechanics.Quelthalas.SilvermoonDies.html#WarcraftLegacies_Source_Mechanics_Quelthalas_SilvermoonDies_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Mechanics.Quelthalas.SilvermoonDies.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Mechanics.Quelthalas.SilvermoonDies.Setup
-  nameWithType: SilvermoonDies.Setup
 - uid: WarcraftLegacies.Source.Mechanics.Scourge
   name: WarcraftLegacies.Source.Mechanics.Scourge
   href: api-source/WarcraftLegacies.Source.Mechanics.Scourge.html

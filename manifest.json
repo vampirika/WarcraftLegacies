@@ -4925,30 +4925,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Quelthalas.SilvermoonDies.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Quelthalas.SilvermoonDies.html",
-          "hash": "Z9eSL8FyqFwxUKiJLAuxzA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Quelthalas.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Quelthalas.html",
-          "hash": "WeR9XCuWuGTIPD2kHAlJ6A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Mechanics.Scourge.Blight.BlightParameters.yml",
       "output": {
         ".html": {
@@ -7953,7 +7929,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.GameSetup.html",
-          "hash": "3F+4j617bZlAebU3G1kZKw=="
+          "hash": "gAg4B8fg1JDHZdRz6+DnYQ=="
         }
       },
       "is_incremental": false,
@@ -8193,7 +8169,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.html",
-          "hash": "nJPwH8XDRNGK3l8zEBU/SA=="
+          "hash": "6oIxGg/C/mlHjqWgitRwNw=="
         }
       },
       "is_incremental": false,
@@ -8997,7 +8973,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "TWwhNV83oBH7Gh6zvF3UGA=="
+          "hash": "TtVcYaS4lw/caojYr6m0zg=="
         }
       },
       "is_incremental": false,
@@ -9072,7 +9048,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 748,
+          "total_file_count": 746,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
