@@ -9233,6 +9233,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Power.OnAdd
   nameWithType: Power.OnAdd
+- uid: MacroTools.FactionSystem.Power.OnCooldown
+  name: OnCooldown
+  href: api-macroTools/MacroTools.FactionSystem.Power.html#MacroTools_FactionSystem_Power_OnCooldown
+  commentId: P:MacroTools.FactionSystem.Power.OnCooldown
+  fullName: MacroTools.FactionSystem.Power.OnCooldown
+  nameWithType: Power.OnCooldown
+- uid: MacroTools.FactionSystem.Power.OnCooldown*
+  name: OnCooldown
+  href: api-macroTools/MacroTools.FactionSystem.Power.html#MacroTools_FactionSystem_Power_OnCooldown_
+  commentId: Overload:MacroTools.FactionSystem.Power.OnCooldown
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Power.OnCooldown
+  nameWithType: Power.OnCooldown
 - uid: MacroTools.FactionSystem.Power.OnRemove(player)
   name: OnRemove(player)
   href: api-macroTools/MacroTools.FactionSystem.Power.html#MacroTools_FactionSystem_Power_OnRemove_player_
@@ -9246,6 +9259,32 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Power.OnRemove
   nameWithType: Power.OnRemove
+- uid: MacroTools.FactionSystem.Power.OnUse(player)
+  name: OnUse(player)
+  href: api-macroTools/MacroTools.FactionSystem.Power.html#MacroTools_FactionSystem_Power_OnUse_player_
+  commentId: M:MacroTools.FactionSystem.Power.OnUse(player)
+  fullName: MacroTools.FactionSystem.Power.OnUse(player)
+  nameWithType: Power.OnUse(player)
+- uid: MacroTools.FactionSystem.Power.OnUse*
+  name: OnUse
+  href: api-macroTools/MacroTools.FactionSystem.Power.html#MacroTools_FactionSystem_Power_OnUse_
+  commentId: Overload:MacroTools.FactionSystem.Power.OnUse
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Power.OnUse
+  nameWithType: Power.OnUse
+- uid: MacroTools.FactionSystem.Power.Usable
+  name: Usable
+  href: api-macroTools/MacroTools.FactionSystem.Power.html#MacroTools_FactionSystem_Power_Usable
+  commentId: P:MacroTools.FactionSystem.Power.Usable
+  fullName: MacroTools.FactionSystem.Power.Usable
+  nameWithType: Power.Usable
+- uid: MacroTools.FactionSystem.Power.Usable*
+  name: Usable
+  href: api-macroTools/MacroTools.FactionSystem.Power.html#MacroTools_FactionSystem_Power_Usable_
+  commentId: Overload:MacroTools.FactionSystem.Power.Usable
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Power.Usable
+  nameWithType: Power.Usable
 - uid: MacroTools.FactionSystem.ScoreStatus
   name: ScoreStatus
   href: api-macroTools/MacroTools.FactionSystem.ScoreStatus.html
@@ -22274,12 +22313,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Powers.PingPower
   fullName: WarcraftLegacies.Source.Powers.PingPower
   nameWithType: PingPower
-- uid: WarcraftLegacies.Source.Powers.PingPower.#ctor(MacroTools.LegendSystem.LegendaryHero,System.String,System.Int32,System.Int32,System.Boolean)
-  name: PingPower(LegendaryHero, String, Int32, Int32, Boolean)
-  href: api-source/WarcraftLegacies.Source.Powers.PingPower.html#WarcraftLegacies_Source_Powers_PingPower__ctor_MacroTools_LegendSystem_LegendaryHero_System_String_System_Int32_System_Int32_System_Boolean_
-  commentId: M:WarcraftLegacies.Source.Powers.PingPower.#ctor(MacroTools.LegendSystem.LegendaryHero,System.String,System.Int32,System.Int32,System.Boolean)
-  fullName: WarcraftLegacies.Source.Powers.PingPower.PingPower(MacroTools.LegendSystem.LegendaryHero, System.String, System.Int32, System.Int32, System.Boolean)
-  nameWithType: PingPower.PingPower(LegendaryHero, String, Int32, Int32, Boolean)
+- uid: WarcraftLegacies.Source.Powers.PingPower.#ctor(MacroTools.LegendSystem.LegendaryHero,System.String,System.Int32,System.Int32)
+  name: PingPower(LegendaryHero, String, Int32, Int32)
+  href: api-source/WarcraftLegacies.Source.Powers.PingPower.html#WarcraftLegacies_Source_Powers_PingPower__ctor_MacroTools_LegendSystem_LegendaryHero_System_String_System_Int32_System_Int32_
+  commentId: M:WarcraftLegacies.Source.Powers.PingPower.#ctor(MacroTools.LegendSystem.LegendaryHero,System.String,System.Int32,System.Int32)
+  fullName: WarcraftLegacies.Source.Powers.PingPower.PingPower(MacroTools.LegendSystem.LegendaryHero, System.String, System.Int32, System.Int32)
+  nameWithType: PingPower.PingPower(LegendaryHero, String, Int32, Int32)
 - uid: WarcraftLegacies.Source.Powers.PingPower.#ctor*
   name: PingPower
   href: api-source/WarcraftLegacies.Source.Powers.PingPower.html#WarcraftLegacies_Source_Powers_PingPower__ctor_
@@ -22313,6 +22352,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Powers.PingPower.OnRemove
   nameWithType: PingPower.OnRemove
+- uid: WarcraftLegacies.Source.Powers.PingPower.OnUse(player)
+  name: OnUse(player)
+  href: api-source/WarcraftLegacies.Source.Powers.PingPower.html#WarcraftLegacies_Source_Powers_PingPower_OnUse_player_
+  commentId: M:WarcraftLegacies.Source.Powers.PingPower.OnUse(player)
+  fullName: WarcraftLegacies.Source.Powers.PingPower.OnUse(player)
+  nameWithType: PingPower.OnUse(player)
+- uid: WarcraftLegacies.Source.Powers.PingPower.OnUse*
+  name: OnUse
+  href: api-source/WarcraftLegacies.Source.Powers.PingPower.html#WarcraftLegacies_Source_Powers_PingPower_OnUse_
+  commentId: Overload:WarcraftLegacies.Source.Powers.PingPower.OnUse
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Powers.PingPower.OnUse
+  nameWithType: PingPower.OnUse
 - uid: WarcraftLegacies.Source.Powers.ShaladrassilsBlessing
   name: ShaladrassilsBlessing
   href: api-source/WarcraftLegacies.Source.Powers.ShaladrassilsBlessing.html

@@ -97,6 +97,12 @@
       <a class="xref" href="../api-macroTools/MacroTools.FactionSystem.Power.html#MacroTools_FactionSystem_Power_Description">Power.Description</a>
     </div>
     <div>
+      <a class="xref" href="../api-macroTools/MacroTools.FactionSystem.Power.html#MacroTools_FactionSystem_Power_Usable">Power.Usable</a>
+    </div>
+    <div>
+      <a class="xref" href="../api-macroTools/MacroTools.FactionSystem.Power.html#MacroTools_FactionSystem_Power_OnCooldown">Power.OnCooldown</a>
+    </div>
+    <div>
       <a class="xref" href="../api-macroTools/MacroTools.FactionSystem.Power.html#MacroTools_FactionSystem_Power_DescriptionChanged">Power.DescriptionChanged</a>
     </div>
   </div>
@@ -110,18 +116,18 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Powers_PingPower__ctor_MacroTools_LegendSystem_LegendaryHero_System_String_System_Int32_System_Int32_System_Boolean_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Powers.PingPower.%23ctor(MacroTools.LegendSystem.LegendaryHero%2CSystem.String%2CSystem.Int32%2CSystem.Int32%2CSystem.Boolean)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Powers_PingPower__ctor_MacroTools_LegendSystem_LegendaryHero_System_String_System_Int32_System_Int32_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Powers.PingPower.%23ctor(MacroTools.LegendSystem.LegendaryHero%2CSystem.String%2CSystem.Int32%2CSystem.Int32)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Powers/PingPower.cs/#L24">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Powers/PingPower.cs/#L23">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Powers_PingPower__ctor_" data-uid="WarcraftLegacies.Source.Powers.PingPower.#ctor*"></a>
-  <h4 id="WarcraftLegacies_Source_Powers_PingPower__ctor_MacroTools_LegendSystem_LegendaryHero_System_String_System_Int32_System_Int32_System_Boolean_" data-uid="WarcraftLegacies.Source.Powers.PingPower.#ctor(MacroTools.LegendSystem.LegendaryHero,System.String,System.Int32,System.Int32,System.Boolean)">PingPower(LegendaryHero, String, Int32, Int32, Boolean)</h4>
+  <h4 id="WarcraftLegacies_Source_Powers_PingPower__ctor_MacroTools_LegendSystem_LegendaryHero_System_String_System_Int32_System_Int32_" data-uid="WarcraftLegacies.Source.Powers.PingPower.#ctor(MacroTools.LegendSystem.LegendaryHero,System.String,System.Int32,System.Int32)">PingPower(LegendaryHero, String, Int32, Int32)</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public PingPower(LegendaryHero heroToPing, string name, int pingTime, int pingInterval, bool pingPeriodically)</code></pre>
+    <pre><code class="lang-csharp hljs">public PingPower(LegendaryHero heroToPing, string name, int pingTime, int cooldown)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -153,14 +159,8 @@
       </tr>
       <tr>
         <td><span class="xref">System.Int32</span></td>
-        <td><span class="parametername">pingInterval</span></td>
-        <td><p>The interval at which the ping occurs</p>
-</td>
-      </tr>
-      <tr>
-        <td><span class="xref">System.Boolean</span></td>
-        <td><span class="parametername">pingPeriodically</span></td>
-        <td><p>If true repeats the ping, eles only pings once</p>
+        <td><span class="parametername">cooldown</span></td>
+        <td><p>The cooldown of the power in seconds</p>
 </td>
       </tr>
     </tbody>
@@ -172,7 +172,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Powers_PingPower_OnAdd_player_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Powers.PingPower.OnAdd(player)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Powers/PingPower.cs/#L37">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Powers/PingPower.cs/#L36">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Powers_PingPower_OnAdd_" data-uid="WarcraftLegacies.Source.Powers.PingPower.OnAdd*"></a>
   <h4 id="WarcraftLegacies_Source_Powers_PingPower_OnAdd_player_" data-uid="WarcraftLegacies.Source.Powers.PingPower.OnAdd(player)">OnAdd(player)</h4>
@@ -204,7 +204,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Powers_PingPower_OnRemove_player_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Powers.PingPower.OnRemove(player)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Powers/PingPower.cs/#L43">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Powers/PingPower.cs/#L47">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Powers_PingPower_OnRemove_" data-uid="WarcraftLegacies.Source.Powers.PingPower.OnRemove*"></a>
   <h4 id="WarcraftLegacies_Source_Powers_PingPower_OnRemove_player_" data-uid="WarcraftLegacies.Source.Powers.PingPower.OnRemove(player)">OnRemove(player)</h4>
@@ -213,6 +213,38 @@
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public override void OnRemove(player whichPlayer)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">player</span></td>
+        <td><span class="parametername">whichPlayer</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Powers_PingPower_OnUse_player_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Powers.PingPower.OnUse(player)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Powers/PingPower.cs/#L53">View Source</a>
+  </span>
+  <a id="WarcraftLegacies_Source_Powers_PingPower_OnUse_" data-uid="WarcraftLegacies.Source.Powers.PingPower.OnUse*"></a>
+  <h4 id="WarcraftLegacies_Source_Powers_PingPower_OnUse_player_" data-uid="WarcraftLegacies.Source.Powers.PingPower.OnUse(player)">OnUse(player)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override void OnUse(player whichPlayer)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
