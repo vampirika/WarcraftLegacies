@@ -86,6 +86,7 @@
       <div class="level2"><a class="xref" href="MacroTools.Cheats.CheatDestroy.html">CheatDestroy</a></div>
       <div class="level2"><a class="xref" href="MacroTools.Cheats.CheatFaction.html">CheatFaction</a></div>
       <div class="level2"><a class="xref" href="MacroTools.Cheats.CheatFood.html">CheatFood</a></div>
+      <div class="level2"><a class="xref" href="MacroTools.Cheats.CheatGetUnitAbilities.html">CheatGetUnitAbilities</a></div>
       <div class="level2"><a class="xref" href="MacroTools.Cheats.CheatGod.html">CheatGod</a></div>
       <div class="level2"><a class="xref" href="MacroTools.Cheats.CheatGold.html">CheatGold</a></div>
       <div class="level2"><a class="xref" href="MacroTools.Cheats.CheatHp.html">CheatHp</a></div>
@@ -99,6 +100,7 @@
       <div class="level2"><a class="xref" href="MacroTools.Cheats.CheatPosition.html">CheatPosition</a></div>
       <div class="level2"><a class="xref" href="MacroTools.Cheats.CheatQuestProgress.html">CheatQuestProgress</a></div>
       <div class="level2"><a class="xref" href="MacroTools.Cheats.CheatRemove.html">CheatRemove</a></div>
+      <div class="level2"><a class="xref" href="MacroTools.Cheats.CheatRemoveAllAbilities.html">CheatRemoveAllAbilities</a></div>
       <div class="level2"><a class="xref" href="MacroTools.Cheats.CheatResearchLevel.html">CheatResearchLevel</a></div>
       <div class="level2"><a class="xref" href="MacroTools.Cheats.CheatSetResearchLevel.html">CheatSetResearchLevel</a></div>
       <div class="level2"><a class="xref" href="MacroTools.Cheats.CheatShore.html">CheatShore</a></div>
@@ -157,7 +159,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_CommandSystem_Command_Description.md&amp;value=---%0Auid%3A%20MacroTools.CommandSystem.Command.Description%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/CommandSystem/Command.cs/#L28">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/CommandSystem/Command.cs/#L33">View Source</a>
   </span>
   <a id="MacroTools_CommandSystem_Command_Description_" data-uid="MacroTools.CommandSystem.Command.Description*"></a>
   <h4 id="MacroTools_CommandSystem_Command_Description" data-uid="MacroTools.CommandSystem.Command.Description">Description</h4>
@@ -185,10 +187,41 @@
   </table>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_CommandSystem_Command_MinimumParameterCount.md&amp;value=---%0Auid%3A%20MacroTools.CommandSystem.Command.MinimumParameterCount%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_CommandSystem_Command_Exact.md&amp;value=---%0Auid%3A%20MacroTools.CommandSystem.Command.Exact%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/CommandSystem/Command.cs/#L18">View Source</a>
+  </span>
+  <a id="MacroTools_CommandSystem_Command_Exact_" data-uid="MacroTools.CommandSystem.Command.Exact*"></a>
+  <h4 id="MacroTools_CommandSystem_Command_Exact" data-uid="MacroTools.CommandSystem.Command.Exact">Exact</h4>
+  <div class="markdown level1 summary"><p>Set if the command needs to be an exact match or not, commands with 0 params should be exact<a class="xref" href="MacroTools.CommandSystem.Command.html">Command</a>.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public abstract bool Exact { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_CommandSystem_Command_MinimumParameterCount.md&amp;value=---%0Auid%3A%20MacroTools.CommandSystem.Command.MinimumParameterCount%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/CommandSystem/Command.cs/#L23">View Source</a>
   </span>
   <a id="MacroTools_CommandSystem_Command_MinimumParameterCount_" data-uid="MacroTools.CommandSystem.Command.MinimumParameterCount*"></a>
   <h4 id="MacroTools_CommandSystem_Command_MinimumParameterCount" data-uid="MacroTools.CommandSystem.Command.MinimumParameterCount">MinimumParameterCount</h4>
@@ -219,7 +252,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_CommandSystem_Command_Type.md&amp;value=---%0Auid%3A%20MacroTools.CommandSystem.Command.Type%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/CommandSystem/Command.cs/#L23">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/CommandSystem/Command.cs/#L28">View Source</a>
   </span>
   <a id="MacroTools_CommandSystem_Command_Type_" data-uid="MacroTools.CommandSystem.Command.Type*"></a>
   <h4 id="MacroTools_CommandSystem_Command_Type" data-uid="MacroTools.CommandSystem.Command.Type">Type</h4>
@@ -252,7 +285,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_CommandSystem_Command_Execute_player_System_String___.md&amp;value=---%0Auid%3A%20MacroTools.CommandSystem.Command.Execute(player%2CSystem.String%5B%5D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/CommandSystem/Command.cs/#L36">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/CommandSystem/Command.cs/#L41">View Source</a>
   </span>
   <a id="MacroTools_CommandSystem_Command_Execute_" data-uid="MacroTools.CommandSystem.Command.Execute*"></a>
   <h4 id="MacroTools_CommandSystem_Command_Execute_player_System_String___" data-uid="MacroTools.CommandSystem.Command.Execute(player,System.String[])">Execute(player, String[])</h4>
@@ -308,7 +341,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_CommandSystem_Command_OnRegister.md&amp;value=---%0Auid%3A%20MacroTools.CommandSystem.Command.OnRegister%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/CommandSystem/Command.cs/#L41">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/CommandSystem/Command.cs/#L46">View Source</a>
   </span>
   <a id="MacroTools_CommandSystem_Command_OnRegister_" data-uid="MacroTools.CommandSystem.Command.OnRegister*"></a>
   <h4 id="MacroTools_CommandSystem_Command_OnRegister" data-uid="MacroTools.CommandSystem.Command.OnRegister">OnRegister()</h4>

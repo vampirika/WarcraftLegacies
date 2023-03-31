@@ -597,7 +597,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatAddSpell.html",
-          "hash": "OOO/ca7tEkJlM8cIfEdekg=="
+          "hash": "82V4Ms4ylvGIiZtfu5gSDg=="
         }
       },
       "is_incremental": false,
@@ -609,7 +609,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatBuild.html",
-          "hash": "xdc1hbX80I62Xha0k2HTuQ=="
+          "hash": "j3tMeIJDyl55q9/8oJ4ySg=="
         }
       },
       "is_incremental": false,
@@ -621,7 +621,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatControl.html",
-          "hash": "pmebC1flp+76OSYiZ7FDxg=="
+          "hash": "wE9Nea6JK6D0M7LmFJHhFA=="
         }
       },
       "is_incremental": false,
@@ -633,7 +633,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatDestroy.html",
-          "hash": "LgEL1eJ/TRrTKkffDAOCYA=="
+          "hash": "hiOtq7jyfSP3T6+01ydulw=="
         }
       },
       "is_incremental": false,
@@ -645,7 +645,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatFaction.html",
-          "hash": "8V4dotMbaunPuWDE+vt+Dg=="
+          "hash": "YF15BvEyiluydloLUIILsQ=="
         }
       },
       "is_incremental": false,
@@ -657,7 +657,19 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatFood.html",
-          "hash": "HYGtJVuqQSIbOVD1Yx/5xQ=="
+          "hash": "P6XzAj9RQTTUEwAnnuWcvw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Cheats.CheatGetUnitAbilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Cheats.CheatGetUnitAbilities.html",
+          "hash": "mJLcMaF8LJl4ACejH1lNDA=="
         }
       },
       "is_incremental": false,
@@ -669,7 +681,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatGod.html",
-          "hash": "yraIWLDdzGujqziv2QI7EA=="
+          "hash": "ckffYCK/JS2HCtYaIvx2vg=="
         }
       },
       "is_incremental": false,
@@ -681,7 +693,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatGold.html",
-          "hash": "gyB8v9y7cEVOd3epXV8ovA=="
+          "hash": "hQIGZDtthmYSPPdyYmiNrQ=="
         }
       },
       "is_incremental": false,
@@ -693,7 +705,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatHp.html",
-          "hash": "LPjiFD0+LScLvwR1wCp/qQ=="
+          "hash": "YLhus4d40B4tKataTJG83A=="
         }
       },
       "is_incremental": false,
@@ -705,7 +717,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatKick.html",
-          "hash": "HJdg/9oTNDUw/VOZxeu+GA=="
+          "hash": "/FHq19KpMWHA7QfPheR5HA=="
         }
       },
       "is_incremental": false,
@@ -717,7 +729,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatLevel.html",
-          "hash": "+GhnOLh23AhrWle67LPpLQ=="
+          "hash": "k2hFnsw4wBflI9eQKN0vdw=="
         }
       },
       "is_incremental": false,
@@ -729,7 +741,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatLumber.html",
-          "hash": "dNNxJurs7pCCyufxk8+qaw=="
+          "hash": "++JIGZRl5U8w6W7kYUdFaw=="
         }
       },
       "is_incremental": false,
@@ -741,7 +753,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatMana.html",
-          "hash": "js+LxeU36krHLhJBLBxdaA=="
+          "hash": "m8T6WrlPA7+aGgQhMG+Bwg=="
         }
       },
       "is_incremental": false,
@@ -753,7 +765,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatMp.html",
-          "hash": "xVsR3g67sszEigndkn+BMA=="
+          "hash": "vEXYBWIA+daloQKnKezN2g=="
         }
       },
       "is_incremental": false,
@@ -765,7 +777,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatNocd.html",
-          "hash": "JYq3S7HT+Y4+ZOGU6XwhpQ=="
+          "hash": "hqYXknL/VxZCPAKQfeMbrw=="
         }
       },
       "is_incremental": false,
@@ -777,7 +789,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatOwner.html",
-          "hash": "JGLzfutXhmrC55HdSqQ7mQ=="
+          "hash": "wIRz8y/nPiPD8XsVkXk2hA=="
         }
       },
       "is_incremental": false,
@@ -789,7 +801,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatPosition.html",
-          "hash": "gyOasO0JaWhhOBZ+wLIhCA=="
+          "hash": "W1bsPyuNWF90mHT9t3bHqw=="
         }
       },
       "is_incremental": false,
@@ -801,7 +813,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatQuestProgress.html",
-          "hash": "yqDEpaEs6Jk5KgjyubcWww=="
+          "hash": "HCrb81DHxlPOlMkdrtfvtQ=="
         }
       },
       "is_incremental": false,
@@ -813,7 +825,19 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatRemove.html",
-          "hash": "ld0t8OL1KnV90BTl11bnow=="
+          "hash": "AVleZzV9d5BTufK7coCyDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Cheats.CheatRemoveAllAbilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Cheats.CheatRemoveAllAbilities.html",
+          "hash": "HUD7+ItEdURTeF5iwuYYLg=="
         }
       },
       "is_incremental": false,
@@ -825,7 +849,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatResearchLevel.html",
-          "hash": "RvE9oc5G32VrY4m6G+bx1g=="
+          "hash": "PTOOGts4sbQyafjfyU6bBg=="
         }
       },
       "is_incremental": false,
@@ -837,7 +861,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatSetResearchLevel.html",
-          "hash": "e/5Uga2ERvfYnhWgVtw4aw=="
+          "hash": "WTXViswFBZypfsOkXNMvgA=="
         }
       },
       "is_incremental": false,
@@ -849,7 +873,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatShore.html",
-          "hash": "1Ivraam25Hgpq2KQeYZvRQ=="
+          "hash": "8aNI7P4CpCiqLOL5YmX32A=="
         }
       },
       "is_incremental": false,
@@ -861,7 +885,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatShowQuestNames.html",
-          "hash": "gmyGB2mWrAcHvC+Yd+genA=="
+          "hash": "duleneube2/1GGkbcmcIvQ=="
         }
       },
       "is_incremental": false,
@@ -873,7 +897,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatSpawn.html",
-          "hash": "zxv+pkiwpSRDK2IguwXdcA=="
+          "hash": "HpGT+NEmSsGe4sfKzKOQAg=="
         }
       },
       "is_incremental": false,
@@ -885,7 +909,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatTeam.html",
-          "hash": "WffTqxpsH5vEIig2TiZQYg=="
+          "hash": "Ar6oekj+0BNY2Lgd1ouCag=="
         }
       },
       "is_incremental": false,
@@ -897,7 +921,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatTele.html",
-          "hash": "GupGSyDtiHNY8KlfCghBoQ=="
+          "hash": "n9PVjnhDYnwyj376+1vmFQ=="
         }
       },
       "is_incremental": false,
@@ -909,7 +933,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatTime.html",
-          "hash": "QOvJVcVJ1y/oz19NOm+RxA=="
+          "hash": "x4VQ1KA9ubrdnDh0ir4iXQ=="
         }
       },
       "is_incremental": false,
@@ -921,7 +945,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatUncontrol.html",
-          "hash": "elukqA1yRqKXbbcYW4RBFQ=="
+          "hash": "dHp5eDEXsf8f+ru3MOt26Q=="
         }
       },
       "is_incremental": false,
@@ -933,7 +957,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatVision.html",
-          "hash": "Gpdokwx3ZB1KM7QtuzoNHQ=="
+          "hash": "ANc6dDEn232SL768vfAT3g=="
         }
       },
       "is_incremental": false,
@@ -969,7 +993,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.html",
-          "hash": "pCAB1H443gCTcIQJ6Ib6ZA=="
+          "hash": "BUMmotPawdGlCvewLWaFjA=="
         }
       },
       "is_incremental": false,
@@ -993,7 +1017,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.CommandSystem.Command.html",
-          "hash": "Tvj5AkXwXB3wQEvirC/TaQ=="
+          "hash": "1uSt11GollUds2oIAVO4TA=="
         }
       },
       "is_incremental": false,
@@ -1041,7 +1065,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Commands.Cam.html",
-          "hash": "q3NU63B3ZTrk28xY5sLaPg=="
+          "hash": "X3nU1PZPqLEuuo4w34ixBQ=="
         }
       },
       "is_incremental": false,
@@ -1053,7 +1077,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Commands.Clear.html",
-          "hash": "bNoVdVR9BC5zYM6ZmVh5OQ=="
+          "hash": "pAZMHVPf0GLmG8VrXafzsA=="
         }
       },
       "is_incremental": false,
@@ -1065,7 +1089,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Commands.Limited.html",
-          "hash": "UViQ0doxoqfbLQpawb1HwQ=="
+          "hash": "nZJnrNwdaJaa9Foq+NkUmQ=="
         }
       },
       "is_incremental": false,
@@ -1401,7 +1425,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.UnitExtensions.html",
-          "hash": "sTKpun+68YM8XWmEclYjMA=="
+          "hash": "zyS8rG1tbJIpyCtIgdlIhQ=="
         }
       },
       "is_incremental": false,
@@ -1905,7 +1929,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Libraries.GeneralHelpers.html",
-          "hash": "523MGasaO+Pa+GgWY+bKVA=="
+          "hash": "1of0bLyuJ8gj1PZOX8a02w=="
         }
       },
       "is_incremental": false,
@@ -4209,7 +4233,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "FjZD99nt+T2fmmvO3TNNzw=="
+          "hash": "gUoVTK3EGR2Wqy+OiRjPBQ=="
         }
       },
       "is_incremental": false,
@@ -7605,7 +7629,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.CheatSetup.html",
-          "hash": "8XqYIUWjrIayFIRfZ1JeiQ=="
+          "hash": "VN0kE9lwxD6c1oR+NYVfAQ=="
         }
       },
       "is_incremental": false,
@@ -9108,7 +9132,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 751,
+          "total_file_count": 753,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
