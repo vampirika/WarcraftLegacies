@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Class CinematicMode
+    <title>Class GameSetupDialogue
    </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="Class CinematicMode
+    <meta name="title" content="Class GameSetupDialogue
    ">
     <meta name="generator" content="docfx 2.56.7.0">
     
@@ -68,19 +68,18 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="WarcraftLegacies.Source.GameLogic.CinematicMode">
+            <article class="content wrap" id="_content" data-uid="WarcraftLegacies.Source.GameLogic.GameSetupDialogue">
   
   
-  <h1 id="WarcraftLegacies_Source_GameLogic_CinematicMode" data-uid="WarcraftLegacies.Source.GameLogic.CinematicMode" class="text-break">Class CinematicMode
+  <h1 id="WarcraftLegacies_Source_GameLogic_GameSetupDialogue" data-uid="WarcraftLegacies.Source.GameLogic.GameSetupDialogue" class="text-break">Class GameSetupDialogue
   </h1>
-  <div class="markdown level0 summary"><p>Used to engage cinematic mode, which prevents players from taking actions and manipulates sound
-and weather effects for a cinematic experience.</p>
+  <div class="markdown level0 summary"><p>A Dialog that players see until <a class="xref" href="WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html">ZandalarGoblinChoiceDialogue</a> has been resolved</p>
 </div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><span class="xref">System.Object</span></div>
-    <div class="level1"><span class="xref">CinematicMode</span></div>
+    <div class="level1"><span class="xref">GameSetupDialogue</span></div>
   </div>
   <div classs="implements">
     <h5>Implements</h5>
@@ -88,27 +87,26 @@ and weather effects for a cinematic experience.</p>
   </div>
   <h6><strong>Namespace</strong>: <a class="xref" href="WarcraftLegacies.Source.GameLogic.html">WarcraftLegacies.Source.GameLogic</a></h6>
   <h6><strong>Assembly</strong>: WarcraftLegacies.Source.dll</h6>
-  <h5 id="WarcraftLegacies_Source_GameLogic_CinematicMode_syntax">Syntax</h5>
+  <h5 id="WarcraftLegacies_Source_GameLogic_GameSetupDialogue_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public class CinematicMode : object, ITimer</code></pre>
+    <pre><code class="lang-csharp hljs">public class GameSetupDialogue : object, ITimer</code></pre>
   </div>
   <h3 id="constructors">Constructors
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_GameLogic_CinematicMode__ctor_System_Single_MacroTools_Timer_ITimer_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.GameLogic.CinematicMode.%23ctor(System.Single%2CMacroTools.Timer.ITimer)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_GameLogic_GameSetupDialogue__ctor_System_Single_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.GameLogic.GameSetupDialogue.%23ctor(System.Single)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/GameLogic/CinematicMode.cs/#L31">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/GameLogic/GameSetupDialogue.cs/#L24">View Source</a>
   </span>
-  <a id="WarcraftLegacies_Source_GameLogic_CinematicMode__ctor_" data-uid="WarcraftLegacies.Source.GameLogic.CinematicMode.#ctor*"></a>
-  <h4 id="WarcraftLegacies_Source_GameLogic_CinematicMode__ctor_System_Single_MacroTools_Timer_ITimer_" data-uid="WarcraftLegacies.Source.GameLogic.CinematicMode.#ctor(System.Single,MacroTools.Timer.ITimer)">CinematicMode(Single, ITimer)</h4>
-  <div class="markdown level1 summary"><p>Initiates cinematic mode.</p>
-</div>
+  <a id="WarcraftLegacies_Source_GameLogic_GameSetupDialogue__ctor_" data-uid="WarcraftLegacies.Source.GameLogic.GameSetupDialogue.#ctor*"></a>
+  <h4 id="WarcraftLegacies_Source_GameLogic_GameSetupDialogue__ctor_System_Single_" data-uid="WarcraftLegacies.Source.GameLogic.GameSetupDialogue.#ctor(System.Single)">GameSetupDialogue(Single)</h4>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public CinematicMode(float timeout, ITimer linkedTimer)</code></pre>
+    <pre><code class="lang-csharp hljs">public GameSetupDialogue(float duration)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -122,15 +120,8 @@ and weather effects for a cinematic experience.</p>
     <tbody>
       <tr>
         <td><span class="xref">System.Single</span></td>
-        <td><span class="parametername">timeout</span></td>
-        <td><p>How long cinematic mode should last.</p>
-</td>
-      </tr>
-      <tr>
-        <td><a class="xref" href="../api-macroTools/MacroTools.Timer.ITimer.html">ITimer</a></td>
-        <td><span class="parametername">linkedTimer</span></td>
-        <td><p>this timer will start at the same time as cinematic mosw</p>
-</td>
+        <td><span class="parametername">duration</span></td>
+        <td></td>
       </tr>
     </tbody>
   </table>
@@ -138,13 +129,13 @@ and weather effects for a cinematic experience.</p>
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_GameLogic_CinematicMode_OnTimerEnds.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.GameLogic.CinematicMode.OnTimerEnds%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_GameLogic_GameSetupDialogue_OnTimerEnds.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.GameLogic.GameSetupDialogue.OnTimerEnds%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/GameLogic/CinematicMode.cs/#L23">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/GameLogic/GameSetupDialogue.cs/#L14">View Source</a>
   </span>
-  <a id="WarcraftLegacies_Source_GameLogic_CinematicMode_OnTimerEnds_" data-uid="WarcraftLegacies.Source.GameLogic.CinematicMode.OnTimerEnds*"></a>
-  <h4 id="WarcraftLegacies_Source_GameLogic_CinematicMode_OnTimerEnds" data-uid="WarcraftLegacies.Source.GameLogic.CinematicMode.OnTimerEnds">OnTimerEnds</h4>
+  <a id="WarcraftLegacies_Source_GameLogic_GameSetupDialogue_OnTimerEnds_" data-uid="WarcraftLegacies.Source.GameLogic.GameSetupDialogue.OnTimerEnds*"></a>
+  <h4 id="WarcraftLegacies_Source_GameLogic_GameSetupDialogue_OnTimerEnds" data-uid="WarcraftLegacies.Source.GameLogic.GameSetupDialogue.OnTimerEnds">OnTimerEnds</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
@@ -170,29 +161,13 @@ and weather effects for a cinematic experience.</p>
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_GameLogic_CinematicMode_EndEarly.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.GameLogic.CinematicMode.EndEarly%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_GameLogic_GameSetupDialogue_StartTimer.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.GameLogic.GameSetupDialogue.StartTimer%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/GameLogic/CinematicMode.cs/#L64">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/GameLogic/GameSetupDialogue.cs/#L42">View Source</a>
   </span>
-  <a id="WarcraftLegacies_Source_GameLogic_CinematicMode_EndEarly_" data-uid="WarcraftLegacies.Source.GameLogic.CinematicMode.EndEarly*"></a>
-  <h4 id="WarcraftLegacies_Source_GameLogic_CinematicMode_EndEarly" data-uid="WarcraftLegacies.Source.GameLogic.CinematicMode.EndEarly">EndEarly()</h4>
-  <div class="markdown level1 summary"><p>Ends cinematic mode early for all players.</p>
-</div>
-  <div class="markdown level1 conceptual"></div>
-  <h5 class="decalaration">Declaration</h5>
-  <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void EndEarly()</code></pre>
-  </div>
-  <span class="small pull-right mobile-hide">
-    <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_GameLogic_CinematicMode_StartTimer.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.GameLogic.CinematicMode.StartTimer%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
-  </span>
-  <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/GameLogic/CinematicMode.cs/#L38">View Source</a>
-  </span>
-  <a id="WarcraftLegacies_Source_GameLogic_CinematicMode_StartTimer_" data-uid="WarcraftLegacies.Source.GameLogic.CinematicMode.StartTimer*"></a>
-  <h4 id="WarcraftLegacies_Source_GameLogic_CinematicMode_StartTimer" data-uid="WarcraftLegacies.Source.GameLogic.CinematicMode.StartTimer">StartTimer()</h4>
+  <a id="WarcraftLegacies_Source_GameLogic_GameSetupDialogue_StartTimer_" data-uid="WarcraftLegacies.Source.GameLogic.GameSetupDialogue.StartTimer*"></a>
+  <h4 id="WarcraftLegacies_Source_GameLogic_GameSetupDialogue_StartTimer" data-uid="WarcraftLegacies.Source.GameLogic.GameSetupDialogue.StartTimer">StartTimer()</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
@@ -211,10 +186,10 @@ and weather effects for a cinematic experience.</p>
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_GameLogic_CinematicMode.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.GameLogic.CinematicMode%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_GameLogic_GameSetupDialogue.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.GameLogic.GameSetupDialogue%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/GameLogic/CinematicMode.cs/#L13" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/GameLogic/GameSetupDialogue.cs/#L11" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>

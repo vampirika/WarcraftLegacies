@@ -4840,12 +4840,31 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.TestMode.CheatCondition
   nameWithType: TestMode.CheatCondition
-- uid: MacroTools.Cheats.TestMode.Setup(MacroTools.CommandSystem.CommandManager)
+- uid: MacroTools.Cheats.TestMode.CheatDocumentation
+  name: TestMode.CheatDocumentation
+  href: api-macroTools/MacroTools.Cheats.TestMode.CheatDocumentation.html
+  commentId: T:MacroTools.Cheats.TestMode.CheatDocumentation
+  fullName: MacroTools.Cheats.TestMode.CheatDocumentation
+  nameWithType: TestMode.CheatDocumentation
+- uid: MacroTools.Cheats.TestMode.CheatDocumentation.Setup(MacroTools.CommandSystem.CommandManager)
   name: Setup(CommandManager)
-  href: api-macroTools/MacroTools.Cheats.TestMode.html#MacroTools_Cheats_TestMode_Setup_MacroTools_CommandSystem_CommandManager_
-  commentId: M:MacroTools.Cheats.TestMode.Setup(MacroTools.CommandSystem.CommandManager)
-  fullName: MacroTools.Cheats.TestMode.Setup(MacroTools.CommandSystem.CommandManager)
-  nameWithType: TestMode.Setup(CommandManager)
+  href: api-macroTools/MacroTools.Cheats.TestMode.CheatDocumentation.html#MacroTools_Cheats_TestMode_CheatDocumentation_Setup_MacroTools_CommandSystem_CommandManager_
+  commentId: M:MacroTools.Cheats.TestMode.CheatDocumentation.Setup(MacroTools.CommandSystem.CommandManager)
+  fullName: MacroTools.Cheats.TestMode.CheatDocumentation.Setup(MacroTools.CommandSystem.CommandManager)
+  nameWithType: TestMode.CheatDocumentation.Setup(CommandManager)
+- uid: MacroTools.Cheats.TestMode.CheatDocumentation.Setup*
+  name: Setup
+  href: api-macroTools/MacroTools.Cheats.TestMode.CheatDocumentation.html#MacroTools_Cheats_TestMode_CheatDocumentation_Setup_
+  commentId: Overload:MacroTools.Cheats.TestMode.CheatDocumentation.Setup
+  isSpec: "True"
+  fullName: MacroTools.Cheats.TestMode.CheatDocumentation.Setup
+  nameWithType: TestMode.CheatDocumentation.Setup
+- uid: MacroTools.Cheats.TestMode.Setup
+  name: Setup()
+  href: api-macroTools/MacroTools.Cheats.TestMode.html#MacroTools_Cheats_TestMode_Setup
+  commentId: M:MacroTools.Cheats.TestMode.Setup
+  fullName: MacroTools.Cheats.TestMode.Setup()
+  nameWithType: TestMode.Setup()
 - uid: MacroTools.Cheats.TestMode.Setup*
   name: Setup
   href: api-macroTools/MacroTools.Cheats.TestMode.html#MacroTools_Cheats_TestMode_Setup_
@@ -6605,15 +6624,15 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.PlayerExtensions.PingLocation
   nameWithType: PlayerExtensions.PingLocation
-- uid: MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable{player},List{unit})
-  name: RescueGroup(Nullable<player>, List<unit>)
-  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_RescueGroup_System_Nullable_player__List_unit__
-  commentId: M:MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable{player},List{unit})
-  name.vb: RescueGroup(Nullable(Of player), List(Of unit))
-  fullName: MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable<player>, List<unit>)
-  fullName.vb: MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable(Of player), List(Of unit))
-  nameWithType: PlayerExtensions.RescueGroup(Nullable<player>, List<unit>)
-  nameWithType.vb: PlayerExtensions.RescueGroup(Nullable(Of player), List(Of unit))
+- uid: MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable{player},List{unit},System.Boolean)
+  name: RescueGroup(Nullable<player>, List<unit>, Boolean)
+  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_RescueGroup_System_Nullable_player__List_unit__System_Boolean_
+  commentId: M:MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable{player},List{unit},System.Boolean)
+  name.vb: RescueGroup(Nullable(Of player), List(Of unit), Boolean)
+  fullName: MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable<player>, List<unit>, System.Boolean)
+  fullName.vb: MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable(Of player), List(Of unit), System.Boolean)
+  nameWithType: PlayerExtensions.RescueGroup(Nullable<player>, List<unit>, Boolean)
+  nameWithType.vb: PlayerExtensions.RescueGroup(Nullable(Of player), List(Of unit), Boolean)
 - uid: MacroTools.Extensions.PlayerExtensions.RescueGroup*
   name: RescueGroup
   href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_RescueGroup_
@@ -7721,12 +7740,12 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.RemoveAbility
   nameWithType: UnitExtensions.RemoveAbility
-- uid: MacroTools.Extensions.UnitExtensions.Rescue(unit,player)
-  name: Rescue(unit, player)
-  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_Rescue_unit_player_
-  commentId: M:MacroTools.Extensions.UnitExtensions.Rescue(unit,player)
-  fullName: MacroTools.Extensions.UnitExtensions.Rescue(unit, player)
-  nameWithType: UnitExtensions.Rescue(unit, player)
+- uid: MacroTools.Extensions.UnitExtensions.Rescue(unit,player,System.Boolean)
+  name: Rescue(unit, player, Boolean)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_Rescue_unit_player_System_Boolean_
+  commentId: M:MacroTools.Extensions.UnitExtensions.Rescue(unit,player,System.Boolean)
+  fullName: MacroTools.Extensions.UnitExtensions.Rescue(unit, player, System.Boolean)
+  nameWithType: UnitExtensions.Rescue(unit, player, Boolean)
 - uid: MacroTools.Extensions.UnitExtensions.Rescue*
   name: Rescue
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_Rescue_
@@ -8700,6 +8719,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Faction.PrefixCol
   nameWithType: Faction.PrefixCol
+- uid: MacroTools.FactionSystem.Faction.RemoveGoldMines
+  name: RemoveGoldMines()
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_RemoveGoldMines
+  commentId: M:MacroTools.FactionSystem.Faction.RemoveGoldMines
+  fullName: MacroTools.FactionSystem.Faction.RemoveGoldMines()
+  nameWithType: Faction.RemoveGoldMines()
+- uid: MacroTools.FactionSystem.Faction.RemoveGoldMines*
+  name: RemoveGoldMines
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_RemoveGoldMines_
+  commentId: Overload:MacroTools.FactionSystem.Faction.RemoveGoldMines
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Faction.RemoveGoldMines
+  nameWithType: Faction.RemoveGoldMines
 - uid: MacroTools.FactionSystem.Faction.RemovePower(MacroTools.FactionSystem.Power)
   name: RemovePower(Power)
   href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_RemovePower_MacroTools_FactionSystem_Power_
@@ -9840,6 +9872,19 @@ references:
   commentId: T:MacroTools.GameTime
   fullName: MacroTools.GameTime
   nameWithType: GameTime
+- uid: MacroTools.GameTime.#ctor
+  name: GameTime()
+  href: api-macroTools/MacroTools.GameTime.html#MacroTools_GameTime__ctor
+  commentId: M:MacroTools.GameTime.#ctor
+  fullName: MacroTools.GameTime.GameTime()
+  nameWithType: GameTime.GameTime()
+- uid: MacroTools.GameTime.#ctor*
+  name: GameTime
+  href: api-macroTools/MacroTools.GameTime.html#MacroTools_GameTime__ctor_
+  commentId: Overload:MacroTools.GameTime.#ctor
+  isSpec: "True"
+  fullName: MacroTools.GameTime.GameTime
+  nameWithType: GameTime.GameTime
 - uid: MacroTools.GameTime.GetGameTime
   name: GetGameTime()
   href: api-macroTools/MacroTools.GameTime.html#MacroTools_GameTime_GetGameTime
@@ -9853,19 +9898,32 @@ references:
   isSpec: "True"
   fullName: MacroTools.GameTime.GetGameTime
   nameWithType: GameTime.GetGameTime
-- uid: MacroTools.GameTime.Setup
-  name: Setup()
-  href: api-macroTools/MacroTools.GameTime.html#MacroTools_GameTime_Setup
-  commentId: M:MacroTools.GameTime.Setup
-  fullName: MacroTools.GameTime.Setup()
-  nameWithType: GameTime.Setup()
-- uid: MacroTools.GameTime.Setup*
-  name: Setup
-  href: api-macroTools/MacroTools.GameTime.html#MacroTools_GameTime_Setup_
-  commentId: Overload:MacroTools.GameTime.Setup
+- uid: MacroTools.GameTime.OnTimerEnds
+  name: OnTimerEnds
+  href: api-macroTools/MacroTools.GameTime.html#MacroTools_GameTime_OnTimerEnds
+  commentId: P:MacroTools.GameTime.OnTimerEnds
+  fullName: MacroTools.GameTime.OnTimerEnds
+  nameWithType: GameTime.OnTimerEnds
+- uid: MacroTools.GameTime.OnTimerEnds*
+  name: OnTimerEnds
+  href: api-macroTools/MacroTools.GameTime.html#MacroTools_GameTime_OnTimerEnds_
+  commentId: Overload:MacroTools.GameTime.OnTimerEnds
   isSpec: "True"
-  fullName: MacroTools.GameTime.Setup
-  nameWithType: GameTime.Setup
+  fullName: MacroTools.GameTime.OnTimerEnds
+  nameWithType: GameTime.OnTimerEnds
+- uid: MacroTools.GameTime.StartTimer
+  name: StartTimer()
+  href: api-macroTools/MacroTools.GameTime.html#MacroTools_GameTime_StartTimer
+  commentId: M:MacroTools.GameTime.StartTimer
+  fullName: MacroTools.GameTime.StartTimer()
+  nameWithType: GameTime.StartTimer()
+- uid: MacroTools.GameTime.StartTimer*
+  name: StartTimer
+  href: api-macroTools/MacroTools.GameTime.html#MacroTools_GameTime_StartTimer_
+  commentId: Overload:MacroTools.GameTime.StartTimer
+  isSpec: "True"
+  fullName: MacroTools.GameTime.StartTimer
+  nameWithType: GameTime.StartTimer
 - uid: MacroTools.GameTime.TurnEnded
   name: TurnEnded
   href: api-macroTools/MacroTools.GameTime.html#MacroTools_GameTime_TurnEnded
@@ -19823,6 +19881,76 @@ references:
   isSpec: "True"
   fullName: MacroTools.SystemNotInitializedException.SystemNotInitializedException
   nameWithType: SystemNotInitializedException.SystemNotInitializedException
+- uid: MacroTools.Timer
+  name: MacroTools.Timer
+  href: api-macroTools/MacroTools.Timer.html
+  commentId: N:MacroTools.Timer
+  fullName: MacroTools.Timer
+  nameWithType: MacroTools.Timer
+- uid: MacroTools.Timer.ITimer
+  name: ITimer
+  href: api-macroTools/MacroTools.Timer.ITimer.html
+  commentId: T:MacroTools.Timer.ITimer
+  fullName: MacroTools.Timer.ITimer
+  nameWithType: ITimer
+- uid: MacroTools.Timer.ITimer.OnTimerEnds
+  name: OnTimerEnds
+  href: api-macroTools/MacroTools.Timer.ITimer.html#MacroTools_Timer_ITimer_OnTimerEnds
+  commentId: P:MacroTools.Timer.ITimer.OnTimerEnds
+  fullName: MacroTools.Timer.ITimer.OnTimerEnds
+  nameWithType: ITimer.OnTimerEnds
+- uid: MacroTools.Timer.ITimer.OnTimerEnds*
+  name: OnTimerEnds
+  href: api-macroTools/MacroTools.Timer.ITimer.html#MacroTools_Timer_ITimer_OnTimerEnds_
+  commentId: Overload:MacroTools.Timer.ITimer.OnTimerEnds
+  isSpec: "True"
+  fullName: MacroTools.Timer.ITimer.OnTimerEnds
+  nameWithType: ITimer.OnTimerEnds
+- uid: MacroTools.Timer.ITimer.StartTimer
+  name: StartTimer()
+  href: api-macroTools/MacroTools.Timer.ITimer.html#MacroTools_Timer_ITimer_StartTimer
+  commentId: M:MacroTools.Timer.ITimer.StartTimer
+  fullName: MacroTools.Timer.ITimer.StartTimer()
+  nameWithType: ITimer.StartTimer()
+- uid: MacroTools.Timer.ITimer.StartTimer*
+  name: StartTimer
+  href: api-macroTools/MacroTools.Timer.ITimer.html#MacroTools_Timer_ITimer_StartTimer_
+  commentId: Overload:MacroTools.Timer.ITimer.StartTimer
+  isSpec: "True"
+  fullName: MacroTools.Timer.ITimer.StartTimer
+  nameWithType: ITimer.StartTimer
+- uid: MacroTools.Timer.TimerQueue
+  name: TimerQueue
+  href: api-macroTools/MacroTools.Timer.TimerQueue.html
+  commentId: T:MacroTools.Timer.TimerQueue
+  fullName: MacroTools.Timer.TimerQueue
+  nameWithType: TimerQueue
+- uid: MacroTools.Timer.TimerQueue.Add(MacroTools.Timer.ITimer)
+  name: Add(ITimer)
+  href: api-macroTools/MacroTools.Timer.TimerQueue.html#MacroTools_Timer_TimerQueue_Add_MacroTools_Timer_ITimer_
+  commentId: M:MacroTools.Timer.TimerQueue.Add(MacroTools.Timer.ITimer)
+  fullName: MacroTools.Timer.TimerQueue.Add(MacroTools.Timer.ITimer)
+  nameWithType: TimerQueue.Add(ITimer)
+- uid: MacroTools.Timer.TimerQueue.Add*
+  name: Add
+  href: api-macroTools/MacroTools.Timer.TimerQueue.html#MacroTools_Timer_TimerQueue_Add_
+  commentId: Overload:MacroTools.Timer.TimerQueue.Add
+  isSpec: "True"
+  fullName: MacroTools.Timer.TimerQueue.Add
+  nameWithType: TimerQueue.Add
+- uid: MacroTools.Timer.TimerQueue.Start
+  name: Start()
+  href: api-macroTools/MacroTools.Timer.TimerQueue.html#MacroTools_Timer_TimerQueue_Start
+  commentId: M:MacroTools.Timer.TimerQueue.Start
+  fullName: MacroTools.Timer.TimerQueue.Start()
+  nameWithType: TimerQueue.Start()
+- uid: MacroTools.Timer.TimerQueue.Start*
+  name: Start
+  href: api-macroTools/MacroTools.Timer.TimerQueue.html#MacroTools_Timer_TimerQueue_Start_
+  commentId: Overload:MacroTools.Timer.TimerQueue.Start
+  isSpec: "True"
+  fullName: MacroTools.Timer.TimerQueue.Start
+  nameWithType: TimerQueue.Start
 - uid: MacroTools.TurnResearch
   name: TurnResearch
   href: api-macroTools/MacroTools.TurnResearch.html
@@ -20666,19 +20794,32 @@ references:
   commentId: T:WarcraftLegacies.Source.Cheats.CheatSkipCinematic
   fullName: WarcraftLegacies.Source.Cheats.CheatSkipCinematic
   nameWithType: CheatSkipCinematic
-- uid: WarcraftLegacies.Source.Cheats.CheatSkipCinematic.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Cheats.CheatSkipCinematic.html#WarcraftLegacies_Source_Cheats_CheatSkipCinematic_Setup
-  commentId: M:WarcraftLegacies.Source.Cheats.CheatSkipCinematic.Setup
-  fullName: WarcraftLegacies.Source.Cheats.CheatSkipCinematic.Setup()
-  nameWithType: CheatSkipCinematic.Setup()
-- uid: WarcraftLegacies.Source.Cheats.CheatSkipCinematic.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Cheats.CheatSkipCinematic.html#WarcraftLegacies_Source_Cheats_CheatSkipCinematic_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Cheats.CheatSkipCinematic.Setup
+- uid: WarcraftLegacies.Source.Cheats.CheatSkipCinematic.#ctor(WarcraftLegacies.Source.GameLogic.CinematicMode)
+  name: CheatSkipCinematic(CinematicMode)
+  href: api-source/WarcraftLegacies.Source.Cheats.CheatSkipCinematic.html#WarcraftLegacies_Source_Cheats_CheatSkipCinematic__ctor_WarcraftLegacies_Source_GameLogic_CinematicMode_
+  commentId: M:WarcraftLegacies.Source.Cheats.CheatSkipCinematic.#ctor(WarcraftLegacies.Source.GameLogic.CinematicMode)
+  fullName: WarcraftLegacies.Source.Cheats.CheatSkipCinematic.CheatSkipCinematic(WarcraftLegacies.Source.GameLogic.CinematicMode)
+  nameWithType: CheatSkipCinematic.CheatSkipCinematic(CinematicMode)
+- uid: WarcraftLegacies.Source.Cheats.CheatSkipCinematic.#ctor*
+  name: CheatSkipCinematic
+  href: api-source/WarcraftLegacies.Source.Cheats.CheatSkipCinematic.html#WarcraftLegacies_Source_Cheats_CheatSkipCinematic__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Cheats.CheatSkipCinematic.#ctor
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Cheats.CheatSkipCinematic.Setup
-  nameWithType: CheatSkipCinematic.Setup
+  fullName: WarcraftLegacies.Source.Cheats.CheatSkipCinematic.CheatSkipCinematic
+  nameWithType: CheatSkipCinematic.CheatSkipCinematic
+- uid: WarcraftLegacies.Source.Cheats.CheatSkipCinematic.Init
+  name: Init()
+  href: api-source/WarcraftLegacies.Source.Cheats.CheatSkipCinematic.html#WarcraftLegacies_Source_Cheats_CheatSkipCinematic_Init
+  commentId: M:WarcraftLegacies.Source.Cheats.CheatSkipCinematic.Init
+  fullName: WarcraftLegacies.Source.Cheats.CheatSkipCinematic.Init()
+  nameWithType: CheatSkipCinematic.Init()
+- uid: WarcraftLegacies.Source.Cheats.CheatSkipCinematic.Init*
+  name: Init
+  href: api-source/WarcraftLegacies.Source.Cheats.CheatSkipCinematic.html#WarcraftLegacies_Source_Cheats_CheatSkipCinematic_Init_
+  commentId: Overload:WarcraftLegacies.Source.Cheats.CheatSkipCinematic.Init
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Cheats.CheatSkipCinematic.Init
+  nameWithType: CheatSkipCinematic.Init
 - uid: WarcraftLegacies.Source.Commands
   name: WarcraftLegacies.Source.Commands
   href: api-source/WarcraftLegacies.Source.Commands.html
@@ -21045,6 +21186,19 @@ references:
   commentId: T:WarcraftLegacies.Source.GameLogic.CinematicMode
   fullName: WarcraftLegacies.Source.GameLogic.CinematicMode
   nameWithType: CinematicMode
+- uid: WarcraftLegacies.Source.GameLogic.CinematicMode.#ctor(System.Single,MacroTools.Timer.ITimer)
+  name: CinematicMode(Single, ITimer)
+  href: api-source/WarcraftLegacies.Source.GameLogic.CinematicMode.html#WarcraftLegacies_Source_GameLogic_CinematicMode__ctor_System_Single_MacroTools_Timer_ITimer_
+  commentId: M:WarcraftLegacies.Source.GameLogic.CinematicMode.#ctor(System.Single,MacroTools.Timer.ITimer)
+  fullName: WarcraftLegacies.Source.GameLogic.CinematicMode.CinematicMode(System.Single, MacroTools.Timer.ITimer)
+  nameWithType: CinematicMode.CinematicMode(Single, ITimer)
+- uid: WarcraftLegacies.Source.GameLogic.CinematicMode.#ctor*
+  name: CinematicMode
+  href: api-source/WarcraftLegacies.Source.GameLogic.CinematicMode.html#WarcraftLegacies_Source_GameLogic_CinematicMode__ctor_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.CinematicMode.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.CinematicMode.CinematicMode
+  nameWithType: CinematicMode.CinematicMode
 - uid: WarcraftLegacies.Source.GameLogic.CinematicMode.EndEarly
   name: EndEarly()
   href: api-source/WarcraftLegacies.Source.GameLogic.CinematicMode.html#WarcraftLegacies_Source_GameLogic_CinematicMode_EndEarly
@@ -21058,19 +21212,32 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.CinematicMode.EndEarly
   nameWithType: CinematicMode.EndEarly
-- uid: WarcraftLegacies.Source.GameLogic.CinematicMode.Start(System.Single)
-  name: Start(Single)
-  href: api-source/WarcraftLegacies.Source.GameLogic.CinematicMode.html#WarcraftLegacies_Source_GameLogic_CinematicMode_Start_System_Single_
-  commentId: M:WarcraftLegacies.Source.GameLogic.CinematicMode.Start(System.Single)
-  fullName: WarcraftLegacies.Source.GameLogic.CinematicMode.Start(System.Single)
-  nameWithType: CinematicMode.Start(Single)
-- uid: WarcraftLegacies.Source.GameLogic.CinematicMode.Start*
-  name: Start
-  href: api-source/WarcraftLegacies.Source.GameLogic.CinematicMode.html#WarcraftLegacies_Source_GameLogic_CinematicMode_Start_
-  commentId: Overload:WarcraftLegacies.Source.GameLogic.CinematicMode.Start
+- uid: WarcraftLegacies.Source.GameLogic.CinematicMode.OnTimerEnds
+  name: OnTimerEnds
+  href: api-source/WarcraftLegacies.Source.GameLogic.CinematicMode.html#WarcraftLegacies_Source_GameLogic_CinematicMode_OnTimerEnds
+  commentId: P:WarcraftLegacies.Source.GameLogic.CinematicMode.OnTimerEnds
+  fullName: WarcraftLegacies.Source.GameLogic.CinematicMode.OnTimerEnds
+  nameWithType: CinematicMode.OnTimerEnds
+- uid: WarcraftLegacies.Source.GameLogic.CinematicMode.OnTimerEnds*
+  name: OnTimerEnds
+  href: api-source/WarcraftLegacies.Source.GameLogic.CinematicMode.html#WarcraftLegacies_Source_GameLogic_CinematicMode_OnTimerEnds_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.CinematicMode.OnTimerEnds
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.GameLogic.CinematicMode.Start
-  nameWithType: CinematicMode.Start
+  fullName: WarcraftLegacies.Source.GameLogic.CinematicMode.OnTimerEnds
+  nameWithType: CinematicMode.OnTimerEnds
+- uid: WarcraftLegacies.Source.GameLogic.CinematicMode.StartTimer
+  name: StartTimer()
+  href: api-source/WarcraftLegacies.Source.GameLogic.CinematicMode.html#WarcraftLegacies_Source_GameLogic_CinematicMode_StartTimer
+  commentId: M:WarcraftLegacies.Source.GameLogic.CinematicMode.StartTimer
+  fullName: WarcraftLegacies.Source.GameLogic.CinematicMode.StartTimer()
+  nameWithType: CinematicMode.StartTimer()
+- uid: WarcraftLegacies.Source.GameLogic.CinematicMode.StartTimer*
+  name: StartTimer
+  href: api-source/WarcraftLegacies.Source.GameLogic.CinematicMode.html#WarcraftLegacies_Source_GameLogic_CinematicMode_StartTimer_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.CinematicMode.StartTimer
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.CinematicMode.StartTimer
+  nameWithType: CinematicMode.StartTimer
 - uid: WarcraftLegacies.Source.GameLogic.CinematicState
   name: CinematicState
   href: api-source/WarcraftLegacies.Source.GameLogic.CinematicState.html
@@ -21120,19 +21287,45 @@ references:
   commentId: T:WarcraftLegacies.Source.GameLogic.DisplayIntroText
   fullName: WarcraftLegacies.Source.GameLogic.DisplayIntroText
   nameWithType: DisplayIntroText
-- uid: WarcraftLegacies.Source.GameLogic.DisplayIntroText.Setup(System.Single)
-  name: Setup(Single)
-  href: api-source/WarcraftLegacies.Source.GameLogic.DisplayIntroText.html#WarcraftLegacies_Source_GameLogic_DisplayIntroText_Setup_System_Single_
-  commentId: M:WarcraftLegacies.Source.GameLogic.DisplayIntroText.Setup(System.Single)
-  fullName: WarcraftLegacies.Source.GameLogic.DisplayIntroText.Setup(System.Single)
-  nameWithType: DisplayIntroText.Setup(Single)
-- uid: WarcraftLegacies.Source.GameLogic.DisplayIntroText.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.GameLogic.DisplayIntroText.html#WarcraftLegacies_Source_GameLogic_DisplayIntroText_Setup_
-  commentId: Overload:WarcraftLegacies.Source.GameLogic.DisplayIntroText.Setup
+- uid: WarcraftLegacies.Source.GameLogic.DisplayIntroText.#ctor(System.Single)
+  name: DisplayIntroText(Single)
+  href: api-source/WarcraftLegacies.Source.GameLogic.DisplayIntroText.html#WarcraftLegacies_Source_GameLogic_DisplayIntroText__ctor_System_Single_
+  commentId: M:WarcraftLegacies.Source.GameLogic.DisplayIntroText.#ctor(System.Single)
+  fullName: WarcraftLegacies.Source.GameLogic.DisplayIntroText.DisplayIntroText(System.Single)
+  nameWithType: DisplayIntroText.DisplayIntroText(Single)
+- uid: WarcraftLegacies.Source.GameLogic.DisplayIntroText.#ctor*
+  name: DisplayIntroText
+  href: api-source/WarcraftLegacies.Source.GameLogic.DisplayIntroText.html#WarcraftLegacies_Source_GameLogic_DisplayIntroText__ctor_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.DisplayIntroText.#ctor
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.GameLogic.DisplayIntroText.Setup
-  nameWithType: DisplayIntroText.Setup
+  fullName: WarcraftLegacies.Source.GameLogic.DisplayIntroText.DisplayIntroText
+  nameWithType: DisplayIntroText.DisplayIntroText
+- uid: WarcraftLegacies.Source.GameLogic.DisplayIntroText.OnTimerEnds
+  name: OnTimerEnds
+  href: api-source/WarcraftLegacies.Source.GameLogic.DisplayIntroText.html#WarcraftLegacies_Source_GameLogic_DisplayIntroText_OnTimerEnds
+  commentId: P:WarcraftLegacies.Source.GameLogic.DisplayIntroText.OnTimerEnds
+  fullName: WarcraftLegacies.Source.GameLogic.DisplayIntroText.OnTimerEnds
+  nameWithType: DisplayIntroText.OnTimerEnds
+- uid: WarcraftLegacies.Source.GameLogic.DisplayIntroText.OnTimerEnds*
+  name: OnTimerEnds
+  href: api-source/WarcraftLegacies.Source.GameLogic.DisplayIntroText.html#WarcraftLegacies_Source_GameLogic_DisplayIntroText_OnTimerEnds_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.DisplayIntroText.OnTimerEnds
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.DisplayIntroText.OnTimerEnds
+  nameWithType: DisplayIntroText.OnTimerEnds
+- uid: WarcraftLegacies.Source.GameLogic.DisplayIntroText.StartTimer
+  name: StartTimer()
+  href: api-source/WarcraftLegacies.Source.GameLogic.DisplayIntroText.html#WarcraftLegacies_Source_GameLogic_DisplayIntroText_StartTimer
+  commentId: M:WarcraftLegacies.Source.GameLogic.DisplayIntroText.StartTimer
+  fullName: WarcraftLegacies.Source.GameLogic.DisplayIntroText.StartTimer()
+  nameWithType: DisplayIntroText.StartTimer()
+- uid: WarcraftLegacies.Source.GameLogic.DisplayIntroText.StartTimer*
+  name: StartTimer
+  href: api-source/WarcraftLegacies.Source.GameLogic.DisplayIntroText.html#WarcraftLegacies_Source_GameLogic_DisplayIntroText_StartTimer_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.DisplayIntroText.StartTimer
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.DisplayIntroText.StartTimer
+  nameWithType: DisplayIntroText.StartTimer
 - uid: WarcraftLegacies.Source.GameLogic.GameEnd
   name: WarcraftLegacies.Source.GameLogic.GameEnd
   href: api-source/WarcraftLegacies.Source.GameLogic.GameEnd.html
@@ -21202,6 +21395,51 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.GameSettings.Setup
   nameWithType: GameSettings.Setup
+- uid: WarcraftLegacies.Source.GameLogic.GameSetupDialogue
+  name: GameSetupDialogue
+  href: api-source/WarcraftLegacies.Source.GameLogic.GameSetupDialogue.html
+  commentId: T:WarcraftLegacies.Source.GameLogic.GameSetupDialogue
+  fullName: WarcraftLegacies.Source.GameLogic.GameSetupDialogue
+  nameWithType: GameSetupDialogue
+- uid: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.#ctor(System.Single)
+  name: GameSetupDialogue(Single)
+  href: api-source/WarcraftLegacies.Source.GameLogic.GameSetupDialogue.html#WarcraftLegacies_Source_GameLogic_GameSetupDialogue__ctor_System_Single_
+  commentId: M:WarcraftLegacies.Source.GameLogic.GameSetupDialogue.#ctor(System.Single)
+  fullName: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.GameSetupDialogue(System.Single)
+  nameWithType: GameSetupDialogue.GameSetupDialogue(Single)
+- uid: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.#ctor*
+  name: GameSetupDialogue
+  href: api-source/WarcraftLegacies.Source.GameLogic.GameSetupDialogue.html#WarcraftLegacies_Source_GameLogic_GameSetupDialogue__ctor_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.GameSetupDialogue.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.GameSetupDialogue
+  nameWithType: GameSetupDialogue.GameSetupDialogue
+- uid: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.OnTimerEnds
+  name: OnTimerEnds
+  href: api-source/WarcraftLegacies.Source.GameLogic.GameSetupDialogue.html#WarcraftLegacies_Source_GameLogic_GameSetupDialogue_OnTimerEnds
+  commentId: P:WarcraftLegacies.Source.GameLogic.GameSetupDialogue.OnTimerEnds
+  fullName: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.OnTimerEnds
+  nameWithType: GameSetupDialogue.OnTimerEnds
+- uid: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.OnTimerEnds*
+  name: OnTimerEnds
+  href: api-source/WarcraftLegacies.Source.GameLogic.GameSetupDialogue.html#WarcraftLegacies_Source_GameLogic_GameSetupDialogue_OnTimerEnds_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.GameSetupDialogue.OnTimerEnds
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.OnTimerEnds
+  nameWithType: GameSetupDialogue.OnTimerEnds
+- uid: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.StartTimer
+  name: StartTimer()
+  href: api-source/WarcraftLegacies.Source.GameLogic.GameSetupDialogue.html#WarcraftLegacies_Source_GameLogic_GameSetupDialogue_StartTimer
+  commentId: M:WarcraftLegacies.Source.GameLogic.GameSetupDialogue.StartTimer
+  fullName: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.StartTimer()
+  nameWithType: GameSetupDialogue.StartTimer()
+- uid: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.StartTimer*
+  name: StartTimer
+  href: api-source/WarcraftLegacies.Source.GameLogic.GameSetupDialogue.html#WarcraftLegacies_Source_GameLogic_GameSetupDialogue_StartTimer_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.GameSetupDialogue.StartTimer
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.StartTimer
+  nameWithType: GameSetupDialogue.StartTimer
 - uid: WarcraftLegacies.Source.GameLogic.HeroGlowFix
   name: HeroGlowFix
   href: api-source/WarcraftLegacies.Source.GameLogic.HeroGlowFix.html
@@ -21408,6 +21646,51 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.TagSummonedUnits.Setup
   nameWithType: TagSummonedUnits.Setup
+- uid: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue
+  name: ZandalarGoblinChoiceDialogue
+  href: api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html
+  commentId: T:WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue
+  fullName: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue
+  nameWithType: ZandalarGoblinChoiceDialogue
+- uid: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.#ctor(System.Single)
+  name: ZandalarGoblinChoiceDialogue(Single)
+  href: api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_ZandalarGoblinChoiceDialogue__ctor_System_Single_
+  commentId: M:WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.#ctor(System.Single)
+  fullName: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.ZandalarGoblinChoiceDialogue(System.Single)
+  nameWithType: ZandalarGoblinChoiceDialogue.ZandalarGoblinChoiceDialogue(Single)
+- uid: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.#ctor*
+  name: ZandalarGoblinChoiceDialogue
+  href: api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_ZandalarGoblinChoiceDialogue__ctor_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.ZandalarGoblinChoiceDialogue
+  nameWithType: ZandalarGoblinChoiceDialogue.ZandalarGoblinChoiceDialogue
+- uid: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.OnTimerEnds
+  name: OnTimerEnds
+  href: api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_ZandalarGoblinChoiceDialogue_OnTimerEnds
+  commentId: P:WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.OnTimerEnds
+  fullName: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.OnTimerEnds
+  nameWithType: ZandalarGoblinChoiceDialogue.OnTimerEnds
+- uid: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.OnTimerEnds*
+  name: OnTimerEnds
+  href: api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_ZandalarGoblinChoiceDialogue_OnTimerEnds_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.OnTimerEnds
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.OnTimerEnds
+  nameWithType: ZandalarGoblinChoiceDialogue.OnTimerEnds
+- uid: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.StartTimer
+  name: StartTimer()
+  href: api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_ZandalarGoblinChoiceDialogue_StartTimer
+  commentId: M:WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.StartTimer
+  fullName: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.StartTimer()
+  nameWithType: ZandalarGoblinChoiceDialogue.StartTimer()
+- uid: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.StartTimer*
+  name: StartTimer
+  href: api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_ZandalarGoblinChoiceDialogue_StartTimer_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.StartTimer
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.StartTimer
+  nameWithType: ZandalarGoblinChoiceDialogue.StartTimer
 - uid: WarcraftLegacies.Source.Mechanics.Druids
   name: WarcraftLegacies.Source.Mechanics.Druids
   href: api-source/WarcraftLegacies.Source.Mechanics.Druids.html
@@ -33526,12 +33809,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.CheatSetup
   fullName: WarcraftLegacies.Source.Setup.CheatSetup
   nameWithType: CheatSetup
-- uid: WarcraftLegacies.Source.Setup.CheatSetup.Setup(MacroTools.CommandSystem.CommandManager)
-  name: Setup(CommandManager)
-  href: api-source/WarcraftLegacies.Source.Setup.CheatSetup.html#WarcraftLegacies_Source_Setup_CheatSetup_Setup_MacroTools_CommandSystem_CommandManager_
-  commentId: M:WarcraftLegacies.Source.Setup.CheatSetup.Setup(MacroTools.CommandSystem.CommandManager)
-  fullName: WarcraftLegacies.Source.Setup.CheatSetup.Setup(MacroTools.CommandSystem.CommandManager)
-  nameWithType: CheatSetup.Setup(CommandManager)
+- uid: WarcraftLegacies.Source.Setup.CheatSetup.Setup(MacroTools.CommandSystem.CommandManager,WarcraftLegacies.Source.GameLogic.CinematicMode)
+  name: Setup(CommandManager, CinematicMode)
+  href: api-source/WarcraftLegacies.Source.Setup.CheatSetup.html#WarcraftLegacies_Source_Setup_CheatSetup_Setup_MacroTools_CommandSystem_CommandManager_WarcraftLegacies_Source_GameLogic_CinematicMode_
+  commentId: M:WarcraftLegacies.Source.Setup.CheatSetup.Setup(MacroTools.CommandSystem.CommandManager,WarcraftLegacies.Source.GameLogic.CinematicMode)
+  fullName: WarcraftLegacies.Source.Setup.CheatSetup.Setup(MacroTools.CommandSystem.CommandManager, WarcraftLegacies.Source.GameLogic.CinematicMode)
+  nameWithType: CheatSetup.Setup(CommandManager, CinematicMode)
 - uid: WarcraftLegacies.Source.Setup.CheatSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.CheatSetup.html#WarcraftLegacies_Source_Setup_CheatSetup_Setup_
@@ -34226,12 +34509,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.GoblinSetup.Goblin
   nameWithType: GoblinSetup.Goblin
-- uid: WarcraftLegacies.Source.Setup.FactionSetup.GoblinSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.GoblinSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_GoblinSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.GoblinSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.FactionSetup.GoblinSetup.Setup()
-  nameWithType: GoblinSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.GoblinSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.GoblinSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_GoblinSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.GoblinSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.GoblinSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: GoblinSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.GoblinSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.GoblinSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_GoblinSetup_Setup_

@@ -941,11 +941,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Cheats.TestMode.CheatDocumentation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Cheats.TestMode.CheatDocumentation.html",
+          "hash": "u4DtOQuJ/KE/rbenCDezrg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Cheats.TestMode.yml",
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.TestMode.html",
-          "hash": "UXhjj+Bl1SdBZQwxvwfNEg=="
+          "hash": "xyb6bMwyRbG8xbLzJZFsow=="
         }
       },
       "is_incremental": false,
@@ -957,7 +969,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.html",
-          "hash": "kTns8BC36ci6KJc4RNm1ug=="
+          "hash": "pCAB1H443gCTcIQJ6Ib6ZA=="
         }
       },
       "is_incremental": false,
@@ -1281,7 +1293,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.PlayerExtensions.html",
-          "hash": "L9W/Kkb2cJjZxTVx8shiLw=="
+          "hash": "RlfS8+edH3NkzRJjcXLNig=="
         }
       },
       "is_incremental": false,
@@ -1317,7 +1329,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.RescuePreparationMode.html",
-          "hash": "THQ6jbJ2h7RDkIBwntIijw=="
+          "hash": "RJJG6x9VlJ6lDZGybvDklw=="
         }
       },
       "is_incremental": false,
@@ -1389,7 +1401,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.UnitExtensions.html",
-          "hash": "RW9JD7+kW+Odbhsk9WFkjw=="
+          "hash": "sTKpun+68YM8XWmEclYjMA=="
         }
       },
       "is_incremental": false,
@@ -1401,7 +1413,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.html",
-          "hash": "cfXumu2VYqghFD6Q2Ovtgg=="
+          "hash": "UHIENAMOrmwBkxFMhFAq7w=="
         }
       },
       "is_incremental": false,
@@ -1425,7 +1437,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Faction.html",
-          "hash": "60hh5spKltYlINs7081vHQ=="
+          "hash": "1TmyvY+MfpZo5kRpMDy6vQ=="
         }
       },
       "is_incremental": false,
@@ -1617,7 +1629,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.GameTime.html",
-          "hash": "PbQ81JUZE89pbJ2MjxY5ZQ=="
+          "hash": "P6WulUIgR+iZzPqau8QSWQ=="
         }
       },
       "is_incremental": false,
@@ -4013,6 +4025,42 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Timer.ITimer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Timer.ITimer.html",
+          "hash": "hNBhMds/N8FQlMgyJACWsg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Timer.TimerQueue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Timer.TimerQueue.html",
+          "hash": "Uv0edMvSGwPIoTYPAOXxRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Timer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Timer.html",
+          "hash": "SYzs7nl/L9DLoo61k4MnXA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.TurnResearch.yml",
       "output": {
         ".html": {
@@ -4149,7 +4197,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.html",
-          "hash": "H35vU/CayygGQDyuG1ygvQ=="
+          "hash": "toJF2BWaAIqP2eYw5VGLpw=="
         }
       },
       "is_incremental": false,
@@ -4161,7 +4209,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "eKZl0o9I4rb6sK7om8wMsQ=="
+          "hash": "FjZD99nt+T2fmmvO3TNNzw=="
         }
       },
       "is_incremental": false,
@@ -4257,7 +4305,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Cheats.CheatSkipCinematic.html",
-          "hash": "ki5f3VU1cgENNYKiVK5/4g=="
+          "hash": "9W6F3x+PXQN/gEBorJgmUQ=="
         }
       },
       "is_incremental": false,
@@ -4521,7 +4569,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.CinematicMode.html",
-          "hash": "wgh/xDVWAqSRFkv3t5pMpA=="
+          "hash": "nsyIEOn+pJ/AY7pN7fAVog=="
         }
       },
       "is_incremental": false,
@@ -4557,7 +4605,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.DisplayIntroText.html",
-          "hash": "a7PsI0ZpTCSgM8BsvFXEvw=="
+          "hash": "cdqMaolW09LGkrFUYiw8yQ=="
         }
       },
       "is_incremental": false,
@@ -4606,6 +4654,18 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.GameSettings.html",
           "hash": "z5Kvg72gxMDeymrodzdDEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.GameSetupDialogue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.GameSetupDialogue.html",
+          "hash": "06kuIR+NHZjMUosz8Zhf4A=="
         }
       },
       "is_incremental": false,
@@ -4733,11 +4793,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html",
+          "hash": "HYH3h0PlT1i2jzjidKinSg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.html",
-          "hash": "F5RJKbsC6y2LLfkO7TJn0w=="
+          "hash": "ZMkwd7MASO6THWnixPAIPw=="
         }
       },
       "is_incremental": false,
@@ -7533,7 +7605,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.CheatSetup.html",
-          "hash": "sy6PS8a9rNz1ROOpEPUgbg=="
+          "hash": "8XqYIUWjrIayFIRfZ1JeiQ=="
         }
       },
       "is_incremental": false,
@@ -7725,7 +7797,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.GoblinSetup.html",
-          "hash": "WP9UUNxcPWbe2QWp4X3HAw=="
+          "hash": "9GWDkyleLIB1sDVv0krPaA=="
         }
       },
       "is_incremental": false,
@@ -7881,7 +7953,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.ZandalarSetup.html",
-          "hash": "aQfNRUjJrKrSvHdOunbxEQ=="
+          "hash": "Gch1C++hOCMgsLnD2vJb/g=="
         }
       },
       "is_incremental": false,
@@ -7893,7 +7965,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.html",
-          "hash": "wUWgOeaXf9PVXDJoA1CRtw=="
+          "hash": "6T37RoHTRHoOKCurM0mPIg=="
         }
       },
       "is_incremental": false,
@@ -7917,7 +7989,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.GameSetup.html",
-          "hash": "gAg4B8fg1JDHZdRz6+DnYQ=="
+          "hash": "3F+4j617bZlAebU3G1kZKw=="
         }
       },
       "is_incremental": false,
@@ -8961,7 +9033,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "nkQ/3lRR0rK9jwH3slx0UQ=="
+          "hash": "HLhgPM5EJbDEJreJNgZiEw=="
         }
       },
       "is_incremental": false,
@@ -9036,7 +9108,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 745,
+          "total_file_count": 751,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
