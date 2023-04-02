@@ -33027,51 +33027,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestConquerKul.RewardFlavour
   nameWithType: QuestConquerKul.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet
-  name: QuestGoldenFleet
-  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.html
-  commentId: T:WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet
-  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet
-  nameWithType: QuestGoldenFleet
-- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.#ctor
-  name: QuestGoldenFleet()
-  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.html#WarcraftLegacies_Source_Quests_Zandalar_QuestGoldenFleet__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.QuestGoldenFleet()
-  nameWithType: QuestGoldenFleet.QuestGoldenFleet()
-- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.#ctor*
-  name: QuestGoldenFleet
-  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.html#WarcraftLegacies_Source_Quests_Zandalar_QuestGoldenFleet__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.QuestGoldenFleet
-  nameWithType: QuestGoldenFleet.QuestGoldenFleet
-- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.html#WarcraftLegacies_Source_Quests_Zandalar_QuestGoldenFleet_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.RewardDescription
-  nameWithType: QuestGoldenFleet.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.html#WarcraftLegacies_Source_Quests_Zandalar_QuestGoldenFleet_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.RewardDescription
-  nameWithType: QuestGoldenFleet.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.RewardFlavour
-  name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.html#WarcraftLegacies_Source_Quests_Zandalar_QuestGoldenFleet_RewardFlavour
-  commentId: P:WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.RewardFlavour
-  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.RewardFlavour
-  nameWithType: QuestGoldenFleet.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.RewardFlavour*
-  name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.html#WarcraftLegacies_Source_Quests_Zandalar_QuestGoldenFleet_RewardFlavour_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.RewardFlavour
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.RewardFlavour
-  nameWithType: QuestGoldenFleet.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Zandalar.QuestGundrak
   name: QuestGundrak
   href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestGundrak.html

@@ -7217,18 +7217,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestGoldenFleet.html",
-          "hash": "10FrFH3nETfGwM/6N0IxfA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestGundrak.yml",
       "output": {
         ".html": {
@@ -7245,7 +7233,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestHakkar.html",
-          "hash": "BkVeIf/jJL70w/23Oc4YPA=="
+          "hash": "Sh61eCh5K5HLRYbpGdYnUg=="
         }
       },
       "is_incremental": false,
@@ -7305,7 +7293,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.html",
-          "hash": "nKcRHa7oePYJbk/65QMfCQ=="
+          "hash": "nfV2etDW0hCR2mr7+jb3FQ=="
         }
       },
       "is_incremental": false,
@@ -9057,7 +9045,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "HLhgPM5EJbDEJreJNgZiEw=="
+          "hash": "V4Z974uGWEvnt44ekbVlBg=="
         }
       },
       "is_incremental": false,
@@ -9132,7 +9120,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 753,
+          "total_file_count": 752,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
