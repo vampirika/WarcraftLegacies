@@ -33278,12 +33278,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar
   fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar
   nameWithType: QuestZandalar
-- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.#ctor(Rectangle)
-  name: QuestZandalar(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.html#WarcraftLegacies_Source_Quests_Zandalar_QuestZandalar__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.QuestZandalar(Rectangle)
-  nameWithType: QuestZandalar.QuestZandalar(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.#ctor(MacroTools.LegendSystem.Capital,Rectangle)
+  name: QuestZandalar(Capital, Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.html#WarcraftLegacies_Source_Quests_Zandalar_QuestZandalar__ctor_MacroTools_LegendSystem_Capital_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.#ctor(MacroTools.LegendSystem.Capital,Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.QuestZandalar(MacroTools.LegendSystem.Capital, Rectangle)
+  nameWithType: QuestZandalar.QuestZandalar(Capital, Rectangle)
 - uid: WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.#ctor*
   name: QuestZandalar
   href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.html#WarcraftLegacies_Source_Quests_Zandalar_QuestZandalar__ctor_
@@ -33349,12 +33349,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak
   fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak
   nameWithType: QuestZulfarrak
-- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.#ctor(Rectangle,WarcraftLegacies.Source.Setup.AllLegendSetup)
-  name: QuestZulfarrak(Rectangle, AllLegendSetup)
-  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.html#WarcraftLegacies_Source_Quests_Zandalar_QuestZulfarrak__ctor_Rectangle_WarcraftLegacies_Source_Setup_AllLegendSetup_
-  commentId: M:WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.#ctor(Rectangle,WarcraftLegacies.Source.Setup.AllLegendSetup)
-  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.QuestZulfarrak(Rectangle, WarcraftLegacies.Source.Setup.AllLegendSetup)
-  nameWithType: QuestZulfarrak.QuestZulfarrak(Rectangle, AllLegendSetup)
+- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.#ctor(Rectangle,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestZulfarrak(Rectangle, Capital, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.html#WarcraftLegacies_Source_Quests_Zandalar_QuestZulfarrak__ctor_Rectangle_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.#ctor(Rectangle,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.QuestZulfarrak(Rectangle, MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestZulfarrak.QuestZulfarrak(Rectangle, Capital, LegendaryHero)
 - uid: WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.#ctor*
   name: QuestZulfarrak
   href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.html#WarcraftLegacies_Source_Quests_Zandalar_QuestZulfarrak__ctor_
@@ -33362,19 +33362,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.QuestZulfarrak
   nameWithType: QuestZulfarrak.QuestZulfarrak
-- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.OnAdd(MacroTools.FactionSystem.Faction)
-  name: OnAdd(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.html#WarcraftLegacies_Source_Quests_Zandalar_QuestZulfarrak_OnAdd_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.OnAdd(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.OnAdd(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestZulfarrak.OnAdd(Faction)
-- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.OnAdd*
-  name: OnAdd
-  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.html#WarcraftLegacies_Source_Quests_Zandalar_QuestZulfarrak_OnAdd_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.OnAdd
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.OnAdd
-  nameWithType: QuestZulfarrak.OnAdd
 - uid: WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
   href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.html#WarcraftLegacies_Source_Quests_Zandalar_QuestZulfarrak_OnComplete_MacroTools_FactionSystem_Faction_
@@ -34087,6 +34074,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.Stormwind
   nameWithType: AllLegendSetup.Stormwind
+- uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Troll
+  name: Troll
+  href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Troll
+  commentId: P:WarcraftLegacies.Source.Setup.AllLegendSetup.Troll
+  fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.Troll
+  nameWithType: AllLegendSetup.Troll
+- uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Troll*
+  name: Troll
+  href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Troll_
+  commentId: Overload:WarcraftLegacies.Source.Setup.AllLegendSetup.Troll
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.Troll
+  nameWithType: AllLegendSetup.Troll
 - uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Warsong
   name: Warsong
   href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Warsong
@@ -38110,58 +38110,84 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.Legends.LegendTroll
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll
   nameWithType: LegendTroll
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.LEGEND_HAKKAR
-  name: LEGEND_HAKKAR
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll_LEGEND_HAKKAR
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendTroll.LEGEND_HAKKAR
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.LEGEND_HAKKAR
-  nameWithType: LegendTroll.LEGEND_HAKKAR
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.LEGEND_HAKKAR*
-  name: LEGEND_HAKKAR
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll_LEGEND_HAKKAR_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendTroll.LEGEND_HAKKAR
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.#ctor
+  name: LegendTroll()
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll__ctor
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendTroll.#ctor
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.LegendTroll()
+  nameWithType: LegendTroll.LegendTroll()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.#ctor*
+  name: LegendTroll
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendTroll.#ctor
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.LEGEND_HAKKAR
-  nameWithType: LegendTroll.LEGEND_HAKKAR
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.LEGEND_PRIEST
-  name: LEGEND_PRIEST
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll_LEGEND_PRIEST
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendTroll.LEGEND_PRIEST
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.LEGEND_PRIEST
-  nameWithType: LegendTroll.LEGEND_PRIEST
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.LEGEND_PRIEST*
-  name: LEGEND_PRIEST
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll_LEGEND_PRIEST_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendTroll.LEGEND_PRIEST
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.LegendTroll
+  nameWithType: LegendTroll.LegendTroll
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Gahzrilla
+  name: Gahzrilla
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll_Gahzrilla
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendTroll.Gahzrilla
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Gahzrilla
+  nameWithType: LegendTroll.Gahzrilla
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Gahzrilla*
+  name: Gahzrilla
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll_Gahzrilla_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendTroll.Gahzrilla
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.LEGEND_PRIEST
-  nameWithType: LegendTroll.LEGEND_PRIEST
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.LEGEND_RASTAKHAN
-  name: LEGEND_RASTAKHAN
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll_LEGEND_RASTAKHAN
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendTroll.LEGEND_RASTAKHAN
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.LEGEND_RASTAKHAN
-  nameWithType: LegendTroll.LEGEND_RASTAKHAN
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.LEGEND_RASTAKHAN*
-  name: LEGEND_RASTAKHAN
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll_LEGEND_RASTAKHAN_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendTroll.LEGEND_RASTAKHAN
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Gahzrilla
+  nameWithType: LegendTroll.Gahzrilla
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Hakkar
+  name: Hakkar
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll_Hakkar
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendTroll.Hakkar
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Hakkar
+  nameWithType: LegendTroll.Hakkar
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Hakkar*
+  name: Hakkar
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll_Hakkar_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendTroll.Hakkar
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.LEGEND_RASTAKHAN
-  nameWithType: LegendTroll.LEGEND_RASTAKHAN
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendTroll.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Setup()
-  nameWithType: LegendTroll.Setup()
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendTroll.Setup
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Hakkar
+  nameWithType: LegendTroll.Hakkar
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Rastakhan
+  name: Rastakhan
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll_Rastakhan
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendTroll.Rastakhan
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Rastakhan
+  nameWithType: LegendTroll.Rastakhan
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Rastakhan*
+  name: Rastakhan
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll_Rastakhan_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendTroll.Rastakhan
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Setup
-  nameWithType: LegendTroll.Setup
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Rastakhan
+  nameWithType: LegendTroll.Rastakhan
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.RegisterLegends
+  name: RegisterLegends()
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll_RegisterLegends
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendTroll.RegisterLegends
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.RegisterLegends()
+  nameWithType: LegendTroll.RegisterLegends()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.RegisterLegends*
+  name: RegisterLegends
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll_RegisterLegends_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendTroll.RegisterLegends
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.RegisterLegends
+  nameWithType: LegendTroll.RegisterLegends
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Zul
+  name: Zul
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll_Zul
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendTroll.Zul
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Zul
+  nameWithType: LegendTroll.Zul
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Zul*
+  name: Zul
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html#WarcraftLegacies_Source_Setup_Legends_LegendTroll_Zul_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendTroll.Zul
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Zul
+  nameWithType: LegendTroll.Zul
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendWarsong
   name: LegendWarsong
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html
@@ -38724,12 +38750,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.ZandalarQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.ZandalarQuestSetup
   nameWithType: ZandalarQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.ZandalarQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
-  name: Setup(PreplacedUnitSystem, AllLegendSetup)
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ZandalarQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ZandalarQuestSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_AllLegendSetup_
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.ZandalarQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.ZandalarQuestSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.AllLegendSetup)
-  nameWithType: ZandalarQuestSetup.Setup(PreplacedUnitSystem, AllLegendSetup)
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.ZandalarQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup,MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
+  name: Setup(ArtifactSetup, PreplacedUnitSystem, AllLegendSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ZandalarQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ZandalarQuestSetup_Setup_WarcraftLegacies_Source_Setup_ArtifactSetup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_AllLegendSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.ZandalarQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup,MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.ZandalarQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup, MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.AllLegendSetup)
+  nameWithType: ZandalarQuestSetup.Setup(ArtifactSetup, PreplacedUnitSystem, AllLegendSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.ZandalarQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.ZandalarQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_ZandalarQuestSetup_Setup_
