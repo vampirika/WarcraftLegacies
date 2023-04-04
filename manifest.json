@@ -1461,7 +1461,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Faction.html",
-          "hash": "1TmyvY+MfpZo5kRpMDy6vQ=="
+          "hash": "sxI/duz4ScTlRX5oeQTwcw=="
         }
       },
       "is_incremental": false,
@@ -1557,7 +1557,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Team.html",
-          "hash": "alJypJ6uEQT7GrsyTN/ngA=="
+          "hash": "eA+DIElsGUU+maVZcyzJyg=="
         }
       },
       "is_incremental": false,
@@ -1653,7 +1653,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.GameTime.html",
-          "hash": "P6WulUIgR+iZzPqau8QSWQ=="
+          "hash": "BysMIRRpASRz+wRLiybJ5w=="
         }
       },
       "is_incremental": false,
@@ -1797,7 +1797,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.LegendSystem.Capital.html",
-          "hash": "aCelfIencrWkUvLMO5luTQ=="
+          "hash": "R67MYbzzRwNoh3TELE4MGQ=="
         }
       },
       "is_incremental": false,
@@ -1809,7 +1809,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.LegendSystem.CapitalManager.html",
-          "hash": "2k10YmErjpHrhe+KrMgBEw=="
+          "hash": "SOyOzskTLuzryXhLGOC2uA=="
         }
       },
       "is_incremental": false,
@@ -1821,7 +1821,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.LegendSystem.Legend.html",
-          "hash": "yc/ZKdbWxVbLHjvlvquHeg=="
+          "hash": "fBlb9oy8pppsbJT4+0ZNaA=="
         }
       },
       "is_incremental": false,
@@ -1857,7 +1857,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.LegendSystem.LegendaryHero.html",
-          "hash": "0ON1MTVb5Eq2s/9q5qgo7A=="
+          "hash": "qo+TNk/yA05f5JPKRxTByA=="
         }
       },
       "is_incremental": false,
@@ -8061,7 +8061,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDalaran.html",
-          "hash": "JJ+ymFUJSWZebsWLTLjVJw=="
+          "hash": "BqZ5dViHUieRM28E2h+4/A=="
         }
       },
       "is_incremental": false,
@@ -8073,7 +8073,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDraenei.html",
-          "hash": "hp3vjgcdFgjLbCDGSBwxFg=="
+          "hash": "S5n14Jzwzrv2Q+ZXTDO5zA=="
         }
       },
       "is_incremental": false,
@@ -8097,7 +8097,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendDruids.html",
-          "hash": "88cNbJRVFd9POgf+tDc+aw=="
+          "hash": "ndhAzJUf1lw7QRqEqRdhaA=="
         }
       },
       "is_incremental": false,
@@ -8109,7 +8109,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.html",
-          "hash": "/CvZKDjajMT9WwCgnei/PQ=="
+          "hash": "W76Kxrca1IVqTU5RoQWIrQ=="
         }
       },
       "is_incremental": false,
@@ -8133,7 +8133,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendFrostwolf.html",
-          "hash": "fCf+4ZFGyiJQkV+4l9brXA=="
+          "hash": "4JQDF6yzAOy30TIt2u+ZwQ=="
         }
       },
       "is_incremental": false,
@@ -8157,7 +8157,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendGoblin.html",
-          "hash": "AjEVgY55RxlEPVFJv/4JnA=="
+          "hash": "jKtH9sSVb+N7u2DmWtAP5w=="
         }
       },
       "is_incremental": false,
@@ -8181,7 +8181,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendIronforge.html",
-          "hash": "mbzAM0w5yZKP7SJuH9Ae7w=="
+          "hash": "4nGJ2RwwjxqHaLBZi/M4qg=="
         }
       },
       "is_incremental": false,
@@ -8193,7 +8193,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendKultiras.html",
-          "hash": "6psXQp3wBf4dfujDqYoGyg=="
+          "hash": "WgfQEvJZ+ZQLcmcLRO5LHA=="
         }
       },
       "is_incremental": false,
@@ -8205,7 +8205,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendLegion.html",
-          "hash": "wcPadZ5EKQvI8BMEOmL9vg=="
+          "hash": "+KQMgkn2rRmnPdV7p+D/Ig=="
         }
       },
       "is_incremental": false,
@@ -8217,7 +8217,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.html",
-          "hash": "63J/BELkFzNGDWTsx/jt9Q=="
+          "hash": "mJr+nMMEJmnd/pstKHMM1w=="
         }
       },
       "is_incremental": false,
@@ -8229,7 +8229,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html",
-          "hash": "Lxs4k1BBy83Sb0wY25RAVQ=="
+          "hash": "1PvrzGGvEBGi73rECiJ42A=="
         }
       },
       "is_incremental": false,
@@ -8241,7 +8241,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.html",
-          "hash": "6oIxGg/C/mlHjqWgitRwNw=="
+          "hash": "nJPwH8XDRNGK3l8zEBU/SA=="
         }
       },
       "is_incremental": false,
@@ -8253,7 +8253,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendScourge.html",
-          "hash": "tbz+D9rqUnJQis7Qeef/vA=="
+          "hash": "hJfvypCKQip//GEeEm0kVA=="
         }
       },
       "is_incremental": false,
@@ -8265,7 +8265,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendSentinels.html",
-          "hash": "5vo50SSWJAOZ5hBmXNb7TA=="
+          "hash": "7K0m8DiNOMvCEEavlMl4Qw=="
         }
       },
       "is_incremental": false,
@@ -8277,7 +8277,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendStormwind.html",
-          "hash": "DrqDz7n/fbgpTGq7aahz2Q=="
+          "hash": "HQdQkHZVNT6uPPkTb1vV/Q=="
         }
       },
       "is_incremental": false,
@@ -8301,7 +8301,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html",
-          "hash": "0FD+bD/a4y2a9Oc0n00BuQ=="
+          "hash": "ZTzldxrhbL9Gf9Qk5xNSKw=="
         }
       },
       "is_incremental": false,

@@ -9166,6 +9166,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Faction.Gold
   nameWithType: Faction.Gold
+- uid: MacroTools.FactionSystem.Faction.HasEssentialLegend
+  name: HasEssentialLegend
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_HasEssentialLegend
+  commentId: P:MacroTools.FactionSystem.Faction.HasEssentialLegend
+  fullName: MacroTools.FactionSystem.Faction.HasEssentialLegend
+  nameWithType: Faction.HasEssentialLegend
+- uid: MacroTools.FactionSystem.Faction.HasEssentialLegend*
+  name: HasEssentialLegend
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_HasEssentialLegend_
+  commentId: Overload:MacroTools.FactionSystem.Faction.HasEssentialLegend
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Faction.HasEssentialLegend
+  nameWithType: Faction.HasEssentialLegend
 - uid: MacroTools.FactionSystem.Faction.HeroCost
   name: HeroCost
   href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_HeroCost
@@ -10025,6 +10038,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Team.DisplayText
   nameWithType: Team.DisplayText
+- uid: MacroTools.FactionSystem.Team.DoesTeamHaveEssentialLegend
+  name: DoesTeamHaveEssentialLegend()
+  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_DoesTeamHaveEssentialLegend
+  commentId: M:MacroTools.FactionSystem.Team.DoesTeamHaveEssentialLegend
+  fullName: MacroTools.FactionSystem.Team.DoesTeamHaveEssentialLegend()
+  nameWithType: Team.DoesTeamHaveEssentialLegend()
+- uid: MacroTools.FactionSystem.Team.DoesTeamHaveEssentialLegend*
+  name: DoesTeamHaveEssentialLegend
+  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_DoesTeamHaveEssentialLegend_
+  commentId: Overload:MacroTools.FactionSystem.Team.DoesTeamHaveEssentialLegend
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Team.DoesTeamHaveEssentialLegend
+  nameWithType: Team.DoesTeamHaveEssentialLegend
 - uid: MacroTools.FactionSystem.Team.GetAllFactions
   name: GetAllFactions()
   href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_GetAllFactions
@@ -11171,6 +11197,19 @@ references:
   commentId: T:MacroTools.LegendSystem.CapitalManager
   fullName: MacroTools.LegendSystem.CapitalManager
   nameWithType: CapitalManager
+- uid: MacroTools.LegendSystem.CapitalManager.GetAll
+  name: GetAll()
+  href: api-macroTools/MacroTools.LegendSystem.CapitalManager.html#MacroTools_LegendSystem_CapitalManager_GetAll
+  commentId: M:MacroTools.LegendSystem.CapitalManager.GetAll
+  fullName: MacroTools.LegendSystem.CapitalManager.GetAll()
+  nameWithType: CapitalManager.GetAll()
+- uid: MacroTools.LegendSystem.CapitalManager.GetAll*
+  name: GetAll
+  href: api-macroTools/MacroTools.LegendSystem.CapitalManager.html#MacroTools_LegendSystem_CapitalManager_GetAll_
+  commentId: Overload:MacroTools.LegendSystem.CapitalManager.GetAll
+  isSpec: "True"
+  fullName: MacroTools.LegendSystem.CapitalManager.GetAll
+  nameWithType: CapitalManager.GetAll
 - uid: MacroTools.LegendSystem.CapitalManager.GetFromUnit(unit)
   name: GetFromUnit(unit)
   href: api-macroTools/MacroTools.LegendSystem.CapitalManager.html#MacroTools_LegendSystem_CapitalManager_GetFromUnit_unit_
@@ -11235,6 +11274,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.LegendSystem.Legend.DeathMessage
   nameWithType: Legend.DeathMessage
+- uid: MacroTools.LegendSystem.Legend.Essential
+  name: Essential
+  href: api-macroTools/MacroTools.LegendSystem.Legend.html#MacroTools_LegendSystem_Legend_Essential
+  commentId: P:MacroTools.LegendSystem.Legend.Essential
+  fullName: MacroTools.LegendSystem.Legend.Essential
+  nameWithType: Legend.Essential
+- uid: MacroTools.LegendSystem.Legend.Essential*
+  name: Essential
+  href: api-macroTools/MacroTools.LegendSystem.Legend.html#MacroTools_LegendSystem_Legend_Essential_
+  commentId: Overload:MacroTools.LegendSystem.Legend.Essential
+  isSpec: "True"
+  fullName: MacroTools.LegendSystem.Legend.Essential
+  nameWithType: Legend.Essential
 - uid: MacroTools.LegendSystem.Legend.Hivemind
   name: Hivemind
   href: api-macroTools/MacroTools.LegendSystem.Legend.html#MacroTools_LegendSystem_Legend_Hivemind
@@ -37035,6 +37087,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendLegion.Archimonde
   nameWithType: LegendLegion.Archimonde
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LegionStronghold
+  name: LegionStronghold
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLegion.html#WarcraftLegacies_Source_Setup_Legends_LegendLegion_LegionStronghold
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendLegion.LegionStronghold
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LegionStronghold
+  nameWithType: LegendLegion.LegionStronghold
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LegionStronghold*
+  name: LegionStronghold
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLegion.html#WarcraftLegacies_Source_Setup_Legends_LegendLegion_LegionStronghold_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendLegion.LegionStronghold
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendLegion.LegionStronghold
+  nameWithType: LegendLegion.LegionStronghold
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendLegion.Malganis
   name: Malganis
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLegion.html#WarcraftLegacies_Source_Setup_Legends_LegendLegion_Malganis
