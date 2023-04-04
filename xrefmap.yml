@@ -24089,12 +24089,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation
   fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation
   nameWithType: QuestRebuildCivilisation
-- uid: WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.#ctor(Rectangle)
-  name: QuestRebuildCivilisation(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.html#WarcraftLegacies_Source_Quests_Draenei_QuestRebuildCivilisation__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.QuestRebuildCivilisation(Rectangle)
-  nameWithType: QuestRebuildCivilisation.QuestRebuildCivilisation(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.#ctor(Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestRebuildCivilisation(Rectangle, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.html#WarcraftLegacies_Source_Quests_Draenei_QuestRebuildCivilisation__ctor_Rectangle_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.#ctor(Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.QuestRebuildCivilisation(Rectangle, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestRebuildCivilisation.QuestRebuildCivilisation(Rectangle, LegendaryHero)
 - uid: WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.#ctor*
   name: QuestRebuildCivilisation
   href: api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.html#WarcraftLegacies_Source_Quests_Draenei_QuestRebuildCivilisation__ctor_
