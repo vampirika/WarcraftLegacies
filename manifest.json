@@ -2921,6 +2921,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.NoTargetSpellOnAttack.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.PassiveAbilities.NoTargetSpellOnAttack.html",
+          "hash": "mzshIkEK+RQ3QjfpbD1q3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.yml",
       "output": {
         ".html": {
@@ -3045,7 +3057,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.html",
-          "hash": "I8mu1vPlyfBh0yFpXbvuEg=="
+          "hash": "4JuH6jw56W6mDN1o7qw8jQ=="
         }
       },
       "is_incremental": false,
@@ -3081,7 +3093,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html",
-          "hash": "XZlGxFXRhaJw5Uo3k5e2TA=="
+          "hash": "x2xzS/FK1xy85x3jY068Bg=="
         }
       },
       "is_incremental": false,
@@ -3489,7 +3501,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.SpellSystem.DummyCast.html",
-          "hash": "XIeNSUm0i0TWPADFMjbA7g=="
+          "hash": "XDHTxUhnnV47dcuvCjMglw=="
         }
       },
       "is_incremental": false,
@@ -4233,7 +4245,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "gUoVTK3EGR2Wqy+OiRjPBQ=="
+          "hash": "171uY6N6QLReScEsTtIpAQ=="
         }
       },
       "is_incremental": false,
@@ -4821,7 +4833,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html",
-          "hash": "lIat6cALzgi6gOYl0nyTKQ=="
+          "hash": "TF3mm844thdl5RZoH4ngsA=="
         }
       },
       "is_incremental": false,
@@ -8001,7 +8013,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.GameSetup.html",
-          "hash": "3F+4j617bZlAebU3G1kZKw=="
+          "hash": "rcknALfu+fgEcbUoxUDaPw=="
         }
       },
       "is_incremental": false,
@@ -8817,7 +8829,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.LordaeronSpellSetup.html",
-          "hash": "MtGEN5SOw/t0tblIYBPtYA=="
+          "hash": "rUqup0AL4mCeH2TMfPpzaQ=="
         }
       },
       "is_incremental": false,
@@ -9120,7 +9132,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 752,
+          "total_file_count": 753,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

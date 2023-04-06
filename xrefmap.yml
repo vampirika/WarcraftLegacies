@@ -14467,6 +14467,90 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilities.LocationBasedFlavourSetting.Name
   nameWithType: LocationBasedFlavourSetting.Name
+- uid: MacroTools.PassiveAbilities.NoTargetSpellOnAttack
+  name: NoTargetSpellOnAttack
+  href: api-macroTools/MacroTools.PassiveAbilities.NoTargetSpellOnAttack.html
+  commentId: T:MacroTools.PassiveAbilities.NoTargetSpellOnAttack
+  fullName: MacroTools.PassiveAbilities.NoTargetSpellOnAttack
+  nameWithType: NoTargetSpellOnAttack
+- uid: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.#ctor(System.Int32,System.Int32)
+  name: NoTargetSpellOnAttack(Int32, Int32)
+  href: api-macroTools/MacroTools.PassiveAbilities.NoTargetSpellOnAttack.html#MacroTools_PassiveAbilities_NoTargetSpellOnAttack__ctor_System_Int32_System_Int32_
+  commentId: M:MacroTools.PassiveAbilities.NoTargetSpellOnAttack.#ctor(System.Int32,System.Int32)
+  fullName: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.NoTargetSpellOnAttack(System.Int32, System.Int32)
+  nameWithType: NoTargetSpellOnAttack.NoTargetSpellOnAttack(Int32, Int32)
+- uid: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.#ctor*
+  name: NoTargetSpellOnAttack
+  href: api-macroTools/MacroTools.PassiveAbilities.NoTargetSpellOnAttack.html#MacroTools_PassiveAbilities_NoTargetSpellOnAttack__ctor_
+  commentId: Overload:MacroTools.PassiveAbilities.NoTargetSpellOnAttack.#ctor
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.NoTargetSpellOnAttack
+  nameWithType: NoTargetSpellOnAttack.NoTargetSpellOnAttack
+- uid: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.AbilityTypeId
+  name: AbilityTypeId
+  href: api-macroTools/MacroTools.PassiveAbilities.NoTargetSpellOnAttack.html#MacroTools_PassiveAbilities_NoTargetSpellOnAttack_AbilityTypeId
+  commentId: P:MacroTools.PassiveAbilities.NoTargetSpellOnAttack.AbilityTypeId
+  fullName: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.AbilityTypeId
+  nameWithType: NoTargetSpellOnAttack.AbilityTypeId
+- uid: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.AbilityTypeId*
+  name: AbilityTypeId
+  href: api-macroTools/MacroTools.PassiveAbilities.NoTargetSpellOnAttack.html#MacroTools_PassiveAbilities_NoTargetSpellOnAttack_AbilityTypeId_
+  commentId: Overload:MacroTools.PassiveAbilities.NoTargetSpellOnAttack.AbilityTypeId
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.AbilityTypeId
+  nameWithType: NoTargetSpellOnAttack.AbilityTypeId
+- uid: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.DummyAbilityId
+  name: DummyAbilityId
+  href: api-macroTools/MacroTools.PassiveAbilities.NoTargetSpellOnAttack.html#MacroTools_PassiveAbilities_NoTargetSpellOnAttack_DummyAbilityId
+  commentId: P:MacroTools.PassiveAbilities.NoTargetSpellOnAttack.DummyAbilityId
+  fullName: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.DummyAbilityId
+  nameWithType: NoTargetSpellOnAttack.DummyAbilityId
+- uid: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.DummyAbilityId*
+  name: DummyAbilityId
+  href: api-macroTools/MacroTools.PassiveAbilities.NoTargetSpellOnAttack.html#MacroTools_PassiveAbilities_NoTargetSpellOnAttack_DummyAbilityId_
+  commentId: Overload:MacroTools.PassiveAbilities.NoTargetSpellOnAttack.DummyAbilityId
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.DummyAbilityId
+  nameWithType: NoTargetSpellOnAttack.DummyAbilityId
+- uid: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.DummyOrderString
+  name: DummyOrderString
+  href: api-macroTools/MacroTools.PassiveAbilities.NoTargetSpellOnAttack.html#MacroTools_PassiveAbilities_NoTargetSpellOnAttack_DummyOrderString
+  commentId: P:MacroTools.PassiveAbilities.NoTargetSpellOnAttack.DummyOrderString
+  fullName: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.DummyOrderString
+  nameWithType: NoTargetSpellOnAttack.DummyOrderString
+- uid: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.DummyOrderString*
+  name: DummyOrderString
+  href: api-macroTools/MacroTools.PassiveAbilities.NoTargetSpellOnAttack.html#MacroTools_PassiveAbilities_NoTargetSpellOnAttack_DummyOrderString_
+  commentId: Overload:MacroTools.PassiveAbilities.NoTargetSpellOnAttack.DummyOrderString
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.DummyOrderString
+  nameWithType: NoTargetSpellOnAttack.DummyOrderString
+- uid: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.OnDealsDamage
+  name: OnDealsDamage()
+  href: api-macroTools/MacroTools.PassiveAbilities.NoTargetSpellOnAttack.html#MacroTools_PassiveAbilities_NoTargetSpellOnAttack_OnDealsDamage
+  commentId: M:MacroTools.PassiveAbilities.NoTargetSpellOnAttack.OnDealsDamage
+  fullName: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.OnDealsDamage()
+  nameWithType: NoTargetSpellOnAttack.OnDealsDamage()
+- uid: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.OnDealsDamage*
+  name: OnDealsDamage
+  href: api-macroTools/MacroTools.PassiveAbilities.NoTargetSpellOnAttack.html#MacroTools_PassiveAbilities_NoTargetSpellOnAttack_OnDealsDamage_
+  commentId: Overload:MacroTools.PassiveAbilities.NoTargetSpellOnAttack.OnDealsDamage
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.OnDealsDamage
+  nameWithType: NoTargetSpellOnAttack.OnDealsDamage
+- uid: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.ProcChance
+  name: ProcChance
+  href: api-macroTools/MacroTools.PassiveAbilities.NoTargetSpellOnAttack.html#MacroTools_PassiveAbilities_NoTargetSpellOnAttack_ProcChance
+  commentId: P:MacroTools.PassiveAbilities.NoTargetSpellOnAttack.ProcChance
+  fullName: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.ProcChance
+  nameWithType: NoTargetSpellOnAttack.ProcChance
+- uid: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.ProcChance*
+  name: ProcChance
+  href: api-macroTools/MacroTools.PassiveAbilities.NoTargetSpellOnAttack.html#MacroTools_PassiveAbilities_NoTargetSpellOnAttack_ProcChance_
+  commentId: Overload:MacroTools.PassiveAbilities.NoTargetSpellOnAttack.ProcChance
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.NoTargetSpellOnAttack.ProcChance
+  nameWithType: NoTargetSpellOnAttack.ProcChance
 - uid: MacroTools.PassiveAbilities.PersistentSoul
   name: PersistentSoul
   href: api-macroTools/MacroTools.PassiveAbilities.PersistentSoul.html
@@ -20095,6 +20179,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.SpellSystem.DummyCast.ChannelOnPoint
   nameWithType: DummyCast.ChannelOnPoint
+- uid: MacroTools.SpellSystem.DummyCast.DummyCastNoTarget(unit,System.Int32,System.String,System.Int32)
+  name: DummyCastNoTarget(unit, Int32, String, Int32)
+  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastNoTarget_unit_System_Int32_System_String_System_Int32_
+  commentId: M:MacroTools.SpellSystem.DummyCast.DummyCastNoTarget(unit,System.Int32,System.String,System.Int32)
+  fullName: MacroTools.SpellSystem.DummyCast.DummyCastNoTarget(unit, System.Int32, System.String, System.Int32)
+  nameWithType: DummyCast.DummyCastNoTarget(unit, Int32, String, Int32)
+- uid: MacroTools.SpellSystem.DummyCast.DummyCastNoTarget*
+  name: DummyCastNoTarget
+  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastNoTarget_
+  commentId: Overload:MacroTools.SpellSystem.DummyCast.DummyCastNoTarget
+  isSpec: "True"
+  fullName: MacroTools.SpellSystem.DummyCast.DummyCastNoTarget
+  nameWithType: DummyCast.DummyCastNoTarget
 - uid: MacroTools.SpellSystem.DummyCast.DummyCastOnUnitsInCircle(unit,System.Int32,System.String,System.Int32,Point,System.Single,MacroTools.SpellSystem.DummyCast.CastFilter,MacroTools.SpellSystem.DummyCastOriginType)
   name: DummyCastOnUnitsInCircle(unit, Int32, String, Int32, Point, Single, DummyCast.CastFilter, DummyCastOriginType)
   href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastOnUnitsInCircle_unit_System_Int32_System_String_System_Int32_Point_System_Single_MacroTools_SpellSystem_DummyCast_CastFilter_MacroTools_SpellSystem_DummyCastOriginType_
@@ -22348,45 +22445,19 @@ references:
   commentId: T:WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue
   fullName: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue
   nameWithType: ZandalarGoblinChoiceDialogue
-- uid: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.#ctor(System.Single)
-  name: ZandalarGoblinChoiceDialogue(Single)
-  href: api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_ZandalarGoblinChoiceDialogue__ctor_System_Single_
-  commentId: M:WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.#ctor(System.Single)
-  fullName: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.ZandalarGoblinChoiceDialogue(System.Single)
-  nameWithType: ZandalarGoblinChoiceDialogue.ZandalarGoblinChoiceDialogue(Single)
-- uid: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.#ctor*
-  name: ZandalarGoblinChoiceDialogue
-  href: api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_ZandalarGoblinChoiceDialogue__ctor_
-  commentId: Overload:WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.#ctor
+- uid: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_ZandalarGoblinChoiceDialogue_Setup
+  commentId: M:WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.Setup
+  fullName: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.Setup()
+  nameWithType: ZandalarGoblinChoiceDialogue.Setup()
+- uid: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_ZandalarGoblinChoiceDialogue_Setup_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.Setup
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.ZandalarGoblinChoiceDialogue
-  nameWithType: ZandalarGoblinChoiceDialogue.ZandalarGoblinChoiceDialogue
-- uid: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.OnTimerEnds
-  name: OnTimerEnds
-  href: api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_ZandalarGoblinChoiceDialogue_OnTimerEnds
-  commentId: P:WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.OnTimerEnds
-  fullName: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.OnTimerEnds
-  nameWithType: ZandalarGoblinChoiceDialogue.OnTimerEnds
-- uid: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.OnTimerEnds*
-  name: OnTimerEnds
-  href: api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_ZandalarGoblinChoiceDialogue_OnTimerEnds_
-  commentId: Overload:WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.OnTimerEnds
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.OnTimerEnds
-  nameWithType: ZandalarGoblinChoiceDialogue.OnTimerEnds
-- uid: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.StartTimer
-  name: StartTimer()
-  href: api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_ZandalarGoblinChoiceDialogue_StartTimer
-  commentId: M:WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.StartTimer
-  fullName: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.StartTimer()
-  nameWithType: ZandalarGoblinChoiceDialogue.StartTimer()
-- uid: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.StartTimer*
-  name: StartTimer
-  href: api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_ZandalarGoblinChoiceDialogue_StartTimer_
-  commentId: Overload:WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.StartTimer
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.StartTimer
-  nameWithType: ZandalarGoblinChoiceDialogue.StartTimer
+  fullName: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.Setup
+  nameWithType: ZandalarGoblinChoiceDialogue.Setup
 - uid: WarcraftLegacies.Source.Mechanics.Druids
   name: WarcraftLegacies.Source.Mechanics.Druids
   href: api-source/WarcraftLegacies.Source.Mechanics.Druids.html
