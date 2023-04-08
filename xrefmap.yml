@@ -28268,51 +28268,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Legion.QuestConsumeTree.RewardFlavour
   nameWithType: QuestConsumeTree.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy
-  name: QuestEmbassy
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.html
-  commentId: T:WarcraftLegacies.Source.Quests.Legion.QuestEmbassy
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy
-  nameWithType: QuestEmbassy
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.#ctor(Rectangle)
-  name: QuestEmbassy(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.html#WarcraftLegacies_Source_Quests_Legion_QuestEmbassy__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.QuestEmbassy(Rectangle)
-  nameWithType: QuestEmbassy.QuestEmbassy(Rectangle)
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.#ctor*
-  name: QuestEmbassy
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.html#WarcraftLegacies_Source_Quests_Legion_QuestEmbassy__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.QuestEmbassy
-  nameWithType: QuestEmbassy.QuestEmbassy
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.html#WarcraftLegacies_Source_Quests_Legion_QuestEmbassy_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.RewardDescription
-  nameWithType: QuestEmbassy.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.html#WarcraftLegacies_Source_Quests_Legion_QuestEmbassy_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.RewardDescription
-  nameWithType: QuestEmbassy.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.RewardFlavour
-  name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.html#WarcraftLegacies_Source_Quests_Legion_QuestEmbassy_RewardFlavour
-  commentId: P:WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.RewardFlavour
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.RewardFlavour
-  nameWithType: QuestEmbassy.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.RewardFlavour*
-  name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.html#WarcraftLegacies_Source_Quests_Legion_QuestEmbassy_RewardFlavour_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.RewardFlavour
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Legion.QuestEmbassy.RewardFlavour
-  nameWithType: QuestEmbassy.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Legion.QuestLegionCaptureSunwell
   name: QuestLegionCaptureSunwell
   href: api-source/WarcraftLegacies.Source.Quests.Legion.QuestLegionCaptureSunwell.html
@@ -35890,6 +35845,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.RegisterLegends
   nameWithType: LegendDalaran.RegisterLegends
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Shadowfang
+  name: Shadowfang
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDalaran.html#WarcraftLegacies_Source_Setup_Legends_LegendDalaran_Shadowfang
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Shadowfang
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Shadowfang
+  nameWithType: LegendDalaran.Shadowfang
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Shadowfang*
+  name: Shadowfang
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDalaran.html#WarcraftLegacies_Source_Setup_Legends_LegendDalaran_Shadowfang_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Shadowfang
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDalaran.Shadowfang
+  nameWithType: LegendDalaran.Shadowfang
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDraenei
   name: LegendDraenei
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDraenei.html
@@ -37294,6 +37262,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Mograine
   nameWithType: LegendLordaeron.Mograine
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Monastery
+  name: Monastery
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.html#WarcraftLegacies_Source_Setup_Legends_LegendLordaeron_Monastery
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Monastery
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Monastery
+  nameWithType: LegendLordaeron.Monastery
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Monastery*
+  name: Monastery
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.html#WarcraftLegacies_Source_Setup_Legends_LegendLordaeron_Monastery_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Monastery
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Monastery
+  nameWithType: LegendLordaeron.Monastery
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.RegisterLegends
   name: RegisterLegends()
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.html#WarcraftLegacies_Source_Setup_Legends_LegendLordaeron_RegisterLegends
@@ -37787,6 +37768,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Silvermoon
   nameWithType: LegendQuelthalas.Silvermoon
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Spire
+  name: Spire
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.html#WarcraftLegacies_Source_Setup_Legends_LegendQuelthalas_Spire
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Spire
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Spire
+  nameWithType: LegendQuelthalas.Spire
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Spire*
+  name: Spire
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.html#WarcraftLegacies_Source_Setup_Legends_LegendQuelthalas_Spire_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Spire
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Spire
+  nameWithType: LegendQuelthalas.Spire
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Sunwell
   name: Sunwell
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.html#WarcraftLegacies_Source_Setup_Legends_LegendQuelthalas_Sunwell
