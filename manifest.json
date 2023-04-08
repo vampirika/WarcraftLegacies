@@ -6269,6 +6269,42 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestControlMonastery.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestControlMonastery.html",
+          "hash": "IrShpLjHyaTrwmpbH1S5pw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestControlShadowfang.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestControlShadowfang.html",
+          "hash": "gBWbK3vAzojzZHpuzcMAPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestControlSpire.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestControlSpire.html",
+          "hash": "iMFNdNvpVk7zAixLd2c6Gg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestLegionCaptureSunwell.yml",
       "output": {
         ".html": {
@@ -6309,7 +6345,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.html",
-          "hash": "04BcWXJnJooZMYWqzGYh/w=="
+          "hash": "/xUB7vR8zq2EF+wOpv+RXw=="
         }
       },
       "is_incremental": false,
@@ -9045,7 +9081,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "06U8eYMSMBo+6MPYtPIP9w=="
+          "hash": "EdLgM7OH8mEBbFCYaywYnQ=="
         }
       },
       "is_incremental": false,
@@ -9120,7 +9156,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 752,
+          "total_file_count": 755,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
