@@ -16544,6 +16544,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.QuestSystem.QuestData.RewardFlavour
   nameWithType: QuestData.RewardFlavour
+- uid: MacroTools.QuestSystem.QuestData.Shared
+  name: Shared
+  href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_Shared
+  commentId: P:MacroTools.QuestSystem.QuestData.Shared
+  fullName: MacroTools.QuestSystem.QuestData.Shared
+  nameWithType: QuestData.Shared
+- uid: MacroTools.QuestSystem.QuestData.Shared*
+  name: Shared
+  href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_Shared_
+  commentId: Overload:MacroTools.QuestSystem.QuestData.Shared
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.QuestData.Shared
+  nameWithType: QuestData.Shared
 - uid: MacroTools.QuestSystem.QuestData.Title
   name: Title
   href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_Title
