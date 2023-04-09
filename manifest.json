@@ -3561,7 +3561,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.SpellSystem.Spell.html",
-          "hash": "UGJX67JUd+PVgeQBftg1tg=="
+          "hash": "tB948kalBFDuuDEyEhxizA=="
         }
       },
       "is_incremental": false,
@@ -3778,6 +3778,30 @@
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Spells.InspireMadness.html",
           "hash": "f07UzB3rMCmYkZDfwIkiUg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Spells.InstantKill.KillTarget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Spells.InstantKill.KillTarget.html",
+          "hash": "KGS0Y0YDJt7JPbSECq9Ofw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Spells.InstantKill.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Spells.InstantKill.html",
+          "hash": "l/XbipFQMxBODf/VrKFjWA=="
         }
       },
       "is_incremental": false,
@@ -4029,7 +4053,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Spells.html",
-          "hash": "y4aQgSRt+2qhY9alJ80ZsA=="
+          "hash": "BIpEB6THX5IC7xbIQqotmw=="
         }
       },
       "is_incremental": false,
@@ -4245,7 +4269,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "171uY6N6QLReScEsTtIpAQ=="
+          "hash": "ilCYk8C11hQZBEZxOqMWkA=="
         }
       },
       "is_incremental": false,
@@ -9156,7 +9180,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 755,
+          "total_file_count": 757,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

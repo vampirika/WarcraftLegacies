@@ -18133,6 +18133,69 @@ references:
   isSpec: "True"
   fullName: MacroTools.Spells.InspireMadness.Radius
   nameWithType: InspireMadness.Radius
+- uid: MacroTools.Spells.InstantKill
+  name: InstantKill
+  href: api-macroTools/MacroTools.Spells.InstantKill.html
+  commentId: T:MacroTools.Spells.InstantKill
+  fullName: MacroTools.Spells.InstantKill
+  nameWithType: InstantKill
+- uid: MacroTools.Spells.InstantKill.#ctor(System.Int32)
+  name: InstantKill(Int32)
+  href: api-macroTools/MacroTools.Spells.InstantKill.html#MacroTools_Spells_InstantKill__ctor_System_Int32_
+  commentId: M:MacroTools.Spells.InstantKill.#ctor(System.Int32)
+  fullName: MacroTools.Spells.InstantKill.InstantKill(System.Int32)
+  nameWithType: InstantKill.InstantKill(Int32)
+- uid: MacroTools.Spells.InstantKill.#ctor*
+  name: InstantKill
+  href: api-macroTools/MacroTools.Spells.InstantKill.html#MacroTools_Spells_InstantKill__ctor_
+  commentId: Overload:MacroTools.Spells.InstantKill.#ctor
+  isSpec: "True"
+  fullName: MacroTools.Spells.InstantKill.InstantKill
+  nameWithType: InstantKill.InstantKill
+- uid: MacroTools.Spells.InstantKill.KillTarget
+  name: InstantKill.KillTarget
+  href: api-macroTools/MacroTools.Spells.InstantKill.KillTarget.html
+  commentId: T:MacroTools.Spells.InstantKill.KillTarget
+  fullName: MacroTools.Spells.InstantKill.KillTarget
+  nameWithType: InstantKill.KillTarget
+- uid: MacroTools.Spells.InstantKill.KillTarget.Self
+  name: Self
+  href: api-macroTools/MacroTools.Spells.InstantKill.KillTarget.html#MacroTools_Spells_InstantKill_KillTarget_Self
+  commentId: F:MacroTools.Spells.InstantKill.KillTarget.Self
+  fullName: MacroTools.Spells.InstantKill.KillTarget.Self
+  nameWithType: InstantKill.KillTarget.Self
+- uid: MacroTools.Spells.InstantKill.KillTarget.Target
+  name: Target
+  href: api-macroTools/MacroTools.Spells.InstantKill.KillTarget.html#MacroTools_Spells_InstantKill_KillTarget_Target
+  commentId: F:MacroTools.Spells.InstantKill.KillTarget.Target
+  fullName: MacroTools.Spells.InstantKill.KillTarget.Target
+  nameWithType: InstantKill.KillTarget.Target
+- uid: MacroTools.Spells.InstantKill.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/MacroTools.Spells.InstantKill.html#MacroTools_Spells_InstantKill_OnCast_unit_unit_Point_
+  commentId: M:MacroTools.Spells.InstantKill.OnCast(unit,unit,Point)
+  fullName: MacroTools.Spells.InstantKill.OnCast(unit, unit, Point)
+  nameWithType: InstantKill.OnCast(unit, unit, Point)
+- uid: MacroTools.Spells.InstantKill.OnCast*
+  name: OnCast
+  href: api-macroTools/MacroTools.Spells.InstantKill.html#MacroTools_Spells_InstantKill_OnCast_
+  commentId: Overload:MacroTools.Spells.InstantKill.OnCast
+  isSpec: "True"
+  fullName: MacroTools.Spells.InstantKill.OnCast
+  nameWithType: InstantKill.OnCast
+- uid: MacroTools.Spells.InstantKill.Target
+  name: Target
+  href: api-macroTools/MacroTools.Spells.InstantKill.html#MacroTools_Spells_InstantKill_Target
+  commentId: P:MacroTools.Spells.InstantKill.Target
+  fullName: MacroTools.Spells.InstantKill.Target
+  nameWithType: InstantKill.Target
+- uid: MacroTools.Spells.InstantKill.Target*
+  name: Target
+  href: api-macroTools/MacroTools.Spells.InstantKill.html#MacroTools_Spells_InstantKill_Target_
+  commentId: Overload:MacroTools.Spells.InstantKill.Target
+  isSpec: "True"
+  fullName: MacroTools.Spells.InstantKill.Target
+  nameWithType: InstantKill.Target
 - uid: MacroTools.Spells.MassAnySpell
   name: MassAnySpell
   href: api-macroTools/MacroTools.Spells.MassAnySpell.html
