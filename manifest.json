@@ -3561,7 +3561,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.SpellSystem.Spell.html",
-          "hash": "tB948kalBFDuuDEyEhxizA=="
+          "hash": "ynftN+x1IIuRF2t5azgCDw=="
         }
       },
       "is_incremental": false,
@@ -4013,6 +4013,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Spells.Transfer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Spells.Transfer.html",
+          "hash": "1toeiMtygbYguN+iQl70IA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Spells.UnholyArmor.yml",
       "output": {
         ".html": {
@@ -4053,7 +4065,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Spells.html",
-          "hash": "BIpEB6THX5IC7xbIQqotmw=="
+          "hash": "0/V3W0Kbn4UGym2wSoBkbw=="
         }
       },
       "is_incremental": false,
@@ -4269,7 +4281,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "ilCYk8C11hQZBEZxOqMWkA=="
+          "hash": "TnuNvS2eIf/bKX8WkESZVw=="
         }
       },
       "is_incremental": false,
@@ -8921,6 +8933,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.SharedSpellSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.SharedSpellSetup.html",
+          "hash": "r/FfpsWIiEHmG+63RRY+cQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.yml",
       "output": {
         ".html": {
@@ -8949,7 +8973,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.html",
-          "hash": "60OiQ7e9votzZmj4ibeOyA=="
+          "hash": "EzBg50Ggnvoc5y/YsJAhjg=="
         }
       },
       "is_incremental": false,
@@ -9105,7 +9129,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "EdLgM7OH8mEBbFCYaywYnQ=="
+          "hash": "7qnR+KHrbLiXe4Ls5Af1sw=="
         }
       },
       "is_incremental": false,
@@ -9180,7 +9204,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 757,
+          "total_file_count": 759,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

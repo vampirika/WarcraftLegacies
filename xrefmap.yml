@@ -19888,6 +19888,38 @@ references:
   isSpec: "True"
   fullName: MacroTools.Spells.SummonUnits.SummonUnitTypeId
   nameWithType: SummonUnits.SummonUnitTypeId
+- uid: MacroTools.Spells.Transfer
+  name: Transfer
+  href: api-macroTools/MacroTools.Spells.Transfer.html
+  commentId: T:MacroTools.Spells.Transfer
+  fullName: MacroTools.Spells.Transfer
+  nameWithType: Transfer
+- uid: MacroTools.Spells.Transfer.#ctor(System.Int32)
+  name: Transfer(Int32)
+  href: api-macroTools/MacroTools.Spells.Transfer.html#MacroTools_Spells_Transfer__ctor_System_Int32_
+  commentId: M:MacroTools.Spells.Transfer.#ctor(System.Int32)
+  fullName: MacroTools.Spells.Transfer.Transfer(System.Int32)
+  nameWithType: Transfer.Transfer(Int32)
+- uid: MacroTools.Spells.Transfer.#ctor*
+  name: Transfer
+  href: api-macroTools/MacroTools.Spells.Transfer.html#MacroTools_Spells_Transfer__ctor_
+  commentId: Overload:MacroTools.Spells.Transfer.#ctor
+  isSpec: "True"
+  fullName: MacroTools.Spells.Transfer.Transfer
+  nameWithType: Transfer.Transfer
+- uid: MacroTools.Spells.Transfer.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/MacroTools.Spells.Transfer.html#MacroTools_Spells_Transfer_OnCast_unit_unit_Point_
+  commentId: M:MacroTools.Spells.Transfer.OnCast(unit,unit,Point)
+  fullName: MacroTools.Spells.Transfer.OnCast(unit, unit, Point)
+  nameWithType: Transfer.OnCast(unit, unit, Point)
+- uid: MacroTools.Spells.Transfer.OnCast*
+  name: OnCast
+  href: api-macroTools/MacroTools.Spells.Transfer.html#MacroTools_Spells_Transfer_OnCast_
+  commentId: Overload:MacroTools.Spells.Transfer.OnCast
+  isSpec: "True"
+  fullName: MacroTools.Spells.Transfer.OnCast
+  nameWithType: Transfer.OnCast
 - uid: MacroTools.Spells.UnholyArmor
   name: UnholyArmor
   href: api-macroTools/MacroTools.Spells.UnholyArmor.html
@@ -39484,6 +39516,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Spells.SentinelSpellSetup.Setup
   nameWithType: SentinelSpellSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.Spells.SharedSpellSetup
+  name: SharedSpellSetup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.SharedSpellSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.Spells.SharedSpellSetup
+  fullName: WarcraftLegacies.Source.Setup.Spells.SharedSpellSetup
+  nameWithType: SharedSpellSetup
+- uid: WarcraftLegacies.Source.Setup.Spells.SharedSpellSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.SharedSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_SharedSpellSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.Spells.SharedSpellSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.Spells.SharedSpellSetup.Setup()
+  nameWithType: SharedSpellSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.Spells.SharedSpellSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.SharedSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_SharedSpellSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Spells.SharedSpellSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Spells.SharedSpellSetup.Setup
+  nameWithType: SharedSpellSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup
   name: StormwindSpellSetup
   href: api-source/WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.html
