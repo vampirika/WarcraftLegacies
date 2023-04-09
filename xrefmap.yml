@@ -31312,15 +31312,15 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Sentinels.QuestAstranaar
   fullName: WarcraftLegacies.Source.Quests.Sentinels.QuestAstranaar
   nameWithType: QuestAstranaar
-- uid: WarcraftLegacies.Source.Quests.Sentinels.QuestAstranaar.#ctor(List{Rectangle},MacroTools.LegendSystem.LegendaryHero)
-  name: QuestAstranaar(List<Rectangle>, LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.Sentinels.QuestAstranaar.html#WarcraftLegacies_Source_Quests_Sentinels_QuestAstranaar__ctor_List_Rectangle__MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.Sentinels.QuestAstranaar.#ctor(List{Rectangle},MacroTools.LegendSystem.LegendaryHero)
-  name.vb: QuestAstranaar(List(Of Rectangle), LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.Sentinels.QuestAstranaar.QuestAstranaar(List<Rectangle>, MacroTools.LegendSystem.LegendaryHero)
-  fullName.vb: WarcraftLegacies.Source.Quests.Sentinels.QuestAstranaar.QuestAstranaar(List(Of Rectangle), MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestAstranaar.QuestAstranaar(List<Rectangle>, LegendaryHero)
-  nameWithType.vb: QuestAstranaar.QuestAstranaar(List(Of Rectangle), LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Sentinels.QuestAstranaar.#ctor(List{Rectangle})
+  name: QuestAstranaar(List<Rectangle>)
+  href: api-source/WarcraftLegacies.Source.Quests.Sentinels.QuestAstranaar.html#WarcraftLegacies_Source_Quests_Sentinels_QuestAstranaar__ctor_List_Rectangle__
+  commentId: M:WarcraftLegacies.Source.Quests.Sentinels.QuestAstranaar.#ctor(List{Rectangle})
+  name.vb: QuestAstranaar(List(Of Rectangle))
+  fullName: WarcraftLegacies.Source.Quests.Sentinels.QuestAstranaar.QuestAstranaar(List<Rectangle>)
+  fullName.vb: WarcraftLegacies.Source.Quests.Sentinels.QuestAstranaar.QuestAstranaar(List(Of Rectangle))
+  nameWithType: QuestAstranaar.QuestAstranaar(List<Rectangle>)
+  nameWithType.vb: QuestAstranaar.QuestAstranaar(List(Of Rectangle))
 - uid: WarcraftLegacies.Source.Quests.Sentinels.QuestAstranaar.#ctor*
   name: QuestAstranaar
   href: api-source/WarcraftLegacies.Source.Quests.Sentinels.QuestAstranaar.html#WarcraftLegacies_Source_Quests_Sentinels_QuestAstranaar__ctor_
@@ -33498,12 +33498,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar
   fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar
   nameWithType: QuestZandalar
-- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.#ctor(MacroTools.LegendSystem.Capital,Rectangle)
-  name: QuestZandalar(Capital, Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.html#WarcraftLegacies_Source_Quests_Zandalar_QuestZandalar__ctor_MacroTools_LegendSystem_Capital_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.#ctor(MacroTools.LegendSystem.Capital,Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.QuestZandalar(MacroTools.LegendSystem.Capital, Rectangle)
-  nameWithType: QuestZandalar.QuestZandalar(Capital, Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.#ctor(MacroTools.LegendSystem.Capital,Rectangle,MacroTools.PreplacedUnitSystem)
+  name: QuestZandalar(Capital, Rectangle, PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.html#WarcraftLegacies_Source_Quests_Zandalar_QuestZandalar__ctor_MacroTools_LegendSystem_Capital_Rectangle_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.#ctor(MacroTools.LegendSystem.Capital,Rectangle,MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.QuestZandalar(MacroTools.LegendSystem.Capital, Rectangle, MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestZandalar.QuestZandalar(Capital, Rectangle, PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.#ctor*
   name: QuestZandalar
   href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.html#WarcraftLegacies_Source_Quests_Zandalar_QuestZandalar__ctor_
