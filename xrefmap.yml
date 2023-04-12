@@ -32858,12 +32858,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Warsong.QuestFountainOfBlood
   fullName: WarcraftLegacies.Source.Quests.Warsong.QuestFountainOfBlood
   nameWithType: QuestFountainOfBlood
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestFountainOfBlood.#ctor(MacroTools.LegendSystem.Capital)
-  name: QuestFountainOfBlood(Capital)
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestFountainOfBlood.html#WarcraftLegacies_Source_Quests_Warsong_QuestFountainOfBlood__ctor_MacroTools_LegendSystem_Capital_
-  commentId: M:WarcraftLegacies.Source.Quests.Warsong.QuestFountainOfBlood.#ctor(MacroTools.LegendSystem.Capital)
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestFountainOfBlood.QuestFountainOfBlood(MacroTools.LegendSystem.Capital)
-  nameWithType: QuestFountainOfBlood.QuestFountainOfBlood(Capital)
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestFountainOfBlood.#ctor(MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestFountainOfBlood(Capital, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestFountainOfBlood.html#WarcraftLegacies_Source_Quests_Warsong_QuestFountainOfBlood__ctor_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.Warsong.QuestFountainOfBlood.#ctor(MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestFountainOfBlood.QuestFountainOfBlood(MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestFountainOfBlood.QuestFountainOfBlood(Capital, LegendaryHero)
 - uid: WarcraftLegacies.Source.Quests.Warsong.QuestFountainOfBlood.#ctor*
   name: QuestFountainOfBlood
   href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestFountainOfBlood.html#WarcraftLegacies_Source_Quests_Warsong_QuestFountainOfBlood__ctor_
