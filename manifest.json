@@ -6737,6 +6737,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestNavigation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestNavigation.html",
+          "hash": "K9xstsat3fS71k+bstADcA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestRagnaros.yml",
       "output": {
         ".html": {
@@ -7377,7 +7389,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.html",
-          "hash": "diiqEZP8MtOKWkpbc0RKYQ=="
+          "hash": "Vr1sNsCrH7jSSoQw2R5suw=="
         }
       },
       "is_incremental": false,
@@ -9129,7 +9141,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "7qnR+KHrbLiXe4Ls5Af1sw=="
+          "hash": "Yg7K5ggPMV9MPNAZnXISrA=="
         }
       },
       "is_incremental": false,
@@ -9204,7 +9216,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 759,
+          "total_file_count": 760,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

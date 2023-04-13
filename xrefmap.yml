@@ -30480,6 +30480,51 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.QuestDragonsOfNightmare.RewardFlavour
   nameWithType: QuestDragonsOfNightmare.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.QuestNavigation
+  name: QuestNavigation
+  href: api-source/WarcraftLegacies.Source.Quests.QuestNavigation.html
+  commentId: T:WarcraftLegacies.Source.Quests.QuestNavigation
+  fullName: WarcraftLegacies.Source.Quests.QuestNavigation
+  nameWithType: QuestNavigation
+- uid: WarcraftLegacies.Source.Quests.QuestNavigation.#ctor
+  name: QuestNavigation()
+  href: api-source/WarcraftLegacies.Source.Quests.QuestNavigation.html#WarcraftLegacies_Source_Quests_QuestNavigation__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.QuestNavigation.#ctor
+  fullName: WarcraftLegacies.Source.Quests.QuestNavigation.QuestNavigation()
+  nameWithType: QuestNavigation.QuestNavigation()
+- uid: WarcraftLegacies.Source.Quests.QuestNavigation.#ctor*
+  name: QuestNavigation
+  href: api-source/WarcraftLegacies.Source.Quests.QuestNavigation.html#WarcraftLegacies_Source_Quests_QuestNavigation__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestNavigation.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestNavigation.QuestNavigation
+  nameWithType: QuestNavigation.QuestNavigation
+- uid: WarcraftLegacies.Source.Quests.QuestNavigation.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.QuestNavigation.html#WarcraftLegacies_Source_Quests_QuestNavigation_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.QuestNavigation.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.QuestNavigation.RewardDescription
+  nameWithType: QuestNavigation.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.QuestNavigation.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.QuestNavigation.html#WarcraftLegacies_Source_Quests_QuestNavigation_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestNavigation.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestNavigation.RewardDescription
+  nameWithType: QuestNavigation.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.QuestNavigation.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.QuestNavigation.html#WarcraftLegacies_Source_Quests_QuestNavigation_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.QuestNavigation.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.QuestNavigation.RewardFlavour
+  nameWithType: QuestNavigation.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.QuestNavigation.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.QuestNavigation.html#WarcraftLegacies_Source_Quests_QuestNavigation_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.QuestNavigation.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.QuestNavigation.RewardFlavour
+  nameWithType: QuestNavigation.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.QuestRagnaros
   name: QuestRagnaros
   href: api-source/WarcraftLegacies.Source.Quests.QuestRagnaros.html
