@@ -6009,7 +6009,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.html",
-          "hash": "W+gjPuOtEKmI2y4nAwIgNA=="
+          "hash": "GPzTVlnugJOPuZlm9yEU0w=="
         }
       },
       "is_incremental": false,
@@ -6034,6 +6034,18 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Goblin.QuestGoblinEmpire.html",
           "hash": "u8jnbVsNcMjmXs+4Q6SXEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Goblin.QuestKezan.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Goblin.QuestKezan.html",
+          "hash": "pDPY9hvODr8Coy+7I+hC2Q=="
         }
       },
       "is_incremental": false,
@@ -6069,7 +6081,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Goblin.html",
-          "hash": "xN97Vr1+DU9JPYOVjXQMvw=="
+          "hash": "MSnNr+8Ldn6UyQwBlsSAUg=="
         }
       },
       "is_incremental": false,
@@ -7341,7 +7353,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.html",
-          "hash": "zbDZO2iBpF6LikUX0pBAeQ=="
+          "hash": "wx0AFehnZI84JMG9ZLsknw=="
         }
       },
       "is_incremental": false,
@@ -8969,6 +8981,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.TrollSpellSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.TrollSpellSetup.html",
+          "hash": "vvXi2IgMCKrFJF9cMxAxYA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.WarsongSpellSetup.yml",
       "output": {
         ".html": {
@@ -8985,7 +9009,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.html",
-          "hash": "EzBg50Ggnvoc5y/YsJAhjg=="
+          "hash": "EM4IP3nDEiotSSksqHjUMA=="
         }
       },
       "is_incremental": false,
@@ -9141,7 +9165,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "Yg7K5ggPMV9MPNAZnXISrA=="
+          "hash": "Pg9FGIkJDew8F8OtyR1NSw=="
         }
       },
       "is_incremental": false,
@@ -9216,7 +9240,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 760,
+          "total_file_count": 762,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

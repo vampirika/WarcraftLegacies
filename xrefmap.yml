@@ -26981,32 +26981,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.QuestBusinessExpansion
   nameWithType: QuestBusinessExpansion.QuestBusinessExpansion
-- uid: WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.html#WarcraftLegacies_Source_Quests_Goblin_QuestBusinessExpansion_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestBusinessExpansion.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.html#WarcraftLegacies_Source_Quests_Goblin_QuestBusinessExpansion_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.OnComplete
-  nameWithType: QuestBusinessExpansion.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.OnFail(MacroTools.FactionSystem.Faction)
-  name: OnFail(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.html#WarcraftLegacies_Source_Quests_Goblin_QuestBusinessExpansion_OnFail_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.OnFail(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.OnFail(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestBusinessExpansion.OnFail(Faction)
-- uid: WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.OnFail*
-  name: OnFail
-  href: api-source/WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.html#WarcraftLegacies_Source_Quests_Goblin_QuestBusinessExpansion_OnFail_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.OnFail
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.OnFail
-  nameWithType: QuestBusinessExpansion.OnFail
 - uid: WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.html#WarcraftLegacies_Source_Quests_Goblin_QuestBusinessExpansion_RewardDescription
@@ -27123,6 +27097,77 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Goblin.QuestGoblinEmpire.RewardFlavour
   nameWithType: QuestGoblinEmpire.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Goblin.QuestKezan
+  name: QuestKezan
+  href: api-source/WarcraftLegacies.Source.Quests.Goblin.QuestKezan.html
+  commentId: T:WarcraftLegacies.Source.Quests.Goblin.QuestKezan
+  fullName: WarcraftLegacies.Source.Quests.Goblin.QuestKezan
+  nameWithType: QuestKezan
+- uid: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.#ctor
+  name: QuestKezan()
+  href: api-source/WarcraftLegacies.Source.Quests.Goblin.QuestKezan.html#WarcraftLegacies_Source_Quests_Goblin_QuestKezan__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.Goblin.QuestKezan.#ctor
+  fullName: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.QuestKezan()
+  nameWithType: QuestKezan.QuestKezan()
+- uid: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.#ctor*
+  name: QuestKezan
+  href: api-source/WarcraftLegacies.Source.Quests.Goblin.QuestKezan.html#WarcraftLegacies_Source_Quests_Goblin_QuestKezan__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Goblin.QuestKezan.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.QuestKezan
+  nameWithType: QuestKezan.QuestKezan
+- uid: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Goblin.QuestKezan.html#WarcraftLegacies_Source_Quests_Goblin_QuestKezan_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Goblin.QuestKezan.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestKezan.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Goblin.QuestKezan.html#WarcraftLegacies_Source_Quests_Goblin_QuestKezan_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Goblin.QuestKezan.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.OnComplete
+  nameWithType: QuestKezan.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.OnFail(MacroTools.FactionSystem.Faction)
+  name: OnFail(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Goblin.QuestKezan.html#WarcraftLegacies_Source_Quests_Goblin_QuestKezan_OnFail_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Goblin.QuestKezan.OnFail(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.OnFail(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestKezan.OnFail(Faction)
+- uid: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.OnFail*
+  name: OnFail
+  href: api-source/WarcraftLegacies.Source.Quests.Goblin.QuestKezan.html#WarcraftLegacies_Source_Quests_Goblin_QuestKezan_OnFail_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Goblin.QuestKezan.OnFail
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.OnFail
+  nameWithType: QuestKezan.OnFail
+- uid: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Goblin.QuestKezan.html#WarcraftLegacies_Source_Quests_Goblin_QuestKezan_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Goblin.QuestKezan.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.RewardDescription
+  nameWithType: QuestKezan.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Goblin.QuestKezan.html#WarcraftLegacies_Source_Quests_Goblin_QuestKezan_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Goblin.QuestKezan.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.RewardDescription
+  nameWithType: QuestKezan.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Goblin.QuestKezan.html#WarcraftLegacies_Source_Quests_Goblin_QuestKezan_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Goblin.QuestKezan.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.RewardFlavour
+  nameWithType: QuestKezan.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Goblin.QuestKezan.html#WarcraftLegacies_Source_Quests_Goblin_QuestKezan_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Goblin.QuestKezan.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Goblin.QuestKezan.RewardFlavour
+  nameWithType: QuestKezan.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Goblin.QuestLumberMarket
   name: QuestLumberMarket
   href: api-source/WarcraftLegacies.Source.Quests.Goblin.QuestLumberMarket.html
@@ -33638,12 +33683,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar
   fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar
   nameWithType: QuestZandalar
-- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.#ctor(MacroTools.LegendSystem.Capital,Rectangle,MacroTools.PreplacedUnitSystem)
-  name: QuestZandalar(Capital, Rectangle, PreplacedUnitSystem)
-  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.html#WarcraftLegacies_Source_Quests_Zandalar_QuestZandalar__ctor_MacroTools_LegendSystem_Capital_Rectangle_MacroTools_PreplacedUnitSystem_
-  commentId: M:WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.#ctor(MacroTools.LegendSystem.Capital,Rectangle,MacroTools.PreplacedUnitSystem)
-  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.QuestZandalar(MacroTools.LegendSystem.Capital, Rectangle, MacroTools.PreplacedUnitSystem)
-  nameWithType: QuestZandalar.QuestZandalar(Capital, Rectangle, PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.#ctor(Rectangle,MacroTools.PreplacedUnitSystem)
+  name: QuestZandalar(Rectangle, PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.html#WarcraftLegacies_Source_Quests_Zandalar_QuestZandalar__ctor_Rectangle_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.#ctor(Rectangle,MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.QuestZandalar(Rectangle, MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestZandalar.QuestZandalar(Rectangle, PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.#ctor*
   name: QuestZandalar
   href: api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.html#WarcraftLegacies_Source_Quests_Zandalar_QuestZandalar__ctor_
@@ -39599,6 +39644,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.Setup
   nameWithType: StormwindSpellSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.Spells.TrollSpellSetup
+  name: TrollSpellSetup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.TrollSpellSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.Spells.TrollSpellSetup
+  fullName: WarcraftLegacies.Source.Setup.Spells.TrollSpellSetup
+  nameWithType: TrollSpellSetup
+- uid: WarcraftLegacies.Source.Setup.Spells.TrollSpellSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.TrollSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_TrollSpellSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.Spells.TrollSpellSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.Spells.TrollSpellSetup.Setup()
+  nameWithType: TrollSpellSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.Spells.TrollSpellSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.Spells.TrollSpellSetup.html#WarcraftLegacies_Source_Setup_Spells_TrollSpellSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Spells.TrollSpellSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Spells.TrollSpellSetup.Setup
+  nameWithType: TrollSpellSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.Spells.WarsongSpellSetup
   name: WarsongSpellSetup
   href: api-source/WarcraftLegacies.Source.Setup.Spells.WarsongSpellSetup.html
