@@ -5309,6 +5309,30 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.html",
+          "hash": "GEN9rYbhJKlrLvJMoah17w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.html",
+          "hash": "EX1kZeGc/OQbTBBxQb9i0Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestBlueDragons.yml",
       "output": {
         ".html": {
@@ -9165,7 +9189,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "Pg9FGIkJDew8F8OtyR1NSw=="
+          "hash": "Y3Tc4KJJqj0ybFAW+QtBLA=="
         }
       },
       "is_incremental": false,
@@ -9240,7 +9264,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 762,
+          "total_file_count": 764,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
