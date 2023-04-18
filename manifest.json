@@ -5313,7 +5313,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.html",
-          "hash": "GEN9rYbhJKlrLvJMoah17w=="
+          "hash": "aA/Frjb8w/R5DINsjrpN8Q=="
         }
       },
       "is_incremental": false,
@@ -7817,6 +7817,30 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.html",
+          "hash": "vGbasI5xePPP+t1HSOqb/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.html",
+          "hash": "SIbLosj7F7NSWIcibhV8MQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.DalaranSetup.yml",
       "output": {
         ".html": {
@@ -7869,7 +7893,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html",
-          "hash": "go2PSXmRyCaLMHYgOIZf7w=="
+          "hash": "zHNxhBTLaPkpKgb2FrzYQQ=="
         }
       },
       "is_incremental": false,
@@ -8097,7 +8121,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.html",
-          "hash": "6T37RoHTRHoOKCurM0mPIg=="
+          "hash": "G0gnwxfvovaoiqubidaqvA=="
         }
       },
       "is_incremental": false,
@@ -8489,6 +8513,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.html",
+          "hash": "Dwnmyjj8+CYVuBIOGw4WcQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.yml",
       "output": {
         ".html": {
@@ -8733,7 +8769,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.html",
-          "hash": "VWiYvdcVAPq4tOe7GO778A=="
+          "hash": "k1NSBBCDCa+xvbpIl3qKmQ=="
         }
       },
       "is_incremental": false,
@@ -9057,7 +9093,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.TeamSetup.html",
-          "hash": "VdOBh3DVAP5K+8K6nggdyA=="
+          "hash": "TNcOSd69K0AnaNmeGCCp8A=="
         }
       },
       "is_incremental": false,
@@ -9189,7 +9225,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "Y3Tc4KJJqj0ybFAW+QtBLA=="
+          "hash": "jC183IAokA2Mk+DcZZ3Lug=="
         }
       },
       "is_incremental": false,
@@ -9264,7 +9300,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 764,
+          "total_file_count": 767,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

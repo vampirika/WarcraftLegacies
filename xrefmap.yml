@@ -23618,19 +23618,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.QuestCthunSpawn
   nameWithType: QuestCthunSpawn.QuestCthunSpawn
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.OnAdd(MacroTools.FactionSystem.Faction)
-  name: OnAdd(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestCthunSpawn_OnAdd_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.OnAdd(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.OnAdd(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestCthunSpawn.OnAdd(Faction)
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.OnAdd*
-  name: OnAdd
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestCthunSpawn_OnAdd_
-  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.OnAdd
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.OnAdd
-  nameWithType: QuestCthunSpawn.OnAdd
 - uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
   href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestCthunSpawn_OnComplete_MacroTools_FactionSystem_Faction_
@@ -35068,6 +35055,70 @@ references:
   commentId: N:WarcraftLegacies.Source.Setup.FactionSetup
   fullName: WarcraftLegacies.Source.Setup.FactionSetup
   nameWithType: WarcraftLegacies.Source.Setup.FactionSetup
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup
+  name: CrisisCaptainSetup
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup
+  nameWithType: CrisisCaptainSetup
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.CrisisCaptain
+  name: CrisisCaptain
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_CrisisCaptainSetup_CrisisCaptain
+  commentId: P:WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.CrisisCaptain
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.CrisisCaptain
+  nameWithType: CrisisCaptainSetup.CrisisCaptain
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.CrisisCaptain*
+  name: CrisisCaptain
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_CrisisCaptainSetup_CrisisCaptain_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.CrisisCaptain
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.CrisisCaptain
+  nameWithType: CrisisCaptainSetup.CrisisCaptain
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_CrisisCaptainSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: CrisisCaptainSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_CrisisCaptainSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.Setup
+  nameWithType: CrisisCaptainSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup
+  name: CrisisFootmanSetup
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup
+  nameWithType: CrisisFootmanSetup
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.CrisisFootman
+  name: CrisisFootman
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_CrisisFootmanSetup_CrisisFootman
+  commentId: P:WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.CrisisFootman
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.CrisisFootman
+  nameWithType: CrisisFootmanSetup.CrisisFootman
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.CrisisFootman*
+  name: CrisisFootman
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_CrisisFootmanSetup_CrisisFootman_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.CrisisFootman
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.CrisisFootman
+  nameWithType: CrisisFootmanSetup.CrisisFootman
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_CrisisFootmanSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: CrisisFootmanSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_CrisisFootmanSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.Setup
+  nameWithType: CrisisFootmanSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.DalaranSetup
   name: DalaranSetup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.DalaranSetup.html
@@ -35202,6 +35253,32 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.FactionSetup.FactionNames
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames
   nameWithType: FactionNames
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Crisis
+  name: Crisis
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_Crisis
+  commentId: P:WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Crisis
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Crisis
+  nameWithType: FactionNames.Crisis
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Crisis*
+  name: Crisis
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_Crisis_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Crisis
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Crisis
+  nameWithType: FactionNames.Crisis
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Crisis2
+  name: Crisis2
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_Crisis2
+  commentId: P:WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Crisis2
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Crisis2
+  nameWithType: FactionNames.Crisis2
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Crisis2*
+  name: Crisis2
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_Crisis2_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Crisis2
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Crisis2
+  nameWithType: FactionNames.Crisis2
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Cult
   name: Cult
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_Cult
@@ -38917,6 +38994,25 @@ references:
   commentId: N:WarcraftLegacies.Source.Setup.QuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup
   nameWithType: WarcraftLegacies.Source.Setup.QuestSetup
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup
+  name: CrisisQuestSetup
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup
+  nameWithType: CrisisQuestSetup
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_CrisisQuestSetup_Setup
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.Setup
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.Setup()
+  nameWithType: CrisisQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_CrisisQuestSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.Setup
+  nameWithType: CrisisQuestSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup
   name: DalaranQuestSetup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.html
@@ -39797,6 +39893,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.TeamSetup.Alliance
   nameWithType: TeamSetup.Alliance
+- uid: WarcraftLegacies.Source.Setup.TeamSetup.Crisis
+  name: Crisis
+  href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_Crisis
+  commentId: P:WarcraftLegacies.Source.Setup.TeamSetup.Crisis
+  fullName: WarcraftLegacies.Source.Setup.TeamSetup.Crisis
+  nameWithType: TeamSetup.Crisis
+- uid: WarcraftLegacies.Source.Setup.TeamSetup.Crisis*
+  name: Crisis
+  href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_Crisis_
+  commentId: Overload:WarcraftLegacies.Source.Setup.TeamSetup.Crisis
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.TeamSetup.Crisis
+  nameWithType: TeamSetup.Crisis
 - uid: WarcraftLegacies.Source.Setup.TeamSetup.Draenei
   name: Draenei
   href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_Draenei
@@ -39810,19 +39919,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.TeamSetup.Draenei
   nameWithType: TeamSetup.Draenei
-- uid: WarcraftLegacies.Source.Setup.TeamSetup.Dragonmaw
-  name: Dragonmaw
-  href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_Dragonmaw
-  commentId: P:WarcraftLegacies.Source.Setup.TeamSetup.Dragonmaw
-  fullName: WarcraftLegacies.Source.Setup.TeamSetup.Dragonmaw
-  nameWithType: TeamSetup.Dragonmaw
-- uid: WarcraftLegacies.Source.Setup.TeamSetup.Dragonmaw*
-  name: Dragonmaw
-  href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_Dragonmaw_
-  commentId: Overload:WarcraftLegacies.Source.Setup.TeamSetup.Dragonmaw
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.TeamSetup.Dragonmaw
-  nameWithType: TeamSetup.Dragonmaw
 - uid: WarcraftLegacies.Source.Setup.TeamSetup.Forsaken
   name: Forsaken
   href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_Forsaken
