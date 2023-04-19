@@ -23657,6 +23657,64 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.RewardFlavour
   nameWithType: QuestCthunSpawn.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick
+  name: QuestOldGodPick
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.html
+  commentId: T:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick
+  nameWithType: QuestOldGodPick
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.#ctor
+  name: QuestOldGodPick()
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestOldGodPick__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.#ctor
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.QuestOldGodPick()
+  nameWithType: QuestOldGodPick.QuestOldGodPick()
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.#ctor*
+  name: QuestOldGodPick
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestOldGodPick__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.QuestOldGodPick
+  nameWithType: QuestOldGodPick.QuestOldGodPick
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestOldGodPick_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestOldGodPick.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestOldGodPick_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.OnComplete
+  nameWithType: QuestOldGodPick.OnComplete
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestOldGodPick_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.RewardDescription
+  nameWithType: QuestOldGodPick.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestOldGodPick_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.RewardDescription
+  nameWithType: QuestOldGodPick.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestOldGodPick_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.RewardFlavour
+  nameWithType: QuestOldGodPick.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestOldGodPick_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.RewardFlavour
+  nameWithType: QuestOldGodPick.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Dalaran
   name: WarcraftLegacies.Source.Quests.Dalaran
   href: api-source/WarcraftLegacies.Source.Quests.Dalaran.html

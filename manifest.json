@@ -5313,7 +5313,19 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.html",
-          "hash": "aA/Frjb8w/R5DINsjrpN8Q=="
+          "hash": "QwZbGRlM/z6D15nWX4BSDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.html",
+          "hash": "U1xTQdwZ/Ouyk5g1d5+KTw=="
         }
       },
       "is_incremental": false,
@@ -5325,7 +5337,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.html",
-          "hash": "EX1kZeGc/OQbTBBxQb9i0Q=="
+          "hash": "mYHHbsqmQ190KKGdeay9ng=="
         }
       },
       "is_incremental": false,
@@ -9225,7 +9237,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "jC183IAokA2Mk+DcZZ3Lug=="
+          "hash": "i97U41Z/hDYCXeeAi89N/A=="
         }
       },
       "is_incremental": false,
@@ -9300,7 +9312,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 767,
+          "total_file_count": 768,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
