@@ -5309,11 +5309,59 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.html",
+          "hash": "bb3p9Fo0a5fxR99E1bYF7w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.html",
+          "hash": "3OcTv9afRsfZlazIHyhVWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.html",
-          "hash": "QwZbGRlM/z6D15nWX4BSDQ=="
+          "hash": "mpvh8AGV1MGeZRlnDl4+jA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html",
+          "hash": "5kNv6Cfeml7atRZp2jHlbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html",
+          "hash": "G9Cf4l5485se8HkORNgKHQ=="
         }
       },
       "is_incremental": false,
@@ -5325,7 +5373,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.html",
-          "hash": "U1xTQdwZ/Ouyk5g1d5+KTw=="
+          "hash": "2G1/9sR/3JBG3QfgqyNQhg=="
         }
       },
       "is_incremental": false,
@@ -5337,7 +5385,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.html",
-          "hash": "mYHHbsqmQ190KKGdeay9ng=="
+          "hash": "YCJsuLxigUfjqwGTsM4pGg=="
         }
       },
       "is_incremental": false,
@@ -7641,7 +7689,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html",
-          "hash": "UZgdjpwjml1/bxSPUAFQUA=="
+          "hash": "MlZhu4hFcVmgY/+wL8uaKw=="
         }
       },
       "is_incremental": false,
@@ -7829,6 +7877,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.html",
+          "hash": "YpBK9eF5PEs952sTKjiu7w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.yml",
       "output": {
         ".html": {
@@ -7846,6 +7906,18 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.html",
           "hash": "SIbLosj7F7NSWIcibhV8MQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.html",
+          "hash": "ybJoIC47NBsV9NLVWpFGjA=="
         }
       },
       "is_incremental": false,
@@ -7905,7 +7977,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html",
-          "hash": "zHNxhBTLaPkpKgb2FrzYQQ=="
+          "hash": "k9IWXQs3qj8tubJ5y0WXNw=="
         }
       },
       "is_incremental": false,
@@ -8045,6 +8117,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.html",
+          "hash": "d3GOjaheDm/YOFquL/ZERQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.QuelthalasSetup.yml",
       "output": {
         ".html": {
@@ -8133,7 +8217,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.html",
-          "hash": "G0gnwxfvovaoiqubidaqvA=="
+          "hash": "ovf1CtNB3wAEAZIrqG2G9g=="
         }
       },
       "is_incremental": false,
@@ -8206,6 +8290,30 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.InstanceSetup.html",
           "hash": "GwEj6qhzz0kCAzA0JM12YQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html",
+          "hash": "II3D/00t1cZeI192G26rsg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.html",
+          "hash": "FCV7VB2+x5HLrMd0am/2Wg=="
         }
       },
       "is_incremental": false,
@@ -8381,6 +8489,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.html",
+          "hash": "/ooqH1yZUeRBl6YfIK7jgw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.yml",
       "output": {
         ".html": {
@@ -8469,7 +8589,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.html",
-          "hash": "QaOzk81BCWp5XMKFpJRBHA=="
+          "hash": "wAd8vWfexyqotDSheq7Pag=="
         }
       },
       "is_incremental": false,
@@ -8529,7 +8649,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.html",
-          "hash": "Dwnmyjj8+CYVuBIOGw4WcQ=="
+          "hash": "LVyMFMqg5UVdThcAAjr6Mw=="
         }
       },
       "is_incremental": false,
@@ -9105,7 +9225,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.TeamSetup.html",
-          "hash": "TNcOSd69K0AnaNmeGCCp8A=="
+          "hash": "URnvwHYkuXnaSQ3MKHkJ5Q=="
         }
       },
       "is_incremental": false,
@@ -9237,7 +9357,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "i97U41Z/hDYCXeeAi89N/A=="
+          "hash": "gUgiLugQHD27ZGNeuq98LA=="
         }
       },
       "is_incremental": false,
@@ -9312,7 +9432,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 768,
+          "total_file_count": 778,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

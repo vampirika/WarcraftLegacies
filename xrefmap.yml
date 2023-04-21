@@ -23599,18 +23599,134 @@ references:
   commentId: N:WarcraftLegacies.Source.Quests.CrisisSpawn
   fullName: WarcraftLegacies.Source.Quests.CrisisSpawn
   nameWithType: WarcraftLegacies.Source.Quests.CrisisSpawn
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain
+  name: QuestBlackEmpireSpawnCaptain
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.html
+  commentId: T:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain
+  nameWithType: QuestBlackEmpireSpawnCaptain
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestBlackEmpireSpawnCaptain(PreplacedUnitSystem, Rectangle, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnCaptain__ctor_MacroTools_PreplacedUnitSystem_Rectangle_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.QuestBlackEmpireSpawnCaptain(MacroTools.PreplacedUnitSystem, Rectangle, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestBlackEmpireSpawnCaptain.QuestBlackEmpireSpawnCaptain(PreplacedUnitSystem, Rectangle, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.#ctor*
+  name: QuestBlackEmpireSpawnCaptain
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnCaptain__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.QuestBlackEmpireSpawnCaptain
+  nameWithType: QuestBlackEmpireSpawnCaptain.QuestBlackEmpireSpawnCaptain
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnCaptain_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestBlackEmpireSpawnCaptain.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnCaptain_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.OnComplete
+  nameWithType: QuestBlackEmpireSpawnCaptain.OnComplete
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnCaptain_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.RewardDescription
+  nameWithType: QuestBlackEmpireSpawnCaptain.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnCaptain_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.RewardDescription
+  nameWithType: QuestBlackEmpireSpawnCaptain.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnCaptain_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.RewardFlavour
+  nameWithType: QuestBlackEmpireSpawnCaptain.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnCaptain_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.RewardFlavour
+  nameWithType: QuestBlackEmpireSpawnCaptain.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman
+  name: QuestBlackEmpireSpawnFootman
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.html
+  commentId: T:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman
+  nameWithType: QuestBlackEmpireSpawnFootman
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestBlackEmpireSpawnFootman(PreplacedUnitSystem, Rectangle, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnFootman__ctor_MacroTools_PreplacedUnitSystem_Rectangle_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.QuestBlackEmpireSpawnFootman(MacroTools.PreplacedUnitSystem, Rectangle, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestBlackEmpireSpawnFootman.QuestBlackEmpireSpawnFootman(PreplacedUnitSystem, Rectangle, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.#ctor*
+  name: QuestBlackEmpireSpawnFootman
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnFootman__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.QuestBlackEmpireSpawnFootman
+  nameWithType: QuestBlackEmpireSpawnFootman.QuestBlackEmpireSpawnFootman
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnFootman_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestBlackEmpireSpawnFootman.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnFootman_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.OnComplete
+  nameWithType: QuestBlackEmpireSpawnFootman.OnComplete
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnFootman_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.RewardDescription
+  nameWithType: QuestBlackEmpireSpawnFootman.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnFootman_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.RewardDescription
+  nameWithType: QuestBlackEmpireSpawnFootman.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnFootman_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.RewardFlavour
+  nameWithType: QuestBlackEmpireSpawnFootman.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnFootman_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.RewardFlavour
+  nameWithType: QuestBlackEmpireSpawnFootman.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn
   name: QuestCthunSpawn
   href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.html
   commentId: T:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn
   fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn
   nameWithType: QuestCthunSpawn
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.#ctor(Rectangle)
-  name: QuestCthunSpawn(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestCthunSpawn__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.QuestCthunSpawn(Rectangle)
-  nameWithType: QuestCthunSpawn.QuestCthunSpawn(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestCthunSpawn(PreplacedUnitSystem, Rectangle, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestCthunSpawn__ctor_MacroTools_PreplacedUnitSystem_Rectangle_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.QuestCthunSpawn(MacroTools.PreplacedUnitSystem, Rectangle, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestCthunSpawn.QuestCthunSpawn(PreplacedUnitSystem, Rectangle, LegendaryHero)
 - uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.#ctor*
   name: QuestCthunSpawn
   href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestCthunSpawn__ctor_
@@ -23657,18 +23773,134 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.RewardFlavour
   nameWithType: QuestCthunSpawn.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain
+  name: QuestNazjatarSpawnCaptain
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html
+  commentId: T:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain
+  nameWithType: QuestNazjatarSpawnCaptain
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestNazjatarSpawnCaptain(PreplacedUnitSystem, Rectangle, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnCaptain__ctor_MacroTools_PreplacedUnitSystem_Rectangle_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.QuestNazjatarSpawnCaptain(MacroTools.PreplacedUnitSystem, Rectangle, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestNazjatarSpawnCaptain.QuestNazjatarSpawnCaptain(PreplacedUnitSystem, Rectangle, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.#ctor*
+  name: QuestNazjatarSpawnCaptain
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnCaptain__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.QuestNazjatarSpawnCaptain
+  nameWithType: QuestNazjatarSpawnCaptain.QuestNazjatarSpawnCaptain
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnCaptain_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestNazjatarSpawnCaptain.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnCaptain_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.OnComplete
+  nameWithType: QuestNazjatarSpawnCaptain.OnComplete
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnCaptain_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardDescription
+  nameWithType: QuestNazjatarSpawnCaptain.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnCaptain_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardDescription
+  nameWithType: QuestNazjatarSpawnCaptain.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnCaptain_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardFlavour
+  nameWithType: QuestNazjatarSpawnCaptain.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnCaptain_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardFlavour
+  nameWithType: QuestNazjatarSpawnCaptain.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman
+  name: QuestNazjatarSpawnFootman
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html
+  commentId: T:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman
+  nameWithType: QuestNazjatarSpawnFootman
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestNazjatarSpawnFootman(PreplacedUnitSystem, Rectangle, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnFootman__ctor_MacroTools_PreplacedUnitSystem_Rectangle_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.QuestNazjatarSpawnFootman(MacroTools.PreplacedUnitSystem, Rectangle, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestNazjatarSpawnFootman.QuestNazjatarSpawnFootman(PreplacedUnitSystem, Rectangle, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.#ctor*
+  name: QuestNazjatarSpawnFootman
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnFootman__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.QuestNazjatarSpawnFootman
+  nameWithType: QuestNazjatarSpawnFootman.QuestNazjatarSpawnFootman
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnFootman_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestNazjatarSpawnFootman.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnFootman_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.OnComplete
+  nameWithType: QuestNazjatarSpawnFootman.OnComplete
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnFootman_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardDescription
+  nameWithType: QuestNazjatarSpawnFootman.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnFootman_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardDescription
+  nameWithType: QuestNazjatarSpawnFootman.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnFootman_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardFlavour
+  nameWithType: QuestNazjatarSpawnFootman.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnFootman_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardFlavour
+  nameWithType: QuestNazjatarSpawnFootman.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick
   name: QuestOldGodPick
   href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.html
   commentId: T:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick
   fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick
   nameWithType: QuestOldGodPick
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.#ctor
-  name: QuestOldGodPick()
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestOldGodPick__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.#ctor
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.QuestOldGodPick()
-  nameWithType: QuestOldGodPick.QuestOldGodPick()
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.#ctor(MacroTools.PreplacedUnitSystem)
+  name: QuestOldGodPick(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestOldGodPick__ctor_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.#ctor(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.QuestOldGodPick(MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestOldGodPick.QuestOldGodPick(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.#ctor*
   name: QuestOldGodPick
   href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestOldGodPick__ctor_
@@ -34380,6 +34612,32 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.AllLegendSetup
   nameWithType: AllLegendSetup.AllLegendSetup
+- uid: WarcraftLegacies.Source.Setup.AllLegendSetup.BlackEmpire
+  name: BlackEmpire
+  href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_BlackEmpire
+  commentId: P:WarcraftLegacies.Source.Setup.AllLegendSetup.BlackEmpire
+  fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.BlackEmpire
+  nameWithType: AllLegendSetup.BlackEmpire
+- uid: WarcraftLegacies.Source.Setup.AllLegendSetup.BlackEmpire*
+  name: BlackEmpire
+  href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_BlackEmpire_
+  commentId: Overload:WarcraftLegacies.Source.Setup.AllLegendSetup.BlackEmpire
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.BlackEmpire
+  nameWithType: AllLegendSetup.BlackEmpire
+- uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Cthun
+  name: Cthun
+  href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Cthun
+  commentId: P:WarcraftLegacies.Source.Setup.AllLegendSetup.Cthun
+  fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.Cthun
+  nameWithType: AllLegendSetup.Cthun
+- uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Cthun*
+  name: Cthun
+  href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Cthun_
+  commentId: Overload:WarcraftLegacies.Source.Setup.AllLegendSetup.Cthun
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.Cthun
+  nameWithType: AllLegendSetup.Cthun
 - uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Dalaran
   name: Dalaran
   href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Dalaran
@@ -34523,6 +34781,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.Naga
   nameWithType: AllLegendSetup.Naga
+- uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Nazjatar
+  name: Nazjatar
+  href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Nazjatar
+  commentId: P:WarcraftLegacies.Source.Setup.AllLegendSetup.Nazjatar
+  fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.Nazjatar
+  nameWithType: AllLegendSetup.Nazjatar
+- uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Nazjatar*
+  name: Nazjatar
+  href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Nazjatar_
+  commentId: Overload:WarcraftLegacies.Source.Setup.AllLegendSetup.Nazjatar
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.Nazjatar
+  nameWithType: AllLegendSetup.Nazjatar
 - uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Neutral
   name: Neutral
   href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Neutral
@@ -35113,6 +35384,38 @@ references:
   commentId: N:WarcraftLegacies.Source.Setup.FactionSetup
   fullName: WarcraftLegacies.Source.Setup.FactionSetup
   nameWithType: WarcraftLegacies.Source.Setup.FactionSetup
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup
+  name: BlackEmpireSetup
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup
+  nameWithType: BlackEmpireSetup
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.BlackEmpire
+  name: BlackEmpire
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_BlackEmpireSetup_BlackEmpire
+  commentId: P:WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.BlackEmpire
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.BlackEmpire
+  nameWithType: BlackEmpireSetup.BlackEmpire
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.BlackEmpire*
+  name: BlackEmpire
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_BlackEmpireSetup_BlackEmpire_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.BlackEmpire
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.BlackEmpire
+  nameWithType: BlackEmpireSetup.BlackEmpire
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_BlackEmpireSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: BlackEmpireSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_BlackEmpireSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.Setup
+  nameWithType: BlackEmpireSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup
   name: CrisisCaptainSetup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.html
@@ -35177,6 +35480,38 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.Setup
   nameWithType: CrisisFootmanSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup
+  name: CthunSetup
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup
+  nameWithType: CthunSetup
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.Cthun
+  name: Cthun
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_CthunSetup_Cthun
+  commentId: P:WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.Cthun
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.Cthun
+  nameWithType: CthunSetup.Cthun
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.Cthun*
+  name: Cthun
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_CthunSetup_Cthun_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.Cthun
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.Cthun
+  nameWithType: CthunSetup.Cthun
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_CthunSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: CthunSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_CthunSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.Setup
+  nameWithType: CthunSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.DalaranSetup
   name: DalaranSetup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.DalaranSetup.html
@@ -35311,6 +35646,19 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.FactionSetup.FactionNames
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames
   nameWithType: FactionNames
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.BlackEmpire
+  name: BlackEmpire
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_BlackEmpire
+  commentId: P:WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.BlackEmpire
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.BlackEmpire
+  nameWithType: FactionNames.BlackEmpire
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.BlackEmpire*
+  name: BlackEmpire
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_BlackEmpire_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.BlackEmpire
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.BlackEmpire
+  nameWithType: FactionNames.BlackEmpire
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Crisis
   name: Crisis
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_Crisis
@@ -35337,6 +35685,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Crisis2
   nameWithType: FactionNames.Crisis2
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Cthun
+  name: Cthun
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_Cthun
+  commentId: P:WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Cthun
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Cthun
+  nameWithType: FactionNames.Cthun
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Cthun*
+  name: Cthun
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_Cthun_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Cthun
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Cthun
+  nameWithType: FactionNames.Cthun
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Cult
   name: Cult
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_Cult
@@ -35545,6 +35906,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Militia
   nameWithType: FactionNames.Militia
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Nazjatar
+  name: Nazjatar
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_Nazjatar
+  commentId: P:WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Nazjatar
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Nazjatar
+  nameWithType: FactionNames.Nazjatar
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Nazjatar*
+  name: Nazjatar
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_Nazjatar_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Nazjatar
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Nazjatar
+  nameWithType: FactionNames.Nazjatar
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.QuelThalas
   name: QuelThalas
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_QuelThalas
@@ -35975,6 +36349,38 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.LordaeronSetup.Setup
   nameWithType: LordaeronSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup
+  name: NazjatarSetup
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup
+  nameWithType: NazjatarSetup
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.Nazjatar
+  name: Nazjatar
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_NazjatarSetup_Nazjatar
+  commentId: P:WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.Nazjatar
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.Nazjatar
+  nameWithType: NazjatarSetup.Nazjatar
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.Nazjatar*
+  name: Nazjatar
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_NazjatarSetup_Nazjatar_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.Nazjatar
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.Nazjatar
+  nameWithType: NazjatarSetup.Nazjatar
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_NazjatarSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: NazjatarSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_NazjatarSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.Setup
+  nameWithType: NazjatarSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.QuelthalasSetup
   name: QuelthalasSetup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.QuelthalasSetup.html
@@ -36319,6 +36725,96 @@ references:
   commentId: N:WarcraftLegacies.Source.Setup.Legends
   fullName: WarcraftLegacies.Source.Setup.Legends
   nameWithType: WarcraftLegacies.Source.Setup.Legends
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire
+  name: LegendBlackEmpire
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html
+  commentId: T:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire
+  nameWithType: LegendBlackEmpire
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.#ctor
+  name: LegendBlackEmpire()
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire__ctor
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.#ctor
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.LegendBlackEmpire()
+  nameWithType: LegendBlackEmpire.LegendBlackEmpire()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.#ctor*
+  name: LegendBlackEmpire
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.LegendBlackEmpire
+  nameWithType: LegendBlackEmpire.LegendBlackEmpire
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Nzoth
+  name: Nzoth
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire_Nzoth
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Nzoth
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Nzoth
+  nameWithType: LegendBlackEmpire.Nzoth
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Nzoth*
+  name: Nzoth
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire_Nzoth_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Nzoth
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Nzoth
+  nameWithType: LegendBlackEmpire.Nzoth
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.RegisterLegends
+  name: RegisterLegends()
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire_RegisterLegends
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.RegisterLegends
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.RegisterLegends()
+  nameWithType: LegendBlackEmpire.RegisterLegends()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.RegisterLegends*
+  name: RegisterLegends
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire_RegisterLegends_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.RegisterLegends
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.RegisterLegends
+  nameWithType: LegendBlackEmpire.RegisterLegends
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendCthun
+  name: LegendCthun
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.html
+  commentId: T:WarcraftLegacies.Source.Setup.Legends.LegendCthun
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendCthun
+  nameWithType: LegendCthun
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendCthun.#ctor
+  name: LegendCthun()
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.html#WarcraftLegacies_Source_Setup_Legends_LegendCthun__ctor
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendCthun.#ctor
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendCthun.LegendCthun()
+  nameWithType: LegendCthun.LegendCthun()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendCthun.#ctor*
+  name: LegendCthun
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.html#WarcraftLegacies_Source_Setup_Legends_LegendCthun__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendCthun.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendCthun.LegendCthun
+  nameWithType: LegendCthun.LegendCthun
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendCthun.Cthun
+  name: Cthun
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.html#WarcraftLegacies_Source_Setup_Legends_LegendCthun_Cthun
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendCthun.Cthun
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendCthun.Cthun
+  nameWithType: LegendCthun.Cthun
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendCthun.Cthun*
+  name: Cthun
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.html#WarcraftLegacies_Source_Setup_Legends_LegendCthun_Cthun_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendCthun.Cthun
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendCthun.Cthun
+  nameWithType: LegendCthun.Cthun
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendCthun.RegisterLegends
+  name: RegisterLegends()
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.html#WarcraftLegacies_Source_Setup_Legends_LegendCthun_RegisterLegends
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendCthun.RegisterLegends
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendCthun.RegisterLegends()
+  nameWithType: LegendCthun.RegisterLegends()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendCthun.RegisterLegends*
+  name: RegisterLegends
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.html#WarcraftLegacies_Source_Setup_Legends_LegendCthun_RegisterLegends_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendCthun.RegisterLegends
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendCthun.RegisterLegends
+  nameWithType: LegendCthun.RegisterLegends
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDalaran
   name: LegendDalaran
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDalaran.html
@@ -37924,6 +38420,51 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendLordaeron.Uther
   nameWithType: LegendLordaeron.Uther
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar
+  name: LegendNazjatar
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.html
+  commentId: T:WarcraftLegacies.Source.Setup.Legends.LegendNazjatar
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar
+  nameWithType: LegendNazjatar
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.#ctor
+  name: LegendNazjatar()
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.html#WarcraftLegacies_Source_Setup_Legends_LegendNazjatar__ctor
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.#ctor
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.LegendNazjatar()
+  nameWithType: LegendNazjatar.LegendNazjatar()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.#ctor*
+  name: LegendNazjatar
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.html#WarcraftLegacies_Source_Setup_Legends_LegendNazjatar__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.LegendNazjatar
+  nameWithType: LegendNazjatar.LegendNazjatar
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Azshara
+  name: Azshara
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.html#WarcraftLegacies_Source_Setup_Legends_LegendNazjatar_Azshara
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Azshara
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Azshara
+  nameWithType: LegendNazjatar.Azshara
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Azshara*
+  name: Azshara
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.html#WarcraftLegacies_Source_Setup_Legends_LegendNazjatar_Azshara_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Azshara
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Azshara
+  nameWithType: LegendNazjatar.Azshara
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.RegisterLegends
+  name: RegisterLegends()
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.html#WarcraftLegacies_Source_Setup_Legends_LegendNazjatar_RegisterLegends
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.RegisterLegends
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.RegisterLegends()
+  nameWithType: LegendNazjatar.RegisterLegends()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.RegisterLegends*
+  name: RegisterLegends
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.html#WarcraftLegacies_Source_Setup_Legends_LegendNazjatar_RegisterLegends_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.RegisterLegends
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.RegisterLegends
+  nameWithType: LegendNazjatar.RegisterLegends
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral
   name: LegendNeutral
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html
@@ -39058,12 +39599,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup
   nameWithType: CrisisQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_CrisisQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.Setup()
-  nameWithType: CrisisQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
+  name: Setup(PreplacedUnitSystem, AllLegendSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_CrisisQuestSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_AllLegendSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.AllLegendSetup)
+  nameWithType: CrisisQuestSetup.Setup(PreplacedUnitSystem, AllLegendSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_CrisisQuestSetup_Setup_
@@ -40068,6 +40609,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.TeamSetup.NorthAlliance
   nameWithType: TeamSetup.NorthAlliance
+- uid: WarcraftLegacies.Source.Setup.TeamSetup.Oldgods
+  name: Oldgods
+  href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_Oldgods
+  commentId: P:WarcraftLegacies.Source.Setup.TeamSetup.Oldgods
+  fullName: WarcraftLegacies.Source.Setup.TeamSetup.Oldgods
+  nameWithType: TeamSetup.Oldgods
+- uid: WarcraftLegacies.Source.Setup.TeamSetup.Oldgods*
+  name: Oldgods
+  href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_Oldgods_
+  commentId: Overload:WarcraftLegacies.Source.Setup.TeamSetup.Oldgods
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.TeamSetup.Oldgods
+  nameWithType: TeamSetup.Oldgods
 - uid: WarcraftLegacies.Source.Setup.TeamSetup.ScarletCrusade
   name: ScarletCrusade
   href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_ScarletCrusade
