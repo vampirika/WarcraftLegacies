@@ -23947,6 +23947,64 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.RewardFlavour
   nameWithType: QuestOldGodPick.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn
+  name: QuestTwilightHammerSpawn
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.html
+  commentId: T:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn
+  nameWithType: QuestTwilightHammerSpawn
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestTwilightHammerSpawn(PreplacedUnitSystem, Rectangle, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestTwilightHammerSpawn__ctor_MacroTools_PreplacedUnitSystem_Rectangle_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.QuestTwilightHammerSpawn(MacroTools.PreplacedUnitSystem, Rectangle, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestTwilightHammerSpawn.QuestTwilightHammerSpawn(PreplacedUnitSystem, Rectangle, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.#ctor*
+  name: QuestTwilightHammerSpawn
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestTwilightHammerSpawn__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.QuestTwilightHammerSpawn
+  nameWithType: QuestTwilightHammerSpawn.QuestTwilightHammerSpawn
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestTwilightHammerSpawn_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestTwilightHammerSpawn.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestTwilightHammerSpawn_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.OnComplete
+  nameWithType: QuestTwilightHammerSpawn.OnComplete
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestTwilightHammerSpawn_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.RewardDescription
+  nameWithType: QuestTwilightHammerSpawn.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestTwilightHammerSpawn_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.RewardDescription
+  nameWithType: QuestTwilightHammerSpawn.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestTwilightHammerSpawn_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.RewardFlavour
+  nameWithType: QuestTwilightHammerSpawn.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestTwilightHammerSpawn_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.RewardFlavour
+  nameWithType: QuestTwilightHammerSpawn.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Dalaran
   name: WarcraftLegacies.Source.Quests.Dalaran
   href: api-source/WarcraftLegacies.Source.Quests.Dalaran.html
@@ -35971,6 +36029,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Stormwind
   nameWithType: FactionNames.Stormwind
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.TwilightHammer
+  name: TwilightHammer
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_TwilightHammer
+  commentId: P:WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.TwilightHammer
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.TwilightHammer
+  nameWithType: FactionNames.TwilightHammer
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.TwilightHammer*
+  name: TwilightHammer
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_TwilightHammer_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.TwilightHammer
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.TwilightHammer
+  nameWithType: FactionNames.TwilightHammer
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Warsong
   name: Warsong
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_Warsong
@@ -36541,6 +36612,38 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.StormwindSetup.Stormwind
   nameWithType: StormwindSetup.Stormwind
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup
+  name: TwilightHammerSetup
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup
+  nameWithType: TwilightHammerSetup
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_TwilightHammerSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: TwilightHammerSetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_TwilightHammerSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.Setup
+  nameWithType: TwilightHammerSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.TwilightHammer
+  name: TwilightHammer
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_TwilightHammerSetup_TwilightHammer
+  commentId: P:WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.TwilightHammer
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.TwilightHammer
+  nameWithType: TwilightHammerSetup.TwilightHammer
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.TwilightHammer*
+  name: TwilightHammer
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_TwilightHammerSetup_TwilightHammer_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.TwilightHammer
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.TwilightHammer
+  nameWithType: TwilightHammerSetup.TwilightHammer
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.WarsongSetup
   name: WarsongSetup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.WarsongSetup.html

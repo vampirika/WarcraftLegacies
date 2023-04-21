@@ -5381,11 +5381,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.html",
+          "hash": "ZSqNqGg8zCLz+5wMsB842g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.html",
-          "hash": "YCJsuLxigUfjqwGTsM4pGg=="
+          "hash": "pQEYyKErdY20sssgGU1WuQ=="
         }
       },
       "is_incremental": false,
@@ -7977,7 +7989,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html",
-          "hash": "k9IWXQs3qj8tubJ5y0WXNw=="
+          "hash": "PasUAjsuhNw1WB7BHgdc/g=="
         }
       },
       "is_incremental": false,
@@ -8189,6 +8201,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.html",
+          "hash": "ccqNQOEHCINkzODlCkspCQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.WarsongSetup.yml",
       "output": {
         ".html": {
@@ -8217,7 +8241,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.html",
-          "hash": "ovf1CtNB3wAEAZIrqG2G9g=="
+          "hash": "JY7Rk8ZtR24+m/9WwP9+wg=="
         }
       },
       "is_incremental": false,
@@ -9357,7 +9381,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "gUgiLugQHD27ZGNeuq98LA=="
+          "hash": "JQrQOu7h/zJ38P5+agB9uA=="
         }
       },
       "is_incremental": false,
@@ -9432,7 +9456,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 778,
+          "total_file_count": 780,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
