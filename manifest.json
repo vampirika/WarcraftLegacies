@@ -2849,6 +2849,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.ChannelSpellOnAttack.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.PassiveAbilities.ChannelSpellOnAttack.html",
+          "hash": "/e/P2ixhwhZyGiCxh9nWbg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.DefensiveOrbs.yml",
       "output": {
         ".html": {
@@ -3057,7 +3069,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.html",
-          "hash": "4JuH6jw56W6mDN1o7qw8jQ=="
+          "hash": "SLseBtaqsbVPq4p8yonqRA=="
         }
       },
       "is_incremental": false,
@@ -3093,7 +3105,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html",
-          "hash": "x2xzS/FK1xy85x3jY068Bg=="
+          "hash": "cSC540TzE8Dr2eoOWXuKcQ=="
         }
       },
       "is_incremental": false,
@@ -4281,7 +4293,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "TnuNvS2eIf/bKX8WkESZVw=="
+          "hash": "qvZd7Wt54B9b3ZnLTnl+3g=="
         }
       },
       "is_incremental": false,
@@ -7413,7 +7425,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestGundrak.html",
-          "hash": "yDVewhHr3Ms1VLV9GJ7VgA=="
+          "hash": "2lQU1VOjDfWnz7ah8YONfQ=="
         }
       },
       "is_incremental": false,
@@ -7437,7 +7449,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestJinthaAlor.html",
-          "hash": "6/+vxHd0TZAkAuMh74zZ9g=="
+          "hash": "9nPWHl9DsfRu54PyGruPpg=="
         }
       },
       "is_incremental": false,
@@ -7473,7 +7485,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZulgurub.html",
-          "hash": "mB9KRWI93ufs/5/+wKTkYA=="
+          "hash": "AHX6ILqk4lTUxGWzu6t33A=="
         }
       },
       "is_incremental": false,
@@ -9456,7 +9468,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 780,
+          "total_file_count": 781,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
