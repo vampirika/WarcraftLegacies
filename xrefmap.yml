@@ -38678,6 +38678,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Azshara
   nameWithType: LegendNazjatar.Azshara
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Nazjar
+  name: Nazjar
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.html#WarcraftLegacies_Source_Setup_Legends_LegendNazjatar_Nazjar
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Nazjar
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Nazjar
+  nameWithType: LegendNazjatar.Nazjar
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Nazjar*
+  name: Nazjar
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.html#WarcraftLegacies_Source_Setup_Legends_LegendNazjatar_Nazjar_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Nazjar
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Nazjar
+  nameWithType: LegendNazjatar.Nazjar
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.RegisterLegends
   name: RegisterLegends()
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.html#WarcraftLegacies_Source_Setup_Legends_LegendNazjatar_RegisterLegends
@@ -38691,6 +38704,32 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.RegisterLegends
   nameWithType: LegendNazjatar.RegisterLegends
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Sivara
+  name: Sivara
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.html#WarcraftLegacies_Source_Setup_Legends_LegendNazjatar_Sivara
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Sivara
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Sivara
+  nameWithType: LegendNazjatar.Sivara
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Sivara*
+  name: Sivara
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.html#WarcraftLegacies_Source_Setup_Legends_LegendNazjatar_Sivara_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Sivara
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Sivara
+  nameWithType: LegendNazjatar.Sivara
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Zakajz
+  name: Zakajz
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.html#WarcraftLegacies_Source_Setup_Legends_LegendNazjatar_Zakajz
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Zakajz
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Zakajz
+  nameWithType: LegendNazjatar.Zakajz
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Zakajz*
+  name: Zakajz
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.html#WarcraftLegacies_Source_Setup_Legends_LegendNazjatar_Zakajz_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Zakajz
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.Zakajz
+  nameWithType: LegendNazjatar.Zakajz
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendNeutral
   name: LegendNeutral
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendNeutral.html
