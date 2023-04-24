@@ -36996,6 +36996,45 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.RegisterLegends
   nameWithType: LegendBlackEmpire.RegisterLegends
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Vezax
+  name: Vezax
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire_Vezax
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Vezax
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Vezax
+  nameWithType: LegendBlackEmpire.Vezax
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Vezax*
+  name: Vezax
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire_Vezax_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Vezax
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Vezax
+  nameWithType: LegendBlackEmpire.Vezax
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Volazj
+  name: Volazj
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire_Volazj
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Volazj
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Volazj
+  nameWithType: LegendBlackEmpire.Volazj
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Volazj*
+  name: Volazj
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire_Volazj_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Volazj
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Volazj
+  nameWithType: LegendBlackEmpire.Volazj
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Yorsahj
+  name: Yorsahj
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire_Yorsahj
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Yorsahj
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Yorsahj
+  nameWithType: LegendBlackEmpire.Yorsahj
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Yorsahj*
+  name: Yorsahj
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire_Yorsahj_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Yorsahj
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Yorsahj
+  nameWithType: LegendBlackEmpire.Yorsahj
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendCthun
   name: LegendCthun
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.html
