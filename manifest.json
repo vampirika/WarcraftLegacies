@@ -5357,6 +5357,42 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestElfDead.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestElfDead.html",
+          "hash": "byOC9csDFPI2rXgcRShXCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestHordeDead.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestHordeDead.html",
+          "hash": "nDPi11I0bNbvuaSI1Tp12w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestIllidariDead.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestIllidariDead.html",
+          "hash": "JkRFipab82O+QjTI6tKa3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.yml",
       "output": {
         ".html": {
@@ -5381,6 +5417,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestSADead.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestSADead.html",
+          "hash": "hPBeasXIvdUVIup7FMBCUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.yml",
       "output": {
         ".html": {
@@ -5397,7 +5445,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.html",
-          "hash": "9X7S+/fdcYO0dW7Y9ggADQ=="
+          "hash": "+pgOIboUohRcIwPoJMgSgg=="
         }
       },
       "is_incremental": false,
@@ -9393,7 +9441,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "CiTWOS5adThe2QrKLbmehQ=="
+          "hash": "KNHmsJjN5kBNi38uNvBrhg=="
         }
       },
       "is_incremental": false,
@@ -9468,7 +9516,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 781,
+          "total_file_count": 785,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
