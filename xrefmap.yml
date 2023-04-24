@@ -37092,12 +37092,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire
   nameWithType: LegendBlackEmpire
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.#ctor
-  name: LegendBlackEmpire()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire__ctor
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.#ctor
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.LegendBlackEmpire()
-  nameWithType: LegendBlackEmpire.LegendBlackEmpire()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.#ctor(MacroTools.PreplacedUnitSystem)
+  name: LegendBlackEmpire(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire__ctor_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.#ctor(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.LegendBlackEmpire(MacroTools.PreplacedUnitSystem)
+  nameWithType: LegendBlackEmpire.LegendBlackEmpire(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.#ctor*
   name: LegendBlackEmpire
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire__ctor_
@@ -37118,6 +37118,32 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.Nzoth
   nameWithType: LegendBlackEmpire.Nzoth
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.ObeliskCaptain
+  name: ObeliskCaptain
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire_ObeliskCaptain
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.ObeliskCaptain
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.ObeliskCaptain
+  nameWithType: LegendBlackEmpire.ObeliskCaptain
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.ObeliskCaptain*
+  name: ObeliskCaptain
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire_ObeliskCaptain_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.ObeliskCaptain
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.ObeliskCaptain
+  nameWithType: LegendBlackEmpire.ObeliskCaptain
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.ObeliskFootman
+  name: ObeliskFootman
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire_ObeliskFootman
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.ObeliskFootman
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.ObeliskFootman
+  nameWithType: LegendBlackEmpire.ObeliskFootman
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.ObeliskFootman*
+  name: ObeliskFootman
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire_ObeliskFootman_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.ObeliskFootman
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.ObeliskFootman
+  nameWithType: LegendBlackEmpire.ObeliskFootman
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.RegisterLegends
   name: RegisterLegends()
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html#WarcraftLegacies_Source_Setup_Legends_LegendBlackEmpire_RegisterLegends
