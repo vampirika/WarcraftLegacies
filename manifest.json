@@ -5357,23 +5357,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.yml",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.yml",
       "output": {
         ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html",
-          "hash": "5kNv6Cfeml7atRZp2jHlbQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html",
-          "hash": "G9Cf4l5485se8HkORNgKHQ=="
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.html",
+          "hash": "mgbhjawaiQiZ0MvlWPlEBw=="
         }
       },
       "is_incremental": false,
@@ -5409,7 +5397,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.html",
-          "hash": "pQEYyKErdY20sssgGU1WuQ=="
+          "hash": "9X7S+/fdcYO0dW7Y9ggADQ=="
         }
       },
       "is_incremental": false,
@@ -9393,7 +9381,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "JQrQOu7h/zJ38P5+agB9uA=="
+          "hash": "GbdBGLfq7m4BxznvfrkjwQ=="
         }
       },
       "is_incremental": false,
@@ -9468,7 +9456,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 781,
+          "total_file_count": 780,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

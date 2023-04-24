@@ -23896,122 +23896,64 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.RewardFlavour
   nameWithType: QuestCthunSpawn.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain
-  name: QuestNazjatarSpawnCaptain
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html
-  commentId: T:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain
-  nameWithType: QuestNazjatarSpawnCaptain
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  name: QuestNazjatarSpawnCaptain(PreplacedUnitSystem, Rectangle, LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnCaptain__ctor_MacroTools_PreplacedUnitSystem_Rectangle_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.QuestNazjatarSpawnCaptain(MacroTools.PreplacedUnitSystem, Rectangle, MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestNazjatarSpawnCaptain.QuestNazjatarSpawnCaptain(PreplacedUnitSystem, Rectangle, LegendaryHero)
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.#ctor*
-  name: QuestNazjatarSpawnCaptain
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnCaptain__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.#ctor
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn
+  name: QuestNazjatarSpawn
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.html
+  commentId: T:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn
+  nameWithType: QuestNazjatarSpawn
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestNazjatarSpawn(PreplacedUnitSystem, Rectangle, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawn__ctor_MacroTools_PreplacedUnitSystem_Rectangle_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.QuestNazjatarSpawn(MacroTools.PreplacedUnitSystem, Rectangle, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestNazjatarSpawn.QuestNazjatarSpawn(PreplacedUnitSystem, Rectangle, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.#ctor*
+  name: QuestNazjatarSpawn
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawn__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.#ctor
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.QuestNazjatarSpawnCaptain
-  nameWithType: QuestNazjatarSpawnCaptain.QuestNazjatarSpawnCaptain
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.QuestNazjatarSpawn
+  nameWithType: QuestNazjatarSpawn.QuestNazjatarSpawn
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnCaptain_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestNazjatarSpawnCaptain.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.OnComplete*
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawn_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestNazjatarSpawn.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.OnComplete*
   name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnCaptain_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawn_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.OnComplete
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.OnComplete
-  nameWithType: QuestNazjatarSpawnCaptain.OnComplete
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.OnComplete
+  nameWithType: QuestNazjatarSpawn.OnComplete
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.RewardDescription
   name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnCaptain_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardDescription
-  nameWithType: QuestNazjatarSpawnCaptain.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardDescription*
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawn_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.RewardDescription
+  nameWithType: QuestNazjatarSpawn.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.RewardDescription*
   name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnCaptain_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawn_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.RewardDescription
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardDescription
-  nameWithType: QuestNazjatarSpawnCaptain.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.RewardDescription
+  nameWithType: QuestNazjatarSpawn.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.RewardFlavour
   name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnCaptain_RewardFlavour
-  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardFlavour
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardFlavour
-  nameWithType: QuestNazjatarSpawnCaptain.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardFlavour*
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawn_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.RewardFlavour
+  nameWithType: QuestNazjatarSpawn.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.RewardFlavour*
   name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnCaptain_RewardFlavour_
-  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawn_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.RewardFlavour
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnCaptain.RewardFlavour
-  nameWithType: QuestNazjatarSpawnCaptain.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman
-  name: QuestNazjatarSpawnFootman
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html
-  commentId: T:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman
-  nameWithType: QuestNazjatarSpawnFootman
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  name: QuestNazjatarSpawnFootman(PreplacedUnitSystem, Rectangle, LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnFootman__ctor_MacroTools_PreplacedUnitSystem_Rectangle_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.QuestNazjatarSpawnFootman(MacroTools.PreplacedUnitSystem, Rectangle, MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestNazjatarSpawnFootman.QuestNazjatarSpawnFootman(PreplacedUnitSystem, Rectangle, LegendaryHero)
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.#ctor*
-  name: QuestNazjatarSpawnFootman
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnFootman__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.QuestNazjatarSpawnFootman
-  nameWithType: QuestNazjatarSpawnFootman.QuestNazjatarSpawnFootman
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnFootman_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestNazjatarSpawnFootman.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnFootman_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.OnComplete
-  nameWithType: QuestNazjatarSpawnFootman.OnComplete
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnFootman_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardDescription
-  nameWithType: QuestNazjatarSpawnFootman.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnFootman_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardDescription
-  nameWithType: QuestNazjatarSpawnFootman.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardFlavour
-  name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnFootman_RewardFlavour
-  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardFlavour
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardFlavour
-  nameWithType: QuestNazjatarSpawnFootman.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardFlavour*
-  name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawnFootman_RewardFlavour_
-  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardFlavour
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawnFootman.RewardFlavour
-  nameWithType: QuestNazjatarSpawnFootman.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.RewardFlavour
+  nameWithType: QuestNazjatarSpawn.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick
   name: QuestOldGodPick
   href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.html
