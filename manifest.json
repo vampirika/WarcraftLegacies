@@ -7701,7 +7701,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html",
-          "hash": "MlZhu4hFcVmgY/+wL8uaKw=="
+          "hash": "4pTBqrHanofIXXXTREn+Vg=="
         }
       },
       "is_incremental": false,
@@ -8337,7 +8337,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.html",
-          "hash": "FCV7VB2+x5HLrMd0am/2Wg=="
+          "hash": "NF/0SNWO43X+keWDD6QpWA=="
         }
       },
       "is_incremental": false,
@@ -8597,6 +8597,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.html",
+          "hash": "jHymevn2rL0xh7xm+ZuyLw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.yml",
       "output": {
         ".html": {
@@ -8613,7 +8625,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.html",
-          "hash": "wAd8vWfexyqotDSheq7Pag=="
+          "hash": "E5dTlHoSMyKlAy6WeF4syA=="
         }
       },
       "is_incremental": false,
@@ -9381,7 +9393,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "GbdBGLfq7m4BxznvfrkjwQ=="
+          "hash": "CiTWOS5adThe2QrKLbmehQ=="
         }
       },
       "is_incremental": false,
@@ -9456,7 +9468,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 780,
+          "total_file_count": 781,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

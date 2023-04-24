@@ -35008,6 +35008,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.Troll
   nameWithType: AllLegendSetup.Troll
+- uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Twilight
+  name: Twilight
+  href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Twilight
+  commentId: P:WarcraftLegacies.Source.Setup.AllLegendSetup.Twilight
+  fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.Twilight
+  nameWithType: AllLegendSetup.Twilight
+- uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Twilight*
+  name: Twilight
+  href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Twilight_
+  commentId: Overload:WarcraftLegacies.Source.Setup.AllLegendSetup.Twilight
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.Twilight
+  nameWithType: AllLegendSetup.Twilight
 - uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Warsong
   name: Warsong
   href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Warsong
@@ -37009,6 +37022,32 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendCthun.Cthun
   nameWithType: LegendCthun.Cthun
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendCthun.Moam
+  name: Moam
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.html#WarcraftLegacies_Source_Setup_Legends_LegendCthun_Moam
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendCthun.Moam
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendCthun.Moam
+  nameWithType: LegendCthun.Moam
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendCthun.Moam*
+  name: Moam
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.html#WarcraftLegacies_Source_Setup_Legends_LegendCthun_Moam_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendCthun.Moam
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendCthun.Moam
+  nameWithType: LegendCthun.Moam
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendCthun.Ouro
+  name: Ouro
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.html#WarcraftLegacies_Source_Setup_Legends_LegendCthun_Ouro
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendCthun.Ouro
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendCthun.Ouro
+  nameWithType: LegendCthun.Ouro
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendCthun.Ouro*
+  name: Ouro
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.html#WarcraftLegacies_Source_Setup_Legends_LegendCthun_Ouro_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendCthun.Ouro
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendCthun.Ouro
+  nameWithType: LegendCthun.Ouro
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendCthun.RegisterLegends
   name: RegisterLegends()
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.html#WarcraftLegacies_Source_Setup_Legends_LegendCthun_RegisterLegends
@@ -37022,6 +37061,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendCthun.RegisterLegends
   nameWithType: LegendCthun.RegisterLegends
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendCthun.Skeram
+  name: Skeram
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.html#WarcraftLegacies_Source_Setup_Legends_LegendCthun_Skeram
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendCthun.Skeram
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendCthun.Skeram
+  nameWithType: LegendCthun.Skeram
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendCthun.Skeram*
+  name: Skeram
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.html#WarcraftLegacies_Source_Setup_Legends_LegendCthun_Skeram_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendCthun.Skeram
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendCthun.Skeram
+  nameWithType: LegendCthun.Skeram
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDalaran
   name: LegendDalaran
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDalaran.html
@@ -39644,6 +39696,90 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendTroll.Zul
   nameWithType: LegendTroll.Zul
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTwilight
+  name: LegendTwilight
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.html
+  commentId: T:WarcraftLegacies.Source.Setup.Legends.LegendTwilight
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTwilight
+  nameWithType: LegendTwilight
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.#ctor
+  name: LegendTwilight()
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.html#WarcraftLegacies_Source_Setup_Legends_LegendTwilight__ctor
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendTwilight.#ctor
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.LegendTwilight()
+  nameWithType: LegendTwilight.LegendTwilight()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.#ctor*
+  name: LegendTwilight
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.html#WarcraftLegacies_Source_Setup_Legends_LegendTwilight__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendTwilight.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.LegendTwilight
+  nameWithType: LegendTwilight.LegendTwilight
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Azil
+  name: Azil
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.html#WarcraftLegacies_Source_Setup_Legends_LegendTwilight_Azil
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Azil
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Azil
+  nameWithType: LegendTwilight.Azil
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Azil*
+  name: Azil
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.html#WarcraftLegacies_Source_Setup_Legends_LegendTwilight_Azil_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Azil
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Azil
+  nameWithType: LegendTwilight.Azil
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Chogall
+  name: Chogall
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.html#WarcraftLegacies_Source_Setup_Legends_LegendTwilight_Chogall
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Chogall
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Chogall
+  nameWithType: LegendTwilight.Chogall
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Chogall*
+  name: Chogall
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.html#WarcraftLegacies_Source_Setup_Legends_LegendTwilight_Chogall_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Chogall
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Chogall
+  nameWithType: LegendTwilight.Chogall
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Emberscar
+  name: Emberscar
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.html#WarcraftLegacies_Source_Setup_Legends_LegendTwilight_Emberscar
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Emberscar
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Emberscar
+  nameWithType: LegendTwilight.Emberscar
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Emberscar*
+  name: Emberscar
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.html#WarcraftLegacies_Source_Setup_Legends_LegendTwilight_Emberscar_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Emberscar
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Emberscar
+  nameWithType: LegendTwilight.Emberscar
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Ignacious
+  name: Ignacious
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.html#WarcraftLegacies_Source_Setup_Legends_LegendTwilight_Ignacious
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Ignacious
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Ignacious
+  nameWithType: LegendTwilight.Ignacious
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Ignacious*
+  name: Ignacious
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.html#WarcraftLegacies_Source_Setup_Legends_LegendTwilight_Ignacious_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Ignacious
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.Ignacious
+  nameWithType: LegendTwilight.Ignacious
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.RegisterLegends
+  name: RegisterLegends()
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.html#WarcraftLegacies_Source_Setup_Legends_LegendTwilight_RegisterLegends
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendTwilight.RegisterLegends
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.RegisterLegends()
+  nameWithType: LegendTwilight.RegisterLegends()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.RegisterLegends*
+  name: RegisterLegends
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.html#WarcraftLegacies_Source_Setup_Legends_LegendTwilight_RegisterLegends_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendTwilight.RegisterLegends
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendTwilight.RegisterLegends
+  nameWithType: LegendTwilight.RegisterLegends
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendWarsong
   name: LegendWarsong
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html
