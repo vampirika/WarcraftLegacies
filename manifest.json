@@ -1557,7 +1557,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Team.html",
-          "hash": "eA+DIElsGUU+maVZcyzJyg=="
+          "hash": "NSwwsleO04Gs/eoQFgQHqw=="
         }
       },
       "is_incremental": false,
@@ -2145,7 +2145,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objective.html",
-          "hash": "8ElXIDWQjtEcC+ApWg5C5Q=="
+          "hash": "VtZmygw7U9YS9UdapWGnww=="
         }
       },
       "is_incremental": false,
@@ -2249,6 +2249,30 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountGreaterThan.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountGreaterThan.html",
+          "hash": "Diqmieh+Vzm0zg9BgzatZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountLessThan.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountLessThan.html",
+          "hash": "YiXzRZe4FaqkTjSB1eQiSw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionDefeated.yml",
       "output": {
         ".html": {
@@ -2277,7 +2301,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.FactionBased.html",
-          "hash": "V8bylkP7OX75zEYcsJ6M0w=="
+          "hash": "hX9mNChn8d9L7SlFoHcvQA=="
         }
       },
       "is_incremental": false,
@@ -2506,6 +2530,54 @@
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.QuestProgressChangedEventArgs.html",
           "hash": "2AoAEptFEtBnk2B02mySeQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.html",
+          "hash": "3gfESHj/OifV4BVyBamLZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.html",
+          "hash": "XJeahn2oKFuP+wUyCXaSKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamDefeated.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamDefeated.html",
+          "hash": "mV22Y9T3A9bofDiEO2qqQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.html",
+          "hash": "SHmUU9FMXR+gUapgndmnjg=="
         }
       },
       "is_incremental": false,
@@ -4293,7 +4365,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "qvZd7Wt54B9b3ZnLTnl+3g=="
+          "hash": "I80EfjXh/CMNoKEWBG1+EA=="
         }
       },
       "is_incremental": false,
@@ -5361,7 +5433,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestElfDead.html",
-          "hash": "byOC9csDFPI2rXgcRShXCA=="
+          "hash": "3XAQcYSHekopTZ8jiQNWXw=="
         }
       },
       "is_incremental": false,
@@ -5373,7 +5445,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestHordeDead.html",
-          "hash": "nDPi11I0bNbvuaSI1Tp12w=="
+          "hash": "wUqbdnofJz4mz9xOxxBEaQ=="
         }
       },
       "is_incremental": false,
@@ -5385,7 +5457,19 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestIllidariDead.html",
-          "hash": "JkRFipab82O+QjTI6tKa3A=="
+          "hash": "lSEuEiSL/folfrLkOKmjAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.html",
+          "hash": "H4wghOfgipqfiMIx1h53JA=="
         }
       },
       "is_incremental": false,
@@ -5409,7 +5493,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.html",
-          "hash": "2G1/9sR/3JBG3QfgqyNQhg=="
+          "hash": "F2dJk69ETNKEaZj7OlRtcQ=="
         }
       },
       "is_incremental": false,
@@ -5421,7 +5505,31 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestSADead.html",
-          "hash": "hPBeasXIvdUVIup7FMBCUw=="
+          "hash": "1w1du/mikjlo/RGK5P8N+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.html",
+          "hash": "H0R9SSSkQKhI+sOmmDwH2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.html",
+          "hash": "wP9GjPeTdP+/rESgtvHgpg=="
         }
       },
       "is_incremental": false,
@@ -5445,7 +5553,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.html",
-          "hash": "+pgOIboUohRcIwPoJMgSgg=="
+          "hash": "XMSrDYpuOtXCt1sJdvDibg=="
         }
       },
       "is_incremental": false,
@@ -8373,7 +8481,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html",
-          "hash": "uAmZJuPLDSKotCnA9TtXZg=="
+          "hash": "cOLoNDfRmdnCHzc1jmz7hA=="
         }
       },
       "is_incremental": false,
@@ -8385,7 +8493,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.html",
-          "hash": "NF/0SNWO43X+keWDD6QpWA=="
+          "hash": "sCB2Ygf1nu0fIMXZ4YlDMA=="
         }
       },
       "is_incremental": false,
@@ -8733,7 +8841,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.html",
-          "hash": "LVyMFMqg5UVdThcAAjr6Mw=="
+          "hash": "UBkorp4Po0JF5MUVO3zWog=="
         }
       },
       "is_incremental": false,
@@ -9441,7 +9549,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "KNHmsJjN5kBNi38uNvBrhg=="
+          "hash": "jEhUxDxnjnyZuNkKCjiHSw=="
         }
       },
       "is_incremental": false,
@@ -9516,7 +9624,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 785,
+          "total_file_count": 794,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

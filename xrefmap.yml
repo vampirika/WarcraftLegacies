@@ -9999,6 +9999,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Team.Team
   nameWithType: Team.Team
+- uid: MacroTools.FactionSystem.Team.AddControlPoint(MacroTools.ControlPointSystem.ControlPoint)
+  name: AddControlPoint(ControlPoint)
+  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_AddControlPoint_MacroTools_ControlPointSystem_ControlPoint_
+  commentId: M:MacroTools.FactionSystem.Team.AddControlPoint(MacroTools.ControlPointSystem.ControlPoint)
+  fullName: MacroTools.FactionSystem.Team.AddControlPoint(MacroTools.ControlPointSystem.ControlPoint)
+  nameWithType: Team.AddControlPoint(ControlPoint)
+- uid: MacroTools.FactionSystem.Team.AddControlPoint*
+  name: AddControlPoint
+  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_AddControlPoint_
+  commentId: Overload:MacroTools.FactionSystem.Team.AddControlPoint
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Team.AddControlPoint
+  nameWithType: Team.AddControlPoint
 - uid: MacroTools.FactionSystem.Team.Contains(player)
   name: Contains(player)
   href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_Contains_player_
@@ -10012,19 +10025,25 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Team.Contains
   nameWithType: Team.Contains
-- uid: MacroTools.FactionSystem.Team.ControlPointCount
-  name: ControlPointCount
-  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_ControlPointCount
-  commentId: P:MacroTools.FactionSystem.Team.ControlPointCount
-  fullName: MacroTools.FactionSystem.Team.ControlPointCount
-  nameWithType: Team.ControlPointCount
-- uid: MacroTools.FactionSystem.Team.ControlPointCount*
-  name: ControlPointCount
-  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_ControlPointCount_
-  commentId: Overload:MacroTools.FactionSystem.Team.ControlPointCount
+- uid: MacroTools.FactionSystem.Team.ControlPoints
+  name: ControlPoints
+  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_ControlPoints
+  commentId: P:MacroTools.FactionSystem.Team.ControlPoints
+  fullName: MacroTools.FactionSystem.Team.ControlPoints
+  nameWithType: Team.ControlPoints
+- uid: MacroTools.FactionSystem.Team.ControlPoints*
+  name: ControlPoints
+  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_ControlPoints_
+  commentId: Overload:MacroTools.FactionSystem.Team.ControlPoints
   isSpec: "True"
-  fullName: MacroTools.FactionSystem.Team.ControlPointCount
-  nameWithType: Team.ControlPointCount
+  fullName: MacroTools.FactionSystem.Team.ControlPoints
+  nameWithType: Team.ControlPoints
+- uid: MacroTools.FactionSystem.Team.ControlPointsChanged
+  name: ControlPointsChanged
+  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_ControlPointsChanged
+  commentId: E:MacroTools.FactionSystem.Team.ControlPointsChanged
+  fullName: MacroTools.FactionSystem.Team.ControlPointsChanged
+  nameWithType: Team.ControlPointsChanged
 - uid: MacroTools.FactionSystem.Team.DisplayText(System.String)
   name: DisplayText(String)
   href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_DisplayText_System_String_
@@ -10116,6 +10135,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Team.Name
   nameWithType: Team.Name
+- uid: MacroTools.FactionSystem.Team.RemoveControlPoint(MacroTools.ControlPointSystem.ControlPoint)
+  name: RemoveControlPoint(ControlPoint)
+  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_RemoveControlPoint_MacroTools_ControlPointSystem_ControlPoint_
+  commentId: M:MacroTools.FactionSystem.Team.RemoveControlPoint(MacroTools.ControlPointSystem.ControlPoint)
+  fullName: MacroTools.FactionSystem.Team.RemoveControlPoint(MacroTools.ControlPointSystem.ControlPoint)
+  nameWithType: Team.RemoveControlPoint(ControlPoint)
+- uid: MacroTools.FactionSystem.Team.RemoveControlPoint*
+  name: RemoveControlPoint
+  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_RemoveControlPoint_
+  commentId: Overload:MacroTools.FactionSystem.Team.RemoveControlPoint
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Team.RemoveControlPoint
+  nameWithType: Team.RemoveControlPoint
 - uid: MacroTools.FactionSystem.Team.Size
   name: Size
   href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_Size
@@ -12707,6 +12739,44 @@ references:
   commentId: N:MacroTools.ObjectiveSystem.Objectives.FactionBased
   fullName: MacroTools.ObjectiveSystem.Objectives.FactionBased
   nameWithType: MacroTools.ObjectiveSystem.Objectives.FactionBased
+- uid: MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountGreaterThan
+  name: ObjectiveFactionContolPointAmountGreaterThan
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountGreaterThan.html
+  commentId: T:MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountGreaterThan
+  fullName: MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountGreaterThan
+  nameWithType: ObjectiveFactionContolPointAmountGreaterThan
+- uid: MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountGreaterThan.#ctor(MacroTools.FactionSystem.Faction,System.Int32)
+  name: ObjectiveFactionContolPointAmountGreaterThan(Faction, Int32)
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountGreaterThan.html#MacroTools_ObjectiveSystem_Objectives_FactionBased_ObjectiveFactionContolPointAmountGreaterThan__ctor_MacroTools_FactionSystem_Faction_System_Int32_
+  commentId: M:MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountGreaterThan.#ctor(MacroTools.FactionSystem.Faction,System.Int32)
+  fullName: MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountGreaterThan.ObjectiveFactionContolPointAmountGreaterThan(MacroTools.FactionSystem.Faction, System.Int32)
+  nameWithType: ObjectiveFactionContolPointAmountGreaterThan.ObjectiveFactionContolPointAmountGreaterThan(Faction, Int32)
+- uid: MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountGreaterThan.#ctor*
+  name: ObjectiveFactionContolPointAmountGreaterThan
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountGreaterThan.html#MacroTools_ObjectiveSystem_Objectives_FactionBased_ObjectiveFactionContolPointAmountGreaterThan__ctor_
+  commentId: Overload:MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountGreaterThan.#ctor
+  isSpec: "True"
+  fullName: MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountGreaterThan.ObjectiveFactionContolPointAmountGreaterThan
+  nameWithType: ObjectiveFactionContolPointAmountGreaterThan.ObjectiveFactionContolPointAmountGreaterThan
+- uid: MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountLessThan
+  name: ObjectiveFactionContolPointAmountLessThan
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountLessThan.html
+  commentId: T:MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountLessThan
+  fullName: MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountLessThan
+  nameWithType: ObjectiveFactionContolPointAmountLessThan
+- uid: MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountLessThan.#ctor(MacroTools.FactionSystem.Faction,System.Int32)
+  name: ObjectiveFactionContolPointAmountLessThan(Faction, Int32)
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountLessThan.html#MacroTools_ObjectiveSystem_Objectives_FactionBased_ObjectiveFactionContolPointAmountLessThan__ctor_MacroTools_FactionSystem_Faction_System_Int32_
+  commentId: M:MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountLessThan.#ctor(MacroTools.FactionSystem.Faction,System.Int32)
+  fullName: MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountLessThan.ObjectiveFactionContolPointAmountLessThan(MacroTools.FactionSystem.Faction, System.Int32)
+  nameWithType: ObjectiveFactionContolPointAmountLessThan.ObjectiveFactionContolPointAmountLessThan(Faction, Int32)
+- uid: MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountLessThan.#ctor*
+  name: ObjectiveFactionContolPointAmountLessThan
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountLessThan.html#MacroTools_ObjectiveSystem_Objectives_FactionBased_ObjectiveFactionContolPointAmountLessThan__ctor_
+  commentId: Overload:MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountLessThan.#ctor
+  isSpec: "True"
+  fullName: MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionContolPointAmountLessThan.ObjectiveFactionContolPointAmountLessThan
+  nameWithType: ObjectiveFactionContolPointAmountLessThan.ObjectiveFactionContolPointAmountLessThan
 - uid: MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionDefeated
   name: ObjectiveFactionDefeated
   href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.FactionBased.ObjectiveFactionDefeated.html
@@ -13239,6 +13309,69 @@ references:
   isSpec: "True"
   fullName: MacroTools.ObjectiveSystem.Objectives.QuestProgressChangedEventArgs.Quest
   nameWithType: QuestProgressChangedEventArgs.Quest
+- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased
+  name: MacroTools.ObjectiveSystem.Objectives.TeamBased
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.html
+  commentId: N:MacroTools.ObjectiveSystem.Objectives.TeamBased
+  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased
+  nameWithType: MacroTools.ObjectiveSystem.Objectives.TeamBased
+- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan
+  name: ObjectiveTeamContolPointAmountGreaterThan
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.html
+  commentId: T:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan
+  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan
+  nameWithType: ObjectiveTeamContolPointAmountGreaterThan
+- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.#ctor(MacroTools.FactionSystem.Team,System.Int32)
+  name: ObjectiveTeamContolPointAmountGreaterThan(Team, Int32)
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.html#MacroTools_ObjectiveSystem_Objectives_TeamBased_ObjectiveTeamContolPointAmountGreaterThan__ctor_MacroTools_FactionSystem_Team_System_Int32_
+  commentId: M:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.#ctor(MacroTools.FactionSystem.Team,System.Int32)
+  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.ObjectiveTeamContolPointAmountGreaterThan(MacroTools.FactionSystem.Team, System.Int32)
+  nameWithType: ObjectiveTeamContolPointAmountGreaterThan.ObjectiveTeamContolPointAmountGreaterThan(Team, Int32)
+- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.#ctor*
+  name: ObjectiveTeamContolPointAmountGreaterThan
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.html#MacroTools_ObjectiveSystem_Objectives_TeamBased_ObjectiveTeamContolPointAmountGreaterThan__ctor_
+  commentId: Overload:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.#ctor
+  isSpec: "True"
+  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.ObjectiveTeamContolPointAmountGreaterThan
+  nameWithType: ObjectiveTeamContolPointAmountGreaterThan.ObjectiveTeamContolPointAmountGreaterThan
+- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan
+  name: ObjectiveTeamContolPointAmountLessThan
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.html
+  commentId: T:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan
+  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan
+  nameWithType: ObjectiveTeamContolPointAmountLessThan
+- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.#ctor(MacroTools.FactionSystem.Team,System.Int32)
+  name: ObjectiveTeamContolPointAmountLessThan(Team, Int32)
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.html#MacroTools_ObjectiveSystem_Objectives_TeamBased_ObjectiveTeamContolPointAmountLessThan__ctor_MacroTools_FactionSystem_Team_System_Int32_
+  commentId: M:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.#ctor(MacroTools.FactionSystem.Team,System.Int32)
+  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.ObjectiveTeamContolPointAmountLessThan(MacroTools.FactionSystem.Team, System.Int32)
+  nameWithType: ObjectiveTeamContolPointAmountLessThan.ObjectiveTeamContolPointAmountLessThan(Team, Int32)
+- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.#ctor*
+  name: ObjectiveTeamContolPointAmountLessThan
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.html#MacroTools_ObjectiveSystem_Objectives_TeamBased_ObjectiveTeamContolPointAmountLessThan__ctor_
+  commentId: Overload:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.#ctor
+  isSpec: "True"
+  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.ObjectiveTeamContolPointAmountLessThan
+  nameWithType: ObjectiveTeamContolPointAmountLessThan.ObjectiveTeamContolPointAmountLessThan
+- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamDefeated
+  name: ObjectiveTeamDefeated
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamDefeated.html
+  commentId: T:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamDefeated
+  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamDefeated
+  nameWithType: ObjectiveTeamDefeated
+- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamDefeated.#ctor(MacroTools.FactionSystem.Team)
+  name: ObjectiveTeamDefeated(Team)
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamDefeated.html#MacroTools_ObjectiveSystem_Objectives_TeamBased_ObjectiveTeamDefeated__ctor_MacroTools_FactionSystem_Team_
+  commentId: M:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamDefeated.#ctor(MacroTools.FactionSystem.Team)
+  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamDefeated.ObjectiveTeamDefeated(MacroTools.FactionSystem.Team)
+  nameWithType: ObjectiveTeamDefeated.ObjectiveTeamDefeated(Team)
+- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamDefeated.#ctor*
+  name: ObjectiveTeamDefeated
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamDefeated.html#MacroTools_ObjectiveSystem_Objectives_TeamBased_ObjectiveTeamDefeated__ctor_
+  commentId: Overload:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamDefeated.#ctor
+  isSpec: "True"
+  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamDefeated.ObjectiveTeamDefeated
+  nameWithType: ObjectiveTeamDefeated.ObjectiveTeamDefeated
 - uid: MacroTools.ObjectiveSystem.Objectives.TimeBased
   name: MacroTools.ObjectiveSystem.Objectives.TimeBased
   href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TimeBased.html
@@ -23915,6 +24048,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestElfDead.QuestElfDead
   nameWithType: QuestElfDead.QuestElfDead
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestElfDead.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestElfDead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestElfDead_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestElfDead.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestElfDead.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestElfDead.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestElfDead.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestElfDead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestElfDead_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestElfDead.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestElfDead.OnComplete
+  nameWithType: QuestElfDead.OnComplete
 - uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestElfDead.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestElfDead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestElfDead_RewardDescription
@@ -23960,6 +24106,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestHordeDead.QuestHordeDead
   nameWithType: QuestHordeDead.QuestHordeDead
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestHordeDead.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestHordeDead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestHordeDead_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestHordeDead.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestHordeDead.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestHordeDead.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestHordeDead.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestHordeDead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestHordeDead_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestHordeDead.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestHordeDead.OnComplete
+  nameWithType: QuestHordeDead.OnComplete
 - uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestHordeDead.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestHordeDead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestHordeDead_RewardDescription
@@ -24005,6 +24164,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestIllidariDead.QuestIllidariDead
   nameWithType: QuestIllidariDead.QuestIllidariDead
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestIllidariDead.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestIllidariDead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestIllidariDead_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestIllidariDead.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestIllidariDead.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestIllidariDead.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestIllidariDead.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestIllidariDead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestIllidariDead_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestIllidariDead.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestIllidariDead.OnComplete
+  nameWithType: QuestIllidariDead.OnComplete
 - uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestIllidariDead.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestIllidariDead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestIllidariDead_RewardDescription
@@ -24031,6 +24203,64 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestIllidariDead.RewardFlavour
   nameWithType: QuestIllidariDead.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead
+  name: QuestNADead
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.html
+  commentId: T:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead
+  nameWithType: QuestNADead
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.#ctor
+  name: QuestNADead()
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNADead__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.#ctor
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.QuestNADead()
+  nameWithType: QuestNADead.QuestNADead()
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.#ctor*
+  name: QuestNADead
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNADead__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.QuestNADead
+  nameWithType: QuestNADead.QuestNADead
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNADead_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestNADead.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNADead_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.OnComplete
+  nameWithType: QuestNADead.OnComplete
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNADead_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.RewardDescription
+  nameWithType: QuestNADead.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNADead_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.RewardDescription
+  nameWithType: QuestNADead.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNADead_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.RewardFlavour
+  nameWithType: QuestNADead.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNADead_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.RewardFlavour
+  nameWithType: QuestNADead.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn
   name: QuestNazjatarSpawn
   href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.html
@@ -24166,6 +24396,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestSADead.QuestSADead
   nameWithType: QuestSADead.QuestSADead
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestSADead.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestSADead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestSADead_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestSADead.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestSADead.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestSADead.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestSADead.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestSADead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestSADead_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestSADead.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestSADead.OnComplete
+  nameWithType: QuestSADead.OnComplete
 - uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestSADead.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestSADead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestSADead_RewardDescription
@@ -24192,6 +24435,122 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestSADead.RewardFlavour
   nameWithType: QuestSADead.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead
+  name: QuestScourgeDead
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.html
+  commentId: T:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead
+  nameWithType: QuestScourgeDead
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.#ctor
+  name: QuestScourgeDead()
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestScourgeDead__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.#ctor
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.QuestScourgeDead()
+  nameWithType: QuestScourgeDead.QuestScourgeDead()
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.#ctor*
+  name: QuestScourgeDead
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestScourgeDead__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.QuestScourgeDead
+  nameWithType: QuestScourgeDead.QuestScourgeDead
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestScourgeDead_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestScourgeDead.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestScourgeDead_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.OnComplete
+  nameWithType: QuestScourgeDead.OnComplete
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestScourgeDead_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.RewardDescription
+  nameWithType: QuestScourgeDead.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestScourgeDead_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.RewardDescription
+  nameWithType: QuestScourgeDead.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestScourgeDead_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.RewardFlavour
+  nameWithType: QuestScourgeDead.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestScourgeDead_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.RewardFlavour
+  nameWithType: QuestScourgeDead.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG
+  name: QuestTurn25OG
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.html
+  commentId: T:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG
+  nameWithType: QuestTurn25OG
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.#ctor
+  name: QuestTurn25OG()
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestTurn25OG__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.#ctor
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.QuestTurn25OG()
+  nameWithType: QuestTurn25OG.QuestTurn25OG()
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.#ctor*
+  name: QuestTurn25OG
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestTurn25OG__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.QuestTurn25OG
+  nameWithType: QuestTurn25OG.QuestTurn25OG
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestTurn25OG_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestTurn25OG.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestTurn25OG_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.OnComplete
+  nameWithType: QuestTurn25OG.OnComplete
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestTurn25OG_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.RewardDescription
+  nameWithType: QuestTurn25OG.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestTurn25OG_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.RewardDescription
+  nameWithType: QuestTurn25OG.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestTurn25OG_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.RewardFlavour
+  nameWithType: QuestTurn25OG.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestTurn25OG_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.RewardFlavour
+  nameWithType: QuestTurn25OG.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn
   name: QuestTwilightHammerSpawn
   href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.html
