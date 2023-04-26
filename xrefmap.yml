@@ -9999,19 +9999,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Team.Team
   nameWithType: Team.Team
-- uid: MacroTools.FactionSystem.Team.AddControlPoint(MacroTools.ControlPointSystem.ControlPoint)
-  name: AddControlPoint(ControlPoint)
-  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_AddControlPoint_MacroTools_ControlPointSystem_ControlPoint_
-  commentId: M:MacroTools.FactionSystem.Team.AddControlPoint(MacroTools.ControlPointSystem.ControlPoint)
-  fullName: MacroTools.FactionSystem.Team.AddControlPoint(MacroTools.ControlPointSystem.ControlPoint)
-  nameWithType: Team.AddControlPoint(ControlPoint)
-- uid: MacroTools.FactionSystem.Team.AddControlPoint*
-  name: AddControlPoint
-  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_AddControlPoint_
-  commentId: Overload:MacroTools.FactionSystem.Team.AddControlPoint
-  isSpec: "True"
-  fullName: MacroTools.FactionSystem.Team.AddControlPoint
-  nameWithType: Team.AddControlPoint
 - uid: MacroTools.FactionSystem.Team.Contains(player)
   name: Contains(player)
   href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_Contains_player_
@@ -10038,12 +10025,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Team.ControlPoints
   nameWithType: Team.ControlPoints
-- uid: MacroTools.FactionSystem.Team.ControlPointsChanged
-  name: ControlPointsChanged
-  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_ControlPointsChanged
-  commentId: E:MacroTools.FactionSystem.Team.ControlPointsChanged
-  fullName: MacroTools.FactionSystem.Team.ControlPointsChanged
-  nameWithType: Team.ControlPointsChanged
 - uid: MacroTools.FactionSystem.Team.DisplayText(System.String)
   name: DisplayText(String)
   href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_DisplayText_System_String_
@@ -10135,19 +10116,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Team.Name
   nameWithType: Team.Name
-- uid: MacroTools.FactionSystem.Team.RemoveControlPoint(MacroTools.ControlPointSystem.ControlPoint)
-  name: RemoveControlPoint(ControlPoint)
-  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_RemoveControlPoint_MacroTools_ControlPointSystem_ControlPoint_
-  commentId: M:MacroTools.FactionSystem.Team.RemoveControlPoint(MacroTools.ControlPointSystem.ControlPoint)
-  fullName: MacroTools.FactionSystem.Team.RemoveControlPoint(MacroTools.ControlPointSystem.ControlPoint)
-  nameWithType: Team.RemoveControlPoint(ControlPoint)
-- uid: MacroTools.FactionSystem.Team.RemoveControlPoint*
-  name: RemoveControlPoint
-  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_RemoveControlPoint_
-  commentId: Overload:MacroTools.FactionSystem.Team.RemoveControlPoint
-  isSpec: "True"
-  fullName: MacroTools.FactionSystem.Team.RemoveControlPoint
-  nameWithType: Team.RemoveControlPoint
 - uid: MacroTools.FactionSystem.Team.Size
   name: Size
   href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_Size
@@ -13315,44 +13283,44 @@ references:
   commentId: N:MacroTools.ObjectiveSystem.Objectives.TeamBased
   fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased
   nameWithType: MacroTools.ObjectiveSystem.Objectives.TeamBased
-- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan
-  name: ObjectiveTeamContolPointAmountGreaterThan
-  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.html
-  commentId: T:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan
-  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan
-  nameWithType: ObjectiveTeamContolPointAmountGreaterThan
-- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.#ctor(MacroTools.FactionSystem.Team,System.Int32)
-  name: ObjectiveTeamContolPointAmountGreaterThan(Team, Int32)
-  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.html#MacroTools_ObjectiveSystem_Objectives_TeamBased_ObjectiveTeamContolPointAmountGreaterThan__ctor_MacroTools_FactionSystem_Team_System_Int32_
-  commentId: M:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.#ctor(MacroTools.FactionSystem.Team,System.Int32)
-  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.ObjectiveTeamContolPointAmountGreaterThan(MacroTools.FactionSystem.Team, System.Int32)
-  nameWithType: ObjectiveTeamContolPointAmountGreaterThan.ObjectiveTeamContolPointAmountGreaterThan(Team, Int32)
-- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.#ctor*
-  name: ObjectiveTeamContolPointAmountGreaterThan
-  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.html#MacroTools_ObjectiveSystem_Objectives_TeamBased_ObjectiveTeamContolPointAmountGreaterThan__ctor_
-  commentId: Overload:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.#ctor
+- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountGreaterThan
+  name: ObjectiveTeamControlPointAmountGreaterThan
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountGreaterThan.html
+  commentId: T:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountGreaterThan
+  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountGreaterThan
+  nameWithType: ObjectiveTeamControlPointAmountGreaterThan
+- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountGreaterThan.#ctor(MacroTools.FactionSystem.Team,System.Int32)
+  name: ObjectiveTeamControlPointAmountGreaterThan(Team, Int32)
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountGreaterThan.html#MacroTools_ObjectiveSystem_Objectives_TeamBased_ObjectiveTeamControlPointAmountGreaterThan__ctor_MacroTools_FactionSystem_Team_System_Int32_
+  commentId: M:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountGreaterThan.#ctor(MacroTools.FactionSystem.Team,System.Int32)
+  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountGreaterThan.ObjectiveTeamControlPointAmountGreaterThan(MacroTools.FactionSystem.Team, System.Int32)
+  nameWithType: ObjectiveTeamControlPointAmountGreaterThan.ObjectiveTeamControlPointAmountGreaterThan(Team, Int32)
+- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountGreaterThan.#ctor*
+  name: ObjectiveTeamControlPointAmountGreaterThan
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountGreaterThan.html#MacroTools_ObjectiveSystem_Objectives_TeamBased_ObjectiveTeamControlPointAmountGreaterThan__ctor_
+  commentId: Overload:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountGreaterThan.#ctor
   isSpec: "True"
-  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.ObjectiveTeamContolPointAmountGreaterThan
-  nameWithType: ObjectiveTeamContolPointAmountGreaterThan.ObjectiveTeamContolPointAmountGreaterThan
-- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan
-  name: ObjectiveTeamContolPointAmountLessThan
-  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.html
-  commentId: T:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan
-  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan
-  nameWithType: ObjectiveTeamContolPointAmountLessThan
-- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.#ctor(MacroTools.FactionSystem.Team,System.Int32)
-  name: ObjectiveTeamContolPointAmountLessThan(Team, Int32)
-  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.html#MacroTools_ObjectiveSystem_Objectives_TeamBased_ObjectiveTeamContolPointAmountLessThan__ctor_MacroTools_FactionSystem_Team_System_Int32_
-  commentId: M:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.#ctor(MacroTools.FactionSystem.Team,System.Int32)
-  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.ObjectiveTeamContolPointAmountLessThan(MacroTools.FactionSystem.Team, System.Int32)
-  nameWithType: ObjectiveTeamContolPointAmountLessThan.ObjectiveTeamContolPointAmountLessThan(Team, Int32)
-- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.#ctor*
-  name: ObjectiveTeamContolPointAmountLessThan
-  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.html#MacroTools_ObjectiveSystem_Objectives_TeamBased_ObjectiveTeamContolPointAmountLessThan__ctor_
-  commentId: Overload:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.#ctor
+  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountGreaterThan.ObjectiveTeamControlPointAmountGreaterThan
+  nameWithType: ObjectiveTeamControlPointAmountGreaterThan.ObjectiveTeamControlPointAmountGreaterThan
+- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountLessThan
+  name: ObjectiveTeamControlPointAmountLessThan
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountLessThan.html
+  commentId: T:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountLessThan
+  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountLessThan
+  nameWithType: ObjectiveTeamControlPointAmountLessThan
+- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountLessThan.#ctor(MacroTools.FactionSystem.Team,System.Int32)
+  name: ObjectiveTeamControlPointAmountLessThan(Team, Int32)
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountLessThan.html#MacroTools_ObjectiveSystem_Objectives_TeamBased_ObjectiveTeamControlPointAmountLessThan__ctor_MacroTools_FactionSystem_Team_System_Int32_
+  commentId: M:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountLessThan.#ctor(MacroTools.FactionSystem.Team,System.Int32)
+  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountLessThan.ObjectiveTeamControlPointAmountLessThan(MacroTools.FactionSystem.Team, System.Int32)
+  nameWithType: ObjectiveTeamControlPointAmountLessThan.ObjectiveTeamControlPointAmountLessThan(Team, Int32)
+- uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountLessThan.#ctor*
+  name: ObjectiveTeamControlPointAmountLessThan
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountLessThan.html#MacroTools_ObjectiveSystem_Objectives_TeamBased_ObjectiveTeamControlPointAmountLessThan__ctor_
+  commentId: Overload:MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountLessThan.#ctor
   isSpec: "True"
-  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.ObjectiveTeamContolPointAmountLessThan
-  nameWithType: ObjectiveTeamContolPointAmountLessThan.ObjectiveTeamContolPointAmountLessThan
+  fullName: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountLessThan.ObjectiveTeamControlPointAmountLessThan
+  nameWithType: ObjectiveTeamControlPointAmountLessThan.ObjectiveTeamControlPointAmountLessThan
 - uid: MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamDefeated
   name: ObjectiveTeamDefeated
   href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamDefeated.html
@@ -23861,12 +23829,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain
   fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain
   nameWithType: QuestBlackEmpireSpawnCaptain
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  name: QuestBlackEmpireSpawnCaptain(PreplacedUnitSystem, Rectangle, LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnCaptain__ctor_MacroTools_PreplacedUnitSystem_Rectangle_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.QuestBlackEmpireSpawnCaptain(MacroTools.PreplacedUnitSystem, Rectangle, MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestBlackEmpireSpawnCaptain.QuestBlackEmpireSpawnCaptain(PreplacedUnitSystem, Rectangle, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestBlackEmpireSpawnCaptain(PreplacedUnitSystem, Rectangle, LegendaryHero, LegendaryHero, LegendaryHero, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnCaptain__ctor_MacroTools_PreplacedUnitSystem_Rectangle_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.QuestBlackEmpireSpawnCaptain(MacroTools.PreplacedUnitSystem, Rectangle, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestBlackEmpireSpawnCaptain.QuestBlackEmpireSpawnCaptain(PreplacedUnitSystem, Rectangle, LegendaryHero, LegendaryHero, LegendaryHero, LegendaryHero)
 - uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.#ctor*
   name: QuestBlackEmpireSpawnCaptain
   href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnCaptain__ctor_
@@ -23919,12 +23887,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman
   fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman
   nameWithType: QuestBlackEmpireSpawnFootman
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  name: QuestBlackEmpireSpawnFootman(PreplacedUnitSystem, Rectangle, LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnFootman__ctor_MacroTools_PreplacedUnitSystem_Rectangle_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.QuestBlackEmpireSpawnFootman(MacroTools.PreplacedUnitSystem, Rectangle, MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestBlackEmpireSpawnFootman.QuestBlackEmpireSpawnFootman(PreplacedUnitSystem, Rectangle, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestBlackEmpireSpawnFootman(PreplacedUnitSystem, Rectangle, LegendaryHero, LegendaryHero, LegendaryHero, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnFootman__ctor_MacroTools_PreplacedUnitSystem_Rectangle_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.QuestBlackEmpireSpawnFootman(MacroTools.PreplacedUnitSystem, Rectangle, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestBlackEmpireSpawnFootman.QuestBlackEmpireSpawnFootman(PreplacedUnitSystem, Rectangle, LegendaryHero, LegendaryHero, LegendaryHero, LegendaryHero)
 - uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.#ctor*
   name: QuestBlackEmpireSpawnFootman
   href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestBlackEmpireSpawnFootman__ctor_
@@ -23977,12 +23945,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn
   fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn
   nameWithType: QuestCthunSpawn
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  name: QuestCthunSpawn(PreplacedUnitSystem, Rectangle, LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestCthunSpawn__ctor_MacroTools_PreplacedUnitSystem_Rectangle_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.QuestCthunSpawn(MacroTools.PreplacedUnitSystem, Rectangle, MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestCthunSpawn.QuestCthunSpawn(PreplacedUnitSystem, Rectangle, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestCthunSpawn(PreplacedUnitSystem, Rectangle, LegendaryHero, LegendaryHero, LegendaryHero, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestCthunSpawn__ctor_MacroTools_PreplacedUnitSystem_Rectangle_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.QuestCthunSpawn(MacroTools.PreplacedUnitSystem, Rectangle, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestCthunSpawn.QuestCthunSpawn(PreplacedUnitSystem, Rectangle, LegendaryHero, LegendaryHero, LegendaryHero, LegendaryHero)
 - uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.#ctor*
   name: QuestCthunSpawn
   href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestCthunSpawn__ctor_
@@ -24267,12 +24235,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn
   fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn
   nameWithType: QuestNazjatarSpawn
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  name: QuestNazjatarSpawn(PreplacedUnitSystem, Rectangle, LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawn__ctor_MacroTools_PreplacedUnitSystem_Rectangle_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.QuestNazjatarSpawn(MacroTools.PreplacedUnitSystem, Rectangle, MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestNazjatarSpawn.QuestNazjatarSpawn(PreplacedUnitSystem, Rectangle, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestNazjatarSpawn(PreplacedUnitSystem, Rectangle, LegendaryHero, LegendaryHero, LegendaryHero, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawn__ctor_MacroTools_PreplacedUnitSystem_Rectangle_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.QuestNazjatarSpawn(MacroTools.PreplacedUnitSystem, Rectangle, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestNazjatarSpawn.QuestNazjatarSpawn(PreplacedUnitSystem, Rectangle, LegendaryHero, LegendaryHero, LegendaryHero, LegendaryHero)
 - uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.#ctor*
   name: QuestNazjatarSpawn
   href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestNazjatarSpawn__ctor_
@@ -24557,12 +24525,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn
   fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn
   nameWithType: QuestTwilightHammerSpawn
-- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  name: QuestTwilightHammerSpawn(PreplacedUnitSystem, Rectangle, LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestTwilightHammerSpawn__ctor_MacroTools_PreplacedUnitSystem_Rectangle_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.QuestTwilightHammerSpawn(MacroTools.PreplacedUnitSystem, Rectangle, MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestTwilightHammerSpawn.QuestTwilightHammerSpawn(PreplacedUnitSystem, Rectangle, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestTwilightHammerSpawn(PreplacedUnitSystem, Rectangle, LegendaryHero, LegendaryHero, LegendaryHero, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestTwilightHammerSpawn__ctor_MacroTools_PreplacedUnitSystem_Rectangle_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.#ctor(MacroTools.PreplacedUnitSystem,Rectangle,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.QuestTwilightHammerSpawn(MacroTools.PreplacedUnitSystem, Rectangle, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestTwilightHammerSpawn.QuestTwilightHammerSpawn(PreplacedUnitSystem, Rectangle, LegendaryHero, LegendaryHero, LegendaryHero, LegendaryHero)
 - uid: WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.#ctor*
   name: QuestTwilightHammerSpawn
   href: api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.html#WarcraftLegacies_Source_Quests_CrisisSpawn_QuestTwilightHammerSpawn__ctor_

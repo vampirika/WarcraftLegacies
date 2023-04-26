@@ -1557,7 +1557,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Team.html",
-          "hash": "NSwwsleO04Gs/eoQFgQHqw=="
+          "hash": "/U/roudpVMY+CydsDcZdBQ=="
         }
       },
       "is_incremental": false,
@@ -2145,7 +2145,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objective.html",
-          "hash": "VtZmygw7U9YS9UdapWGnww=="
+          "hash": "W4aOPedWaE/i7d/LCxu58g=="
         }
       },
       "is_incremental": false,
@@ -2537,11 +2537,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.yml",
+      "source_relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountGreaterThan.yml",
       "output": {
         ".html": {
-          "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountGreaterThan.html",
-          "hash": "3gfESHj/OifV4BVyBamLZA=="
+          "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountGreaterThan.html",
+          "hash": "N0GyAHydlI1jnNgt2HTung=="
         }
       },
       "is_incremental": false,
@@ -2549,11 +2549,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.yml",
+      "source_relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountLessThan.yml",
       "output": {
         ".html": {
-          "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamContolPointAmountLessThan.html",
-          "hash": "XJeahn2oKFuP+wUyCXaSKA=="
+          "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.ObjectiveTeamControlPointAmountLessThan.html",
+          "hash": "rwwhTPPrl2xfT2xU8oJ+mQ=="
         }
       },
       "is_incremental": false,
@@ -2577,7 +2577,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.TeamBased.html",
-          "hash": "SHmUU9FMXR+gUapgndmnjg=="
+          "hash": "qybZILpzhtie1H3M/41Nag=="
         }
       },
       "is_incremental": false,
@@ -4365,7 +4365,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "I80EfjXh/CMNoKEWBG1+EA=="
+          "hash": "WfqXG1UdiVcirFqpaZnGQA=="
         }
       },
       "is_incremental": false,
@@ -5397,7 +5397,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.html",
-          "hash": "bb3p9Fo0a5fxR99E1bYF7w=="
+          "hash": "uylvSZ/QwOG9Fdxx7omhUQ=="
         }
       },
       "is_incremental": false,
@@ -5409,7 +5409,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.html",
-          "hash": "3OcTv9afRsfZlazIHyhVWg=="
+          "hash": "VdCbz6SMovnm+CIHmqjdtw=="
         }
       },
       "is_incremental": false,
@@ -5421,7 +5421,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.html",
-          "hash": "mpvh8AGV1MGeZRlnDl4+jA=="
+          "hash": "h+Ww8Q9zYv86KdrTt+/Hkg=="
         }
       },
       "is_incremental": false,
@@ -5433,7 +5433,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestElfDead.html",
-          "hash": "3XAQcYSHekopTZ8jiQNWXw=="
+          "hash": "y9v/mRuHVNDcFgRjSfCMzA=="
         }
       },
       "is_incremental": false,
@@ -5445,7 +5445,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestHordeDead.html",
-          "hash": "wUqbdnofJz4mz9xOxxBEaQ=="
+          "hash": "PUBX2wmV04mg+k7NGqsDRA=="
         }
       },
       "is_incremental": false,
@@ -5457,7 +5457,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestIllidariDead.html",
-          "hash": "lSEuEiSL/folfrLkOKmjAQ=="
+          "hash": "drFFKGSvfpfDLCbg6GvJXQ=="
         }
       },
       "is_incremental": false,
@@ -5469,7 +5469,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.html",
-          "hash": "H4wghOfgipqfiMIx1h53JA=="
+          "hash": "cGCHlKvBaTIs8AvX70xQ4A=="
         }
       },
       "is_incremental": false,
@@ -5481,7 +5481,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.html",
-          "hash": "mgbhjawaiQiZ0MvlWPlEBw=="
+          "hash": "On3PEglwdKmZ1Zt/MhND0Q=="
         }
       },
       "is_incremental": false,
@@ -5505,7 +5505,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestSADead.html",
-          "hash": "1w1du/mikjlo/RGK5P8N+Q=="
+          "hash": "xP9pDX2O2syS6lwgLJmbOA=="
         }
       },
       "is_incremental": false,
@@ -5517,7 +5517,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.html",
-          "hash": "H0R9SSSkQKhI+sOmmDwH2g=="
+          "hash": "2X/mY/HG9GjjZRELieWPjg=="
         }
       },
       "is_incremental": false,
@@ -5541,7 +5541,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.html",
-          "hash": "ZSqNqGg8zCLz+5wMsB842g=="
+          "hash": "71eux2yL7ldIjBbSFBRe2Q=="
         }
       },
       "is_incremental": false,
