@@ -31276,12 +31276,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves
   fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves
   nameWithType: QuestTheBloodElves
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.#ctor(Rectangle,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero)
-  name: QuestTheBloodElves(Rectangle, Capital, Capital, LegendaryHero, LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTheBloodElves__ctor_Rectangle_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.#ctor(Rectangle,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.QuestTheBloodElves(Rectangle, MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestTheBloodElves.QuestTheBloodElves(Rectangle, Capital, Capital, LegendaryHero, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.#ctor(Rectangle,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestTheBloodElves(Rectangle, Capital, Capital, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTheBloodElves__ctor_Rectangle_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.#ctor(Rectangle,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.QuestTheBloodElves(Rectangle, MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestTheBloodElves.QuestTheBloodElves(Rectangle, Capital, Capital, LegendaryHero)
 - uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.#ctor*
   name: QuestTheBloodElves
   href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTheBloodElves__ctor_
