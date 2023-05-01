@@ -22584,6 +22584,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.HeroGlowFix.Setup
   nameWithType: HeroGlowFix.Setup
+- uid: WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue
+  name: IllidariSunfuryChoiceDialogue
+  href: api-source/WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.html
+  commentId: T:WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue
+  fullName: WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue
+  nameWithType: IllidariSunfuryChoiceDialogue
+- uid: WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_IllidariSunfuryChoiceDialogue_Setup
+  commentId: M:WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.Setup
+  fullName: WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.Setup()
+  nameWithType: IllidariSunfuryChoiceDialogue.Setup()
+- uid: WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_IllidariSunfuryChoiceDialogue_Setup_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.Setup
+  nameWithType: IllidariSunfuryChoiceDialogue.Setup
 - uid: WarcraftLegacies.Source.GameLogic.InfoQuests
   name: InfoQuests
   href: api-source/WarcraftLegacies.Source.GameLogic.InfoQuests.html
@@ -36614,6 +36633,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Stormwind
   nameWithType: FactionNames.Stormwind
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Sunfury
+  name: Sunfury
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_Sunfury
+  commentId: P:WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Sunfury
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Sunfury
+  nameWithType: FactionNames.Sunfury
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Sunfury*
+  name: Sunfury
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_Sunfury_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Sunfury
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.Sunfury
+  nameWithType: FactionNames.Sunfury
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.TwilightHammer
   name: TwilightHammer
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html#WarcraftLegacies_Source_Setup_FactionSetup_FactionNames_TwilightHammer
@@ -37197,6 +37229,38 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.StormwindSetup.Stormwind
   nameWithType: StormwindSetup.Stormwind
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup
+  name: SunfurySetup
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup
+  nameWithType: SunfurySetup
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.html#WarcraftLegacies_Source_Setup_FactionSetup_SunfurySetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: SunfurySetup.Setup(PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.html#WarcraftLegacies_Source_Setup_FactionSetup_SunfurySetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.Setup
+  nameWithType: SunfurySetup.Setup
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.Sunfury
+  name: Sunfury
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.html#WarcraftLegacies_Source_Setup_FactionSetup_SunfurySetup_Sunfury
+  commentId: P:WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.Sunfury
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.Sunfury
+  nameWithType: SunfurySetup.Sunfury
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.Sunfury*
+  name: Sunfury
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.html#WarcraftLegacies_Source_Setup_FactionSetup_SunfurySetup_Sunfury_
+  commentId: Overload:WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.Sunfury
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.Sunfury
+  nameWithType: SunfurySetup.Sunfury
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup
   name: TwilightHammerSetup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.html
@@ -41472,19 +41536,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.TeamSetup.Horde
   nameWithType: TeamSetup.Horde
-- uid: WarcraftLegacies.Source.Setup.TeamSetup.Illidari
-  name: Illidari
-  href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_Illidari
-  commentId: P:WarcraftLegacies.Source.Setup.TeamSetup.Illidari
-  fullName: WarcraftLegacies.Source.Setup.TeamSetup.Illidari
-  nameWithType: TeamSetup.Illidari
-- uid: WarcraftLegacies.Source.Setup.TeamSetup.Illidari*
-  name: Illidari
-  href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_Illidari_
-  commentId: Overload:WarcraftLegacies.Source.Setup.TeamSetup.Illidari
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.TeamSetup.Illidari
-  nameWithType: TeamSetup.Illidari
 - uid: WarcraftLegacies.Source.Setup.TeamSetup.Legion
   name: Legion
   href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_Legion
@@ -41537,6 +41588,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.TeamSetup.Oldgods
   nameWithType: TeamSetup.Oldgods
+- uid: WarcraftLegacies.Source.Setup.TeamSetup.Outland
+  name: Outland
+  href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_Outland
+  commentId: P:WarcraftLegacies.Source.Setup.TeamSetup.Outland
+  fullName: WarcraftLegacies.Source.Setup.TeamSetup.Outland
+  nameWithType: TeamSetup.Outland
+- uid: WarcraftLegacies.Source.Setup.TeamSetup.Outland*
+  name: Outland
+  href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_Outland_
+  commentId: Overload:WarcraftLegacies.Source.Setup.TeamSetup.Outland
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.TeamSetup.Outland
+  nameWithType: TeamSetup.Outland
 - uid: WarcraftLegacies.Source.Setup.TeamSetup.ScarletCrusade
   name: ScarletCrusade
   href: api-source/WarcraftLegacies.Source.Setup.TeamSetup.html#WarcraftLegacies_Source_Setup_TeamSetup_ScarletCrusade

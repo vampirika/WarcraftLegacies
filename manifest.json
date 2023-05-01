@@ -4841,6 +4841,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.html",
+          "hash": "23U0vnHRqnD5xj18C2Z0PA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.InfoQuests.yml",
       "output": {
         ".html": {
@@ -4965,7 +4977,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.html",
-          "hash": "ZMkwd7MASO6THWnixPAIPw=="
+          "hash": "6RnN2jFoP0EsAyaxvxCLuA=="
         }
       },
       "is_incremental": false,
@@ -8145,7 +8157,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html",
-          "hash": "PasUAjsuhNw1WB7BHgdc/g=="
+          "hash": "VJKfmS2KPfw3WYI8jX1fDQ=="
         }
       },
       "is_incremental": false,
@@ -8357,6 +8369,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.html",
+          "hash": "vhpw4+XerktF22cyHaRdzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.yml",
       "output": {
         ".html": {
@@ -8397,7 +8421,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.html",
-          "hash": "JY7Rk8ZtR24+m/9WwP9+wg=="
+          "hash": "wlrlXFWkymMdZKEshOu7Bg=="
         }
       },
       "is_incremental": false,
@@ -9417,7 +9441,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.TeamSetup.html",
-          "hash": "URnvwHYkuXnaSQ3MKHkJ5Q=="
+          "hash": "+Pr7zjB2ueWKPdNt7XIkAQ=="
         }
       },
       "is_incremental": false,
@@ -9549,7 +9573,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "jEhUxDxnjnyZuNkKCjiHSw=="
+          "hash": "xT9U6f8huLlwsf4fg0ijvg=="
         }
       },
       "is_incremental": false,
@@ -9624,7 +9648,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 794,
+          "total_file_count": 796,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
