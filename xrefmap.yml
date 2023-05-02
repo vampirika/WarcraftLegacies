@@ -18176,6 +18176,51 @@ references:
   isSpec: "True"
   fullName: MacroTools.Spells.ExactJustice.ExactJusticeSpell.Radius
   nameWithType: ExactJusticeSpell.Radius
+- uid: MacroTools.Spells.GoldOnCast
+  name: GoldOnCast
+  href: api-macroTools/MacroTools.Spells.GoldOnCast.html
+  commentId: T:MacroTools.Spells.GoldOnCast
+  fullName: MacroTools.Spells.GoldOnCast
+  nameWithType: GoldOnCast
+- uid: MacroTools.Spells.GoldOnCast.#ctor(System.Int32)
+  name: GoldOnCast(Int32)
+  href: api-macroTools/MacroTools.Spells.GoldOnCast.html#MacroTools_Spells_GoldOnCast__ctor_System_Int32_
+  commentId: M:MacroTools.Spells.GoldOnCast.#ctor(System.Int32)
+  fullName: MacroTools.Spells.GoldOnCast.GoldOnCast(System.Int32)
+  nameWithType: GoldOnCast.GoldOnCast(Int32)
+- uid: MacroTools.Spells.GoldOnCast.#ctor*
+  name: GoldOnCast
+  href: api-macroTools/MacroTools.Spells.GoldOnCast.html#MacroTools_Spells_GoldOnCast__ctor_
+  commentId: Overload:MacroTools.Spells.GoldOnCast.#ctor
+  isSpec: "True"
+  fullName: MacroTools.Spells.GoldOnCast.GoldOnCast
+  nameWithType: GoldOnCast.GoldOnCast
+- uid: MacroTools.Spells.GoldOnCast.GoldToGrant
+  name: GoldToGrant
+  href: api-macroTools/MacroTools.Spells.GoldOnCast.html#MacroTools_Spells_GoldOnCast_GoldToGrant
+  commentId: P:MacroTools.Spells.GoldOnCast.GoldToGrant
+  fullName: MacroTools.Spells.GoldOnCast.GoldToGrant
+  nameWithType: GoldOnCast.GoldToGrant
+- uid: MacroTools.Spells.GoldOnCast.GoldToGrant*
+  name: GoldToGrant
+  href: api-macroTools/MacroTools.Spells.GoldOnCast.html#MacroTools_Spells_GoldOnCast_GoldToGrant_
+  commentId: Overload:MacroTools.Spells.GoldOnCast.GoldToGrant
+  isSpec: "True"
+  fullName: MacroTools.Spells.GoldOnCast.GoldToGrant
+  nameWithType: GoldOnCast.GoldToGrant
+- uid: MacroTools.Spells.GoldOnCast.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/MacroTools.Spells.GoldOnCast.html#MacroTools_Spells_GoldOnCast_OnCast_unit_unit_Point_
+  commentId: M:MacroTools.Spells.GoldOnCast.OnCast(unit,unit,Point)
+  fullName: MacroTools.Spells.GoldOnCast.OnCast(unit, unit, Point)
+  nameWithType: GoldOnCast.OnCast(unit, unit, Point)
+- uid: MacroTools.Spells.GoldOnCast.OnCast*
+  name: OnCast
+  href: api-macroTools/MacroTools.Spells.GoldOnCast.html#MacroTools_Spells_GoldOnCast_OnCast_
+  commentId: Overload:MacroTools.Spells.GoldOnCast.OnCast
+  isSpec: "True"
+  fullName: MacroTools.Spells.GoldOnCast.OnCast
+  nameWithType: GoldOnCast.OnCast
 - uid: MacroTools.Spells.GrantMana
   name: GrantMana
   href: api-macroTools/MacroTools.Spells.GrantMana.html
@@ -29005,6 +29050,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.OnComplete
   nameWithType: QuestHighBank.OnComplete
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.OnFail(MacroTools.FactionSystem.Faction)
+  name: OnFail(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.html#WarcraftLegacies_Source_Quests_KulTiras_QuestHighBank_OnFail_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.OnFail(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.OnFail(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestHighBank.OnFail(Faction)
+- uid: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.OnFail*
+  name: OnFail
+  href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.html#WarcraftLegacies_Source_Quests_KulTiras_QuestHighBank_OnFail_
+  commentId: Overload:WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.OnFail
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.OnFail
+  nameWithType: QuestHighBank.OnFail
 - uid: WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.html#WarcraftLegacies_Source_Quests_KulTiras_QuestHighBank_RewardDescription

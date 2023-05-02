@@ -3645,7 +3645,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.SpellSystem.Spell.html",
-          "hash": "ynftN+x1IIuRF2t5azgCDw=="
+          "hash": "RnHQ+k8K+mMSMp7yRq1haw=="
         }
       },
       "is_incremental": false,
@@ -3838,6 +3838,18 @@
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Spells.ExactJustice.html",
           "hash": "JEN2/swdi+6Pn4UwNkzeMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Spells.GoldOnCast.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Spells.GoldOnCast.html",
+          "hash": "t4ERRUn5z3Dq8yW/x99cgw=="
         }
       },
       "is_incremental": false,
@@ -4149,7 +4161,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Spells.html",
-          "hash": "0/V3W0Kbn4UGym2wSoBkbw=="
+          "hash": "YHPQOHmwmItysQSiBDvb+w=="
         }
       },
       "is_incremental": false,
@@ -4365,7 +4377,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "WfqXG1UdiVcirFqpaZnGQA=="
+          "hash": "h2DLtbVju/mE9QiGvcBeMQ=="
         }
       },
       "is_incremental": false,
@@ -4869,7 +4881,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.OpenAllianceVote.html",
-          "hash": "me1t66uUh8eNzFX8OSeG1A=="
+          "hash": "HbJDKdJpy9Nf/J5ccWeRHA=="
         }
       },
       "is_incremental": false,
@@ -6489,7 +6501,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestHighBank.html",
-          "hash": "EDjL3iLSd1IX7uV74H+MQw=="
+          "hash": "eQFMcRQc5+/bE3KvyPS3yA=="
         }
       },
       "is_incremental": false,
@@ -8121,7 +8133,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.DraeneiSetup.html",
-          "hash": "SnXATneBOIO/W11irKp/0w=="
+          "hash": "xqMbI5by+r9zGFsVqZOz8Q=="
         }
       },
       "is_incremental": false,
@@ -9648,7 +9660,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 796,
+          "total_file_count": 797,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
