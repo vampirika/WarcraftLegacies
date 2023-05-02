@@ -5409,7 +5409,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.html",
-          "hash": "uylvSZ/QwOG9Fdxx7omhUQ=="
+          "hash": "9nHLXzuv/CrmWVSQNcMvtQ=="
         }
       },
       "is_incremental": false,
@@ -5421,7 +5421,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.html",
-          "hash": "VdCbz6SMovnm+CIHmqjdtw=="
+          "hash": "hqQ+cd4myRrTRpLLSA7DXw=="
         }
       },
       "is_incremental": false,
@@ -5433,7 +5433,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.html",
-          "hash": "h+Ww8Q9zYv86KdrTt+/Hkg=="
+          "hash": "0w9BuUBRK/KPLEjCuDMuVA=="
         }
       },
       "is_incremental": false,
@@ -5493,7 +5493,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.html",
-          "hash": "On3PEglwdKmZ1Zt/MhND0Q=="
+          "hash": "JQ/9SCm2ACrRCNnGwume4g=="
         }
       },
       "is_incremental": false,
@@ -5553,7 +5553,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.html",
-          "hash": "71eux2yL7ldIjBbSFBRe2Q=="
+          "hash": "pLzJzLa8qapJt6rkoLJJUA=="
         }
       },
       "is_incremental": false,
@@ -5566,6 +5566,18 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.html",
           "hash": "XMSrDYpuOtXCt1sJdvDibg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.html",
+          "hash": "1T4KnW1HwOJ0SCFTP1GrQA=="
         }
       },
       "is_incremental": false,
@@ -5697,7 +5709,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dalaran.html",
-          "hash": "d+r7IWS83/sLzRkQ/FlTMw=="
+          "hash": "dWEnJ8hv1Dd0BopiUlA4Fg=="
         }
       },
       "is_incremental": false,
@@ -6837,7 +6849,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Naga.QuestFlameAndSorrow.html",
-          "hash": "squJd5XWF9iynCT3E2cpDA=="
+          "hash": "PBsAYOoDokmpXXDgcG9szg=="
         }
       },
       "is_incremental": false,
@@ -7030,18 +7042,6 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestRagnaros.html",
           "hash": "uJwtyWmwXU/YABB6DykzEg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html",
-          "hash": "/elU92URnSZ75DbH+sc12w=="
         }
       },
       "is_incremental": false,
@@ -7665,7 +7665,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.html",
-          "hash": "Vr1sNsCrH7jSSoQw2R5suw=="
+          "hash": "QLPrFwdTiG2ne2reJF8+dA=="
         }
       },
       "is_incremental": false,
@@ -9573,7 +9573,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "xT9U6f8huLlwsf4fg0ijvg=="
+          "hash": "4Y8PMUqvR8lp+2+CLHZJPg=="
         }
       },
       "is_incremental": false,

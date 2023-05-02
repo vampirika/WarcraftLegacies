@@ -24602,6 +24602,51 @@ references:
   commentId: N:WarcraftLegacies.Source.Quests.Dalaran
   fullName: WarcraftLegacies.Source.Quests.Dalaran
   nameWithType: WarcraftLegacies.Source.Quests.Dalaran
+- uid: WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn
+  name: QuestAegwynn
+  href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.html
+  commentId: T:WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn
+  fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn
+  nameWithType: QuestAegwynn
+- uid: WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.#ctor(MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestAegwynn(LegendaryHero, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.html#WarcraftLegacies_Source_Quests_Dalaran_QuestAegwynn__ctor_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.#ctor(MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.QuestAegwynn(MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestAegwynn.QuestAegwynn(LegendaryHero, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.#ctor*
+  name: QuestAegwynn
+  href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.html#WarcraftLegacies_Source_Quests_Dalaran_QuestAegwynn__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.QuestAegwynn
+  nameWithType: QuestAegwynn.QuestAegwynn
+- uid: WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.html#WarcraftLegacies_Source_Quests_Dalaran_QuestAegwynn_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.RewardDescription
+  nameWithType: QuestAegwynn.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.html#WarcraftLegacies_Source_Quests_Dalaran_QuestAegwynn_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.RewardDescription
+  nameWithType: QuestAegwynn.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.html#WarcraftLegacies_Source_Quests_Dalaran_QuestAegwynn_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.RewardFlavour
+  nameWithType: QuestAegwynn.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.html#WarcraftLegacies_Source_Quests_Dalaran_QuestAegwynn_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.RewardFlavour
+  nameWithType: QuestAegwynn.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Dalaran.QuestBlueDragons
   name: QuestBlueDragons
   href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestBlueDragons.html
@@ -31631,77 +31676,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.QuestRagnaros.RewardFlavour
   nameWithType: QuestRagnaros.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan
-  name: QuestSkullOfGuldan
-  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html
-  commentId: T:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan
-  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan
-  nameWithType: QuestSkullOfGuldan
-- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.#ctor(MacroTools.LegendSystem.Capital,unit,System.Boolean,MacroTools.ArtifactSystem.Artifact)
-  name: QuestSkullOfGuldan(Capital, unit, Boolean, Artifact)
-  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan__ctor_MacroTools_LegendSystem_Capital_unit_System_Boolean_MacroTools_ArtifactSystem_Artifact_
-  commentId: M:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.#ctor(MacroTools.LegendSystem.Capital,unit,System.Boolean,MacroTools.ArtifactSystem.Artifact)
-  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.QuestSkullOfGuldan(MacroTools.LegendSystem.Capital, unit, System.Boolean, MacroTools.ArtifactSystem.Artifact)
-  nameWithType: QuestSkullOfGuldan.QuestSkullOfGuldan(Capital, unit, Boolean, Artifact)
-- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.#ctor*
-  name: QuestSkullOfGuldan
-  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan__ctor_
-  commentId: Overload:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.QuestSkullOfGuldan
-  nameWithType: QuestSkullOfGuldan.QuestSkullOfGuldan
-- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestSkullOfGuldan.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.OnComplete
-  nameWithType: QuestSkullOfGuldan.OnComplete
-- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.PenaltyFlavour
-  name: PenaltyFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan_PenaltyFlavour
-  commentId: P:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.PenaltyFlavour
-  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.PenaltyFlavour
-  nameWithType: QuestSkullOfGuldan.PenaltyFlavour
-- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.PenaltyFlavour*
-  name: PenaltyFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan_PenaltyFlavour_
-  commentId: Overload:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.PenaltyFlavour
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.PenaltyFlavour
-  nameWithType: QuestSkullOfGuldan.PenaltyFlavour
-- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.RewardDescription
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan_RewardDescription
-  commentId: P:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.RewardDescription
-  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.RewardDescription
-  nameWithType: QuestSkullOfGuldan.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.RewardDescription*
-  name: RewardDescription
-  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan_RewardDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.RewardDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.RewardDescription
-  nameWithType: QuestSkullOfGuldan.RewardDescription
-- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.RewardFlavour
-  name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan_RewardFlavour
-  commentId: P:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.RewardFlavour
-  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.RewardFlavour
-  nameWithType: QuestSkullOfGuldan.RewardFlavour
-- uid: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.RewardFlavour*
-  name: RewardFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.html#WarcraftLegacies_Source_Quests_QuestSkullOfGuldan_RewardFlavour_
-  commentId: Overload:WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.RewardFlavour
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.QuestSkullOfGuldan.RewardFlavour
-  nameWithType: QuestSkullOfGuldan.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.QuestTombOfSargeras
   name: QuestTombOfSargeras
   href: api-source/WarcraftLegacies.Source.Quests.QuestTombOfSargeras.html
