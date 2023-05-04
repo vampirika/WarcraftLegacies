@@ -33816,6 +33816,83 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestStromgarde.RewardFlavour
   nameWithType: QuestStromgarde.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Sunfury
+  name: WarcraftLegacies.Source.Quests.Sunfury
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.html
+  commentId: N:WarcraftLegacies.Source.Quests.Sunfury
+  fullName: WarcraftLegacies.Source.Quests.Sunfury
+  nameWithType: WarcraftLegacies.Source.Quests.Sunfury
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep
+  name: QuestTempestKeep
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.html
+  commentId: T:WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep
+  nameWithType: QuestTempestKeep
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.#ctor(Rectangle,Rectangle,Rectangle,Rectangle)
+  name: QuestTempestKeep(Rectangle, Rectangle, Rectangle, Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.html#WarcraftLegacies_Source_Quests_Sunfury_QuestTempestKeep__ctor_Rectangle_Rectangle_Rectangle_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.#ctor(Rectangle,Rectangle,Rectangle,Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.QuestTempestKeep(Rectangle, Rectangle, Rectangle, Rectangle)
+  nameWithType: QuestTempestKeep.QuestTempestKeep(Rectangle, Rectangle, Rectangle, Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.#ctor*
+  name: QuestTempestKeep
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.html#WarcraftLegacies_Source_Quests_Sunfury_QuestTempestKeep__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.QuestTempestKeep
+  nameWithType: QuestTempestKeep.QuestTempestKeep
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.html#WarcraftLegacies_Source_Quests_Sunfury_QuestTempestKeep_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestTempestKeep.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.html#WarcraftLegacies_Source_Quests_Sunfury_QuestTempestKeep_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.OnComplete
+  nameWithType: QuestTempestKeep.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.OnFail(MacroTools.FactionSystem.Faction)
+  name: OnFail(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.html#WarcraftLegacies_Source_Quests_Sunfury_QuestTempestKeep_OnFail_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.OnFail(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.OnFail(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestTempestKeep.OnFail(Faction)
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.OnFail*
+  name: OnFail
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.html#WarcraftLegacies_Source_Quests_Sunfury_QuestTempestKeep_OnFail_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.OnFail
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.OnFail
+  nameWithType: QuestTempestKeep.OnFail
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.html#WarcraftLegacies_Source_Quests_Sunfury_QuestTempestKeep_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.RewardDescription
+  nameWithType: QuestTempestKeep.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.html#WarcraftLegacies_Source_Quests_Sunfury_QuestTempestKeep_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.RewardDescription
+  nameWithType: QuestTempestKeep.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.html#WarcraftLegacies_Source_Quests_Sunfury_QuestTempestKeep_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.RewardFlavour
+  nameWithType: QuestTempestKeep.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.html#WarcraftLegacies_Source_Quests_Sunfury_QuestTempestKeep_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.RewardFlavour
+  nameWithType: QuestTempestKeep.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Warsong
   name: WarcraftLegacies.Source.Quests.Warsong
   href: api-source/WarcraftLegacies.Source.Quests.Warsong.html
@@ -40965,6 +41042,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.StormwindQuestSetup.Setup
   nameWithType: StormwindQuestSetup.Setup
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup
+  name: SunfuryQuestSetup
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.html
+  commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup
+  nameWithType: SunfuryQuestSetup
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
+  name: Setup(PreplacedUnitSystem, AllLegendSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_SunfuryQuestSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_AllLegendSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.AllLegendSetup)
+  nameWithType: SunfuryQuestSetup.Setup(PreplacedUnitSystem, AllLegendSetup)
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_SunfuryQuestSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.Setup
+  nameWithType: SunfuryQuestSetup.Setup
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup
   name: WarsongQuestSetup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.html

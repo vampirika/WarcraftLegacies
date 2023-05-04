@@ -6957,7 +6957,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueensArchive.html",
-          "hash": "OJWyqxGiaC4AdNlnEpDbyQ=="
+          "hash": "nxlKhCDDIHEGFjZ7vFxv7Q=="
         }
       },
       "is_incremental": false,
@@ -7450,6 +7450,30 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Stormwind.html",
           "hash": "bNeSlTC4P0Y+i0Ck2h6z5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.html",
+          "hash": "ANySR4zoP8lFvA7YRSgStg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.html",
+          "hash": "evw7APFmxOgZbd5zDB8IrQ=="
         }
       },
       "is_incremental": false,
@@ -9101,6 +9125,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.html",
+          "hash": "llP5R4v8qBLCPmpQtzp+rg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.WarsongQuestSetup.yml",
       "output": {
         ".html": {
@@ -9129,7 +9165,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.html",
-          "hash": "k1NSBBCDCa+xvbpIl3qKmQ=="
+          "hash": "eGBu60GfljpurN27lPIyzw=="
         }
       },
       "is_incremental": false,
@@ -9585,7 +9621,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "4Y8PMUqvR8lp+2+CLHZJPg=="
+          "hash": "VAIuWHHciZAxavCJYAEMDg=="
         }
       },
       "is_incremental": false,
@@ -9660,7 +9696,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 797,
+          "total_file_count": 800,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
