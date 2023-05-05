@@ -33809,6 +33809,51 @@ references:
   commentId: N:WarcraftLegacies.Source.Quests.Sunfury
   fullName: WarcraftLegacies.Source.Quests.Sunfury
   nameWithType: WarcraftLegacies.Source.Quests.Sunfury
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian
+  name: QuestSolarian
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.html
+  commentId: T:WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian
+  nameWithType: QuestSolarian
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.#ctor(MacroTools.ArtifactSystem.Artifact)
+  name: QuestSolarian(Artifact)
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.html#WarcraftLegacies_Source_Quests_Sunfury_QuestSolarian__ctor_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.#ctor(MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.QuestSolarian(MacroTools.ArtifactSystem.Artifact)
+  nameWithType: QuestSolarian.QuestSolarian(Artifact)
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.#ctor*
+  name: QuestSolarian
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.html#WarcraftLegacies_Source_Quests_Sunfury_QuestSolarian__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.QuestSolarian
+  nameWithType: QuestSolarian.QuestSolarian
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.html#WarcraftLegacies_Source_Quests_Sunfury_QuestSolarian_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.RewardDescription
+  nameWithType: QuestSolarian.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.html#WarcraftLegacies_Source_Quests_Sunfury_QuestSolarian_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.RewardDescription
+  nameWithType: QuestSolarian.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.html#WarcraftLegacies_Source_Quests_Sunfury_QuestSolarian_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.RewardFlavour
+  nameWithType: QuestSolarian.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.html#WarcraftLegacies_Source_Quests_Sunfury_QuestSolarian_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.RewardFlavour
+  nameWithType: QuestSolarian.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil
   name: QuestSummonKil
   href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.html
@@ -35907,6 +35952,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.EmeraldFragment
   nameWithType: ArtifactSetup.EmeraldFragment
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.EssenceofMurmur
+  name: EssenceofMurmur
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_EssenceofMurmur
+  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.EssenceofMurmur
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.EssenceofMurmur
+  nameWithType: ArtifactSetup.EssenceofMurmur
+- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.EssenceofMurmur*
+  name: EssenceofMurmur
+  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_EssenceofMurmur_
+  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.EssenceofMurmur
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.EssenceofMurmur
+  nameWithType: ArtifactSetup.EssenceofMurmur
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.EyeOfSargeras
   name: EyeOfSargeras
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_EyeOfSargeras
@@ -41151,12 +41209,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup
   nameWithType: SunfuryQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
-  name: Setup(PreplacedUnitSystem, AllLegendSetup)
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_SunfuryQuestSetup_Setup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_AllLegendSetup_
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.Setup(MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.Setup(MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.AllLegendSetup)
-  nameWithType: SunfuryQuestSetup.Setup(PreplacedUnitSystem, AllLegendSetup)
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup,MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
+  name: Setup(ArtifactSetup, PreplacedUnitSystem, AllLegendSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_SunfuryQuestSetup_Setup_WarcraftLegacies_Source_Setup_ArtifactSetup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_AllLegendSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup,MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup, MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.AllLegendSetup)
+  nameWithType: SunfuryQuestSetup.Setup(ArtifactSetup, PreplacedUnitSystem, AllLegendSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_SunfuryQuestSetup_Setup_

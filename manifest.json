@@ -7457,6 +7457,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.html",
+          "hash": "dfasS0mgJEYYpsQ0sZsOOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.yml",
       "output": {
         ".html": {
@@ -7497,7 +7509,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.html",
-          "hash": "kDNy2kF+oowIfaW8+lc8vw=="
+          "hash": "CgwQ2kK6iArq1ZwP+whb6A=="
         }
       },
       "is_incremental": false,
@@ -7965,7 +7977,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html",
-          "hash": "sjKyrIQ1UaM6ujrucben5w=="
+          "hash": "axdzPfbA9pAYoUvNH8vdpg=="
         }
       },
       "is_incremental": false,
@@ -9153,7 +9165,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.html",
-          "hash": "llP5R4v8qBLCPmpQtzp+rg=="
+          "hash": "HwuVHswBJfIdX8kov4NFPA=="
         }
       },
       "is_incremental": false,
@@ -9645,7 +9657,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "jto+bG6ykbUNVvATRuAxuQ=="
+          "hash": "/EVBwMmDvooiXBEYii+rew=="
         }
       },
       "is_incremental": false,
@@ -9720,7 +9732,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 802,
+          "total_file_count": 803,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
