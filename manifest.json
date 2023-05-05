@@ -7473,7 +7473,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.html",
-          "hash": "h4TOWhBW5xAWHJ4ZLrSxSg=="
+          "hash": "2mEMogZtB7wMloNgmRowsQ=="
         }
       },
       "is_incremental": false,
@@ -7517,6 +7517,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.html",
+          "hash": "yMOywa+g2lNFybedYMX0Mw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.yml",
       "output": {
         ".html": {
@@ -7533,7 +7545,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.html",
-          "hash": "K1MJ+IYIANEpJNMRHSVowQ=="
+          "hash": "LqAtKxoSi3d9+rlbdhuo2A=="
         }
       },
       "is_incremental": false,
@@ -9681,7 +9693,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "V9zqqJmBftRBoEL5mGkCAQ=="
+          "hash": "8xgZV8DXbg3ineAoJyRdXA=="
         }
       },
       "is_incremental": false,
@@ -9756,7 +9768,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 805,
+          "total_file_count": 806,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

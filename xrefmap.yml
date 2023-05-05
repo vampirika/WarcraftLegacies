@@ -34102,6 +34102,64 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.RewardFlavour
   nameWithType: QuestTempestKeep.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm
+  name: QuestUpperNetherstorm
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.html
+  commentId: T:WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm
+  nameWithType: QuestUpperNetherstorm
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.#ctor(Rectangle)
+  name: QuestUpperNetherstorm(Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.html#WarcraftLegacies_Source_Quests_Sunfury_QuestUpperNetherstorm__ctor_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.#ctor(Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.QuestUpperNetherstorm(Rectangle)
+  nameWithType: QuestUpperNetherstorm.QuestUpperNetherstorm(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.#ctor*
+  name: QuestUpperNetherstorm
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.html#WarcraftLegacies_Source_Quests_Sunfury_QuestUpperNetherstorm__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.QuestUpperNetherstorm
+  nameWithType: QuestUpperNetherstorm.QuestUpperNetherstorm
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.html#WarcraftLegacies_Source_Quests_Sunfury_QuestUpperNetherstorm_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestUpperNetherstorm.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.html#WarcraftLegacies_Source_Quests_Sunfury_QuestUpperNetherstorm_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.OnComplete
+  nameWithType: QuestUpperNetherstorm.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.html#WarcraftLegacies_Source_Quests_Sunfury_QuestUpperNetherstorm_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.RewardDescription
+  nameWithType: QuestUpperNetherstorm.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.html#WarcraftLegacies_Source_Quests_Sunfury_QuestUpperNetherstorm_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.RewardDescription
+  nameWithType: QuestUpperNetherstorm.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.html#WarcraftLegacies_Source_Quests_Sunfury_QuestUpperNetherstorm_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.RewardFlavour
+  nameWithType: QuestUpperNetherstorm.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.html#WarcraftLegacies_Source_Quests_Sunfury_QuestUpperNetherstorm_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.RewardFlavour
+  nameWithType: QuestUpperNetherstorm.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity
   name: QuestWellOfEternity
   href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.html
