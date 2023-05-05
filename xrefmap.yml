@@ -32423,6 +32423,67 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Scourge.QuestSapphiron.RewardFlavour
   nameWithType: QuestSapphiron.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron
+  name: QuestScouringofLordaeron
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.html
+  commentId: T:WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron
+  nameWithType: QuestScouringofLordaeron
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.#ctor(IEnumerable{MacroTools.LegendSystem.Capital},MacroTools.LegendSystem.LegendaryHero)
+  name: QuestScouringofLordaeron(IEnumerable<Capital>, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.html#WarcraftLegacies_Source_Quests_Scourge_QuestScouringofLordaeron__ctor_IEnumerable_MacroTools_LegendSystem_Capital__MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.#ctor(IEnumerable{MacroTools.LegendSystem.Capital},MacroTools.LegendSystem.LegendaryHero)
+  name.vb: QuestScouringofLordaeron(IEnumerable(Of Capital), LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.QuestScouringofLordaeron(IEnumerable<MacroTools.LegendSystem.Capital>, MacroTools.LegendSystem.LegendaryHero)
+  fullName.vb: WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.QuestScouringofLordaeron(IEnumerable(Of MacroTools.LegendSystem.Capital), MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestScouringofLordaeron.QuestScouringofLordaeron(IEnumerable<Capital>, LegendaryHero)
+  nameWithType.vb: QuestScouringofLordaeron.QuestScouringofLordaeron(IEnumerable(Of Capital), LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.#ctor*
+  name: QuestScouringofLordaeron
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.html#WarcraftLegacies_Source_Quests_Scourge_QuestScouringofLordaeron__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.QuestScouringofLordaeron
+  nameWithType: QuestScouringofLordaeron.QuestScouringofLordaeron
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.html#WarcraftLegacies_Source_Quests_Scourge_QuestScouringofLordaeron_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestScouringofLordaeron.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.html#WarcraftLegacies_Source_Quests_Scourge_QuestScouringofLordaeron_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.OnComplete
+  nameWithType: QuestScouringofLordaeron.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.html#WarcraftLegacies_Source_Quests_Scourge_QuestScouringofLordaeron_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.RewardDescription
+  nameWithType: QuestScouringofLordaeron.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.html#WarcraftLegacies_Source_Quests_Scourge_QuestScouringofLordaeron_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.RewardDescription
+  nameWithType: QuestScouringofLordaeron.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.html#WarcraftLegacies_Source_Quests_Scourge_QuestScouringofLordaeron_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.RewardFlavour
+  nameWithType: QuestScouringofLordaeron.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.html#WarcraftLegacies_Source_Quests_Scourge_QuestScouringofLordaeron_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Scourge.QuestScouringofLordaeron.RewardFlavour
+  nameWithType: QuestScouringofLordaeron.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Scourge.QuestSpiderWar
   name: QuestSpiderWar
   href: api-source/WarcraftLegacies.Source.Quests.Scourge.QuestSpiderWar.html
@@ -33809,6 +33870,64 @@ references:
   commentId: N:WarcraftLegacies.Source.Quests.Sunfury
   fullName: WarcraftLegacies.Source.Quests.Sunfury
   nameWithType: WarcraftLegacies.Source.Quests.Sunfury
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestArea52
+  name: QuestArea52
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.html
+  commentId: T:WarcraftLegacies.Source.Quests.Sunfury.QuestArea52
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestArea52
+  nameWithType: QuestArea52
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.#ctor(Rectangle)
+  name: QuestArea52(Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.html#WarcraftLegacies_Source_Quests_Sunfury_QuestArea52__ctor_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.#ctor(Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.QuestArea52(Rectangle)
+  nameWithType: QuestArea52.QuestArea52(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.#ctor*
+  name: QuestArea52
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.html#WarcraftLegacies_Source_Quests_Sunfury_QuestArea52__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.QuestArea52
+  nameWithType: QuestArea52.QuestArea52
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.html#WarcraftLegacies_Source_Quests_Sunfury_QuestArea52_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestArea52.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.html#WarcraftLegacies_Source_Quests_Sunfury_QuestArea52_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.OnComplete
+  nameWithType: QuestArea52.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.html#WarcraftLegacies_Source_Quests_Sunfury_QuestArea52_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.RewardDescription
+  nameWithType: QuestArea52.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.html#WarcraftLegacies_Source_Quests_Sunfury_QuestArea52_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.RewardDescription
+  nameWithType: QuestArea52.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.html#WarcraftLegacies_Source_Quests_Sunfury_QuestArea52_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.RewardFlavour
+  nameWithType: QuestArea52.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.html#WarcraftLegacies_Source_Quests_Sunfury_QuestArea52_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.RewardFlavour
+  nameWithType: QuestArea52.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian
   name: QuestSolarian
   href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.html
