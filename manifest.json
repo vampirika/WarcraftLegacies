@@ -5709,7 +5709,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestTheNexus.html",
-          "hash": "XM8nutN9fX2g+8fPVm/acg=="
+          "hash": "oRcdpyVWBvHAFp+CTIEkjw=="
         }
       },
       "is_incremental": false,
@@ -7457,6 +7457,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.html",
+          "hash": "lf6+GEXjZdlMAHwIsZmMCQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.yml",
       "output": {
         ".html": {
@@ -7469,11 +7481,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.html",
+          "hash": "yIS7FlAwMP4HO8C6+sXKPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.html",
-          "hash": "evw7APFmxOgZbd5zDB8IrQ=="
+          "hash": "kDNy2kF+oowIfaW8+lc8vw=="
         }
       },
       "is_incremental": false,
@@ -8757,7 +8781,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.html",
-          "hash": "CY8JCPWpKY4dceAOQGf9Qw=="
+          "hash": "dLf2bhyxEojTh7j7antgNA=="
         }
       },
       "is_incremental": false,
@@ -9621,7 +9645,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "cM2Z3d3TbZIuqjh+Gb/w8A=="
+          "hash": "jto+bG6ykbUNVvATRuAxuQ=="
         }
       },
       "is_incremental": false,
@@ -9696,7 +9720,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 800,
+          "total_file_count": 802,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

@@ -25288,12 +25288,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Dalaran.QuestTheNexus
   fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestTheNexus
   nameWithType: QuestTheNexus
-- uid: WarcraftLegacies.Source.Quests.Dalaran.QuestTheNexus.#ctor(MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital)
-  name: QuestTheNexus(LegendaryHero, Capital, Capital)
-  href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestTheNexus.html#WarcraftLegacies_Source_Quests_Dalaran_QuestTheNexus__ctor_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_Capital_
-  commentId: M:WarcraftLegacies.Source.Quests.Dalaran.QuestTheNexus.#ctor(MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital)
-  fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestTheNexus.QuestTheNexus(MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.Capital)
-  nameWithType: QuestTheNexus.QuestTheNexus(LegendaryHero, Capital, Capital)
+- uid: WarcraftLegacies.Source.Quests.Dalaran.QuestTheNexus.#ctor(MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital)
+  name: QuestTheNexus(LegendaryHero, Capital, Capital, Capital)
+  href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestTheNexus.html#WarcraftLegacies_Source_Quests_Dalaran_QuestTheNexus__ctor_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_Capital_
+  commentId: M:WarcraftLegacies.Source.Quests.Dalaran.QuestTheNexus.#ctor(MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital)
+  fullName: WarcraftLegacies.Source.Quests.Dalaran.QuestTheNexus.QuestTheNexus(MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.Capital)
+  nameWithType: QuestTheNexus.QuestTheNexus(LegendaryHero, Capital, Capital, Capital)
 - uid: WarcraftLegacies.Source.Quests.Dalaran.QuestTheNexus.#ctor*
   name: QuestTheNexus
   href: api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestTheNexus.html#WarcraftLegacies_Source_Quests_Dalaran_QuestTheNexus__ctor_
@@ -33809,6 +33809,64 @@ references:
   commentId: N:WarcraftLegacies.Source.Quests.Sunfury
   fullName: WarcraftLegacies.Source.Quests.Sunfury
   nameWithType: WarcraftLegacies.Source.Quests.Sunfury
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil
+  name: QuestSummonKil
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.html
+  commentId: T:WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil
+  nameWithType: QuestSummonKil
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.#ctor(MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestSummonKil(Capital, Capital, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.html#WarcraftLegacies_Source_Quests_Sunfury_QuestSummonKil__ctor_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.#ctor(MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.QuestSummonKil(MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestSummonKil.QuestSummonKil(Capital, Capital, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.#ctor*
+  name: QuestSummonKil
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.html#WarcraftLegacies_Source_Quests_Sunfury_QuestSummonKil__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.QuestSummonKil
+  nameWithType: QuestSummonKil.QuestSummonKil
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.html#WarcraftLegacies_Source_Quests_Sunfury_QuestSummonKil_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestSummonKil.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.html#WarcraftLegacies_Source_Quests_Sunfury_QuestSummonKil_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.OnComplete
+  nameWithType: QuestSummonKil.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.html#WarcraftLegacies_Source_Quests_Sunfury_QuestSummonKil_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.RewardDescription
+  nameWithType: QuestSummonKil.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.html#WarcraftLegacies_Source_Quests_Sunfury_QuestSummonKil_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.RewardDescription
+  nameWithType: QuestSummonKil.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.html#WarcraftLegacies_Source_Quests_Sunfury_QuestSummonKil_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.RewardFlavour
+  nameWithType: QuestSummonKil.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.html#WarcraftLegacies_Source_Quests_Sunfury_QuestSummonKil_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.RewardFlavour
+  nameWithType: QuestSummonKil.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep
   name: QuestTempestKeep
   href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.html
@@ -33880,6 +33938,64 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.RewardFlavour
   nameWithType: QuestTempestKeep.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity
+  name: QuestWellOfEternity
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.html
+  commentId: T:WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity
+  nameWithType: QuestWellOfEternity
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.#ctor(MacroTools.PreplacedUnitSystem,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestWellOfEternity(PreplacedUnitSystem, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.html#WarcraftLegacies_Source_Quests_Sunfury_QuestWellOfEternity__ctor_MacroTools_PreplacedUnitSystem_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.#ctor(MacroTools.PreplacedUnitSystem,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.QuestWellOfEternity(MacroTools.PreplacedUnitSystem, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestWellOfEternity.QuestWellOfEternity(PreplacedUnitSystem, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.#ctor*
+  name: QuestWellOfEternity
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.html#WarcraftLegacies_Source_Quests_Sunfury_QuestWellOfEternity__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.QuestWellOfEternity
+  nameWithType: QuestWellOfEternity.QuestWellOfEternity
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.html#WarcraftLegacies_Source_Quests_Sunfury_QuestWellOfEternity_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestWellOfEternity.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.html#WarcraftLegacies_Source_Quests_Sunfury_QuestWellOfEternity_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.OnComplete
+  nameWithType: QuestWellOfEternity.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.html#WarcraftLegacies_Source_Quests_Sunfury_QuestWellOfEternity_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.RewardDescription
+  nameWithType: QuestWellOfEternity.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.html#WarcraftLegacies_Source_Quests_Sunfury_QuestWellOfEternity_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.RewardDescription
+  nameWithType: QuestWellOfEternity.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.html#WarcraftLegacies_Source_Quests_Sunfury_QuestWellOfEternity_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.RewardFlavour
+  nameWithType: QuestWellOfEternity.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.html#WarcraftLegacies_Source_Quests_Sunfury_QuestWellOfEternity_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.RewardFlavour
+  nameWithType: QuestWellOfEternity.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Warsong
   name: WarcraftLegacies.Source.Quests.Warsong
   href: api-source/WarcraftLegacies.Source.Quests.Warsong.html
@@ -39780,19 +39896,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Anasterian
   nameWithType: LegendQuelthalas.Anasterian
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Jennalla
-  name: Jennalla
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.html#WarcraftLegacies_Source_Setup_Legends_LegendQuelthalas_Jennalla
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Jennalla
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Jennalla
-  nameWithType: LegendQuelthalas.Jennalla
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Jennalla*
-  name: Jennalla
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.html#WarcraftLegacies_Source_Setup_Legends_LegendQuelthalas_Jennalla_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Jennalla
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Jennalla
-  nameWithType: LegendQuelthalas.Jennalla
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Kael
   name: Kael
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.html#WarcraftLegacies_Source_Setup_Legends_LegendQuelthalas_Kael
@@ -39884,6 +39987,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Silvermoon
   nameWithType: LegendQuelthalas.Silvermoon
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Solarian
+  name: Solarian
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.html#WarcraftLegacies_Source_Setup_Legends_LegendQuelthalas_Solarian
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Solarian
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Solarian
+  nameWithType: LegendQuelthalas.Solarian
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Solarian*
+  name: Solarian
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.html#WarcraftLegacies_Source_Setup_Legends_LegendQuelthalas_Solarian_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Solarian
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Solarian
+  nameWithType: LegendQuelthalas.Solarian
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.Spire
   name: Spire
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendQuelthalas.html#WarcraftLegacies_Source_Setup_Legends_LegendQuelthalas_Spire
