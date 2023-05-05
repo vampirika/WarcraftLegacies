@@ -33596,12 +33596,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Stormwind.QuestNethergarde
   fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestNethergarde
   nameWithType: QuestNethergarde
-- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestNethergarde.#ctor(MacroTools.LegendSystem.LegendaryHero)
-  name: QuestNethergarde(LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestNethergarde.html#WarcraftLegacies_Source_Quests_Stormwind_QuestNethergarde__ctor_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.Stormwind.QuestNethergarde.#ctor(MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestNethergarde.QuestNethergarde(MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestNethergarde.QuestNethergarde(LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Stormwind.QuestNethergarde.#ctor(MacroTools.PreplacedUnitSystem,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestNethergarde(PreplacedUnitSystem, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestNethergarde.html#WarcraftLegacies_Source_Quests_Stormwind_QuestNethergarde__ctor_MacroTools_PreplacedUnitSystem_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.Stormwind.QuestNethergarde.#ctor(MacroTools.PreplacedUnitSystem,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.Stormwind.QuestNethergarde.QuestNethergarde(MacroTools.PreplacedUnitSystem, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestNethergarde.QuestNethergarde(PreplacedUnitSystem, LegendaryHero)
 - uid: WarcraftLegacies.Source.Quests.Stormwind.QuestNethergarde.#ctor*
   name: QuestNethergarde
   href: api-source/WarcraftLegacies.Source.Quests.Stormwind.QuestNethergarde.html#WarcraftLegacies_Source_Quests_Stormwind_QuestNethergarde__ctor_
