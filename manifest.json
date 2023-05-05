@@ -5717,11 +5717,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestTheramore.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestTheramore.html",
+          "hash": "oPorYyiYv7Bx5XgCPSjJxw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Dalaran.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dalaran.html",
-          "hash": "dWEnJ8hv1Dd0BopiUlA4Fg=="
+          "hash": "gTS0DypwLWkSsh4UfS3++A=="
         }
       },
       "is_incremental": false,
@@ -6521,18 +6533,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestTheramore.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestTheramore.html",
-          "hash": "UfppHcZKbebJ/MSL7RTFmA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestUnlockShip.yml",
       "output": {
         ".html": {
@@ -6561,7 +6561,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.html",
-          "hash": "oPhPdKWwTA49SbGG5jCTJA=="
+          "hash": "DU4DRZbgRZdGY0NvgX6rHQ=="
         }
       },
       "is_incremental": false,
@@ -9621,7 +9621,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "VAIuWHHciZAxavCJYAEMDg=="
+          "hash": "cM2Z3d3TbZIuqjh+Gb/w8A=="
         }
       },
       "is_incremental": false,
