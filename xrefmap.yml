@@ -22514,6 +22514,12 @@ references:
   commentId: F:WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.CpsVictory
   fullName: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.CpsVictory
   nameWithType: ControlPointVictory.CpsVictory
+- uid: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.CpsWarning
+  name: CpsWarning
+  href: api-source/WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.html#WarcraftLegacies_Source_GameLogic_GameEnd_ControlPointVictory_CpsWarning
+  commentId: F:WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.CpsWarning
+  fullName: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.CpsWarning
+  nameWithType: ControlPointVictory.CpsWarning
 - uid: WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.Setup
   name: Setup()
   href: api-source/WarcraftLegacies.Source.GameLogic.GameEnd.ControlPointVictory.html#WarcraftLegacies_Source_GameLogic_GameEnd_ControlPointVictory_Setup
