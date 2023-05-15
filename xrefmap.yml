@@ -38279,19 +38279,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Adal
   nameWithType: LegendDraenei.Adal
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Farahlon
-  name: Farahlon
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDraenei.html#WarcraftLegacies_Source_Setup_Legends_LegendDraenei_Farahlon
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Farahlon
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Farahlon
-  nameWithType: LegendDraenei.Farahlon
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Farahlon*
-  name: Farahlon
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDraenei.html#WarcraftLegacies_Source_Setup_Legends_LegendDraenei_Farahlon_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Farahlon
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Farahlon
-  nameWithType: LegendDraenei.Farahlon
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDraenei.Halaar
   name: Halaar
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDraenei.html#WarcraftLegacies_Source_Setup_Legends_LegendDraenei_Halaar
