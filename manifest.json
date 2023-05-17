@@ -4889,6 +4889,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.html",
+          "hash": "szCLIbBGm7at2aneW5fz2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.RefundZeroLimitUnits.yml",
       "output": {
         ".html": {
@@ -4989,7 +5001,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.html",
-          "hash": "6RnN2jFoP0EsAyaxvxCLuA=="
+          "hash": "HhgwcITd/zFg6P/oh3rX6g=="
         }
       },
       "is_incremental": false,
@@ -5841,7 +5853,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.html",
-          "hash": "wbyJqK+1NmT0wOZ8m/9pSw=="
+          "hash": "Yo3qIoACZPt2WB9d1wYw9g=="
         }
       },
       "is_incremental": false,
@@ -5877,7 +5889,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.html",
-          "hash": "fEdf/+2ZgwbWkUi83GVBAA=="
+          "hash": "8p1BM8S2Id7S+Sq5CevfJQ=="
         }
       },
       "is_incremental": false,
@@ -6249,7 +6261,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.html",
-          "hash": "kuSf9NLeRFhrW/tPqBeSig=="
+          "hash": "qHWs+bf3OygLZ+34uQ0sXg=="
         }
       },
       "is_incremental": false,
@@ -8313,7 +8325,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.GilneasSetup.html",
-          "hash": "16RFjPyhkQuXoLLcbKn8Lg=="
+          "hash": "Z/U+9NnKs4MHN/NVTvUhlg=="
         }
       },
       "is_incremental": false,
@@ -9057,7 +9069,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.html",
-          "hash": "jKxdMyRbK2BO79oEsfvbbg=="
+          "hash": "C2X9qE6OuE1DSWPdbyplcw=="
         }
       },
       "is_incremental": false,
@@ -9693,7 +9705,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "8xgZV8DXbg3ineAoJyRdXA=="
+          "hash": "Rqe58Pf7T2MKmSF8qV94Sg=="
         }
       },
       "is_incremental": false,
@@ -9768,7 +9780,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 806,
+          "total_file_count": 807,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

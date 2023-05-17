@@ -22705,6 +22705,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.OpenAllianceVote.Setup
   nameWithType: OpenAllianceVote.Setup
+- uid: WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue
+  name: QuelGilneasChoiceDialogue
+  href: api-source/WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.html
+  commentId: T:WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue
+  fullName: WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue
+  nameWithType: QuelGilneasChoiceDialogue
+- uid: WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_QuelGilneasChoiceDialogue_Setup
+  commentId: M:WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.Setup
+  fullName: WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.Setup()
+  nameWithType: QuelGilneasChoiceDialogue.Setup()
+- uid: WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_QuelGilneasChoiceDialogue_Setup_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.Setup
+  nameWithType: QuelGilneasChoiceDialogue.Setup
 - uid: WarcraftLegacies.Source.GameLogic.RefundZeroLimitUnits
   name: RefundZeroLimitUnits
   href: api-source/WarcraftLegacies.Source.GameLogic.RefundZeroLimitUnits.html
@@ -25873,12 +25892,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Druids.QuestAshenvale
   fullName: WarcraftLegacies.Source.Quests.Druids.QuestAshenvale
   nameWithType: QuestAshenvale
-- uid: WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.#ctor(Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  name: QuestAshenvale(Rectangle, LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.html#WarcraftLegacies_Source_Quests_Druids_QuestAshenvale__ctor_Rectangle_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.#ctor(Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.QuestAshenvale(Rectangle, MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestAshenvale.QuestAshenvale(Rectangle, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.#ctor(Rectangle)
+  name: QuestAshenvale(Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.html#WarcraftLegacies_Source_Quests_Druids_QuestAshenvale__ctor_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.#ctor(Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.QuestAshenvale(Rectangle)
+  nameWithType: QuestAshenvale.QuestAshenvale(Rectangle)
 - uid: WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.#ctor*
   name: QuestAshenvale
   href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.html#WarcraftLegacies_Source_Quests_Druids_QuestAshenvale__ctor_
@@ -27861,12 +27880,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath
   fullName: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath
   nameWithType: QuestGoldrinnHumanPath
-- uid: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.#ctor(MacroTools.QuestSystem.QuestData,MacroTools.ArtifactSystem.Artifact)
-  name: QuestGoldrinnHumanPath(QuestData, Artifact)
-  href: api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.html#WarcraftLegacies_Source_Quests_Gilneas_QuestGoldrinnHumanPath__ctor_MacroTools_QuestSystem_QuestData_MacroTools_ArtifactSystem_Artifact_
-  commentId: M:WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.#ctor(MacroTools.QuestSystem.QuestData,MacroTools.ArtifactSystem.Artifact)
-  fullName: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.QuestGoldrinnHumanPath(MacroTools.QuestSystem.QuestData, MacroTools.ArtifactSystem.Artifact)
-  nameWithType: QuestGoldrinnHumanPath.QuestGoldrinnHumanPath(QuestData, Artifact)
+- uid: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.#ctor(MacroTools.ArtifactSystem.Artifact)
+  name: QuestGoldrinnHumanPath(Artifact)
+  href: api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.html#WarcraftLegacies_Source_Quests_Gilneas_QuestGoldrinnHumanPath__ctor_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.#ctor(MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.QuestGoldrinnHumanPath(MacroTools.ArtifactSystem.Artifact)
+  nameWithType: QuestGoldrinnHumanPath.QuestGoldrinnHumanPath(Artifact)
 - uid: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.#ctor*
   name: QuestGoldrinnHumanPath
   href: api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.html#WarcraftLegacies_Source_Quests_Gilneas_QuestGoldrinnHumanPath__ctor_
@@ -37253,12 +37272,12 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.FactionSetup.GilneasSetup.Gilneas
   nameWithType: GilneasSetup.Gilneas
-- uid: WarcraftLegacies.Source.Setup.FactionSetup.GilneasSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.GilneasSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_GilneasSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.GilneasSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.FactionSetup.GilneasSetup.Setup()
-  nameWithType: GilneasSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.FactionSetup.GilneasSetup.Setup(MacroTools.PreplacedUnitSystem)
+  name: Setup(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.GilneasSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_GilneasSetup_Setup_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Setup.FactionSetup.GilneasSetup.Setup(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Setup.FactionSetup.GilneasSetup.Setup(MacroTools.PreplacedUnitSystem)
+  nameWithType: GilneasSetup.Setup(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Setup.FactionSetup.GilneasSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.FactionSetup.GilneasSetup.html#WarcraftLegacies_Source_Setup_FactionSetup_GilneasSetup_Setup_
@@ -41151,12 +41170,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup
   nameWithType: GilneasQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_GilneasQuestSetup_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup()
-  nameWithType: GilneasQuestSetup.Setup()
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
+  name: Setup(ArtifactSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_GilneasQuestSetup_Setup_WarcraftLegacies_Source_Setup_ArtifactSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
+  nameWithType: GilneasQuestSetup.Setup(ArtifactSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_GilneasQuestSetup_Setup_
