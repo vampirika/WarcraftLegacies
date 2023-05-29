@@ -22783,6 +22783,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.InfoQuests.Setup
   nameWithType: InfoQuests.Setup
+- uid: WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue
+  name: LegionForsakenChoiceDialogue
+  href: api-source/WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.html
+  commentId: T:WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue
+  fullName: WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue
+  nameWithType: LegionForsakenChoiceDialogue
+- uid: WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_LegionForsakenChoiceDialogue_Setup
+  commentId: M:WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.Setup
+  fullName: WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.Setup()
+  nameWithType: LegionForsakenChoiceDialogue.Setup()
+- uid: WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_LegionForsakenChoiceDialogue_Setup_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.Setup
+  nameWithType: LegionForsakenChoiceDialogue.Setup
 - uid: WarcraftLegacies.Source.GameLogic.OpenAllianceVote
   name: OpenAllianceVote
   href: api-source/WarcraftLegacies.Source.GameLogic.OpenAllianceVote.html

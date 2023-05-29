@@ -4889,6 +4889,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.html",
+          "hash": "d0bAJaGfrQsSpDLiof2WvA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.OpenAllianceVote.yml",
       "output": {
         ".html": {
@@ -5013,7 +5025,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.html",
-          "hash": "HhgwcITd/zFg6P/oh3rX6g=="
+          "hash": "jBAW9AZoVj0NHdVji6zEYw=="
         }
       },
       "is_incremental": false,
@@ -9717,7 +9729,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "Rqe58Pf7T2MKmSF8qV94Sg=="
+          "hash": "79GgSMGbjnWBxDym760SQw=="
         }
       },
       "is_incremental": false,
@@ -9792,7 +9804,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 808,
+          "total_file_count": 809,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
