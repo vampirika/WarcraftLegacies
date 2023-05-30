@@ -1653,7 +1653,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.GameTime.html",
-          "hash": "BysMIRRpASRz+wRLiybJ5w=="
+          "hash": "laoezKALRMd7WRkoGAE6wA=="
         }
       },
       "is_incremental": false,
@@ -3585,7 +3585,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.SpellSystem.DummyCast.html",
-          "hash": "XDHTxUhnnV47dcuvCjMglw=="
+          "hash": "BBIalnLvi7+ZFD5VtGCBVA=="
         }
       },
       "is_incremental": false,
@@ -3645,7 +3645,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.SpellSystem.Spell.html",
-          "hash": "kQ5uoowXdut2Yk/WTylpBw=="
+          "hash": "b6E1OyCht5zgRKobxHK9LA=="
         }
       },
       "is_incremental": false,
@@ -3682,6 +3682,18 @@
         ".html": {
           "relative_path": "api-macroTools/MacroTools.SpellSystem.html",
           "hash": "tlCwvOixi3mzOOXhmVg/sQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Spells.AnySpellOnTarget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Spells.AnySpellOnTarget.html",
+          "hash": "5qj1yPIHtRqmy0MPB9AB2Q=="
         }
       },
       "is_incremental": false,
@@ -4173,7 +4185,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Spells.html",
-          "hash": "08l0nztxODgGbMsDypsGPg=="
+          "hash": "CXJkaq01vDG20UqGpQDTgA=="
         }
       },
       "is_incremental": false,
@@ -4389,7 +4401,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "y9nNYDcOylVWEUesGc+Wmg=="
+          "hash": "6vYpe328mcyS4rHgTNQPcw=="
         }
       },
       "is_incremental": false,
@@ -9537,7 +9549,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.html",
-          "hash": "HR505UAF/7BE0nO1leHeUA=="
+          "hash": "MyeBDpGxSjhQ0NjyhkSGXQ=="
         }
       },
       "is_incremental": false,
@@ -9804,7 +9816,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 809,
+          "total_file_count": 810,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

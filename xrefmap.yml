@@ -17240,6 +17240,77 @@ references:
   commentId: N:MacroTools.Spells
   fullName: MacroTools.Spells
   nameWithType: MacroTools.Spells
+- uid: MacroTools.Spells.AnySpellOnTarget
+  name: AnySpellOnTarget
+  href: api-macroTools/MacroTools.Spells.AnySpellOnTarget.html
+  commentId: T:MacroTools.Spells.AnySpellOnTarget
+  fullName: MacroTools.Spells.AnySpellOnTarget
+  nameWithType: AnySpellOnTarget
+- uid: MacroTools.Spells.AnySpellOnTarget.#ctor(System.Int32)
+  name: AnySpellOnTarget(Int32)
+  href: api-macroTools/MacroTools.Spells.AnySpellOnTarget.html#MacroTools_Spells_AnySpellOnTarget__ctor_System_Int32_
+  commentId: M:MacroTools.Spells.AnySpellOnTarget.#ctor(System.Int32)
+  fullName: MacroTools.Spells.AnySpellOnTarget.AnySpellOnTarget(System.Int32)
+  nameWithType: AnySpellOnTarget.AnySpellOnTarget(Int32)
+- uid: MacroTools.Spells.AnySpellOnTarget.#ctor*
+  name: AnySpellOnTarget
+  href: api-macroTools/MacroTools.Spells.AnySpellOnTarget.html#MacroTools_Spells_AnySpellOnTarget__ctor_
+  commentId: Overload:MacroTools.Spells.AnySpellOnTarget.#ctor
+  isSpec: "True"
+  fullName: MacroTools.Spells.AnySpellOnTarget.AnySpellOnTarget
+  nameWithType: AnySpellOnTarget.AnySpellOnTarget
+- uid: MacroTools.Spells.AnySpellOnTarget.DummyAbilityId
+  name: DummyAbilityId
+  href: api-macroTools/MacroTools.Spells.AnySpellOnTarget.html#MacroTools_Spells_AnySpellOnTarget_DummyAbilityId
+  commentId: P:MacroTools.Spells.AnySpellOnTarget.DummyAbilityId
+  fullName: MacroTools.Spells.AnySpellOnTarget.DummyAbilityId
+  nameWithType: AnySpellOnTarget.DummyAbilityId
+- uid: MacroTools.Spells.AnySpellOnTarget.DummyAbilityId*
+  name: DummyAbilityId
+  href: api-macroTools/MacroTools.Spells.AnySpellOnTarget.html#MacroTools_Spells_AnySpellOnTarget_DummyAbilityId_
+  commentId: Overload:MacroTools.Spells.AnySpellOnTarget.DummyAbilityId
+  isSpec: "True"
+  fullName: MacroTools.Spells.AnySpellOnTarget.DummyAbilityId
+  nameWithType: AnySpellOnTarget.DummyAbilityId
+- uid: MacroTools.Spells.AnySpellOnTarget.DummyAbilityOrderString
+  name: DummyAbilityOrderString
+  href: api-macroTools/MacroTools.Spells.AnySpellOnTarget.html#MacroTools_Spells_AnySpellOnTarget_DummyAbilityOrderString
+  commentId: P:MacroTools.Spells.AnySpellOnTarget.DummyAbilityOrderString
+  fullName: MacroTools.Spells.AnySpellOnTarget.DummyAbilityOrderString
+  nameWithType: AnySpellOnTarget.DummyAbilityOrderString
+- uid: MacroTools.Spells.AnySpellOnTarget.DummyAbilityOrderString*
+  name: DummyAbilityOrderString
+  href: api-macroTools/MacroTools.Spells.AnySpellOnTarget.html#MacroTools_Spells_AnySpellOnTarget_DummyAbilityOrderString_
+  commentId: Overload:MacroTools.Spells.AnySpellOnTarget.DummyAbilityOrderString
+  isSpec: "True"
+  fullName: MacroTools.Spells.AnySpellOnTarget.DummyAbilityOrderString
+  nameWithType: AnySpellOnTarget.DummyAbilityOrderString
+- uid: MacroTools.Spells.AnySpellOnTarget.Duration
+  name: Duration
+  href: api-macroTools/MacroTools.Spells.AnySpellOnTarget.html#MacroTools_Spells_AnySpellOnTarget_Duration
+  commentId: P:MacroTools.Spells.AnySpellOnTarget.Duration
+  fullName: MacroTools.Spells.AnySpellOnTarget.Duration
+  nameWithType: AnySpellOnTarget.Duration
+- uid: MacroTools.Spells.AnySpellOnTarget.Duration*
+  name: Duration
+  href: api-macroTools/MacroTools.Spells.AnySpellOnTarget.html#MacroTools_Spells_AnySpellOnTarget_Duration_
+  commentId: Overload:MacroTools.Spells.AnySpellOnTarget.Duration
+  isSpec: "True"
+  fullName: MacroTools.Spells.AnySpellOnTarget.Duration
+  nameWithType: AnySpellOnTarget.Duration
+- uid: MacroTools.Spells.AnySpellOnTarget.OnCast(unit,unit,Point)
+  name: OnCast(unit, unit, Point)
+  href: api-macroTools/MacroTools.Spells.AnySpellOnTarget.html#MacroTools_Spells_AnySpellOnTarget_OnCast_unit_unit_Point_
+  commentId: M:MacroTools.Spells.AnySpellOnTarget.OnCast(unit,unit,Point)
+  fullName: MacroTools.Spells.AnySpellOnTarget.OnCast(unit, unit, Point)
+  nameWithType: AnySpellOnTarget.OnCast(unit, unit, Point)
+- uid: MacroTools.Spells.AnySpellOnTarget.OnCast*
+  name: OnCast
+  href: api-macroTools/MacroTools.Spells.AnySpellOnTarget.html#MacroTools_Spells_AnySpellOnTarget_OnCast_
+  commentId: Overload:MacroTools.Spells.AnySpellOnTarget.OnCast
+  isSpec: "True"
+  fullName: MacroTools.Spells.AnySpellOnTarget.OnCast
+  nameWithType: AnySpellOnTarget.OnCast
 - uid: MacroTools.Spells.Ascendance
   name: Ascendance
   href: api-macroTools/MacroTools.Spells.Ascendance.html
@@ -20679,6 +20750,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.SpellSystem.DummyCast.DummyCastNoTarget
   nameWithType: DummyCast.DummyCastNoTarget
+- uid: MacroTools.SpellSystem.DummyCast.DummyCastNoTargetOnUnit(unit,System.Int32,System.String,System.Int32,unit)
+  name: DummyCastNoTargetOnUnit(unit, Int32, String, Int32, unit)
+  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastNoTargetOnUnit_unit_System_Int32_System_String_System_Int32_unit_
+  commentId: M:MacroTools.SpellSystem.DummyCast.DummyCastNoTargetOnUnit(unit,System.Int32,System.String,System.Int32,unit)
+  fullName: MacroTools.SpellSystem.DummyCast.DummyCastNoTargetOnUnit(unit, System.Int32, System.String, System.Int32, unit)
+  nameWithType: DummyCast.DummyCastNoTargetOnUnit(unit, Int32, String, Int32, unit)
+- uid: MacroTools.SpellSystem.DummyCast.DummyCastNoTargetOnUnit*
+  name: DummyCastNoTargetOnUnit
+  href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastNoTargetOnUnit_
+  commentId: Overload:MacroTools.SpellSystem.DummyCast.DummyCastNoTargetOnUnit
+  isSpec: "True"
+  fullName: MacroTools.SpellSystem.DummyCast.DummyCastNoTargetOnUnit
+  nameWithType: DummyCast.DummyCastNoTargetOnUnit
 - uid: MacroTools.SpellSystem.DummyCast.DummyCastOnUnitsInCircle(unit,System.Int32,System.String,System.Int32,Point,System.Single,MacroTools.SpellSystem.DummyCast.CastFilter,MacroTools.SpellSystem.DummyCastOriginType)
   name: DummyCastOnUnitsInCircle(unit, Int32, String, Int32, Point, Single, DummyCast.CastFilter, DummyCastOriginType)
   href: api-macroTools/MacroTools.SpellSystem.DummyCast.html#MacroTools_SpellSystem_DummyCast_DummyCastOnUnitsInCircle_unit_System_Int32_System_String_System_Int32_Point_System_Single_MacroTools_SpellSystem_DummyCast_CastFilter_MacroTools_SpellSystem_DummyCastOriginType_
