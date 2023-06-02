@@ -26679,15 +26679,15 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock
   fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock
   nameWithType: QuestBlackrock
-- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.#ctor(Rectangle,IEnumerable{MacroTools.QuestSystem.QuestData})
-  name: QuestBlackrock(Rectangle, IEnumerable<QuestData>)
-  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestBlackrock__ctor_Rectangle_IEnumerable_MacroTools_QuestSystem_QuestData__
-  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.#ctor(Rectangle,IEnumerable{MacroTools.QuestSystem.QuestData})
-  name.vb: QuestBlackrock(Rectangle, IEnumerable(Of QuestData))
-  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.QuestBlackrock(Rectangle, IEnumerable<MacroTools.QuestSystem.QuestData>)
-  fullName.vb: WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.QuestBlackrock(Rectangle, IEnumerable(Of MacroTools.QuestSystem.QuestData))
-  nameWithType: QuestBlackrock.QuestBlackrock(Rectangle, IEnumerable<QuestData>)
-  nameWithType.vb: QuestBlackrock.QuestBlackrock(Rectangle, IEnumerable(Of QuestData))
+- uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.#ctor(Rectangle,Rectangle,IEnumerable{MacroTools.QuestSystem.QuestData})
+  name: QuestBlackrock(Rectangle, Rectangle, IEnumerable<QuestData>)
+  href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestBlackrock__ctor_Rectangle_Rectangle_IEnumerable_MacroTools_QuestSystem_QuestData__
+  commentId: M:WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.#ctor(Rectangle,Rectangle,IEnumerable{MacroTools.QuestSystem.QuestData})
+  name.vb: QuestBlackrock(Rectangle, Rectangle, IEnumerable(Of QuestData))
+  fullName: WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.QuestBlackrock(Rectangle, Rectangle, IEnumerable<MacroTools.QuestSystem.QuestData>)
+  fullName.vb: WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.QuestBlackrock(Rectangle, Rectangle, IEnumerable(Of MacroTools.QuestSystem.QuestData))
+  nameWithType: QuestBlackrock.QuestBlackrock(Rectangle, Rectangle, IEnumerable<QuestData>)
+  nameWithType.vb: QuestBlackrock.QuestBlackrock(Rectangle, Rectangle, IEnumerable(Of QuestData))
 - uid: WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.#ctor*
   name: QuestBlackrock
   href: api-source/WarcraftLegacies.Source.Quests.Fel_Horde.QuestBlackrock.html#WarcraftLegacies_Source_Quests_Fel_Horde_QuestBlackrock__ctor_
