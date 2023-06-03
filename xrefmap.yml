@@ -28022,12 +28022,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Gilneas.QuestGilneasCity
   fullName: WarcraftLegacies.Source.Quests.Gilneas.QuestGilneasCity
   nameWithType: QuestGilneasCity
-- uid: WarcraftLegacies.Source.Quests.Gilneas.QuestGilneasCity.#ctor
-  name: QuestGilneasCity()
-  href: api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGilneasCity.html#WarcraftLegacies_Source_Quests_Gilneas_QuestGilneasCity__ctor
-  commentId: M:WarcraftLegacies.Source.Quests.Gilneas.QuestGilneasCity.#ctor
-  fullName: WarcraftLegacies.Source.Quests.Gilneas.QuestGilneasCity.QuestGilneasCity()
-  nameWithType: QuestGilneasCity.QuestGilneasCity()
+- uid: WarcraftLegacies.Source.Quests.Gilneas.QuestGilneasCity.#ctor(MacroTools.PreplacedUnitSystem)
+  name: QuestGilneasCity(PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGilneasCity.html#WarcraftLegacies_Source_Quests_Gilneas_QuestGilneasCity__ctor_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Quests.Gilneas.QuestGilneasCity.#ctor(MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Quests.Gilneas.QuestGilneasCity.QuestGilneasCity(MacroTools.PreplacedUnitSystem)
+  nameWithType: QuestGilneasCity.QuestGilneasCity(PreplacedUnitSystem)
 - uid: WarcraftLegacies.Source.Quests.Gilneas.QuestGilneasCity.#ctor*
   name: QuestGilneasCity
   href: api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGilneasCity.html#WarcraftLegacies_Source_Quests_Gilneas_QuestGilneasCity__ctor_
@@ -28093,12 +28093,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath
   fullName: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath
   nameWithType: QuestGoldrinnHumanPath
-- uid: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.#ctor(MacroTools.ArtifactSystem.Artifact)
-  name: QuestGoldrinnHumanPath(Artifact)
-  href: api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.html#WarcraftLegacies_Source_Quests_Gilneas_QuestGoldrinnHumanPath__ctor_MacroTools_ArtifactSystem_Artifact_
-  commentId: M:WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.#ctor(MacroTools.ArtifactSystem.Artifact)
-  fullName: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.QuestGoldrinnHumanPath(MacroTools.ArtifactSystem.Artifact)
-  nameWithType: QuestGoldrinnHumanPath.QuestGoldrinnHumanPath(Artifact)
+- uid: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.#ctor(MacroTools.LegendSystem.LegendaryHero,MacroTools.ArtifactSystem.Artifact)
+  name: QuestGoldrinnHumanPath(LegendaryHero, Artifact)
+  href: api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.html#WarcraftLegacies_Source_Quests_Gilneas_QuestGoldrinnHumanPath__ctor_MacroTools_LegendSystem_LegendaryHero_MacroTools_ArtifactSystem_Artifact_
+  commentId: M:WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.#ctor(MacroTools.LegendSystem.LegendaryHero,MacroTools.ArtifactSystem.Artifact)
+  fullName: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.QuestGoldrinnHumanPath(MacroTools.LegendSystem.LegendaryHero, MacroTools.ArtifactSystem.Artifact)
+  nameWithType: QuestGoldrinnHumanPath.QuestGoldrinnHumanPath(LegendaryHero, Artifact)
 - uid: WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.#ctor*
   name: QuestGoldrinnHumanPath
   href: api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.html#WarcraftLegacies_Source_Quests_Gilneas_QuestGoldrinnHumanPath__ctor_
@@ -36024,6 +36024,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.Frostwolf
   nameWithType: AllLegendSetup.Frostwolf
+- uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Gilneas
+  name: Gilneas
+  href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Gilneas
+  commentId: P:WarcraftLegacies.Source.Setup.AllLegendSetup.Gilneas
+  fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.Gilneas
+  nameWithType: AllLegendSetup.Gilneas
+- uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Gilneas*
+  name: Gilneas
+  href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Gilneas_
+  commentId: Overload:WarcraftLegacies.Source.Setup.AllLegendSetup.Gilneas
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.AllLegendSetup.Gilneas
+  nameWithType: AllLegendSetup.Gilneas
 - uid: WarcraftLegacies.Source.Setup.AllLegendSetup.Goblin
   name: Goblin
   href: api-source/WarcraftLegacies.Source.Setup.AllLegendSetup.html#WarcraftLegacies_Source_Setup_AllLegendSetup_Goblin
@@ -39184,6 +39197,19 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.Legends.LegendGilneas
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas
   nameWithType: LegendGilneas
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.#ctor
+  name: LegendGilneas()
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas__ctor
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.#ctor
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGilneas()
+  nameWithType: LegendGilneas.LegendGilneas()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.#ctor*
+  name: LegendGilneas
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.LegendGilneas
+  nameWithType: LegendGilneas.LegendGilneas
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Darius
   name: Darius
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_Darius
@@ -39236,32 +39262,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Goldrinn
   nameWithType: LegendGilneas.Goldrinn
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.NorthshireAbbey
-  name: NorthshireAbbey
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_NorthshireAbbey
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.NorthshireAbbey
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.NorthshireAbbey
-  nameWithType: LegendGilneas.NorthshireAbbey
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.NorthshireAbbey*
-  name: NorthshireAbbey
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_NorthshireAbbey_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.NorthshireAbbey
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.RegisterLegends
+  name: RegisterLegends()
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_RegisterLegends
+  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.RegisterLegends
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.RegisterLegends()
+  nameWithType: LegendGilneas.RegisterLegends()
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.RegisterLegends*
+  name: RegisterLegends
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_RegisterLegends_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.RegisterLegends
   isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.NorthshireAbbey
-  nameWithType: LegendGilneas.NorthshireAbbey
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_Setup
-  commentId: M:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Setup
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Setup()
-  nameWithType: LegendGilneas.Setup()
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Setup
-  nameWithType: LegendGilneas.Setup
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.RegisterLegends
+  nameWithType: LegendGilneas.RegisterLegends
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendGilneas.Tess
   name: Tess
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendGilneas.html#WarcraftLegacies_Source_Setup_Legends_LegendGilneas_Tess
@@ -41383,12 +41396,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup
   fullName: WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup
   nameWithType: GilneasQuestSetup
-- uid: WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
-  name: Setup(ArtifactSetup)
-  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_GilneasQuestSetup_Setup_WarcraftLegacies_Source_Setup_ArtifactSetup_
-  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
-  fullName: WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup)
-  nameWithType: GilneasQuestSetup.Setup(ArtifactSetup)
+- uid: WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup,MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
+  name: Setup(ArtifactSetup, PreplacedUnitSystem, AllLegendSetup)
+  href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_GilneasQuestSetup_Setup_WarcraftLegacies_Source_Setup_ArtifactSetup_MacroTools_PreplacedUnitSystem_WarcraftLegacies_Source_Setup_AllLegendSetup_
+  commentId: M:WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup,MacroTools.PreplacedUnitSystem,WarcraftLegacies.Source.Setup.AllLegendSetup)
+  fullName: WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup(WarcraftLegacies.Source.Setup.ArtifactSetup, MacroTools.PreplacedUnitSystem, WarcraftLegacies.Source.Setup.AllLegendSetup)
+  nameWithType: GilneasQuestSetup.Setup(ArtifactSetup, PreplacedUnitSystem, AllLegendSetup)
 - uid: WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.Setup*
   name: Setup
   href: api-source/WarcraftLegacies.Source.Setup.QuestSetup.GilneasQuestSetup.html#WarcraftLegacies_Source_Setup_QuestSetup_GilneasQuestSetup_Setup_
