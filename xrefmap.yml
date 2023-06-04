@@ -35558,6 +35558,51 @@ references:
   commentId: N:WarcraftLegacies.Source.Researches
   fullName: WarcraftLegacies.Source.Researches
   nameWithType: WarcraftLegacies.Source.Researches
+- uid: WarcraftLegacies.Source.Researches.FlightPath
+  name: FlightPath
+  href: api-source/WarcraftLegacies.Source.Researches.FlightPath.html
+  commentId: T:WarcraftLegacies.Source.Researches.FlightPath
+  fullName: WarcraftLegacies.Source.Researches.FlightPath
+  nameWithType: FlightPath
+- uid: WarcraftLegacies.Source.Researches.FlightPath.#ctor(System.Int32,System.Int32,System.Int32,MacroTools.PreplacedUnitSystem)
+  name: FlightPath(Int32, Int32, Int32, PreplacedUnitSystem)
+  href: api-source/WarcraftLegacies.Source.Researches.FlightPath.html#WarcraftLegacies_Source_Researches_FlightPath__ctor_System_Int32_System_Int32_System_Int32_MacroTools_PreplacedUnitSystem_
+  commentId: M:WarcraftLegacies.Source.Researches.FlightPath.#ctor(System.Int32,System.Int32,System.Int32,MacroTools.PreplacedUnitSystem)
+  fullName: WarcraftLegacies.Source.Researches.FlightPath.FlightPath(System.Int32, System.Int32, System.Int32, MacroTools.PreplacedUnitSystem)
+  nameWithType: FlightPath.FlightPath(Int32, Int32, Int32, PreplacedUnitSystem)
+- uid: WarcraftLegacies.Source.Researches.FlightPath.#ctor*
+  name: FlightPath
+  href: api-source/WarcraftLegacies.Source.Researches.FlightPath.html#WarcraftLegacies_Source_Researches_FlightPath__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Researches.FlightPath.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Researches.FlightPath.FlightPath
+  nameWithType: FlightPath.FlightPath
+- uid: WarcraftLegacies.Source.Researches.FlightPath.OnRegister
+  name: OnRegister()
+  href: api-source/WarcraftLegacies.Source.Researches.FlightPath.html#WarcraftLegacies_Source_Researches_FlightPath_OnRegister
+  commentId: M:WarcraftLegacies.Source.Researches.FlightPath.OnRegister
+  fullName: WarcraftLegacies.Source.Researches.FlightPath.OnRegister()
+  nameWithType: FlightPath.OnRegister()
+- uid: WarcraftLegacies.Source.Researches.FlightPath.OnRegister*
+  name: OnRegister
+  href: api-source/WarcraftLegacies.Source.Researches.FlightPath.html#WarcraftLegacies_Source_Researches_FlightPath_OnRegister_
+  commentId: Overload:WarcraftLegacies.Source.Researches.FlightPath.OnRegister
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Researches.FlightPath.OnRegister
+  nameWithType: FlightPath.OnRegister
+- uid: WarcraftLegacies.Source.Researches.FlightPath.OnResearch(player)
+  name: OnResearch(player)
+  href: api-source/WarcraftLegacies.Source.Researches.FlightPath.html#WarcraftLegacies_Source_Researches_FlightPath_OnResearch_player_
+  commentId: M:WarcraftLegacies.Source.Researches.FlightPath.OnResearch(player)
+  fullName: WarcraftLegacies.Source.Researches.FlightPath.OnResearch(player)
+  nameWithType: FlightPath.OnResearch(player)
+- uid: WarcraftLegacies.Source.Researches.FlightPath.OnResearch*
+  name: OnResearch
+  href: api-source/WarcraftLegacies.Source.Researches.FlightPath.html#WarcraftLegacies_Source_Researches_FlightPath_OnResearch_
+  commentId: Overload:WarcraftLegacies.Source.Researches.FlightPath.OnResearch
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Researches.FlightPath.OnResearch
+  nameWithType: FlightPath.OnResearch
 - uid: WarcraftLegacies.Source.Researches.Ironforge
   name: WarcraftLegacies.Source.Researches.Ironforge
   href: api-source/WarcraftLegacies.Source.Researches.Ironforge.html

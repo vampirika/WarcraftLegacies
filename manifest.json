@@ -7829,6 +7829,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.FlightPath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Researches.FlightPath.html",
+          "hash": "3nW6fyvTJXc5POtzXm9FKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Researches.Ironforge.DeeprunTram.yml",
       "output": {
         ".html": {
@@ -7965,7 +7977,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Researches.html",
-          "hash": "0qRZ0nPF1kma4viNARJEMA=="
+          "hash": "Bhewk1/KPd9SNfzOSQn0HQ=="
         }
       },
       "is_incremental": false,
@@ -9741,7 +9753,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "79GgSMGbjnWBxDym760SQw=="
+          "hash": "9Nq3GRs8Ruuadz3OXS77lg=="
         }
       },
       "is_incremental": false,
@@ -9816,7 +9828,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 810,
+          "total_file_count": 811,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
