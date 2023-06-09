@@ -26318,12 +26318,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens
   fullName: WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens
   nameWithType: QuestMalfurionAwakens
-- uid: WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.#ctor(Rectangle,Rectangle,unit,MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.LegendaryHero)
-  name: QuestMalfurionAwakens(Rectangle, Rectangle, unit, Artifact, LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.html#WarcraftLegacies_Source_Quests_Druids_QuestMalfurionAwakens__ctor_Rectangle_Rectangle_unit_MacroTools_ArtifactSystem_Artifact_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.#ctor(Rectangle,Rectangle,unit,MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.QuestMalfurionAwakens(Rectangle, Rectangle, unit, MacroTools.ArtifactSystem.Artifact, MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestMalfurionAwakens.QuestMalfurionAwakens(Rectangle, Rectangle, unit, Artifact, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.#ctor(Rectangle,Rectangle,Rectangle,unit,MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestMalfurionAwakens(Rectangle, Rectangle, Rectangle, unit, Artifact, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.html#WarcraftLegacies_Source_Quests_Druids_QuestMalfurionAwakens__ctor_Rectangle_Rectangle_Rectangle_unit_MacroTools_ArtifactSystem_Artifact_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.#ctor(Rectangle,Rectangle,Rectangle,unit,MacroTools.ArtifactSystem.Artifact,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.QuestMalfurionAwakens(Rectangle, Rectangle, Rectangle, unit, MacroTools.ArtifactSystem.Artifact, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestMalfurionAwakens.QuestMalfurionAwakens(Rectangle, Rectangle, Rectangle, unit, Artifact, LegendaryHero)
 - uid: WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.#ctor*
   name: QuestMalfurionAwakens
   href: api-source/WarcraftLegacies.Source.Quests.Druids.QuestMalfurionAwakens.html#WarcraftLegacies_Source_Quests_Druids_QuestMalfurionAwakens__ctor_
