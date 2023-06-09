@@ -22645,6 +22645,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.CleanPersons.Setup
   nameWithType: CleanPersons.Setup
+- uid: WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue
+  name: DalaGilneasChoiceDialogue
+  href: api-source/WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.html
+  commentId: T:WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue
+  fullName: WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue
+  nameWithType: DalaGilneasChoiceDialogue
+- uid: WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_DalaGilneasChoiceDialogue_Setup
+  commentId: M:WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.Setup
+  fullName: WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.Setup()
+  nameWithType: DalaGilneasChoiceDialogue.Setup()
+- uid: WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_DalaGilneasChoiceDialogue_Setup_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.Setup
+  nameWithType: DalaGilneasChoiceDialogue.Setup
 - uid: WarcraftLegacies.Source.GameLogic.DisplayIntroText
   name: DisplayIntroText
   href: api-source/WarcraftLegacies.Source.GameLogic.DisplayIntroText.html
@@ -22918,25 +22937,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.OpenAllianceVote.Setup
   nameWithType: OpenAllianceVote.Setup
-- uid: WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue
-  name: QuelGilneasChoiceDialogue
-  href: api-source/WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.html
-  commentId: T:WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue
-  fullName: WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue
-  nameWithType: QuelGilneasChoiceDialogue
-- uid: WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_QuelGilneasChoiceDialogue_Setup
-  commentId: M:WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.Setup
-  fullName: WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.Setup()
-  nameWithType: QuelGilneasChoiceDialogue.Setup()
-- uid: WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_QuelGilneasChoiceDialogue_Setup_
-  commentId: Overload:WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.Setup
-  nameWithType: QuelGilneasChoiceDialogue.Setup
 - uid: WarcraftLegacies.Source.GameLogic.RefundZeroLimitUnits
   name: RefundZeroLimitUnits
   href: api-source/WarcraftLegacies.Source.GameLogic.RefundZeroLimitUnits.html

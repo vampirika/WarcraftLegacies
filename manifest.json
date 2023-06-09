@@ -4793,6 +4793,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.html",
+          "hash": "SFKy5YMv8NiK/T2SeaB/FQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.DisplayIntroText.yml",
       "output": {
         ".html": {
@@ -4925,18 +4937,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.QuelGilneasChoiceDialogue.html",
-          "hash": "szCLIbBGm7at2aneW5fz2w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.RefundZeroLimitUnits.yml",
       "output": {
         ".html": {
@@ -5037,7 +5037,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.html",
-          "hash": "jBAW9AZoVj0NHdVji6zEYw=="
+          "hash": "L3tfwnWLZrrLAyhX02Z+8w=="
         }
       },
       "is_incremental": false,
@@ -9753,7 +9753,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "9Nq3GRs8Ruuadz3OXS77lg=="
+          "hash": "g5/eeRTlACeM8Uhyp899zA=="
         }
       },
       "is_incremental": false,
