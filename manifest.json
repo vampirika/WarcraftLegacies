@@ -7049,11 +7049,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.html",
+          "hash": "AZ+EjNTS2GxF9FNlTkA2Iw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.html",
-          "hash": "kY4+sx6h9ggLRboFgM+Uwg=="
+          "hash": "8XKzHW1C+FF7tzloVlqWUw=="
         }
       },
       "is_incremental": false,
@@ -9753,7 +9765,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "g5/eeRTlACeM8Uhyp899zA=="
+          "hash": "C3hFpH110bv40X508a5ClA=="
         }
       },
       "is_incremental": false,
@@ -9828,7 +9840,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 811,
+          "total_file_count": 812,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

@@ -31727,6 +31727,77 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.RewardFlavour
   nameWithType: QuestTheBloodElves.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire
+  name: QuestUnlockSpire
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.html
+  commentId: T:WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire
+  nameWithType: QuestUnlockSpire
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.#ctor(Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestUnlockSpire(Rectangle, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestUnlockSpire__ctor_Rectangle_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.#ctor(Rectangle,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.QuestUnlockSpire(Rectangle, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestUnlockSpire.QuestUnlockSpire(Rectangle, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.#ctor*
+  name: QuestUnlockSpire
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestUnlockSpire__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.QuestUnlockSpire
+  nameWithType: QuestUnlockSpire.QuestUnlockSpire
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestUnlockSpire_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestUnlockSpire.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestUnlockSpire_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.OnComplete
+  nameWithType: QuestUnlockSpire.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.OnFail(MacroTools.FactionSystem.Faction)
+  name: OnFail(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestUnlockSpire_OnFail_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.OnFail(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.OnFail(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestUnlockSpire.OnFail(Faction)
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.OnFail*
+  name: OnFail
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestUnlockSpire_OnFail_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.OnFail
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.OnFail
+  nameWithType: QuestUnlockSpire.OnFail
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestUnlockSpire_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.RewardDescription
+  nameWithType: QuestUnlockSpire.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestUnlockSpire_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.RewardDescription
+  nameWithType: QuestUnlockSpire.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestUnlockSpire_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.RewardFlavour
+  nameWithType: QuestUnlockSpire.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestUnlockSpire_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.RewardFlavour
+  nameWithType: QuestUnlockSpire.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.QuestBookOfMedivh
   name: QuestBookOfMedivh
   href: api-source/WarcraftLegacies.Source.Quests.QuestBookOfMedivh.html
