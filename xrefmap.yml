@@ -30141,15 +30141,15 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity
   fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity
   nameWithType: QuestCapitalCity
-- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.#ctor(Rectangle,unit,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,IEnumerable{MacroTools.QuestSystem.QuestData})
-  name: QuestCapitalCity(Rectangle, unit, LegendaryHero, Capital, Capital, IEnumerable<QuestData>)
-  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestCapitalCity__ctor_Rectangle_unit_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_Capital_IEnumerable_MacroTools_QuestSystem_QuestData__
-  commentId: M:WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.#ctor(Rectangle,unit,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,IEnumerable{MacroTools.QuestSystem.QuestData})
-  name.vb: QuestCapitalCity(Rectangle, unit, LegendaryHero, Capital, Capital, IEnumerable(Of QuestData))
-  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.QuestCapitalCity(Rectangle, unit, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.Capital, IEnumerable<MacroTools.QuestSystem.QuestData>)
-  fullName.vb: WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.QuestCapitalCity(Rectangle, unit, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.Capital, IEnumerable(Of MacroTools.QuestSystem.QuestData))
-  nameWithType: QuestCapitalCity.QuestCapitalCity(Rectangle, unit, LegendaryHero, Capital, Capital, IEnumerable<QuestData>)
-  nameWithType.vb: QuestCapitalCity.QuestCapitalCity(Rectangle, unit, LegendaryHero, Capital, Capital, IEnumerable(Of QuestData))
+- uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.#ctor(Rectangle,unit,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,IEnumerable{MacroTools.QuestSystem.QuestData})
+  name: QuestCapitalCity(Rectangle, unit, LegendaryHero, LegendaryHero, Capital, Capital, IEnumerable<QuestData>)
+  href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestCapitalCity__ctor_Rectangle_unit_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_Capital_IEnumerable_MacroTools_QuestSystem_QuestData__
+  commentId: M:WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.#ctor(Rectangle,unit,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,IEnumerable{MacroTools.QuestSystem.QuestData})
+  name.vb: QuestCapitalCity(Rectangle, unit, LegendaryHero, LegendaryHero, Capital, Capital, IEnumerable(Of QuestData))
+  fullName: WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.QuestCapitalCity(Rectangle, unit, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.Capital, IEnumerable<MacroTools.QuestSystem.QuestData>)
+  fullName.vb: WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.QuestCapitalCity(Rectangle, unit, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.Capital, IEnumerable(Of MacroTools.QuestSystem.QuestData))
+  nameWithType: QuestCapitalCity.QuestCapitalCity(Rectangle, unit, LegendaryHero, LegendaryHero, Capital, Capital, IEnumerable<QuestData>)
+  nameWithType.vb: QuestCapitalCity.QuestCapitalCity(Rectangle, unit, LegendaryHero, LegendaryHero, Capital, Capital, IEnumerable(Of QuestData))
 - uid: WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.#ctor*
   name: QuestCapitalCity
   href: api-source/WarcraftLegacies.Source.Quests.Lordaeron.QuestCapitalCity.html#WarcraftLegacies_Source_Quests_Lordaeron_QuestCapitalCity__ctor_
