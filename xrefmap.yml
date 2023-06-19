@@ -34533,6 +34533,64 @@ references:
   commentId: N:WarcraftLegacies.Source.Quests.Warsong
   fullName: WarcraftLegacies.Source.Quests.Warsong
   nameWithType: WarcraftLegacies.Source.Quests.Warsong
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact
+  name: QuestBloodpact
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.html
+  commentId: T:WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact
+  nameWithType: QuestBloodpact
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.#ctor
+  name: QuestBloodpact()
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.html#WarcraftLegacies_Source_Quests_Warsong_QuestBloodpact__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.#ctor
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.QuestBloodpact()
+  nameWithType: QuestBloodpact.QuestBloodpact()
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.#ctor*
+  name: QuestBloodpact
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.html#WarcraftLegacies_Source_Quests_Warsong_QuestBloodpact__ctor_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.QuestBloodpact
+  nameWithType: QuestBloodpact.QuestBloodpact
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.OnComplete(MacroTools.FactionSystem.Faction)
+  name: OnComplete(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.html#WarcraftLegacies_Source_Quests_Warsong_QuestBloodpact_OnComplete_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.OnComplete(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.OnComplete(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestBloodpact.OnComplete(Faction)
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.OnComplete*
+  name: OnComplete
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.html#WarcraftLegacies_Source_Quests_Warsong_QuestBloodpact_OnComplete_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.OnComplete
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.OnComplete
+  nameWithType: QuestBloodpact.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.RewardDescription
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.html#WarcraftLegacies_Source_Quests_Warsong_QuestBloodpact_RewardDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.RewardDescription
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.RewardDescription
+  nameWithType: QuestBloodpact.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.RewardDescription*
+  name: RewardDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.html#WarcraftLegacies_Source_Quests_Warsong_QuestBloodpact_RewardDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.RewardDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.RewardDescription
+  nameWithType: QuestBloodpact.RewardDescription
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.RewardFlavour
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.html#WarcraftLegacies_Source_Quests_Warsong_QuestBloodpact_RewardFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.RewardFlavour
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.RewardFlavour
+  nameWithType: QuestBloodpact.RewardFlavour
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.RewardFlavour*
+  name: RewardFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.html#WarcraftLegacies_Source_Quests_Warsong_QuestBloodpact_RewardFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.RewardFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.RewardFlavour
+  nameWithType: QuestBloodpact.RewardFlavour
 - uid: WarcraftLegacies.Source.Quests.Warsong.QuestChenStormstout
   name: QuestChenStormstout
   href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestChenStormstout.html

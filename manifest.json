@@ -7613,6 +7613,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.html",
+          "hash": "MWNBi8Fztw+2P4GlSyHVyw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.QuestChenStormstout.yml",
       "output": {
         ".html": {
@@ -7725,7 +7737,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.html",
-          "hash": "hhrZEIo9zrc22ed9079wWA=="
+          "hash": "kuhlRilCrRRAiMx29SS2Wg=="
         }
       },
       "is_incremental": false,
@@ -9765,7 +9777,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "C3hFpH110bv40X508a5ClA=="
+          "hash": "IUFw1SgsYJxjrcqDOQ6TMw=="
         }
       },
       "is_incremental": false,
@@ -9840,7 +9852,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 812,
+          "total_file_count": 813,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
