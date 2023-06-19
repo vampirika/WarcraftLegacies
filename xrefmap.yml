@@ -34539,12 +34539,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact
   fullName: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact
   nameWithType: QuestBloodpact
-- uid: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.#ctor(MacroTools.LegendSystem.LegendaryHero)
-  name: QuestBloodpact(LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.html#WarcraftLegacies_Source_Quests_Warsong_QuestBloodpact__ctor_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.#ctor(MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.QuestBloodpact(MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestBloodpact.QuestBloodpact(LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.#ctor(MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestBloodpact(LegendaryHero, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.html#WarcraftLegacies_Source_Quests_Warsong_QuestBloodpact__ctor_MacroTools_LegendSystem_LegendaryHero_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.#ctor(MacroTools.LegendSystem.LegendaryHero,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.QuestBloodpact(MacroTools.LegendSystem.LegendaryHero, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestBloodpact.QuestBloodpact(LegendaryHero, LegendaryHero)
 - uid: WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.#ctor*
   name: QuestBloodpact
   href: api-source/WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.html#WarcraftLegacies_Source_Quests_Warsong_QuestBloodpact__ctor_
