@@ -41294,6 +41294,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.GromHellscream
   nameWithType: LegendWarsong.GromHellscream
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Mannoroth
+  name: Mannoroth
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html#WarcraftLegacies_Source_Setup_Legends_LegendWarsong_Mannoroth
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Mannoroth
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Mannoroth
+  nameWithType: LegendWarsong.Mannoroth
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Mannoroth*
+  name: Mannoroth
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html#WarcraftLegacies_Source_Setup_Legends_LegendWarsong_Mannoroth_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Mannoroth
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Mannoroth
+  nameWithType: LegendWarsong.Mannoroth
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendWarsong.Orgrimmar
   name: Orgrimmar
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendWarsong.html#WarcraftLegacies_Source_Setup_Legends_LegendWarsong_Orgrimmar
