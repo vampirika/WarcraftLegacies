@@ -5465,174 +5465,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnCaptain.html",
-          "hash": "9nHLXzuv/CrmWVSQNcMvtQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestBlackEmpireSpawnFootman.html",
-          "hash": "643RJAJWrK4RvjgAmbPxmg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestCthunSpawn.html",
-          "hash": "0w9BuUBRK/KPLEjCuDMuVA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestElfDead.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestElfDead.html",
-          "hash": "bQnNskh5s6MfiNBGrDhJwQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestHordeDead.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestHordeDead.html",
-          "hash": "73B1aa0Ok4vaZ2N50aKuWQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestIllidariDead.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestIllidariDead.html",
-          "hash": "0ytRMHI7oh1LGydqmAtjRw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNADead.html",
-          "hash": "DoI8VhYpYRoM80VoLFmzoA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestNazjatarSpawn.html",
-          "hash": "JQ/9SCm2ACrRCNnGwume4g=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestOldGodPick.html",
-          "hash": "F2dJk69ETNKEaZj7OlRtcQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestSADead.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestSADead.html",
-          "hash": "7wZY0Zjefic5IpHkP+GrjA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestScourgeDead.html",
-          "hash": "edah9pF9IDu8yTuS9hjFTg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTurn25OG.html",
-          "hash": "wP9GjPeTdP+/rESgtvHgpg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.QuestTwilightHammerSpawn.html",
-          "hash": "pLzJzLa8qapJt6rkoLJJUA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.CrisisSpawn.html",
-          "hash": "XMSrDYpuOtXCt1sJdvDibg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.yml",
       "output": {
         ".html": {
@@ -8261,30 +8093,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisCaptainSetup.html",
-          "hash": "vGbasI5xePPP+t1HSOqb/A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.CrisisFootmanSetup.html",
-          "hash": "SIbLosj7F7NSWIcibhV8MQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.yml",
       "output": {
         ".html": {
@@ -8613,7 +8421,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.html",
-          "hash": "wlrlXFWkymMdZKEshOu7Bg=="
+          "hash": "jqF9PaS4ho+BpfuaxGiJ1A=="
         }
       },
       "is_incremental": false,
@@ -8697,7 +8505,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendBlackEmpire.html",
-          "hash": "cOLoNDfRmdnCHzc1jmz7hA=="
+          "hash": "pll5LMPHZjLwuVHHC3Aj9Q=="
         }
       },
       "is_incremental": false,
@@ -9053,18 +8861,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.CrisisQuestSetup.html",
-          "hash": "UBkorp4Po0JF5MUVO3zWog=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.DalaranQuestSetup.yml",
       "output": {
         ".html": {
@@ -9321,7 +9117,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.html",
-          "hash": "eGBu60GfljpurN27lPIyzw=="
+          "hash": "YksgwQJa8BcJS34KBm7oPg=="
         }
       },
       "is_incremental": false,
@@ -9777,7 +9573,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "IUFw1SgsYJxjrcqDOQ6TMw=="
+          "hash": "oUJYeFKwdYS23RkGD/YhIg=="
         }
       },
       "is_incremental": false,
@@ -9852,7 +9648,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 813,
+          "total_file_count": 796,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
