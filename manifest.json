@@ -6521,6 +6521,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestKillCapitalPalace.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestKillCapitalPalace.html",
+          "hash": "38m+xuNsUwuQ7ZujNYtxtw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestLegionCaptureSunwell.yml",
       "output": {
         ".html": {
@@ -6557,11 +6569,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestUnlockAstral.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestUnlockAstral.html",
+          "hash": "FmKl8sxMoyBipby6bf/rSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.html",
-          "hash": "/xUB7vR8zq2EF+wOpv+RXw=="
+          "hash": "HqkDQdt8p/ZRIviIxBUDGA=="
         }
       },
       "is_incremental": false,
@@ -9573,7 +9597,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "oUJYeFKwdYS23RkGD/YhIg=="
+          "hash": "oUxUORgvke1A1Y+gK7mo/A=="
         }
       },
       "is_incremental": false,
@@ -9648,7 +9672,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 796,
+          "total_file_count": 798,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
