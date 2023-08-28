@@ -6239,6 +6239,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.ControlPointSystem.ControlPointManager.Instance
   nameWithType: ControlPointManager.Instance
+- uid: MacroTools.ControlPointSystem.ControlPointManager.PiercingdamageAbility
+  name: PiercingdamageAbility
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_PiercingdamageAbility
+  commentId: P:MacroTools.ControlPointSystem.ControlPointManager.PiercingdamageAbility
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.PiercingdamageAbility
+  nameWithType: ControlPointManager.PiercingdamageAbility
+- uid: MacroTools.ControlPointSystem.ControlPointManager.PiercingdamageAbility*
+  name: PiercingdamageAbility
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_PiercingdamageAbility_
+  commentId: Overload:MacroTools.ControlPointSystem.ControlPointManager.PiercingdamageAbility
+  isSpec: "True"
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.PiercingdamageAbility
+  nameWithType: ControlPointManager.PiercingdamageAbility
 - uid: MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility
   name: RegenerationAbility
   href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_RegenerationAbility
