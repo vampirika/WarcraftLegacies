@@ -10129,6 +10129,32 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Team.Name
   nameWithType: Team.Name
+- uid: MacroTools.FactionSystem.Team.PlayersToDistribute
+  name: PlayersToDistribute
+  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_PlayersToDistribute
+  commentId: P:MacroTools.FactionSystem.Team.PlayersToDistribute
+  fullName: MacroTools.FactionSystem.Team.PlayersToDistribute
+  nameWithType: Team.PlayersToDistribute
+- uid: MacroTools.FactionSystem.Team.PlayersToDistribute*
+  name: PlayersToDistribute
+  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_PlayersToDistribute_
+  commentId: Overload:MacroTools.FactionSystem.Team.PlayersToDistribute
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Team.PlayersToDistribute
+  nameWithType: Team.PlayersToDistribute
+- uid: MacroTools.FactionSystem.Team.PrcessingDistributeQueue
+  name: PrcessingDistributeQueue
+  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_PrcessingDistributeQueue
+  commentId: P:MacroTools.FactionSystem.Team.PrcessingDistributeQueue
+  fullName: MacroTools.FactionSystem.Team.PrcessingDistributeQueue
+  nameWithType: Team.PrcessingDistributeQueue
+- uid: MacroTools.FactionSystem.Team.PrcessingDistributeQueue*
+  name: PrcessingDistributeQueue
+  href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_PrcessingDistributeQueue_
+  commentId: Overload:MacroTools.FactionSystem.Team.PrcessingDistributeQueue
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Team.PrcessingDistributeQueue
+  nameWithType: Team.PrcessingDistributeQueue
 - uid: MacroTools.FactionSystem.Team.Size
   name: Size
   href: api-macroTools/MacroTools.FactionSystem.Team.html#MacroTools_FactionSystem_Team_Size
@@ -11249,6 +11275,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.LegendSystem.CapitalManager.Register
   nameWithType: CapitalManager.Register
+- uid: MacroTools.LegendSystem.CapitalManager.UnitIsCapital(unit)
+  name: UnitIsCapital(unit)
+  href: api-macroTools/MacroTools.LegendSystem.CapitalManager.html#MacroTools_LegendSystem_CapitalManager_UnitIsCapital_unit_
+  commentId: M:MacroTools.LegendSystem.CapitalManager.UnitIsCapital(unit)
+  fullName: MacroTools.LegendSystem.CapitalManager.UnitIsCapital(unit)
+  nameWithType: CapitalManager.UnitIsCapital(unit)
+- uid: MacroTools.LegendSystem.CapitalManager.UnitIsCapital*
+  name: UnitIsCapital
+  href: api-macroTools/MacroTools.LegendSystem.CapitalManager.html#MacroTools_LegendSystem_CapitalManager_UnitIsCapital_
+  commentId: Overload:MacroTools.LegendSystem.CapitalManager.UnitIsCapital
+  isSpec: "True"
+  fullName: MacroTools.LegendSystem.CapitalManager.UnitIsCapital
+  nameWithType: CapitalManager.UnitIsCapital
 - uid: MacroTools.LegendSystem.Legend
   name: Legend
   href: api-macroTools/MacroTools.LegendSystem.Legend.html
