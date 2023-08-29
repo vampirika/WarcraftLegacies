@@ -30902,12 +30902,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil
   fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil
   nameWithType: QuestQueldanil
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.#ctor(Rectangle,MacroTools.LegendSystem.Capital)
-  name: QuestQueldanil(Rectangle, Capital)
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueldanil__ctor_Rectangle_MacroTools_LegendSystem_Capital_
-  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.#ctor(Rectangle,MacroTools.LegendSystem.Capital)
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.QuestQueldanil(Rectangle, MacroTools.LegendSystem.Capital)
-  nameWithType: QuestQueldanil.QuestQueldanil(Rectangle, Capital)
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.#ctor(Rectangle,Rectangle,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.LegendaryHero)
+  name: QuestQueldanil(Rectangle, Rectangle, Capital, LegendaryHero)
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueldanil__ctor_Rectangle_Rectangle_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_LegendaryHero_
+  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.#ctor(Rectangle,Rectangle,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.LegendaryHero)
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.QuestQueldanil(Rectangle, Rectangle, MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.LegendaryHero)
+  nameWithType: QuestQueldanil.QuestQueldanil(Rectangle, Rectangle, Capital, LegendaryHero)
 - uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.#ctor*
   name: QuestQueldanil
   href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueldanil__ctor_
@@ -30915,6 +30915,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.QuestQueldanil
   nameWithType: QuestQueldanil.QuestQueldanil
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.OnAdd(MacroTools.FactionSystem.Faction)
+  name: OnAdd(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueldanil_OnAdd_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.OnAdd(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.OnAdd(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestQueldanil.OnAdd(Faction)
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.OnAdd*
+  name: OnAdd
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueldanil_OnAdd_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.OnAdd
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.OnAdd
+  nameWithType: QuestQueldanil.OnAdd
 - uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.OnComplete(MacroTools.FactionSystem.Faction)
   name: OnComplete(Faction)
   href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueldanil_OnComplete_MacroTools_FactionSystem_Faction_
@@ -30928,6 +30941,45 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.OnComplete
   nameWithType: QuestQueldanil.OnComplete
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.OnFail(MacroTools.FactionSystem.Faction)
+  name: OnFail(Faction)
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueldanil_OnFail_MacroTools_FactionSystem_Faction_
+  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.OnFail(MacroTools.FactionSystem.Faction)
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.OnFail(MacroTools.FactionSystem.Faction)
+  nameWithType: QuestQueldanil.OnFail(Faction)
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.OnFail*
+  name: OnFail
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueldanil_OnFail_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.OnFail
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.OnFail
+  nameWithType: QuestQueldanil.OnFail
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.PenaltyDescription
+  name: PenaltyDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueldanil_PenaltyDescription
+  commentId: P:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.PenaltyDescription
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.PenaltyDescription
+  nameWithType: QuestQueldanil.PenaltyDescription
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.PenaltyDescription*
+  name: PenaltyDescription
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueldanil_PenaltyDescription_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.PenaltyDescription
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.PenaltyDescription
+  nameWithType: QuestQueldanil.PenaltyDescription
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.PenaltyFlavour
+  name: PenaltyFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueldanil_PenaltyFlavour
+  commentId: P:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.PenaltyFlavour
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.PenaltyFlavour
+  nameWithType: QuestQueldanil.PenaltyFlavour
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.PenaltyFlavour*
+  name: PenaltyFlavour
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueldanil_PenaltyFlavour_
+  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.PenaltyFlavour
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.PenaltyFlavour
+  nameWithType: QuestQueldanil.PenaltyFlavour
 - uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestQueldanil_RewardDescription
@@ -31031,12 +31083,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves
   fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves
   nameWithType: QuestTheBloodElves
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.#ctor(Rectangle,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.LegendaryHero)
-  name: QuestTheBloodElves(Rectangle, Capital, Capital, LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTheBloodElves__ctor_Rectangle_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_Capital_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.#ctor(Rectangle,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.Capital,MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.QuestTheBloodElves(Rectangle, MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.Capital, MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestTheBloodElves.QuestTheBloodElves(Rectangle, Capital, Capital, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.#ctor(MacroTools.LegendSystem.Capital)
+  name: QuestTheBloodElves(Capital)
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTheBloodElves__ctor_MacroTools_LegendSystem_Capital_
+  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.#ctor(MacroTools.LegendSystem.Capital)
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.QuestTheBloodElves(MacroTools.LegendSystem.Capital)
+  nameWithType: QuestTheBloodElves.QuestTheBloodElves(Capital)
 - uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.#ctor*
   name: QuestTheBloodElves
   href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTheBloodElves__ctor_
@@ -31070,45 +31122,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.OnComplete
   nameWithType: QuestTheBloodElves.OnComplete
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.OnFail(MacroTools.FactionSystem.Faction)
-  name: OnFail(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTheBloodElves_OnFail_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.OnFail(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.OnFail(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestTheBloodElves.OnFail(Faction)
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.OnFail*
-  name: OnFail
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTheBloodElves_OnFail_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.OnFail
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.OnFail
-  nameWithType: QuestTheBloodElves.OnFail
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.PenaltyDescription
-  name: PenaltyDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTheBloodElves_PenaltyDescription
-  commentId: P:WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.PenaltyDescription
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.PenaltyDescription
-  nameWithType: QuestTheBloodElves.PenaltyDescription
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.PenaltyDescription*
-  name: PenaltyDescription
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTheBloodElves_PenaltyDescription_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.PenaltyDescription
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.PenaltyDescription
-  nameWithType: QuestTheBloodElves.PenaltyDescription
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.PenaltyFlavour
-  name: PenaltyFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTheBloodElves_PenaltyFlavour
-  commentId: P:WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.PenaltyFlavour
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.PenaltyFlavour
-  nameWithType: QuestTheBloodElves.PenaltyFlavour
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.PenaltyFlavour*
-  name: PenaltyFlavour
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTheBloodElves_PenaltyFlavour_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.PenaltyFlavour
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.PenaltyFlavour
-  nameWithType: QuestTheBloodElves.PenaltyFlavour
 - uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestTheBloodElves_RewardDescription
