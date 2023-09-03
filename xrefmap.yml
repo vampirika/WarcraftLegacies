@@ -9033,19 +9033,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Faction.ControlPointDefenderUnitTypeId
   nameWithType: Faction.ControlPointDefenderUnitTypeId
-- uid: MacroTools.FactionSystem.Faction.Defeat
-  name: Defeat()
-  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_Defeat
-  commentId: M:MacroTools.FactionSystem.Faction.Defeat
-  fullName: MacroTools.FactionSystem.Faction.Defeat()
-  nameWithType: Faction.Defeat()
-- uid: MacroTools.FactionSystem.Faction.Defeat*
-  name: Defeat
-  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_Defeat_
-  commentId: Overload:MacroTools.FactionSystem.Faction.Defeat
-  isSpec: "True"
-  fullName: MacroTools.FactionSystem.Faction.Defeat
-  nameWithType: Faction.Defeat
 - uid: MacroTools.FactionSystem.Faction.DefeatedResearch
   name: DefeatedResearch
   href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_DefeatedResearch
@@ -16582,6 +16569,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.QuestSystem.QuestData.RewardFlavour
   nameWithType: QuestData.RewardFlavour
+- uid: MacroTools.QuestSystem.QuestData.Shared
+  name: Shared
+  href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_Shared
+  commentId: P:MacroTools.QuestSystem.QuestData.Shared
+  fullName: MacroTools.QuestSystem.QuestData.Shared
+  nameWithType: QuestData.Shared
+- uid: MacroTools.QuestSystem.QuestData.Shared*
+  name: Shared
+  href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_Shared_
+  commentId: Overload:MacroTools.QuestSystem.QuestData.Shared
+  isSpec: "True"
+  fullName: MacroTools.QuestSystem.QuestData.Shared
+  nameWithType: QuestData.Shared
 - uid: MacroTools.QuestSystem.QuestData.Title
   name: Title
   href: api-macroTools/MacroTools.QuestSystem.QuestData.html#MacroTools_QuestSystem_QuestData_Title
