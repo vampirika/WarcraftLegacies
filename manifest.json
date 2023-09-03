@@ -309,7 +309,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.BookSystem.Powers.PowerCard.html",
-          "hash": "ZOuiqgvat6pdBhtmUlmd7A=="
+          "hash": "XQ2kiRXuVkh+jJSDcjHzBQ=="
         }
       },
       "is_incremental": false,
@@ -669,7 +669,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatGetUnitAbilities.html",
-          "hash": "mJLcMaF8LJl4ACejH1lNDA=="
+          "hash": "48hgWbCVcaL8BxHCRimOag=="
         }
       },
       "is_incremental": false,
@@ -837,7 +837,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.CheatRemoveAllAbilities.html",
-          "hash": "HUD7+ItEdURTeF5iwuYYLg=="
+          "hash": "v4tTWB8CbsxwLzphm36qKA=="
         }
       },
       "is_incremental": false,
@@ -1461,7 +1461,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Faction.html",
-          "hash": "LPLc/RVgMgE8I1oJfOUPzQ=="
+          "hash": "8dcWUHsaBJQHP/lXdrpYmQ=="
         }
       },
       "is_incremental": false,
@@ -2217,7 +2217,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.ControlPointBased.ObjectiveControlLevel.html",
-          "hash": "CODWStXGS1BfIBPMTYn09g=="
+          "hash": "hdWi0aQ1gwcezbLv8EUDEw=="
         }
       },
       "is_incremental": false,
@@ -2229,7 +2229,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.ControlPointBased.ObjectiveControlPoint.html",
-          "hash": "c9r579hPKWe0zSQoOaEHBw=="
+          "hash": "ZY+VkIzsE4I7BJyofrUq+g=="
         }
       },
       "is_incremental": false,
@@ -2241,7 +2241,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.ControlPointBased.ObjectiveControlPoints.html",
-          "hash": "U+wPE1yIwA7/8nqM8r7yAw=="
+          "hash": "ANvWrNs47YgPB6be/Tflhg=="
         }
       },
       "is_incremental": false,
@@ -2337,7 +2337,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveCapitalDead.html",
-          "hash": "XtDwY07Wu7KpZhTimLrVSg=="
+          "hash": "K2TS6AVsUpe34onIxsQeMg=="
         }
       },
       "is_incremental": false,
@@ -2361,7 +2361,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveControlCapital.html",
-          "hash": "zrteTQolWdjuUedLDSIhBw=="
+          "hash": "bu7Qoj6n7GBNZ+sPzF/b7w=="
         }
       },
       "is_incremental": false,
@@ -2373,7 +2373,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveControlLegend.html",
-          "hash": "6rpBhUHnefOL7K8k2FheIQ=="
+          "hash": "MmEkCskWJrR4Bi9XSqJ2zQ=="
         }
       },
       "is_incremental": false,
@@ -2385,7 +2385,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.LegendBased.ObjectiveLegendDead.html",
-          "hash": "bsfbJlzGEcYJP+X7lquWvA=="
+          "hash": "4FUPZJWA9fwH8JIHdmX7ZA=="
         }
       },
       "is_incremental": false,
@@ -2481,7 +2481,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.MetaBased.ObjectiveEitherOf.html",
-          "hash": "kxW9DM0ZPfkxEbQ8myiU/Q=="
+          "hash": "rkddufoZdXNsI7cKJlDNRQ=="
         }
       },
       "is_incremental": false,
@@ -2709,7 +2709,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveCastSpellFromUnit.html",
-          "hash": "+fx7jkzhZPhgdcuWhy+OGA=="
+          "hash": "PP3N32D7rKgbWCLZkQc8iA=="
         }
       },
       "is_incremental": false,
@@ -2721,7 +2721,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveControlUnit.html",
-          "hash": "frlmjXlNmSvO/sljcghCpQ=="
+          "hash": "GAGvZFKNkiccy8cMFQvZjg=="
         }
       },
       "is_incremental": false,
@@ -2769,7 +2769,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveKillUnit.html",
-          "hash": "6vw7coVeLu8uSPLtxuRy2A=="
+          "hash": "am39IcD/vl8gv5mzoBO76w=="
         }
       },
       "is_incremental": false,
@@ -2841,7 +2841,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveUnitIsDead.html",
-          "hash": "tfA6kP0lSdKg+jSY8QWFgQ=="
+          "hash": "zX1zEZwhaUTW40LN2t44jw=="
         }
       },
       "is_incremental": false,
@@ -2853,7 +2853,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveUnitReachesFullHealth.html",
-          "hash": "eL9eJJEfbVwSE9driolymw=="
+          "hash": "tYCIt/4X0rUfx4NPsx8yjw=="
         }
       },
       "is_incremental": false,
@@ -2937,7 +2937,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.ChannelSpellOnAttack.html",
-          "hash": "/e/P2ixhwhZyGiCxh9nWbg=="
+          "hash": "DP0bk0rJU1yuqPbLmtWGFg=="
         }
       },
       "is_incremental": false,
@@ -3873,7 +3873,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Spells.GoldOnCast.html",
-          "hash": "t4ERRUn5z3Dq8yW/x99cgw=="
+          "hash": "4ZGRyUyNFKZIVlrk2ZrQwg=="
         }
       },
       "is_incremental": false,
@@ -4965,7 +4965,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.RemoveUnusedAreas.html",
-          "hash": "WT1U/TSofEhtsQ8cUDLB8A=="
+          "hash": "wA33Y1os7uQF9eZLzWmJcw=="
         }
       },
       "is_incremental": false,
@@ -5481,7 +5481,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestAegwynn.html",
-          "hash": "1T4KnW1HwOJ0SCFTP1GrQA=="
+          "hash": "u2zdKyUNLvWOY6PMA0vHfA=="
         }
       },
       "is_incremental": false,
@@ -5613,7 +5613,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Dalaran.QuestTheramore.html",
-          "hash": "oPorYyiYv7Bx5XgCPSjJxw=="
+          "hash": "hkagXbKvoMGtYqpbUS3qvQ=="
         }
       },
       "is_incremental": false,
@@ -5649,7 +5649,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Draenei.QuestRebuildCivilisation.html",
-          "hash": "RUziyuXzgn1IHfZsdJyo5w=="
+          "hash": "hToQTf1IABPZhVM64aNhsg=="
         }
       },
       "is_incremental": false,
@@ -5733,7 +5733,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Druids.QuestAshenvale.html",
-          "hash": "Yo3qIoACZPt2WB9d1wYw9g=="
+          "hash": "WnvtX36NLtfKR8WiAFqvog=="
         }
       },
       "is_incremental": false,
@@ -6141,7 +6141,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Gilneas.QuestGoldrinnHumanPath.html",
-          "hash": "LEgZmVECDOoV1gPYb7LaHg=="
+          "hash": "PsNQRDx7jixvCaTWztArqQ=="
         }
       },
       "is_incremental": false,
@@ -6201,7 +6201,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Goblin.QuestBusinessExpansion.html",
-          "hash": "GPzTVlnugJOPuZlm9yEU0w=="
+          "hash": "wckIwG7A9J6fAPYY44eEiQ=="
         }
       },
       "is_incremental": false,
@@ -6429,7 +6429,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.KulTiras.QuestUnlockShip.html",
-          "hash": "EfBW8pVx4UlXUG5gMHpmhw=="
+          "hash": "DY1y93uxhZb5Ebh9J6kYeA=="
         }
       },
       "is_incremental": false,
@@ -6537,7 +6537,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestKillCapitalPalace.html",
-          "hash": "38m+xuNsUwuQ7ZujNYtxtw=="
+          "hash": "U87OH7fbdYB7FRffHA6Xwg=="
         }
       },
       "is_incremental": false,
@@ -6585,7 +6585,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Legion.QuestUnlockAstral.html",
-          "hash": "FmKl8sxMoyBipby6bf/rSA=="
+          "hash": "LOxcWU2ify+j9WGwM+0fKw=="
         }
       },
       "is_incremental": false,
@@ -6861,7 +6861,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.html",
-          "hash": "+WsvrSFBahScf7xMCEo58w=="
+          "hash": "jc4UaDOuwSIrrICe3e8pnw=="
         }
       },
       "is_incremental": false,
@@ -6885,7 +6885,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestQueldanil.html",
-          "hash": "uONoM6NpUgZTiImYGWRaFw=="
+          "hash": "BYycWOGpKEYY7uRx03/LnA=="
         }
       },
       "is_incremental": false,
@@ -6909,7 +6909,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestTheBloodElves.html",
-          "hash": "W6ymc1j6fO1KOiTNiNTWYg=="
+          "hash": "7r2ZDtiZTdoQ7J0M2M+F7g=="
         }
       },
       "is_incremental": false,
@@ -6921,7 +6921,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestUnlockSpire.html",
-          "hash": "AZ+EjNTS2GxF9FNlTkA2Iw=="
+          "hash": "pyue6phV3ffmv1vR4F7TBg=="
         }
       },
       "is_incremental": false,
@@ -7101,7 +7101,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestPlague.html",
-          "hash": "xQRMRLunf12BlxVnoDF0bQ=="
+          "hash": "/s+7TDLRE5JcNfqg/XzcGw=="
         }
       },
       "is_incremental": false,
@@ -7401,7 +7401,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestArea52.html",
-          "hash": "2mEMogZtB7wMloNgmRowsQ=="
+          "hash": "UDlD9Yd8hm1xcYeWGIppvQ=="
         }
       },
       "is_incremental": false,
@@ -7413,7 +7413,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSolarian.html",
-          "hash": "f7Rp+yb9GhP+QTtMIjyWvw=="
+          "hash": "aPLZLklxtRklKX8fe7BIyA=="
         }
       },
       "is_incremental": false,
@@ -7425,7 +7425,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.html",
-          "hash": "lf6+GEXjZdlMAHwIsZmMCQ=="
+          "hash": "FAAaPTBlnAACrtvFbbPJog=="
         }
       },
       "is_incremental": false,
@@ -7437,7 +7437,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestTempestKeep.html",
-          "hash": "LLPrxt/jmwrlF9+igH5mjw=="
+          "hash": "ktEtKGorbc/UgxGbzpE0Dw=="
         }
       },
       "is_incremental": false,
@@ -7449,7 +7449,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestUpperNetherstorm.html",
-          "hash": "yMOywa+g2lNFybedYMX0Mw=="
+          "hash": "u2QIhL6tTosdl3MgdvlA8A=="
         }
       },
       "is_incremental": false,
@@ -7461,7 +7461,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestWellOfEternity.html",
-          "hash": "yIS7FlAwMP4HO8C6+sXKPQ=="
+          "hash": "FcKmAIFzYjP8TrWBqkuKDA=="
         }
       },
       "is_incremental": false,
@@ -7485,7 +7485,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Warsong.QuestBloodpact.html",
-          "hash": "j54Qax4ELo0I79V+yXTL+g=="
+          "hash": "fF6BWF+g2/o2NiinQ9rP/w=="
         }
       },
       "is_incremental": false,
@@ -7665,7 +7665,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZandalar.html",
-          "hash": "wx0AFehnZI84JMG9ZLsknw=="
+          "hash": "niM6qJ30AnNvmuBFqfp9pg=="
         }
       },
       "is_incremental": false,
@@ -7677,7 +7677,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Zandalar.QuestZulfarrak.html",
-          "hash": "/UrzwTE5msUjb26pAf/jQA=="
+          "hash": "xchS3BTPnCvXvb+N6HUdoQ=="
         }
       },
       "is_incremental": false,
@@ -8121,7 +8121,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.BlackEmpireSetup.html",
-          "hash": "YpBK9eF5PEs952sTKjiu7w=="
+          "hash": "01pbVNLiebk3k/K4FTd/FQ=="
         }
       },
       "is_incremental": false,
@@ -8133,7 +8133,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.CthunSetup.html",
-          "hash": "ybJoIC47NBsV9NLVWpFGjA=="
+          "hash": "jI6Txplf/F0UI+p82Rw2eg=="
         }
       },
       "is_incremental": false,
@@ -8229,7 +8229,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.FrostwolfSetup.html",
-          "hash": "drMnsuhqWSr7ArFMAhwcxA=="
+          "hash": "A/FEF71BPL+bQwHBaFRsbw=="
         }
       },
       "is_incremental": false,
@@ -8337,7 +8337,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.NazjatarSetup.html",
-          "hash": "d3GOjaheDm/YOFquL/ZERQ=="
+          "hash": "4NN8KZ/zsm690ke4r4w3tg=="
         }
       },
       "is_incremental": false,
@@ -8421,7 +8421,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.TwilightHammerSetup.html",
-          "hash": "ccqNQOEHCINkzODlCkspCQ=="
+          "hash": "Yqvrhiy8TJ5iT/VZ2XAgjg=="
         }
       },
       "is_incremental": false,
@@ -8481,7 +8481,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.GameSetup.html",
-          "hash": "rcknALfu+fgEcbUoxUDaPw=="
+          "hash": "gAg4B8fg1JDHZdRz6+DnYQ=="
         }
       },
       "is_incremental": false,
@@ -8517,7 +8517,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.IncompatibleResearchSetup.html",
-          "hash": "dw8L3QR7EVRvWVJeYWczCA=="
+          "hash": "Q+6+B3Ho2XDO63MYs/AHRw=="
         }
       },
       "is_incremental": false,
@@ -8553,7 +8553,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendCthun.html",
-          "hash": "sCB2Ygf1nu0fIMXZ4YlDMA=="
+          "hash": "zUiy3Jrz2OtZJKjakXBIYQ=="
         }
       },
       "is_incremental": false,
@@ -8733,7 +8733,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendNazjatar.html",
-          "hash": "oiU6mIqXeYge6mWnTA5m0A=="
+          "hash": "3GzIiM0cG0AEeggaxo5+qQ=="
         }
       },
       "is_incremental": false,
@@ -8805,7 +8805,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendTroll.html",
-          "hash": "PBMyb6M4VuEUYIy85V8CyA=="
+          "hash": "/dFySFzoE8vuW+FB50mDWA=="
         }
       },
       "is_incremental": false,
@@ -8817,7 +8817,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendTwilight.html",
-          "hash": "jHymevn2rL0xh7xm+ZuyLw=="
+          "hash": "cKAno0+Q6EMTv1NGvyqR8Q=="
         }
       },
       "is_incremental": false,
@@ -9117,7 +9117,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.SunfuryQuestSetup.html",
-          "hash": "HwuVHswBJfIdX8kov4NFPA=="
+          "hash": "bCNzHaTnFM30MpCjhE0X2g=="
         }
       },
       "is_incremental": false,
@@ -9417,7 +9417,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.SharedSpellSetup.html",
-          "hash": "r/FfpsWIiEHmG+63RRY+cQ=="
+          "hash": "BoAvZneGk4RZTzsatbL7cA=="
         }
       },
       "is_incremental": false,
@@ -9429,7 +9429,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.StormwindSpellSetup.html",
-          "hash": "MyeBDpGxSjhQ0NjyhkSGXQ=="
+          "hash": "pJFnT8GMPNq39Q9OD2YP+g=="
         }
       },
       "is_incremental": false,
@@ -9441,7 +9441,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Spells.TrollSpellSetup.html",
-          "hash": "vvXi2IgMCKrFJF9cMxAxYA=="
+          "hash": "NB0SKEcxQHq1Jo323oltyw=="
         }
       },
       "is_incremental": false,
