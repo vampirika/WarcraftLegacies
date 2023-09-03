@@ -118,6 +118,37 @@
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public sealed class Capital : Legend</code></pre>
   </div>
+  <h3 id="fields">Fields
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_LegendSystem_Capital_ProtectorsByUnit.md&amp;value=---%0Auid%3A%20MacroTools.LegendSystem.Capital.ProtectorsByUnit%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/LegendSystem/Capital.cs/#L28">View Source</a>
+  </span>
+  <h4 id="MacroTools_LegendSystem_Capital_ProtectorsByUnit" data-uid="MacroTools.LegendSystem.Capital.ProtectorsByUnit">ProtectorsByUnit</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public readonly Dictionary&lt;unit, Protector&gt; ProtectorsByUnit</code></pre>
+  </div>
+  <h5 class="fieldValue">Field Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Dictionary</span>&lt;<span class="xref">unit</span>, <a class="xref" href="MacroTools.LegendSystem.Protector.html">Protector</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
   <h3 id="properties">Properties
   </h3>
   <span class="small pull-right mobile-hide">
@@ -156,7 +187,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_LegendSystem_Capital_Name.md&amp;value=---%0Auid%3A%20MacroTools.LegendSystem.Capital.Name%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/LegendSystem/Capital.cs/#L26">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/LegendSystem/Capital.cs/#L33">View Source</a>
   </span>
   <a id="MacroTools_LegendSystem_Capital_Name_" data-uid="MacroTools.LegendSystem.Capital.Name*"></a>
   <h4 id="MacroTools_LegendSystem_Capital_Name" data-uid="MacroTools.LegendSystem.Capital.Name">Name</h4>
@@ -191,7 +222,7 @@
   </span>
   <a id="MacroTools_LegendSystem_Capital_ProtectorCount_" data-uid="MacroTools.LegendSystem.Capital.ProtectorCount*"></a>
   <h4 id="MacroTools_LegendSystem_Capital_ProtectorCount" data-uid="MacroTools.LegendSystem.Capital.ProtectorCount">ProtectorCount</h4>
-  <div class="markdown level1 summary"><p>The number of living <span class="xref">MacroTools.LegendSystem.Protector</span> making this <a class="xref" href="MacroTools.LegendSystem.Legend.html">Legend</a> invulnerable.</p>
+  <div class="markdown level1 summary"><p>The number of living <a class="xref" href="MacroTools.LegendSystem.Protector.html">Protector</a> making this <a class="xref" href="MacroTools.LegendSystem.Legend.html">Legend</a> invulnerable.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
@@ -213,6 +244,37 @@
       </tr>
     </tbody>
   </table>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_LegendSystem_Capital_Protectors.md&amp;value=---%0Auid%3A%20MacroTools.LegendSystem.Capital.Protectors%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/LegendSystem/Capital.cs/#L26">View Source</a>
+  </span>
+  <a id="MacroTools_LegendSystem_Capital_Protectors_" data-uid="MacroTools.LegendSystem.Capital.Protectors*"></a>
+  <h4 id="MacroTools_LegendSystem_Capital_Protectors" data-uid="MacroTools.LegendSystem.Capital.Protectors">Protectors</h4>
+  <div class="markdown level1 summary"><p>Get list of <a class="xref" href="MacroTools.LegendSystem.Protector.html">Protector</a>s</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public List&lt;Protector&gt; Protectors { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">List</span>&lt;<a class="xref" href="MacroTools.LegendSystem.Protector.html">Protector</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
   <h3 id="methods">Methods
   </h3>
   <span class="small pull-right mobile-hide">
@@ -220,7 +282,7 @@
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_LegendSystem_Capital_AddProtector_unit_.md&amp;value=---%0Auid%3A%20MacroTools.LegendSystem.Capital.AddProtector(unit)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/LegendSystem/Capital.cs/#L55">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/LegendSystem/Capital.cs/#L62">View Source</a>
   </span>
   <a id="MacroTools_LegendSystem_Capital_AddProtector_" data-uid="MacroTools.LegendSystem.Capital.AddProtector*"></a>
   <h4 id="MacroTools_LegendSystem_Capital_AddProtector_unit_" data-uid="MacroTools.LegendSystem.Capital.AddProtector(unit)">AddProtector(unit)</h4>
@@ -254,7 +316,7 @@ Legends are invulnerable until all of their protectors are destroyed.</p>
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_LegendSystem_Capital_OnChangeUnit.md&amp;value=---%0Auid%3A%20MacroTools.LegendSystem.Capital.OnChangeUnit%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/LegendSystem/Capital.cs/#L64">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/LegendSystem/Capital.cs/#L72">View Source</a>
   </span>
   <a id="MacroTools_LegendSystem_Capital_OnChangeUnit_" data-uid="MacroTools.LegendSystem.Capital.OnChangeUnit*"></a>
   <h4 id="MacroTools_LegendSystem_Capital_OnChangeUnit" data-uid="MacroTools.LegendSystem.Capital.OnChangeUnit">OnChangeUnit()</h4>

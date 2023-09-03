@@ -1797,7 +1797,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.LegendSystem.Capital.html",
-          "hash": "R67MYbzzRwNoh3TELE4MGQ=="
+          "hash": "x8JQvRDTb/P1Z0X+4tl47Q=="
         }
       },
       "is_incremental": false,
@@ -1809,7 +1809,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.LegendSystem.CapitalManager.html",
-          "hash": "KT7I4Gllrz3rE+DWeMzpAQ=="
+          "hash": "50w730YLGLFyMJrAhWznng=="
         }
       },
       "is_incremental": false,
@@ -1877,11 +1877,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.LegendSystem.Protector.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.LegendSystem.Protector.html",
+          "hash": "IbrGOdJu/nPbsQ3Jy5khQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.LegendSystem.yml",
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.LegendSystem.html",
-          "hash": "tnbKq9qwewtNUzFmqzWcvQ=="
+          "hash": "JmXlcldw3DouzEiMJzr+nw=="
         }
       },
       "is_incremental": false,
@@ -4401,7 +4413,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "6vYpe328mcyS4rHgTNQPcw=="
+          "hash": "/fEwU+9y+JdVLiI0D8y1Yg=="
         }
       },
       "is_incremental": false,
@@ -9684,7 +9696,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 799,
+          "total_file_count": 800,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

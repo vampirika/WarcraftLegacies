@@ -11230,6 +11230,25 @@ references:
   isSpec: "True"
   fullName: MacroTools.LegendSystem.Capital.ProtectorCount
   nameWithType: Capital.ProtectorCount
+- uid: MacroTools.LegendSystem.Capital.Protectors
+  name: Protectors
+  href: api-macroTools/MacroTools.LegendSystem.Capital.html#MacroTools_LegendSystem_Capital_Protectors
+  commentId: P:MacroTools.LegendSystem.Capital.Protectors
+  fullName: MacroTools.LegendSystem.Capital.Protectors
+  nameWithType: Capital.Protectors
+- uid: MacroTools.LegendSystem.Capital.Protectors*
+  name: Protectors
+  href: api-macroTools/MacroTools.LegendSystem.Capital.html#MacroTools_LegendSystem_Capital_Protectors_
+  commentId: Overload:MacroTools.LegendSystem.Capital.Protectors
+  isSpec: "True"
+  fullName: MacroTools.LegendSystem.Capital.Protectors
+  nameWithType: Capital.Protectors
+- uid: MacroTools.LegendSystem.Capital.ProtectorsByUnit
+  name: ProtectorsByUnit
+  href: api-macroTools/MacroTools.LegendSystem.Capital.html#MacroTools_LegendSystem_Capital_ProtectorsByUnit
+  commentId: F:MacroTools.LegendSystem.Capital.ProtectorsByUnit
+  fullName: MacroTools.LegendSystem.Capital.ProtectorsByUnit
+  nameWithType: Capital.ProtectorsByUnit
 - uid: MacroTools.LegendSystem.CapitalManager
   name: CapitalManager
   href: api-macroTools/MacroTools.LegendSystem.CapitalManager.html
@@ -11288,6 +11307,32 @@ references:
   isSpec: "True"
   fullName: MacroTools.LegendSystem.CapitalManager.UnitIsCapital
   nameWithType: CapitalManager.UnitIsCapital
+- uid: MacroTools.LegendSystem.CapitalManager.UnitIsCapitalProtector(unit,unit)
+  name: UnitIsCapitalProtector(unit, unit)
+  href: api-macroTools/MacroTools.LegendSystem.CapitalManager.html#MacroTools_LegendSystem_CapitalManager_UnitIsCapitalProtector_unit_unit_
+  commentId: M:MacroTools.LegendSystem.CapitalManager.UnitIsCapitalProtector(unit,unit)
+  fullName: MacroTools.LegendSystem.CapitalManager.UnitIsCapitalProtector(unit, unit)
+  nameWithType: CapitalManager.UnitIsCapitalProtector(unit, unit)
+- uid: MacroTools.LegendSystem.CapitalManager.UnitIsCapitalProtector*
+  name: UnitIsCapitalProtector
+  href: api-macroTools/MacroTools.LegendSystem.CapitalManager.html#MacroTools_LegendSystem_CapitalManager_UnitIsCapitalProtector_
+  commentId: Overload:MacroTools.LegendSystem.CapitalManager.UnitIsCapitalProtector
+  isSpec: "True"
+  fullName: MacroTools.LegendSystem.CapitalManager.UnitIsCapitalProtector
+  nameWithType: CapitalManager.UnitIsCapitalProtector
+- uid: MacroTools.LegendSystem.CapitalManager.UnitIsProtector(unit)
+  name: UnitIsProtector(unit)
+  href: api-macroTools/MacroTools.LegendSystem.CapitalManager.html#MacroTools_LegendSystem_CapitalManager_UnitIsProtector_unit_
+  commentId: M:MacroTools.LegendSystem.CapitalManager.UnitIsProtector(unit)
+  fullName: MacroTools.LegendSystem.CapitalManager.UnitIsProtector(unit)
+  nameWithType: CapitalManager.UnitIsProtector(unit)
+- uid: MacroTools.LegendSystem.CapitalManager.UnitIsProtector*
+  name: UnitIsProtector
+  href: api-macroTools/MacroTools.LegendSystem.CapitalManager.html#MacroTools_LegendSystem_CapitalManager_UnitIsProtector_
+  commentId: Overload:MacroTools.LegendSystem.CapitalManager.UnitIsProtector
+  isSpec: "True"
+  fullName: MacroTools.LegendSystem.CapitalManager.UnitIsProtector
+  nameWithType: CapitalManager.UnitIsProtector
 - uid: MacroTools.LegendSystem.Legend
   name: Legend
   href: api-macroTools/MacroTools.LegendSystem.Legend.html
@@ -11583,6 +11628,25 @@ references:
   isSpec: "True"
   fullName: MacroTools.LegendSystem.LegendChangeUnitEventArgs.PreviousUnit
   nameWithType: LegendChangeUnitEventArgs.PreviousUnit
+- uid: MacroTools.LegendSystem.Protector
+  name: Protector
+  href: api-macroTools/MacroTools.LegendSystem.Protector.html
+  commentId: T:MacroTools.LegendSystem.Protector
+  fullName: MacroTools.LegendSystem.Protector
+  nameWithType: Protector
+- uid: MacroTools.LegendSystem.Protector.#ctor(unit)
+  name: Protector(unit)
+  href: api-macroTools/MacroTools.LegendSystem.Protector.html#MacroTools_LegendSystem_Protector__ctor_unit_
+  commentId: M:MacroTools.LegendSystem.Protector.#ctor(unit)
+  fullName: MacroTools.LegendSystem.Protector.Protector(unit)
+  nameWithType: Protector.Protector(unit)
+- uid: MacroTools.LegendSystem.Protector.#ctor*
+  name: Protector
+  href: api-macroTools/MacroTools.LegendSystem.Protector.html#MacroTools_LegendSystem_Protector__ctor_
+  commentId: Overload:MacroTools.LegendSystem.Protector.#ctor
+  isSpec: "True"
+  fullName: MacroTools.LegendSystem.Protector.Protector
+  nameWithType: Protector.Protector
 - uid: MacroTools.LeveledAbilityField`1
   name: LeveledAbilityField<T>
   href: api-macroTools/MacroTools.LeveledAbilityField-1.html
