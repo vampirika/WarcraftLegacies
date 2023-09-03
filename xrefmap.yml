@@ -32136,12 +32136,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Sentinels.QuestFeathermoon
   fullName: WarcraftLegacies.Source.Quests.Sentinels.QuestFeathermoon
   nameWithType: QuestFeathermoon
-- uid: WarcraftLegacies.Source.Quests.Sentinels.QuestFeathermoon.#ctor(Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  name: QuestFeathermoon(Rectangle, LegendaryHero)
-  href: api-source/WarcraftLegacies.Source.Quests.Sentinels.QuestFeathermoon.html#WarcraftLegacies_Source_Quests_Sentinels_QuestFeathermoon__ctor_Rectangle_MacroTools_LegendSystem_LegendaryHero_
-  commentId: M:WarcraftLegacies.Source.Quests.Sentinels.QuestFeathermoon.#ctor(Rectangle,MacroTools.LegendSystem.LegendaryHero)
-  fullName: WarcraftLegacies.Source.Quests.Sentinels.QuestFeathermoon.QuestFeathermoon(Rectangle, MacroTools.LegendSystem.LegendaryHero)
-  nameWithType: QuestFeathermoon.QuestFeathermoon(Rectangle, LegendaryHero)
+- uid: WarcraftLegacies.Source.Quests.Sentinels.QuestFeathermoon.#ctor(Rectangle)
+  name: QuestFeathermoon(Rectangle)
+  href: api-source/WarcraftLegacies.Source.Quests.Sentinels.QuestFeathermoon.html#WarcraftLegacies_Source_Quests_Sentinels_QuestFeathermoon__ctor_Rectangle_
+  commentId: M:WarcraftLegacies.Source.Quests.Sentinels.QuestFeathermoon.#ctor(Rectangle)
+  fullName: WarcraftLegacies.Source.Quests.Sentinels.QuestFeathermoon.QuestFeathermoon(Rectangle)
+  nameWithType: QuestFeathermoon.QuestFeathermoon(Rectangle)
 - uid: WarcraftLegacies.Source.Quests.Sentinels.QuestFeathermoon.#ctor*
   name: QuestFeathermoon
   href: api-source/WarcraftLegacies.Source.Quests.Sentinels.QuestFeathermoon.html#WarcraftLegacies_Source_Quests_Sentinels_QuestFeathermoon__ctor_
