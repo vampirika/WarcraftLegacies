@@ -6239,19 +6239,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.ControlPointSystem.ControlPointManager.Instance
   nameWithType: ControlPointManager.Instance
-- uid: MacroTools.ControlPointSystem.ControlPointManager.PiercingdamageAbility
-  name: PiercingdamageAbility
-  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_PiercingdamageAbility
-  commentId: P:MacroTools.ControlPointSystem.ControlPointManager.PiercingdamageAbility
-  fullName: MacroTools.ControlPointSystem.ControlPointManager.PiercingdamageAbility
-  nameWithType: ControlPointManager.PiercingdamageAbility
-- uid: MacroTools.ControlPointSystem.ControlPointManager.PiercingdamageAbility*
-  name: PiercingdamageAbility
-  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_PiercingdamageAbility_
-  commentId: Overload:MacroTools.ControlPointSystem.ControlPointManager.PiercingdamageAbility
+- uid: MacroTools.ControlPointSystem.ControlPointManager.PiercingResistanceAbility
+  name: PiercingResistanceAbility
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_PiercingResistanceAbility
+  commentId: P:MacroTools.ControlPointSystem.ControlPointManager.PiercingResistanceAbility
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.PiercingResistanceAbility
+  nameWithType: ControlPointManager.PiercingResistanceAbility
+- uid: MacroTools.ControlPointSystem.ControlPointManager.PiercingResistanceAbility*
+  name: PiercingResistanceAbility
+  href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_PiercingResistanceAbility_
+  commentId: Overload:MacroTools.ControlPointSystem.ControlPointManager.PiercingResistanceAbility
   isSpec: "True"
-  fullName: MacroTools.ControlPointSystem.ControlPointManager.PiercingdamageAbility
-  nameWithType: ControlPointManager.PiercingdamageAbility
+  fullName: MacroTools.ControlPointSystem.ControlPointManager.PiercingResistanceAbility
+  nameWithType: ControlPointManager.PiercingResistanceAbility
 - uid: MacroTools.ControlPointSystem.ControlPointManager.RegenerationAbility
   name: RegenerationAbility
   href: api-macroTools/MacroTools.ControlPointSystem.ControlPointManager.html#MacroTools_ControlPointSystem_ControlPointManager_RegenerationAbility
