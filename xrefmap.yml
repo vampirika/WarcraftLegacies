@@ -6464,15 +6464,28 @@ references:
   isSpec: "True"
   fullName: MacroTools.DialogueSystem.Dialogue.Dialogue
   nameWithType: Dialogue.Dialogue
-- uid: MacroTools.DialogueSystem.Dialogue.Play(System.Nullable{List{player}})
-  name: Play(Nullable<List<player>>)
-  href: api-macroTools/MacroTools.DialogueSystem.Dialogue.html#MacroTools_DialogueSystem_Dialogue_Play_System_Nullable_List_player___
-  commentId: M:MacroTools.DialogueSystem.Dialogue.Play(System.Nullable{List{player}})
-  name.vb: Play(Nullable(Of List(Of player)))
-  fullName: MacroTools.DialogueSystem.Dialogue.Play(System.Nullable<List<player>>)
-  fullName.vb: MacroTools.DialogueSystem.Dialogue.Play(System.Nullable(Of List(Of player)))
-  nameWithType: Dialogue.Play(Nullable<List<player>>)
-  nameWithType.vb: Dialogue.Play(Nullable(Of List(Of player)))
+- uid: MacroTools.DialogueSystem.Dialogue.Length
+  name: Length
+  href: api-macroTools/MacroTools.DialogueSystem.Dialogue.html#MacroTools_DialogueSystem_Dialogue_Length
+  commentId: P:MacroTools.DialogueSystem.Dialogue.Length
+  fullName: MacroTools.DialogueSystem.Dialogue.Length
+  nameWithType: Dialogue.Length
+- uid: MacroTools.DialogueSystem.Dialogue.Length*
+  name: Length
+  href: api-macroTools/MacroTools.DialogueSystem.Dialogue.html#MacroTools_DialogueSystem_Dialogue_Length_
+  commentId: Overload:MacroTools.DialogueSystem.Dialogue.Length
+  isSpec: "True"
+  fullName: MacroTools.DialogueSystem.Dialogue.Length
+  nameWithType: Dialogue.Length
+- uid: MacroTools.DialogueSystem.Dialogue.Play(System.Nullable{player})
+  name: Play(Nullable<player>)
+  href: api-macroTools/MacroTools.DialogueSystem.Dialogue.html#MacroTools_DialogueSystem_Dialogue_Play_System_Nullable_player__
+  commentId: M:MacroTools.DialogueSystem.Dialogue.Play(System.Nullable{player})
+  name.vb: Play(Nullable(Of player))
+  fullName: MacroTools.DialogueSystem.Dialogue.Play(System.Nullable<player>)
+  fullName.vb: MacroTools.DialogueSystem.Dialogue.Play(System.Nullable(Of player))
+  nameWithType: Dialogue.Play(Nullable<player>)
+  nameWithType.vb: Dialogue.Play(Nullable(Of player))
 - uid: MacroTools.DialogueSystem.Dialogue.Play*
   name: Play
   href: api-macroTools/MacroTools.DialogueSystem.Dialogue.html#MacroTools_DialogueSystem_Dialogue_Play_
@@ -6515,15 +6528,25 @@ references:
   isSpec: "True"
   fullName: MacroTools.DialogueSystem.DialogueSequence.DialogueSequence
   nameWithType: DialogueSequence.DialogueSequence
-- uid: MacroTools.DialogueSystem.DialogueSequence.Play(System.Nullable{List{player}})
-  name: Play(Nullable<List<player>>)
-  href: api-macroTools/MacroTools.DialogueSystem.DialogueSequence.html#MacroTools_DialogueSystem_DialogueSequence_Play_System_Nullable_List_player___
-  commentId: M:MacroTools.DialogueSystem.DialogueSequence.Play(System.Nullable{List{player}})
-  name.vb: Play(Nullable(Of List(Of player)))
-  fullName: MacroTools.DialogueSystem.DialogueSequence.Play(System.Nullable<List<player>>)
-  fullName.vb: MacroTools.DialogueSystem.DialogueSequence.Play(System.Nullable(Of List(Of player)))
-  nameWithType: DialogueSequence.Play(Nullable<List<player>>)
-  nameWithType.vb: DialogueSequence.Play(Nullable(Of List(Of player)))
+- uid: MacroTools.DialogueSystem.DialogueSequence.Length
+  name: Length
+  href: api-macroTools/MacroTools.DialogueSystem.DialogueSequence.html#MacroTools_DialogueSystem_DialogueSequence_Length
+  commentId: P:MacroTools.DialogueSystem.DialogueSequence.Length
+  fullName: MacroTools.DialogueSystem.DialogueSequence.Length
+  nameWithType: DialogueSequence.Length
+- uid: MacroTools.DialogueSystem.DialogueSequence.Length*
+  name: Length
+  href: api-macroTools/MacroTools.DialogueSystem.DialogueSequence.html#MacroTools_DialogueSystem_DialogueSequence_Length_
+  commentId: Overload:MacroTools.DialogueSystem.DialogueSequence.Length
+  isSpec: "True"
+  fullName: MacroTools.DialogueSystem.DialogueSequence.Length
+  nameWithType: DialogueSequence.Length
+- uid: MacroTools.DialogueSystem.DialogueSequence.Play(player)
+  name: Play(player)
+  href: api-macroTools/MacroTools.DialogueSystem.DialogueSequence.html#MacroTools_DialogueSystem_DialogueSequence_Play_player_
+  commentId: M:MacroTools.DialogueSystem.DialogueSequence.Play(player)
+  fullName: MacroTools.DialogueSystem.DialogueSequence.Play(player)
+  nameWithType: DialogueSequence.Play(player)
 - uid: MacroTools.DialogueSystem.DialogueSequence.Play*
   name: Play
   href: api-macroTools/MacroTools.DialogueSystem.DialogueSequence.html#MacroTools_DialogueSystem_DialogueSequence_Play_
@@ -6537,15 +6560,25 @@ references:
   commentId: T:MacroTools.DialogueSystem.IHasPlayableDialogue
   fullName: MacroTools.DialogueSystem.IHasPlayableDialogue
   nameWithType: IHasPlayableDialogue
-- uid: MacroTools.DialogueSystem.IHasPlayableDialogue.Play(System.Nullable{List{player}})
-  name: Play(Nullable<List<player>>)
-  href: api-macroTools/MacroTools.DialogueSystem.IHasPlayableDialogue.html#MacroTools_DialogueSystem_IHasPlayableDialogue_Play_System_Nullable_List_player___
-  commentId: M:MacroTools.DialogueSystem.IHasPlayableDialogue.Play(System.Nullable{List{player}})
-  name.vb: Play(Nullable(Of List(Of player)))
-  fullName: MacroTools.DialogueSystem.IHasPlayableDialogue.Play(System.Nullable<List<player>>)
-  fullName.vb: MacroTools.DialogueSystem.IHasPlayableDialogue.Play(System.Nullable(Of List(Of player)))
-  nameWithType: IHasPlayableDialogue.Play(Nullable<List<player>>)
-  nameWithType.vb: IHasPlayableDialogue.Play(Nullable(Of List(Of player)))
+- uid: MacroTools.DialogueSystem.IHasPlayableDialogue.Length
+  name: Length
+  href: api-macroTools/MacroTools.DialogueSystem.IHasPlayableDialogue.html#MacroTools_DialogueSystem_IHasPlayableDialogue_Length
+  commentId: P:MacroTools.DialogueSystem.IHasPlayableDialogue.Length
+  fullName: MacroTools.DialogueSystem.IHasPlayableDialogue.Length
+  nameWithType: IHasPlayableDialogue.Length
+- uid: MacroTools.DialogueSystem.IHasPlayableDialogue.Length*
+  name: Length
+  href: api-macroTools/MacroTools.DialogueSystem.IHasPlayableDialogue.html#MacroTools_DialogueSystem_IHasPlayableDialogue_Length_
+  commentId: Overload:MacroTools.DialogueSystem.IHasPlayableDialogue.Length
+  isSpec: "True"
+  fullName: MacroTools.DialogueSystem.IHasPlayableDialogue.Length
+  nameWithType: IHasPlayableDialogue.Length
+- uid: MacroTools.DialogueSystem.IHasPlayableDialogue.Play(player)
+  name: Play(player)
+  href: api-macroTools/MacroTools.DialogueSystem.IHasPlayableDialogue.html#MacroTools_DialogueSystem_IHasPlayableDialogue_Play_player_
+  commentId: M:MacroTools.DialogueSystem.IHasPlayableDialogue.Play(player)
+  fullName: MacroTools.DialogueSystem.IHasPlayableDialogue.Play(player)
+  nameWithType: IHasPlayableDialogue.Play(player)
 - uid: MacroTools.DialogueSystem.IHasPlayableDialogue.Play*
   name: Play
   href: api-macroTools/MacroTools.DialogueSystem.IHasPlayableDialogue.html#MacroTools_DialogueSystem_IHasPlayableDialogue_Play_
@@ -6559,15 +6592,15 @@ references:
   commentId: T:MacroTools.DialogueSystem.TriggeredDialogue
   fullName: MacroTools.DialogueSystem.TriggeredDialogue
   nameWithType: TriggeredDialogue
-- uid: MacroTools.DialogueSystem.TriggeredDialogue.#ctor(MacroTools.DialogueSystem.IHasPlayableDialogue,MacroTools.FactionSystem.Faction[],IEnumerable{MacroTools.ObjectiveSystem.Objective})
-  name: TriggeredDialogue(IHasPlayableDialogue, Faction[], IEnumerable<Objective>)
-  href: api-macroTools/MacroTools.DialogueSystem.TriggeredDialogue.html#MacroTools_DialogueSystem_TriggeredDialogue__ctor_MacroTools_DialogueSystem_IHasPlayableDialogue_MacroTools_FactionSystem_Faction___IEnumerable_MacroTools_ObjectiveSystem_Objective__
-  commentId: M:MacroTools.DialogueSystem.TriggeredDialogue.#ctor(MacroTools.DialogueSystem.IHasPlayableDialogue,MacroTools.FactionSystem.Faction[],IEnumerable{MacroTools.ObjectiveSystem.Objective})
-  name.vb: TriggeredDialogue(IHasPlayableDialogue, Faction(), IEnumerable(Of Objective))
-  fullName: MacroTools.DialogueSystem.TriggeredDialogue.TriggeredDialogue(MacroTools.DialogueSystem.IHasPlayableDialogue, MacroTools.FactionSystem.Faction[], IEnumerable<MacroTools.ObjectiveSystem.Objective>)
-  fullName.vb: MacroTools.DialogueSystem.TriggeredDialogue.TriggeredDialogue(MacroTools.DialogueSystem.IHasPlayableDialogue, MacroTools.FactionSystem.Faction(), IEnumerable(Of MacroTools.ObjectiveSystem.Objective))
-  nameWithType: TriggeredDialogue.TriggeredDialogue(IHasPlayableDialogue, Faction[], IEnumerable<Objective>)
-  nameWithType.vb: TriggeredDialogue.TriggeredDialogue(IHasPlayableDialogue, Faction(), IEnumerable(Of Objective))
+- uid: MacroTools.DialogueSystem.TriggeredDialogue.#ctor(MacroTools.DialogueSystem.IHasPlayableDialogue,IEnumerable{MacroTools.FactionSystem.Faction},IEnumerable{MacroTools.ObjectiveSystem.Objective})
+  name: TriggeredDialogue(IHasPlayableDialogue, IEnumerable<Faction>, IEnumerable<Objective>)
+  href: api-macroTools/MacroTools.DialogueSystem.TriggeredDialogue.html#MacroTools_DialogueSystem_TriggeredDialogue__ctor_MacroTools_DialogueSystem_IHasPlayableDialogue_IEnumerable_MacroTools_FactionSystem_Faction__IEnumerable_MacroTools_ObjectiveSystem_Objective__
+  commentId: M:MacroTools.DialogueSystem.TriggeredDialogue.#ctor(MacroTools.DialogueSystem.IHasPlayableDialogue,IEnumerable{MacroTools.FactionSystem.Faction},IEnumerable{MacroTools.ObjectiveSystem.Objective})
+  name.vb: TriggeredDialogue(IHasPlayableDialogue, IEnumerable(Of Faction), IEnumerable(Of Objective))
+  fullName: MacroTools.DialogueSystem.TriggeredDialogue.TriggeredDialogue(MacroTools.DialogueSystem.IHasPlayableDialogue, IEnumerable<MacroTools.FactionSystem.Faction>, IEnumerable<MacroTools.ObjectiveSystem.Objective>)
+  fullName.vb: MacroTools.DialogueSystem.TriggeredDialogue.TriggeredDialogue(MacroTools.DialogueSystem.IHasPlayableDialogue, IEnumerable(Of MacroTools.FactionSystem.Faction), IEnumerable(Of MacroTools.ObjectiveSystem.Objective))
+  nameWithType: TriggeredDialogue.TriggeredDialogue(IHasPlayableDialogue, IEnumerable<Faction>, IEnumerable<Objective>)
+  nameWithType.vb: TriggeredDialogue.TriggeredDialogue(IHasPlayableDialogue, IEnumerable(Of Faction), IEnumerable(Of Objective))
 - uid: MacroTools.DialogueSystem.TriggeredDialogue.#ctor*
   name: TriggeredDialogue
   href: api-macroTools/MacroTools.DialogueSystem.TriggeredDialogue.html#MacroTools_DialogueSystem_TriggeredDialogue__ctor_
@@ -7240,6 +7273,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.PlayerExtensions.PingLocation
   nameWithType: PlayerExtensions.PingLocation
+- uid: MacroTools.Extensions.PlayerExtensions.QueueDialogue(player,MacroTools.DialogueSystem.IHasPlayableDialogue)
+  name: QueueDialogue(player, IHasPlayableDialogue)
+  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_QueueDialogue_player_MacroTools_DialogueSystem_IHasPlayableDialogue_
+  commentId: M:MacroTools.Extensions.PlayerExtensions.QueueDialogue(player,MacroTools.DialogueSystem.IHasPlayableDialogue)
+  fullName: MacroTools.Extensions.PlayerExtensions.QueueDialogue(player, MacroTools.DialogueSystem.IHasPlayableDialogue)
+  nameWithType: PlayerExtensions.QueueDialogue(player, IHasPlayableDialogue)
+- uid: MacroTools.Extensions.PlayerExtensions.QueueDialogue*
+  name: QueueDialogue
+  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_QueueDialogue_
+  commentId: Overload:MacroTools.Extensions.PlayerExtensions.QueueDialogue
+  isSpec: "True"
+  fullName: MacroTools.Extensions.PlayerExtensions.QueueDialogue
+  nameWithType: PlayerExtensions.QueueDialogue
 - uid: MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable{player},List{unit},System.Boolean)
   name: RescueGroup(Nullable<player>, List<unit>, Boolean)
   href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_RescueGroup_System_Nullable_player__List_unit__System_Boolean_
@@ -21419,12 +21465,12 @@ references:
   isSpec: "True"
   fullName: MacroTools.Wrappers.SoundWrapper.SoundWrapper
   nameWithType: SoundWrapper.SoundWrapper
-- uid: MacroTools.Wrappers.SoundWrapper.Play(MacroTools.Wrappers.SoundWrapper.PlayCondition,System.Boolean)
-  name: Play(SoundWrapper.PlayCondition, Boolean)
-  href: api-macroTools/MacroTools.Wrappers.SoundWrapper.html#MacroTools_Wrappers_SoundWrapper_Play_MacroTools_Wrappers_SoundWrapper_PlayCondition_System_Boolean_
-  commentId: M:MacroTools.Wrappers.SoundWrapper.Play(MacroTools.Wrappers.SoundWrapper.PlayCondition,System.Boolean)
-  fullName: MacroTools.Wrappers.SoundWrapper.Play(MacroTools.Wrappers.SoundWrapper.PlayCondition, System.Boolean)
-  nameWithType: SoundWrapper.Play(SoundWrapper.PlayCondition, Boolean)
+- uid: MacroTools.Wrappers.SoundWrapper.Play(player,System.Boolean)
+  name: Play(player, Boolean)
+  href: api-macroTools/MacroTools.Wrappers.SoundWrapper.html#MacroTools_Wrappers_SoundWrapper_Play_player_System_Boolean_
+  commentId: M:MacroTools.Wrappers.SoundWrapper.Play(player,System.Boolean)
+  fullName: MacroTools.Wrappers.SoundWrapper.Play(player, System.Boolean)
+  nameWithType: SoundWrapper.Play(player, Boolean)
 - uid: MacroTools.Wrappers.SoundWrapper.Play(System.Boolean)
   name: Play(Boolean)
   href: api-macroTools/MacroTools.Wrappers.SoundWrapper.html#MacroTools_Wrappers_SoundWrapper_Play_System_Boolean_
@@ -21438,12 +21484,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Wrappers.SoundWrapper.Play
   nameWithType: SoundWrapper.Play
-- uid: MacroTools.Wrappers.SoundWrapper.PlayCondition
-  name: SoundWrapper.PlayCondition
-  href: api-macroTools/MacroTools.Wrappers.SoundWrapper.PlayCondition.html
-  commentId: T:MacroTools.Wrappers.SoundWrapper.PlayCondition
-  fullName: MacroTools.Wrappers.SoundWrapper.PlayCondition
-  nameWithType: SoundWrapper.PlayCondition
 - uid: MacroTools.Wrappers.SoundWrapper.Sound
   name: Sound
   href: api-macroTools/MacroTools.Wrappers.SoundWrapper.html#MacroTools_Wrappers_SoundWrapper_Sound

@@ -1197,7 +1197,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.DialogueSystem.Dialogue.html",
-          "hash": "SSjRO3c9jeYK9KAEZjgPZA=="
+          "hash": "qh+jw9QoVR84nIyxSuOjFg=="
         }
       },
       "is_incremental": false,
@@ -1209,7 +1209,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.DialogueSystem.DialogueSequence.html",
-          "hash": "urd8tJHF5f39ZM/nPKwr2w=="
+          "hash": "kKoSeZmzFOHhbyNtu9qJWg=="
         }
       },
       "is_incremental": false,
@@ -1221,7 +1221,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.DialogueSystem.IHasPlayableDialogue.html",
-          "hash": "ml++oNm2EqkbWgMl+gaF+A=="
+          "hash": "N6j2cxkVyM37ydPO09yq4A=="
         }
       },
       "is_incremental": false,
@@ -1233,7 +1233,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.DialogueSystem.TriggeredDialogue.html",
-          "hash": "5KFXccLAf3eRLNIfz+B8EQ=="
+          "hash": "obl0J3GAxBkajmOj2TTpOg=="
         }
       },
       "is_incremental": false,
@@ -1257,7 +1257,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.DialogueSystem.html",
-          "hash": "3gvA6BF5CRtdFsXqhGK13g=="
+          "hash": "i7KsZct/J55npDC+SciSMQ=="
         }
       },
       "is_incremental": false,
@@ -1317,7 +1317,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.PlayerExtensions.html",
-          "hash": "RlfS8+edH3NkzRJjcXLNig=="
+          "hash": "v2w43ami3AFVO1j+7ouwjw=="
         }
       },
       "is_incremental": false,
@@ -4349,23 +4349,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Wrappers.SoundWrapper.PlayCondition.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Wrappers.SoundWrapper.PlayCondition.html",
-          "hash": "a+LMoqbEi3HicaFpi64S+A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Wrappers.SoundWrapper.yml",
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Wrappers.SoundWrapper.html",
-          "hash": "QkwUYwA2FMTqLGZtqn6qdw=="
+          "hash": "/TIuA1PptdY3ksX0/y/qwg=="
         }
       },
       "is_incremental": false,
@@ -4389,7 +4377,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Wrappers.html",
-          "hash": "v/SQCjjxmCFlYrC9NJsUUQ=="
+          "hash": "N1/Pomdta8zPG3WYI2wPmA=="
         }
       },
       "is_incremental": false,
@@ -4413,7 +4401,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "/fEwU+9y+JdVLiI0D8y1Yg=="
+          "hash": "Qk7wAChaZXYUBaxcYla9lw=="
         }
       },
       "is_incremental": false,
@@ -9696,7 +9684,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 800,
+          "total_file_count": 799,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

@@ -126,23 +126,56 @@
       </tr>
     </tbody>
   </table>
-  <h3 id="methods">Methods
+  <h3 id="properties">Properties
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_DialogueSystem_DialogueSequence_Play_System_Nullable_List_player___.md&amp;value=---%0Auid%3A%20MacroTools.DialogueSystem.DialogueSequence.Play(System.Nullable%7BList%7Bplayer%7D%7D)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_DialogueSystem_DialogueSequence_Length.md&amp;value=---%0Auid%3A%20MacroTools.DialogueSystem.DialogueSequence.Length%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/DialogueSystem/DialogueSequence.cs/#L25">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/DialogueSystem/DialogueSequence.cs/#L14">View Source</a>
   </span>
-  <a id="MacroTools_DialogueSystem_DialogueSequence_Play_" data-uid="MacroTools.DialogueSystem.DialogueSequence.Play*"></a>
-  <h4 id="MacroTools_DialogueSystem_DialogueSequence_Play_System_Nullable_List_player___" data-uid="MacroTools.DialogueSystem.DialogueSequence.Play(System.Nullable{List{player}})">Play(Nullable&lt;List&lt;player&gt;&gt;)</h4>
-  <div class="markdown level1 summary"><p>Plays the entire <a class="xref" href="MacroTools.DialogueSystem.Dialogue.html">Dialogue</a> sequence in order.</p>
+  <a id="MacroTools_DialogueSystem_DialogueSequence_Length_" data-uid="MacroTools.DialogueSystem.DialogueSequence.Length*"></a>
+  <h4 id="MacroTools_DialogueSystem_DialogueSequence_Length" data-uid="MacroTools.DialogueSystem.DialogueSequence.Length">Length</h4>
+  <div class="markdown level1 summary"><p>How long the dialogue plays for.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public void Play(List&lt;player&gt;? players)</code></pre>
+    <pre><code class="lang-csharp hljs">public float Length { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Single</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_DialogueSystem_DialogueSequence_Play_player_.md&amp;value=---%0Auid%3A%20MacroTools.DialogueSystem.DialogueSequence.Play(player)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/DialogueSystem/DialogueSequence.cs/#L24">View Source</a>
+  </span>
+  <a id="MacroTools_DialogueSystem_DialogueSequence_Play_" data-uid="MacroTools.DialogueSystem.DialogueSequence.Play*"></a>
+  <h4 id="MacroTools_DialogueSystem_DialogueSequence_Play_player_" data-uid="MacroTools.DialogueSystem.DialogueSequence.Play(player)">Play(player)</h4>
+  <div class="markdown level1 summary"><p>Plays the dialogue for the specified player..</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public void Play(player whichPlayer)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -155,8 +188,8 @@
     </thead>
     <tbody>
       <tr>
-        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">List</span>&lt;<span class="xref">player</span>&gt;&gt;</td>
-        <td><span class="parametername">players</span></td>
+        <td><span class="xref">player</span></td>
+        <td><span class="parametername">whichPlayer</span></td>
         <td></td>
       </tr>
     </tbody>
@@ -176,7 +209,7 @@
                     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_DialogueSystem_DialogueSequence.md&amp;value=---%0Auid%3A%20MacroTools.DialogueSystem.DialogueSequence%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/DialogueSystem/DialogueSequence.cs/#L10" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/DialogueSystem/DialogueSequence.cs/#L9" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>
