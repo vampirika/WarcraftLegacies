@@ -21154,6 +21154,12 @@ references:
   commentId: T:MacroTools.UnitCategory
   fullName: MacroTools.UnitCategory
   nameWithType: UnitCategory
+- uid: MacroTools.UnitCategory.Portal
+  name: Portal
+  href: api-macroTools/MacroTools.UnitCategory.html#MacroTools_UnitCategory_Portal
+  commentId: F:MacroTools.UnitCategory.Portal
+  fullName: MacroTools.UnitCategory.Portal
+  nameWithType: UnitCategory.Portal
 - uid: MacroTools.UnitCategory.Shipyard
   name: Shipyard
   href: api-macroTools/MacroTools.UnitCategory.html#MacroTools_UnitCategory_Shipyard
@@ -21270,19 +21276,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.UnitType.LumberCost
   nameWithType: UnitType.LumberCost
-- uid: MacroTools.UnitType.Meta
-  name: Meta
-  href: api-macroTools/MacroTools.UnitType.html#MacroTools_UnitType_Meta
-  commentId: P:MacroTools.UnitType.Meta
-  fullName: MacroTools.UnitType.Meta
-  nameWithType: UnitType.Meta
-- uid: MacroTools.UnitType.Meta*
-  name: Meta
-  href: api-macroTools/MacroTools.UnitType.html#MacroTools_UnitType_Meta_
-  commentId: Overload:MacroTools.UnitType.Meta
+- uid: MacroTools.UnitType.NeverDelete
+  name: NeverDelete
+  href: api-macroTools/MacroTools.UnitType.html#MacroTools_UnitType_NeverDelete
+  commentId: P:MacroTools.UnitType.NeverDelete
+  fullName: MacroTools.UnitType.NeverDelete
+  nameWithType: UnitType.NeverDelete
+- uid: MacroTools.UnitType.NeverDelete*
+  name: NeverDelete
+  href: api-macroTools/MacroTools.UnitType.html#MacroTools_UnitType_NeverDelete_
+  commentId: Overload:MacroTools.UnitType.NeverDelete
   isSpec: "True"
-  fullName: MacroTools.UnitType.Meta
-  nameWithType: UnitType.Meta
+  fullName: MacroTools.UnitType.NeverDelete
+  nameWithType: UnitType.NeverDelete
 - uid: MacroTools.UnitType.Register(MacroTools.UnitType)
   name: Register(UnitType)
   href: api-macroTools/MacroTools.UnitType.html#MacroTools_UnitType_Register_MacroTools_UnitType_
