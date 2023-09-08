@@ -22069,25 +22069,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Commands.JoinCommand.Setup
   nameWithType: JoinCommand.Setup
-- uid: WarcraftLegacies.Source.Commands.LimitedCommand
-  name: LimitedCommand
-  href: api-source/WarcraftLegacies.Source.Commands.LimitedCommand.html
-  commentId: T:WarcraftLegacies.Source.Commands.LimitedCommand
-  fullName: WarcraftLegacies.Source.Commands.LimitedCommand
-  nameWithType: LimitedCommand
-- uid: WarcraftLegacies.Source.Commands.LimitedCommand.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.Commands.LimitedCommand.html#WarcraftLegacies_Source_Commands_LimitedCommand_Setup
-  commentId: M:WarcraftLegacies.Source.Commands.LimitedCommand.Setup
-  fullName: WarcraftLegacies.Source.Commands.LimitedCommand.Setup()
-  nameWithType: LimitedCommand.Setup()
-- uid: WarcraftLegacies.Source.Commands.LimitedCommand.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.Commands.LimitedCommand.html#WarcraftLegacies_Source_Commands_LimitedCommand_Setup_
-  commentId: Overload:WarcraftLegacies.Source.Commands.LimitedCommand.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Commands.LimitedCommand.Setup
-  nameWithType: LimitedCommand.Setup
 - uid: WarcraftLegacies.Source.Commands.ObserverCommand
   name: ObserverCommand
   href: api-source/WarcraftLegacies.Source.Commands.ObserverCommand.html

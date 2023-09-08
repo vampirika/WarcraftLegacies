@@ -1089,7 +1089,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Commands.Limited.html",
-          "hash": "nZJnrNwdaJaa9Foq+NkUmQ=="
+          "hash": "ku8Y4D+vB5qS+2BSJdRRKQ=="
         }
       },
       "is_incremental": false,
@@ -4541,18 +4541,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Commands.LimitedCommand.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Commands.LimitedCommand.html",
-          "hash": "SLTP3r1XHnfTgNi+FZH6Tw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Commands.ObserverCommand.yml",
       "output": {
         ".html": {
@@ -4593,7 +4581,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Commands.html",
-          "hash": "OUYglfcQLRMoZ6OVUFezDg=="
+          "hash": "89lDi7cS2ijXzpsD+Yv5eg=="
         }
       },
       "is_incremental": false,
@@ -9609,7 +9597,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "9e5S9cSHS1WfOL/8bVe4uA=="
+          "hash": "GEvEJNmzOBJ6UoQ2XuWMwQ=="
         }
       },
       "is_incremental": false,
@@ -9684,7 +9672,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 799,
+          "total_file_count": 798,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
