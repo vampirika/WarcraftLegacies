@@ -21200,12 +21200,6 @@ references:
   commentId: T:MacroTools.UnitCategory
   fullName: MacroTools.UnitCategory
   nameWithType: UnitCategory
-- uid: MacroTools.UnitCategory.Portal
-  name: Portal
-  href: api-macroTools/MacroTools.UnitCategory.html#MacroTools_UnitCategory_Portal
-  commentId: F:MacroTools.UnitCategory.Portal
-  fullName: MacroTools.UnitCategory.Portal
-  nameWithType: UnitCategory.Portal
 - uid: MacroTools.UnitCategory.Shipyard
   name: Shipyard
   href: api-macroTools/MacroTools.UnitCategory.html#MacroTools_UnitCategory_Shipyard
