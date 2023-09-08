@@ -73,7 +73,8 @@
   
   <h1 id="MacroTools_ObjectiveSystem_Objectives_UnitBased_ObjectiveResearch" data-uid="MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch" class="text-break">Class ObjectiveResearch
   </h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>An objective that involves researching a particular research.</p>
+</div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
@@ -100,18 +101,19 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ObjectiveSystem_Objectives_UnitBased_ObjectiveResearch__ctor_System_Int32_System_Int32_.md&amp;value=---%0Auid%3A%20MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch.%23ctor(System.Int32%2CSystem.Int32)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ObjectiveSystem_Objectives_UnitBased_ObjectiveResearch__ctor_System_Int32_System_Int32_System_Boolean_.md&amp;value=---%0Auid%3A%20MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch.%23ctor(System.Int32%2CSystem.Int32%2CSystem.Boolean)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ObjectiveSystem/Objectives/UnitBased/ObjectiveResearch.cs/#L10">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ObjectiveSystem/Objectives/UnitBased/ObjectiveResearch.cs/#L18">View Source</a>
   </span>
   <a id="MacroTools_ObjectiveSystem_Objectives_UnitBased_ObjectiveResearch__ctor_" data-uid="MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch.#ctor*"></a>
-  <h4 id="MacroTools_ObjectiveSystem_Objectives_UnitBased_ObjectiveResearch__ctor_System_Int32_System_Int32_" data-uid="MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch.#ctor(System.Int32,System.Int32)">ObjectiveResearch(Int32, Int32)</h4>
-  <div class="markdown level1 summary"></div>
+  <h4 id="MacroTools_ObjectiveSystem_Objectives_UnitBased_ObjectiveResearch__ctor_System_Int32_System_Int32_System_Boolean_" data-uid="MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch.#ctor(System.Int32,System.Int32,System.Boolean)">ObjectiveResearch(Int32, Int32, Boolean)</h4>
+  <div class="markdown level1 summary"><p>Initializes a new instance of the <a class="xref" href="MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch.html">ObjectiveResearch</a> class.</p>
+</div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public ObjectiveResearch(int researchId, int structureId)</code></pre>
+    <pre><code class="lang-csharp hljs">public ObjectiveResearch(int researchId, int structureId, bool structureIsProperNoun = false)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -126,12 +128,21 @@
       <tr>
         <td><span class="xref">System.Int32</span></td>
         <td><span class="parametername">researchId</span></td>
-        <td></td>
+        <td><p>The research one has to complete to complete the objective.</p>
+</td>
       </tr>
       <tr>
         <td><span class="xref">System.Int32</span></td>
         <td><span class="parametername">structureId</span></td>
-        <td></td>
+        <td><p>A strucutre that can research the research.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.Boolean</span></td>
+        <td><span class="parametername">structureIsProperNoun</span></td>
+        <td><p>If true, the structure is a proper noun, and the objective's description
+terminology will treat it as one.</p>
+</td>
       </tr>
     </tbody>
   </table>
@@ -146,7 +157,7 @@
                     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=MacroTools_ObjectiveSystem_Objectives_UnitBased_ObjectiveResearch.md&amp;value=---%0Auid%3A%20MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ObjectiveSystem/Objectives/UnitBased/ObjectiveResearch.cs/#L8" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/MacroTools/ObjectiveSystem/Objectives/UnitBased/ObjectiveResearch.cs/#L9" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>

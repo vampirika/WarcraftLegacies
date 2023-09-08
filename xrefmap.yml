@@ -13730,12 +13730,12 @@ references:
   commentId: T:MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch
   fullName: MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch
   nameWithType: ObjectiveResearch
-- uid: MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch.#ctor(System.Int32,System.Int32)
-  name: ObjectiveResearch(Int32, Int32)
-  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch.html#MacroTools_ObjectiveSystem_Objectives_UnitBased_ObjectiveResearch__ctor_System_Int32_System_Int32_
-  commentId: M:MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch.#ctor(System.Int32,System.Int32)
-  fullName: MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch.ObjectiveResearch(System.Int32, System.Int32)
-  nameWithType: ObjectiveResearch.ObjectiveResearch(Int32, Int32)
+- uid: MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch.#ctor(System.Int32,System.Int32,System.Boolean)
+  name: ObjectiveResearch(Int32, Int32, Boolean)
+  href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch.html#MacroTools_ObjectiveSystem_Objectives_UnitBased_ObjectiveResearch__ctor_System_Int32_System_Int32_System_Boolean_
+  commentId: M:MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch.#ctor(System.Int32,System.Int32,System.Boolean)
+  fullName: MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch.ObjectiveResearch(System.Int32, System.Int32, System.Boolean)
+  nameWithType: ObjectiveResearch.ObjectiveResearch(Int32, Int32, Boolean)
 - uid: MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch.#ctor*
   name: ObjectiveResearch
   href: api-macroTools/MacroTools.ObjectiveSystem.Objectives.UnitBased.ObjectiveResearch.html#MacroTools_ObjectiveSystem_Objectives_UnitBased_ObjectiveResearch__ctor_
