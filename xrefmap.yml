@@ -5391,25 +5391,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Cheats.TestMode.CheatCondition
   nameWithType: TestMode.CheatCondition
-- uid: MacroTools.Cheats.TestMode.CheatDocumentation
-  name: TestMode.CheatDocumentation
-  href: api-macroTools/MacroTools.Cheats.TestMode.CheatDocumentation.html
-  commentId: T:MacroTools.Cheats.TestMode.CheatDocumentation
-  fullName: MacroTools.Cheats.TestMode.CheatDocumentation
-  nameWithType: TestMode.CheatDocumentation
-- uid: MacroTools.Cheats.TestMode.CheatDocumentation.Setup(MacroTools.CommandSystem.CommandManager)
-  name: Setup(CommandManager)
-  href: api-macroTools/MacroTools.Cheats.TestMode.CheatDocumentation.html#MacroTools_Cheats_TestMode_CheatDocumentation_Setup_MacroTools_CommandSystem_CommandManager_
-  commentId: M:MacroTools.Cheats.TestMode.CheatDocumentation.Setup(MacroTools.CommandSystem.CommandManager)
-  fullName: MacroTools.Cheats.TestMode.CheatDocumentation.Setup(MacroTools.CommandSystem.CommandManager)
-  nameWithType: TestMode.CheatDocumentation.Setup(CommandManager)
-- uid: MacroTools.Cheats.TestMode.CheatDocumentation.Setup*
-  name: Setup
-  href: api-macroTools/MacroTools.Cheats.TestMode.CheatDocumentation.html#MacroTools_Cheats_TestMode_CheatDocumentation_Setup_
-  commentId: Overload:MacroTools.Cheats.TestMode.CheatDocumentation.Setup
-  isSpec: "True"
-  fullName: MacroTools.Cheats.TestMode.CheatDocumentation.Setup
-  nameWithType: TestMode.CheatDocumentation.Setup
 - uid: MacroTools.Cheats.TestMode.Setup(MacroTools.CommandSystem.CommandManager)
   name: Setup(CommandManager)
   href: api-macroTools/MacroTools.Cheats.TestMode.html#MacroTools_Cheats_TestMode_Setup_MacroTools_CommandSystem_CommandManager_

@@ -965,18 +965,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-macroTools/MacroTools.Cheats.TestMode.CheatDocumentation.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-macroTools/MacroTools.Cheats.TestMode.CheatDocumentation.html",
-          "hash": "u4DtOQuJ/KE/rbenCDezrg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Cheats.TestMode.yml",
       "output": {
         ".html": {
@@ -993,7 +981,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Cheats.html",
-          "hash": "BUMmotPawdGlCvewLWaFjA=="
+          "hash": "4x6P2YI7fFhGbsJii5/Hbg=="
         }
       },
       "is_incremental": false,
@@ -4401,7 +4389,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "Qk7wAChaZXYUBaxcYla9lw=="
+          "hash": "/WraRgHYFI3rdHhsS6DfDA=="
         }
       },
       "is_incremental": false,
@@ -9672,7 +9660,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 798,
+          "total_file_count": 797,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
