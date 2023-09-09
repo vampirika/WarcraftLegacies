@@ -16033,6 +16033,19 @@ references:
   commentId: F:MacroTools.Powers.OilPower.AmountChanged
   fullName: MacroTools.Powers.OilPower.AmountChanged
   nameWithType: OilPower.AmountChanged
+- uid: MacroTools.Powers.OilPower.ForcedStartingOilPoolSpawnLocations
+  name: ForcedStartingOilPoolSpawnLocations
+  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_ForcedStartingOilPoolSpawnLocations
+  commentId: P:MacroTools.Powers.OilPower.ForcedStartingOilPoolSpawnLocations
+  fullName: MacroTools.Powers.OilPower.ForcedStartingOilPoolSpawnLocations
+  nameWithType: OilPower.ForcedStartingOilPoolSpawnLocations
+- uid: MacroTools.Powers.OilPower.ForcedStartingOilPoolSpawnLocations*
+  name: ForcedStartingOilPoolSpawnLocations
+  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_ForcedStartingOilPoolSpawnLocations_
+  commentId: Overload:MacroTools.Powers.OilPower.ForcedStartingOilPoolSpawnLocations
+  isSpec: "True"
+  fullName: MacroTools.Powers.OilPower.ForcedStartingOilPoolSpawnLocations
+  nameWithType: OilPower.ForcedStartingOilPoolSpawnLocations
 - uid: MacroTools.Powers.OilPower.GetAllOilPools
   name: GetAllOilPools()
   href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_GetAllOilPools
@@ -16150,19 +16163,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.Powers.OilPower.OnRemove
   nameWithType: OilPower.OnRemove
-- uid: MacroTools.Powers.OilPower.StartingOilPoolCount
-  name: StartingOilPoolCount
-  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_StartingOilPoolCount
-  commentId: P:MacroTools.Powers.OilPower.StartingOilPoolCount
-  fullName: MacroTools.Powers.OilPower.StartingOilPoolCount
-  nameWithType: OilPower.StartingOilPoolCount
-- uid: MacroTools.Powers.OilPower.StartingOilPoolCount*
-  name: StartingOilPoolCount
-  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_StartingOilPoolCount_
-  commentId: Overload:MacroTools.Powers.OilPower.StartingOilPoolCount
+- uid: MacroTools.Powers.OilPower.StartingRandomOilPoolCount
+  name: StartingRandomOilPoolCount
+  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_StartingRandomOilPoolCount
+  commentId: P:MacroTools.Powers.OilPower.StartingRandomOilPoolCount
+  fullName: MacroTools.Powers.OilPower.StartingRandomOilPoolCount
+  nameWithType: OilPower.StartingRandomOilPoolCount
+- uid: MacroTools.Powers.OilPower.StartingRandomOilPoolCount*
+  name: StartingRandomOilPoolCount
+  href: api-macroTools/MacroTools.Powers.OilPower.html#MacroTools_Powers_OilPower_StartingRandomOilPoolCount_
+  commentId: Overload:MacroTools.Powers.OilPower.StartingRandomOilPoolCount
   isSpec: "True"
-  fullName: MacroTools.Powers.OilPower.StartingOilPoolCount
-  nameWithType: OilPower.StartingOilPoolCount
+  fullName: MacroTools.Powers.OilPower.StartingRandomOilPoolCount
+  nameWithType: OilPower.StartingRandomOilPoolCount
 - uid: MacroTools.Powers.RapidMobilization
   name: RapidMobilization
   href: api-macroTools/MacroTools.Powers.RapidMobilization.html
