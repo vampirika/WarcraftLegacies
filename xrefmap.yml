@@ -35752,19 +35752,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.EyeOfSargeras
   nameWithType: ArtifactSetup.EyeOfSargeras
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.Gorehowl
-  name: Gorehowl
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_Gorehowl
-  commentId: P:WarcraftLegacies.Source.Setup.ArtifactSetup.Gorehowl
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.Gorehowl
-  nameWithType: ArtifactSetup.Gorehowl
-- uid: WarcraftLegacies.Source.Setup.ArtifactSetup.Gorehowl*
-  name: Gorehowl
-  href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_Gorehowl_
-  commentId: Overload:WarcraftLegacies.Source.Setup.ArtifactSetup.Gorehowl
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.ArtifactSetup.Gorehowl
-  nameWithType: ArtifactSetup.Gorehowl
 - uid: WarcraftLegacies.Source.Setup.ArtifactSetup.HelmOfDomination
   name: HelmOfDomination
   href: api-source/WarcraftLegacies.Source.Setup.ArtifactSetup.html#WarcraftLegacies_Source_Setup_ArtifactSetup_HelmOfDomination
