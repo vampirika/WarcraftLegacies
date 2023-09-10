@@ -3053,6 +3053,18 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.RemoveOnDeath.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.PassiveAbilities.RemoveOnDeath.html",
+          "hash": "odgW+AcyozGIfrfOJVVDrw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.PassiveAbilities.RestoreManaFromDamage.yml",
       "output": {
         ".html": {
@@ -3141,7 +3153,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilities.html",
-          "hash": "SLseBtaqsbVPq4p8yonqRA=="
+          "hash": "0c2xDCGZs/yYfE4G0y90QQ=="
         }
       },
       "is_incremental": false,
@@ -3177,7 +3189,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.PassiveAbilitySystem.PassiveAbility.html",
-          "hash": "cSC540TzE8Dr2eoOWXuKcQ=="
+          "hash": "WkkeynFz7J7DzW0GMls6HQ=="
         }
       },
       "is_incremental": false,
@@ -4389,7 +4401,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "/WraRgHYFI3rdHhsS6DfDA=="
+          "hash": "wV2IxImbO11eJtNHSIoFAg=="
         }
       },
       "is_incremental": false,
@@ -9612,7 +9624,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 793,
+          "total_file_count": 794,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

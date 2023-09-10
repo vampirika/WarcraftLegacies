@@ -14809,6 +14809,51 @@ references:
   isSpec: "True"
   fullName: MacroTools.PassiveAbilities.RegionRestricted.OnCreated
   nameWithType: RegionRestricted.OnCreated
+- uid: MacroTools.PassiveAbilities.RemoveOnDeath
+  name: RemoveOnDeath
+  href: api-macroTools/MacroTools.PassiveAbilities.RemoveOnDeath.html
+  commentId: T:MacroTools.PassiveAbilities.RemoveOnDeath
+  fullName: MacroTools.PassiveAbilities.RemoveOnDeath
+  nameWithType: RemoveOnDeath
+- uid: MacroTools.PassiveAbilities.RemoveOnDeath.#ctor(System.Int32)
+  name: RemoveOnDeath(Int32)
+  href: api-macroTools/MacroTools.PassiveAbilities.RemoveOnDeath.html#MacroTools_PassiveAbilities_RemoveOnDeath__ctor_System_Int32_
+  commentId: M:MacroTools.PassiveAbilities.RemoveOnDeath.#ctor(System.Int32)
+  fullName: MacroTools.PassiveAbilities.RemoveOnDeath.RemoveOnDeath(System.Int32)
+  nameWithType: RemoveOnDeath.RemoveOnDeath(Int32)
+- uid: MacroTools.PassiveAbilities.RemoveOnDeath.#ctor*
+  name: RemoveOnDeath
+  href: api-macroTools/MacroTools.PassiveAbilities.RemoveOnDeath.html#MacroTools_PassiveAbilities_RemoveOnDeath__ctor_
+  commentId: Overload:MacroTools.PassiveAbilities.RemoveOnDeath.#ctor
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.RemoveOnDeath.RemoveOnDeath
+  nameWithType: RemoveOnDeath.RemoveOnDeath
+- uid: MacroTools.PassiveAbilities.RemoveOnDeath.DeathEffectPath
+  name: DeathEffectPath
+  href: api-macroTools/MacroTools.PassiveAbilities.RemoveOnDeath.html#MacroTools_PassiveAbilities_RemoveOnDeath_DeathEffectPath
+  commentId: P:MacroTools.PassiveAbilities.RemoveOnDeath.DeathEffectPath
+  fullName: MacroTools.PassiveAbilities.RemoveOnDeath.DeathEffectPath
+  nameWithType: RemoveOnDeath.DeathEffectPath
+- uid: MacroTools.PassiveAbilities.RemoveOnDeath.DeathEffectPath*
+  name: DeathEffectPath
+  href: api-macroTools/MacroTools.PassiveAbilities.RemoveOnDeath.html#MacroTools_PassiveAbilities_RemoveOnDeath_DeathEffectPath_
+  commentId: Overload:MacroTools.PassiveAbilities.RemoveOnDeath.DeathEffectPath
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.RemoveOnDeath.DeathEffectPath
+  nameWithType: RemoveOnDeath.DeathEffectPath
+- uid: MacroTools.PassiveAbilities.RemoveOnDeath.OnDeath
+  name: OnDeath()
+  href: api-macroTools/MacroTools.PassiveAbilities.RemoveOnDeath.html#MacroTools_PassiveAbilities_RemoveOnDeath_OnDeath
+  commentId: M:MacroTools.PassiveAbilities.RemoveOnDeath.OnDeath
+  fullName: MacroTools.PassiveAbilities.RemoveOnDeath.OnDeath()
+  nameWithType: RemoveOnDeath.OnDeath()
+- uid: MacroTools.PassiveAbilities.RemoveOnDeath.OnDeath*
+  name: OnDeath
+  href: api-macroTools/MacroTools.PassiveAbilities.RemoveOnDeath.html#MacroTools_PassiveAbilities_RemoveOnDeath_OnDeath_
+  commentId: Overload:MacroTools.PassiveAbilities.RemoveOnDeath.OnDeath
+  isSpec: "True"
+  fullName: MacroTools.PassiveAbilities.RemoveOnDeath.OnDeath
+  nameWithType: RemoveOnDeath.OnDeath
 - uid: MacroTools.PassiveAbilities.RestoreManaFromDamage
   name: RestoreManaFromDamage
   href: api-macroTools/MacroTools.PassiveAbilities.RestoreManaFromDamage.html
