@@ -38259,19 +38259,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendDruids.Cenarius
   nameWithType: LegendDruids.Cenarius
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendDruids.Darnassus
-  name: Darnassus
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDruids.html#WarcraftLegacies_Source_Setup_Legends_LegendDruids_Darnassus
-  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendDruids.Darnassus
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDruids.Darnassus
-  nameWithType: LegendDruids.Darnassus
-- uid: WarcraftLegacies.Source.Setup.Legends.LegendDruids.Darnassus*
-  name: Darnassus
-  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDruids.html#WarcraftLegacies_Source_Setup_Legends_LegendDruids_Darnassus_
-  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendDruids.Darnassus
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDruids.Darnassus
-  nameWithType: LegendDruids.Darnassus
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDruids.Fandral
   name: Fandral
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDruids.html#WarcraftLegacies_Source_Setup_Legends_LegendDruids_Fandral
@@ -38324,6 +38311,19 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Setup.Legends.LegendDruids.RegisterLegends
   nameWithType: LegendDruids.RegisterLegends
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDruids.TempleOfTheMoon
+  name: TempleOfTheMoon
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDruids.html#WarcraftLegacies_Source_Setup_Legends_LegendDruids_TempleOfTheMoon
+  commentId: P:WarcraftLegacies.Source.Setup.Legends.LegendDruids.TempleOfTheMoon
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDruids.TempleOfTheMoon
+  nameWithType: LegendDruids.TempleOfTheMoon
+- uid: WarcraftLegacies.Source.Setup.Legends.LegendDruids.TempleOfTheMoon*
+  name: TempleOfTheMoon
+  href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDruids.html#WarcraftLegacies_Source_Setup_Legends_LegendDruids_TempleOfTheMoon_
+  commentId: Overload:WarcraftLegacies.Source.Setup.Legends.LegendDruids.TempleOfTheMoon
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.Setup.Legends.LegendDruids.TempleOfTheMoon
+  nameWithType: LegendDruids.TempleOfTheMoon
 - uid: WarcraftLegacies.Source.Setup.Legends.LegendDruids.Tortolla
   name: Tortolla
   href: api-source/WarcraftLegacies.Source.Setup.Legends.LegendDruids.html#WarcraftLegacies_Source_Setup_Legends_LegendDruids_Tortolla
