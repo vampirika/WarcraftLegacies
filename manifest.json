@@ -1005,7 +1005,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.CommandSystem.Command.html",
-          "hash": "1uSt11GollUds2oIAVO4TA=="
+          "hash": "3tDM+5uPC40Z7rSNT0nwaw=="
         }
       },
       "is_incremental": false,
@@ -1017,7 +1017,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.CommandSystem.CommandManager.html",
-          "hash": "ZYorQmfGGRB84JsA0jsQxg=="
+          "hash": "plRjKqffetjylFU/a17lTw=="
         }
       },
       "is_incremental": false,
@@ -1073,6 +1073,30 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Commands.GiveGold.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Commands.GiveGold.html",
+          "hash": "iSlyemhCibOO3mc/YLerWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Commands.GiveLumber.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Commands.GiveLumber.html",
+          "hash": "o7XKW/a9oH+1rDBgkxF+kQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Commands.Limited.yml",
       "output": {
         ".html": {
@@ -1085,11 +1109,23 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api-macroTools/MacroTools.Commands.Share.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-macroTools/MacroTools.Commands.Share.html",
+          "hash": "KazdIUMertLTmeg+8tAAMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api-macroTools/MacroTools.Commands.yml",
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Commands.html",
-          "hash": "XvKyNE6vEcH9b4I1kAAJwA=="
+          "hash": "GaATGBEfsmHohESh9zrSbQ=="
         }
       },
       "is_incremental": false,
@@ -4401,7 +4437,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/toc.html",
-          "hash": "wV2IxImbO11eJtNHSIoFAg=="
+          "hash": "KSyMBGYtXe8be4X2hs0xrQ=="
         }
       },
       "is_incremental": false,
@@ -4841,18 +4877,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.GameSettings.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.GameSettings.html",
-          "hash": "z5Kvg72gxMDeymrodzdDEQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.HeroGlowFix.yml",
       "output": {
         ".html": {
@@ -4870,6 +4894,18 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.InfoQuests.html",
           "hash": "vTdShqbxZaQ6TkEtOFinJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.MapFlagSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.MapFlagSetup.html",
+          "hash": "m81uQwhwcye4rM8sZ1y4Ig=="
         }
       },
       "is_incremental": false,
@@ -4977,7 +5013,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.html",
-          "hash": "rMGKnc1daKpO3zZLAcBBuA=="
+          "hash": "9Ozsag5Sjjvxx7j8d9ZKrw=="
         }
       },
       "is_incremental": false,
@@ -9549,7 +9585,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "m5OV2g29d/SH/qIAxFHFXQ=="
+          "hash": "clGKKQsSikoDCfNq9861mQ=="
         }
       },
       "is_incremental": false,
@@ -9624,7 +9660,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 794,
+          "total_file_count": 797,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

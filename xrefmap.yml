@@ -5668,6 +5668,206 @@ references:
   isSpec: "True"
   fullName: MacroTools.Commands.Clear.Type
   nameWithType: Clear.Type
+- uid: MacroTools.Commands.GiveGold
+  name: GiveGold
+  href: api-macroTools/MacroTools.Commands.GiveGold.html
+  commentId: T:MacroTools.Commands.GiveGold
+  fullName: MacroTools.Commands.GiveGold
+  nameWithType: GiveGold
+- uid: MacroTools.Commands.GiveGold.#ctor(System.String)
+  name: GiveGold(String)
+  href: api-macroTools/MacroTools.Commands.GiveGold.html#MacroTools_Commands_GiveGold__ctor_System_String_
+  commentId: M:MacroTools.Commands.GiveGold.#ctor(System.String)
+  fullName: MacroTools.Commands.GiveGold.GiveGold(System.String)
+  nameWithType: GiveGold.GiveGold(String)
+- uid: MacroTools.Commands.GiveGold.#ctor*
+  name: GiveGold
+  href: api-macroTools/MacroTools.Commands.GiveGold.html#MacroTools_Commands_GiveGold__ctor_
+  commentId: Overload:MacroTools.Commands.GiveGold.#ctor
+  isSpec: "True"
+  fullName: MacroTools.Commands.GiveGold.GiveGold
+  nameWithType: GiveGold.GiveGold
+- uid: MacroTools.Commands.GiveGold.CommandText
+  name: CommandText
+  href: api-macroTools/MacroTools.Commands.GiveGold.html#MacroTools_Commands_GiveGold_CommandText
+  commentId: P:MacroTools.Commands.GiveGold.CommandText
+  fullName: MacroTools.Commands.GiveGold.CommandText
+  nameWithType: GiveGold.CommandText
+- uid: MacroTools.Commands.GiveGold.CommandText*
+  name: CommandText
+  href: api-macroTools/MacroTools.Commands.GiveGold.html#MacroTools_Commands_GiveGold_CommandText_
+  commentId: Overload:MacroTools.Commands.GiveGold.CommandText
+  isSpec: "True"
+  fullName: MacroTools.Commands.GiveGold.CommandText
+  nameWithType: GiveGold.CommandText
+- uid: MacroTools.Commands.GiveGold.Description
+  name: Description
+  href: api-macroTools/MacroTools.Commands.GiveGold.html#MacroTools_Commands_GiveGold_Description
+  commentId: P:MacroTools.Commands.GiveGold.Description
+  fullName: MacroTools.Commands.GiveGold.Description
+  nameWithType: GiveGold.Description
+- uid: MacroTools.Commands.GiveGold.Description*
+  name: Description
+  href: api-macroTools/MacroTools.Commands.GiveGold.html#MacroTools_Commands_GiveGold_Description_
+  commentId: Overload:MacroTools.Commands.GiveGold.Description
+  isSpec: "True"
+  fullName: MacroTools.Commands.GiveGold.Description
+  nameWithType: GiveGold.Description
+- uid: MacroTools.Commands.GiveGold.Exact
+  name: Exact
+  href: api-macroTools/MacroTools.Commands.GiveGold.html#MacroTools_Commands_GiveGold_Exact
+  commentId: P:MacroTools.Commands.GiveGold.Exact
+  fullName: MacroTools.Commands.GiveGold.Exact
+  nameWithType: GiveGold.Exact
+- uid: MacroTools.Commands.GiveGold.Exact*
+  name: Exact
+  href: api-macroTools/MacroTools.Commands.GiveGold.html#MacroTools_Commands_GiveGold_Exact_
+  commentId: Overload:MacroTools.Commands.GiveGold.Exact
+  isSpec: "True"
+  fullName: MacroTools.Commands.GiveGold.Exact
+  nameWithType: GiveGold.Exact
+- uid: MacroTools.Commands.GiveGold.Execute(player,System.String[])
+  name: Execute(player, String[])
+  href: api-macroTools/MacroTools.Commands.GiveGold.html#MacroTools_Commands_GiveGold_Execute_player_System_String___
+  commentId: M:MacroTools.Commands.GiveGold.Execute(player,System.String[])
+  name.vb: Execute(player, String())
+  fullName: MacroTools.Commands.GiveGold.Execute(player, System.String[])
+  fullName.vb: MacroTools.Commands.GiveGold.Execute(player, System.String())
+  nameWithType: GiveGold.Execute(player, String[])
+  nameWithType.vb: GiveGold.Execute(player, String())
+- uid: MacroTools.Commands.GiveGold.Execute*
+  name: Execute
+  href: api-macroTools/MacroTools.Commands.GiveGold.html#MacroTools_Commands_GiveGold_Execute_
+  commentId: Overload:MacroTools.Commands.GiveGold.Execute
+  isSpec: "True"
+  fullName: MacroTools.Commands.GiveGold.Execute
+  nameWithType: GiveGold.Execute
+- uid: MacroTools.Commands.GiveGold.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Commands.GiveGold.html#MacroTools_Commands_GiveGold_MinimumParameterCount
+  commentId: P:MacroTools.Commands.GiveGold.MinimumParameterCount
+  fullName: MacroTools.Commands.GiveGold.MinimumParameterCount
+  nameWithType: GiveGold.MinimumParameterCount
+- uid: MacroTools.Commands.GiveGold.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Commands.GiveGold.html#MacroTools_Commands_GiveGold_MinimumParameterCount_
+  commentId: Overload:MacroTools.Commands.GiveGold.MinimumParameterCount
+  isSpec: "True"
+  fullName: MacroTools.Commands.GiveGold.MinimumParameterCount
+  nameWithType: GiveGold.MinimumParameterCount
+- uid: MacroTools.Commands.GiveGold.Type
+  name: Type
+  href: api-macroTools/MacroTools.Commands.GiveGold.html#MacroTools_Commands_GiveGold_Type
+  commentId: P:MacroTools.Commands.GiveGold.Type
+  fullName: MacroTools.Commands.GiveGold.Type
+  nameWithType: GiveGold.Type
+- uid: MacroTools.Commands.GiveGold.Type*
+  name: Type
+  href: api-macroTools/MacroTools.Commands.GiveGold.html#MacroTools_Commands_GiveGold_Type_
+  commentId: Overload:MacroTools.Commands.GiveGold.Type
+  isSpec: "True"
+  fullName: MacroTools.Commands.GiveGold.Type
+  nameWithType: GiveGold.Type
+- uid: MacroTools.Commands.GiveLumber
+  name: GiveLumber
+  href: api-macroTools/MacroTools.Commands.GiveLumber.html
+  commentId: T:MacroTools.Commands.GiveLumber
+  fullName: MacroTools.Commands.GiveLumber
+  nameWithType: GiveLumber
+- uid: MacroTools.Commands.GiveLumber.#ctor(System.String)
+  name: GiveLumber(String)
+  href: api-macroTools/MacroTools.Commands.GiveLumber.html#MacroTools_Commands_GiveLumber__ctor_System_String_
+  commentId: M:MacroTools.Commands.GiveLumber.#ctor(System.String)
+  fullName: MacroTools.Commands.GiveLumber.GiveLumber(System.String)
+  nameWithType: GiveLumber.GiveLumber(String)
+- uid: MacroTools.Commands.GiveLumber.#ctor*
+  name: GiveLumber
+  href: api-macroTools/MacroTools.Commands.GiveLumber.html#MacroTools_Commands_GiveLumber__ctor_
+  commentId: Overload:MacroTools.Commands.GiveLumber.#ctor
+  isSpec: "True"
+  fullName: MacroTools.Commands.GiveLumber.GiveLumber
+  nameWithType: GiveLumber.GiveLumber
+- uid: MacroTools.Commands.GiveLumber.CommandText
+  name: CommandText
+  href: api-macroTools/MacroTools.Commands.GiveLumber.html#MacroTools_Commands_GiveLumber_CommandText
+  commentId: P:MacroTools.Commands.GiveLumber.CommandText
+  fullName: MacroTools.Commands.GiveLumber.CommandText
+  nameWithType: GiveLumber.CommandText
+- uid: MacroTools.Commands.GiveLumber.CommandText*
+  name: CommandText
+  href: api-macroTools/MacroTools.Commands.GiveLumber.html#MacroTools_Commands_GiveLumber_CommandText_
+  commentId: Overload:MacroTools.Commands.GiveLumber.CommandText
+  isSpec: "True"
+  fullName: MacroTools.Commands.GiveLumber.CommandText
+  nameWithType: GiveLumber.CommandText
+- uid: MacroTools.Commands.GiveLumber.Description
+  name: Description
+  href: api-macroTools/MacroTools.Commands.GiveLumber.html#MacroTools_Commands_GiveLumber_Description
+  commentId: P:MacroTools.Commands.GiveLumber.Description
+  fullName: MacroTools.Commands.GiveLumber.Description
+  nameWithType: GiveLumber.Description
+- uid: MacroTools.Commands.GiveLumber.Description*
+  name: Description
+  href: api-macroTools/MacroTools.Commands.GiveLumber.html#MacroTools_Commands_GiveLumber_Description_
+  commentId: Overload:MacroTools.Commands.GiveLumber.Description
+  isSpec: "True"
+  fullName: MacroTools.Commands.GiveLumber.Description
+  nameWithType: GiveLumber.Description
+- uid: MacroTools.Commands.GiveLumber.Exact
+  name: Exact
+  href: api-macroTools/MacroTools.Commands.GiveLumber.html#MacroTools_Commands_GiveLumber_Exact
+  commentId: P:MacroTools.Commands.GiveLumber.Exact
+  fullName: MacroTools.Commands.GiveLumber.Exact
+  nameWithType: GiveLumber.Exact
+- uid: MacroTools.Commands.GiveLumber.Exact*
+  name: Exact
+  href: api-macroTools/MacroTools.Commands.GiveLumber.html#MacroTools_Commands_GiveLumber_Exact_
+  commentId: Overload:MacroTools.Commands.GiveLumber.Exact
+  isSpec: "True"
+  fullName: MacroTools.Commands.GiveLumber.Exact
+  nameWithType: GiveLumber.Exact
+- uid: MacroTools.Commands.GiveLumber.Execute(player,System.String[])
+  name: Execute(player, String[])
+  href: api-macroTools/MacroTools.Commands.GiveLumber.html#MacroTools_Commands_GiveLumber_Execute_player_System_String___
+  commentId: M:MacroTools.Commands.GiveLumber.Execute(player,System.String[])
+  name.vb: Execute(player, String())
+  fullName: MacroTools.Commands.GiveLumber.Execute(player, System.String[])
+  fullName.vb: MacroTools.Commands.GiveLumber.Execute(player, System.String())
+  nameWithType: GiveLumber.Execute(player, String[])
+  nameWithType.vb: GiveLumber.Execute(player, String())
+- uid: MacroTools.Commands.GiveLumber.Execute*
+  name: Execute
+  href: api-macroTools/MacroTools.Commands.GiveLumber.html#MacroTools_Commands_GiveLumber_Execute_
+  commentId: Overload:MacroTools.Commands.GiveLumber.Execute
+  isSpec: "True"
+  fullName: MacroTools.Commands.GiveLumber.Execute
+  nameWithType: GiveLumber.Execute
+- uid: MacroTools.Commands.GiveLumber.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Commands.GiveLumber.html#MacroTools_Commands_GiveLumber_MinimumParameterCount
+  commentId: P:MacroTools.Commands.GiveLumber.MinimumParameterCount
+  fullName: MacroTools.Commands.GiveLumber.MinimumParameterCount
+  nameWithType: GiveLumber.MinimumParameterCount
+- uid: MacroTools.Commands.GiveLumber.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Commands.GiveLumber.html#MacroTools_Commands_GiveLumber_MinimumParameterCount_
+  commentId: Overload:MacroTools.Commands.GiveLumber.MinimumParameterCount
+  isSpec: "True"
+  fullName: MacroTools.Commands.GiveLumber.MinimumParameterCount
+  nameWithType: GiveLumber.MinimumParameterCount
+- uid: MacroTools.Commands.GiveLumber.Type
+  name: Type
+  href: api-macroTools/MacroTools.Commands.GiveLumber.html#MacroTools_Commands_GiveLumber_Type
+  commentId: P:MacroTools.Commands.GiveLumber.Type
+  fullName: MacroTools.Commands.GiveLumber.Type
+  nameWithType: GiveLumber.Type
+- uid: MacroTools.Commands.GiveLumber.Type*
+  name: Type
+  href: api-macroTools/MacroTools.Commands.GiveLumber.html#MacroTools_Commands_GiveLumber_Type_
+  commentId: Overload:MacroTools.Commands.GiveLumber.Type
+  isSpec: "True"
+  fullName: MacroTools.Commands.GiveLumber.Type
+  nameWithType: GiveLumber.Type
 - uid: MacroTools.Commands.Limited
   name: Limited
   href: api-macroTools/MacroTools.Commands.Limited.html
@@ -5755,6 +5955,93 @@ references:
   isSpec: "True"
   fullName: MacroTools.Commands.Limited.Type
   nameWithType: Limited.Type
+- uid: MacroTools.Commands.Share
+  name: Share
+  href: api-macroTools/MacroTools.Commands.Share.html
+  commentId: T:MacroTools.Commands.Share
+  fullName: MacroTools.Commands.Share
+  nameWithType: Share
+- uid: MacroTools.Commands.Share.CommandText
+  name: CommandText
+  href: api-macroTools/MacroTools.Commands.Share.html#MacroTools_Commands_Share_CommandText
+  commentId: P:MacroTools.Commands.Share.CommandText
+  fullName: MacroTools.Commands.Share.CommandText
+  nameWithType: Share.CommandText
+- uid: MacroTools.Commands.Share.CommandText*
+  name: CommandText
+  href: api-macroTools/MacroTools.Commands.Share.html#MacroTools_Commands_Share_CommandText_
+  commentId: Overload:MacroTools.Commands.Share.CommandText
+  isSpec: "True"
+  fullName: MacroTools.Commands.Share.CommandText
+  nameWithType: Share.CommandText
+- uid: MacroTools.Commands.Share.Description
+  name: Description
+  href: api-macroTools/MacroTools.Commands.Share.html#MacroTools_Commands_Share_Description
+  commentId: P:MacroTools.Commands.Share.Description
+  fullName: MacroTools.Commands.Share.Description
+  nameWithType: Share.Description
+- uid: MacroTools.Commands.Share.Description*
+  name: Description
+  href: api-macroTools/MacroTools.Commands.Share.html#MacroTools_Commands_Share_Description_
+  commentId: Overload:MacroTools.Commands.Share.Description
+  isSpec: "True"
+  fullName: MacroTools.Commands.Share.Description
+  nameWithType: Share.Description
+- uid: MacroTools.Commands.Share.Exact
+  name: Exact
+  href: api-macroTools/MacroTools.Commands.Share.html#MacroTools_Commands_Share_Exact
+  commentId: P:MacroTools.Commands.Share.Exact
+  fullName: MacroTools.Commands.Share.Exact
+  nameWithType: Share.Exact
+- uid: MacroTools.Commands.Share.Exact*
+  name: Exact
+  href: api-macroTools/MacroTools.Commands.Share.html#MacroTools_Commands_Share_Exact_
+  commentId: Overload:MacroTools.Commands.Share.Exact
+  isSpec: "True"
+  fullName: MacroTools.Commands.Share.Exact
+  nameWithType: Share.Exact
+- uid: MacroTools.Commands.Share.Execute(player,System.String[])
+  name: Execute(player, String[])
+  href: api-macroTools/MacroTools.Commands.Share.html#MacroTools_Commands_Share_Execute_player_System_String___
+  commentId: M:MacroTools.Commands.Share.Execute(player,System.String[])
+  name.vb: Execute(player, String())
+  fullName: MacroTools.Commands.Share.Execute(player, System.String[])
+  fullName.vb: MacroTools.Commands.Share.Execute(player, System.String())
+  nameWithType: Share.Execute(player, String[])
+  nameWithType.vb: Share.Execute(player, String())
+- uid: MacroTools.Commands.Share.Execute*
+  name: Execute
+  href: api-macroTools/MacroTools.Commands.Share.html#MacroTools_Commands_Share_Execute_
+  commentId: Overload:MacroTools.Commands.Share.Execute
+  isSpec: "True"
+  fullName: MacroTools.Commands.Share.Execute
+  nameWithType: Share.Execute
+- uid: MacroTools.Commands.Share.MinimumParameterCount
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Commands.Share.html#MacroTools_Commands_Share_MinimumParameterCount
+  commentId: P:MacroTools.Commands.Share.MinimumParameterCount
+  fullName: MacroTools.Commands.Share.MinimumParameterCount
+  nameWithType: Share.MinimumParameterCount
+- uid: MacroTools.Commands.Share.MinimumParameterCount*
+  name: MinimumParameterCount
+  href: api-macroTools/MacroTools.Commands.Share.html#MacroTools_Commands_Share_MinimumParameterCount_
+  commentId: Overload:MacroTools.Commands.Share.MinimumParameterCount
+  isSpec: "True"
+  fullName: MacroTools.Commands.Share.MinimumParameterCount
+  nameWithType: Share.MinimumParameterCount
+- uid: MacroTools.Commands.Share.Type
+  name: Type
+  href: api-macroTools/MacroTools.Commands.Share.html#MacroTools_Commands_Share_Type
+  commentId: P:MacroTools.Commands.Share.Type
+  fullName: MacroTools.Commands.Share.Type
+  nameWithType: Share.Type
+- uid: MacroTools.Commands.Share.Type*
+  name: Type
+  href: api-macroTools/MacroTools.Commands.Share.html#MacroTools_Commands_Share_Type_
+  commentId: Overload:MacroTools.Commands.Share.Type
+  isSpec: "True"
+  fullName: MacroTools.Commands.Share.Type
+  nameWithType: Share.Type
 - uid: MacroTools.CommandSystem
   name: MacroTools.CommandSystem
   href: api-macroTools/MacroTools.CommandSystem.html
@@ -22655,25 +22942,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.GameEnd.PlayerLeaves.Setup
   nameWithType: PlayerLeaves.Setup
-- uid: WarcraftLegacies.Source.GameLogic.GameSettings
-  name: GameSettings
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameSettings.html
-  commentId: T:WarcraftLegacies.Source.GameLogic.GameSettings
-  fullName: WarcraftLegacies.Source.GameLogic.GameSettings
-  nameWithType: GameSettings
-- uid: WarcraftLegacies.Source.GameLogic.GameSettings.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameSettings.html#WarcraftLegacies_Source_GameLogic_GameSettings_Setup
-  commentId: M:WarcraftLegacies.Source.GameLogic.GameSettings.Setup
-  fullName: WarcraftLegacies.Source.GameLogic.GameSettings.Setup()
-  nameWithType: GameSettings.Setup()
-- uid: WarcraftLegacies.Source.GameLogic.GameSettings.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameSettings.html#WarcraftLegacies_Source_GameLogic_GameSettings_Setup_
-  commentId: Overload:WarcraftLegacies.Source.GameLogic.GameSettings.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.GameLogic.GameSettings.Setup
-  nameWithType: GameSettings.Setup
 - uid: WarcraftLegacies.Source.GameLogic.HeroGlowFix
   name: HeroGlowFix
   href: api-source/WarcraftLegacies.Source.GameLogic.HeroGlowFix.html
@@ -22712,6 +22980,25 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.InfoQuests.Setup
   nameWithType: InfoQuests.Setup
+- uid: WarcraftLegacies.Source.GameLogic.MapFlagSetup
+  name: MapFlagSetup
+  href: api-source/WarcraftLegacies.Source.GameLogic.MapFlagSetup.html
+  commentId: T:WarcraftLegacies.Source.GameLogic.MapFlagSetup
+  fullName: WarcraftLegacies.Source.GameLogic.MapFlagSetup
+  nameWithType: MapFlagSetup
+- uid: WarcraftLegacies.Source.GameLogic.MapFlagSetup.Setup
+  name: Setup()
+  href: api-source/WarcraftLegacies.Source.GameLogic.MapFlagSetup.html#WarcraftLegacies_Source_GameLogic_MapFlagSetup_Setup
+  commentId: M:WarcraftLegacies.Source.GameLogic.MapFlagSetup.Setup
+  fullName: WarcraftLegacies.Source.GameLogic.MapFlagSetup.Setup()
+  nameWithType: MapFlagSetup.Setup()
+- uid: WarcraftLegacies.Source.GameLogic.MapFlagSetup.Setup*
+  name: Setup
+  href: api-source/WarcraftLegacies.Source.GameLogic.MapFlagSetup.html#WarcraftLegacies_Source_GameLogic_MapFlagSetup_Setup_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.MapFlagSetup.Setup
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.MapFlagSetup.Setup
+  nameWithType: MapFlagSetup.Setup
 - uid: WarcraftLegacies.Source.GameLogic.OpenAllianceVote
   name: OpenAllianceVote
   href: api-source/WarcraftLegacies.Source.GameLogic.OpenAllianceVote.html
