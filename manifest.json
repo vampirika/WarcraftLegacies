@@ -1305,7 +1305,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.PlayerExtensions.html",
-          "hash": "v2w43ami3AFVO1j+7ouwjw=="
+          "hash": "OAXNilcut+ocCuNpsQfYJw=="
         }
       },
       "is_incremental": false,
@@ -1341,7 +1341,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.RescuePreparationMode.html",
-          "hash": "RJJG6x9VlJ6lDZGybvDklw=="
+          "hash": "THQ6jbJ2h7RDkIBwntIijw=="
         }
       },
       "is_incremental": false,
@@ -1413,7 +1413,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.UnitExtensions.html",
-          "hash": "zyS8rG1tbJIpyCtIgdlIhQ=="
+          "hash": "ejBtXqdVTwo/LSiJh2Ukjg=="
         }
       },
       "is_incremental": false,
@@ -1425,7 +1425,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.Extensions.html",
-          "hash": "UHIENAMOrmwBkxFMhFAq7w=="
+          "hash": "cfXumu2VYqghFD6Q2Ovtgg=="
         }
       },
       "is_incremental": false,
@@ -1449,7 +1449,7 @@
       "output": {
         ".html": {
           "relative_path": "api-macroTools/MacroTools.FactionSystem.Faction.html",
-          "hash": "GWcDdDiGzHo3fMzWvOXykQ=="
+          "hash": "fwbpOxmJXQw2kDiPQzfEpA=="
         }
       },
       "is_incremental": false,
@@ -4737,7 +4737,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.CinematicMode.html",
-          "hash": "xEhmzBbr9Ms4jmDIsGBmPQ=="
+          "hash": "kn+BVlitPujealS1S3gG+Q=="
         }
       },
       "is_incremental": false,
@@ -4769,11 +4769,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.yml",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.DisplayIntroText.yml",
       "output": {
         ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.html",
-          "hash": "SFKy5YMv8NiK/T2SeaB/FQ=="
+          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.DisplayIntroText.html",
+          "hash": "KhtPCd8Y7Jy/rPu9YDBZxw=="
         }
       },
       "is_incremental": false,
@@ -4781,11 +4781,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.DisplayIntroText.yml",
+      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.yml",
       "output": {
         ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.DisplayIntroText.html",
-          "hash": "KhtPCd8Y7Jy/rPu9YDBZxw=="
+          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.html",
+          "hash": "AeE8G8jV1bcgpddXa5GHsQ=="
         }
       },
       "is_incremental": false,
@@ -4841,18 +4841,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.GameSetupDialogue.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.GameSetupDialogue.html",
-          "hash": "06kuIR+NHZjMUosz8Zhf4A=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.HeroGlowFix.yml",
       "output": {
         ".html": {
@@ -4865,35 +4853,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.html",
-          "hash": "23U0vnHRqnD5xj18C2Z0PA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.InfoQuests.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.InfoQuests.html",
           "hash": "vTdShqbxZaQ6TkEtOFinJg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.html",
-          "hash": "d0bAJaGfrQsSpDLiof2WvA=="
         }
       },
       "is_incremental": false,
@@ -4997,23 +4961,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html",
-          "hash": "XlmqATnamFilOrMXdrjb4w=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.GameLogic.yml",
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.GameLogic.html",
-          "hash": "L3tfwnWLZrrLAyhX02Z+8w=="
+          "hash": "rMGKnc1daKpO3zZLAcBBuA=="
         }
       },
       "is_incremental": false,
@@ -8109,7 +8061,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.DalaranSetup.html",
-          "hash": "0g26EIj+6Z39La6FJwdjAA=="
+          "hash": "OmBIuu8yRl1b6hsiH/SPqw=="
         }
       },
       "is_incremental": false,
@@ -8181,7 +8133,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.ForsakenSetup.html",
-          "hash": "M12O8lq4grNtgHDx+vHvew=="
+          "hash": "t4S3MT1lpi6LVH3J3yF/CQ=="
         }
       },
       "is_incremental": false,
@@ -8205,7 +8157,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.GilneasSetup.html",
-          "hash": "aMesh+icsF1N1v18jOLf9w=="
+          "hash": "QEvHZR5dt4MMId72l/+Ytw=="
         }
       },
       "is_incremental": false,
@@ -8217,7 +8169,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.GoblinSetup.html",
-          "hash": "9GWDkyleLIB1sDVv0krPaA=="
+          "hash": "DSt0TPGBFvyWcgfGxhofog=="
         }
       },
       "is_incremental": false,
@@ -8241,7 +8193,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.IllidariSetup.html",
-          "hash": "rSK5WgUDoAkzDLTvk9LbRQ=="
+          "hash": "FY2Tn3kkRYFz6BIXckXO1w=="
         }
       },
       "is_incremental": false,
@@ -8277,7 +8229,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.LegionSetup.html",
-          "hash": "rZ+ETxK/AiNBJxSDE8nSDA=="
+          "hash": "J2JJBi26FSkS08GNOeO2xA=="
         }
       },
       "is_incremental": false,
@@ -8373,7 +8325,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.SunfurySetup.html",
-          "hash": "vhpw4+XerktF22cyHaRdzA=="
+          "hash": "mQ3ZU0o00Ne7deB1h7MJCA=="
         }
       },
       "is_incremental": false,
@@ -8409,7 +8361,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.ZandalarSetup.html",
-          "hash": "Gch1C++hOCMgsLnD2vJb/g=="
+          "hash": "kblS/S+emunS5v7RmC//uA=="
         }
       },
       "is_incremental": false,
@@ -8445,7 +8397,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.GameSetup.html",
-          "hash": "gAg4B8fg1JDHZdRz6+DnYQ=="
+          "hash": "3F+4j617bZlAebU3G1kZKw=="
         }
       },
       "is_incremental": false,
@@ -9585,7 +9537,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "GEvEJNmzOBJ6UoQ2XuWMwQ=="
+          "hash": "m5OV2g29d/SH/qIAxFHFXQ=="
         }
       },
       "is_incremental": false,
@@ -9660,7 +9612,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 797,
+          "total_file_count": 793,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

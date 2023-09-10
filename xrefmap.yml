@@ -7267,15 +7267,15 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.PlayerExtensions.QueueDialogue
   nameWithType: PlayerExtensions.QueueDialogue
-- uid: MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable{player},List{unit},System.Boolean)
-  name: RescueGroup(Nullable<player>, List<unit>, Boolean)
-  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_RescueGroup_System_Nullable_player__List_unit__System_Boolean_
-  commentId: M:MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable{player},List{unit},System.Boolean)
-  name.vb: RescueGroup(Nullable(Of player), List(Of unit), Boolean)
-  fullName: MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable<player>, List<unit>, System.Boolean)
-  fullName.vb: MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable(Of player), List(Of unit), System.Boolean)
-  nameWithType: PlayerExtensions.RescueGroup(Nullable<player>, List<unit>, Boolean)
-  nameWithType.vb: PlayerExtensions.RescueGroup(Nullable(Of player), List(Of unit), Boolean)
+- uid: MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable{player},List{unit})
+  name: RescueGroup(Nullable<player>, List<unit>)
+  href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_RescueGroup_System_Nullable_player__List_unit__
+  commentId: M:MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable{player},List{unit})
+  name.vb: RescueGroup(Nullable(Of player), List(Of unit))
+  fullName: MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable<player>, List<unit>)
+  fullName.vb: MacroTools.Extensions.PlayerExtensions.RescueGroup(System.Nullable(Of player), List(Of unit))
+  nameWithType: PlayerExtensions.RescueGroup(Nullable<player>, List<unit>)
+  nameWithType.vb: PlayerExtensions.RescueGroup(Nullable(Of player), List(Of unit))
 - uid: MacroTools.Extensions.PlayerExtensions.RescueGroup*
   name: RescueGroup
   href: api-macroTools/MacroTools.Extensions.PlayerExtensions.html#MacroTools_Extensions_PlayerExtensions_RescueGroup_
@@ -8331,19 +8331,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.OwningPlayer
   nameWithType: UnitExtensions.OwningPlayer
-- uid: MacroTools.Extensions.UnitExtensions.Pause(unit,System.Boolean)
-  name: Pause(unit, Boolean)
-  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_Pause_unit_System_Boolean_
-  commentId: M:MacroTools.Extensions.UnitExtensions.Pause(unit,System.Boolean)
-  fullName: MacroTools.Extensions.UnitExtensions.Pause(unit, System.Boolean)
-  nameWithType: UnitExtensions.Pause(unit, Boolean)
-- uid: MacroTools.Extensions.UnitExtensions.Pause*
-  name: Pause
-  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_Pause_
-  commentId: Overload:MacroTools.Extensions.UnitExtensions.Pause
-  isSpec: "True"
-  fullName: MacroTools.Extensions.UnitExtensions.Pause
-  nameWithType: UnitExtensions.Pause
 - uid: MacroTools.Extensions.UnitExtensions.PauseEx(unit,System.Boolean)
   name: PauseEx(unit, Boolean)
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_PauseEx_unit_System_Boolean_
@@ -8412,12 +8399,12 @@ references:
   isSpec: "True"
   fullName: MacroTools.Extensions.UnitExtensions.RemoveAllAbilities
   nameWithType: UnitExtensions.RemoveAllAbilities
-- uid: MacroTools.Extensions.UnitExtensions.Rescue(unit,player,System.Boolean)
-  name: Rescue(unit, player, Boolean)
-  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_Rescue_unit_player_System_Boolean_
-  commentId: M:MacroTools.Extensions.UnitExtensions.Rescue(unit,player,System.Boolean)
-  fullName: MacroTools.Extensions.UnitExtensions.Rescue(unit, player, System.Boolean)
-  nameWithType: UnitExtensions.Rescue(unit, player, Boolean)
+- uid: MacroTools.Extensions.UnitExtensions.Rescue(unit,player)
+  name: Rescue(unit, player)
+  href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_Rescue_unit_player_
+  commentId: M:MacroTools.Extensions.UnitExtensions.Rescue(unit,player)
+  fullName: MacroTools.Extensions.UnitExtensions.Rescue(unit, player)
+  nameWithType: UnitExtensions.Rescue(unit, player)
 - uid: MacroTools.Extensions.UnitExtensions.Rescue*
   name: Rescue
   href: api-macroTools/MacroTools.Extensions.UnitExtensions.html#MacroTools_Extensions_UnitExtensions_Rescue_
@@ -9501,6 +9488,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Faction.SetObjectLimit
   nameWithType: Faction.SetObjectLimit
+- uid: MacroTools.FactionSystem.Faction.StartingCameraPosition
+  name: StartingCameraPosition
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_StartingCameraPosition
+  commentId: P:MacroTools.FactionSystem.Faction.StartingCameraPosition
+  fullName: MacroTools.FactionSystem.Faction.StartingCameraPosition
+  nameWithType: Faction.StartingCameraPosition
+- uid: MacroTools.FactionSystem.Faction.StartingCameraPosition*
+  name: StartingCameraPosition
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_StartingCameraPosition_
+  commentId: Overload:MacroTools.FactionSystem.Faction.StartingCameraPosition
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Faction.StartingCameraPosition
+  nameWithType: Faction.StartingCameraPosition
 - uid: MacroTools.FactionSystem.Faction.StartingGold
   name: StartingGold
   href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_StartingGold
@@ -9540,6 +9540,19 @@ references:
   isSpec: "True"
   fullName: MacroTools.FactionSystem.Faction.StartingQuest
   nameWithType: Faction.StartingQuest
+- uid: MacroTools.FactionSystem.Faction.StartingUnits
+  name: StartingUnits
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_StartingUnits
+  commentId: P:MacroTools.FactionSystem.Faction.StartingUnits
+  fullName: MacroTools.FactionSystem.Faction.StartingUnits
+  nameWithType: Faction.StartingUnits
+- uid: MacroTools.FactionSystem.Faction.StartingUnits*
+  name: StartingUnits
+  href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_StartingUnits_
+  commentId: Overload:MacroTools.FactionSystem.Faction.StartingUnits
+  isSpec: "True"
+  fullName: MacroTools.FactionSystem.Faction.StartingUnits
+  nameWithType: Faction.StartingUnits
 - uid: MacroTools.FactionSystem.Faction.StatusChanged
   name: StatusChanged
   href: api-macroTools/MacroTools.FactionSystem.Faction.html#MacroTools_FactionSystem_Faction_StatusChanged
@@ -22461,25 +22474,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.CleanPersons.Setup
   nameWithType: CleanPersons.Setup
-- uid: WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue
-  name: DalaGilneasChoiceDialogue
-  href: api-source/WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.html
-  commentId: T:WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue
-  fullName: WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue
-  nameWithType: DalaGilneasChoiceDialogue
-- uid: WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_DalaGilneasChoiceDialogue_Setup
-  commentId: M:WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.Setup
-  fullName: WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.Setup()
-  nameWithType: DalaGilneasChoiceDialogue.Setup()
-- uid: WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_DalaGilneasChoiceDialogue_Setup_
-  commentId: Overload:WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.GameLogic.DalaGilneasChoiceDialogue.Setup
-  nameWithType: DalaGilneasChoiceDialogue.Setup
 - uid: WarcraftLegacies.Source.GameLogic.DisplayIntroText
   name: DisplayIntroText
   href: api-source/WarcraftLegacies.Source.GameLogic.DisplayIntroText.html
@@ -22525,6 +22519,41 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.DisplayIntroText.StartTimer
   nameWithType: DisplayIntroText.StartTimer
+- uid: WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter
+  name: FactionChoiceDialogPresenter
+  href: api-source/WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.html
+  commentId: T:WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter
+  fullName: WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter
+  nameWithType: FactionChoiceDialogPresenter
+- uid: WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.#ctor(MacroTools.FactionSystem.Faction[])
+  name: FactionChoiceDialogPresenter(Faction[])
+  href: api-source/WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.html#WarcraftLegacies_Source_GameLogic_FactionChoiceDialogPresenter__ctor_MacroTools_FactionSystem_Faction___
+  commentId: M:WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.#ctor(MacroTools.FactionSystem.Faction[])
+  name.vb: FactionChoiceDialogPresenter(Faction())
+  fullName: WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.FactionChoiceDialogPresenter(MacroTools.FactionSystem.Faction[])
+  fullName.vb: WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.FactionChoiceDialogPresenter(MacroTools.FactionSystem.Faction())
+  nameWithType: FactionChoiceDialogPresenter.FactionChoiceDialogPresenter(Faction[])
+  nameWithType.vb: FactionChoiceDialogPresenter.FactionChoiceDialogPresenter(Faction())
+- uid: WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.#ctor*
+  name: FactionChoiceDialogPresenter
+  href: api-source/WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.html#WarcraftLegacies_Source_GameLogic_FactionChoiceDialogPresenter__ctor_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.#ctor
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.FactionChoiceDialogPresenter
+  nameWithType: FactionChoiceDialogPresenter.FactionChoiceDialogPresenter
+- uid: WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.Run(player)
+  name: Run(player)
+  href: api-source/WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.html#WarcraftLegacies_Source_GameLogic_FactionChoiceDialogPresenter_Run_player_
+  commentId: M:WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.Run(player)
+  fullName: WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.Run(player)
+  nameWithType: FactionChoiceDialogPresenter.Run(player)
+- uid: WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.Run*
+  name: Run
+  href: api-source/WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.html#WarcraftLegacies_Source_GameLogic_FactionChoiceDialogPresenter_Run_
+  commentId: Overload:WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.Run
+  isSpec: "True"
+  fullName: WarcraftLegacies.Source.GameLogic.FactionChoiceDialogPresenter.Run
+  nameWithType: FactionChoiceDialogPresenter.Run
 - uid: WarcraftLegacies.Source.GameLogic.GameEnd
   name: WarcraftLegacies.Source.GameLogic.GameEnd
   href: api-source/WarcraftLegacies.Source.GameLogic.GameEnd.html
@@ -22600,51 +22629,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.GameSettings.Setup
   nameWithType: GameSettings.Setup
-- uid: WarcraftLegacies.Source.GameLogic.GameSetupDialogue
-  name: GameSetupDialogue
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameSetupDialogue.html
-  commentId: T:WarcraftLegacies.Source.GameLogic.GameSetupDialogue
-  fullName: WarcraftLegacies.Source.GameLogic.GameSetupDialogue
-  nameWithType: GameSetupDialogue
-- uid: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.#ctor(System.Single)
-  name: GameSetupDialogue(Single)
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameSetupDialogue.html#WarcraftLegacies_Source_GameLogic_GameSetupDialogue__ctor_System_Single_
-  commentId: M:WarcraftLegacies.Source.GameLogic.GameSetupDialogue.#ctor(System.Single)
-  fullName: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.GameSetupDialogue(System.Single)
-  nameWithType: GameSetupDialogue.GameSetupDialogue(Single)
-- uid: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.#ctor*
-  name: GameSetupDialogue
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameSetupDialogue.html#WarcraftLegacies_Source_GameLogic_GameSetupDialogue__ctor_
-  commentId: Overload:WarcraftLegacies.Source.GameLogic.GameSetupDialogue.#ctor
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.GameSetupDialogue
-  nameWithType: GameSetupDialogue.GameSetupDialogue
-- uid: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.OnTimerEnds
-  name: OnTimerEnds
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameSetupDialogue.html#WarcraftLegacies_Source_GameLogic_GameSetupDialogue_OnTimerEnds
-  commentId: P:WarcraftLegacies.Source.GameLogic.GameSetupDialogue.OnTimerEnds
-  fullName: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.OnTimerEnds
-  nameWithType: GameSetupDialogue.OnTimerEnds
-- uid: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.OnTimerEnds*
-  name: OnTimerEnds
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameSetupDialogue.html#WarcraftLegacies_Source_GameLogic_GameSetupDialogue_OnTimerEnds_
-  commentId: Overload:WarcraftLegacies.Source.GameLogic.GameSetupDialogue.OnTimerEnds
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.OnTimerEnds
-  nameWithType: GameSetupDialogue.OnTimerEnds
-- uid: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.StartTimer
-  name: StartTimer()
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameSetupDialogue.html#WarcraftLegacies_Source_GameLogic_GameSetupDialogue_StartTimer
-  commentId: M:WarcraftLegacies.Source.GameLogic.GameSetupDialogue.StartTimer
-  fullName: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.StartTimer()
-  nameWithType: GameSetupDialogue.StartTimer()
-- uid: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.StartTimer*
-  name: StartTimer
-  href: api-source/WarcraftLegacies.Source.GameLogic.GameSetupDialogue.html#WarcraftLegacies_Source_GameLogic_GameSetupDialogue_StartTimer_
-  commentId: Overload:WarcraftLegacies.Source.GameLogic.GameSetupDialogue.StartTimer
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.GameLogic.GameSetupDialogue.StartTimer
-  nameWithType: GameSetupDialogue.StartTimer
 - uid: WarcraftLegacies.Source.GameLogic.HeroGlowFix
   name: HeroGlowFix
   href: api-source/WarcraftLegacies.Source.GameLogic.HeroGlowFix.html
@@ -22664,25 +22648,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.HeroGlowFix.Setup
   nameWithType: HeroGlowFix.Setup
-- uid: WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue
-  name: IllidariSunfuryChoiceDialogue
-  href: api-source/WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.html
-  commentId: T:WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue
-  fullName: WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue
-  nameWithType: IllidariSunfuryChoiceDialogue
-- uid: WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_IllidariSunfuryChoiceDialogue_Setup
-  commentId: M:WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.Setup
-  fullName: WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.Setup()
-  nameWithType: IllidariSunfuryChoiceDialogue.Setup()
-- uid: WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_IllidariSunfuryChoiceDialogue_Setup_
-  commentId: Overload:WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.GameLogic.IllidariSunfuryChoiceDialogue.Setup
-  nameWithType: IllidariSunfuryChoiceDialogue.Setup
 - uid: WarcraftLegacies.Source.GameLogic.InfoQuests
   name: InfoQuests
   href: api-source/WarcraftLegacies.Source.GameLogic.InfoQuests.html
@@ -22702,25 +22667,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.InfoQuests.Setup
   nameWithType: InfoQuests.Setup
-- uid: WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue
-  name: LegionForsakenChoiceDialogue
-  href: api-source/WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.html
-  commentId: T:WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue
-  fullName: WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue
-  nameWithType: LegionForsakenChoiceDialogue
-- uid: WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_LegionForsakenChoiceDialogue_Setup
-  commentId: M:WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.Setup
-  fullName: WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.Setup()
-  nameWithType: LegionForsakenChoiceDialogue.Setup()
-- uid: WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_LegionForsakenChoiceDialogue_Setup_
-  commentId: Overload:WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.GameLogic.LegionForsakenChoiceDialogue.Setup
-  nameWithType: LegionForsakenChoiceDialogue.Setup
 - uid: WarcraftLegacies.Source.GameLogic.OpenAllianceVote
   name: OpenAllianceVote
   href: api-source/WarcraftLegacies.Source.GameLogic.OpenAllianceVote.html
@@ -22889,25 +22835,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.GameLogic.TagSummonedUnits.Setup
   nameWithType: TagSummonedUnits.Setup
-- uid: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue
-  name: ZandalarGoblinChoiceDialogue
-  href: api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html
-  commentId: T:WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue
-  fullName: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue
-  nameWithType: ZandalarGoblinChoiceDialogue
-- uid: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.Setup
-  name: Setup()
-  href: api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_ZandalarGoblinChoiceDialogue_Setup
-  commentId: M:WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.Setup
-  fullName: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.Setup()
-  nameWithType: ZandalarGoblinChoiceDialogue.Setup()
-- uid: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.Setup*
-  name: Setup
-  href: api-source/WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.html#WarcraftLegacies_Source_GameLogic_ZandalarGoblinChoiceDialogue_Setup_
-  commentId: Overload:WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.Setup
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.GameLogic.ZandalarGoblinChoiceDialogue.Setup
-  nameWithType: ZandalarGoblinChoiceDialogue.Setup
 - uid: WarcraftLegacies.Source.Mechanics.Druids
   name: WarcraftLegacies.Source.Mechanics.Druids
   href: api-source/WarcraftLegacies.Source.Mechanics.Druids.html
