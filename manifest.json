@@ -5897,90 +5897,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestReanimateSylvanas.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestReanimateSylvanas.html",
-          "hash": "+TdJAgdzpkkju8XLA7Z1sg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestRetakeSunwell.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestRetakeSunwell.html",
-          "hash": "7iThzt5AS4heHUqanICDlA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestScholomanceBuild.html",
-          "hash": "o24M2gebLYBodEmwQSpeFw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestTakeRevenge.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestTakeRevenge.html",
-          "hash": "RfEOTI0GfF4/YOQ3I11EWg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestTheNine.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestTheNine.html",
-          "hash": "P8XjOVKs96Esbt9hokPmAg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestThePlaguelands.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.QuestThePlaguelands.html",
-          "hash": "ECxCBpBBXTkAkkt7yH+2Tw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Quests.Forsaken.html",
-          "hash": "WYjMSS6tdaAAGsS/D6CMHA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Quests.Frostwolf.QuestDarkspear.yml",
       "output": {
         ".html": {
@@ -8157,7 +8073,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html",
-          "hash": "VJKfmS2KPfw3WYI8jX1fDQ=="
+          "hash": "AF/Bw2h14FTIteWrTVsmLA=="
         }
       },
       "is_incremental": false,
@@ -8170,18 +8086,6 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.FelHordeSetup.html",
           "hash": "AJvJukIay/fw9Up93gxevQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.ForsakenSetup.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.ForsakenSetup.html",
-          "hash": "t4S3MT1lpi6LVH3J3yF/CQ=="
         }
       },
       "is_incremental": false,
@@ -8421,7 +8325,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.html",
-          "hash": "jqF9PaS4ho+BpfuaxGiJ1A=="
+          "hash": "w4+IVDM4HIvZZDNLLERhtg=="
         }
       },
       "is_incremental": false,
@@ -8578,18 +8482,6 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendFelHorde.html",
           "hash": "W76Kxrca1IVqTU5RoQWIrQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendForsaken.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.LegendForsaken.html",
-          "hash": "u+mlPEEU0NwAieKGIMb7ZQ=="
         }
       },
       "is_incremental": false,
@@ -8805,7 +8697,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.Legends.html",
-          "hash": "E5dTlHoSMyKlAy6WeF4syA=="
+          "hash": "1pW7tMv/q8o9f8GUd/lAOA=="
         }
       },
       "is_incremental": false,
@@ -8902,18 +8794,6 @@
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.FelHordeQuestSetup.html",
           "hash": "8+MufgUHfoKB6OQX7f6mSw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.ForsakenQuestSetup.html",
-          "hash": "IaOMb6JuN/dTrkoeZevCIQ=="
         }
       },
       "is_incremental": false,
@@ -9117,7 +8997,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.QuestSetup.html",
-          "hash": "YksgwQJa8BcJS34KBm7oPg=="
+          "hash": "WuFNCgDcyBLW4agj3/rIzA=="
         }
       },
       "is_incremental": false,
@@ -9453,7 +9333,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.TeamSetup.html",
-          "hash": "+Pr7zjB2ueWKPdNt7XIkAQ=="
+          "hash": "hFNRh+kt9eSWTM6yBpe1hg=="
         }
       },
       "is_incremental": false,
@@ -9585,7 +9465,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "clGKKQsSikoDCfNq9861mQ=="
+          "hash": "jz1pc18NNfdJpxcRCEEDpw=="
         }
       },
       "is_incremental": false,
@@ -9660,7 +9540,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 797,
+          "total_file_count": 787,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
