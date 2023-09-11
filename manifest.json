@@ -6981,7 +6981,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Quests.Scourge.QuestPlague.html",
-          "hash": "DYOoXSJPLSdvuiOSl1h2dw=="
+          "hash": "gU38zG5SOlcfurxeynVreA=="
         }
       },
       "is_incremental": false,
@@ -8069,18 +8069,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.FactionNames.html",
-          "hash": "AF/Bw2h14FTIteWrTVsmLA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.FelHordeSetup.yml",
       "output": {
         ".html": {
@@ -8325,7 +8313,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/WarcraftLegacies.Source.Setup.FactionSetup.html",
-          "hash": "w4+IVDM4HIvZZDNLLERhtg=="
+          "hash": "2w3QTX6CzwD73Y9I11lbiw=="
         }
       },
       "is_incremental": false,
@@ -9465,7 +9453,7 @@
       "output": {
         ".html": {
           "relative_path": "api-source/toc.html",
-          "hash": "jz1pc18NNfdJpxcRCEEDpw=="
+          "hash": "sK6sIDMkN7sVMwloBJK4kw=="
         }
       },
       "is_incremental": false,
@@ -9540,7 +9528,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 787,
+          "total_file_count": 786,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

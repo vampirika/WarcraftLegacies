@@ -113,20 +113,20 @@
   </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Quests_Scourge_QuestPlague__ctor_WarcraftLegacies_Source_Quests_Scourge_PlagueParameters_MacroTools_PreplacedUnitSystem_MacroTools_FactionSystem_Faction_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Quests.Scourge.QuestPlague.%23ctor(WarcraftLegacies.Source.Quests.Scourge.PlagueParameters%2CMacroTools.PreplacedUnitSystem%2CMacroTools.FactionSystem.Faction)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Quests_Scourge_QuestPlague__ctor_WarcraftLegacies_Source_Quests_Scourge_PlagueParameters_MacroTools_PreplacedUnitSystem_MacroTools_FactionSystem_Faction_MacroTools_FactionSystem_Faction_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Quests.Scourge.QuestPlague.%23ctor(WarcraftLegacies.Source.Quests.Scourge.PlagueParameters%2CMacroTools.PreplacedUnitSystem%2CMacroTools.FactionSystem.Faction%2CMacroTools.FactionSystem.Faction)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Scourge/QuestPlague.cs/#L47">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Scourge/QuestPlague.cs/#L43">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Quests_Scourge_QuestPlague__ctor_" data-uid="WarcraftLegacies.Source.Quests.Scourge.QuestPlague.#ctor*"></a>
-  <h4 id="WarcraftLegacies_Source_Quests_Scourge_QuestPlague__ctor_WarcraftLegacies_Source_Quests_Scourge_PlagueParameters_MacroTools_PreplacedUnitSystem_MacroTools_FactionSystem_Faction_" data-uid="WarcraftLegacies.Source.Quests.Scourge.QuestPlague.#ctor(WarcraftLegacies.Source.Quests.Scourge.PlagueParameters,MacroTools.PreplacedUnitSystem,MacroTools.FactionSystem.Faction)">QuestPlague(PlagueParameters, PreplacedUnitSystem, Faction)</h4>
+  <h4 id="WarcraftLegacies_Source_Quests_Scourge_QuestPlague__ctor_WarcraftLegacies_Source_Quests_Scourge_PlagueParameters_MacroTools_PreplacedUnitSystem_MacroTools_FactionSystem_Faction_MacroTools_FactionSystem_Faction_" data-uid="WarcraftLegacies.Source.Quests.Scourge.QuestPlague.#ctor(WarcraftLegacies.Source.Quests.Scourge.PlagueParameters,MacroTools.PreplacedUnitSystem,MacroTools.FactionSystem.Faction,MacroTools.FactionSystem.Faction)">QuestPlague(PlagueParameters, PreplacedUnitSystem, Faction, Faction)</h4>
   <div class="markdown level1 summary"><p>When completed, the quest holder initiates the Plague, creating Plague Cauldrons around Lordaeron
 and converting villagers into Zombies.</p>
 </div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public QuestPlague(PlagueParameters plagueParameters, PreplacedUnitSystem preplacedUnitSystem, Faction plagueVictim)</code></pre>
+    <pre><code class="lang-csharp hljs">public QuestPlague(PlagueParameters plagueParameters, PreplacedUnitSystem preplacedUnitSystem, Faction plagueVictim, Faction secondaryPlagueFaction)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-striped table-condensed">
@@ -156,6 +156,12 @@ and converting villagers into Zombies.</p>
         <td><p>The faction that the plague will primarily affect.</p>
 </td>
       </tr>
+      <tr>
+        <td><a class="xref" href="../api-macroTools/MacroTools.FactionSystem.Faction.html">Faction</a></td>
+        <td><span class="parametername">secondaryPlagueFaction</span></td>
+        <td><p>The faction that will gain some of the fringe benefits of the plague.</p>
+</td>
+      </tr>
     </tbody>
   </table>
   <h3 id="properties">Properties
@@ -165,7 +171,7 @@ and converting villagers into Zombies.</p>
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Quests_Scourge_QuestPlague_RewardDescription.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Quests.Scourge.QuestPlague.RewardDescription%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Scourge/QuestPlague.cs/#L80">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Scourge/QuestPlague.cs/#L74">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Quests_Scourge_QuestPlague_RewardDescription_" data-uid="WarcraftLegacies.Source.Quests.Scourge.QuestPlague.RewardDescription*"></a>
   <h4 id="WarcraftLegacies_Source_Quests_Scourge_QuestPlague_RewardDescription" data-uid="WarcraftLegacies.Source.Quests.Scourge.QuestPlague.RewardDescription">RewardDescription</h4>
@@ -197,7 +203,7 @@ and converting villagers into Zombies.</p>
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Quests_Scourge_QuestPlague_RewardFlavour.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Quests.Scourge.QuestPlague.RewardFlavour%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Scourge/QuestPlague.cs/#L76">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Scourge/QuestPlague.cs/#L70">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Quests_Scourge_QuestPlague_RewardFlavour_" data-uid="WarcraftLegacies.Source.Quests.Scourge.QuestPlague.RewardFlavour*"></a>
   <h4 id="WarcraftLegacies_Source_Quests_Scourge_QuestPlague_RewardFlavour" data-uid="WarcraftLegacies.Source.Quests.Scourge.QuestPlague.RewardFlavour">RewardFlavour</h4>
@@ -231,7 +237,7 @@ and converting villagers into Zombies.</p>
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Quests_Scourge_QuestPlague_OnAdd_MacroTools_FactionSystem_Faction_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Quests.Scourge.QuestPlague.OnAdd(MacroTools.FactionSystem.Faction)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Scourge/QuestPlague.cs/#L158">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Scourge/QuestPlague.cs/#L105">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Quests_Scourge_QuestPlague_OnAdd_" data-uid="WarcraftLegacies.Source.Quests.Scourge.QuestPlague.OnAdd*"></a>
   <h4 id="WarcraftLegacies_Source_Quests_Scourge_QuestPlague_OnAdd_MacroTools_FactionSystem_Faction_" data-uid="WarcraftLegacies.Source.Quests.Scourge.QuestPlague.OnAdd(MacroTools.FactionSystem.Faction)">OnAdd(Faction)</h4>
@@ -263,7 +269,7 @@ and converting villagers into Zombies.</p>
     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Quests_Scourge_QuestPlague_OnComplete_MacroTools_FactionSystem_Faction_.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Quests.Scourge.QuestPlague.OnComplete(MacroTools.FactionSystem.Faction)%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Improve this Doc</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Scourge/QuestPlague.cs/#L121">View Source</a>
+    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Scourge/QuestPlague.cs/#L78">View Source</a>
   </span>
   <a id="WarcraftLegacies_Source_Quests_Scourge_QuestPlague_OnComplete_" data-uid="WarcraftLegacies.Source.Quests.Scourge.QuestPlague.OnComplete*"></a>
   <h4 id="WarcraftLegacies_Source_Quests_Scourge_QuestPlague_OnComplete_MacroTools_FactionSystem_Faction_" data-uid="WarcraftLegacies.Source.Quests.Scourge.QuestPlague.OnComplete(MacroTools.FactionSystem.Faction)">OnComplete(Faction)</h4>
@@ -301,7 +307,7 @@ and converting villagers into Zombies.</p>
                     <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/new/main/apiSpec/new?filename=WarcraftLegacies_Source_Quests_Scourge_QuestPlague.md&amp;value=---%0Auid%3A%20WarcraftLegacies.Source.Quests.Scourge.QuestPlague%0Asummary%3A%20'*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax'%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Improve this Doc</a>
                   </li>
                   <li>
-                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Scourge/QuestPlague.cs/#L22" class="contribution-link">View Source</a>
+                    <a href="https://github.com/AzerothWarsLR/WarcraftLegacies/blob/main/src/WarcraftLegacies.Source/Quests/Scourge/QuestPlague.cs/#L20" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>
