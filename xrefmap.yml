@@ -30468,12 +30468,12 @@ references:
   commentId: T:WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge
   fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge
   nameWithType: QuestForgottenKnowledge
-- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.#ctor(Rectangle)
-  name: QuestForgottenKnowledge(Rectangle)
-  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestForgottenKnowledge__ctor_Rectangle_
-  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.#ctor(Rectangle)
-  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.QuestForgottenKnowledge(Rectangle)
-  nameWithType: QuestForgottenKnowledge.QuestForgottenKnowledge(Rectangle)
+- uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.#ctor
+  name: QuestForgottenKnowledge()
+  href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestForgottenKnowledge__ctor
+  commentId: M:WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.#ctor
+  fullName: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.QuestForgottenKnowledge()
+  nameWithType: QuestForgottenKnowledge.QuestForgottenKnowledge()
 - uid: WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.#ctor*
   name: QuestForgottenKnowledge
   href: api-source/WarcraftLegacies.Source.Quests.Quelthalas.QuestForgottenKnowledge.html#WarcraftLegacies_Source_Quests_Quelthalas_QuestForgottenKnowledge__ctor_
