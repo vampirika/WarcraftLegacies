@@ -33378,19 +33378,6 @@ references:
   isSpec: "True"
   fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.QuestSummonKil
   nameWithType: QuestSummonKil.QuestSummonKil
-- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.OnComplete(MacroTools.FactionSystem.Faction)
-  name: OnComplete(Faction)
-  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.html#WarcraftLegacies_Source_Quests_Sunfury_QuestSummonKil_OnComplete_MacroTools_FactionSystem_Faction_
-  commentId: M:WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.OnComplete(MacroTools.FactionSystem.Faction)
-  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.OnComplete(MacroTools.FactionSystem.Faction)
-  nameWithType: QuestSummonKil.OnComplete(Faction)
-- uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.OnComplete*
-  name: OnComplete
-  href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.html#WarcraftLegacies_Source_Quests_Sunfury_QuestSummonKil_OnComplete_
-  commentId: Overload:WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.OnComplete
-  isSpec: "True"
-  fullName: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.OnComplete
-  nameWithType: QuestSummonKil.OnComplete
 - uid: WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.RewardDescription
   name: RewardDescription
   href: api-source/WarcraftLegacies.Source.Quests.Sunfury.QuestSummonKil.html#WarcraftLegacies_Source_Quests_Sunfury_QuestSummonKil_RewardDescription
