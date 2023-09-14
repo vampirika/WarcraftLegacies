@@ -2255,19 +2255,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Channels.SiphoningRitualChannel.SiphoningRitualChannel
   nameWithType: SiphoningRitualChannel.SiphoningRitualChannel
-- uid: MacroTools.Channels.SiphoningRitualChannel.Active
-  name: Active
-  href: api-macroTools/MacroTools.Channels.SiphoningRitualChannel.html#MacroTools_Channels_SiphoningRitualChannel_Active
-  commentId: P:MacroTools.Channels.SiphoningRitualChannel.Active
-  fullName: MacroTools.Channels.SiphoningRitualChannel.Active
-  nameWithType: SiphoningRitualChannel.Active
-- uid: MacroTools.Channels.SiphoningRitualChannel.Active*
-  name: Active
-  href: api-macroTools/MacroTools.Channels.SiphoningRitualChannel.html#MacroTools_Channels_SiphoningRitualChannel_Active_
-  commentId: Overload:MacroTools.Channels.SiphoningRitualChannel.Active
-  isSpec: "True"
-  fullName: MacroTools.Channels.SiphoningRitualChannel.Active
-  nameWithType: SiphoningRitualChannel.Active
 - uid: MacroTools.Channels.SiphoningRitualChannel.LifeDrainedPerSecond
   name: LifeDrainedPerSecond
   href: api-macroTools/MacroTools.Channels.SiphoningRitualChannel.html#MacroTools_Channels_SiphoningRitualChannel_LifeDrainedPerSecond
@@ -2365,19 +2352,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Channels.SummonLegionChannel.SummonLegionChannel
   nameWithType: SummonLegionChannel.SummonLegionChannel
-- uid: MacroTools.Channels.SummonLegionChannel.Active
-  name: Active
-  href: api-macroTools/MacroTools.Channels.SummonLegionChannel.html#MacroTools_Channels_SummonLegionChannel_Active
-  commentId: P:MacroTools.Channels.SummonLegionChannel.Active
-  fullName: MacroTools.Channels.SummonLegionChannel.Active
-  nameWithType: SummonLegionChannel.Active
-- uid: MacroTools.Channels.SummonLegionChannel.Active*
-  name: Active
-  href: api-macroTools/MacroTools.Channels.SummonLegionChannel.html#MacroTools_Channels_SummonLegionChannel_Active_
-  commentId: Overload:MacroTools.Channels.SummonLegionChannel.Active
-  isSpec: "True"
-  fullName: MacroTools.Channels.SummonLegionChannel.Active
-  nameWithType: SummonLegionChannel.Active
 - uid: MacroTools.Channels.SummonLegionChannel.OnCreate
   name: OnCreate()
   href: api-macroTools/MacroTools.Channels.SummonLegionChannel.html#MacroTools_Channels_SummonLegionChannel_OnCreate
@@ -10992,19 +10966,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Hazards.OilPool.OilPool
   nameWithType: OilPool.OilPool
-- uid: MacroTools.Hazards.OilPool.Active
-  name: Active
-  href: api-macroTools/MacroTools.Hazards.OilPool.html#MacroTools_Hazards_OilPool_Active
-  commentId: P:MacroTools.Hazards.OilPool.Active
-  fullName: MacroTools.Hazards.OilPool.Active
-  nameWithType: OilPool.Active
-- uid: MacroTools.Hazards.OilPool.Active*
-  name: Active
-  href: api-macroTools/MacroTools.Hazards.OilPool.html#MacroTools_Hazards_OilPool_Active_
-  commentId: Overload:MacroTools.Hazards.OilPool.Active
-  isSpec: "True"
-  fullName: MacroTools.Hazards.OilPool.Active
-  nameWithType: OilPool.Active
 - uid: MacroTools.Hazards.OilPool.Disposed
   name: Disposed
   href: api-macroTools/MacroTools.Hazards.OilPool.html#MacroTools_Hazards_OilPool_Disposed
@@ -11069,19 +11030,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Hazards.RecurrentSpellHazard.RecurrentSpellHazard
   nameWithType: RecurrentSpellHazard.RecurrentSpellHazard
-- uid: MacroTools.Hazards.RecurrentSpellHazard.Active
-  name: Active
-  href: api-macroTools/MacroTools.Hazards.RecurrentSpellHazard.html#MacroTools_Hazards_RecurrentSpellHazard_Active
-  commentId: P:MacroTools.Hazards.RecurrentSpellHazard.Active
-  fullName: MacroTools.Hazards.RecurrentSpellHazard.Active
-  nameWithType: RecurrentSpellHazard.Active
-- uid: MacroTools.Hazards.RecurrentSpellHazard.Active*
-  name: Active
-  href: api-macroTools/MacroTools.Hazards.RecurrentSpellHazard.html#MacroTools_Hazards_RecurrentSpellHazard_Active_
-  commentId: Overload:MacroTools.Hazards.RecurrentSpellHazard.Active
-  isSpec: "True"
-  fullName: MacroTools.Hazards.RecurrentSpellHazard.Active
-  nameWithType: RecurrentSpellHazard.Active
 - uid: MacroTools.Hazards.RecurrentSpellHazard.OnCreate
   name: OnCreate()
   href: api-macroTools/MacroTools.Hazards.RecurrentSpellHazard.html#MacroTools_Hazards_RecurrentSpellHazard_OnCreate
@@ -11127,19 +11075,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Hazards.SolarJudgementHazard.SolarJudgementHazard
   nameWithType: SolarJudgementHazard.SolarJudgementHazard
-- uid: MacroTools.Hazards.SolarJudgementHazard.Active
-  name: Active
-  href: api-macroTools/MacroTools.Hazards.SolarJudgementHazard.html#MacroTools_Hazards_SolarJudgementHazard_Active
-  commentId: P:MacroTools.Hazards.SolarJudgementHazard.Active
-  fullName: MacroTools.Hazards.SolarJudgementHazard.Active
-  nameWithType: SolarJudgementHazard.Active
-- uid: MacroTools.Hazards.SolarJudgementHazard.Active*
-  name: Active
-  href: api-macroTools/MacroTools.Hazards.SolarJudgementHazard.html#MacroTools_Hazards_SolarJudgementHazard_Active_
-  commentId: Overload:MacroTools.Hazards.SolarJudgementHazard.Active
-  isSpec: "True"
-  fullName: MacroTools.Hazards.SolarJudgementHazard.Active
-  nameWithType: SolarJudgementHazard.Active
 - uid: MacroTools.Hazards.SolarJudgementHazard.BoltDamage
   name: BoltDamage
   href: api-macroTools/MacroTools.Hazards.SolarJudgementHazard.html#MacroTools_Hazards_SolarJudgementHazard_BoltDamage
@@ -18109,19 +18044,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Spells.ExactJustice.ExactJusticeChannel.ExactJusticeChannel
   nameWithType: ExactJusticeChannel.ExactJusticeChannel
-- uid: MacroTools.Spells.ExactJustice.ExactJusticeChannel.Active
-  name: Active
-  href: api-macroTools/MacroTools.Spells.ExactJustice.ExactJusticeChannel.html#MacroTools_Spells_ExactJustice_ExactJusticeChannel_Active
-  commentId: P:MacroTools.Spells.ExactJustice.ExactJusticeChannel.Active
-  fullName: MacroTools.Spells.ExactJustice.ExactJusticeChannel.Active
-  nameWithType: ExactJusticeChannel.Active
-- uid: MacroTools.Spells.ExactJustice.ExactJusticeChannel.Active*
-  name: Active
-  href: api-macroTools/MacroTools.Spells.ExactJustice.ExactJusticeChannel.html#MacroTools_Spells_ExactJustice_ExactJusticeChannel_Active_
-  commentId: Overload:MacroTools.Spells.ExactJustice.ExactJusticeChannel.Active
-  isSpec: "True"
-  fullName: MacroTools.Spells.ExactJustice.ExactJusticeChannel.Active
-  nameWithType: ExactJusticeChannel.Active
 - uid: MacroTools.Spells.ExactJustice.ExactJusticeChannel.EffectSettings
   name: EffectSettings
   href: api-macroTools/MacroTools.Spells.ExactJustice.ExactJusticeChannel.html#MacroTools_Spells_ExactJustice_ExactJusticeChannel_EffectSettings
@@ -19413,19 +19335,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.SlipstreamPortalChannel
   nameWithType: SlipstreamPortalChannel.SlipstreamPortalChannel
-- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.Active
-  name: Active
-  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_Active
-  commentId: P:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.Active
-  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.Active
-  nameWithType: SlipstreamPortalChannel.Active
-- uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.Active*
-  name: Active
-  href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_Active_
-  commentId: Overload:MacroTools.Spells.Slipstream.SlipstreamPortalChannel.Active
-  isSpec: "True"
-  fullName: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.Active
-  nameWithType: SlipstreamPortalChannel.Active
 - uid: MacroTools.Spells.Slipstream.SlipstreamPortalChannel.ClosingDelay
   name: ClosingDelay
   href: api-macroTools/MacroTools.Spells.Slipstream.SlipstreamPortalChannel.html#MacroTools_Spells_Slipstream_SlipstreamPortalChannel_ClosingDelay
@@ -21125,19 +21034,6 @@ references:
   isSpec: "True"
   fullName: MacroTools.SpellSystem.Hazard.Duration
   nameWithType: Hazard.Duration
-- uid: MacroTools.SpellSystem.Hazard.GetZ(System.Single,System.Single)
-  name: GetZ(Single, Single)
-  href: api-macroTools/MacroTools.SpellSystem.Hazard.html#MacroTools_SpellSystem_Hazard_GetZ_System_Single_System_Single_
-  commentId: M:MacroTools.SpellSystem.Hazard.GetZ(System.Single,System.Single)
-  fullName: MacroTools.SpellSystem.Hazard.GetZ(System.Single, System.Single)
-  nameWithType: Hazard.GetZ(Single, Single)
-- uid: MacroTools.SpellSystem.Hazard.GetZ*
-  name: GetZ
-  href: api-macroTools/MacroTools.SpellSystem.Hazard.html#MacroTools_SpellSystem_Hazard_GetZ_
-  commentId: Overload:MacroTools.SpellSystem.Hazard.GetZ
-  isSpec: "True"
-  fullName: MacroTools.SpellSystem.Hazard.GetZ
-  nameWithType: Hazard.GetZ
 - uid: MacroTools.SpellSystem.Hazard.Interval
   name: Interval
   href: api-macroTools/MacroTools.SpellSystem.Hazard.html#MacroTools_SpellSystem_Hazard_Interval
