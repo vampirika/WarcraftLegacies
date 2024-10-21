@@ -1,0 +1,19 @@
+{
+  "OldId": 1935951938,
+  "NewId": 825307202,
+  "Unk": [
+    0
+  ],
+  "Modifications": [
+    {
+      "Id": 1718840934,
+      "Type": 3,
+      "Value": "(Yogg)"
+    },
+    {
+      "Id": 1952543846,
+      "Type": 3,
+      "Value": "war3mapImported\\Dalaran Shield.mdl"
+    }
+  ]
+}
