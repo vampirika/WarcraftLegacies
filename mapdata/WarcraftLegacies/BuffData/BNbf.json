@@ -5,14 +5,14 @@
   ],
   "Modifications": [
     {
+      "Id": "ftat",
+      "Type": 3,
+      "Value": "Abilities\\Spells\\Other\\BreathOfFire\\BreathOfFireDamage.mdl"
+    },
+    {
       "Id": "fart",
       "Type": 3,
       "Value": "ReplaceableTextures\\CommandButtons\\BTNFire.blp"
-    },
-    {
-      "Id": "ftat",
-      "Type": 3,
-      "Value": ""
     }
   ]
 }

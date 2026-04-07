@@ -119,10 +119,6 @@
       "Value": "ReplaceableTextures\\CommandButtons\\BTNTheCaptain.blp"
     },
     {
-      "Id": "abpx",
-      "Value": 0
-    },
-    {
       "Id": "ansf",
       "Type": 3,
       "Value": "(Daelin)"
@@ -130,7 +126,7 @@
     {
       "Id": "ahky",
       "Type": 3,
-      "Value": "Q"
+      "Value": "E"
     },
     {
       "Id": "anam",
@@ -149,7 +145,7 @@
     {
       "Id": "arhk",
       "Type": 3,
-      "Value": "Q"
+      "Value": "E"
     },
     {
       "Id": "aret",
